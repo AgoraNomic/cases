@@ -1,0 +1,101 @@
+From owner-nomic-official@teleport.com  Thu Feb  8 05:42:09 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA29940 for <blahedo@quincy.edu>; Thu, 8 Feb 1996 05:42:08 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA13677; Thu, 8 Feb 1996 03:16:18 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Thu, 8 Feb 1996 03:16:17 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA13667 for nomic-official-outgoing; Thu, 8 Feb 1996 03:16:17 -0800
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA13659 for <nomic-official@teleport.com>; Thu, 8 Feb 1996 03:16:14 -0800
+Message-Id: <199602081116.DAA13659@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA07127; Thu, 8 Feb 1996 12:13:54 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: (non?)CFJ 852 Judgement: TRUE
+To: nomic-official@teleport.com
+Date: Thu, 8 Feb 96 12:13:54 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+
+----------------------------------------------------------------------
+
+TIA-disclaimer:
+
+This message has no legal force, and does not claim to contain any
+truth whatsoever in any Gamestate in which Morendil was not a Player 
+on 25 January.
+
+----------------------------------------------------------------------
+
+======================================================================
+
+			ASSIGNMENT CFJ 852
+
+Rule 1467 should be interpreted so that only the Mintor of a Currency 
+may destroy units of that Currency.
+
+======================================================================
+
+Judge:		Vlad (defaulted)
+		Wes
+Judgement:	TRUE
+
+Eligible:	dcuman, favor, Jtael, KoJen, Wes, Zefram
+
+Not Eligible:	
+Caller:		Morendil
+Barred:		Chuck, Kelly, Steve
+On Hold:	Blob, Dave Bowen, elJefe
+1005:		Andre, Michael, Murphy, Pascal, Swann, Vanyel
+Defaulted:	Vlad
+
+Effects:	Vlad gains 3 Blots for defaulting on Judgement
+		Vlad is not eligible to act as a Judge
+		Wes gains 3 Points for timely Judgement
+		Rule 1467 should be annotated with the Statement
+		  of this CFJ
+
+======================================================================
+
+History:
+  Called by Morendil, 25 January 1996, 08:56 +0100
+  Assigned to Vlad, 25 January 1996, 11:42 MET
+  Defaulted by Vlad, 1 February 1996, 11:42 MET
+  Assigned to Wes, 2 February 1996, 15:00 MET
+  Judged TRUE by Wes, 7 February 1996, 18:54 -0800 (PST)
+
+======================================================================
+
+Requested Injunction:
+I request an Injunction to annotate 1467 with this Statement.
+
+Relevant Rules : 1467, 1491.
+
+======================================================================
+
+Arguments :
+
+Another simple one. Rule 1467 states that "The Mintor of a Currency 
+is the Nomic Entity which is authorized to create and destroy units 
+of that Currency." Well, that's all, really. The Mintor is _the_ 
+Entity authorized to do that, so no other Entity may do so.
+
+For a more powerful argument, consider 1011 : the only specified
+action which results in creation or destruction of units of a 
+Currency is the intervention of the Mintor. So units of a Currency
+may *not* be changed by any action other than the intervention
+of the Mintor.
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+We hereby Judge this CFJ TRUE. 
+
+It is quite obvious that at this time, the Rules quite clearly state
+that only the Mintor of a Currency may create or destroy instances of
+that Currency. 
+
+If able to do so, we hereby grant the requested Injunction (Annotation
+of Rule 1467) and state that the affecting Rules are 1467 and 1471.

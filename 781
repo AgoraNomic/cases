@@ -1,0 +1,196 @@
+From nomic-official-owner@teleport.com Fri Jul  7 07:49:33 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id HAA00234 for <blahedo@quincy.edu>; Fri, 7 Jul 1995 07:45:55 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id EAA02691 for nomic-official-outgoing; Fri, 7 Jul 1995 04:00:17 -0700
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id DAA02618 for <nomic-official@teleport.com>; Fri, 7 Jul 1995 03:59:49 -0700
+Message-Id: <199507071059.DAA02618@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA25312; Fri, 7 Jul 1995 12:59:43 +0200
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 781: Correction
+To: nomic-official@teleport.com
+Date: Fri, 7 Jul 95 12:59:43 METDST
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+
+			JUDGEMENT OF CFJ 781 (CORRECTED)
+		("The correct interpretation of Rule 1466...")
+
+======================================================================
+
+Judge:		Michael (defaulted)
+		KoJen
+
+Judgement:	FALSE
+
+Caller:		Troublemaker At Large
+
+Eligible:	Andre, Chuck, Dave Bowen, elJefe, Ian, JonRock,
+		Kelly, KoJen, Steve, SugarWater, Swann, Vanyel, 
+		Xanadu, Zefram
+
+Not Eligible:	Troublemaker At Large (caller)
+		Blob (1005)
+		Coren, Pascal (1005 & On Hold)
+		Michael (defaulted)
+
+Effect:		Michael gains 3 Blots and is not eligible anymore
+		 as a Judge. BEWARE! The 10 Point loss given earlier
+		 does NOT apply.
+		KoJen gains 3 Points for timely Judgement.
+		Rule 1446 should be annotated as described in
+		the Judge's Injunction
+
+======================================================================
+
+History:
+  Called by TAL, June 22 1995, 13:16 SET
+  Assigned to Michael, June 23 1995, 09:00 UTC
+  Defaulted by Michael, June 30 1995, 09:00 UTC
+  Assigned to KoJen, June 30 1995, 15:50 UTC
+  Judged FALSE by KoJen, July 6 1995, 15:56 -0400
+
+======================================================================
+
+Statement:
+
+The correct interpretation of Rule 1466 implies that it does not
+limit the effect of a Currency Directive on adoption to only one
+moment in time.
+
+Requested injunction:
+
+I request that the Judge make an Injunction on the interpetation
+of Rule 1466, as described in Rule 789.  (Even though this request
+is not necessary for the Judge to make the Injunction.)
+
+======================================================================
+
+Decision & Injunction:
+
+My judgement on CFJ781 is FALSE.
+
+Injunction: Rule 1446 shall be annotated as follows:
+
+    This Rule should be interpeted such that a Currency Directive causes a
+    one-time change to a Treasury, in the same manner as in involuntary
+    transfer.
+
+======================================================================
+
+Arguments:
+
+According to 1446 a Currency Directive has the
+effect of specifying the Currency holdings contained in some
+Treasury. However, nowhere in the Rules it is said for how long
+the Currency Directive remains effective.
+
+1446 states only "if adopted", which excludes the CD from having
+any effect before the adoption of the Proposal containing the CD, but
+learns us nothing about the time of application, after adoption.
+
+The generic Rule on Directives 993, doesn't help either. In its first
+paragraph it uses exactly the same wording:
+
+"A Directive, if adopted, causes some change in the Game State other
+than changing a Rule."
+
+The second paragraph claims:
+"If a Proposal containing Directives is adopted, the Directives
+ shall take effect in the order that they appear in the Proposal"
+which changes the starting moment a little bit, but nothing more.
+
+In fact, none of the other Directives has an effectiveness that is
+limited to one specific moment in time.
+So why should the Currency Directive?
+
+======================================================================
+
+Reasoning of Judge:
+
+At first, I almost thought that TRUE *might* be a plausible ruling because of
+this phrase in Rule 1466:
+
+    If adopted, they have the effect of specifying the Currency holdings
+    contained in an Entity or Entities' Treasury or Treasuries.
+
+The word is "specify" rather than "set". "Specify" has connotations which *can*
+imply a lasting influence, contrasted with "set" which implies an action at a
+specific instant. Note that most other Directives do not create this ambiguity,
+because the action caused by most other Directives is described using a verb
+which, like "set", clearly implies an action applied at a specific instant.
+
+So Rule 1466, alone among all Directives, is ambiguous as to whether it implies
+a continuous effect (in this case, on a Currency, nullifying all other attempts
+to change the Currency).
+
+How do we handle this?
+
+Several ways.
+
+1) "Common sense". It is clearly a ludicrous interpretation that a Currency
+Directive can serve as a permanent impediment to any change to that Currency,
+even as amounts are added and removed to that treasury by voluntary and
+involuntary transfers. 
+
+Of course, common sense is used as a last resort in Agora, but I believe it was
+used in other recent judgements. (Who said, "if there are two interpretations,
+one of which leads to contradictions and ther other of which does not, use the
+one which does not"?) I believe that is applicable here.
+
+2) A perhaps more convincing way to solve the ambiguity, and justify the ruling
+of FALSE, is in Rule 993 itself. The second paragraph contains the sentence:
+
+      If a Proposal containing Directives is adopted, the Directives
+      shall take effect in the order that they appear in the Proposal,
+      and according to the Rule or Rule which define the type of each
+      Directive in question.
+
+The defining Rule for Directives clearly explains how to order multiple
+Directives which occur in a single Proposal. But if a Directive could cause a
+continuous action into the future, then such ordering would be unnecessary, and
+would not even make sense. Thus I am forced to conclude that Rule 993 clearly
+defines Directives to cause an action to occur at a specific instant in time
+only. 
+
+======================================================================
+
+References:
+
+Rule 1466/0 (Mutable, MI=1)
+Currency Directives
+
+      There is a type of Directive, called a Currency Directive.
+      These Directives have an Adoption Index of 2. If adopted, they
+      have the effect of specifying the Currency holdings contained
+      in an Entity or Entities' Treasury or Treasuries. They may have
+      no other effects.
+
+Rule 993/1 (Mutable, MI=1)
+Directives
+
+      A Proposal may contain one or more Directives.  A Directive, if
+      adopted, causes some change in the Game State other than
+      changing a Rule.  No Directive may change any Rule.  Only those
+      Directives which are defined by the Rules may be placed in a
+      Proposal.
+
+      If a Proposal containing Directives is adopted, the Directives
+      shall take effect in the order that they appear in the Proposal,
+      and according to the Rule or Rule which define the type of each
+      Directive in question.
+
+      The Adoption Index of a Proposal containing a Directive must be
+      at least as great as that required by the Rule or Rules which
+      define the type of Directive contained in the Proposal.  Any
+      Proposal for which this is not true is not properly made.
+
+
+======================================================================
+
+Andre

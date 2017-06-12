@@ -1,0 +1,77 @@
+======================================================================
+                               CFJ 891
+
+"Rule 1663 should be interpreted such that Player M would Win
+ by its Provisions due to Proposals 5000, 5001 and 5002 in this
+ hypothetical series of Proposals:
+
+    Proposal
+     Number      Proposer     FOR     AGAINST     ABSTAIN
+    -----------------------------------------------------
+      5000       Player M      3         4           2
+      5001       Player M      3         4           2
+      5002       Player M      3         4           2
+"
+
+======================================================================
+
+Judge:       Vanyel
+
+Judgement:   TRUE
+
+Eligible:    Blob, Chuck, Coren, elJefe, favor, KoJen, Michael,
+             Morendil, Steve, Swann, Vanyel, Zefram
+
+Not eligible:
+Caller:      Murphy
+Barred:      -
+On hold:     Andre, Oerjan
+
+======================================================================
+
+History:
+  Called by Murphy, Wed, 11 Dec 1996 23:36:51 -800
+  Assigned to Vanyel, Tue, 17 Dec 1996 10:09:26 +0000
+  Judged TRUE, Sat, 21 Dec 1996 16:31:55 -0600
+  Published, Sun, 29 Dec 1996 12:21:48 +0000
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+Either reading of rule 1663 is admissible, but game custom in the case
+of Morendil's proposals 2760-2762 (and his subsequent win) clearly
+favors the reading which yields a TRUE judgement.
+
+======================================================================
+
+(Caller's) Arguments:
+
+      This CFJ effectively asks whether R1663's "same number"
+      requires that each of the three Proposals in question receive
+      as many Votes FOR as AGAINST, and as many Votes AGAINST as
+      ABSTAIN; or if it is sufficient that each Proposal receive as
+      many Votes FOR as each of the other two, etc.
+
+      I have no idea what the intent of R1663's author was, and
+      I have deleted my records of the Vote count for the Proposals
+      involved in Morendil's recent Win by Rule 1663.  However,
+      since that effort was met with resistance, I consider it likely
+      that the Proposals in question did not each receive N FOR
+      Votes, N AGAINST Votes, and N ABSTAIN Votes.
+
+      The Vote count for those Proposals will either demonstrate that
+      R1663 has been interpreted as this Statement says it should be,
+      or will indicate nothing about the truth of this Statement.
+
+Evidence:
+
+Rule 1663/0:
+
+      A Player Wins the Game if three Proposals submitted by em in a
+      row receive exactly the same number of FOR, AGAINST and ABSTAIN
+      Votes. The Assessor is prohibited from Winning in this manner.
+
+======================================================================

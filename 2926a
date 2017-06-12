@@ -1,0 +1,186 @@
+============================  Appeal 2926a  ============================
+
+
+Panelist:                               G.
+Decision:                               AFFIRM
+
+
+Panelist:                               Murphy
+Decision:                               AFFIRM
+
+
+Panelist:                               Yally
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Appeal initiated:                       20 Dec 2010 03:46:23 GMT
+Assigned to G. (panelist):              20 Dec 2010 06:59:15 GMT
+Assigned to Murphy (panelist):          20 Dec 2010 06:59:15 GMT
+Assigned to Yally (panelist):           20 Dec 2010 06:59:15 GMT
+G. moves to AFFIRM:                     20 Dec 2010 18:16:28 GMT
+Yally moves to AFFIRM:                  23 Dec 2010 23:10:15 GMT
+Murphy moves to AFFIRM:                 02 Jan 2011 18:51:04 GMT
+Final decision (AFFIRM):                06 Jan 2011 00:00:00 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Sun, 2010-12-19 at 22:46 -0500, omd wrote:
+> On Sun, Dec 19, 2010 at 10:29 PM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+> > This, unfortunately for em, does not work, as there is no
+> > gamestate by which Rule 1551 would actually make that change. Agoran
+> > precedence has long held that no entity can set up a delayed effect of
+this
+> > form, so there is no reason that ratification would suddenly be able to do
+> > so.
+>
+> There is no delayed effect here.  The document is a sort of prophecy,
+> which states that something will happen in its future.  Looking at it
+> from the present, we can say the prophecy is true if Rule 1551 does
+> actually make the specified change at the time of ratification, false
+> if ratification has occurred but the change has not, and still
+> undetermined otherwise.  If the document does ever get ratified, Rule
+> 1551 will change the gamestate so that it is true, but in the mean
+> time, it is neither true nor false.
+This argument is mostly correct, and I think coppro erred in this. It
+doesn't mean you're innocent, though. You're making statements about
+ratification which are only correct under the old, broken version of the
+ratification rule; and with multiple fix proposals pending, including
+one you authored, making a general statement about the future, one which
+relies on a particular current wording of the rule to still hold if a
+particular statement is ever ratified in the future, is just logically
+false.
+
+> > I do not believe the reasonability defense applies here as there is no
+> > Agoran precedence
+>
+> precedent, but I think the above argument is reasonable even if the
+> court ends up disagreeing with it (although it's moot because the
+> document won't be ratified).
+>
+> > Accordingly, I judge this case GUILTY.
+>
+> Note also that, whether or not it was actually illegal, I have already
+> been punished for this particular action: I NoVed myself for violating
+> Rule 2215 (Truthiness), and closed the NoV.
+
+Making incorrect statements is one issue. Attempting to ratify them is
+another. I don't think they're the same crime, and indeed, you could be
+punished for both.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Sun, 2010-12-19 at 22:52 -0500, Sean Hunt wrote:
+> The problem is that there is no gamestate that, at the time of
+> publication, would cause Rule 1551 to mutate a rule a week later. Thus
+> the ratification fails.
+
+There doesn't have to be one, because ratification is currently broken;
+it looks for a present gamestate that makes a past statement true. This
+is generally impossible, but omd specifically crafted eir statement so
+that it would be possible. On the other hand, the statement is still
+incorrect, as it doesn't allow for the case of the statement in question
+being ratified some time after the ratification rules are amended.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+If one person had published a knowingly incorrect document and claimed
+it was true, and a different player had attempted to ratify it (also
+knowing it was incorrect), and the document itself was a statement about
+the effects of the Agoran ruleset, which (if either) would violate
+R2215? Which (if either) would violate R2202? To me, the only sane
+answer is that the first would violate R2215 but not R2202, and the
+second would violate R2202 but not R2215, because the two illegal
+actions are entirely separate. Presumably you have something else in
+mind?
+
+========================================================================
+
+Panelist G.'s Arguments:
+
+I think both the judge's opinion and the gratuitous arguments provided
+by ais523 in response to the defendant's appeal are generally reasonable.
+
+It's possible that this invalidates the self-applied "punishment" of the
+NoV, or that closing an NoV without judicial review (by choice) is a
+plea agreement with oneself (not Agora!) and thus not to be considered a
+punishment.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+I don't (especially since some of ais523's gratuitous arguments
+contradicted the judge's opinion)...
+
+ais523's opinion and mine differ mainly in that e thinks the statement
+in the document is subjunctive (if X, it is necessarily true that Y),
+while I think the document is indicative (it is not actually true that
+X and not Y).
+
+I always intended for it to be indicative, because the subjunctive
+version of the statement would be somewhat nonsensical / impossible,
+and might not work as expected to ratify.  I'm not entirely sure such
+a statement can actually be expressed in English... but I'm also not
+sure that it can't, as the analogy of a prophecy seems reasonable.  In
+any case, the wording of the document is awkward specifically because
+I wanted to avoid a subjunctive interpretation.
+
+Again, the test for GUILTY is not that the arguments against me are
+reasonable (sufficiently more reasonable than mine to be considered
+correct), but that my arguments are inherently unreasonable.
+
+========================================================================
+
+Panelist Yally's Arguments:
+
+I agree with ais523's arguments on the case regarding culpability
+entirely. Since omd didn't appeal the question on sentencing and
+generally seemed to have no disputes concerning it, and, in my
+opinion, ais523's decision on sentencing is fair and appropriate, I
+opine AFFIRM.
+
+========================================================================
+
+Panelist Murphy's Arguments:
+
+[CotC: unofficial opinion]
+
+omd has admitted that the statement would be false if certain events
+occurred, e.g. if the document was ratified after Proposal 6938
+passed.  Game custom is that such statements are treated as incorrect,
+e.g. some CFJs about hypothetical situations have basically been judged
+"true only if X, so not always true, so FALSE".
+
+Examining the points that Rule 1504 requires to be found true beyond
+reasonable doubt:
+
+  (a) omd violated the rules as described.  Yes, per game custom as
+      noted above.
+
+  (b) Within past 90 days.  Not disputed.
+
+  (c) No double jeopardy.  Disputed elsewhere (omd dinged emself for
+      a small Rest penalty for some aspect of the situation), but
+      generally rejected as not targeting substantially the same
+      actoin as this case.
+
+  (d) omd could not have reasonably believed that eir action was
+      legal.  Yes, e's been around long enough that e should have known
+      about the relevant game custom.
+
+  (e) omd could have reasonably avoided etc..  Yes, e could have
+      acknowledged the relevant game custom when announcing intent,
+      which would have triggered Rule 2202's "unless" and made eir
+      action unambiguously legal.
+
+========================================================================

@@ -1,0 +1,1018 @@
+==============================  CFJ 3381  ==============================
+
+    I am a player.
+
+========================================================================
+
+Caller:                                 omd
+Barred:                                 Fool
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          29 Jul 2013 21:30:28 GMT
+Assigned to ais523:                     04 Aug 2013 23:07:37 GMT
+Judged TRUE by ais523:                  07 Aug 2013 08:36:08 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This is interesting.  A lawyer would treat Fool's reasoning as
+obviously incorrect, and for that reason I expect this to be judged
+TRUE, but it is unclear how to formulate a consistent set of logical
+principles that complies with this expectation.  I suppose it's
+appropriate to say that paraconsistent logic isn't an appropriate
+answer; unless the rules use language that expect us to work
+indirectly to determine the possibility of an action, it's necessary
+to go all the way to intuitionistic logic.  Whether we should be so
+confident our system is logical when we keep collectively missing
+things in attempting to formalize is another matter...
+
+It would, incidentally, be more polite to attempt to achieve a
+dictatorship in a way other than deregistering everyone.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+Recently, Fool purported to deregister all first-class players other than
+emself, by means of a logical deduction from a certain set of Promises. This
+CFJ asks whether Fool's attempt succeeded.
+
+At first glance, it seems like the unavoidable conclusion is that Fool's
+attempt did indeed succeed. Fool submitted two promises, titled
+"Paraconsistency is overrated, part 1" and "Paraconsistency is overrated, part
+2" (which we will abbreviate as P1 and P2), with (essentially) the following
+conditions for destruction by author:
+
+P1: P2 CAN be destroyed with notice.
+P2: If P1 CAN be destroyed with notice, then Fool CAN deregister all other
+first-class players.
+
+Rule 2337 "Promises" (along with the other clause in the rules stating that if
+one rule says an action CAN be taken under certain circumstances, then the
+action CANNOT be taken outside those circumstances) states (again,
+essentially) that a promise can be destroyed with notice if and only if its
+destruction condition is satisfied. So we apparently have the following two
+axioms:
+
+(D-P1) P1 can be destroyed if and only if P2 can be destroyed.
+(D-P2) P2 can be destroyed if and only if (if P1 can be destroyed, then Fool
+can deregister all other first-class players).
+
+Under classical logic, it can be proven from these axioms that Fool can
+deregister all other first-class players. The proof is as follows:
+
+Suppose that P2 cannot be destroyed. Then, by D-P1, P1 cannot be destroyed,
+either. This means that the statement "if P1 can be destroyed, then Fool can
+deregister all other first-class players" is vacuously true. But this means
+that the left-hand side of the biconditional of D-P2 is false, whereas the
+right-hand side is true; this is a contradiction. So we can conclude that P2
+can be destroyed.
+
+Since P2 can be destroyed, by D-P1, P1 can be destroyed, too. Thus, by D-P2,
+Fool can deregister all other first-class players.
+
+It has been suggested that intuitionistic logic ought to be used to interpret
+the rules, instead of classical logic. Unless I have made a mistake in
+querying lambdabot, intuitionistic logic does not allow us to conclude that
+Fool can deregister all other first-class players:
+
+<tswett> @djinn (p2 -> p1) -> (Not p2 -> Not p1) -> ((p1 -> fool) -> p2) ->
+(Not (p1 -> fool) -> Not p2) -> fool
+<lambdabot> -- f cannot be realized.
+
+However, intuitionistic logic does allow us to conclude that it is not
+IMPOSSIBLE for Fool to deregister all other first-class players. This
+conclusion seems no better than the conclusion that it is POSSIBLE for em to
+do so.
+
+Agoran tradition seems to be to use a sort of vague paraconsistent rule of
+thumb when dealing with paradoxes, namely, something like this: "when some
+part of a rule contradicts itself, declare the truth value of the
+contradictory statements to be 'paradoxical', and do not let this declaration
+lead to any unreasonable consequences". But this is irrelevant here, because
+there is no contradiction; Agora has no tradition (and probably shouldn't have
+a tradition) of using any form of paraconsistent or otherwise non-classical
+logic in the absence of contradictions.
+
+So, to recap, given the statements in the rules, it seems to be an unavoidable
+logical conclusion that Fool's attempts to deregister all other first-class
+players succeeded. However, I think there is a reasonable nomic-philosophical
+(nomicological?) viewpoint according to which Fool's attempts to deregister
+failed.
+
+Agora is a game that is played according to its rules. But what does it mean
+to play according to a set of rules? One interpretation, perhaps the
+traditional interpretation of Agora, is that the rules should be treated as
+axioms in a logical system, and then the state of the game is whatever can be
+concluded from these axioms. But the axiom interpretation is not without its
+problems; indeed, one significant failing of this interpretation seems to be
+the fact that it can produce paradoxes.
+
+I would like to suggest an alternative interpretation of the rules: namely,
+that the rules are a complete and comprehensive set of mechanisms for
+interacting with the game. Thus, even if it is possible to prove, using
+classical logic, that some action CAN be taken, this proof is irrelevant to
+the possibility of the action; the action can still only be taken if there is
+in fact a mechanism for taking that action.
+
+Let us take another look at Rule 2337 "Promises" using the mechanism
+interpretation. The relevant paragraph says:
+
+      If a promise has one or more conditions under which the author
+      of the promise can destroy it, and they are all satisfied, then
+      the author CAN destroy that promise with notice.
+
+Under the mechanism interpretation, this paragraph provides a conditional
+mechanism for destroying a promise, and no other mechanisms. Even though the
+paragraph logically entails that Fool CAN deregister all other first-class
+players, e in fact CANNOT do so, because there is no mechanism for doing so.
+
+So is the mechanism interpretation acceptable? I dunno. I feel like there are
+a few things going against it.
+
+One objection to the mechanism interpretation is that you just aren't actually
+playing the game if you're using the mechanism interpretation; you're only
+actually playing the game if you're treating the rules as axioms. Though a
+similar argument would claim that you're only actually playing the game if
+you're treating the rules as axioms *under classical logic*, in which case
+Agora became unplayable as soon as its first paradox was introduced, or
+perhaps even as soon as two rules contradicted each other.
+
+Another objection is that some clauses consist of definitions, and it doesn't
+make sense to interpret a definition as a mechanism. But this could perfectly
+well be fixed just by saying that some clauses are mechanisms, and some
+clauses are definitions instead.
+
+Another objection is that a statement of the form "if X then Y" can't really
+be interpreted as a mechanism, since the "if" and "then" form a logical
+connective that's meaningless as a mechanism. I don't think this objection is
+right at all, because you could perfectly well interpret that as a mechanism
+for doing Y that can only be used under circumstance X.
+
+I definitely feel like there are more possible objections I've missed, but I
+can't actually think of any.
+
+Consideration of the best interests of the game seems to prefer the mechanism
+interpretation over the axiom interpretation: after all, under the axiom
+interpretation, everyone but Fool has been deregistered, whereas under the
+mechanism interpretation, we're all still players.
+
+TRUE appears to be appropriate.
+
+========================================================================
+
+Gratuitous Arguments by teucer:
+
+On Tue, Aug 6, 2013 at 1:30 AM, omd <c.ome.xk@gmail.com> wrote:
+> On Tue, Aug 6, 2013 at 1:02 AM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+>> Arguments:
+>
+> I'm not sure whether I agree with you or not.  I agree that
+>
+> 00:53 < tswett> If a rule were to say "if it is POSSIBLE to do X, then
+> it is POSSIBLE to do Y", I think we would treat
+>                 this as meaning something very different from "if it
+> is IMPOSSIBLE to do Y, then it is POSSIBLE to do
+>                 X".
+>
+> and that therefore, we should not treat Agora's ruleset as a set of
+> axioms.  However, I don't think this is actually divorced from logic
+> somehow - e.g. I think that a CFJ on whether Fool CAN deregister
+> everyone would have still been FALSE, and don't think that adding an
+> indirection in the form of a definition, which would seem to require
+> some form of logic (e.g. Fool uses Curry's paradox to establish that e
+> is a Yak Master, then creates some Yaks) would change anything.
+
+I'm going to go off on a tangent now from this, but I just realized
+something prompted by the above interpretation of if-then statements.
+
+Allow me to quote r217: "A term explicitly defined by the Rules, along
+with any of its ordinary-language synonyms not otherwise so defined,
+has that meaning when used in any Rule of equal or lesser power, or
+when used in a Rule of greater power that is clearly intended to
+comply with that meaning.  Otherwise, terms have their
+ordinary-language meanings; with definitions contained in
+lower-powered Rules providing non-binding guidance."
+
+In no instance is the word "if" defined in the rules. Therefore, it is
+clearly something which, in Agora, carries its ordinary rather than
+logical meaning. In everyday use, there simply is no formalization of
+the truth value of an if-then statement whose first part is false, but
+it is normal to expect (but not rely on) the second part being false
+also - rather more like a logician's iff than if, in fact - unless
+context suggests otherwise. "If you go to the store, bring home some
+eggs" is clearly an instruction that doesn't expect any eggs if you
+don't go to the store, though it doesn't forbid them. "If you pick any
+three of the numbers correctly in Powerball, you win seven dollars"
+should be understood as making it pretty clear that you *won't* win
+seven dollars if you only match two numbers, and you should also
+expect it means won't win seven dollars if you match four. (Matching
+two numbers has a payout of $0 or $4 depending on which two they are,
+while matching four will get you $100. Yes, that's right, I research
+my irrelevant examples!) But, crucially, it's not a promise that those
+things are true, merely an expectation. (The statement would not be
+rendered false by there being another $7 payout for something else.)
+
+This sounds a lot like it's asserting that "if" means logical if, but
+I think instead that if statements are often used to imply iff but in
+fact should be interpreted as asserting nothing of relevance to the
+world outside them unless the first half is satisfied. That is,
+putting something between "if" and "then" makes it a switch that, when
+not satisfied, screens the whole sentence off from the rest of the
+world.
+
+Suppose we treat the word "if" like lawyers rather than logicians,
+such that an if-then statement simply doesn't *do* anything unless the
+"if" part is satisfied. If we do that (and note, I'm asserting that
+this is not going to tell us anything useful at all unless we do!)
+then the following is true:
+ - thanks to the rule text Fool intended to press into service
+involving "if and only if", P1's destruction is clearly dependent on
+P2's in a logical sort of way.
+ - P2's destruction condition in a world where P1 CAN be destroyed is
+logically dependent on Fool's ability to deregister other players. In
+a world where P1 CANNOT be destroyed, P2 makes no particular
+assertions about its destruction condition and thus does not have one.
+
+This allows us to constructively figure out the destructibility of the
+promises in such a way that assuming a priori that Fool has no prior
+ability to deregister players doesn't create a paradox, nor does it
+bootstrap em into such an ability. Given that we initially assume no
+such ability, P2 CANNOT be destroyed if P1 CAN. (Had Fool specified
+what e clearly meant to, and what a logician would readily read into
+eir phrasing, that P2 CAN be destroyed if P1 CANNOT, then these
+promises would have created a paradox which could only be resolved by
+granting em the ability to deregister people. This does not
+unambiguously fail to do so, but it can alternately be interpreted as
+creating two statements which are effectively mutually
+self-referential and create an Epimenides paradox.) Since P1 CANNOT be
+destroyed if P2 CANNOT, and P2 has no destruction condition unless P1
+can be destroyed, the attempt thus resovles to an unambiguous and
+non-paradoxical state where P2 has no destruction condition and thus
+CANNOT be destroyed, and P1's condition cannot be satisfied and so it
+CANNOT be destroyed either.
+
+I thus see the following possible interpretations of the current
+status of these promises:
+
+1. Despite r217's claims to the contrary, "if" does not have its
+everyday meaning but its logical one (or it is felt that its everyday
+meaning is nearer to its logical one than I consider correct).
+Furthermore, Agora runs primarily on logical rather than legal
+reasoning. I reject both of those claims, and I think r217 is actually
+pretty good evidence that the latter is not the intent of the ruleset
+as well as nixing the former. But although I find this interpretation
+untenable, I include it for completeness. If this is the case, Fool's
+scam succeeds, and omd is not a player. This will be shown to be the
+only interpretation where this is so. It should be noted, by the way,
+that this is almost certainly the interpretation which would have been
+correct had this scam been attempted in any of the recent alleged eras
+of B Nomic, and should we ever get a revival, rescue, or sequel going
+for that fair game, Fool is encouraged to take part because e would do
+well there and enjoy emself.
+
+2. Agora still runs on logical rather than legal reasoning, but "if"
+has its everyday meaning and I'm right about what that is. In this
+case, Fool's scam fails for the reasons outlined above. But that's not
+because e attempted the impossible; eir scam was merely a buggy
+interpretation of a sound principle. I find this interpretation
+farfetched in the extreme, since in the case where Agora runs on
+logical reasoning "if" should probably be interpreted so as to make
+the scam succeed. This interpretation is not completely untenable,
+however, and for that reason you will find my counterscam below.
+
+3. Agora runs on legal reasoning, but "if" works in a logical manner
+anyway. Again, I don't buy this, but I think it's pretty reasonable.
+In this case, Fool's promises interact to create an Epimenides paradox
+from which one could easily generate a turtle.
+
+4. Agora runs on legal reasoning and my exegesis of "if" above is
+entirely correct. In this case, once again, Fool's promises were
+slightly buggy, but a better-phrased version would generate a paradox
+and allow turtle creation. I believe this to be the correct
+interpretation.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 3381 TRUE.
+
+The rest of this message, below this paragraph, is a thesis. I submit it
+with intent to qualify for a degree. It is /also/ my judge's arguments
+and evidence.
+
+JUDGE'S ARGUMENTS AND EVIDENCE ON CFJ 3381
+or, what logic do the rules follow anyway?
+
+So, Fool's scam (in which e claims to have deregistered everyone else,
+obtaining a dictatorship via being the only person capable of voting) is
+really dominating the discussion recently (and for good reason; the lack
+of certainty about what happened makes it hard to do anything else), and
+this is the first CFJ that really depends on the success or failure of
+the scam (the only reasons why omd would possibly not be a player are if
+Fool's scam fully succeeded, or in the very unlikely event that Wooble's
+theory that the entire playerlist was emptied years ago and Fool was
+never a player is correct, and we've taken corrective action for
+Wooble's version of events recently, just in case; I'm not going to
+consider that theory here because it would detract from the main
+arguments). As such, I'd like to preserve a description of the events
+behind the scam, and the arguments being presented, for historical
+impact; it's possible to read some of it from the list archives, but
+that's always a frustrating form from which to look over the historical
+events of the past. This means, necessarily, that my arguments and
+evidence are going to be mixed together and not neatly separated; this
+is a minor breach of a recommendation in rule 2205/4 (which recommends I
+separately label the arguments and the evidence), but I consider the aim
+of producing a usable historical record more important than that
+recommendation, and as it's only a recommendation I can ignore it if I
+have a good reason.
+
+First, though, I'd like to talk about the role of a judge in such
+matters. There are four ways that I could judge this CFJ, and remain
+within the requirement of my Rules duties as a judge:
+
+1. I could just rule TRUE on the basis that if omd is not a player, then
+neither am I, and thus if tthe judgement is validly made, it cannot
+possibly be incorrect. This complies with the letter of all the relevant
+rules, but would fail to solve any of the underlying problems, and as
+such would be unsatisfactory. Agora looks to judges to resolve
+controversies; and even if it turns out that I'm not a player and can't
+give the judgement, the important part of the judgement – the reasoning
+– will still be available and settle matters.
+
+2. I could check to see if the scam had succeeded at least as far as the
+purported deregistration, ignoring everything that happened after that.
+(For instance, as will be seen later, it's possible to make a reasonable
+argument that the scam currently prevents reregistration, but did not
+allow the purported deregistration to occur.) This would solve the
+individual question asked in the status of the CFJ – whether omd is a
+player – but still leave a lot of ambiguity (for instance, as to whether
+teucer, who registered recently, is a player). This is what I'm going to
+focus on first, and is also what will guide the actual final verdict
+(because the statement of the CFJ, "I am a player" by omd, is inquiring
+into whether the scam deregistered omd in particular, not whether it at
+least partially worked in general, not whether it could have worked if
+corrected).
+
+3. I could look over the specific details of how the scam happened,
+aiming to poke holes in them; it wouldn't be the first time that a scam
+had failed due to minor errors by its perpetrator, or even minor errors
+by someone unrelated (the Threat Trombones scam back in 1998 failed
+because the Promotor made a typo, for instance). This does not solve the
+underlying problems, in that varying the details could cause different
+outcomes. However, it does serve a very useful purpose for Agora as a
+whole; a gamestate change as major as deregistering most of the players
+and gaining a dictatorship causes a /huge/ amount of uncertainty as to
+what the true gamestate is, and discovering that this particular
+instance of it failed would clean up the uncertainty (if not, perhaps,
+potentially invite more damage due to players attempting to repeat the
+scam; this would likely be considered very bad form, but a dictatorship
+might be a large enough prize that players would try it anyway). I'll
+consider this after considering the question of whether omd is a player,
+because it's important to know which gamestate we're in.
+
+4. I could rule about the underlying logical principles behind the scam.
+This judgement is less important in the sense of determining what the
+true gamestate is (something that I've repeatedly admitted is my highest
+priority right now, especially because the rules that would normally fix
+an uncertain gamestate for us are broken for reasons unrelated to the
+scam), but many players are interested in knowing what the answer is.
+I'll cover this later, after I cover whether Fool's attempt at the scam
+worked or not.
+
+I'm going to ignore option 1 as it's a total cop-out, and consider 2, 3,
+and 4 in turn.
+
+So first, a summary of what happened.
+
+First, there were a few relevant proposals in the distribution of
+proposals numbered 7530-7547 (whose voting period ended around the same
+time the scam happened, and which thus had to be created first, over a
+week before the scam itself); the most relevant ones are:
+
+7535 by omd, which (if passed) would repeal rule 101 (a rule both most
+aspirational, and which also contains many anti-scam restrictions, some
+of which are definitely relevant here);
+7537 by Fool, which uncontroversially gives em a dictatorship if it
+passes (the proposal has AI 3 and the rule it creates Power 3,
+sufficiently high for em to use eir dictatorship rule to perform any
+action);
+7541 by Fool, which fixed a bug in the definition of Parties (which
+might incidentally have been used as a method to counterscam, although
+it's unlikely such a counterscam could have succeeded).
+
+The timing of proposal 7535 appears to have been entirely coincidental,
+although fortunate for Fool's purposes. Interestingly, proposal 7537
+contained the following footnote, which is a little chilling in
+retrospect:
+
+[ Same as failed prop 7494, but removed the controversial clause "Fool
+SHALL respect the long tradition of players relinquishing the
+dictatorship after a time and not actually abusing it." I expect this
+will pass now. ]
+
+The main part of the scam came in a few messages after that. First, Fool
+created two Promises, quoted in full here because they're so key to the
+case:
+
+######################################################################
+Title: Paraconsistency is overrated, part 1
+Text: I transfer 1 Yak to the casher
+Cashing condition: Casher is a first-class player.
+Destruction by author condition:
+    The promise titled "Paraconsistency is overrated, part 2" CAN be
+    destroyed by its author with notice.
+######################################################################
+Title: Paraconsistency is overrated, part 2
+Text: I transfer 1 Yak to the casher
+Cashing condition: Casher is a first-class player.
+Destruction by author condition:
+    IF the promise titled "Paraconsistency is overrated, part 1" CAN be
+    destroyed by its author with notice, THEN:
+      - the author of this promise CAN de-register all first-class
+        players other than himself by announcement; AND
+      - persons other than the author of this promise CAN NOT register.
+######################################################################
+
+In the same message, e took two further steps: giving notice that e
+intended to destroy the promises (which, if the destruction by author
+conditions are met, allows a promise to be destroyed between 4 and 14
+days after the intent is given), and attempting to deregister every
+first-class player other than emself. (Second-class players are rare in
+Agora at the moment, and it's likely none of them can take any actions;
+the Best Party is the only second-class player that claimed to be able
+to take actions, but I think Agora as a whole did not believe that
+claim. At any rate, it hasn't tried.) Note that under Agoran law, it's
+possible to submit intent to perform an action, even if you don't
+actually plan to perform it in the future; there's no current rule
+against lying, and the intent is successful even if it's not the truth
+when performed.
+
+In eir next message, e purported to resolve the proposals, claiming that
+eir own voting limit was 4 and everyone else's was 0, meaning that each
+proposal passed or failed according to eir own vote. E voted FOR each of
+the above proposals (7535, 7537, 7541).
+
+And later that day, e sent one further message, purporting to use the
+dictatorship rule created via proposal 7537 to allow nonplayers to
+create proposals, prevent all other players registering, and destroy all
+Parties with no members (which would only affect the Best Party in any
+gamestate that I've heard mentioned as potentially correct).
+
+
+So, about this specific scam attempt. Before coming to the main point
+(the interaction of the promises themselves), I'm going to talk about
+the proposals Fool attempted to force through. Fool made the following
+argument on the discussion forum: "See the recent TIME OUT scam...
+making someone not an eligible voter does set their voting limit to 0."
+However, e seems to have missed the way that voting limits work in
+Agora. An excerpt from Rule 683/17 gives us the basic definition:
+{{{
+      Among the otherwise-valid votes on an Agoran decision, only the
+      first N submitted by each entity are valid, where N is the
+      entity's voting limit on that decision.  The voting limit of an
+      entity that is not an eligible voter on an Agoran decision is
+      zero.  The voting limit of an eligible voter on an Agoran
+      decision is two, except where rules say otherwise.
+}}}
+So as Fool points out, ineligible voters have a voting limit of 0, and
+eligible voters have a voting limit that defaults to 2, but can be
+modified. However, what about the purportedly deregistered players? We
+have rule 1950/28 for that:
+{{{
+      The eligible voters on a decision with an adoption index are
+      those entities that were active first-class players at the start
+      of its voting period.  Setting or changing an entity's voting
+      limit on such a decision is secured with a power threshold of 2.
+}}}
+In other words, even if you deregister everyone, they're still eligible
+voters on proposals that were pending at the time (because decisions to
+adopt proposals have an adoption index). So their voting limit isn't
+forced to 0 after all. (The recent TIME OUT scam, which made players
+inactive, likewise doesn't actually work on vote resolution, for this
+reason; however, it would have worked on proposal /distribution/, back
+before the loophole was patched.)
+
+If it isn't forced to 0, what is it? The decision in question were all
+Ordinary, which gives us this definition, from rule 2389/8 (which was
+the rule in force at the time of the scam; it's since been amended):
+{{{
+      Ordinary is a Voting Chamber.
+
+      VVLOP is a player switch, tracked by the Assessor, whose value
+      is a non-negative integer; the default value for a player's
+      VVLOP is eir DVLOP.  The voting limit of an entity on an
+      Ordinary Decision is eir VVLOP.
+}}}
+So, for players, we have a defined voting limit in rule 2389; they have
+a VVLOP, and that's their voting limit. For nonplayers, rule 2389 has
+trouble defining a voting limit; as a player switch, VVLOP isn't a
+meaningful concept for nonplayers. There are only two reasonable ways to
+interpret rules 683/17 and 2389/8 in this circumstance: that because an
+eligible nonplayer doesn't have a VVLOP, they don't have a voting limit,
+and thus have infinitely many votes; or because they don't have a VVLOP,
+rule 2389 fails to set a voting limit, so it defaults to the definition
+of 2 in rule 683. The second interpretation seems a lot more reasonable,
+because we have a high-powered rule (683, at 3) strongly implying that
+voting limits have to exist and are numbers, and because both game
+custom and past judgements imply that values tend to be at their
+defaults if there's no other reasonable value they could have (e.g. CFJ
+3254, where a ruble was transferred back and forth infinitely many times
+and ended up in the Lost & Found Department, even though nobody had
+tried to transfer it there). As such, there is no gamestate in which
+Fool's attempts to force proposals through passed, because rule 208/10
+requires a tally of ballots:
+{{{
+      [...] To be valid,
+      this announcement must satisfy the following conditions:
+
+      [...]
+
+      (c) It specifies the outcome, as described elsewhere, and, if
+          there was more than one valid option, provides a tally of
+          the voters' valid ballots on the various options.
+
+}}}
+and there is no reasoning via which the tally in Fool's purported
+resolution is correct.
+
+Probably the most noticeable effect of this is that none of Fool's
+attempted actions matter, apart from the initial message; without a
+dictatorship, e can't use it to do anything. Additionally, rule 101/14's
+protection against unannounced Rule Changes is therefore very much in
+force:
+{{{
+        iv. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, or a Rule
+            Change, which e has not had the reasonable opportunity to
+            review.  For the purpose of protecting this right, a rule
+            change which would otherwise take effect without its
+            substance being subject to general player review through a
+            reasonably public process is wholly prevented from taking
+            effect.
+}}}
+
+With the uncertainty about the ruleset cleared up, I turn to the subject
+of the uncertainty about the player list, and this impacts at the heart
+of Fool's scam. The argument is a logical one; people have suggested
+various different logics for evaluating things, but I'll restrict myself
+to good old-fashioned classical logic (in which a contradiction implies
+anything) to see whether the scam works even with the most favourable
+interpretation. Here's Fool's argument as to why it works:
+{{{
+The sentences in question are not directly self-referential or even
+mutually-referential. This is more of a Curry-flavoured confused
+deputy,
+with rule 2337 as the deputy. It says that the author can destroy a
+promise with notice IFF the sentence in its "destruction by author
+condition" slot is true. So:
+
+   - Sentence A: I can do Y.
+   - Sentence B: IF (I can do X), THEN (Z is true).
+   - Rule 2337 says that (I can do X) IFF (sentence A is true)
+   - Rule 2337 says that (I can do Y) IFF (sentence B is true)
+
+As a result, R2337 says that (I can do X) IFF (IF (I can do X) THEN (Z
+is true)). So, R2337 says that Z is true. And Z in this case is that I
+can de-register everyone else, and that nobody else can register. This
+is consistent and within the power of R2337: R869 secures
+de-registration, and it has Power 2. And it does not secure the
+prevention of people from registering. R2337 has Power 3.
+}}}
+
+The relevant parts of rules are this excerpt from 2337/7:
+{{{
+      If a promise has one or more conditions under which the author
+      of the promise can destroy it, and they are all satisfied, then
+      the author CAN destroy that promise with notice.
+}}}
+and this excerpt from rule 2125/7:
+{{{
+      c) The rules explicitly state that it CAN be performed while
+         certain conditions are satisfied.  Such an action CANNOT be
+         performed except as allowed by the rules.  In particular, if
+         the action in question is publishing a type of document, then
+         a public message is not that type of document (even if it is
+         labeled as such) except as allowed by the rules.
+}}}
+(Both rules have a power of 3, giving them effectively total power over
+any part of the gamestate except when there's an outright contradiction
+between one rule and another.)
+
+However, there's been something of a deceit here. Fool has hidden
+various complex statements inside eir variables X, Y, and Z. First, I
+want to focus on the phrase "CAN destroy that promise with notice",
+because performing an action with notice is something well defined in
+the rules (here, 1728/32):
+{{{
+      A rule which purports to allow a person (the performer) to
+      perform an action by a set of one or more of the following
+      methods (N is 1 unless otherwise specified):
+[...]
+       4) With Notice.
+
+      thereby allows em to perform the action by announcement if all
+      of the following are true:
+
+       a) A person (the initiator) announced intent to perform the
+          action, unambiguously and clearly specifying the action and
+          method(s) (including the value of N for each method), at
+          most fourteen days earlier, and (if the action depends on
+          objections or notice) at least X days earlier, where X is a
+          number which depends on the Speed at the time of intention
+          as follows: Slow: 5, Normal: 4, Fast: 2.
+}}}
+This is a "dependent action"; you can destroy something by announcement,
+if a) a rule purports to allow you to destroy it with notice; b) you
+gave intent at least 4 (and at most 14) days earlier.
+
+So how, from a strictly logical point of view, do we parse the statement
+"the promise X CAN be destroyed by its author with notice"? The
+definition in rule 1728 only technically applies to rules, but if we
+make the reasonable expansion that it applies to promise conditions,
+too, we get "the promise X can be destroyed by its author with
+announcement, if e announced intent between 4 and 14 days earlier" (the
+Speed is Normal at the moment). This backwards definition of dependent
+actions takes a little getting used to, but not only does it follow from
+the letter of the rules, it is also game custom ("I intend to do X with
+Notice" ... wait 4 days ... "with Notice, I do X"). The only other
+expanded definition that seems plausible is the one that Fool presumably
+intended, "If promise X's author announces intent to destroy it with
+Notice, e will be able to destroy it between 4 and 14 days later". The
+second interpretation is only amenable to a subjunctive definition of
+"if"; the first interpretation could use either a subjunctive or
+indicative (i.e. strictly logical) definition of "if", which gives us
+three potential interpretations for the chaos hiding inside Fool's
+"Sentence A" (the destruction condition of eir first promise):
+1. (first interpretation, logical) At least one of the following
+statements is true: a) the author of the promise titled "Paraconsistency
+is overrated, part 2" did not give intent to do so between 4 and 14 days
+earlier; b) e can destroy that promise by announcement;
+2. (second interpretation, subjunctive) If the author of the promise
+titled "Paraconsistency is overrated, part 2" gives intent to do so now,
+e will be able to destroy it by announcement between 4 and 14 days in
+the future;
+3. (first interpretation, subjunctive) If the author of the promise
+titled "Paraconsistency is overrated, part 2" had given intent to do so
+between 4 and 14 days earlier, then e would be able to destroy it by
+announcement right now.
+
+With the strictly logical point of view in 1., it is clear that at the
+time Fool attempted to use the scam to deregister players, it simply
+wasn't true that the intent had been given, and thus sentence A is
+simply uncontroversially true (and sentence B uncontroversially false).
+As such, the scam fails with this interpretation.
+
+With the hypothetical in 2., we get time travel problems. In general, a
+statement about things that will happen in the future is something that
+can't meaningfully be considered to be necessarily true or false at any
+point in time in Agora, because of the risk that the rules are amended
+out from underneath it, and in particular, conditionals that talk about
+future events are considered to be too ambiguous to be satisfied. (See,
+for instance, CFJ 2926.) In this particular case, the risk of rules
+being amended out from underneath the loop is very high; often it's
+possible to at least make an argument about there being insufficient
+time to pass a proposal or ratify a document, but in the case of a
+dictatorship scam, whose entire purpose is to allow persons to perform
+arbitrary actions, there's definitely a possibility that whether the
+future conditional is true or false will affect actions in the future,
+i.e. a time paradox. It would be uncontroversial that even an author
+destruction condition as simple as "The day after the promise is
+destroyed, its author posts 'CREAMPUFF' to a public forum" is not
+satisfiable; the condition's truth or falsity cannot be determined at
+the time at which it would have to be true. Besides, the promises might
+be destroyed by other means in the meantime (if you don't have a
+dictatorship, then you can't deregister other players, meaning that
+attempts to cash the promises in question will succeed and destroy
+them).
+
+This brings us to expansion 3. The precedents are quite poor on whether
+this sort of subjunctive conditional that talks about past conditions
+that don't actually exist can work, but given that subjunctives are the
+subject of CFJs all the time, it seems reasonable that the general
+principle is valid. However, it has another issue: the intent to destroy
+the promise would have to be before the promise's actual creation, in
+order for the condition loop to exist in time for Fool's attempt to
+deregister everyone to work. The relevant precedent is CFJ 2927, but
+it's a poor precedent (not only are the arguments perfunctory and hard
+to make sense of, they also don't match the judgement). It does seem
+clear, though, that the promise would have to be clearly identified in
+order to make an intent to destroy it (and even that might not be
+enough); identifying a nonexistent promise merely via its title is
+impossible (at least in part because someone could create another
+promise with the same title), and if the promise were identified via its
+text and conditions then it seems likely that players would attempt a
+counterscam (e.g. restarting the Gerontocracy so as to be able to object
+to the destruction). Besides, this sort of subjunctive, which doesn't
+specify full details of the past action, doesn't evaluate as true merely
+for there being some way to make the intent that would cause the
+destruction to work; it only evaluates to true if all methods of making
+the intent would cause the destruction to work, and that's clearly
+false. So with this point of view, sentence A is definitely false, and
+sentence B true, again without worrying about Z.
+
+In other words, during the 4 days after Fool created eir promises, they
+didn't cause any sort of logical loop or the like. Because eir mass
+deregistration is pragmatic, rather than platonic (e has to specifically
+announce that e deregisters players), and e didn't make such an
+announcement after the 4 days had passed, it failed, and we're all still
+players. (One of the things I did to prevent em fixing the scam in
+response to this judgement was to cash eir promises, destroying them and
+thus preventing them from being destroyed by their author in the future;
+Fool will need a new intent in order to restart the scam, likely giving
+us 4 days and some new leeway to counterscam.)
+
+Now, this solves the issue of whether or not omd is a player (e is; at
+the time Fool attempted to deregister em, e definitely couldn't),
+allowing me to judge this CFJ TRUE, but it doesn't resolve the question
+of whether the scam nonetheless worked (just with a 4 day delay while
+the intents worked themselves out). With expansion 1. or 3. above, we
+don't have any temporal problems due to the use of "CAN ... with
+notice", because the notice was actually given (Fool believed this to be
+irrelevant, but e's wrong). However, there are other potential holes
+here. Let's quote Fool's argument again, as a reminder:
+{{{
+   - Sentence A: I can do Y.
+   - Sentence B: IF (I can do X), THEN (Z is true).
+   - Rule 2337 says that (I can do X) IFF (sentence A is true)
+   - Rule 2337 says that (I can do Y) IFF (sentence B is true)
+
+As a result, R2337 says that (I can do X) IFF (IF (I can do X) THEN (Z
+is true)). So, R2337 says that Z is true.
+}}}
+
+I've been focusing on X and Y, but this time I want to focus on
+something that Fool was taking for granted; the security restrictions on
+the various actions involved. Here's the security restriction in 869/33
+(which secures things at power 2 by default):
+{{{
+Changes to citizenship are secured.
+}}}
+and from 2337/7, the (power-3) rule being scammed:
+{{{
+      Creating and cashing promises is secured with power threshold 3;
+      any other modifications to promise holdings are secured with
+      power threshold 2.
+]}}
+
+Now, let me expand this logical argument, in the same style as Fool's,
+but adding rule 869, and making the security restrictions explicit:
+{{{
+   - Sentence A: I can do Y.
+   - Sentence B: IF (I can do X), THEN (Z is true).
+   - Rule 2337 says that (I can do X) IFF (sentence A is true) OR
+     there is a power 2+ rule that allows destruction of promises
+   - Rule 2337 says that (I can do Y) IFF (sentence B is true) OR
+     there is a power 2+ rule that allows X OR that allows Y
+   - Rule 869 says that Z is false OR there is a power 2+ rule
+     that implies that Z true
+}}}
+
+Now, Fool is arguing that the rule 2337 loop is sufficiently powerful to
+imply a mechanism for deregistering players into rule 2337. This takes a
+bit of a split personality viewpoint on the rules; first the argument is
+that "rule 2337 says that promises can't be destroyed except as written
+in the rules, and there are no other rules that allow destruction of
+promises in another entity's possession, thus the biconditional is a
+true biconditional not a one-way conditional" (i.e. assuming outright
+that any rules that don't specify a mechanism for destroying promises
+can't destroy promises), and then later, "because the biconditionals
+imply that rule 2337 allows deregistration of players, it gets around
+the security in rule 869, being of a high enough power to imply a new
+mechanism into the rules" (assuming that even if a rule doesn't specify
+a mechanism for deregistering players, it can deregister players).
+
+However, this argument is just as easily reversed. Rule 869 says (via
+securing citizenship at 2, and the fact that there are no other rules
+that allow a player to deregister another by announcement except as the
+result of dependent actions that aren't satisfied) that players can't
+(with the current set of intents, at least) deregister other players by
+announcement. As such, if we follow the logic of the promise loop, we
+find that there must be a mechanism to destroy promises other than the
+one in rule 2337; any other situation would lead to a contradiction.
+Fortuitously, rule 869, with its power of 2, happens to be sufficiently
+powerful to get around the security restriction on promises.
+
+So, following Fool's argument, we find that rule 2337 has a secret,
+unwritten ability to block registrations and allow Fool to deregister
+other players. But, there's another possibility using the same sort of
+reasoning: instead of rule 2337 being able to deregister players and
+block registrations, it's possible for rule 869 to allow Fool to destroy
+eir own promises.
+
+If we assume that these are the only possibilities, we quickly find that
+the second possibility, which implies a mechanism to destroy promises
+into rule 869, is less absurd, because it doesn't cause a contradiction
+between rules. Adding a new mechanism to deregister players is "fine" in
+that it creates no contradictions with any rule. However, blocking the
+registration of players would cause an outright contradiction between
+2337 and 869, because there's also the following paragraph of rule
+869/33:
+{{{
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player at that time.
+}}}
+Sure, there's an "unless" clause that would mean no contradiction if
+rule 2337 outright stated "Players other than Fool CAN NOT register".
+But there's an "explicitly" in there, and I don't think anyone can
+seriously argue that rule 2337 /explicitly/ prevents any players from
+registering.
+
+At this point, it's clearly been established that Fool's promises don't
+do anything useful, interacting outside themselves; if they do anything
+at all, it's to allow Fool to destroy them when e otherwise would be
+unable to do so. However, this doesn't solve the problem of whether this
+sort of scam could work in general, if the other problems could be
+avoided (e.g. if promises were destructible by announcement rather than
+with notice so that there were no time travel issues, and if Fool were
+attempting to imply a mechanism to interfere with gamestate secured by a
+rule with power below 2, so that the interpretation of the other rules
+allowing destruction of Promises logically failed).
+
+(As an aside, it's also worth talking about the counterscam attempts
+along similar lines to Fool's, which used different statements, in order
+to clarify the gamestate. Teucer's counterscam attempted to allow em to
+repeal rules as its Z, which rams into both rule 101's prevention of
+unannounced Rule Changes and rule 105's mindbogglingly high level of
+security on rule changes, and also has the notice problem because I
+cashed the promises before the notice period could run out; mine, which
+prevents the creation Promises and allows me to change their conditions,
+has the notice problem only partially, because I actually got the 4 days
+of notice, but otherwise has the same problems as Fool's, because rule
+2337 would self-contradict if it's forcing Z to possible and not X or Y
+to true. As such, I conclude that none of the counterscam attempts did
+anything either in terms of counterscamming, although Teucer's was
+mostly a paradox attempt and I'm not opining on whether there's an
+actual paradox there or not.)
+
+Still, we have a bit of a problem in general here. Following the
+reasoning so far, we can conclude that the scam implies that either it's
+possible for Fool to destroy the "part 1" promise even if its author
+destruction condition is true, or that it's possible for Fool to destroy
+the "part 2" promise even if its author destruction condition is true,
+or both. Rules normally logically collapse to something along the lines
+of "X is possible AND Y is possible", but a rule that logically expands
+to the form "X is possible OR Y is possible" is not the sort of thing
+that players enact intentionally, because it leaves it very unclear as
+to whether either of the actions is possible. In general, this seems to
+indicate a problem with interpreting rules as logical expressions; the
+nature of a rule isn't that of a logical expression, because there are
+logical expressions that simply don't translate to rule form.
+
+Even if you believe that Fool's scam worked entirely and my above
+analysis on rule 869 is incorrect, it's still possible to draw
+absurdities in general from this sort of scam, as we could substitute
+any statement we wanted for Z, under Fool's reasoning. Time travel
+paradoxes? Sure! What about a payload of the form "Either Fool can
+deregister arbitrary players by announcement, or Fool can transfer Yaks
+from arbitrary players to emself by announcement, but not both"? What's
+a player trying to determine whether an action succeeded meant to make
+of that (especially if e tries to take both actions)? There's clearly
+something wrong with the kind of logical argument that lets you conclude
+that one of a set of actions is possible, but without any knowledge as
+to which.
+
+The fundamental misunderstanding here, then, is to do with what it means
+for a rule to prevent or permit something. If a rule permits a specific
+action X via a specific mechanism Y, is that equivalent to saying that
+the statement "A player CAN perform action X via mechanism Y" is true?
+I'd argue that the answer here is "no". Consider the following
+hypothetical rules:
+{{{
+Hypothetical Rule 1 (power 2)
+    A player CAN create a Hypothetical Example Asset by announcement.
+    A player CAN destroy a Hypothetical Example Asset by announcement.
+Hypothetical Rule 2 (power 3)
+    Hypothetical Example Assets CANNOT be destroyed.
+}}}
+From a strictly logical point of view, the first hypothetical rule can
+be read as (X AND Y), where X is the ability to create our hypothetical
+assets, and Y is the ability to destroy them. The second hypothetical
+rule can likewise be read as (NOT Y). Clearly, there's a contradiction
+here; and clearly, we'd resolve it as (X AND NOT Y) because higher-power
+rules take precedence. From our strictly logical point of view, though,
+we can't do that; if Y is false, then (X AND Y) is also false regardless
+of the value of X, so there's no particular reason to conclude X to be
+true. However, I think everyone would conclude players to be able to
+create the hypothetical assets in this situation. This is a big clue
+that Agora isn't interpreting the rules as logical statements.
+
+So how are the rules being interpreted, then, if not from a logical
+viewpoint? I'd argue that they're defining elements of gamestate, or
+permitting/preventing/mandating/prohibiting actions, under certain
+conditions. This gives us a clear way to resolve precedence problems
+like the above; the two hypothetical rules conflict because one tries to
+permit asset destruction and the other tries to prevent it, but there's
+no conflict as to whether the asset creation is allowed. Likewise, the
+plain language of rule 2337 permits destruction of promises under
+certain circumstances, and the scam promises are simply just a circular
+definition, just as much as "Author destruction condition: The author of
+this promise CANNOT destroy it by announcement" would be a circular
+definition. In a way, saying "action X is possible" as a promise
+condition is just a form of shorthand, for a logical expression combined
+out of all the conditions on rules that would permit or prevent action
+X, and the problem with promise loops like these is that the condition
+cannot be expanded, because it leads to an infinite regress. (Agora
+always has had a custom that shorthand that would expand to an infinite
+statement is not allowed.)
+
+Even with a more logical view of conditions, the interpretation of rule
+2337 as being "first, evaluate this condition; then, based on its truth
+value, determine whether the destruction is allowed or not" completely
+sidesteps the scam. You just end up with a straightforward UNDECIDABLE
+evaluating the actual condition (which leads to a FALSE when determining
+whether the destruction can be performed). The operation of the
+condition itself has to be separated from that of the rule, just like
+the multiple clauses of a rule have to be separated from each other; the
+two cannot be merged into one statement, because then it'd be impossible
+to resolve precedence wars between rules in any sort of sensible way.
+(And besides, what is a power-0 condition doing trying to affect the
+operation of a power-3 rule, anyway? It should go make its own mind up
+whether it's true, false, or undecidable. What it can't do is imply text
+into the rule to make itself more decidable.)
+
+In the case of Fool's scam, we can create a version of eir argument more
+accurate to the way the rules work like this:
+{{{
+   - Sentence A: Y is permitted by some rule.
+   - Sentence B: IF (X is permitted by some rule), THEN
+       (Z1 is permitted by some rule and Z2 is prevented by some rule).
+   - Rule 2337 permits X when sentence A is true (and thus not
+undecidable)
+   - Rule 2337 permits Y when sentence B is true (and thus not
+undecidable)
+   - No other rule permits X or Y.
+}}}
+If we attempt to evaluate the truth value of sentence A, for instance,
+we determine that it's undecidable; Z1 is not permitted and Z2 is not
+prevented, so it collapses into an Epimenides paradox. Z1 and Z2 have no
+reason to suddenly become permitted and prevented respectively in order
+to resolve the paradox, because there's no Magical Paradox Prevention
+Fairy trying to imply clauses into the rules in order to avoid
+paradoxes. No rule permits Z1 (and at least one rule, 869, prevents it),
+so it's disallowed, in just the same way as no rule permitting X means
+that X is disallowed.
+
+Or to put the fundamental flaw in this scam into sharp relief: the scam
+only appears to work in paraconsistent logic because Fool carefully
+(perhaps unintentionally) hid the parts of the reasoning that would fall
+down under it. (In particular, reading about paraconsistent logic, the
+mistake appears to have been interpreting "If a promise has one or more
+conditions [...] then the author CAN [...]" as a logical if/then; in
+paraconsistent logic, this phrasing doesn't translate to "Either the
+conditions are false, or the rule permits...", but rather to "Either the
+conditions are false, or the conditions are undecidable, or the rule
+permits...") We can't decide that Z must be true because it'd cause A
+and B to become undecidable otherwise; instead, we note that Z is false,
+and A and B are undecidable as a result. Fool ignores this line of
+argument entirely by assuming that there's a phantom IFF there right at
+the start of eir argument!
+
+In general, though, even ignoring paraconsistency, there is clearly
+something wrong with a purely logical style of reasoning that merges all
+the rules and conditions together first and then looks for paradoxes
+later. You can't meaningfully evaluate precedence under such
+circumstances; if multiple rules are involved in your paradox, you can
+end up with actions being permitted when there's no obvious rule to
+permit them; you can end up with rules that permit one action or
+another, but you don't know which. The fact that you can produce Curry's
+Paradox using this style of reasoning is relatively unimportant, given
+that you can create much more absurd situations. Far better, then, to
+look at what the rules imply first, and evaluate your conditions later.
+Even if they're undecidable by then.
+
+
+(As a side note, I was planning to hold off judging this until the 4-day
+intent period had passed on my own counterscam promises; the idea would
+be that with the reasoning that lead to Fool's promises working, mine
+would too, and I could thus use them to combat the scam with no risk of
+interference. Given that I'm pretty certain that the counterscam fails
+for the same reason the original scam did, though, I see no reason to
+wait.)
+
+
+
+
+Summary of conclusions that apply regardless of the logical principles
+behind Agora, for people trying to reconstruct the gamestate and who
+don't want to read that wall of text:
+- Fool's scam failed to deregister anyone
+- Fool's scam failed to prevent anyone registering
+- Fool's dictatorship rule never passed, and wouldn't have passed even
+  if the scam had succeeded in deregistering eveyone
+- My counterscam failed (except inasmuch as I cashed Fool's promises);
+- Teucer's counterscam failed to allow em to repeal rules
+  (no opinion on whether it's a paradox)
+- and the statement of the CFJ is TRUE.
+
+========================================================================

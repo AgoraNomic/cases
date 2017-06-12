@@ -1,0 +1,74 @@
+==============================  CFJ 2006  ==============================
+
+    ehird's vote in the Assessor election is valid.
+
+========================================================================
+
+Caller:                                 avpx
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by avpx:                         13 Jun 2008 03:13:02 GMT
+Assigned to omd:                        13 Jun 2008 05:59:47 GMT
+omd recused:                            25 Jun 2008 13:46:55 GMT
+Assigned to G.:                         26 Jun 2008 03:03:14 GMT
+Judged FALSE by G.:                     26 Jun 2008 16:53:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The amount of computing power required to calculate this is far
+greater than we have now and would probably take longer than the life
+age of the universe to finish. Though a funny and creative reference
+to xkcd, I'm not sure if conditional statements like this where the
+condition is impossible to test at present can possibly be valid. It
+won't likely affect the election, but even so, it would be good to
+officially clarify how we deal with these situations.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+This situation has already been officially clarified.  It is exactly the
+sort of thing that Judge Maud presciently describes, in the first paragraph
+of eir arguments for CFJ 1460, as requiring "unreasonably excessive effort."
+I note that figuring out how many votes were cast in Maud's example would
+lead to much more useful and clever advances in mathematical sciences
+then would the present example.  FALSE.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+From: agora-discussion@agoranomic.org (Elliott Hird)
+Date: Fri, 13 Jun 2008 00:48:12 +0100
+Subject: BUS: [IADoP] Assessor election
+Message-ID: <784a579e0806121648u62cbfa76ja74f7fdd98c9f928@mail.gmail.com>
+
+For the purposes of this message, 'xkcd' means A(g_64,g_64), where A
+is the Ackermann function
+(http://en.wikipedia.org/wiki/Ackermann_function) and g_64 is Graham's
+number (http://en.wikipedia.org/wiki/Graham%27s_number).
+
+If xkcd contains the sequence of digits '314159265', I vote ROOT.
+Otherwise, I vote MURPHY.
+
+ehird
+
+Rule 2127/2 (Power=1) Conditional Votes [extract]
+      The option selected shall be considered to be clearly identified
+      if and only if the truth or falsity of the specified
+      condition(s) can be reasonably determined...
+                          ^^^^^^^^^^
+
+========================================================================

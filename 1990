@@ -1,0 +1,129 @@
+==============================  CFJ 1990  ==============================
+
+    The CotC CAN assign a poorly qualified player to judge a case.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         07 Jun 2008 19:26:27 GMT
+Assigned to Machiavelli:                08 Jun 2008 07:09:36 GMT
+Judged TRUE by Machiavelli:             13 Jun 2008 14:52:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+By Rule 1868, the CotC CAN assign a qualified judge to a
+case if it requires one and has no judge assigned.  The action of
+assigning a judge is therefore regulated by both R2125(c) and
+R2125(e), both of which stipulate that the action CANNOT be performed
+except as allowed by the rules.  Rule 1868 also stipulates that the
+CotC SHALL not assign as judge an entity who is poorly qualified to
+judge the case.  Since R1868 makes it possible but does not allow it,
+R2125(c) and R2125(e) both stipulate that the action is in fact
+impossible.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2125 (Power=3)
+
+      An action is regulated if:
+
+        a) It is IMPOSSIBLE.
+
+        b) It is ILLEGAL.
+
+        c) The rules explicitly state that it CAN be performed while
+           certain conditions are satisfied.  Such an action CANNOT
+           be performed except as allowed by the rules.
+
+        d) The rules explicitly state that it MAY be performed while
+           certain conditions are satisfied.  Such an action MAY NOT
+           be performed except as allowed by the rules.
+
+        e) It would, as part of its effect, modify information for
+           which some player is required to be a recordkeepor.  Such
+           an action CANNOT modify that information except as allowed
+           by the rules.
+
+        f) A judicial finding has determined that it is regulated,
+           and has not been superseded by subsequent legislation.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+"Allowed" may need to be interpreted as, in some cases, being possible
+because of and, in others, being permitted because of. ("The pipes
+allow water to enter your house"; "The law allows the police officer
+to search your vehicle"... "The law allows people to put liens on your
+property, but they may be liable if the liens are not legitimate"???)
+Assigning a judge to a judicial case is not inherently possible
+because judicial cases and their properties are rule-defined entities
+and thus cannot be changed for the purposes of the rules except when a
+rule makes it possible. (Some related actions are inherently possible,
+of course, like announcing such an assignment and publishing a
+document that purports to be an official report reflecting such an
+assignment. None of these actions, however, have any inherent effect
+on the rule-defined state of the rule-defined entity.) Therefore, it
+may be reasonable to conclude that R1868 allows the CotC to assign a
+qualified judge for the purposes of R2125(c) and R2125(e).
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+CFJ 1990 asks if:
+
+>    The CotC CAN assign a poorly qualified player to judge a case.
+
+The caller, root, argues:
+
+> By Rule 1868, the CotC CAN assign a qualified judge to a
+> case if it requires one and has no judge assigned.  The action of
+> assigning a judge is therefore regulated by both R2125(c) and
+> R2125(e), both of which stipulate that the action CANNOT be performed
+> except as allowed by the rules.  Rule 1868 also stipulates that the
+> CotC SHALL not assign as judge an entity who is poorly qualified to
+> judge the case.  Since R1868 makes it possible but does not allow it,
+> R2125(c) and R2125(e) both stipulate that the action is in fact
+> impossible.
+
+The exact wording of this part of R1868 is "When a judicial case
+requires a judge and has no judge assigned, the CotC CAN assign a
+qualified entity to be its judge by announcement". The action here is
+assigning a qualified entity to be its judge, and the conditions are
+that it requires a judge and has no judge assigned. Assigning a poorly
+qualified player is in fact assigning a qualified player, if I've read
+the rules right, meaning that R1868 states that the CotC CAN assign a
+poorly qualified entity as judge. The rule does not need to state that
+poorly qualified entities are in fact possible to assign any more than
+it needs to state that non-poorly qualified entities are possible to
+assign, or that qualified entities that are players are possible to
+assign.
+
+However, R1868 does indeed say that the CotC SHALL NOT assign a poorly
+qualified judge, and in an exciting twist (I thought so, at least),
+R2125 says, "Such an action CANNOT be performed except as allowed by
+the rules." Woggle helpfully points out:
+
+> "Allowed" may need to be interpreted as, in some cases, being possible
+> because of and, in others, being permitted because of.
+
+Since R2125 is ambiguous, we have to turn to precedent to interpret
+"allowed" in this case (does anybody know of any?), or, failing that,
+to the intention of the rule, which is probably to say that something
+CANNOT be done unless it CAN and MAY NOT be done unless it MAY, making
+the answer TRUE if there's no precedent.
+
+========================================================================

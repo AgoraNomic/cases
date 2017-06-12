@@ -1,0 +1,280 @@
+>From nomic-official-owner@teleport.com  Wed Oct 18 05:30:42 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA02852 for <blahedo@quincy.edu>; Wed, 18 Oct 1995 05:30:39 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA29779 for nomic-official-outgoing; Wed, 18 Oct 1995 03:26:08 -0700
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA29769 for <nomic-official@teleport.com>; Wed, 18 Oct 1995 03:26:01 -0700
+Message-Id: <199510181026.DAA29769@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA08905; Wed, 18 Oct 1995 11:25:36 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 809: Judgement
+To: nomic-official@teleport.com
+Date: Wed, 18 Oct 95 11:25:17 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+
+			ASSIGNMENT CFJ 809
+
+Statement:  Rule 1493/1 should be interpreted such that when one Player
+sends a legitimate message to the Tabulator requesting that a Win
+Token be removed from a second Player and destroyed, and that second
+Player has no Win Tokens in eir Treasury, that that second Player
+comes to possess a negative number of Win Tokens.
+
+======================================================================
+
+Judge:		Zefram
+Judgement:	FALSE
+
+Eligible:	Andre, Chuck, Coco, Dave Bowen, elJefe, KoJen, 
+		Michael, Oerjan, SugarWater, Steve, Swann, Vanyel, 
+		Vlad, wutold, Xanadu, Zefram
+
+Not Eligible:
+Caller:		Kelly
+Barred: 	Ian, favor
+On Hold:	Garth, JonRock
+
+Effects:	Zefram gains 3 Points for timely Judgement
+
+======================================================================
+
+History:
+  Called by Kelly, October 11 1995, 09:36 EST5
+  Assigned to Zefram, date unknown
+  Judged FALSE by Zefram, October 18 1195, 02:28 +0100 (BST)
+
+======================================================================
+
+Argument:
+
+Win Tokens are a Currency (R.1491).  The quantity of a Currency in a
+given Treasury is permitted to be negative (R.1468).  A Transfer which
+causes a Treasury to become negative is only permitted if it is a Type
+I transfer; that is, a transfer which is required to take place
+according to the Rules (R.1472).  The transfer of Win Tokens which
+results when a Player sends a legitimate message to the Tabulator is a
+Type I transfer, in that the transfer is required to take place
+whenever the conditions specified in R.1493 arise.
+
+Since the transfers initiated by R.1493 are Type I, they are permitted
+to cause a Treasury to become negative, and therefore if a Player who
+previously had zero Win Tokens in eir Treasury loses one as a
+consequence of the application of R.1493, the Treasury of that Player
+becomes negative at that time.
+
+======================================================================
+
+Requested Injunction:
+
+The Judge is requested to enjoin the Rulekeepor to annotate Rule 1493
+with the Statement of this CFJ.  The List of Relevant Rules (as
+required by R.789) is: R.1491; R.1472; R.1493; R.1468.
+
+======================================================================
+
+Arguments Judge:
+
+This case hinges on the Class of Win Token Transfers.  If they are
+Class I transfers, then they can indeed cause people to have negative
+numbers of Win Tokens.  If they are instead Class II or Class III
+transfers, then they cannot cause people to have negative numbers of
+Win Tokens.  Rule 1472/2 says:
+
+      A transfer which is explicitly and directly required to take
+      place by a Rule is initiated by that Rule, and is called a Class
+      I Transfer.
+
+      A transfer which is required to take place by an Entity (other
+      than the Rules) to which the Rules have granted the power to
+      require Currency Transfers to take place is initiated by that
+      Entity (_not_ the Rule which grants that power to that Entity),
+      and is called a Class II Transfer.
+
+Win Token transfers are not explicitly required to take place by the
+Rules.  The Rules merely grant the power to require these transfers to
+Players.  Hence the transfers are Class II transfers.
+
+The requested injunction is therefore denied.
+
+======================================================================
+
+Evidence:
+
+Rule 1491/0 (Mutable, MI=1)
+Win Tokens and the Tabulator
+
+      Let there be a Currency known as a Win Token. Any Player may
+      possess any number of Win Tokens, which are created, destroyed,
+      transferred, and otherwise manipulated only according to this
+      and other Rules.
+
+      The Recordkeepor for Win Tokens is the Tabulator. The Tabulator
+      is responsible for keeping track of the status of Win Tokens. E
+      shall post to the Public Forum at least once per Week, a report
+      of the number of Tokens currently possessed by each Player, as
+      well as a description of the changes since the previous report.
+      Additionally, e shall make a report as soon as possible
+      following a Win By Tokens.
+
+      Upon creation of this Rule, all Players start with 0 Win Tokens. When a
+      Player joins the Game, e starts with 0 Win Tokens. Whenever a
+      Game ends (for any reason), all Win Tokens are destroyed.
+
+
+History:
+Created by Proposal 1653, Aug. 6 1995
+
+----------------------------------------
+
+Rule 1472/2 (Mutable, MI=1)
+Transfer of Currencies
+
+      It shall be legal to transfer Currencies between Treasuries,
+      provided this is done in accordance with the Rules.  Every
+      transfer shall involve a positive amount of exactly one
+      Currency, which shall be transferred from exactly one Treasury
+      into exactly one other Treasury.  Every transfer has an
+      initiator, which is the Entity which causes the transfer to take
+      place.
+
+      A transfer which is explicitly and directly required to take
+      place by a Rule is initiated by that Rule, and is called a Class
+      I Transfer.
+
+      A transfer which is required to take place by an Entity (other
+      than the Rules) to which the Rules have granted the power to
+      require Currency Transfers to take place is initiated by that
+      Entity (_not_ the Rule which grants that power to that Entity),
+      and is called a Class II Transfer.
+
+      A transfer which is not required to take place, and which is
+      instead the consequence of a Player's action, is initiated by
+      that Player, and is a called a Class III Transfer.
+
+      For the purpose of this Rule, a Rule, or an Entity other than
+      the Rules to which the Rules have granted the power to require
+      Players to perform actions, which requires a Player to initiate
+      a transfer is _not_ requiring the transfer.  Such a transfer is
+      a Class III transfer initiated by that Player.  This Rule takes
+      precedence over any Rule which would require a Player to
+      initiate a transfer which is prohibited by this Rule.
+
+      A Class I transfer is not permitted if there is no Rule which
+      specifies a Player who is to detect and report the transfer.
+
+      A Class II transfer is not permitted if there is no Rule, or
+      Entity other than the Rules to which the Rules have granted the
+      power to require Players to perform actions, which specifies a
+      Player who is to detect and report the transfer.
+
+      A Class II or Class III Transfer is not permitted if the
+      Treasury from which the Currency is being transferred will
+      possess a negative quantity of that Currency after the transfer
+      has been completed.
+
+      A Class III Transfer is not permitted unless the transfer is
+      initiated by the Executor of the Owner of the Treasury from
+      which the Currency is being transferred.
+
+      This Rule takes precedence over any Rule which would permit a
+      transfer prohibited by this Rule.
+
+      The Recordkeepor of a Currency must be notified of a transfer
+      involving that Currency within seven days, unless another Rule
+      specifies a different time limit for reporting a certain type of
+      transfer.  For a Class I or Class II transfer, the notification
+      shall be made by the Player required to detect and report it.
+      For a Class III transfer, the notification shall be made by the
+      Player who initiated it.
+
+      Class I and Class II transfers take place at the time they are
+      required to take place.  Class III transfers take place at the
+      time they are reported.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1649, Aug. 1 1995
+Amended(2) by Proposal 1702, Sep. 1 1995
+
+----------------------------------------
+
+Rule 1493/1 (Mutable, MI=1)
+Win Token Transfers
+
+      During each Nomic Week, each Player not on Hold may make 0, 1,
+      2, or 3 transfers of Win Tokens, in addition to any transfers
+      permitted by default Currency Rules. These transfers occur when
+      a Player sends a legitimate message to the Tabulator, requesting
+      the transfer, which the Tabulator must record. The following are
+      the only legitimate transfers, except that the default Currency
+      Rules may permit other kinds of transfers as well:
+
+      * 1 Token created and given to any Player, except the
+      requesting Player.
+
+      * 1 Token removed from any Player and destroyed.
+
+      * 1 Token moved from any Player to any other Player except the
+      Player making the transfer. This counts as two transfers.
+
+History:
+Created by Proposal 1653, Aug. 6 1995
+Null-Amended(1) by Proposal 1705, Sep. 4 1995
+
+----------------------------------------
+
+Rule 1468/0 (Mutable, MI=1)
+Definition of a Treasury
+
+      A Treasury is a repository for holding Currencies.  Currencies
+      may exist only within a Treasury.  A Treasury may contain a
+      positive, negative, or zero quantity of a given Currency, unless
+      otherwise prohibited by the Rules.  Currencies may be
+      transferred between Treasuries only as specified in the Rules.
+
+      Only those Nomic Entities which are authorized by the Rules to
+      possess Treasuries may possess Treasuries.  No Treasury may be
+      possessed by more than one Nomic Entity.  The possession of
+      Treasuries may never be changed, once created.
+
+      Each Player and each Group has a Treasury of its own.
+
+      Whenever an Entity possesses only one Treasury, it shall be a
+      permissible and unambiguous abbreviation to state that the
+      Entity possesses the Currencies within its Treasury.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+
+----------------------------------------
+
+Rule 789/1 (Mutable, MI=1)
+Injunctions on Interpretations of Rules
+
+      When a player makes a CFJ alleging that a Rule should be
+      interpreted in a certain way, e shall also submit a list of
+      Rules relevant to that CFJ, which must include the Rule in
+      question.  If the statement is Judged TRUE, the Judge may
+      include with the Judgement an Injuction requiring the Rulekeepor
+      to annotate the Rule in question with the Statement in the CFJ
+      and the list of relevant Rules.
+
+      The annotation shall remain only until one of the Rules in the
+      list of relevant Rules is changed in any way; or until a CFJ
+      determines that the injunction no longer applies, as described
+      below.  While it remains, it shall guide the application of that
+      Rule.
+
+      If a Player believes that the circumstances which led to the
+      Judgement no longer prevail and the annotation is therefore no
+      longer applicable, e may submit a CFJ to that effect. If it is
+      Judged TRUE, the annotation shall be stricken from the rule set.
+
+History:
+...
+Amended(1) by Proposal 1396, Jan. 29 1995

@@ -1,0 +1,389 @@
+>From nomic-official-owner@teleport.com  Mon Sep 25 06:45:04 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id GAA02292 for <blahedo@quincy.edu>; Mon, 25 Sep 1995 06:45:00 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id EAA19053 for nomic-official-outgoing; Mon, 25 Sep 1995 04:37:29 -0700
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id EAA19032 for <nomic-official@teleport.com>; Mon, 25 Sep 1995 04:37:16 -0700
+Message-Id: <199509251137.EAA19032@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA25756; Mon, 25 Sep 1995 12:33:40 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 808: Judgement
+To: nomic-official@teleport.com
+Date: Mon, 25 Sep 95 12:33:39 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+I hereby make the following Call for Judgement. I bar Vanyel and Ian.
+======================================================================
+			ASSIGNMENT CFJ 808
+
+Ian's creation of 3 Win Tokens and transfer of them to Vanyel at
+Fri, 15 Sep 1995 15:38:14 -0700 did not cause Vanyel to win the game.
+
+======================================================================
+
+Judge:		Andre
+Judgement:	TRUE
+
+Eligible:	Andre, Chuck, Coco, Dave B., elJefe, favor, Kelly, 
+		KoJen, Michael, Oerjan, SugarWater, Swann, Vlad,
+		Xanadu, Zefram
+
+Not Eligible:	
+  Caller:	Steve
+  Barred:	Ian, Vanyel
+  On Hold:	Brian, Garth, JonRock
+
+Effects: 	Andre gains 3 Points for timely Judgement
+
+======================================================================
+
+History:
+  Called by Steve, 21 Sep, 11:29 +1000 (EST)
+  Assigned to Andre, 21 Sep, 11:32 METDST
+  Assignment upheld, 25 Sep, 12:02 MET
+  Judged TRUE by Andre, 25 Sep, 12:28 MET
+
+======================================================================
+
+Reasons and Arguments:
+
+Tabulator Ian reported that Vanyel became a Winner by Tokens in his
+Report of Sep 15.  Here's the relevant excerpt form his Report:
+
+>Ian1 (WT created) --> Vanyel
+>Ian2 (WT created) --> Vanyel
+>Ian3 (WT created) --> Vanyel
+>Fri, 15 Sep 1995 15:38:14 -0700
+>
+>Vanyel currently possesses at least 20 more
+>Win Tokens than Andre (=any other player).
+>E is therefore "the Winner (a Win by Tokens)."
+>
+>Vanyel     0      0 +3 +3 +3 +3 +3 +3 +3=21
+
+Here's the relevant part of Rule 1492:
+
+      A Player not on Hold becomes the Winner (a Win By Tokens) when
+      the number of Win Tokens e possesses is at least X greater than
+      the number of Win Tokens possessed by any other Player at that
+      time. X is the number of Players at the time the previous Game
+      ended.
+
+Tabulator Ian's claim that Vanyel wins the game with 21 Win Tokens
+rests on his interpreting the phrase "any other Player" in Rule 1492
+to mean "some other (one or arbitrarily chosen) Player", rather than
+"all other Players". But is this interpretation reasonable? I don't
+think so. Not only is it highly unidiomatic, it is inconsistent with
+the way the phrased is used in the rest of the Ruleset. Specifically,
+I claim that in all other places in the Ruleset where the phrase "any
+other Player" occurs, and where both readings are at least in
+principle available (because neither are ruled out by contextual
+considerations), and where it makes a difference, we should and do
+read "any other Player" to mean "all other Players", and not "some
+other (one or arbitrarily chosen) Player".
+
+Rule 1006 (Defaults for Officers):
+
+      It is forbidden for two or more Players to hold the same Office
+      at the same time.  If the Rules require that a specific Player
+      fill an Office, any other Player who currently fills that Office
+      ceases to do so simultaneously.
+
+A key case: note that the first sentence refers to "two or more" Players.
+Let's say that for some reason two Players are held to simultaneously
+hold the same Office. Now, a third person is required by the Rules to
+fill that Office. Obviously, *all* the other Players who hold the
+Office cease to fill the Office, not just some one arbitrarily chosen
+of them.
+
+Rule 1064 (Freedom of Information Act):
+
+      If a Player is mandated by the Rules to maintain a set of
+      records, these records must be available for public perusal,
+      unless such records are designated by the Rules as private.  A
+      Player who maintains such records must provide a copy of these
+      Records to any other Player upon request within one week.
+
+Obviously, the Recordkeepor is required to honour *all* such requests
+in a given week, not just some one arbitrarily chosen among them.
+
+Rule 1016 (Putting Oneself On Hold):
+
+      A Player may not place any other Player besides emself on Hold.
+
+Again, obviously, the restriction applies to all other Players, not
+just some one arbitrarily chosen Player.
+
+In short, I argue that for Vanyel to win the game by Tokens, he must
+have at least 20 (21 now that Alex Coco has joined) more Win Tokens
+than all other Players (considered individually). At the time of
+Tabulator Ian's Report, Steve had 3 Win Tokens, and Vanyel 21. So
+Vanyel had only 18 more Win Tokens than Steve, and so Ian's transfer
+did not cause Vanyel to win the game.
+
+======================================================================
+
+Judgement & Reasoning Judge:
+
+
+Basically I agree with the caller that the meaning of "any other Player" here
+means "all other Players individually", not "some arbitrarily chosen other
+Player". To add something useful to the discussion, I will give a few
+places in the ruleset where the word 'any' is used in a context very
+similar to the one we are discussing, as I think the Caller's examples
+are not very good in their similarity. Here are my analogies:
+
+Rule 1023 (Definition of ASAP):
+Whenever a Player is required to perform a certain action
+"as soon as possible", e is required to perform that action
+within a week, and no later than any other action e is 
+subsequently required to perform. [...]
+
+So, next time we can say: "Yes, there were things I was subsequently
+required to perform which I did before I did something I was to do
+ASAP, but I did not break Rule 1023, because there were things that I
+did later as well..."?!?
+
+Rule 1036 (Making and Distributing Proposals):
+[...]
+Within seven (7) days of the receipt of the Proposals, and not
+later than any subsequently received Proposal, the Promoter
+shall distribute the numbered Proposal to all Players.
+[...]
+
+Andre
+
+======================================================================
+
+Evidence:
+
+1. Tabulator Ian's Report of 95.09.15
+2. Rule 1492
+3. Rule 1006
+4. Rule 1016
+5. Rule 1064
+6. Rule 1023 (added by Judge; included by reference)
+7. Rule 1036 (added by Judge; included by reference)
+
+----- 1. Tabulator Ian's Report of 95.09.15
+
+============================================
+Tabulator's Report 
+     Date of Last Report:  95.09.08
+     Date of This Report:  95.09.15
+============================================
+Win Tokens needed to Win:   20
+
+Last Report:
+--------------------------------------------
+Player     Blots   Win Tokens
+--------------------------------------------
+Andre        0        0
+Chuck        0        0
+Dave B       0        0
+elJefe       0        0
+favor        0        0
+Garth        0        0
+Ian          0        0
+JonRock      1        0
+Kelly        0        0
+KoJen        0        0
+Michael      0        0
+Oerjan       0        0
+Steve        0        3
+SugarWater   0        0
+Swann        0        0
+Vanyel       0        0
+Vlad         0        0
+Xanadu       0        0
+Zefram       0        0
+--------------------------------------------
+Changes since the last Report:
+--------------------------------------------
+
+KoJen1 (WT created) --> Vanyel
+KoJen2 (WT created) --> Vanyel
+KoJen3 (WT created) --> Vanyel
+Fri,  8 Sep 95 15:32:14 -0400
+
+Michael1 (WT created) --> Vanyel
+Michael2 (WT created) --> Vanyel
+Michael3 (WT created) --> Vanyel
+Sat, 9 Sep 95 12:00:03 BST
+
+------- (End Nomic Week) -------------------
+
+Michael1 (WT created) --> Vanyel
+Michael2 (WT created) --> Vanyel
+Michael3 (WT created) --> Vanyel
+Mon, 11 Sep 95 12:00:03 BST
+
+KoJen1 (WT created) --> Vanyel
+KoJen2 (WT created) --> Vanyel
+KoJen3 (WT created) --> Vanyel
+Tue, 12 Sep 95 14:52:47 -0400
+
+Dave B1 (WT created) --> Vanyel
+Dave B2 (WT created) --> Vanyel
+Dave B3 (WT created) --> Vanyel
+Tue, 12 Sep 1995 14:41:25 -0500
+
+Steve1 (WT created) --> Vanyel
+Steve2 (WT created) --> Vanyel
+Steve3 (WT created) --> Vanyel
+Thu, 14 Sep 1995 11:49:03 +1000 (EST)
+
+Steve gains 3 Blots for defaulting on CFJ 806
+Andre gains 3 Blots for defaulting on CFJ 806
+Chuck gains 3 Blots for defaulting on CFJ 806
+
+Ian1 (WT created) --> Vanyel
+Ian2 (WT created) --> Vanyel
+Ian3 (WT created) --> Vanyel
+Fri, 15 Sep 1995 15:38:14 -0700
+
+Vanyel currently possesses at least 20 more
+Win Tokens than Andre (=any other player).
+E is therefore "the Winner (a Win by Tokens)."
+
+Current Blot and Win Token Standings:
+--------------------------------------------
+Player   Blots    Win Tokens
+--------------------------------------------
+Andre      0+1=1  0                     =0
+Chuck      0+1=1  0                     =0
+Dave B     0      0                     =0
+elJefe     0      0                     =0
+favor      0      0                     =0
+Garth      0      0                     =0
+Ian        0      0                     =0
+JonRock    1      0                     =0
+Kelly      0      0                     =0
+KoJen      0      0 +3                  =3
+Michael    0      0                     =0
+Oerjan     0      0                     =0
+Steve      0+1=1  3                     =3
+SugarWater 0      0                     =0
+Swann      0      0                     =0
+Vanyel     0      0 +3 +3 +3 +3 +3 +3 +3=21
+Vlad       0      0                     =0
+Xanadu     0      0                     =0
+Zefram     0      0                     =0
+--------------------------------------------
+
+Ex-Player Susan left the game with 5 Blots.
+Ex-Player Brian left the game with 1 Blot.
+========== End Tabulator's Report ==========
+
+
+----- 2. Rule 1492
+
+Rule 1492/0 (Mutable, MI=1)
+Winning by Tokens
+
+      A Player not on Hold becomes the Winner (a Win By Tokens) when
+      the number of Win Tokens e possesses is at least X greater than
+      the number of Win Tokens possessed by any other Player at that
+      time. X is the number of Players at the time the previous Game
+      ended. The number of Tokens required to Win shall be listed by
+      the Tabulator in eir report.
+
+History:
+Created by Proposal 1653, Aug. 6 1995
+
+----- 3. Rule 1006
+
+Rule 1006/3 (Mutable, MI=1)
+Defaults for Officers
+
+      Offices are a class of Nomic Entities, referring generically
+      to a position of authority or responsibility in Agora Nomic.
+
+      Only those Offices specifically established by the Rules.  If an
+      Office ceases to be specified in the Rules, it ceases to exist.
+
+      An Officer is any Player who fills an Office as specified in the
+      Rules.  No Player shall be required to fill an Office without
+      giving consent.  A Player indicates that e consents to fill an
+      Office by posting to the Public Forum that e does so.  To be
+      binding, such a post must be made not more than one week before,
+      nor more than one week after, the time that the Player is
+      designated to fill the Office in question.
+
+      It is forbidden for two or more Players to hold the same Office
+      at the same time.  If the Rules require that a specific Player
+      fill an Office, any other Player who currently fills that Office
+      ceases to do so simultaneously.
+
+History:
+...
+Amended(1) by Proposal 1336, Nov. 22 1994
+Amended(2) by Proposal 1582, May 15 1995
+Amended(3) by Proposal 1699, Sep. 1 1995
+
+----- 4. Rule 1016
+
+Rule 1016/4 (Semimutable, MI=2)
+Putting Oneself on Hold
+
+      A Player may choose to be placed On Hold at any time by sending
+      a message indicating such to the Public Forum.  A Player may not
+      place any other Player besides emself on Hold.  A Player may
+      cease to be On Hold by sending a message indicating such to the
+      Public Forum, so long as it has been at least 96 hours since e
+      last went On Hold.  An Active Player is a Player who is not On
+      Hold.
+
+      While On Hold, a Player may not Vote, propose Proposals,
+      or campaign for or hold Office.  E is also absolved of any
+      duties which would otherwise be required of em, including
+      appointment as a Judge
+
+      This rule takes precedence over any rule giving special duties
+      to a particular player or a particular group of players.
+      (*Was: 464/870*)
+
+History:
+...
+Amended(1) by Proposal 1337, Nov. 22 1994
+Amended(2) by Proposal 1374, Jan. 17 1995
+Mutated from MI=1 to MI=2 by Proposal 1407, Jan. 29 1995
+Amended(3) by Proposal 1618, Jul. 10 1995
+Amended(4) by Proposal 1700, Sep. 1 1995
+
+----- 5. Rule 1064
+
+Rule 1064/3 (Mutable, MI=1)
+Freedom of Information Act
+
+      If a Player is mandated by the Rules to maintain a set of
+      records, these records must be available for public perusal,
+      unless such records are designated by the Rules as private.  A
+      Player who maintains such records must provide a copy of these
+      Records to any other Player upon request within one week.  If e
+      fails to so provide a copy of the requested records within one
+      week, e commits a Class D Crime, unless the Records are
+      unavailable for reasons beyond eir control and e reports this
+      fact, with explanation, within one week.
+
+      For the purpose of this Rule, all records pertaining to Votes
+      currently in progress, excluding the text of the Proposals under
+      consideration, are designated as private until the end of the
+      Voting Period.
+
+      (*Was: 488*)
+
+History:
+...
+Amended(1) by Proposal 1344, Nov. 29 1994
+Amended(2) by Proposal 1672, Aug. 22 1995
+Amended(3) by Proposal 1682, Aug. 22 1995
+
+----- 6/7. Ruleses 1023 & 1036
+(included by reference)
+
+
+Andre

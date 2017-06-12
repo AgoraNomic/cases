@@ -1,0 +1,33 @@
+Judgement 47 (David Cogen) Fri, 01 Oct 1993 13:52:13 -0500
+
+Rule 470 has no effect because it is inconsistent.
+
+This rule states that the 5% tax is to be "rounded up to the nearest
+integer".  This phrase is ambiguous. Either it means
+
+    rounded up to the next integer
+
+or
+
+    rounded (up or down) to the nearest integer
+
+It cannot mean both. Since it is impossible to determine which meaning
+is intended, this rule cannot be enforced.
+
+Example: 3.2
+
+The nearest integer is 3, but rounding up gives 4. Which is right? Who
+can say?
+
+Judge: Vlad (accepted 3/10/93)
+
+Judgement: TRUE
+
+-----
+
+Justification: 
+
+Unfortunately, the statement "round up to the nearest integer" is not
+ambiguous. I interpret as "round to the nearest larger integer".  There
+are many larger integers, but only one nearest one. Thus the word
+'nearest' is needed.

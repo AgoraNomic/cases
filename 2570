@@ -1,0 +1,101 @@
+==============================  CFJ 2570  ==============================
+
+    C-walker recently submitted a proposal containing the 'word'
+    'registeredcontinuously'.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Pavitra
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       05 Jun 2009 13:38:13 GMT
+Assigned to Pavitra:                    06 Jun 2009 06:47:42 GMT
+Judged FALSE by Pavitra:                07 Jun 2009 00:47:28 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+multipart MIME messages are a pain in the butt, particularly
+when the HTML generator sticks a div tag instead of a space between
+two words and the plain text portion doesn't match what an email
+client displays or what the poster presumably copied and pasted from
+the ruleset into eir broken email client to send it.  As Promotor,
+I've been copying proposal text directly from the original messages,
+using the text/plain portion for multipart messages. This may not
+accurately represent the "message" sent to the forum.
+
+========================================================================
+
+Caller's Evidence:
+
+The text/plain portion of this section reads:
+----------------------
+In the Rule "The Senate", replace:
+
+{{
+
+A Senator is any first-class player who has been registeredcontinuously for
+the immediately preceding sixty days. The set
+of all Senators is known as the Senate. The Registrar's report
+includes a list of all Senators.
+--------------------------
+
+========================================================================
+
+Gratuitous Evidence by Walker:
+
+R105 states:
+
+    A variation in whitespace or capitalization in the quotation of an
+existing rule does not constitute ambiguity for the purposes of this rule, but
+any other variation does.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+There appears to be no controversy over the following facts of the case:
+
+  C-walker's intention was to write "registered continuously".
+
+  E pursued that intention by copying a block of text containing that
+  text, with the space, into eir email client.
+
+  The omission of the space is due to either a bug or misfeature, of
+  which C-walker was unaware, in the automated tools that C-walker used
+  to send the message.
+
+
+In view of these facts, I find that the space in the phrase "registered
+continuously" was dropped after the message left C-walker's normal
+domain of technical control. This situation is fundamentally no
+different than if, say, the space had been dropped due to hardware line
+noise between Google's servers and the server hosting the a-b mailing list.
+
+Therefore, the message that C-walker sent contained the space in
+"registered continuously", and consequently the proposal e created
+contained the space as well.
+
+========================================================================
+
+Judge Pavitra's Evidence:
+
+>From Rule 106 (Adopting Proposals):
+      A player CAN create a proposal by publishing ("submitting") a
+      body of text with a clear indication that it is intended to
+      become a proposal, which places the proposal in the Proposal
+      Pool.
+
+
+>From Rule 478 (Fora):
+                  A person "publishes" or "announces" something by
+      sending a public message.
+
+========================================================================

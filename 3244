@@ -1,0 +1,97 @@
+==============================  CFJ 3244  ==============================
+
+    It would be ILLEGAL for a player to publish a message whose body
+    consisted solely of the text "I intend, without objection, to ratify
+    the statement of CFJ 3240.".
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  FKA441344
+Judgement:                              UNDECIDABLE
+
+
+Judge:                                  FKA441344
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       06 Jul 2012 14:00:11 GMT
+Assigned to omd:                        06 Jul 2012 14:02:43 GMT
+omd recused:                            06 Jul 2012 23:14:11 GMT
+Assigned to FKA441344:                  16 Jul 2012 06:27:55 GMT
+Judged UNDECIDABLE by FKA441344:        22 Jul 2012 22:12:25 GMT
+Reconsideration requested by omd:       23 Jul 2012 04:01:14 GMT
+Reconsideration requested by FKA441344:
+                                        23 Jul 2012 09:58:28 GMT
+Assigned to FKA441344:                  23 Jul 2012 09:58:28 GMT
+Judged TRUE by FKA441344:               23 Jul 2012 09:58:28 GMT
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+This phrase:
+  For the purposes of the rules, messy statements are considered
+       inaccurate and incorrect regardless of their truth value.
+does not make it clear if the TRUE/FALSE/UNDECIDABLE of court cases
+should be applied to the "truth value" of the messy statement (which
+would still allow for UNDECIDABLE) or to its deemed inaccurateness.
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+The statement of CFJ 3240 is messy, and therefore considered
+inaccurate (i.e. false; accuracy refers to truth when applied to
+statements and not, for example, projectiles), which would imply that
+the statement of this CFJ is true. However, the statement of this CFJ
+is also messy, and therefore considered false. However, the statement
+that the statement of this CFJ is false is also messy, so it cannot be
+accurately described as false. It also cannot be accurately described
+as true, so I judge UNDECIDABLE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+I intend to call for reconsideration with two support - the statement
+of CFJ 3240 is considered messy, therefore inaccurate, but *not*
+false: the purpose of Rule 2367's "messy statements are considered
+inaccurate and incorrect regardless of their truth value" is to
+introduce an artificial definition of "inaccurate" different from
+"false", and the clause does not make much sense if interpreted
+otherwise (since "false" is by definition a truth value; I guess you
+could say it's "considered" false regardless of whether it actually is
+false, but that's not consistent with general Agoran usage of
+"considered" as "def=").  Though the wording of Rule 591 makes
+UNDECIDABLE appropriate *anyway*, FALSE is also appropriate, and would
+probably be a more fair judgement in this case - UNDECIDABLE is, for
+instance, also appropriate for statements that would usually be judged
+UNDETERMINED for vagueness (although I'm not sure if it's possible to
+construct such a statement that's also a turtle - see CFJ 1799).
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+I do so; I must have missed the "regardless of it's truth value" bit.
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+Rule 2202 uses correctness and not truth (and rule 2367 says
+"considered inaccurate and incorrect", which makes the statement of
+this CFJ true but incorrect. Rule 591 says "TRUE, appropriate if the
+statement was factually and logically true"; this does not depend on
+the correctness of the statement, so I judge CFJ 3244 TRUE.
+
+========================================================================

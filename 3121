@@ -1,0 +1,71 @@
+==============================  CFJ 3121  ==============================
+
+    Agora is stuck in an infinite loop.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      06 Nov 2011 21:19:40 GMT
+Assigned to Murphy:                     10 Nov 2011 16:35:13 GMT
+Judged FALSE by Murphy:                 10 Nov 2011 16:58:39 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I create a Promise with the following text, and then cash it: {{I cash
+this Promise. This Promise is not destroyed by being cashed.}}
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I'm moderately sure that Agora is at least
+multithreaded, and that the loop can easily be stopped without objection
+by Horton.
+
+Also, I'm not sure if this is an actual paradox, given that it doesn't
+have any game effects. (When I did something similarly with the Gnarlier
+Contract, the paradox "escaped" to the gamestate via pledginess; I don't
+think something similar is possible here.)
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+The most reasonable interpretation seems to me that scshunt
+cashed the promise an infinite number of times simultaneously, and did
+not cash it during any subsequent instant.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+generally, sequences of actions are considered to take
+place in a single instant, as long as they don't contain any explicit
+time delays. Therefore, following game custom, it seems most likely
+that the loop, despite being infinite, took place entirely within a
+single instant and is no longer taking place.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+See CFJ 2737.  This attempt depends on a similar induction chain, and
+Rule 2338 doesn't explicitly state that actions-by-cashing-a-promise
+can form an infinite chain.
+
+Apart from that, I accept the gratuitous arguments, and also note that
+the loop would not create any recordkeeping burdens (contrast the
+hypothetical gamestate in which Horton was required to select a random
+number associated with each cashing action).
+
+========================================================================

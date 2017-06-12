@@ -1,0 +1,117 @@
+==============================  CFJ 2887  ==============================
+
+    I won the game today.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       11 Oct 2010 20:31:23 GMT
+Assigned to omd:                        17 Oct 2010 21:24:25 GMT
+omd recused:                            31 Oct 2010 17:37:03 GMT
+Assigned to G.:                         07 Nov 2010 14:56:00 GMT
+Judged FALSE by G.:                     09 Nov 2010 00:21:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+By virtue of having the office of Pariah, a player who has
+had no Rests for a week, and did not become Pariah in that time, CAN win
+the game by announcement (via a specific Win Announcement: rule 2312),
+and likewise MAY do so. Thus, the Pariah CAN and MAY win the game by
+announcement, subject to having been clean for a while. I have had no
+Rests for a week, and did not become Pariah in that time; thus, via the
+Grand Vizier position, I can do whatever the Pariah (or any other
+officer) could do by announcement With Notice (rule 2255); in this case,
+win the game. (And I gave notice at least 4 days ago...)
+
+========================================================================
+
+Caller's Evidence:
+
+[CotC: immediately before initiating this case]
+
+On Thu, 2010-10-07 at 20:20 +0100, ais523 wrote:
+> On Thu, 2010-10-07 at 15:15 -0400, Sean Hunt wrote:
+> > For each elected office not held by Murphy, I resign that office.
+>
+> This requires With Notice, if it even works at all.
+>
+> I intend, with Notice, to win the game.
+
+I pay a fee to move on the list to Grand Vizier (thus moving coppro out
+of that position).
+
+With Notice, I win the game.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The judge should explicitly consider whether intending "to win the game"
+without detailing what is in fact a rather unusual and non-self-explanatory
+method of doing so is sufficiently clear and unambiguous to qualify
+as as a dependent action intent.  This has ramifications for many
+future dependent actions.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Other than via induction (which would obviously be insane),
+there is only one mechanism in the rules that allows a player to win the
+game with notice, so it should have been unambiguous what I was trying.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+In this case, winning the game is not an action, but the
+result of an action (making a Win Announcement about the Pariah) which
+anyone can do.  By ais523's argument, I could intend, without
+objection, to win the game, and (if I didn't get any objections) flip
+everyone's activity to Inactive, causing me to win by solitude.
+
+And then steal everyone's offices and crown myself.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+>From Rule 2186/9:
+       When one or more persons satisfy at least one Winning Condition
+       and do not satisfy any Losing Conditions, all such persons win
+       the game.
+
+Contrary to omd's gratuitous arguments, I find that "satisfying a win
+condition of cleanliness" is in fact an action that the Pariah CAN take
+by virtue of being the Pariah.  So the Grand Vizier CAN "satisfy the win
+condition of cleanliness" With Notice.
+
+However, contrary to caller ais523's arguments, "winning the game", as
+governed by R2186/9 is not a direct action but the platonic result of
+satisfying said winning conditions.
+
+As such, the action that had to be announced in intent for the intent to
+satisfy specificity requirements would have been "I intend to satisfy
+the win condition of Cleanliness" or possibly "I intend to have 0 rests
+for an entire week" rather than simply "I win the game", which is the
+follow-on action (this of course give others a chance to treat the Grand
+Vizier as the Pariah to try to block the win).  Saying merely "I intend
+to satisfy an unspecified winning condition" is like saying "I intend,
+without objection, to amend an unspecified rule in an unspecified way"
+which is not at all clear.
+
+========================================================================

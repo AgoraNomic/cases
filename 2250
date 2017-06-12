@@ -1,0 +1,58 @@
+==============================  CFJ 2250  ==============================
+
+    All non-public pledges with no more than one party that existed at
+    the time of passage of Proposal 5817 are null and void (i.e. no
+    longer exist).
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           02 Nov 2008 04:11:02 GMT
+Assigned to root:                       08 Nov 2008 08:50:07 GMT
+Judged FALSE by root:                   13 Nov 2008 02:33:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Nothing made said pledges public, so by R2178 they aren't, and
+are therefore (by the new R2191) no longer pledges.
+
+========================================================================
+
+Caller's Evidence:
+
+> Proposal 5817 (Democratic, AI=2.0, Interest=1) by Murphy
+> Private pledges are pointless
+>
+> Amend Rule 2191 (Pledges) by replacing "A pledge is a contract"
+> with "A pledge is a public contract".
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+you forgot /dev/null which has 0 parties, and
+didn't come to have less than the minimum (as it had less than the
+minimum already); apart from that, I think the resulting pledges were
+terminated. So FALSE on a technicality.
+
+========================================================================
+
+Judge root's Arguments:
+
+In general, any non-public pledge with exactly one party at the time
+Proposal 5817 was adopted would have ceased to be a pledge at that
+time, and thus come to have fewer than the minimum number of parties
+and been terminated.  As ais523 points out, this is not the case for
+the /dev/null contract, so the statement is FALSE.
+
+========================================================================

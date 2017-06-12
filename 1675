@@ -1,0 +1,57 @@
+==============================  CFJ 1675  ==============================
+
+    Quorum for a proposal is based on the maximum number of eligible
+    voters at any time during the voting period.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  The Hanging Judge
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       20 May 2007 22:50:12 GMT
+Assigned to The Hanging Judge:          22 May 2007 01:00:42 GMT
+Judged FALSE by The Hanging Judge:      23 May 2007 20:11:11 GMT
+
+========================================================================
+
+Judge The Hanging Judge's Arguments:
+
+(pseudo-judged by Zefram due to a bug in the judge eligibility rule)
+
+Quorum is defined by R879.  Its core definition is "one third the number
+of eligible voters".  The other clauses modify this a bit, but not in the
+ways that matter.  So quorum is based on the number of eligible voters;
+not the number of eligible voters at any particular time.  CFJ 1652
+has already found that the set of eligible voters can change during the
+voting period.  Although not explicitly addressed by CFJ 1652, the same
+argument extends to allowing the set of eligible voters to continue to
+change after the voting period.  Putting these together, I find that
+quorum for a proposal can also change, correspondingly, during and after
+the voting period.  Therefore all three of these statements, which attempt
+to set a single quorum value for each proposal, must be judged FALSE.
+
+I shall proceed to answer the underlying question of what is the quorum
+value that actually matters for a proposal.  Quorum is used in R955 part
+(b), which comes into play when the vote collector is determining the
+outcome of the Agoran decision.  This is not at a particular defined time,
+such as the end of the voting period.  It is necessarily no earlier than
+the end of the voting period, and similarly no later than when the Agoran
+decision is resolved by publishing voting results are published.
+
+R955 curiously does not simply describe a mathematical recipe for
+determining the result of an Agoran decision.  Instead it is explicitly
+formulated as a set of obligations on the vote collector, constituting a
+set of calculation steps that the vote collector is required to execute,
+personally and in sequence.  It therefore seems most likely that the time
+at which quorum becomes relevant is the time when the vote collector
+actually makes this calculation.  The vote collector has some latitude
+in choosing the time, and it appears that eir choice of time to perform
+this calculation influences the matter of quoracy.
+
+========================================================================

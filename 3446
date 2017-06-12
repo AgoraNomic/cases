@@ -1,0 +1,72 @@
+=============================  CFJ 3446  =============================
+
+      In Rule 2447/0, the "first week" of a month is the Agoran week
+      in which the 1st of the month occurs.
+
+======================================================================
+
+Caller:                      G.           
+
+Judge:                       aranea           
+Judgement:                   FALSE           
+
+======================================================================
+
+History:
+
+Called by G.:                30 Apr 2015
+Assigned to aranea:          17 May 2015
+Judged FALSE by aranea:      28 May 2015
+
+======================================================================
+
+Caller's Arguments:
+
+Other possibilities include:
+  - The "first week" means days 1-7 of the month (i.e. it's a
+    "relative duration" as per R1023.
+  - It's the first week that falls entirely within that month
+    as per R2327.
+I don't have a strong argument for any of these.
+
+It's possible that R2447 will be repealed soon, but the proposed new
+rule doesn't fix this language.
+
+[Arbitor's note:  As of CFJ assignment, disputed text is in R869/38].
+
+======================================================================
+
+Caller's Evidence:
+
+Rule 2447/0 (Power=1)
+Monthly Cleanup
+
+      In the first week of every month, the Registrar shall use the
+      method described in Rule 2130 to attempt to deregister every
+      player that has not sent a message to a public forum in the last
+      month. This action is the Monthly Deportation.
+
+      Players who have not sent messages to a public forum in the last
+      month are encouraged to deregister themselves before the Monthly
+      Deportation.
+
+======================================================================
+
+Judge's Arguments:
+
+The cited rule 2447/0 is ambigous, so there's some room for reasonable
+interpretation here. Assuming the "first week" refers to the Agoran
+week in which the 1st of the month occurs would create some problems:
+
+The Monthly Deportation should take place in the new month because
+the deregistration requirement of R869 (then R2130) refers to the
+"last" month. If the 1st of a month falls on a Sunday, the Registrar
+would have to perform the Monthly Deportation on that exact date; this
+seems to be an unreasonable requirement.
+
+The other two proposed interpretations would make more sense. I prefer
+the option "relative duration, days 1-7 of the month".
+
+I judge FALSE.
+
+======================================================================

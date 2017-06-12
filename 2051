@@ -1,0 +1,102 @@
+==============================  CFJ 2051  ==============================
+
+    ais523 can fill the Buy Ticket specified in the evidence more than
+    once.
+
+========================================================================
+
+Caller:                                 BobTHJ
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by BobTHJ:                       27 Jun 2008 20:21:43 GMT
+Assigned to woggle:                     01 Jul 2008 21:34:34 GMT
+Judged FALSE by woggle:                 05 Jul 2008 17:56:17 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Fri, Jun 27, 2008 at 2:16 PM, Alexander Smith <AIS523@bham.ac.uk> wrote:
+> BobTHJ wrote:
+>> On Fri, Jun 27, 2008 at 2:03 PM, Alexander Smith <AIS523@bham.ac.uk> wrote:
+>>> BobTHJ wrote:
+>>>> Buy Ticket
+>>>> Cost: A number of VP equal to 1/3 (rounded down) of the filler's
+>>>> current Voting Limit on Ordinary proposals.
+>>>> Action: Vote in the manner specified by me on a future proposal of my
+>>>> choice. This ticket may be filled multiple times (a maximum of once
+>>>> per each player) and does not expire until revoked.
+>>> An offer that looks good, but there's a scam behind it, I think.
+>>> Presumably you're going to try to corner a majority of votes and use
+>>> them to push through a scam proposal?
+>>
+>> I had considered that....but mostly I'm just pre-buying votes for
+>> future legitimate proposals that I want to make sure pass. I doubt I'd
+>> get enough takers to get a majority of votes anyway.
+> Well, in that case: there are at least 28 players (I'm not counting
+> ehrid or the Left Hand in that count because their registration stati
+> are in doubt), and that ticket has been filled once, so it can be filled
+> a further 27 times. I therefore fill that ticket 27 times; my VLOD is 4,
+> so the cost is 1 VP each time. (Arguments for why this is possible: the
+> action states 'once per each player', which is a total of at least 28
+> times, but nothing limits which player can accept a ticket apart from
+> specifying a set of target parties, which has apparently not been done,
+> and cannot be construed as anything but the set of all parties to the
+> vote market if it does exist; the wording "This ticket" implies that all
+> the tickets are identical and the first one definitely had a target set
+> of all parties to the vote market. Besides, 'once per each player' is
+> ambiguous anyway, and could refer to either 'each player can once', or
+> 'once for each player'; the second reading seems more natural to me,
+> except that it seems unlikely to have been intentional, thus these
+> arguments.)
+
+========================================================================
+
+Judge woggle's Arguments:
+
+>>>>> Buy Ticket
+>>>>> Cost: A number of VP equal to 1/3 (rounded down) of the filler's
+>>>>> current Voting Limit on Ordinary proposals.
+>>>>> Action: Vote in the manner specified by me on a future proposal of my
+>>>>> choice. This ticket may be filled multiple times (a maximum of once
+>>>>> per each player) and does not expire until revoked.
+
+Background:
+
+The Vote Market agreement does not clearly specify the form of an
+announcement of a Buy Ticket. It does specify that a Buy Ticket has
+the following attributes:
+* A description of an action
+* A cost in one or more currencies (typically VP), which may be
+conditional or variable as long as it can be determined with certainty
+when that ticket is filled
+* Optionally, a set of target parties. If not specified, this defaults
+to the set of all parties to the Vote Market agreement. Only parties
+designated as targets may fill a ticket.
+
+Furthermore the Vote Market contract specifies that: A Buy Ticket that
+has been filled expires and ceases to exist unless otherwise specified
+by its poster.
+
+So the primary question is whether "This ticket may be filled multiple
+times (a maximum of once per each player) and does not expire until
+revoked." was sufficient to specify an appropriate conditional set of
+target parties.
+
+Argument:
+
+I find that there is genuine ambiguity on this point. "per" could mean
+"for each" or "by each". But is not in the best interests of the game
+that a contract-like text (which this Buy Ticket is) be interpreted
+against its writer's intent when (a) its writer's intent was clear;
+and (b) everyone else bound to that text (relevantly including ais523
+in this case) knew or clearly should have known that the writer's
+intent was a reasonable interpretation of the contract-like text.
+
+========================================================================

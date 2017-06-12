@@ -1,0 +1,46 @@
+==============================  CFJ 3011  ==============================
+
+    I can cash a promise made in the same message in which this CFJ was
+    called.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       25 Apr 2011 21:31:09 GMT
+Assigned to scshunt:                    28 Apr 2011 13:42:02 GMT
+Judged FALSE by scshunt:                05 May 2011 18:35:02 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I create a Promise: "I call for judgement on the statement 'This CFJ is
+a CFJ.'", with the following condition for caching: this condition is
+false.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+the condition is not true, so the statement is FALSE.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The condition is that 'this condition is false'. This is an instance of
+the liar's paradox; the statement is a self-contradiction. We do not
+accept the law of the excluded middle here in Agora (see the existence
+of the UNDECIDEABLE judgment), and thus it is the case that the
+condition is neither true nor false. Since the promise can only be
+cashed if its conditions are true, FALSE.
+
+========================================================================

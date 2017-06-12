@@ -1,0 +1,116 @@
+==============================  CFJ 1471  ==============================
+
+    The GWotO is allowed to remove from the Oligarchy an Oligarch whose
+    term of service has expired.
+
+========================================================================
+
+Caller:                                 OscarMeyr
+
+Judge:                                  Steve
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by OscarMeyr:                    05 Oct 2003 14:12:45 GMT
+Assigned to Steve:                      06 Oct 2003 00:09:19 GMT
+Judged TRUE by Steve:                   06 Oct 2003 04:59:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The requirement for this action is in R1936(b), governing the expiration
+of an Oligarch's service.  R1963(b) is presently interpreted as limiting
+the GWotO's authority to remove Oligarchs from the Oligarchy to cases
+where an Oligarch becomes ineligible under R1963(a).  Both rules are of
+Power=2, and neither claim precedence over the other, so the
+lower-numbered R1936 takes precedence, per R1030.
+
+(Would the Court please pay close attention to nubmer tranpsositoins.
+Thakns!)
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1030/4 (Power=3)
+Precedence between Rules with Equal Power
+
+      If two or more Rules with the same Power conflict with one
+      another, then the Rule with the lower Number takes precedence.
+
+      If at least one of the Rules in conflict explicitly says of
+      itself that it defers to another Rule (or type of Rule) or
+      takes precedence over another Rule (or type of Rule), then such
+      provisions shall supercede the numerical method for determining
+      precedence.
+
+      If all of the Rules in conflict explicitly say that their
+      precedence relations are determined by some other Rule for
+      determining precedence relations, then the determinations of
+      the precedence determining Rule shall supercede the numerical
+      method for determining precedence.
+
+      If two or more Rules claim to take precedence over one another
+      or defer to one another, then the numerical method again
+      governs.
+
+Rule 1936/10 (Power=2) (only paragraph (b) is relevant)
+Oligarchic Service
+
+      (b) By default, a Player remains an Oligarch for a period of
+          time equal to the Oligarchic Term.  The Grand Warden of the
+          Oligarchy shall remove a Player from the Oligarchy by public
+          announcement, as soon as possible after eir term expires.
+          Other rules may cause Players to cease to be Oligarchs.
+
+Rule 1963/5 (Power=2)
+Eligible Oligarchs
+
+      (a) A Player is ineligible to be an Oligarch if and only if any
+          of the following are true:
+
+          (1) e is not active;
+          (2) e has three or more Blots;
+          (3) e is the Speaker;
+          (4) e is the Electee to the Office of Speaker-Elect;
+          (5) e is the Grand Warden of the Oligarchy; or
+
+      (b) If an Oligarch becomes ineligible to be an Oligarch, the
+          GWotO shall remove that Player from the Oligarchy as soon as
+          possible.  The GWoTO removes a Player from the Oligarchy by
+          correctly announcing that at least one of the above
+          conditions is true for that Player.  The named Player ceases
+          to be an Oligarch as of the GWoTO's announcement.
+
+      (c) An Oligarch who ceases to be a Player ceases to be an
+          Oligarch.
+
+========================================================================
+
+Judge Steve's Arguments:
+
+Essentially, I accept the Caller's argument, although a little extra
+work is required to see exactly why R1963 conflicts with R1936. The
+conlfict is over what procedure to follow to remove a Player from the
+Oligarchy. R1963(b) states that the GWotO removes a Player from the
+Oligarchy by correctly announcing that one of the conditions listed in
+R1963(a) holds.  On the other hand, R1936 provides a different method --
+that of public announcement -- of removing from the Oligarchy an
+Oligarch whose term has expired.  R1936 wins this conflict in virtue of
+its lower number.
+
+It might seem that this interpretation plagues us with a new bug:
+wouldn't any attempt to remove an Oligarch for one of the reasons listed
+in R1963(a) conflict with the removal provisions of R1936 and hence be
+invalid? Fortunately, the answer is no: the last sentence of R1936(b)
+provides that "Other rules may cause Players to cease to be Oligarchs."
+
+Finally, I note in passing that this case differs from the earlier case
+considered in CFJ 1436. At the time of that CFJ, R1936 did not provide
+an alternative mechanism for removal.
+
+========================================================================

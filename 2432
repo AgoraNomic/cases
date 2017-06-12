@@ -1,0 +1,51 @@
+==============================  CFJ 2432  ==============================
+
+    I CAN spend 'the cube that person A gave me'.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          26 Mar 2009 01:02:27 GMT
+Assigned to Murphy:                     28 Mar 2009 16:09:39 GMT
+Judged TRUE by Murphy:                  28 Mar 2009 16:11:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This depends on what is "recorded in the gamestate".  Cubes, by virtue
+of not being a currency, are not explicitly defined as fungible, but
+in this instance (as no properties are defined for cubes other than
+owner) my two cubes only differ by who gave them to me.  If previous
+history is recorded in the gamestate, clearly TRUE/FALSE, because if I
+didn't specify it would be unclear which cube I meant.  But I argue
+that only explicitly defined properties are tracked in the gamestate,
+so the cubes are fungible despite not being defined as such-- I'm not
+sure, however, whether this leads to TRUE/TRUE or FALSE/TRUE.
+
+========================================================================
+
+Caller's Evidence:
+
+Consider that cubes are a non-currency asset (with no properties
+defined for them in particular) which can be spent by announcement,
+and persons A and B each give me a cube.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Trivially TRUE, as you can announce:
+
+  "I spend the cube that person A gave me.
+   I spend the cube that person B gave me."
+
+========================================================================

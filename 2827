@@ -1,0 +1,63 @@
+==============================  CFJ 2827  ==============================
+
+    comex has created five threats
+
+========================================================================
+
+Caller:                                 Tiger
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Tiger:                        04 Aug 2010 22:00:22 GMT
+Assigned to Wooble:                     12 Aug 2010 16:26:14 GMT
+Judged FALSE by Wooble:                 12 Aug 2010 17:36:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On 4 August 2010 23:42, comex <comexk@gmail.com> wrote:
+> On Wed, Aug 4, 2010 at 5:28 PM, Jonatan Kilhamn
+> <jonatan.kilhamn@gmail.com> wrote:
+>> I take it you can actually afford all those threats? I will calculate
+>> their costs and your initial supply of TPs, but it seems unlikely.
+>
+> I calculated that the journey's level is 18*6=108, and the costs of
+> the threats (including the asteroid) were 22, 21, 23, 23, 21, leaving
+> me with 0 Threat Points.
+>
+I beg to differ. Difficulty is 6, times with number of players on the
+Bridge gives the TPs. All players but you have their station switches
+set to Bridge when the journey starts. But only active players have a
+station switch in the first place, as defined in the previous rule.
+Does the wording "the Station switches of all other players are
+flipped to Bridge" in R2299 imply that all such players have a station
+switch, and define them such if they don't otherwise? If it does, then
+it would be at conflict with R2298 that says "Station is a switch
+possessed by all active players". And R2298 is lower numbered. If I'm
+correct, the number of players on the Bridge was 9 and you had 54
+Threat Points, meaning you have created an Asteroid and Force Field a
+but not having enough points to go on after that.
+
+I CFJ ((comex has created five threats)), submitting this message up
+to now as caller's arguments for FALSE.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+Rule 2298 defines Station as a switch possessed only by active
+players.  By R2162(a), no other entity can possess such a switch; the
+switch can't be implicitly created by R2299's assertion that it is
+flipped.  As there were only 9 active players on the Bridge when the
+Journey began, H. Enemy comex had only 54 threat points to spend; e
+successfully created 2 threats for 45 TPs, and subsequently failed to
+create any more threats as each purported creation cost more than 9
+TP.  I judge FALSE.
+
+========================================================================

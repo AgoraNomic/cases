@@ -1,0 +1,163 @@
+From owner-nomic-official@teleport.com  Fri Apr 26 12:41:11 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id MAA09246 for <blahedo@quincy.edu>; Fri, 26 Apr 1996 12:41:10 -0500
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.7.5/8.7.3) with SMTP id KAA03858; Fri, 26 Apr 1996 10:37:45 -0700 (PDT)
+Received: by desiree.teleport.com (bulk_mailer v1.3); Fri, 26 Apr 1996 10:37:33 -0700
+Received: (from daemon@localhost) by desiree.teleport.com (8.7.5/8.7.3) id KAA03715 for nomic-official-outgoing; Fri, 26 Apr 1996 10:37:32 -0700 (PDT)
+Received: from torii.triple-i.com (torii.triple-i.com [192.94.150.1]) by desiree.teleport.com (8.7.5/8.7.3) with SMTP id KAA03616 for <nomic-official@teleport.com>; Fri, 26 Apr 1996 10:37:23 -0700 (PDT)
+Received: from Camex.COM (Camex.COM [134.54.1.1]) by torii.triple-i.com (8.6.9/8.6.9) with SMTP id KAA02856 for <nomic-official@teleport.com>; Fri, 26 Apr 1996 10:36:49 -0700
+Received: from zeus.Camex.COM by Camex.COM (4.1/SMI-4.2)
+	id AA02506; Fri, 26 Apr 96 13:38:09 EDT
+Received: by zeus.Camex.COM (SMI-8.6/SMI-SVR4)
+	id NAA01430; Fri, 26 Apr 1996 13:38:07 -0400
+Date: Fri, 26 Apr 1996 13:38:07 -0400
+From: jlc@triple-i.com (Jeff Caruso)
+Message-Id: <199604261738.NAA01430@zeus.Camex.COM>
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 869:  TRUE
+Cc: jlc@Camex.COM
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+                      JUDGEMENT OF CFJ 869
+
+Anything legal Action once performed by a person being a Player, even
+if performed while that person was not a Player, is an Action by that 
+Player.
+
+======================================================================
+
+Judge:          ElJefe
+Judgement:      TRUE
+
+Caller:         Andre
+Barred:         
+On Hold:        Swann
+
+Eligible:       Chuck, dcuman, elJefe, favor, 
+                Jtael, Kelly, Michael, Morendil, Murphy,
+                Narcisse, Oerjan, Steve, Vanyel, Zefram
+
+======================================================================
+
+History:
+  Called by Andre, Tue, 23 Apr 96 16:34:09 METDST
+  Assigned to ElJefe, Tue, 23 Apr 1996 10:59:32 -0400
+  Judged TRUE by ElJefe, Fri, 26 Apr 1996 13:35:16 -0400
+
+======================================================================
+Arguments:
+
+Rule 869/3 says
+
+ "A Player is any person who is registered as a Player."
+
+I think that's clear enough. The Player and the person are the same,
+they are synonymous. At the time of Registration there is no Player
+'created'. What happens is, that an existing entity, the person, is
+placed in another category, namely that of Players.
+
+As extra evidence I give an abstract from my own Judgement in CFJ 833,
+in which I already argued the same point of view.
+
+As the person and the Player are thus identical, any Action by the
+person is an Action by the Player as well.
+
+----------------------------------------------------------------------
+
+Evidence:
+1. Rule 869/3
+2. Judgement CFJ 833 (excerpt)
+
+
+----------------------------------------
+
+Rule 869/3 (Mutable, MI=1)
+Registered Players
+
+      A Player is any person who is registered as a Player.
+      A person is Registered to play when e sends a message to the
+      Public Forum requesting Registration, unless another Rule 
+      forbids that person from Registering.  No person may be
+      registered as a Player more than once concurrently.
+
+      If a Player has to be identified for whatever purpose, then the
+      use of that Player's Agora nickname is preferred, but not
+      obligatory: *any* unambiguous way of identification is allowed.
+
+----------------------------------------
+
+======================================================================
+			JUDGEMENT CFJ 833
+Rule 1011 should be interpreted so that if a Player deregisters, that 
+Player continues to exist as a Nomic Entity.
+======================================================================
+Judge:		Andre
+Judgement:	FALSE
+
+(...)
+
+1. A Player is not 'automagically' created when a person registers. What
+   happens, as Rule 869 shows, is that the person (an existing entity, although
+   perhaps not an Entity yet) becomes a Player, i.e. is placed in a certain
+   Category of Entities. This can be compared with the way Groups became
+   Organizations under the Group/Contest/Contract Consolidation: There were no
+   new Organizations formed to correspond to the old Groups, but the old
+   Groups were placed in the Category of Game Entities which are
+   'Organizations', and thus became Organizations. Likewise when someone
+   registers, no new Player is formed, or even filled, but the person is
+   placed in the Category Players. All this is implied by Rule 869, which
+   equates the person to the Player, not just makes them correspond to one
+   another.
+
+(...)
+
+----------------------------------------------------------------------
+
+Andre
+
+
+======================================================================
+Decision of Judge ElJefe:  TRUE
+
+Statement:
+
+  Any[thing] legal Action once performed by a person being a Player, even
+  if performed while that person was not a Player, is an Action by that 
+  Player.
+
+
+This Statement is rather limited in scope.  By its phrasing, the statement
+cannot apply to illegal actions.  Nor can it expand the effect of Rules of 
+the form "if a Player does X, e commits an infraction", if the person 
+is not a Player at the time of the action.  It can only apply in cases
+which are phrased "if a Player _has done_ X, ...", such as Rule 719.
+
+Finally, since non-Players cannot directly manipulate pure Nomic entities,
+the only "legal actions" that the statement could refer to are real-world
+activities like sending e-mail messages.  For example, anyone may send 
+a Kudo-transfer message to the Herald, but that message is not a Kudo 
+transfer unless the sender is a Player at the time. Such messages do not 
+become effective if the person later registers as a Player.  The same holds 
+for currency transfers, votes, etc.
+
+This comes perilously close to being dismissed as "not relating to
+a matter in which the Rules have bearing or concern."  It is necessary
+to find a case under the current Rules in which this situation would
+make a difference.  
+
+I have one:  a Watcher asks a group Vizier to join eir Group. Later, 
+the Watcher registers as a Player.  Is this enough, under Rule 719, for 
+em to join the group, or must e submit a new request _as a Player_?
+
+The caller argues that the person and the Player are identical, are one
+and the same person, and that actions (e-mail messages) by the one are 
+actions by the other.  This must be TRUE, and I so judge it.
+
+- elJefe, Judge
+
+******************************************************************
+  Dr. Jeffrey L. Caruso <jlc@triple-i.com>
+  Autologic Information International

@@ -1,0 +1,119 @@
+==============================  CFJ 1385  ==============================
+
+    Proposal 4323 contains an Invalid Legislative Order.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  OscarMeyr
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           31 May 2002 23:45:58 GMT
+Assigned to OscarMeyr:                  09 Jun 2002 06:35:51 GMT
+Judged TRUE by OscarMeyr:               09 Jun 2002 13:39:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1796 reads in part:
+       In order to be proven valid by CFJ, the Rules must permit the
+       Player who executed the Order in question to execute such an
+       Order...
+
+Proposal 4323 contains the following:
+ THE BANK SHALL TRANSFER TWENTY STEMS TO ANYONE WHO VOTED AGAINST THE
+ PROPOSAL 'INSANE STEM DISTRIBUTION'.
+
+This does not bill or create a debt, but merely orders that the Bank's
+executors make a transfer.  This transfer is forbidden by two rules: the
+bonus clause of R1561, and by the fact that no executor of the Bank is
+authorized to transfer currencies from the Bank except to satisfy debts.
+(See Rule 1470 below, quoted as amended by Proposal 4322, immediately
+before passage of Proposal 4323).
+
+========================================================================
+
+Caller's Evidence:
+
+The following two proposals were adopted in the following sequence:
+
+-----------------------------------------------------------------------
+Proposal #4322 by t, AI=2
+Fix the Bank
+
+[Officers who have (Limited) Executorship of the Bank should not be
+able to spend its funds in any way they find amusing. Also, Rules which
+define things should have a Power of 2.]
+
+This Proposal shall have an AI of 2.
+
+Rule 1470 "The Bank" shall be upmutated to have Power of 2 and amended
+to read:
+
+      (a) There is an entity known as the Bank. The Bank has Mint
+          Authority. The Bank is the Mintor of each Bank
+          Currency. The Bank may transfer Property in its possession
+          to other entities only to satisfy its debts.
+
+      (b) The Treasuror is the Executor of the Bank. Each Recordkeepor
+          of each Bank Currency is a Limited Executor of the Bank, and
+          is empowered to make transfers of that Currency from the
+          Bank.
+
+      (c) Each Recordkeepor of each Bank Currency is the Prime
+          Executor of the Bank with respect to debts denominated in
+          that Currency. The Treasuror is the Prime Executor of the
+          Bank with respect to all other actions that the Bank is
+          required to perform.
+
+      (d) As soon as possible after the Bank incurs a debt to any
+          other entity, the Bank shall either satisfy that debt by
+          transferring appropriate Properties to the creditor, or
+          dispute the debt by whatever means are appropriate in the
+          situation.
+
+      (e) The Bank is permitted to forgive debts owed to it, in whole
+          or in part:
+          (1) pursuant to a properly-issued Order; or
+          (2) Without Objection, at the Treasuror's discretion.
+
+-----------------------------------------------------------------------
+
+Proposal #4323 by Craig, AI=1
+INSANE STEM DISTRIBUTION
+
+THE BANK SHALL TRANSFER TWENTY STEMS TO ANYONE WHO VOTED AGAINST THE
+PROPOSAL 'INSANE STEM DISTRIBUTION'.
+
+-----------------------------------------------------------------------
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+I find the Caller's arguments to be correct -- Prop. 4323 offered a
+bribe to Players as an enticement to vote against Prop. 4323.  This is
+prohibited under R1561.  Also, R1470 (as amended by Prop. 4322) permits
+the Bank to transfer its Property only to satisfy a debt, and no debt
+was created by Prop. 4323.  I therefore return a decision of TRUE, and
+rule that, according to R1561, Prop. 4323 is completely without effect.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Rule 1561/1 (Power=2)
+Illegality of Bonus Clauses
+
+      Any Proposal which offers a bribe to a Player or Players to
+      vote either FOR or AGAINST a Proposal (either itself or another
+      Proposal) shall be completely without effect, even if it is
+      adopted, any Rule to the contrary notwithstanding.
+
+========================================================================

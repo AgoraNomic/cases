@@ -1,0 +1,342 @@
+=============================  CFJ 3484  =============================
+
+      If proposal 7847 were resolved as passed right now, it would 
+      succeed in reenacting rule 2166 at power 2.0.
+
+======================================================================
+
+Caller:                      Aris           
+
+Judge:                       ais523           
+Barred:                      G.
+Judgement:                   TRUE
+
+======================================================================
+
+History:
+
+Called by Aris:              3 May 2017
+Assigned to ais523:          4 May 2017
+Judged TRUE by ais523:      11 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+I feel that this entire argument about rule re-eanactment is an
+overreaction. As I understand it, game custom says that rules are to
+be interpreted according to common sense. Although we seem to suspend
+that principle for scams and some other situations in which someone
+has something to gain, we should generally be following to it. It kind
+of worries me that we seem to care right now solely about a textual
+interpretation of the rules. It is fairly clear that rule 105 is
+intended (and perhaps even intends, if such things are possible) to
+allow for the re-enactment of rules. It is our responsibility as
+players to interpret its directives in such a way as to accomplish
+that goal.
+
+There are many ways that Rule 105 could succeed in re-enactment. The
+power could be assigned to the repealed rule before its re-enactment,
+or afterwards. I think what we should probably understand is that the
+rule is called back into existence already at the new power, in the
+same way an enactment works. The rule does say that "A repealed rule
+identified by its most recent rule number may be reenacted..." and
+given that it specifies no procedure, it makes sense to use the one
+specified for enactment. The prefix re- implies that something is done
+again, and one would suppose that you do it the same way as the first
+time. Further the requirement that "Any ambiguity in the specification
+of a rule change causes that change to be void and without effect"
+seems to be intended to apply to ambiguity in the amending instrument,
+not in the rule itself. The paragraph that sentence is contained in
+seems to confirm this, saying "an inconsequential variation in the
+quotation of an existing rule does not constitute ambiguity for the
+purposes of this rule, but any other variation does." This suggests
+that it restricts instruments, because the rule itself makes no
+"quotation[s] of an existing rule". Common sense suggests that one of
+these interpretations must be correct.
+
+I remind the honorable judge of eir responsibility to interpret the 
+rules in accordance with their common sense meaning and intent.
+
+======================================================================
+
+Gratuitous arguments by G.:
+
+The clause in proposal 7847 reads:
+      Reenact rule 2166, Assets (Power = 2), with the following text:
+
+That parenthetical (power-2.0) in the Proposal causes unclarity.  Is 
+it specifying a new power, changing a power after re-enactment, 
+attempting to set the power during re-enactment, or stating that the 
+old version was Power=2 (well, probably not that last one)?
+
+Rule 105 states:
+      Any ambiguity in the specification of a rule change causes that
+       change to be void and without effect.
+
+this "any ambiguity" has been interpreted quite strongly; for example, 
+wrongly specifying a version number can cause failure.  Therefore 
+strictness in Rule changes overrules "common-sense" bending, 
+specifically for Rule Changes.
+
+If this is judged TRUE, I'd ask the Judge to clarify what order to put
+the following entries in the Amendment Record for the FLR:
+
+- Re-enacted(N) by Proposal 7847 (and at what power?)
+- Amended(N) by changing Power to 2 by Proposal 7847 (from what?)
+
+and what clause and mechanism allowed the power to be set there, 
+R105(a) (by inference to the enact mechanism), R105(c) (taking the 
+power from the repealed rule)  or R105(f) (setting the power)?  
+Because it's genuinely ambiguous to *me*.
+
+======================================================================
+
+Judge's Arguments:
+
+This is really a CFJ about the nature of rule 105. There have been many
+arguments made already on this case, and I don't fully agree with any
+of them, so I'll set out my opinion "from scratch".
+
+The part of this argument is to decide whether re-enactment is a
+special case of enactment, or whether it's its own process that follows
+different rules. This is complicated somewhat by the way in which rule
+105 is worded; is it attempting to define words, or to use them? The
+current wording of 105(b) is very clear, as a definition of "repeal";
+you could change it to any other word (with no rules meaning) and it
+would still work, e.g.:
+{{{
+      (b) nkep a rule.  When a rule is nkepped, it ceases to be a
+          rule, and the Rulekeepor need no longer maintain a record
+          of it.
+}}}
+
+On the other hand, rule 105(d,e,f) are clearly using the normal English
+meanings of "amend", "retitle", and "change", because they don't
+attempt to define those words at all.
+
+That brings us to a grey area: 105(a) and (c). The processes of
+enacting a rule and of re-enacting a rule have many details specified.
+However, despite defining the specifics, they don't define the
+generics; 105(a) talks about properties of the new rule, but it never
+explicitly specifies that a rule is created. The most reasonable
+behaviour here is to infer that rule enactment is a process which
+creates a rule and/or causes something other than a rule to become a
+rule, based on the normal English meaning of "enact". It's clear that,
+before rule 105(c) was added, unqualified references to "enact" in
+proposals and the like were referring to the process in rule 105(a);
+there's nothing else they could have referred to, and any attempt to
+enact a rule by any other means would have failed unless it had a
+sufficiently high power to overrule rule 105, thus there's only one
+plausible reading of the word. This wouldn't necessarily be true in
+situations which weren't trying to change the rules, such as agora-
+discussion posts and CFJ arguments; they could use the word "enact"
+more freely.
+
+Once rule 105(c) was added, there were now two mechanisms to create a
+rule. However, a plain "enact" in a proposal would still be referring
+to the rule 105(a) mechanism; if the proposal does not specify a rule
+number of a repealed rule, the rule 105(c) mechanism clearly couldn't
+apply, leaving rule 105(a) as the only possibility. There'd be no
+ambiguity there.
+
+Anyway, the immediate point is that rule 105 doesn't
+obviously/automatically override the standard English meaning of
+"enact" (although it does end up overriding the meaning of "enact" in
+proposals by making all other possible meanings meaningless in that
+context). There's also a subtler point here: rule 105 itself is
+somewhat unclear/ambiguous, and yet that doesn't cause rule changes to
+fail. The "Any ambiguity in the specification of a rule change" clause
+applies to the text that's used to trigger rule 105, i.e. the text that
+specifies ("the specification") what change to make. What rule 105
+itself does with that specification is clearly beyond the point at
+which a high level of unambiguity is demanded (both based on a plain
+reading of rule 105, and (if you disagree that the text is unambiguous)
+on a rule 217 test).
+
+So does the description of enactment in rule 105(a) affect the
+operation of rule 105(c)? I can't see how it does. There isn't any sort
+of conjunction used to connect the lettered paragraphs of rule 105, but
+it can't possibly be "and" (otherwise each proposal would have to make
+each sort of rule change at least once to do anything at all). "and/or"
+is the most sensible reading here, but with a kind of implication that
+each rule change only falls into one category at a time. (This is the
+part of the judgement I'm least sure about; "A rule change is any
+effect that falls into the above classes." isn't 100% clear that a rule
+change can't be, say, a retitling that also changes a rule's power.
+However, game custom, at least, is that each rule change has to fall
+into exactly one category. Additionally, the other rule 217 tests tend
+to favour an interpretation along these lines too, e.g. it'd violate
+common sense if the only way to re-enact a rule would be to say either
+"re-enact while enacting" or "re-enact without enacting", with "re-
+enact" alone being ambiguous as to which of these it was.)
+
+Seeing re-enactment as its own process, the next question is as to what
+the resulting properties of the rule are. ID number and change
+identifier are specified directly by rule 105(c), so those aren't
+issues. Text is specified in a more ambiguous way; the rule gives a
+default for if text is not specified, and doesn't directly say that if
+text is specified, it is used. Proposal 7847 does attempt to specify
+new text for the rule. I suspect that this succeeded; rule 105 is
+giving permission, rather than doing the work itself, and I don't think
+anything generally prevents sufficiently-highly-powered instruments
+specifying the way in which a rule change is made apart from rule 105
+itself. (That is, if an enacted proposal attempts to make a rule
+change, and rule 105 doesn't disallow the sort of rule change in
+question, it succeeds; rule 105 doesn't have to enumerate all possible
+variables that can be specified in a rule change, although of course
+omitting one which doesn't have an unambiguous default would fail.)
+
+The remaining properties of a rule are its title and power. Proposal
+3484 mentions the title that rule 2166 had. Does that unambiguously set
+the title of the new rule? Well, "re-enact" strongly implies that the
+new rule has the same properties as the old one, except for those
+explicitly overridden. If the proposal had said something like "Reenact
+rule 2166, Patent Titles", I'd have ruled that as too ambiguous to work
+(is it incorrectly specifying the old title, or trying to specify a new
+one?) If the proposal had said something like "Reenact rule 2166,
+Assets, with title 'The Universe of Things'", I'd consider that to be
+specified unambiguously; it's a little more ambiguous as to whether it
+would actually successfully override the title of the newly re-enacted
+rule, but it would unambiguously create the rule, as the ambiguity is
+not the fault of the rule change specification. Luckily, the title
+given by the proposal is the same as the rule's old title; thus, the
+added information in the specification /reduces/ ambiguity, rather than
+increasing it (without a title being mentioned, "no title" – a valid
+state for a rule – would be another possibility worth considering).
+
+The situation with Power is very similar. In the absence of any power
+being listed, it's likely that the rule would be re-enacted at the same
+power (assuming that the proposal had sufficiently high power; note
+that when using the rule 105(a) mechanism, an underpowered proposal
+will create an underpowered rule, because of a special case that
+reduces the power, but using the rule 105(c) mechanism, the entire
+attempt to re-enact a rule with an underpowered proposal will be
+blocked due to rule 2140). That might be unambiguous, but proposal 7847
+specifies a power, and it's also the same power that the rule
+originally had. As such, the specification again serves to reduce
+ambiguity rather than increase it; there's no doubt here that the rule
+is to be created at power 2.
+
+As such, there's a lot of general confusion about rule re-enactment,
+but this situation isn't it; the proposal in question is an exemplary
+example of how to unambiguously specify a rule change. I suggest that
+in this situation, the Rulekeepor should use an FLR annotation of the
+form "Re-enacted with new text", as that makes it clear what mechanism
+is in use here. (There's no need to mention the title or power, on the
+basis that they have the values that would be expected based on the
+previous version of the rule.)
+
+TRUE.
+
+======================================================================
+
+Judge's Evidence:
+
+Rule 105's current text:
+{{{
+Rule 105/12 (Power=3)
+Rule Changes
+
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
+
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
+          defaulting to one if the enacting instrument does not
+          specify or if it specifies a power less than 0.1, and the
+          maximum power permitted by other rules.  The enacting
+          instrument may specify a title for the new rule, which if
+          present shall prevail.  The ID number of the new rule cannot
+          be specified by the enacting instrument; any attempt to so
+          specify is null and void.
+
+      (b) repeal a rule.  When a rule is repealed, it ceases to be a
+          rule, and the Rulekeepor need no longer maintain a record
+          of it.
+
+      (c) reenact a rule.  A repealed rule identified by its most
+          recent rule number may be reenacted with the same ID number
+          and the next change identifier.  If no text is specified,
+          the rule is reenacted with the same text it had when it was
+          most recently repealed.  If the reenacting proposal provides
+          new text for the rule, the rule must have materially the
+          same purpose as did the repealed version; otherwise, the
+          attempt to reenact the rule is null and void.
+
+      (d) amend the text of a rule.
+
+      (e) retitle a rule.
+
+      (f) change the power of a rule.
+
+      A rule change is any effect that falls into the above classes.
+      Rule changes always occur sequentially, never simultaneously.
+
+      Any ambiguity in the specification of a rule change causes that
+      change to be void and without effect.  An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule, but any
+      other variation does.
+
+      A rule change is wholly prevented from taking effect unless its
+      full text was published, along with an unambiguous and clear
+      specification of the method to be used for changing the rule, at
+      least 4 days and no more than 60 days before it would otherwise
+      take effect.
+
+      This rule provides the only mechanism by which rules can be
+      created, modified, or destroyed, or by which an entity can
+      become a rule or cease to be a rule.
+}}}
+Proposal 7847 (excerpt):
+{{{
+Reenact rule 2166, Assets (Power = 2), with the following text:
+
+  An asset is an entity defined as such by a rule (hereafter its backing
+  document), and existing solely because its backing document defines its
+  existence.
+
+  Each asset has exactly one owner.  If an asset would otherwise
+  lack an owner, it is owned by the Lost and Found Department.  If
+  an asset's backing document restricts its ownership to a class
+  of entities, then that asset CANNOT be gained by or transferred
+  to an entity outside that class, and is destroyed if it is owned
+  by an entity outside that class (except for the Lost and Found
+  Department, in which case any player CAN transfer or destroy it
+  without objection).
+
+  The recordkeepor of a class of assets is the entity (if any)
+  defined as such by, and bound by, its backing document.  That
+  entity's report includes a list of all instances of that class
+  and their owners.  This portion of that entity's report is
+  self-ratifying.
+
+  An asset generally CAN be destroyed by its owner by
+  announcement, and an asset owned by the Lost and Found
+  Department generally CAN be destroyed by its recordkeepor by
+  announcement, subject to modification by its backing document.
+  To "lose" an asset is to have it destroyed from one's
+  possession; to "revoke" an asset from an entity is to destroy it
+  from that entity's possession.
+
+  An asset generally CAN be transferred (syn. payed) by its owner to another
+  entity by announcement, subject to modification by its backing
+  document.  A fixed asset is one defined as such by its backing
+  document, and CANNOT be transferred; any other asset is liquid.
+
+  A currency is a class of asset defined as such by its backing
+  document.  Instances of a currency with the same owner are
+  fungible.
+
+  The "x balance of an entity", where x is a currency, is the number of x that
+  entity possesses. If a rule or proposal attempts to increase or decrease the
+  balance of an entity without specifying a source or destination, then the
+  currency is created or destroyed. Where it resolves ambiguity "Balance",
+  without any currency modifiers, refers to an entity's balance of whichever
+  currency is designated as "Agora's official currency", if there is one.
+
+  Assets are always public. [To provide for private contract based assets later]
+}}}
+
+======================================================================

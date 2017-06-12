@@ -1,0 +1,94 @@
+==============================  CFJ 2744  ==============================
+
+    In the hypothetical situation described in evidence, player 3 CAN
+    transfer at least one Dunce Cap on December 11, 2009.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       24 Nov 2009 21:52:23 GMT
+Assigned to scshunt:                    29 Nov 2009 17:53:34 GMT
+Judged FALSE by scshunt:                29 Nov 2009 20:26:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+How does the fungibility of Dunce Caps, even those with different
+owners (R2253, which takes precedence over R2262), affect R2262's
+attempt to restrict their transfer?
+
+========================================================================
+
+Caller's Evidence:
+
+Hypothetical situation referenced by the statements:
+
+  * On December 1, 2009, players 1 and 2 each receive one Dunce Cap.
+
+  * On December 6, 2009, players 1 and 3 each receive one Dunce Cap.
+
+  * During December 2009, Dunce Cap holdings do not change in any
+    other way (except for the possible transfers referenced by the
+    statements), and none of these players is ever Dealor nor acts
+    as Dealor in any way (e.g. deputisation, act-on-behalf contract).
+
+Rule 2253/5 (Power=2)
+Cards
+[relevant excerpt]
+
+      Card instances of the same class are fungible.
+
+Rule 2262/9 (Power=2)
+The Deck of Justice
+[relevant excerpt]
+
+       * Dunce Cap        - (Effect) Holding this card is a Losing
+                            Condition.  The holder of this card CAN
+                            NOT voluntarily destroy it by
+                            announcement, and CAN NOT transfer it
+                            unless e has held it for at least one
+                            week.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The caller has questioned how the requirement that a Dunce Cap card
+cannot be transferred unless held for a week interacts with the
+fungibility of Dunce Caps.
+
+According to Wikipedia, fungibility "is the property of a good or a
+commodity whose individual units are capable of mutual substitution.
+Examples of highly fungible commodities are crude oil, wheat, orange
+juice, precious metals, and currencies." Currencies are the particular
+example I shall pursue.
+
+In normal trade, currency is currency is currency. If I have a $20 bill,
+it makes no difference if I am trying to spend that specific bill or any
+other $20 bill - it is still worth $20. The courts will not enforce a
+contract for a specific fungible asset (note, however, that some pieces
+of currency may, due to rarity, be worth more than their printed value;
+in such a case they have lost their fungibility).
+
+However, it is not the case that an item being fungible with another
+item necessarily means that the item is completely identical in every
+way to that item. Every $20 bill is a distinct physical asset, with a
+different serial number. Law enforcement sometimes tracks them by serial
+number in order to expose crime - despite being fungible, they still
+have some identifying properties.
+
+As such, I find that while Dunce Caps are fungible, that does not mean
+that you cannot distinguish between them on some property. Player 1 in
+particular could transfer either of his Dunce Caps (them being
+interchageable), but only one.
+
+========================================================================

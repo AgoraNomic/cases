@@ -1,0 +1,53 @@
+==============================  CFJ 3366  ==============================
+
+    I am an elder.
+
+========================================================================
+
+Caller:                                 arkestra
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by arkestra:                     08 Jul 2013 21:05:05 GMT
+Assigned to ais523:                     15 Jul 2013 17:32:36 GMT
+Judged FALSE by ais523:                 21 Jul 2013 05:42:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Future Perfect Progressive Tense ( ie, happened in the past, is still going
+on, and may continue in the future) requires the present participle of the
+verb.   I don't think "registered" would work for this ( has been registering
+doesn't make sense).
+
+========================================================================
+
+Gratuitous Arguments by Walker:
+
+This might not be a bug; recruiting old players to defend against invasion
+would be useful and has a certain romantic appeal. The judge should therefore
+consider the benefit to the game of this interpretation. That said, if we
+actually get invaded I shall eat my hat.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 3366 FALSE.
+
+The buggy interpretation would be "there was a time at which the player
+had been registered for 32 days continuously" if written in full. I can
+buy "a player who was registered continuously for at least 32 days" as
+buggy, but "a player who has been registered continuously for at least
+32 days" doesn't really work with the buggy interpretation; there's a
+missing verb for that. (Contrast "a player who has had been registered
+continuously for at least 32 days", which is dubious grammar but has a
+meaning closer to the buggy one.)
+
+========================================================================

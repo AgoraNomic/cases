@@ -1,0 +1,133 @@
+==============================  CFJ 1214  ==============================
+
+    If we post to a Public Forum a message in the form "If and only if
+    we have not transferred VTs to t in the last 2 days, we transfer 10
+    VTs to t.", and we have indeed made no transfers to t in the 2 days
+    previous to sending this message, and if there are no general
+    conditions preventing any transfer of 10 VTs (such as a lack of
+    funds), then 10 VTs are transferred from us to t. If, however, we
+    had transferred VTs to t 4 hours before this message reached the
+    Public Forum, then no VTs would be transferred as a direct result of
+    this posting.
+
+========================================================================
+
+Caller:                                 Wes
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wes:                          14 May 2000 21:30:53 GMT
+Assigned to Taral:                      15 May 2000 20:07:49 GMT
+Judged TRUE by Taral:                   20 May 2000 03:10:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+> You can't point a gun at someone and declare, "If you are evil, I
+> hereby shoot you" and have the gun fire if and only if the person is
+> evil.  Why should speech acts be subjected to a different analysis?
+
+On the other hand, if we call our stockbroker and say "if and only if
+we have not already bought shares of this stock in the last day or two,
+we want to buy X number of shares."
+
+This way, if we leave this message on his office voicemail, home answering
+machine, pager voicemail and cellphone voicemail, we will only get X
+shares of the stock, rather than 4X shares of the stock.
+
+One may argue that in this case, the stockbroker is atually performing
+the action rather than the caller. We disagree. One never says that
+"one's stockbroker bought shares of a stock". One says "we bought shares
+of a stock". Actions which require cooperation on the part of a third
+party are still refered to as actions performed by the instigating
+agent. In fact, if one is not familiar with the nature of buying stocks,
+one might not even know that the action was not performed directly. It
+is not obvious to an uninformed observer.
+
+Agora is in a similar situation. When we post to a Public Forum that we
+transfer some Currency, in one way we are directly performing an action.
+The legal fiction is that the Currency automagically transfers from one
+account to another without any intervention whatsoever.
+
+The reality, evident to those actually in the situation rather than some
+spectators, is that what we are really doing is instructing the Currency
+Recordkeepor to adjust some numbers for us. Because we are, in reality,
+giving instructions to an imperfect agent, there is the potential for various
+sorts of miscommunications, thus conditional messages like we constructed
+above are not only necessary, but logical and consistant with the current
+legal situation. Of course, such instructions are only meaningful if the
+cooperating agent (the Recordkeepor) can determine without question the
+truthfulness of the condition. Otherwise, the statement ceases to be a
+simple action and becomes more akin to Kelly's example where the action's
+state of fulfullment is uncertain.
+
+There is also the simple fact that, as Kelly pointed out, actions in the
+context of Agora only have meaning as provided by the Rules. The Rules
+provide a specific effect for those statements made in the form "We
+transfer X Currency to Y". Since Agora furthermore complies with the
+basic function of the English language, and since no restrictions are
+put upon the use of additional language constructs, and since the Rules
+do specifically permit the unrestricted, one can embed this sort of a
+statement within a conditional statement, so long as the conditional
+statement complies with the linguistic rules of the English language.
+
+Thus, for a couple of different reasons, statements of a conditional
+nature would be perfectly effective.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+There is a reasonable reading of the Rules in which the sending of a
+message of the type in the Statement is the execution of an Order whose
+action may be a nullity. To render this reading invalid by precedent would
+be to modify too heavily the definition of an Order. However, in the
+interest of the coherent execution of the Game, it is only reasonable to
+allow conditions which can be fully resolved by consultation of the
+information publicly available within the scope of the Game at the time
+the conditional Order is issued.
+
+Since the Statement's condition satisfies this constraint, I Judge it
+TRUE.
+
+========================================================================
+
+Judge Taral's Evidence:
+
+Rule 1793/0 (Power=1)
+Orders
+
+      An Order is a command, executed by a Player and directed to some
+      entity requiring that entity to perform exactly one action, or
+      to refrain from performing one or more actions.
+
+      An Order may be directed to the holder of an Office or other
+      official position in eir capacity as that Office or other
+      official position, and in this case if the Office or position
+      changes hands before the Order is satisfied, the duty to abide
+      by the Order automatically attaches to the new holder of that
+      Office or position.
+
+      Notwithstanding the foregoing, an Order, the purpose of which is
+      to affect the operation of a prior Order, is as valid as any
+      other Order, and is said to be directed at the prior Order it
+      affects.
+
+----------------------------------------------------------------------
+
+Rule 1808/1 (Power=1)
+Administrative and Private Orders
+
+      Administrative Orders are executed by being published in the
+      Public Forum, and take effect upon publication.
+
+      Private Orders are executed by submitting them to the Player to
+      be commanded, and take effect upon submission.
+
+========================================================================

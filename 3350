@@ -1,0 +1,40 @@
+==============================  CFJ 3350  ==============================
+
+    The answer to the question 'is YES ever a valid judgment to a CfJ
+    that is not in the form of a question?' is yes.
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        25 Jun 2013 18:53:34 GMT
+Assigned to scshunt:                    27 Jun 2013 17:23:52 GMT
+Judged FALSE by scshunt:                27 Jun 2013 17:29:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Equivalence goes both ways, and this CfJ provides an example where it could go
+in the opposite direction of the CfJs that motivated the current wording;
+also, a literal reading of the rule implies that YES and NO are valid
+judgments on any CfJ that contains a question regardless of whether the
+statement is essentially the same as that question.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Trivially FALSE; YES is only defined as a judgment for CFJs in the
+form of a question. For other CFJs, while YES may be viewed as
+synonymous with true, this is merely a shorthand and does not allow
+YES to be regarded as a judgment.
+
+========================================================================

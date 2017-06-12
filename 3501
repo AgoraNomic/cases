@@ -1,0 +1,62 @@
+==============================  CFJ 3501  ==============================
+
+      Gaelan is a player.
+
+========================================================================
+
+Caller:                       Quazie
+
+Judge:                        ais523
+Judgement:                              
+
+========================================================================
+
+History:
+
+Called by Quazie:             19 May 2017
+Assigned to ais523:           19 May 2017
+Judged TRUE by ais523:        19 May 2017
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, May 14, 2017 at 11:33 PM Gaelan Steele <gbs@canishe.com> wrote:
+>
+> Let’s see if I can make a CFJ out of this.
+> 
+> Gaelan
+
+========================================================================
+
+Judge's Arguments
+
+The relevant excerpt from rule 869:
+{{{
+      A person CAN (unless explicitly forbidden or prevented by the
+      rules) register by publishing a message that indicates
+      reasonably clearly and reasonably unambiguously that e intends
+      to become a player at that time.
+}}}
+
+The original message had a subject line of "BUS: Registration", and
+nothing in the message body contradicts the initial impression (that
+most players would get upon seeing a message with that subject from a
+nonplayer) that the message was indeed an attempt to register. Gaelan
+has been a player before, and is likely aware of Agoran customs related
+to registration; I think it's reasonably clear that Gaelan expected to
+become a player as a result of the message, which in turn implies that
+e intended to become a player (otherwise e would not have sent it).
+The other possible interpretations would involve the message being a
+discussion of, or otherwise comment on, registration, but those don't
+seem to be compatible with its content.
+
+It's worth noting that registration intentionally has a lower standard
+for ambiguity/clarity than most other actions; an action such as
+registering with a suggestive subject line works when restricted to
+registration, but would likely fail for any of our wide range of by-
+announcement actions.
+
+I judge CFJ 3501 TRUE.
+
+========================================================================

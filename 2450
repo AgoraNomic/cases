@@ -1,0 +1,166 @@
+==============================  CFJ 2450  ==============================
+
+    The Scorekeepor SHALL award me 6N points as defined by Rule 2234 in
+    relation to Enigma.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          17 Apr 2009 12:18:52 GMT
+Assigned to ais523:                     19 Apr 2009 00:31:16 GMT
+Judged TRUE by ais523:                  25 Apr 2009 17:52:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Whether or not "MAY once announce" implies "MAY NOT thereafter
+announce", I am not the contestmaster of Enigma and the paragraph and
+its restrictions do not apply to me.  However, if you read it
+carefully, "such an announcement" is clearly simply an announcement
+"that e performed duties related to that contest in a timely manner
+during that month".  I made such an announcement, so the second
+paragraph _does_ apply.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Part of the referent of "such an announcement" in this case is the
+identity of the announcer, so FALSE.
+
+Even if the contestmaster of Enigma had done this, another part of the
+referent of "such an announcement" in this case is that the announcement
+was performed within the stated once-a-month limit.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Murphy seems to be arguing that by "announcement" the rule really
+means "the action described in the previous paragraph, which is a
+special case of an announcement", but this goes against the wording of
+the rule.  It explicitly states "a player makes such an announcement",
+not "that player makes such an announcement" or "such an announcement
+is made", which would be more natural wordings in context.  Indeed, it
+seems to me the rule intends that players can make false such
+announcements (though perhaps not multiple times...) but they're
+ILLEGAL due to truthfulness.
+
+(Note, however, that if this interpretation is upheld, the R2125 NoV
+is incorrect as I *certainly* did not perform the action.)
+
+========================================================================
+
+Gratuitous Arguments by Tiger:
+
+It seems there are two interpretations:
+One is that "such an announcement" means only the announcement stating
+that duties have been performed, and in that case everything else
+about it is conditions that weren't met, so it is illegal due to 2125.
+The other one is that the action is "the contestmaster making an
+announcement" in its entirety, in which case it fails because comex
+wasn't contestmaster.
+It seems to me that if we define conditions as not being everything
+about the sentence, but rather only the "ASAP at the end of the month"
+(which I understand that we maybe want to), then this should also
+apply to the "such an announcement" clause.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Third interpretation: "such an announcement" is just a hypothetical
+announcement stating X (not referring to any particular action yet);
+the action is the contestmaster making such an announcement, with the
+time limit as condition.
+
+========================================================================
+
+Gratuitous Arguments by Tiger:
+
+No, wait, I didn't read what comex said right there. I'm arguing the
+same as Murphy, and comex's objection applies to that too. However, I
+think that "such an announcement" can also be seen as "the kind of
+announcement we spent the entire last paragraph to describe", which is
+one made once, ASAP at the end of the month, by the contestmaster. So
+maybe the defenition of what's a condition and what's an action used
+with regards to R2125 doesn't have to be the same as the one used
+regarding the "such an announcement".
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, the arguments in CFJ 2451 suggest an obvious solution to this. It
+ruled that comex did indeed make such an announcement, suggesting TRUE.
+However, it left slightly unresolved the number of actions in question,
+and CFJs can be appealed, so I want to consider the arguments
+surrounding this case myself as well.
+
+First, the rule in question (2234) says MAY once announce; therefore,
+such an announcement, if made by the contestmaster and only once, does
+not violate rule 2234. It is worth noting that if a rule says that a
+player MAY do something under certain conditions, then doing it under
+other conditions, unless some other rule specifically permits it,
+violates rule 2125 rather than the rule in question. (It's rule 2125
+which says that an action MAY NOT be performed if a rule says that it
+MAY be performed under certain conditions, unless "allowed by the
+rules"; for sanity's sake, it's best to consider a statement by a rule
+that a player MAY do something as "allowing" it, otherwise more or less
+every action in Agora is illegal. Luckily, this issue is only mildly
+related to this case; it may be worth calling another CFJ to explore it
+in more details.)
+
+Rule 2234 does not put any restrictions on what a player CAN announce.
+Rule 478 ("it is hereby resolved that no Player shall be prohibited from
+participating in the Fora.") makes it pretty clear that a player CAN
+announce things (not just in general, but as a pretty strong right; the
+precedent of CFJ 1738 implies that it is in fact even stronger than
+this, extending into implications (a rule allowing a player to only make
+false statements, for instance, conflicts with and is prevented from
+acting by rule 478)). This CFJ is about the CAN, not the MAY, and I
+think it's pretty well established that comex's announcements were
+POSSIBLE. The "subject to other rules concerning truthfulness" likewise
+only affects MAY, not CAN; and unless a rule explicitly suggests that
+something is possible only if legal, legality and possibility are
+separate.
+
+The remaining question, then, is whether they constitute "such an
+announcement" for the purposes of rule 2234. The problem is that the
+whole first paragraph of the rule is more or less redundant. It states
+that a player MAY do something, and they certainly CAN do that. So when
+do they do it? As Taral's ruling says, we need to identify what part of
+the first paragraph defines the action, and what part specifies the
+conditions under which it's legal. In general, formalised by rule 2125
+but common sense anyway, the purpose specifying that one player MAY do
+something which would otherwise be legal is to point out that other
+players MAY NOT. There's an implication there, in other words, that the
+player CAN do the action; we've already established that a player CAN
+announce what they like, but this is a different matter of establishing
+that a player CAN illegally perform the action in the first paragaph of
+rule 2125. Just as Taral ruled, therefore, it seems that it is indeed
+possible to "do the action in the first paragraph of rule 2234", and
+comex isn't missing any of the information required. (The announcement
+was a complete lie, but was "such an announcement".)
+
+So the remaining question is as to whether all 6 of comex's
+announcements counted, or just one of them. The "MAY once" phrasing is
+pretty clear; the words are right next to each other, and if the "once"
+isn't directly bound to the MAY, it's hard to see how anything is. In
+other words, the first paragraph implies that it's illegal for a
+contestmaster to multi-announce, not that multi-announcing somehow makes
+the future announcements a different sort of announcement. Therefore,
+all 6 of comex's announcements were in fact the sort of announcement
+required by rule 2234, and despite their illegality, they were
+effective.
+
+========================================================================

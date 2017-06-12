@@ -1,0 +1,153 @@
+==============================  CFJ 2582  ==============================
+
+    A Powerful Dance is an instrument.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Rodlen
+Judgement:                              TRUE
+
+Appeal:                                 2582a
+Decision:                               REMAND
+
+
+Judge:                                  Rodlen
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       14 Jun 2009 20:34:58 GMT
+Assigned to Rodlen:                     17 Jun 2009 07:42:35 GMT
+Judged TRUE by Rodlen:                  17 Jun 2009 18:48:53 GMT
+Appealed by G.:                         17 Jun 2009 19:32:18 GMT
+Appealed by Wooble:                     17 Jun 2009 19:45:14 GMT
+Appealed by Tiger:                      17 Jun 2009 19:58:35 GMT
+Appeal 2582a:                           17 Jun 2009 19:58:35 GMT
+REMANDED on Appeal:                     04 Jul 2009 01:12:07 GMT
+Assigned to Rodlen:                     04 Jul 2009 01:12:07 GMT
+Rodlen recused:                         16 Jul 2009 07:52:10 GMT
+Assigned to omd:                        16 Jul 2009 08:04:04 GMT
+Judged FALSE by omd:                    16 Jul 2009 16:39:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Powerful Dances are, by definition, powerful, therefore must
+have power, therefore must be instruments. (I suspect that no Powerful
+Dances exist, though, rules-wise, so this is unlikely to be a problem.)
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+> Rule 1688/4 (Power=3)
+> Power
+>
+>       The power of an entity is a non-negative rational number.
+>       An instrument is an entity with positive power.
+
+If this said instead "An entity that is not an instrument CANNOT have
+positive power", then R2029 would simply take precedence over it by
+higher power. As it is, I concur with the caller's arguments.
+
+========================================================================
+
+Judge Rodlen's Arguments:
+
+I judge CFJ 2582 true.  A Powerful Dance has a separate and distinct
+existence, and is therefore an entity.  Therefore, as it is powerful, it is an
+Instrument.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I intend to call for appeal of this with 2 support.  We are requested
+by R754 to defer to mathematical definitions, and a mathematical
+definition of "powerful" is "leading to many or important deductions".
+Therefore, a dance of this source is simply a decent interpretive dance
+and not one possessing rules-defined Power.  This makes as much sense
+as anything the judge said.
+
+But I'll also note that as a power-4 rule, the Town Fountain specifically
+does *not* defer (in R754 sense) to the lower- powered Rules definition
+of "power".
+
+========================================================================
+
+Appellant Wooble's Arguments:
+
+I support.  Even if we accept that the "power" in "powerful" is
+rules-defined Power, in ordinary language "powerful" doesn't usually
+mean "having power" in a generic sense but carries a connotation of
+having a lot of power.  For example, you wouldn't call a 1 horsepower
+engine "powerful" even though it has power. If a judge is going to
+posit that "powerful" refers to Power, I'd like em to define a certain
+threshold of Power below which an instrument is not Powerful.
+
+========================================================================
+
+Judge omd's Arguments:
+
+      Regularity of communication being essential for the healthy
+      function of any nomic, it is hereby resolved:
+
+...
+
+      (2) A term explicitly defined by the Rules by default has that
+          meaning when used in any Rule of equal or lesser power, as
+          do its ordinary-language synonyms not explicitly defined by
+          the rules.
+
+This cannot be applicable, as there is no other Power-4 rule that
+could possibly define 'Powerful' or a synonym.
+
+      (3) Any term primarily used in mathematical or legal contexts,
+          and not addressed by previous provisions of this Rule, by
+          default has the meaning it has in those contexts.
+
+The word 'powerful' is not primarily used in mathematical or legal
+contexts (I for one have never seen it used in either context), so
+this doesn't apply either.
+
+      (4) Any term not addressed by previous provisions of this Rule
+          by default has its ordinary-language meaning.
+
+answers.com defines 'powerful' as follows:
+1. Having or capable of exerting power.
+2. Effective or potent: a powerful drug.
+
+      In determining the ordinary-language meaning of a term,
+      definitions contained in lower-powered Rules, followed by
+      definitions used in contracts or other Agoran legal documents,
+      SHOULD be used for guidance.
+
+The definitions contained in lower-powered Rules clearly only have
+influence on the ordinary-language meaning of a term insofar as the
+term is applied to Rule-defined entities.  If a Dance were a Rule, a
+Powerful Dance would be a Rule capable of greatly influencing the
+game, which-- by common sense and definitions contained in
+lower-powered Rules-- is a Rule with unusually high Power.  This also
+applies to other types of instruments like proposals.  There does seem
+to be a traditional definition of 'powerful' as 'having nonzero
+power', but it's not currently substantiated by any rule.
+
+But "Dance" is also not defined by the rules, and Agoran game custom
+is not mentioned in Rule 754.  According to that rule, by default it
+has its ordinary-language meaning, a set of physical motions usually
+performed to music.  The word 'dance' is not commonly used
+metaphorically in ordinary language, and accordingly we must adopt the
+same definition here.  A Powerful Dance is a "series of motions and
+steps, usually performed to music" which is especially capable of
+exerting (ordinary-language) power.  FALSE.
+
+========================================================================

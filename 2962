@@ -1,0 +1,131 @@
+==============================  CFJ 2962  ==============================
+
+    A player with exactly 2 ergs remaining CAN destroy 1 erg in eir own
+    possession via a fee-based action.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       18 Jan 2011 19:15:17 GMT
+Assigned to Murphy:                     04 Feb 2011 22:30:36 GMT
+Judged TRUE by Murphy:                  05 Feb 2011 20:45:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The issue here is that normally, game custom has it that attempting to
+spend a fee to perform an action fails if that action is impossible. The
+rules cause a bit of a quandary here; upon an attempt to perform the
+action in question, rule 2283 attempts to destroy 2 ergs in the player's
+possession, and the player attempts to destroy 1 erg in eir own
+possession (due to rule 2284). This ends up as a strange timing issue;
+the rules provide no guidance on the ordering of the two events, both of
+which trigger on the same message; there's no contradiction here, just
+two actions, one of which succeeds and one of which fails, with no info
+as to which is which. So does the erg destruction succeed?
+
+A tangential issue is that by doing so, the player makes an implicit
+claim that they have sufficient ergs to perform the action. Is a
+sufficient number of ergs to perform the action in question 2, or 3? I
+can't even figure out if this is correlated or anticorrelated with the
+answer to the possibility question.
+
+Finally, if the action is indeed impossible, does anything happen at
+all? Game custom has it that trying to spend assets to do something
+impossible doesn't do anything at all (although that was under older
+rulesets which had a different wording for the way fee-based actions
+worked); but the action is possible before the cost for it is spent, and
+I don't think there's a definitive game custom agreement on that.
+
+========================================================================
+
+Caller's Evidence:
+
+Excerpt from rule 2283:
+>       A rule which purports to allow a person to perform an action for
+>       a fee thereby allows em to perform the action by announcement
+>       provided that:
+>
+>          (a) in the announcement, e states that there is a fee for
+>              that action, and
+>
+>          (b) the number of ergs in eir possession is greater than or
+>              equal to the fee.
+>
+>       Upon such an announcement, a number of ergs equal to the fee is
+>       destroyed in eir possession.
+>
+>       An attempt to perform a fee-based action is also implicitly a
+>       claim to be in possession of sufficient ergs to perform the
+>       action, and such a claim is self-ratifying.  If the claim is
+>       erroneous but self-ratifies, then the action is deemed to have
+>       occurred and destroyed all ergs in the possession of the
+>       claimant.  Making such a claim falsely is the Class-2 Crime of
+>       Assaulting the Batteries, but it is generally appropriate to
+>       DISCHARGE such a crime if it is disputed within four days.
+>
+
+Excerpt from rule 2284:
+>       - A player CAN destroy an erg in the possession of a specified
+>         player for a charge of 2 ergs.
+
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+It's possible that announcement actions are fee-based
+actions with a zero cost, which would make this even weirder (the
+rules would then list two different fees for the same action).
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I interpret "gamestate" as including history (at least relevant
+parts e.g. whether someone deregistered recently, and once that's
+included, I see no good reason not to include all of it), and
+ratification as implicitly deeming a legal fiction about history
+from the time of the ratified document forward.
+
+I interpret "upon" in Rule 2283 as indicating that the destruction
+of the fee occurs after the action.  Hence, the order of events is
+
+  1) the player makes an announcement satisfying Rule 2283 (a), and
+  2) eir erg holdings satisfy Rule 2283 (b), so
+  3) the action occurs (e destroys one of eir ergs) and then
+  4) the fee is destroyed (whoops, can no longer succeed completely)
+
+If "claim to be in possession of sufficient ergs to perform the
+action" in Rule 2283 is interpreted as "sufficient for 4) to succeed
+completely", then it is false.  If it then self-ratifies, then
+(independently of "the action is deemed" etc.) the player is legally
+deemed to have had 3 ergs, so the situation no longer pertains to any
+of the cases at hand.
+
+If "claim" etc. is interpreted as "sufficient for 2) to succeed", then
+it is true.  If it then self-ratifies, then eir initial holdings are
+not deemed to have changed, but 4) is deemed to have destroyed as many
+of eir ergs as possible.
+
+I choose the latter interpretation of "claim" etc., as it better fits
+the wording of the phrase.  (Contrast "sufficient ergs so that the
+fee gets paid".)
+
+Finally, I find that "destroy 1 erg in eir own possession via a
+fee-based action" can also describe performing some other action
+with a 1-erg fee, or some other action with a 2-erg fee (which
+destroys 1 of eir ergs and also the other of eir ergs).  Such
+actions can exist, e.g. changing one's voting limit on an ongoing
+decision whether to adopt a proposal.
+
+========================================================================

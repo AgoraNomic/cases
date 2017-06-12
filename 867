@@ -1,0 +1,218 @@
+From owner-nomic-official@teleport.com  Sun Apr 21 14:07:53 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id OAA07949 for <blahedo@quincy.edu>; Sun, 21 Apr 1996 14:07:51 -0500
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.7.5/8.7.3) with SMTP id MAA16126; Sun, 21 Apr 1996 12:06:04 -0700 (PDT)
+Received: by desiree.teleport.com (bulk_mailer v1.3); Sun, 21 Apr 1996 12:06:00 -0700
+Received: (from daemon@localhost) by desiree.teleport.com (8.7.5/8.7.3) id MAA16087 for nomic-official-outgoing; Sun, 21 Apr 1996 12:05:59 -0700 (PDT)
+Received: from torii.triple-i.com (torii.triple-i.com [192.94.150.1]) by desiree.teleport.com (8.7.5/8.7.3) with SMTP id MAA15999 for <nomic-official@teleport.com>; Sun, 21 Apr 1996 12:05:53 -0700 (PDT)
+Received: from siesta (siesta+.triple-i.com [192.94.150.7]) by torii.triple-i.com (8.6.9/8.6.9) with SMTP id MAA17278 for <nomic-official@teleport.com>; Sun, 21 Apr 1996 12:04:51 -0700
+Received: from pak by siesta (4.1/SMI-4.1)
+	id AA14481; Sun, 21 Apr 96 12:04:50 PDT
+Date: Sun, 21 Apr 96 12:04:50 PDT
+From: jlc@triple-i.com (Jeff Caruso)
+Message-Id: <9604211904.AA14481@siesta>
+Received: by pak (4.1/SMI-4.1)
+	id AA07550; Sun, 21 Apr 96 12:04:50 PDT
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 867:  TRUE
+Cc: jlc@triple-i.com
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+                     JUDGEMENT OF CFJ 867
+
+    Rule 1597 should be interpreted such that, whenever a Rule
+    directly requires a transfer of Currencies to take place,
+    and when the transfer would result in the Treasury being
+    transferred from containing a negative quantity of the
+    Currency transferred, the transfer does not take place,
+    unless the Rule requiring the transfer takes precedence over
+    Rule 1597.
+
+======================================================================
+
+Declined:       Kelly
+Judge:          Andre
+Judgement:      TRUE
+
+Caller:         Chuck
+Barred:         
+On Hold:        dcuman
+
+Eligible:       Andre, elJefe, favor, Jtael, Michael, Morendil, Murphy,
+                Narcisse, Oerjan, Steve, Swann, Vanyel, Zefram
+
+
+Note:
+  Kelly loses 2 points under Rule 1567.
+
+======================================================================
+
+History:
+  Called by Chuck, Wed, 10 Apr 1996 11:57:04 -0500 (CDT)
+  Assigned to Kelly, Wed, 10 Apr 96 11:23:16 PDT
+  Declined by Kelly, Tue, 16 Apr 96 14:20:59 EST5
+  Assigned to Andre, Wed, 17 Apr 96 06:28:28 PDT
+  Judged TRUE by Andre, Sat, 20 Apr 96 10:48:42 METDST
+
+======================================================================
+List of Relevant Rules and Request for Injunction:
+
+Relevant Rules: 1597, 1596
+
+I request that the Judge enjoin the Rulekeepor to annotate
+Rule 1597 with the statement of this CFJ.
+
+======================================================================
+Arguments:
+
+First, let me apologize for the somewhat convoluted language of
+the statement.  However, I wanted to mirror the relevant language
+of Rules 1597 and 1596 as closely as possible.  Let me
+paraphrase and elaborate on the statement a bit:
+
+IF a Rule directly requires a Currency transfer, (as opposed to
+  a non-Rule entity, granted authority by the Rules, requiring
+  the transfer)
+AND IF the transfer would result in the originating Treasury
+  having a negative amount of a Currency,
+AND UNLESS the Rule requiring the transfer takes precedence over
+  Rule 1597,
+THEN the transfer does not take place, by Rule 1597.
+
+The central issue of this CFJ is whether Rule 1597 restricts
+only those Currency transfers mandated by non-Rule entities
+(as the title of Rule 1597 suggests), or whether it does
+in fact restrict Currency transfers directly mandated
+by the Rules as well.  I believe that it restricts
+transfers directly mandated by the Rules as well as those
+required by non-Rule entities.
+
+I would remind the Judge that the title of a Rule is not
+part of the Rule itself, and has no effect on the application
+of the Rule. (Rule 1485)  Thus, the Judge should not be misled by the
+title of Rule 1597.
+
+The restrictions on Currency transfers in Rule 1597 apply to
+those transfers which are required by "an Entity other than
+a Player to which the Rules have granted the authority to
+require Currency transfers."  The question then is: are
+such entities non-Rule entities only, or do they include
+Rules as well?
+
+The first part is simple: a Rule is clearly "an Entity other
+than a Player."
+
+The next part is more difficult: "to which the Rules have granted
+the authority to require Currency transfers."  Do the Rules
+themselves fit such a definition?  I answer yes.  Although I
+know of no formal ruling, the consensus on nomic-discussion
+a few months ago (resulting from a different issue) was that
+any Rule implicitly granted itself the authority to do whatever
+it said it did.  But here I can make an even stronger case:
+Rule 1596 explicitly grants other Rules the authority to
+require Currency transfers!
+
+Thus, a Rule is "an Entity other than a Player to which the Rules
+have granted the authority to require Currency transfers," and
+the restrictions on Currency transfers in Rule 1597 apply
+to transfers directly mandated by the Rules.  Thus, if such
+a transfer would cause the originating Treasury to go negative,
+it does not take place (unless the Rule requiring the transfer
+takes precedence over 1597).
+
+
+======================================================================
+Evidence:
+1. Rule 1597
+2. Rule 1596
+3. Rule 1485 [excerpt]
+
+
+Rule 1597/0 (Mutable, MI=1)
+Currency Transfers Mandated by Non-Rule Entities
+
+      Whenever an Entity other than a Player to which the Rules have
+      granted the authority to require Currency transfers directly
+      requires a transfer of Currencies to take place, the transfer
+      takes place as required by that Entity, provided that:
+
+      a) the transfer would not result in the Treasury being
+         transferred from containing a negative quantity of the
+         Currency transferred, and
+      b) the transfer is otherwise permitted by the Rules.
+
+      Such a transfer takes place at the time specified by the Entity
+      which requires the transfer, or, if no time is specified, at the
+      time when the Entity first begins to require the transfer.
+
+      This Rule takes precedence over any Rule which would permit or
+      require a transfer prohibited by this Rule.
+
+
+Rule 1596/0 (Mutable, MI=1)
+Currency Transfers Mandated by the Rules
+
+      Whenever a Rule directly requires a transfer of Currencies to
+      take place, the transfer takes place as required by that Rule,
+      provided that the transfer is otherwise permitted by the Rules.
+
+      Such a transfer takes place at the time specified in the Rule
+      which requires the transfer, or, if no time is specified, at the
+      time when the Rule first begins to require the transfer.
+
+
+Rule 1485/4 (Mutable, MI=1) [excerpt]
+Titles For Rules
+
+      All Rules have a Title, which is a single line of text
+      containing not more than 60 characters. The Title must be listed
+      by the Rulekeepor along with the Rule. However, they are not
+      part of the Rule itself and have no effect on the application of
+      the Rule, being merely a convenience for the Players. Titles,
+      once assigned, may not be altered except as specified in this
+      and other Rules.
+
+
+
+
+======================================================================
+Decision of Judge Andre:  TRUE
+
+In the case of CFJ 867 I issue a Judgement of TRUE.
+
+In essence I agree with the Caller's Arguments. I will however try to restate
+them in my own words, refining them where possible/necessary.
+
+The first point to consider is whether a Rule can be 
+
+     "an Entity other than a Player to which the Rules have
+      granted the authority to require Currency transfers..."
+
+In my opinion, yes it does. Which Rule exactly does the granting may be
+unclear (is it the Rule itself? Rule 101? Rule 1596?), but fact is, a Rule
+is granted to do so. And what could have done that granting other than the
+Ruleset itself?
+
+Looking at the Title of Rule 1597 ('Currency Transfers Mandated by Non-Rule
+Entities'), this seems contradicting, but in a contradiction between the
+text and the Title of a Rule, the text clearly takes precedence. Even
+stronger: The Title has no meaning at all, as is clear from the
+"no effect on the application of the Rule" in Rule 1485.
+
+So Rules fall under the Game Entities that Rule 1597 talks about, so 1597
+is applicable. Concluding the statement of the CFJ from the application of
+Rule 1597 to Currencies is left as an exercise for the reader.
+
+----------------------------------------------------------------------
+
+Injunction:
+
+The Rulekeepor should annotate Rule 1597 with the statement of this CFJ.
+Relevant Rules: 1596, 1597.
+
+----------------------------------------------------------------------
+
+Andre

@@ -1,0 +1,145 @@
+==============================  CFJ 2615  ==============================
+
+    Goethe is the current Grand Poobah
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       26 Jun 2009 20:21:59 GMT
+Assigned to ais523:                     27 Jun 2009 17:05:34 GMT
+Judged FALSE by ais523:                 04 Jul 2009 01:36:39 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The message purporting to initiate the Agoran Decision to
+choose the holder of the office incorrectly stated that the eligible
+voters were the active players.  R107 says that such a notice is
+INVALID if the incorrect information is "identified" within 1 week of
+publication; it does not require publication of this fact.  The lack
+was identified, and discussed in the IRC discussion forum within 7
+days (see evidence below).
+
+Furthermore, R107 does not contain any statement that a notice is
+prima facie valid if it's not made INVALID by identifying such a lack.
+In fact, while R107 requires a valid notice to be published to start
+an election, no rule at all establishes what makes a notice valid,
+just what makes one invalid.
+
+========================================================================
+
+Caller's Evidence:
+
+from http://normish.org/ircnomiclogs.txt
+
+Tue Jun 16 20:26:46 UTC 2009:
+:Wooble!n=user@pool-151-201-246-201.pitt.east.verizon.net PRIVMSG
+##nomic :btw, the initiation of the election was invalid anyway.
+Tue Jun 16 20:26:50 UTC 2009: :coppro!n=coppro@unaffiliated/coppro
+PRIVMSG ##nomic :it was
+Tue Jun 16 20:26:52 UTC 2009: :coppro!n=coppro@unaffiliated/coppro
+PRIVMSG ##nomic :?
+Tue Jun 16 20:27:06 UTC 2009: :coppro!n=coppro@unaffiliated/coppro
+PRIVMSG ##nomic :why?
+Tue Jun 16 20:27:11 UTC 2009:
+:Wooble!n=user@pool-151-201-246-201.pitt.east.verizon.net PRIVMSG
+##nomic :the list of eligible voters is wrong.  more classic criminal
+sloppiness.
+Tue Jun 16 20:27:27 UTC 2009: :coppro!n=coppro@unaffiliated/coppro
+PRIVMSG ##nomic :good catch
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+"Indicate" is a transitive verb, taking an object.  It should be
+considered whether the object is reasonably (or in the best interests
+of the game) implied in R107 to be everyone (public) or at the very
+least the publisher of the allegedly invalid notice (who is not required
+to pay attention to a generally secondary discussion forum), as opposed
+to being implied to be anyone at all.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, it's pretty clear that 'Goethe' in the CFJ statement refers to
+G., who recently changed eir common nickname.
+
+The issue at stake is to determine if the Agoran decision was correctly
+initiated, and, if not, whether it could nevertheless be resolved. In
+order to initiate an Agoran decision, the relevant person (in this case
+the IADoP) must publish a valid notice; the rule goes on to state
+conditions under which a notice is invalid, and although the rules are
+silent on what constitutes a valid notice it is sensible to assume that
+a notice is valid if it is not invalidated by the rules and it is
+recognisable as an attempt to initiate an Agoran decision, as opposed to
+to do something else. The first relevant point here is that a notice
+purporting to initiate a decision is invalid if it fails to describe the
+class of eligible voters, and the lack is not identified within seven
+days; in this case, a class of persons was described (active players),
+but it differed from the class of persons actually required for an
+election (active first-class players, when not during an Emergency
+Session); the PNP was, at the time, an active player, but not
+first-class.
+
+The evidence provided by Wooble shows that this mistake was noticed
+within a week of the election starting; although the invalidity was
+noted in a discussion forum, this is nevertheless sufficient to make the
+original notice invalid. (In passing, I note that it would make sense to
+add 'publicly' at the relevant point in rule 107, or even to introduce a
+CoE-style system.) Therefore, the decision was never initiated.
+
+Could the decision thereafter be resolved? Rule 208 implies that the
+vote collector CAN resolve a decision that exists (and thus, by R2125,
+CANNOT resolve a decision that doesn't unless another rule makes it
+POSSIBLE.) Rule 2154 requires that the Agoran Decision in question is
+resolved in order to cause a change of officer. Therefore, the only way
+that G. could have become the Grand Poobah would be if e were ratified
+into the role.
+
+What possible sources of ratification are there? R2134 makes it possible
+to self-ratify the existence and resolution of an Agoran Decision.
+Wooble CoEd the existence of the decision, thus causing it to fail to
+self-ratify; this CoE was denied at 9:42 pm on June 21, thus restarting
+the self-ratification timer. CFJ 2615 itself also does not prevent
+self-ratification; to be a doubt, it must explicitly identify a
+document, and the CFJ doesn't. (The caller's arguments do, but in my
+opinion that isn't 'explicit'.) Wooble then CoEd the "resolution" of the
+decision later on June 26. This CoE has, to my knowledge, neither been
+accepted or denied so far, which is a probable (but easily overlooked
+and probably not punishable) rules breach by the IADoP.
+
+It's interesting that R2134 causes two things to self-ratify; the
+existence of the decision, and its result. At the moment (realtime), the
+existence has self-ratified (despite Wooble's efforts; e CoEd the
+existence but it was denied, and e later CoEd the result but did not
+re-CoE the existence). This ratification changes the gamestate to what
+it would be if the decision had existed, so at 9:42 pm on June 28, G.
+became the Grand Poobah (as the resolution of the election would be
+correct if it had existed; no second-class players attempted to vote on
+it.) However, this court case was called on June 26; at that time, the
+self-ratification had not happened, and so the decision had not
+resolved. Therefore, I judge FALSE as of the time the CFJ was called on
+CFJ 2615 (but TRUE as of now).
+
+========================================================================
+
+Judge ais523's Evidence:
+
+Yally wrote on Sat, 13 Jun 2009 10:16:29 -0500:
+> I initiate an Agoran decision to decide the holder of the Grand Poobah
+> office. The eligible voters are the active players, the vote collector
+> is the IADoP, and the valid options are coppro (incumbent), G.,
+> Wooble, and PRESENT.
+
+========================================================================

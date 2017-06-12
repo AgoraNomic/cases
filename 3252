@@ -1,0 +1,58 @@
+==============================  CFJ 3252  ==============================
+
+    I have cast a vote in the current Promotor election.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        10 Jul 2012 19:25:41 GMT
+Assigned to Murphy:                     16 Jul 2012 05:03:41 GMT
+Judged TRUE by Murphy:                  16 Jul 2012 06:07:28 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I've honestly forgotten our precedent on this.
+
+========================================================================
+
+Caller's Evidence:
+
+On 10 July 2012 14:26, Elliott Hird <penguinofthegods@googlemail.com> wrote:
+> Ｉ  ｖｏｔｅ  ｆｏｒ  ｓｃｓｈｕｎｔ．
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+These days, it's reasonable to assume that any player can get their
+hands on a GUI with reasonable effort.  According to the Registrar's
+report, most active players (particularly IADoP FKA441344) read Agora
+mail using Gmail, hence a GUI web browser.
+
+This case involves full-width Latin characters, which are part of
+Unicode plane 0 and are widely supported.  Contrast e.g. CFJ 3243,
+which mostly involved emoji characters, which are part of plane 1 and
+are much less widely supported.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+http://en.wikipedia.org/wiki/Plane_(Unicode)
+http://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms
+http://en.wikipedia.org/wiki/Emoji
+
+http://www.fontspace.com/unicode/block/Halfwidth+and+Fullwidth+Forms
+http://www.fontspace.com/unicode/block/Miscellaneous+Symbols+and+Pictographs
+
+========================================================================

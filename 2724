@@ -1,0 +1,48 @@
+==============================  CFJ 2724  ==============================
+
+    If it is determined that ais523 cannot act on behalf of  Murphy to
+    resolve the Agoran decision to adopt 6514, ais523's message
+    purporting to do so is self-ratifying.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      13 Oct 2009 23:10:39 GMT
+Assigned to omd:                        25 Oct 2009 18:12:25 GMT
+Judged TRUE by omd:                     25 Oct 2009 18:48:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Purported resolutions of Agoran decisions are self-ratifying?
+What if they are via an act-on-behalf that is platonically uncertain? Do
+they still self-ratify, even if the purported resolution could never be
+performed?
+
+========================================================================
+
+Judge omd's Arguments:
+
+The relevant text, from R2034:
+
+      A public document purporting to resolve an Agoran decision
+      constitutes self-ratifying claims that [...]
+
+The issue is that ais523 sent a message claiming not that ais523
+resolved the decision, but that Murphy resolved it (via
+act-on-behalf).  However, in neither case is the public document
+itself resolving the decision; "a public document purporting to
+resolve an Agoran decision", therefore, must be interpreted as "a
+public document purporting to cause an Agoran decision to be
+resolved", a criterion that ais523's message satisfied.  TRUE.
+
+========================================================================

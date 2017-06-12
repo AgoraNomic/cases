@@ -1,0 +1,100 @@
+==============================  CFJ 2859  ==============================
+
+    "Distributed Proposal 6830" refers to an undistributed proposal.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+Appeal:                                 2859a
+Decision:                               REMAND
+
+
+Judge:                                  G.
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       12 Sep 2010 18:54:44 GMT
+Assigned to G.:                         13 Sep 2010 21:29:55 GMT
+Judged TRUE by G.:                      13 Sep 2010 22:37:34 GMT
+Appealed by omd:                        14 Sep 2010 01:52:07 GMT
+Appealed by Machiavelli:                14 Sep 2010 02:07:36 GMT
+Appealed by G.:                         14 Sep 2010 15:55:17 GMT
+Appeal 2859a:                           14 Sep 2010 15:55:17 GMT
+REMANDED on Appeal:                     21 Sep 2010 20:30:59 GMT
+Assigned to G.:                         21 Sep 2010 20:30:59 GMT
+G. recused:                             03 Oct 2010 18:09:49 GMT
+Assigned to Murphy:                     03 Oct 2010 18:10:47 GMT
+Judged FALSE by Murphy:                 03 Oct 2010 18:54:01 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Because a proposal (a rules-defined entity) already had the
+name Distributed Proposal 6830, the power-1 rule 2161 was not powerful
+enough to override the power-2 rule 1586 by causing two rules-defined
+entities to have the same name, and thus it was incapable of renaming
+the proposal with ID number 6830 to Distributed Proposal 6830.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Nothing in current naming Rules explicitly allows players to give
+"official" names or titles to Proposals.   Two proposals submitted
+with the same "suggested title" by the proposer would still be
+proposals due to R106, which overrules all of this.  The way this
+works was described in detail in CFJ 1358, and the current ruleset
+does not regulate proposal titles any more strongly now than it
+did then.  The current common "unoffical" referent for the
+undistributable proposal in question is the one listed.  TRUE.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend to appeal this judgement with 2 support, because (unlike at
+the time of CFJ 1358) R106 explicitly mentions "title":
+
+      A player CAN create a proposal by publishing ("submitting") a
+      body of text and an associated title with a clear indication
+      that it is intended to become a proposal,
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I support and do so, requesting REMAND.  -G.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+As pointed out in 2859a, proposal titles are explicitly mentioned by
+Rule 106.  Thus, either of the following could reasonably have been
+referred to as "Distributed Proposal 6830":
+
+  a) coppro's proposal with ID number 6830, name "Distributed Proposal
+     6830", and title "We Don't Need No Stinkin' Voting", which was
+     neither distributable nor undistributable (it had already been
+     distributed)
+
+  b) ais523's proposal with title "Distributed Proposal 6830", which was
+     undistributable
+
+However, without further context that clearly favors one over the other,
+"Distributed Proposal 6830" does not unambiguously refer to either of
+these proposals.
+
+========================================================================

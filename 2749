@@ -1,0 +1,66 @@
+==============================  CFJ 2749  ==============================
+
+    If the Admiral of the Navy initiated a coup right now, and
+    purported to give the CotC the Justiciar card when e Formed the
+    Government, eir coup would be a chicken coup.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      29 Nov 2009 01:44:52 GMT
+Assigned to Murphy:                     29 Nov 2009 17:06:04 GMT
+Judged TRUE by Murphy:                  29 Nov 2009 17:45:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1450 prevents the CotC from owning the Justiciar card; does
+the failure of one part of the Formation of Government mean that the
+entire Formation fails? or just that that assignment fails, but a
+Government has still been Formed?
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+First, was there an Admiral of the Navy at the time this case was
+initiated?  (This was the question that inspired my recent tortoise
+attempt.)  I believe the Dealor's report of November 14 (saying that
+it's me) has self-ratified, overwriting c.'s Drop Your Weapon of
+October 23, so we're fine on this point.
+
+Second, what does Rule 2269 have to say?  There has never been a
+coup d'etat, so the hypothetical coup would not be a coup d'etat
+("since the last coup d'etat ended" is missing its referent) nor
+a coup de grace, so it would be a chicken coup.  TRUE.
+
+For completeness, here's my analysis of what would happen if "(or
+there has never been a previous coup d'etat") was inserted:
+
+  * The Speaker last Formed a Government on September 1.
+
+  * The Admiral (me) is not the Speaker (I think the order of
+    succession is me, coppro, ais523, c., Tiger, making Tiger
+    the Speaker).
+
+  * R2269 would declare the coup a coup d'etat.
+
+  * Now the heart of the matter:  would R1450 cancel R2275's
+    entire Formation of a Government (triggering R2270's override)
+    or just the one transfer?  R2275 uses "all" rather than "each",
+    and contains an all-or-nothing self-ratification clause, so I
+    would choose the former interpretation and judge TRUE anyway.
+
+  * R2273 only applies to a coup de grace with a missing referent,
+    so would not apply.
+
+========================================================================

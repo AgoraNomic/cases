@@ -1,0 +1,176 @@
+======================================================================
+                               CFJ 878
+
+"Rule 1322 should be interpreted such that the term 'Mutation Index'
+ is a synonym for 'Mutability Index'."
+
+======================================================================
+
+Judge:       Andre
+Justices:    Michael (CotC), Steve (J), and elJefe (S)
+
+Judgement:   TRUE
+
+Eligible:    Andre, Chuck, Coren, elJefe, favor, KoJen, Michael,
+             Morendil, Murphy, Oerjan, Steve, Swann, Vanyel, Xanadu
+
+Not eligible:
+Caller:      Zefram
+Barred:      -
+On hold:     -
+
+======================================================================
+
+History:
+  Called by Zefram, Sun, 22 Sep 1996 04:53:14 +0100 (BST)
+  Assigned to Andre, Fri, 27 Sep 1996 09:47:39 +0100
+  Judged FALSE by Andre, Wed, 2 Oct 1996 09:53:56 +0200 (MET DST)
+  Published, Fri, 4 Oct 1996 10:49:04 +0100
+  Appeal called for by Morendil, Fri, 4 Oct 1996 12:11:32 +0100
+  Appeal called for by Oerjan, Fri, 4 Oct 1996 17:42:13 +0100 (MET)
+  Appeal called for by Swann, Fri, 4 Oct 1996 19:23:48 -0400
+  Justices assigned, Sun, 6 Oct 1996 13:02:55 +0100
+  Appelate decision from Steve, Mon, 7 Oct 1996 15:38:19 +1000 (EST)
+  Appelate decision from elJefe, Tue, 8 Oct 1996 23:54:07 +0000
+  Appelate decision from Michael, Sun, 13 Oct 1996 13:02:55 +0100
+  Final decision published, Mon, 14 Oct 1996 11:56:28 +0100
+
+======================================================================
+
+Justice elJefe:
+
+I judge TRUE, overturning Judge Andre's judgement.
+
+1.) There is no sensible way to interpret the Rules without taking
+these quite similar terms to have the same meaning.
+
+2.) There is precedent in an earlier CFJ (can't quite recall which,
+and I no longer have my extensive collection of CFJs) that assigned
+meaning to words which were not defined in the Rules, but which were
+obvious linguistic derivations of terms which were so defined.
+
+I request that the Rulekeepor annotate Rule 1322 to this effect.  This
+is not an Injunction, as nowadays Boards of Appeal (it seems) cannot
+issue injunctions.
+
+Regards,
+-- elJefe, Justice of the Board of Appeals of Agora Nomic
+
+======================================================================
+
+Justice Steve:
+
+In the matter of the Appeal of CFJ 878, I overturn Andre's Judgement
+and return a Judgement of TRUE. While I agree with Judge Andre that
+R1322 does not indicate that the two phrases are synonymous, I
+disagree with him about what it would take for two terms to be
+interpreted synonymously. Judge Andre's list is at least
+incomplete. (It may also be incorrect in that his third criterion is
+debatable, but that need not concern us here.) It is my judgement that
+the existence of extensive game custom which interprets two terms
+synonymously is also sufficient for the synonymity of the terms, other
+things being equal. In the particular case at hand, game custom
+certainly has it that the two terms do not differ in meaning. This
+should not surprise, for it is hard to make sense of R1322 without
+interpreting 'Mutation Index' and 'Mutability Index' synonyously, to
+the point where it is tempting to say that the appearance of 'Mutation
+Index' in the Rule is little more than a typographical error with no
+effect on meaning.
+
+======================================================================
+
+Justice Michael:
+
+As the other Justices have pointed out, there is no sensible way to
+interpret the two terms used in 1322 without concluding that their use
+is as synonyms.  Support for this is also present in R105/0, where
+both terms are effectively equated.
+
+Therefore I overturn Judge Andre's decision, and call for the
+Judgement to be reversed.
+
+======================================================================
+
+Original Judge's Arguments:
+
+At no place in Rule 1322 it gives any indication that these two are
+synonymous.
+
+Not to make these arguments too short I'll issue the subject of when
+these two were synonymous.
+
+1. If 'Mutation' and 'Mutability' had been synonyms, then 'Mutability
+   Index' and 'Mutation Index' had been synonymous UNLESS some Rule
+   said or implied they were not.
+2. If a Rule explicitly or implicitly says they are the same, then of
+   course they are synonymous
+3. If the Rules implied that at all times (as long as the Rules hadn't
+   changed) the indices had the same value for all Entities for which
+   any of them has a value, then, in my opinion, they would be
+   synonymous too.
+
+However, the value of Mutation Indices is not regulated by the Rules,
+and the best explanation now is, that Rule 1011 now says that a Rule
+HAS NO Mutation Index. Through a strange quirk of language this still
+keeps Rule 1322 sensible: We just have to accept that 'if any' means
+'if the Rule has any Mutation Index'.
+
+======================================================================
+
+Evidence:
+
+Rule 1011/3 (Semimutable, MI=2)
+Game Entities May Not Be Arbitrarily Changed
+
+      A "Nomic Property" is any property of any entity which that
+      entity possesses solely by the virtue of the Rules defining that
+      property.
+
+      No Nomic Property shall be changed except in accordance with
+      procedures specified by the Rules.
+
+----------------------------------------------------------------------
+
+Rule 1021/4 (Mutable, MI=1)
+Mutability Indices
+
+      Let there be, associated with each Rule, an Index called that
+      Rule's Mutability Index.  The Mutability Index of a Rule is a
+      part of that Rule, and cannot be changed except by the
+      application of a Rule Change of a type that the Rules state can
+      change a Rule's Mutability Index.
+
+      The Mutability Index of a Rule can never be changed such that it
+      is less than 1 or greater than 4; any Rule Change which would do
+      so does not have legal effect.
+
+      A Rule whose Mutability Index is 1 is known as a "Mutable" Rule.
+      All other Rules are known as "Semimutable" Rules.
+
+----------------------------------------------------------------------
+
+Rule 1322/2 (Semimutable, MI=3)
+Effectiveness of Rule Changes
+
+      Every Rule Change shall have associated with it an Index, called
+      its Power, which determines its ability to take effect.
+
+      The Power of a non-Proposed Rule Change shall be the Mutability
+      Index of the Rule in which the Rule Change is contained.
+
+      The Power of a Proposed Rule Change shall be the Adoption Index
+      of the Proposal in which the Rule Change is contained.
+
+      No Rule Change may take effect unless its Power is not less than
+      the current Mutation Index of the Rule it seeks to change, if
+      any, and the Mutation Index that the Rule would possess after
+      the change, if any.
+
+
+======================================================================
+
+(Caller's) Arguments:
+
+The relevant Rules are 1021 and 1322.
+
+======================================================================

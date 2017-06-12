@@ -1,0 +1,119 @@
+==============================  CFJ 1577  ==============================
+
+    The Registrar has not legally resolved the Rebellion that occurred
+    on December 15th, 2005.
+
+========================================================================
+
+Caller:                                 Sherlock
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Sherlock:                     17 Dec 2005 13:27:57 GMT
+Assigned to Quazie:                     01 Jan 2006 01:31:43 GMT
+Quazie recused:                         23 Jan 2006 00:00:00 GMT
+Assigned to OscarMeyr:                  13 Feb 2006 08:45:52 GMT
+Judged FALSE by OscarMeyr:              13 Feb 2006 20:03:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+  Registrar OscarMeyr used a roll of 1 - 12 to determine the
+  success of the Rebellion.  However, per eir own admission,
+  there were only 11 registered players at the time of Rebellion.
+  Rule 1079 (Definition of "Random") is fairly clear that the
+  choice has to made between the "possible outcomes":
+
+      (a) When a Rule requires a random choice to be made, then
+          the choice shall be made using whatever probability
+          distribution among the possible outcomes the Rules
+          provide for making that choice. If the Rules do not
+          specify a probability distribution, then a uniform
+          probability distribution shall be used.
+
+  By Agoran rules, 12 was not a possible outcome of Rebellion,
+  so it should not have been included as a possible roll in the
+  determination, regardless of whether the Registrar would have
+  ignored it as a result.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+The result of my random determination (selecting a random number from 1
+to 12, and trying again on a result of 12) to resolve the rebellion was
+mathematically equivalent to selecting a random number from 1 to 11.
+Goethe posted eir proof of this in
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2006-January/
+005505.html.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Judge's evidence, the aforementioned post by Goethe:
+
+Quazie wrote:
+
+>> Would u mind submitting your math you menitioned doing as evidence
+>> on CFJ 1577?
+
+
+Gratuitous Evidence for CFJ 1577, by request:
+
+Part 1.  Math.
+
+The algorithm used is:  Roll 1d12, and re-roll on every 12 (forever
+if needed), until a 1 through 11 comes up, terminating the process
+with the last number.
+
+What are the odds of a 1 coming up in the terminus?
+
+Odds are 1/12 of rolling a 1 on the first roll, terminating.
+Odds are 1/12 * 1/12 of rolling a 12 on first roll, then
+a 1 on the second roll, terminating.
+Odds are 1/12 * 1/12 * 1/12 of rolling 12-12-1, terminating.
+Odds are (1/12)^4 of rolling 12-12-12-1, terminating.
+Etc.
+
+Since the above sequences are mutually exclusive, the probabilities
+can be added, giving the probability of rolling a 1 as:
+
+SUM[k=1...inf](1/12)^k   =   (1/12) / (1-(1/12))  =  1/11
+
+(proof ommitted, see equation 9 at
+http://mathworld.wolfram.com/GeometricSeries.html )
+
+So there's a 1/11 chance of terminating the process with a 1 (or a
+2, or 3 or ... or 11).
+
+Of course, as Maud pointed out, if the only allowable outcomes are
+1 to 11, and there's no reason to bias any one of those, so the math
+isn't really needed to make the same argument.
+
+Part 2.  Why this doesn't matter
+
+As I said before, my play of Not Your Turn
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2005-December
+/005464.html
+
+"took back" one Rebel Rabble, and changed the odds.  So the odds
+should have been 9/11 of failure, not 10/11.  So OscarMeyr chose
+from the wrong distribution.  E pointed out that eir roll of "10"
+would have been a failure under either distribution, so e shouldn't
+be required to re-roll.  This IMO is a more interesting reason to
+consider this CFJ.
+
+=Goethe
+
+========================================================================

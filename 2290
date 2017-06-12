@@ -1,0 +1,118 @@
+==============================  CFJ 2290  ==============================
+
+    The Ambassador CAN flip Wooble's Recognition to Friendly without
+    objection.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              
+
+
+Judge:                                  BobTHJ
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by ais523:                       25 Nov 2008 16:52:57 GMT
+Assigned to Wooble:                     25 Nov 2008 20:25:04 GMT
+Wooble recused:                         25 Nov 2008 21:07:51 GMT
+Assigned to BobTHJ:                     25 Nov 2008 21:22:10 GMT
+Judged UNDETERMINED by BobTHJ:          27 Nov 2008 04:58:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This is really about whether Wooble is a nomic or not,
+phrased such that I have a miniscule chance of a random Win by Paradox.
+
+A nomic ruleset is defined as follows:
+{{{
+      A nomic ruleset is a set of explicit rules that provides means
+      for itself to be altered arbitrarily, including changes to those
+      rules that govern rule changes. Not all rule changes need be
+      possible in one step; an arbitrarily complex combination of
+      actions (possibly including intermediate rule changes) can be
+      required, so long as any rule change is theoretically achievable
+      in finite time.
+}}}
+and nomics are defined by nomic rulesets.
+
+(By the way, I assume that Wooble is human, as it seems likely and I am
+aware of no evidence to the contrary.)
+
+It is a philosophical question whether or not humans are defined in some
+sense by a set of explicit rules; neuroscientists and philosophers have
+puzzled over this for decades, and are unlikely to come to a conclusion
+any time soon. However, if they are, it seems likely that these rules
+can change over time; for instance, humans are known to be capable of
+learning, and the neural connections in their brains change over time to
+react to stimuli. It is quite possible, indeed plausible, that these
+rules (although maybe not their encoding, which is not part of the nomic
+ruleset) can change arbitrarily given enough time, and sufficient
+advances in medical science, if they exist. So the question of whether
+Wooble is a nomic basically comes down to if e is defined by a nomic
+ruleset as a whole, i.e. by a set of explicit rules.
+
+I seriously don't expect an Agoran CFJ to be able to solve this issue;
+in fact, logic alone is insufficient to determine matters of logic and
+philosophy. Therefore, the statement of this CFJ is "not capable of
+being accurately described as either false or true", at least by logic
+(the referent of "logically" in the relevant part of R591 is ambiguous
+and probably refers only to "logically undecidable", but "FALSE" and
+"TRUE" require the statement to be "factually and logically" true/false,
+and interpreting "false or true" as "FALSE or TRUE" seems to be a
+sensible interpretation, especially as if this interpretation were not
+used it would be possible to have an inquiry CFJ with no appropriate
+judgements.
+
+(As for the other possible judgements: FALSE and TRUE are both
+inappropriate unless the judge can somehow solve a years-old philosophy
+problem, it isn't MALFORMED, it isn't IRRELEVANT because it affects the
+legality of a game action, and arguably it isn't UNDETERMINED because
+"uncertainty as to how to interpret or apply the rules cannot constitute
+insufficiency of information for this purpose", and the question is
+about how the rules define a nomic; however, I think if UNDETERMINED and
+UNDECIDABLE are the only two judgements which have a chance of being
+appropriate, or possibly FALSE if there's a flaw in my reasoning
+somewhere.)
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+CFJ 1860 is the pre-that-defintion precedent on this matter and may be
+informative.
+
+Uncertainty concerning scientific matters related to this question
+makes UNDETERMINED an appropriate judgment.
+
+========================================================================
+
+Gratuitous Arguments by Billy Pilgrim:
+
+Keyword = explicit (fully revealed or expressed without vagueness,
+implication, or ambiguity)
+
+As argued by ais523, we do not (perhaps cannot) know whether Wooble is
+governed by a set of rules. Ergo, I would argue, IF e is governed by a set of
+rules, they are clearly not -explicitly- defined anywhere. Unless you're into
+the existence of platonic concepts. And I think those are a bit of a silly
+invention.
+
+FALSE
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+In consensus with the arguments that have been presented I rule
+UNDETERMINED. I thought I had judged a case similar to this in the
+past but I can't seem to find it in the archive.
+
+========================================================================

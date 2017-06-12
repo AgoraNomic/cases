@@ -1,0 +1,343 @@
+==============================  CFJ 1315  ==============================
+
+    In publishing with the Voting Report for Proposals 4184-4194
+    incorrect text for Proposal 4190, Blob committed the Class 4 Crime
+    of Misrepresentation.
+
+========================================================================
+
+Caller:                                 neil
+Barred:                                 Lindrum
+
+Judge:                                  Elysion
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by neil:                         16 Aug 2001 02:39:49 GMT
+Assigned to Elysion:                    16 Aug 2001 03:01:08 GMT
+Judged TRUE by Elysion:                 19 Aug 2001 00:55:34 GMT
+Order(s) issued:                        19 Aug 2001 00:55:34 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Proposal Distribution for Proposals 4184-4194:
+  http://www.escribe.com/games/agora-official/m1541.html
+
+Voting Report for Proposals 4184-4194:
+  http://www.escribe.com/games/agora-official/m1567.html
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+Rule 1497/7 (Truth in Advertising) defines a sufficient condition for
+Misrepresentation:
+
+Rule 1497/7 (Power=1)
+Truth in Advertising
+
+      Any Player who willfully makes a false statement of fact as part
+      of a public message ... commits the Class 4 Crime of
+      Misrepresentation.
+
+and also defines "willfully":
+
+      For the purposes of this Rule, a false statement of fact is made
+      "willfully" when the Player making it, at the time the statement
+      was made, has the intention to make a false statement of fact
+      and knowledge that the statement actually made was false.
+      Particularly, a Player who makes a false statement of fact
+      through excusable negligence, reasonable error, or reasonable
+      reliance on the representations of another, shall not be
+      considered to have willfully made a false statement of fact.
+
+Thus, we need to establish three things:
+
+1. Was there any false statement in Blob's message?
+2. Was the message public?
+3. Were the false statements made willfully?
+
+(2) can be answered immediately: the message was sent to
+agora-official@agoranomic.org, which at the time was a PF (see Rule 478/11,
+The Public Forum). (1) can also be answered easily. Under the section "Text
+of Adopted Proposals" we find the text "Blob is Mauvy." in Proposal #4190
+(Executors Revamped). In both the message distributing proposal 4190 and in
+the message submitting the proposal we find the text in question is not
+present. Thus, Blob's claim the text of the proposal is as presented is
+false. To establish (3), we must establish all of the following:
+
+A. The Player intended to make a false statement of fact
+B. The Player had knowledge that the statement was false
+C. The Player did not make it through excusable negligence, reasonable
+error, or reasonable reliance on the representations of another.
+
+(B) is true; Blob had to get the whole proposal text from either the message
+distributing the proposal or the message submitting it, and both clearly
+show the text in question was not present. (C) also is true. The addition of
+the statement requires deliberate action on Blob's part, not negligence.
+Furthermore, no person would reasonably conclude that the text in question
+was a part of the proposal based on the evidence; thus, it is neither a
+"reasonable error" nor a "reasonable reliance on the representations of
+another" (since Blob was the first to make such a claim). This brings us to
+(A), the final condition. The truth of this CFJ's Statement is the same as
+the truth of (A). As mentioned before, the most reasonable conclusion based
+on the evidence is that Blob emself deliberately placed the text in question
+in eir representation of proposal 4190. This judge therefore concludes that
+the text was placed intentionally and that the text was a false statement of
+fact, satisfying (A).
+
+Thus, I hereby judge the Statement TRUE.
+
+========================================================================
+
+Judge Elysion's Evidence:
+
+ Subject: BUS: Proposal: Executors Revamped
+    Date: Tue, 03 Jul 2001 13:37:59 +1000 (EST)
+    From: Steve Gardner <gardner@silas.cc.monash.edu.au>
+Reply-To: agora-discussion@agoranomic.org
+      To: agora-business@agoranomic.org (Agora Nomic Business List)
+
+H. Promotor Elysion,
+
+I withdraw my Proposal "Executors Revamped" from the Pool, and submit
+the following ####-delimited Proposal, with the same Title, in its
+place.
+
+The main change to the Proposal is the addition of an amendment to R1841
+to repair the PoA Rules, currently broken.
+
+There is also an amendment to make Razl Noisy. It is possible that Razl
+will Zombify early next week. This will cause confusion because although
+the Bank will become Razl's Master, I will retain Razl's PoA. Making
+Razl Noisy again will clear up the mess, and the proposed new R1841(f)
+will prevent it from recurring.
+
+####
+Proposal
+Executors Revamped
+
+Change the Title of Rule 1478 to "Executors and Limited Executors" and
+amend it to read:
+
+  (a) An Executor of an entity is a Player who is empowered by the Rules
+      to act on behalf of that entity, who is called the Executee. There
+      may be more than one such Player. An Executor of an Executee may
+      perform on behalf of the Executee all such actions as the Rules
+      permit the Executee to perform.
+
+  (b) A Limited Executor of an entity is a Player who is empowered by
+      the Rules to perform on behalf of that entity a subset of the
+      actions which the Rules permit the entity to perform. A Limited
+      Executor is permitted to perform on behalf of an Executee only
+      such actions as are explicitly permitted by the Rules.
+
+  (c) A Player is always eir own Executor. Other entities have Executors
+      (or Limited Executors) only as and when the Rules provide.
+
+  (d) A Player acting on behalf of an entity other than emself must
+      clearly indicate on whose behalf e is acting. A Player who does
+      not clearly indicate that e is acting on behalf of some entity
+      other than emself is presumed to be acting on eir own behalf.
+
+  (e) Only persons may perform actions. Non-persons perform actions only
+      via the agency of persons, as specified by the Rules.
+
+
+Create a Rule, entitled "Prime Executors", which reads:
+
+  (a) The Prime Executor of an entity with respect to a certain action
+      is the Player who is responsible for performing that action. For
+      each action that an entity is required to perform, there shall be
+      at most one Prime Executor of that entity with respect to that
+      action. Any penalty incurred due to an entity's failure to perform
+      as required by the Rules is incurred by the Prime Executor of that
+      entity.
+
+  (b) Any other Rule to the contrary notwithstanding, the Prime Executor
+      of an entity with respect to a certain action must be an Executor
+      of that entity, or a Limited Executor of that entity who is
+      permitted to perform that action on behalf of that entity.
+
+  (c) If the Rules designate a Player to be the Prime Executor of an
+      entity, without specifying particular actions that the Prime
+      Executor is responsible for performing, then that Player is the
+      Prime Executor of that entity with respect to all actions that the
+      entity is required to perform.
+
+  (d) Unless otherwise specified by the Rules, each Player is eir own
+      Prime Executor.
+
+
+Amend Rule 1841 (Granting Power of Attorney) to read:
+
+  (a) A Player (the Grantor) who has been continuously registered for
+      more than two months is empowered to give eir Power of Attorney
+      (PoA) to another Player (the Holder), as specified in this Rule.
+
+  (b) The Holder holds the Grantor's PoA if all of the following
+      conditions are met:
+      (1) the Grantor has announced that e grants eir PoA to the Holder;
+      (2) the Holder has, in the week immediately preceding or
+          immediately following the Grantor's announcement, publically
+          consented to hold the Grantor's PoA;
+      (3) the Holder is Active; and
+      (4) the grant of PoA has not been withdrawn for any of the reasons
+          listed in (d).
+
+  (c) The grant of PoA commences at the time the Grantor grants eir PoA
+      to the Holder, or at the time the Holder consents to the grant, or
+      at the time specified by the Grantor, whichever is latest. If the
+      Grantor specifies a time at which the grant of PoA is to commence,
+      it must be a time no more than seven says from the Grantor's
+      announcement. Later specifications are without effect for the
+      purposes of this Rule.
+
+  (d) The grant of PoA is withdrawn if:
+      (1) the period of the grant specified by the Grantor expires;
+      (2) the Grantor publically withdraws the grant;
+      (3) the Grantor is deregistered;
+      (4) the Holder is deregistered or goes On Hold; or
+      (5) the Holder has held the PoA continuously for three months.
+
+  (e) Nothing in this Rule shall be construed as preventing other Rules
+      from granting and withdrawing PoA by other means.
+
+  (f) Other Rules to the contrary notwithstanding, no Player who has
+      granted PoA to another Player as described in this Rule shall
+      become a Zombie while the grant of PoA is in effect.
+
+
+Amend Rule 1842 (Power of Attorney) to read:
+
+  (a) The Rules may grant a Player, called the Holder, Power of Attorney
+      for another Player, called the Grantor. Power of Attorney is
+      granted only as specified by the Rules, and shall last only as
+      long as the Rules specify.
+
+  (b) While the Holder is granted Power of Attorney for the Grantor, the
+      Holder is an Executor of the Grantor, and the Prime Executor of
+      the Grantor.
+
+  (c) No Player is permitted to have Power of Attorney for more than
+      two other Players.
+
+
+Amend Rule 1531 by replacing the text in it which reads "and be the
+Executor of that Organization" with text which reads "and be the
+Executor and Prime Executor of that Organization".
+
+
+Amend R1470 (The Bank) to read:
+
+  (a) There is an entity known as the Bank. The Bank has Mint Authority.
+      The Bank is the Mintor of each Bank Currency. The Bank is
+      permitted to transfer Property in its possession to other
+      entities.
+
+  (b) The Treasuror is the Executor of the Bank. Each Recordkeepor of
+      each Bank Currency is a Limited Executor of the Bank, and is
+      empowered to make transfers of that Currency from the Bank.
+  (c) Each Recordkeepor of each Bank Currency is the Prime Executor of
+      the Bank with respect to debts denominated in that Currency. The
+      Treasuror is the Prime Executor of the Bank with respect to all
+      other actions that the Bank is required to perform.
+
+  (d) As soon as possible after the Bank incurs a debt to any other
+      entity, the Bank shall either satisfy that debt by transferring
+      appropriate Properties to the creditor, or dispute the debt by
+      whatever means are appropriate in the situation.
+
+  (e) The Bank is permitted to forgive debts owed to it, in whole or in
+      part:
+      (1) pursuant to a properly-issued Order; or
+      (2) Without Objection, at the Treasuror's discretion.
+
+
+Amend Rule 1981 (Embezzlement and Receiving Stolen Property) to read:
+
+  (a) A transfer of Property from one entity to another entity which is
+      made without being explicitly required or permitted by the Rules
+      is unauthorized.
+
+  (b) A Player who intentionally makes a valid but unauthorized transfer
+      of Property from any entity to another entity commits the Class 10
+      Crime of Embezzlement.
+
+  (c) An entity which receives Property from any entity as the result of
+      an intentional, valid and unauthorized transfer incurs a debt to
+      the transferor for all such Property.
+
+  (d) A Player who has been informed that e, or an entity of which e is
+      the Prime Executor, has incurred a debt of the type decribed in
+      (c) and who does not act to satisfy that debt within in a week of
+      being informed of it commits the Class 10 Crime of Receiving
+      Stolen Property.
+
+  (e) For the the purposes of this Rule, a valid but unauthorized
+      transfer is considered to have been made intentionally if and only
+      if, at the time of the transfer, the Player making it:
+      (1) knew that the transfer was valid;
+      (2) knew that the transfer was unauthorized; and
+      (3) realized that e was making the transfer.
+
+  (f) In particular, a Player who makes a valid but unauthorized
+      transfer of Property as the result of an accident or mistake does
+      not commit Embezzlement.
+
+
+Amend Rule 683 (Voting on Proposals) by deleting from it the text which
+reads:
+
+      A vote cast by an entity which does not have an Executor is cast
+      at a time and in a manner specified in other Rules.
+
+
+Amend Rule 947 (Bonus for Repeal) to read:
+
+  (a) If there are 100 or more Rules, and a Proposal is adopted which,
+      as part of all of its effect, repeals one or more Rules, and if,
+      in the Rulekeepor's estimation, the Proposal simplifies the
+      Ruleset, then the Rulekeepor shall pay out 30 Stems to the
+      Proposer of that Proposal. If the Rulekeepor decides that the
+      Proposal does not simplify the Ruleset, e must announce this
+      decision.
+
+  (b) When the Rulekeepor decides that such a Proposal does not simplify
+      the Ruleset, the Proposal's Proposer may reverse the Rulekeepor's
+      decision Without Three Objections, provided the procedure for
+      doing so is initiated within one week of the announcement of the
+      Rulekeepor's decision.  As soon as possible after the Rulekeepor's
+      decision is reversed in this manner, the Proposal's Proposer shall
+      pay out 30 Stems to emself.
+
+
+Amend Rule 1959 (Wills) to read:
+
+  (a) An entity's Will is a description of how the entity's Property
+      should be distributed in the event that the entity ceases to have
+      an Executor. The Notary shall keep a record of all Wills.
+
+  (b) An entity creates a Will for itself by publishing it.
+
+
+Amend Rule 1598 (Property Transfers) by replacing the phrase
+"transferor's Executor" in paragraph (f) with the word "transferor".
+
+Be it further resolved that Razl is Noisy.
+
+####
+
+========================================================================
+
+Judicial Order(s) by Elysion:
+
+I hereby issue a Sentencing Order ordering the Herald to record that Blob
+has incurred 4 Blots as a result of this Judgment.
+
+========================================================================

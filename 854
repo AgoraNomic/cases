@@ -1,0 +1,399 @@
+From owner-nomic-official@teleport.com  Tue Jan 30 09:39:16 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id JAA27662 for <blahedo@quincy.edu>; Tue, 30 Jan 1996 09:39:14 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id GAA06166; Tue, 30 Jan 1996 06:40:29 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Tue, 30 Jan 1996 06:40:28 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id GAA06154 for nomic-official-outgoing; Tue, 30 Jan 1996 06:40:28 -0800
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id GAA06115 for <nomic-official@teleport.com>; Tue, 30 Jan 1996 06:40:23 -0800
+Message-Id: <199601301440.GAA06115@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA11020; Tue, 30 Jan 1996 15:39:21 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 854 Judgement repost
+To: nomic-official@teleport.com
+Date: Tue, 30 Jan 96 15:39:21 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Steve notified me that I hadn't added Kelly's Reasoning to this Judgement.
+So, here it is, in repost:
+
+The texts with (M) before it are only true in the Gamestate in which
+Morendil became Speaker in December
+The texts with (S) before it are only true in the Gamestate in which
+Swann became Speaker in December
+
+======================================================================
+			JUDGEMENT CFJ 854
+
+" The Rules should be interpreted such that, if the transfers mentioned
+  in R1451 are Class I transfers, then Morendil deregistered on Sun, 21
+  Jan 1996 17:58:22 +0100."
+
+======================================================================
+
+Judge:		Kelly
+Judgement:	TRUE
+
+Eligible:	Andre, elJefe, favor, Jtael, Kelly, KoJen, Murphy, 
+		Vanyel, Vlad, Wes
+		(S) Chuck
+
+Not Eligible:	
+Caller:		Steve
+Barred:		Morendil
+On Hold:	Blob, Dave Bowen
+1005:		Michael, Pascal, Swann
+		(M) Blob, Chuck, Morendil
+
+Effects:	Kelly gains 5 Points for speedy Judgement
+
+======================================================================
+
+History:
+  Called by Steve, 29 January 1996, 12:17 +1100 (EST)
+  Assigned to Kelly, 29 January 1996, 12:53 MET
+  Judged TRUE by Kelly, 29 January 1996, 14:50 EST5
+
+======================================================================
+
+Reasons and Arguments:
+
+Morendil's message, date-stamped Sun, 21 Jan 1996 17:58:22 +0100, 
+appears in full in the Evidence section. Here are the relevant excerpts:
+
+>From: "Laurent Bossavit" <morendil@micronet.fr>
+>To: nomic-business@teleport.com
+>Date: Sun, 21 Jan 1996 17:58:22 +0100
+>
+>I am carrying out the following actions if and only if the Transfers 
+>mentioned in Rule 1451 are Class I Transfers.
+>
+<snip>
+>
+>I find that the penalty of 1000 Points for disowning my Xmas 
+>Proposals, given that it rests on extremely dubious grounds, is
+>worse than deregistration; as a consequence, I hereby announce
+>that I do deregister rather than incur it.
+
+It is not my purpose here to argue that the transfers in R1451
+are Class I transfers. That is or should be the subject of other
+proceedings. Here we need only concern ourselves with what follows
+if they are. A number of issues now arise.
+
+Firstly there is the conditional nature of the deregistration.
+I do not think I need argue that conditional registration is
+both possible and permissible. In a game as complex as this one,
+it is impossible to know with certainty the totality of the true
+game state at any given time, and this is especially true during
+times of dispute. Hence, a long tradition exists of making moves
+conditional upon the state of the game being a certain way, or 
+upon a Rule being interpreted a certain way (which often amounts
+to the same thing). As long as the truth-value of the condition
+is easily verifiable, there is no problem.
+
+However, it is worth drawing attention to exactly what condition
+Morendil imposed upon his deregistration, to wit: that the transfers
+mentioned in Rule 1451 are Class I transfers. No other condition
+was imposed. Specifically, Morendil did *not* make his deregistration
+conditional upon any particular interpretation of Rule 113. I submit
+that his message has the form: "If Condition C is true, I hereby
+announce that I do deregister."
+
+Next there is the more difficult matter of R113 itself. Here is
+the text of that Rule:
+
+Rule 113/1 (Semimutable, MI=3)
+Players May Always Forfeit
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur 
+      it, may be imposed.
+
+It has been argued, although not by Morendil, that his message
+results in his being deregistered on Dec 22 in order to avoid a
+penalty imposed on him by R1451. However, a number of persuasive
+arguments have since been raised against this view.
+
+Firstly there is Morendil's own avowal that, on Dec 22, he did
+*not* judge the penalties imposed by R1451 to be worse than
+deregistration. Rather, Morendil claims that this was a view he
+came to hold later. (See part 2 of the Evidence attached.) Favor has
+persuasively argued that, this being the case, the imposition of the
+penalty does not contravene R113, since it did not constitute the
+imposition of a penalty which, at the time, the Player incurring it
+judged to be worse than deregistration. Since the penalty was imposed
+without contravening R113, there are no grounds for claiming that
+R113 requires Morendil to have been deregistered on Dec 22 in order to
+avoid it.
+
+Secondly, there are a number of very powerful arguments for the
+more general proposition that Rule 113 does not guarantee the right
+to avoid penalties already incurred by deregistering, whether
+retroactively or by some other means. This is also the subject of
+other proceedings, so I shall be brief. Judge Michael, in his
+Judgement of CFJ 763, ruled that the second sentence of R113
+is not independent of the first sentence, but is rather an
+amplification or consequence of it. This focusses our attention
+on the first sentence, where we find that "a Player may always
+deregister from the game rather than continue to play or incur
+a game penalty". Wes has pointed out the choice which this sentence
+implicitly offers to Players, depending on their circumstances:
+one may deregister rather than incur a game penalty, or one may
+deregister rather than continue to play. It is sensible to read the
+second option as being offered in the case that the first option is
+unavailable because the penalty has already been incurred. That is,
+Rule 113 says in effect: if you are about to incur a penalty then you
+may deregister in order to avoid it; if it is too late and the
+penalty has already been incurred, then you may deregister rather
+than continue to play on in an unpalatable game state. However, it
+does not afford you the opportunity to deregister and thereby avoid
+penalties already incurred.
+
+Finally, it is worth examining R1043:
+
+Rule 1043/1 (Mutable, MI=1)
+Deregistration
+
+      A Voter may deregister from Agora by sending a message to the
+      Public Forum announcing eir deregistration. A Voter who
+      deregisters in this fashion ceases to be a Player effective at
+      the time date-stamped on that message, and e may not reregister
+      as a Player until a new Game has begun.
+
+Morendil's message clearly announces his deregistration ("I hereby
+do deregister") conditional upon R1451 being interpreted in a certain
+way. The Statement alleges nothing more than that if the condition
+is fulfilled, then the deregistration does occur, at the time
+date-stamped on the deregistration message. This course of events
+is required by R1043. Morendil has tried to argue that he made his
+deregistration conditional upon his being able to avoid the penalties
+he incurred on Dec 22 by doing so, ie conditional upon R113 being
+interpreted in a certain way. But this is not supported by the text
+of his message. It is clear that Morendil intended to avoid those
+penalties by deregistering ("I hereby do deregister rather than 
+incur [the penalties]") but he did not make his doing so a condition.
+In fact, Morendil's message is explicit that the interpretation of
+R1451 is both the necessary and sufficient condition for his
+deregistration, for he states: "I am carrying out the following
+actions *if and only if* the Transfers mentioned in Rule 1451 are
+Class I Transfers." Hence, if the transfers in R1451 are Class I,
+Morendil is deregistered as of the date of that message. This
+is what the Statement alleges.
+
+======================================================================
+
+Reasoning & Arguments Judge:
+
+In the matter of CFJ 854, I hereby accept appointment as Judge and
+find that the Statement is TRUE.
+
+First of all, the Statement is a conditional, and therefore, should
+the antecedent be false, the statement itself is vacuously true.  So I
+shall proceed under the stipulation that the transfers mandated by
+Rule 1451 are Class I, without regard to whether this is actually the
+case.
+
+Morendil's message of January 21st (Caller's Exhibit 1) contains two
+statements of pertinence to this matter.  First, Morendil disclaims
+the entire message with the claim that the actions described later on
+take place if and only if "the Transfers mentioned in Rule 1451 are
+Class I Transfers".  since this has been stipulated to for the
+purposes of Judging this Statement, this condition is satisifed.
+
+The other statement of relevance is within the ultimate paragraph of
+the message (which is itself a single sentence).  The first conjunct
+of this sentence declares that Morendil believes that some penalty is
+a penalty worse than deregistration; the second declares that Morendil
+is deregistering.  Morendil chooses a semicolon and the coordinating
+phrase "as a consequence" to connect these two conjuncts.  I believe
+Morendil is seeking to establish a causal relation between the two by
+eir choice of words; yet, e states that "I do deregister" instead of
+"I am deregistered", clearly indicating that eir action is of eir own
+volition.  
+
+I therefore find the following facts to exist:  
+  * that Morendil did, upon January 21st, believe that being assessed
+    a 1000 Point penalty for disowning 200 Proposals is, in eir
+    opinion, a penalty worse than deregistration; and
+  * that Morendil did in fact attempt to deregister on January 21st.
+
+I also find that, as a matter of law, that there is no causal
+connection between these two facts.  Morendil's deregistration is not
+caused--as a matter of law--by eir belief.  I have little doubt that
+Morendil chose to deregister as a consequence of eir belief, but the
+decision to deregister remains with Morendil, so any causation that
+may exist is beyond the Rules.  Rule 113 does not _require_ a Player
+to deregister to avoid a penalty worse than deregistration; it merely
+_permits_ a Player to do so.  The deregistration itself must proceed
+under other Rules.  What Rule 113 does is prohibit other Rules from
+prohibiting deregistration; it does not itself provide for the
+deregistration.
+
+Given that Rule 113 does not establish a legal causation between the
+finding of such a belief and the act of deregistration, Morendil's
+attempt to deregister should be interpreted as any other such attempt.
+Rule 1043 clearly specifies that a Player who posts that e is
+deregistering ceases to be a Player "at the time date-stamped on that
+message".  It is my finding of fact that Morendil's message was
+date-stamped "Sun, 21 Jan 1996 17:58:22 +0100", and I have no reason
+to believe that this stamp is substantially in error.
+
+It is therefore my finding that Morendil successfully deregistered as
+a Player at the time mentioned above.  This is precisely the
+consequent of the Statement of this CFJ.  Therefore, the Statement is
+TRUE under the stipulation given above, and vacuously TRUE otherwise.
+
+The matter of Morendil's belief as to the acceptability of the penalty
+on December 22nd, or at any other time, is irrelevant.   
+
+I humbly request that the Rulekeepor insert an informal annotation in
+the Published Ruleset to the effect that "The mere belief that a
+penalty is worse than deregistration is not sufficient to cause
+deregistration."
+
+Respectfully submitted on this 29th day of January, 1996,
+
+Kelly Martin
+Judge
+--
+kelly martin                                 <kelly@poverty.bloomington.in.us>
+
+  When Elvis Presley died in 1977, there were 37 Elvis impersonators in the
+ world.  Today there are 48,000.  If the current trend continues, by the year
+ 2010, one of every three people in the world will be an Elvis impersonator.
+			      -- Michael Legault
+
+
+
+
+
+======================================================================
+Evidence:
+
+1. Morendil's deregistration message
+2. Morendil's claim concerning his judgement about penalties
+3. Rule 113
+4. Rule 1043
+
+
+----- 1. Morendil's deregistration message
+
+>From: "Laurent Bossavit" <morendil@micronet.fr>
+>To: nomic-business@teleport.com
+>Date: Sun, 21 Jan 1996 17:58:22 +0100
+>Subject: BUS: Rule 113 insurance
+>Priority: normal
+>X-mailer: Pegasus Mail for Windows (v2.20)
+>Sender: owner-nomic-business@teleport.com
+>Reply-To: nomic-discussion@teleport.com
+>
+>I am carrying out the following actions if and only if the Transfers 
+>mentioned in Rule 1451 are Class I Transfers.
+>
+>I hereby convert all my Points to Marks.
+>I hereby transfer all other Currencies in my possession to the 
+>Treasury of the Misanthropist's Group.
+>
+>I hereby relinquish the Offices of Banker, Rulekeepor, Ambassador 
+>to Chuck, if e is willing, or failing that, to Swann, if e is willing;
+>or failing that to favor, if e is willing.
+>
+>I hereby voluntarily give up Speakership and Call for Volunteers to 
+>fill the position of Speaker-Elect.
+>
+>I find that the penalty of 1000 Points for disowning my Xmas 
+>Proposals, given that it rests on extremely dubious grounds, is
+>worse than deregistration; as a consequence, I hereby announce
+>that I do deregister rather than incur it.
+>
+>-*-*-*-*-*-
+> Morendil
+>
+
+----- 2. Morendil's claim concerning his judgement about penalties
+
+>From: "Laurent Bossavit" <morendil@micronet.fr>
+>To: nomic-business@teleport.com
+>Date: Wed, 24 Jan 1996 14:18:03 +0100
+>Subject: BUS: My opinion on 1000 Points, then and now
+>Priority: normal
+>X-mailer: Pegasus Mail for Windows (v2.23)
+>Sender: owner-nomic-business@teleport.com
+>Reply-To: nomic-discussion@teleport.com
+>
+>Chuck sez:
+>
+>> My interpretation is that the message of Jan. 21 does not *cause*
+>> his deregistration on Dec. 22; it merely *announces* his deregistration
+>> on Dec. 22.  So it seems I was in error in saying that his
+>> deregistration was retroactive.  After all, presumably he believed,
+>> even on Dec. 22, that losing 1000 points was a penalty worse than
+>> deregistration; he did not mention this at the time, because he
+>> did not believe he would lose 1000 points.
+>
+>If it is any help, I can state without even a hint of uncertainty 
+>that I did not consider, on or about the date of Dec. 22, a penalty 
+>of 1000 Points to be worse than deregistration. In fact, at that date 
+>I considered deregistration to be worse than any penalty that could 
+>possibly be enforced under the Ruleset of that time, since I was 
+>enjoying the game very much, thank you, and had no intention to 
+>deregister, even for tactical reasons.
+>
+>Of course, Rule 113 gives me a final say in whether I did or not 
+>judge that penalty to be worse than deregistration at the time, or 
+>at this time, since it very explicitly says "no penalty worse than 
+>deregistration, *in the judgement of the Player to incur it*, may be 
+>imposed". (My emphasis).
+>
+>I will accept no other Player's determination of what I judged, or 
+>judge, to be a fate worse than death - excuse me, a penalty worse 
+>than deregistration.
+>
+>- ---*-*-*---
+> Morendil
+
+----- 3. Rule 113
+
+Rule 113/1 (Semimutable, MI=3)
+Players May Always Forfeit
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur 
+      it, may be imposed.
+
+CFJ 826, Nov. 15 1995: Rule 113 should be interpreted such that, even
+if a Player considers a penalty to be worse than deregistration, e is
+still subject to it unless e actually deregisters or is deregistered.
+Relevant Rules: 113
+
+History:
+Initial Immutable Rule 113, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1290, Oct. 27 1994
+Amended(1) by Proposal 1304, Nov. 4 1994
+
+----- 4. Rule 1043
+
+Rule 1043/1 (Mutable, MI=1)
+Deregistration
+
+      A Voter may deregister from Agora by sending a message to the
+      Public Forum announcing eir deregistration. A Voter who
+      deregisters in this fashion ceases to be a Player effective at
+      the time date-stamped on that message, and e may not reregister
+      as a Player until a new Game has begun.
+
+      Other Rules may define other conditions under which Voters may
+      be deregistered.
+
+History:
+...
+Amended(1) by Proposal 1305, Nov. 4 1994
+
+
+Steve Gardner                     |  "Justice? You get justice in the next
+Dept. of Philosophy, Monash Uni.  |   world, in this world you get the law."
+gardner@aurora.cc.monash.edu.au   |          --  William Gaddis --

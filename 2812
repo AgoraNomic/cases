@@ -1,0 +1,51 @@
+==============================  CFJ 2812  ==============================
+
+    In Proposal 6740, "Award a win to player..." should be interpreted
+    as "Award a win to each player..."
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       14 Jul 2010 22:05:40 GMT
+Assigned to G.:                         14 Jul 2010 22:21:00 GMT
+Judged TRUE by G.:                      15 Jul 2010 18:27:43 GMT
+
+========================================================================
+
+Judge G.'s Arguments:
+
+CFJ 2808 found that the adoption a proposal with this text:
+> Award a win to player who did not acknowledge the existence of this
+> proposal in a public or discussion forum after the time it was
+> submitted and before the time it was adopted.
+awarded a win to one or more players, and so was not wholly ambiguous.
+
+However, one can insert many words between "to" and "player".  "To a
+player" or "To the player" or "to each player" or "to all player[s]".
+It would be arbitrary judicial activism, however, to insert further
+procedures for choosing a subset from the set of possible winners (e.g.
+for a judge to insert "to the first player", "to a random player", or
+even "to an UNDETERMINED player").
+
+The key, in particular, to rejecting "an UNDETERMINED player" is that
+the actual win condition (R2188) is pluralized:
+       Upon a win announcement that a proposal awarding a win to one or
+       more persons has been adopted, all those persons satisfy the
+       Winning Condition of Legislation.
+
+so unless there is explicit strong uniqueness or further choice
+procedures specified in the proposal, the assumption should be that a
+proposal whose text purports to award a win to "a person who satisfies
+X" or even "the person who satisfies X" awards a win to all those
+persons who satisfy X [or, by the CFJ statement, to "each" person who
+satisfies X].  TRUE.
+
+========================================================================

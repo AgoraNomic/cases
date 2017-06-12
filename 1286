@@ -1,0 +1,127 @@
+==============================  CFJ 1286  ==============================
+
+    The Herald is required to bill Syllepsis the Zombie Transfer Tax of
+    0.1 Indulgences for transfering 1 Zombie to the Bank
+
+========================================================================
+
+Caller:                                 Syllepsis
+
+Judge:                                  Elysion
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Syllepsis:                    27 Mar 2001 12:35:30 GMT
+Assigned to Elysion:                    30 Mar 2001 02:06:19 GMT
+Judged FALSE by Elysion:                03 Apr 2001 15:16:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1948 States:
+
+Rule 1948/2 (Power=1)
+Zombie Transfer Tax
+
+      As soon as possible after a Zombie is transferred from a Player
+      to another entity, the Herald shall bill that Zombie's former
+      Master prorated Maintenance on that Zombie.
+
+      The amount of pror-ated Maintenance on a Zombie shall be equal
+      to 0.1 Indulgence for each nine days (or part thereof) elapsed
+      between the time that Player most recently took possession
+      of that Zombie, and the time that the transfer occurred, with a
+      maximum of 1 Indulgence.
+
+Rule 1948 does not make reference to a Zombie as strictly a type of
+player, and so it is sensible that it may also refer to the Currency
+Zombies to which Syllepsis is Mintor and Recordkeepor.
+
+However, it does mention the Zombie's Master, which casts some doubt. Rule
+1884 (Zombie Masters) States:
+
+
+      Zombies are Property. The owner of a Zombie is called eir
+      Master. When a Player first becomes a Zombie, eir Master is the
+      Bank.
+
+      If the Master of a Zombie is a Player, then that Player has
+      Power of Attorney for the Zombie, unless the Rules withdraw it
+      from em.  A Non-Player Zombie Master is never granted Power of
+      Attorney for eir Zombie.
+
+      The Registrar is the Recordkeepor of each Zombie. The Registrar
+      must include in eir Report a schedule of all Zombies and their
+      Masters.
+
+The Zombie Master is just an entity having a Zombie (piece of property) in
+eir possesion. This is compatible with the Currency of Zombies. Since some
+Zombies are just Currency and cannot perform actions, the Power of
+Attorney clause is trivial.
+
+The last paragraph casts some doubt as to what is meant by "Recordkeepor
+of each Zombie" and it must be determined if this just means that the
+Registrar has the duty of keeping track of Zombies, or if the Registrar is
+Recordkeepor of Zombies as a currency, to determine if I am actually the
+Recordkeepor, or just the Mintor.
+
+I may also state that I was unable to find any definition of a Zombie in
+the rules, but simply that a Player becomes a Zombie under certain
+conditions.
+
+The questions to be asked are: Does a rule apply to everything bearing the
+name which it references, or simply to the type of entity it was
+origionally intended to reference? Can a player become a unit of
+Currency? Do the Rules now state that a player becomes a unit of
+Currency? Am I actually the Recordkeepor of Zombies?
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+Rule 1042/12 (Zombification Due to Silence) states in part, "Any Player can
+cause a Silent Player to become a Zombie..." Suppose this definition
+referred to the Currency created by Syllepsis. This would imply that Players
+can become units of Currency and possibly imply that Syllepsis can mint more
+Players (depending on how the subset Players relates to the set Zombies).
+Considering that this result seems ridiculous, and that there is strong game
+custom that the Zombies created by rule 1042 are of the "normal" type
+(hereafter referred to as a Zombie-Player, as opposed to a Zombie-Currency),
+I conclude that in at least one rule (1042) the word "Zombie" means
+Zombie-Player and not Zombie-Currency.
+
+Unfortunately, the rule in question is rule 1948/2 (Zombie Transfer Tax).
+What can we conclude about the meaning of "Zombie" in that rule?
+
+Suppose I am reading a text about Group Theory and I read that Abelian
+groups are commutative. I construct a noncommutative group and I name it
+"Abelian group". The fact that I gave it that name does not magically cause
+it to become commutative, nor does it cause the text to become incorrect.
+The text clearly was not referring to the group I created.
+
+I believe that the situation in the rules is similar. The rules use "Zombie"
+to at least mean Zombie-Player. Syllepsis has created an entity separate
+from the Zombies referred to in the rules and has given it the name
+"Zombie". This does not cause the meaning of the rule to change.
+
+I also believe this ruling is in the best interests of the game. For
+example, consider the term "Player". A non-Agoran who is playing Monopoly is
+a "Player" in another sense of the word; I would not consider it desirable
+at all to start interpreting "Player" in the rules to refer to the Monopoly
+players.
+
+If the rules did not give any implicit definition of "Zombie" (for example,
+rule 1948 was the only rule referring to Zombies), then the situation would
+be different. In such a case, we could not conclude which particular class
+of entities with the name of "Zombie" the rules were referring to. However,
+because the rules _do_ implicitly define "Zombie" and use it in the sense of
+Zombie-Player, in the context of the ruleset I find it reasonable that
+"Zombie" means Zombie-Player.
+
+I therefore judge the statement to be FALSE.
+
+========================================================================

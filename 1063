@@ -1,0 +1,71 @@
+======================================================================
+                               CFJ 1063
+
+"There exists at least one VT that possesses at least 1 VT." 
+
+======================================================================
+
+Judge:       Michael
+
+Judgement:   FALSE 
+
+Eligible:    Andre, Calabresi, ChrisM, Chuck, Crito, elJefe, 
+	     General Chaos, Harlequin, Kolja A., Michael, Murphy, 
+	     Oerjan, Steve, Vir, Vlad
+
+Not eligible: 
+Caller:
+Barred:
+On request:  Vanyel
+On hold:     
+
+====================================================================== 
+
+History:
+  Called by Zefram, 29 Oct 1997 17:16:03 +0000 (GMT)
+  Assigned to Michael, 30 Oct 1997 16:35:44 +0100 (MET)
+  Judged FALSE by Michael, 3 Nov 1997 11:10:32 +0000
+  Appealed by Swann, 3 Nov 1997 13:32:16 -0500 (EST)
+  Appealed by Crito, 04 Nov 1997 09:30:24 -0500
+
+====================================================================== 
+
+Decision & Reasoning Judge:
+
+Judgement: FALSE 
+
+Reasons and arguments: 
+
+The rules do not mandate what it is for entities to own or possess Currencies.
+Yet it is precisely this ability which is presupposed in the rules and practice
+involved with Transfer Orders.  Therefore, we use common sense in order to
+resolve this question, and conclude that VTs can not possess VTs.
+
+To reiterate: it is patently not common-sensical to allow units of currency to
+own other units of currency.  Given the absence of legislation specifying that
+this should be possible, there seems little reason to suppose that it should be
+possible.
+
+Of course, the initial language of the relevant rule about Transfer Orders
+(R1598 "Transfer Orders") does suggest that a Transfer Order can specify any
+entities as source and destination for the currencies transferred.  However,
+subsequent language makes it clear that TOs may only originate from entities
+that possess currencies.  Similarly, the destination entity must support the
+notion of being "added to" (an unfortunate phrasing, but one present in the
+rule: "When a Transfer Order is executed, ... the number of units of that
+specified Currency shall be removed from the source entity and added to the
+destination entity."
+
+Thankfully game custom makes a strong case for interpreting "added to" as
+meaning "passes into the ownership of".  
+
+A more literal interpretation of this phrase would allow the above judgement to
+stand, but would probably invalidate all current economic activity.  In this
+alternative conception, transferring 1 VT to another VT would cause the 1 VT
+transferred to the destination 1VT to be added to it, presumably resulting in 2
+VTs.  Of course, one could also create an arbitrary amount of VTs by
+transferring them to themselves.  This interpretation is clearly ridiculous so I
+feel that justice is being upheld in appealing to common sense and game custom
+to override the peculiar wording of R1598.
+
+======================================================================

@@ -1,0 +1,166 @@
+>From nomic-official-owner@teleport.com  Thu Nov 16 10:03:00 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id KAA29676 for <blahedo@quincy.edu>; Thu, 16 Nov 1995 10:02:58 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id HAA23354 for nomic-official-outgoing; Thu, 16 Nov 1995 07:55:01 -0800
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id HAA23316 for <nomic-official@teleport.com>; Thu, 16 Nov 1995 07:54:55 -0800
+Message-Id: <199511161554.HAA23316@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA02375; Thu, 16 Nov 1995 16:53:50 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 834 Judgement: FALSE
+To: nomic-official@teleport.com
+Date: Thu, 16 Nov 95 16:53:50 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+			JUDGEMENT CFJ 834
+
+	Rule 494 shall be interpreted such that if any Move refers to 
+	a random choice, the Speaker thall make that random choice. 
+
+======================================================================
+
+Judge:		elJefe
+Judgement:	FALSE
+
+Eligible:	Andre, Chuck, Coco, Dave Bowen, elJefe, favor, KoJen, 
+		Morendil, Oerjan, Saltwater, Steve, Vanyel, Zefram
+
+Not Eligible:	
+Caller:		Wes
+Barred:		Michael
+On Hold:	
+1005:		
+
+Effects:	elJefe gains 5 Points for speedy Judgement
+
+======================================================================
+
+History:
+  Called by Wes, 15 November 1995, timestamp lost
+  Assigned to elJefe, 15 November 1995, 15:37 MET
+  Judged FALSE by elJefe, 16 November 1995, 09:52 -0500
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+Judgement:  FALSE
+
+The Statement is about Moves which refer to a random choice, presumably
+like the move Wes attempted in transferring a Kudo to a random player.
+However, in referring to "any" move the statement requires me to consider
+all types of moves that might refer to a random choice, and the statement
+is FALSE if it is false for any particular move.
+
+One such type of move is an Officer's act of reporting a random choice made 
+under the Rules.  For example, the Rulekeepor's selection of the Virus Number 
+(Rule 1454).  Other examples might be the Assessor's selection of a new owner 
+for the Potato (Rule 1488), the CotC's selection of a Judge or Justice (Rules 
+408, 698, 911, 951, and 1448), and the Registrar's selection of a new Officer 
+(Rule 790).
+
+Such a report is a Move, and certainly "refers" to the random choice that 
+has been made, and in each case the choice is made by someone other than 
+the Speaker.  Rule 494 explicitly excepts itself from influencing these 
+situations.  Thus for this class of moves the statement is FALSE.
+
+In general, other types of Moves may or may not require the Speaker to
+get involved.  It depends entirely on the language of the Rule which
+defines the Move, i.e. whether it requires a random choice to be made 
+as an option of the Move, and whether it requires another party to make it.
+
+Considering the Move that may have inspired this CFJ, it seems to me that
+the Kudo rule (Rule 1378) refers to a Kudo transfer being made "to Player 
+of eir choice."  The Rules seem to require the choice (or "determination") 
+to be made not by the Speaker, but by the Player making the transfer.
+
+
+==========================================================================
+Additional Evidence:
+
+Rule 494/0 (Mutable, MI=1)
+Speaker Makes Random Determinations
+
+      The Speaker shall make all random determinations required by the
+      Rules except when the Rules specify another party to make the
+      determination.
+
+----------------------------------------
+
+Rule 1378/2 (Mutable, MI=1)
+Kudo Transfers
+
+      In each Nomic Week, each Player not On Hold (the Transferring
+      Player) is permitted to transfer a maximum of two Kudos from
+      Players of eir choice to other Players of eir choice, subject to
+      these restrictions: 1) The Transferring Player is not permitted
+      to transfer more than one Kudo from any Player, and is not
+      permitted to transfer more than one Kudo to any Player, within
+      the Week. 2) The Transferring Player is not permitted to
+      transfer Kudos to emself. A Kudo transfer occurs when a Player
+      sends to the Herald a legitimate Kudo transfer request,
+      including a reason for the transfer.
+
+      Other Rules are permitted to provide for other types of Kudo
+      changes.
+
+----------------------------------------
+
+Rule 1454/1 (Mutable, MI=1)
+The Virus
+
+      There is a Nomic Entity called the Virus which has the effect
+      of altering the texts of Rules, in the manner and under the
+      conditions set out below. This process is known as "infection".
+      The effect of the Virus on a Rule, when it has an effect, is
+      that of a non-Proposed Amendment to that Rule. Thus, the Virus
+      can only be effective inasmuch as it satisfies the Rules for
+      the effectiveness of non-Proposed Rule Changes.
+
+      The selection of the Rule to be infected by the Virus occurs as
+      follows: as soon as possible after the beginning of each Nomic
+      Week, the Rulekeepor shall select a random integer in the range
+      [M,N], where M and N are, respectively, the numbers of the
+      lowest and highest numbered Rules at the beginning of that
+      week. Call a number selected in this way a Virus Number.  If
+      the Virus Number selected is the number of a Rule, then that
+      Rule is infected as described below, and no further Virus
+      Numbers are selected in that week. If the Virus Number is not
+      the number of a Rule, then a new Virus Number is selected as
+      above, unless five such Virus Numbers (which are not the
+      numbers of a Rule) have already been selected in that week. In
+      that case, the Virus is ineffective and no Rule is infected in
+      that week. 
+
+      The Rulekeepor shall publish the results of the selection
+      process in the Public Forum within 24 hours of the completion
+      of that process. If a Rule has been infected, e shall announce
+      the number of that Rule. If no Rule has been infected, then e
+      shall announce that no Rule has been infected.
+
+      An infected Rule is amended in the following way, given that
+      other Rules permit it: if the Rule does not already contain the
+      sentence "This Rule defers to all other Rules which do not
+      contain this sentence.", then that sentence is appended to the
+      Rule. If the Rule already contains the sentence, then the
+      sentence is deleted from the Rule.
+
+      There is one exception to the above: if this Rule is the
+      infected Rule, then this Rule automatically Repeals itself.
+
+Regards,
+- elJefe, Judge
+
+******************************************************************
+  Dr. Jeffrey L. Caruso <jlc@triple-i.com>
+  Information International
+
+
+
+======================================================================
+
+Relevant Rules: 494

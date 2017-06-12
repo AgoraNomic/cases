@@ -1,0 +1,121 @@
+======================================================================
+                              CFJ 1142
+
+    A Payment Order may be satisfied by a Transfer Order issued by
+    an Entity other than the Payor named in the Payment Order.
+
+======================================================================
+
+Called by:           Wes
+
+Judge:               Blob
+Judgement:           TRUE
+
+Judge selection:
+
+Eligible:            Beefurabi, Blob, Chuck, Crito, elJefe, Elysion,
+                     harvel, Kolja, Lee, Morendil, Murphy, Peekee,
+                     Steve, Vlad
+
+Not eligible:
+Caller:              Wes
+Barred:              -
+Had their turn:      -
+Already served:      -
+Defaulted:           -
+By request:          -
+On Hold:             Michael, Oerjan
+
+======================================================================
+
+History:
+
+Called by Wes:                     21 Jun 1999 14:29:17 -0700
+Assigned to Blob:                  21 Jun 1999 14:40:15 -0700
+Judged TRUE by Blob:               As of this message
+
+=====================================================================
+
+Caller's Arguments:
+
+<none>
+
+======================================================================
+
+Evidence attached by the Caller:
+
+<none>
+
+======================================================================
+
+Judge's Arguments:
+
+Making this judgement seems to require coming to terms with the apparent
+separation in meaning between "satisfying an Order" and fulfilling its
+requirements.
+
+Rule 1810 defines satisfaction of Orders, in general, as:
+
+      An Order is satisfied when the action which it requires to be
+      performed is performed by the entity it requires to perform it.
+
+Since a Payment Order is defined in Rule 1596 as:
+
+      ... an Order requiring an entity (the payor) to
+      submit a Transfer Order transferring units of a Currency from
+      itself to some other entity (the payee).
+
+it would seem that this transfer (from the payor to the payee) is necessary
+to satisfy a Payment Order.
+
+But Rule 1732, which has precedence, offers an alternative means of
+satisfaction in the particular case of Payment Orders:
+
+      A Payment Order is satisfied when a Transfer Order to the payee
+      of that Payment Order for the currency and amount named in that
+      Payment Order is successfully executed ...
+
+Now this is only a new development. R1732 was originally phrased such
+the Transfer Order had to come from the payor, but Proposal 3745
+(authored by yours truly) removed that part of the condition (with
+the deliberate intent to allow satisfaction by other players, insofar
+as intent is relevant).
+
+It is the opinion of this Judge, that this amendment altered the legal
+definition of "satisfying an Order" from the commonsense "fulfilling
+its requirements" to a special legal meaning, which includes, but is not
+limited to "fulfilling its requirements". In particular, Payment Orders
+can be "satisfied" by transfers from players other than the payor.
+
+In addition to this argument, there stands a game custom of accepting
+such transfers as satisfying Payment Orders. This Judge is aware of at
+least one occasion when this has been done, although e cannot point to
+records thereof.
+
+The statement of this CFJ can be therefore be judged TRUE.
+
+Appendix:
+---------
+
+Some further discussion, slightly beyond the scope of this judgement,
+seems warranted at this stage. It is noted that while a Payment Order
+can be satisfied by a transfer from a player other than the Payor, it
+still does not mean that the requirement of the Order is fulfilled.
+This is an important distinction, because Rule 1801 states:
+
+             ... Any entity who is required by an Order to perform
+      an act who fails to perform the required action prior to the
+      time specified in the Order commits the Crime of Contempt by
+      Inaction, a Class C Crime.
+
+So even though the Payment Order is satified, the payor may still be
+guilt of Contempt by Inaction. Rule 1795 specifies the timing requirements
+for this Crime:
+
+      An Order which commands the performance of an action may specify
+      when that action is to be performed; if no specification is
+      given, ... then the Order shall be taken to require the
+      performance of the action as soon as possible after the Order
+      takes effect.
+
+======================================================================

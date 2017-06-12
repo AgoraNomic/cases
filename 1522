@@ -1,0 +1,49 @@
+==============================  CFJ 1522  ==============================
+
+    A Player may NOT draw two cards without fee by playing It's A
+    Surprise, if eir hand size is above the maximum.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Kolja
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           26 Oct 2004 16:34:38 GMT
+Assigned to root:                       06 Nov 2004 18:49:09 GMT
+Judged TRUE by root:                    10 Nov 2004 02:30:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2069 reads in part:
+       A Gambler may Draw from The Deck for a Fee equal to the
+       number of times that Gambler has previously Drawn from the
+       Deck during the current month so long as the Gambler's Hand
+       Size is smaller than the Maximum Hand Size.
+
+Rule 2071 reads in part (for the It's a Surprise Exploit):
+       Exploit: You may Draw two Cards without paying a Fee.
+
+This specifically waives the fee for drawing, but does *not* seem
+to waive the requirement of hand size being below the maximum.
+
+========================================================================
+
+Judge root's Arguments:
+
+I find the Caller's Arguments to be correct, and I find no evidence
+supporting the alternate interpretation.  In particular, I find that the
+Exploit of the It's a Surprise card is worded so as to modify the Card
+Drawing license granted by R2069 rather than to grant an additional Card
+Drawing license.  Since the Exploit does not modify the Maximum Hand Size
+requirement, it will still apply.  Thus I find CFJ 1522 to be TRUE.
+
+========================================================================

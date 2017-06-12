@@ -1,0 +1,67 @@
+==============================  CFJ 1444  ==============================
+
+    A player cannot perform an action with 0 support.
+
+========================================================================
+
+Caller:                                 Maud
+Barred:                                 Cecilius
+
+Judge:                                  Peekee
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Maud:                         02 Mar 2003 04:26:27 GMT
+Assigned to Peekee:                     10 Mar 2003 06:41:56 GMT
+Judged FALSE by Peekee:                 10 Mar 2003 08:20:58 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Linked to CFJ 1442
+
+The phrase "performing an action with N support" has no natural
+meaning, but the rules give a meaning to "performing an action with N
+support, where N is a positive integer".  Hence performing an action
+with N support is regulated.  The only method provided to perform an
+action with N support requires that a player be authorised to perform
+an action dependently; therefore, this method may not be used to
+perform an action with 0 support.  Hence there is no method to perform
+an action with 0 support, and so such actions may not be performed.
+
+========================================================================
+
+Judge Peekee's Arguments:
+
+I reject this argument. Although I find that the rules do regulate actions
+with N supporters, this is entirely dependant on given values of N. (see
+Clarification A)  Thus, if N is not a positive integer then an action with N
+support is not a dependant action due to the if and only if definition in
+Rule 1728 "Dependent Actions".
+
+I find that an action with 0 support is not regulated, and may be performed
+if the requirement of 0 support is met. What does "with 0 support" mean? The
+main reference here is game custom. It would appear that the commonly
+assumed meaning is "with 0 support" is similar to a dependant action but
+requires no support in the sense that it may be performed without the need
+for any players to publicly post their support. I find that it is possible
+to meet this requirement, and so a player can perform and action an action
+with 0 support. As such, I find the statement FALSE.
+
+Clarification A: For instance an action with SPOON supporters is not
+regulated. I read the phrase in Rule 1728 as ,
+"(An action is dependent, or may be performed dependently), if and only if
+(it is an Action Without N Objections or an Action With N Supporters, where
+N is a positive integer.)"
+
+and not,
+
+"[(An action is dependent, or may be performed dependently),  if and only if
+(it is an Action Without N Objections or an Action With N Supporters)],
+where N is a positive integer.
+
+========================================================================

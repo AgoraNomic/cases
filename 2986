@@ -1,0 +1,40 @@
+==============================  CFJ 2986  ==============================
+
+    There is at least one rule with ID number 1.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Machiavelli
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       05 Apr 2011 23:58:10 GMT
+Assigned to Wooble:                     06 Apr 2011 00:11:50 GMT
+Judged FALSE by Wooble:                 06 Apr 2011 18:44:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2125 (c) is triggered by Rule 2141.  (The condition of
+the Rulekeepor having Power >= 3 could be fulfilled, e.g. by adopting a
+proposal that granted it.)  FALSE.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE. I don't believe TLS even intended for eir purported
+action to work; I certainly can't find anything in the rules that
+would authorize a non-Rulekeepor to assign rule IDs even if it weren't
+blocked altogether by the last paragraph of R105. (Not to mention that
+just about every message e sends ends with a tidbit that would be
+ILLEGAL if we hadn't repealed truthiness.)
+
+========================================================================

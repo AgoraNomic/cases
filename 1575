@@ -1,0 +1,145 @@
+==============================  CFJ 1575  ==============================
+
+    root is required to deliver a legal judgement for CFJ 1278.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 root
+Barred:                                 Murphy
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           26 Aug 2005 19:43:29 GMT
+Assigned to Taral:                      18 Sep 2005 17:49:33 GMT
+Judged TRUE by Taral:                   26 Sep 2005 05:35:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+CFJ 1278, once closed, is now open, due to the existence of an
+outstanding judicial motion [R1868p1].  R1827(last paragraph) reads:
+      If a Motion is made after a case is closed, and the original
+      Judge of that case is not active or is not a player, then a new
+      Judge shall be assigned to the case as usual.
+
+Judge root was so assigned, but what are root's responsibilities?
+One possibility is that root is merely required to grant or deny
+the outstanding motion, which would lead to there being no outstanding
+motion, and an existing judgement (Syllepsis's judgement) and therefore
+the case being closed again [R1868p1].
+
+HOWEVER, by Rule 408, EACH judge assigned to a CFJ is required to
+judge within a certain time limit, and by Rule 591, this must be a legal
+judgement.  Both R408 and R591 have higher precedence than R1868.
+Furthermore, R1827 states that root's assignment should be treated
+"as usual" and therefore there is no reason to believe that the requirement to
+judge is waived.  Therefore, by R408 and R591, judge root is required to
+return a valid judgement for CFJ 1278.
+
+The question of whether Judge Syllepsis' or Judge root's judgement
+would have precedence is left until an actual judgement has been delivered by
+root.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1868/3 (Power=1)
+Selecting a Judge
+
+      A CFJ is open if it has not been Judged, or if an outstanding
+      judicial motion pertaining to it has been neither granted nor
+      denied.  A CFJ is closed if it is not open.
+
+      As soon as possible after becoming aware that an open CFJ has no
+      Judge assigned to it, the Clerk of the Courts shall choose a
+      Player eligible to Judge it, and announce them as its Trial
+      Judge.  That Player remains the Trial Judge of that CFJ until e
+      is recused from it or becomes ineligible to Judge it.
+
+Rule 1827/5 (Power=1)
+Granting or Denying Motions
+
+      A Judge must either grant or deny each Motion forwarded to em by
+      the Clerk of the Courts, within five days of when the Motion was
+      received by the Judge.  E may, but need not, state the reasons
+      for eir grant or denial.  A Judge grants or denies a Motion by
+      sending eir determination on that Motion to the Clerk of the
+      Courts, along with any reasons e chooses to provide.
+
+      The effect of granting a Motion depends on the nature of the
+      Motion granted, but generally amounts to requiring the Judge to
+      perform as requested by the Motion.
+
+      Upon receipt of a Judge's determination on a Motion, the Clerk
+      shall note the determination made and the reasons, if any, on
+      the record of the CFJ, and shall notify the Player who made the
+      Motion of that determination.
+
+      If a Judge fails to Grant or Deny a Motion within five days of
+      when it was forwarded to em by the Clerk of the Courts, e
+      commits the Class 0.5 Infraction of Slow Motion, which may be
+      reported by the Clerk of the Courts. If this occurs, the Clerk
+      of the Courts shall Recuse the Judge and assign a new one as
+      usual.
+
+      If a Motion is made after a case is closed, and the original
+      Judge of that case is not active or is not a player, then a new
+      Judge shall be assigned to the case as usual.
+
+Rule 408/17 (Power=1)
+Late Judgement
+
+      For each Judge assigned to a CFJ, eir Deliberation Period begins
+      when the Clerk of the Courts announces eir assignment, and lasts
+      seven days; eir Overtime Period begins when eir Deliberation
+      Period ends, and lasts seven days.
+
+      A Judge who Judges a CFJ during eir Overtime Period commits the
+      Class 0.5 Infraction of Judging a Bit Late, to be reported by
+      the Clerk of the Courts.
+
+      During a Judge's Overtime Period, if e has not yet Judged the
+      CFJ, then the Clerk of the Courts may recuse em by announcement.
+
+      Upon the end of a Judge's Overtime Period, if e has not yet
+      Judged the CFJ, then the Clerk of the Courts shall recuse em by
+      announcement as soon as possible.
+
+      A Judge recused according to this Rule commits the Infraction of
+      Failure to Judge; the Class of this Infraction is Class 3 for an
+      unlinked CFJ, or for a single incident of Linked CFJs, Class 2
+      plus the number of Linked CFJs.  This Infraction is to be
+      reported by the Clerk of the Courts. The recused Judge becomes
+      ineligible to Judge any CFJ for one month, or until e publicly
+      requests to become eligible again, whichever is sooner.
+
+Rule 591/18 (Power=1)
+Legal Judgements
+
+      The Judge of a CFJ Judges it by submitting eir Judgement to the
+      Clerk of the Courts.  "Decision", "Finding", and "Response" are
+      unambiguous synonyms for "Judgement".
+
+      For a Trial Judge, a Judgement is exactly one of the following:
+      TRUE, FALSE, or DISMISSED.
+
+      As soon as possible after receiving a Judgement, the Clerk of
+      the Courts shall publish it, along with any arguments, evidence,
+      or other material included with the Judgement.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Looks broken to me, but broken it is. The caller's argument is sound
+and I find no fault in it. I enter a judgement of TRUE.
+
+========================================================================

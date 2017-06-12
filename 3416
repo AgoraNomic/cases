@@ -1,0 +1,143 @@
+==============================  CFJ 3416  ==============================
+
+    omd's recent Apology has a signature, and thus did not violate rule
+    2428.
+
+========================================================================
+
+Caller:     ais523
+
+========================================================================
+
+Called by ais523:                                   17 Jun 2014 17:32:02
+Assigned to Tiger:                                  30 Jun 2014 13:16:16
+Judged TRUE by Tiger:                               04 Jul 2014 02:06:21
+
+========================================================================
+
+<1403040719.3426.4.camel@tundra>
+Exhibit by ais523:
+
+I didn't notice any signature when reading the message,
+because the last paragraph looks pretty much entirely like the entire
+rest of the message, and has no signature separator. It was only
+discussing the message on IRC that omd pointed out the standard
+signature-y acronym bit at the end of the message.
+
+========================================================================
+
+<CAOXVoMd8GJ-s3ZsKP+LJFrq2oGHp=NDJ0ncF+a3_fJwSNpNRWw@mail.gmail.com>
+Exhibit by Tiger:
+
+THE RULE IN QUESTION
+Rule 2428/0 (Power=1)
+Mandatory Identification
+      When publishing a message to the fora, the author must
+      explicitly sign eir name at the end of the message.
+      Failure of a person to sign eir name on eir published messages
+      in an explicit manner is the Class-2 crime of Incognito.
+JUDGE'S ARGUMENTS
+To me, this quickly became a matter of definitions. The rule requires
+the accused to sign eir name in an explicit manner. The accused has
+previously claimed (or so I interpret em) that any three-word
+appellation with initials OMD qualifies as eir name. See the following
+exchange:
+On 7 June 2014 07:17, omd <c.ome.xk@gmail.com> signed eir message thus:
+> - offense most dire
+On 7 June 2014 10:50, Henri Bouchard <henrib736@gmail.com> wrote:
+> CoE: Your name is omd.
+On 7 June 2014 19:59, omd <c.ome.xk@gmail.com> wrote:
+> Denied.  No entity, including Agora, has formally blessed omd as my
+> name.  The government of the United States has so blessed Nicholas,
+> but Agoran tradition does not delegate the definition of "name" to
+> governments.  In lieu of that, I believe my appellations should
+> adequately identify me as a player.
+>
+> - obviously mentally disturbed
+So who is right? On the one hand, consider the word "explicit". I had
+always thought it to mean only the opposite of "implicit", i.e.
+"written out (as opposed to being hinted at or inferring)". Looking it
+up, however, in Webster's Revised Unabridged Dictionary, gave:
+"Not implied merely, or conveyed by implication; distinctly stated;
+plain in language; open to the understanding; clear; not obscure or
+ambiguous; express; unequivocal; as, an explicit declaration."
+(Wiktionary agreed.)
+So, the fact that the caller was confused is an argument against the
+signature being explicit, since it was arguably "obscure or ambiguous"
+- it could indeed have been the final sentence of the accused's
+"apology".
+On the other hand, we have the word "name", used in Rule 2428 but, in
+the context of naming players, nowhere else in the ruleset. The only
+other situation where the issue of player identification is brought up
+is in Rule 2139, which requires the Registrar to report, among other
+things:
+"A list of all players, including information sufficient to identify
+and contact each player."
+Obviously, if it is clear-cut what a player's name is, that name
+should be possible to identify em. However, the opposite is not true:
+there might be situations where sufficient information to identify
+(and contact) a player is available, but no "name" in the everyday
+sense.
+Digging into this, I looked up "name" as well. Again to my surprise, I
+found support for the accused's position regarding the CoE about
+"offense most dire":
+"2. A descriptive or qualifying appellation given to a person or
+thing, on account of a character or acts."
+A "name", according to this, need not be the classical notion of a
+static, specific, designated word or phrase.
+If "offense most dire" and "OBJURGATE MY DADDOCK" are seen as this
+type of name, then the fact that they are written out in full, at the
+end of the message, makes them explicit. If one instead held that they
+only serve as signatures by referencing or containing the "true name",
+omd, then they could well be considered implicit or confusing.
+To settle this, I interpret the silence on the issue of player names
+on the part of the rest of the ruleset in favour of the more liberal
+approach. Furthermore, consider the fact that Agora has at different
+points had rules regarding what is and is not a nickname, regulating
+how to change them etc., but that it no longer does. To me, that hints
+at an intent to deregulate names, to be more liberal. And I believe
+that before the time of personal records, bureaucracy and databases,
+the practice of inventing and using names and appellations was much
+richer than it is today. Having relaxed the rules so that the word
+"name" is our only anchor, I see no reason not to tap into that
+tradition, for fun and variety.
+JUDGMENT:
+I judge CFJ 3416 to be TRUE.
+
+========================================================================
+
+<CAOXVoMcObX2kTHKM_NCxwswTUJjR3-w57aEgvuz1NkeUN1bfuw@mail.gmail.com>
+Exhibit by Tiger:
+
+In closing, I want to state for the record how my reasoning on this
+case interacts with CFJs 3421 and 3422, ("omd is known as [signature
+with initials OMD that e did/did not write]"). The arguments for those
+cases mentioned the notion of a signature pattern being used instead
+of a name. My reasoning here only allows that a series of titles, each
+being a new way of naming the same entity, count as being explicit
+signatures of names. In particular, I definitely hold that G. signing
+eir message "-operationally muddled disputant" does not qualify as a
+valid signature for em.
+To further elaborate on the difference between a valid naming scheme
+and an invalid pattern (seeing as one could interpret the
+pattern-theory presented in those arguments as drawing the conclusion
+that any pattern can serve as a name), consider the following
+hypothetical cases.
+A player registered, before the enactment of Rule 2428, giving the
+name "Knight of Some Number". Following omd's and Roujo's example, e
+starts writing "Knight of 1", "Knight of 2", "Knight of 3", "Knight of
+5" and so on up the Fibonacci numbers until e grows tired of it. This,
+in my opinion, would be valid.
+A player registered, before the enactment of Rule 2428, giving the
+name "Fibonacci". Following omd's and Roujo's example, e starts
+writing "1", "1", "2", "3", "5" and so on up the Fibonacci numbers
+until e grows tired of it. This, in my opinion, would be invalid.
+The pattern which is the "name" in the second case is a well-known
+pattern. However, each signature can not be said to be a "name" for
+the player, even in the loose sense that "OBJURGATE MY DADDOCK" is a
+name for (and not an obfuscated way of actually writing) omd.
+Obviously, this is only my two cents. I think they're pretty nice as
+cents go, but in the metaphor where opinions are cents, everyone's are
+worth exactly the same amount.
+
+========================================================================

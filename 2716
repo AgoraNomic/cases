@@ -1,0 +1,63 @@
+==============================  CFJ 2716  ==============================
+
+    "Break the Presto Picking Loop" is Distributable.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Walker
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       07 Oct 2009 17:11:17 GMT
+Assigned to Walker:                     14 Oct 2009 22:42:05 GMT
+Judged TRUE by Walker:                  15 Oct 2009 14:50:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+is "Oh, and I make it Distributable by playing an appropriate
+card" to vague to succeed?
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, 2009-10-07 at 18:07 +0100, ais523 wrote:
+> I submit the following proposal, "Break the Presto Picking Loop", AI 2,
+> II 1:
+> {{{{
+> In rule 2262, replace
+> {{{
+>        * Discard Picking  - Indicate a type of Exploit card where at
+>                             least one card of that type was destroyed
+>                             in the past 72 hours; a card of that type
+>                             is created in your possession.
+> }}}
+> with
+> {{{
+>        * Discard Picking  - Indicate a type of Exploit card, other than
+>                             Presto!, where at least one card of that
+>                             type was destroyed in the past 72 hours; a
+>                             card of that type is created in your
+>                             possession.
+> }}}
+> [Because otherwise, you can use a Presto! to destroy everyone else's
+> Discard Pickings.]
+> }}}}
+
+Oh, and I make it Distributable by playing an appropriate card.
+
+========================================================================
+
+Judge Walker's Arguments:
+
+I judge TRUE; only a moron in a hurry would not be able to interpret
+ais523's actions.
+
+========================================================================

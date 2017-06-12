@@ -1,0 +1,137 @@
+==============================  CFJ 1840  ==============================
+
+    WALRUS is a player.
+
+========================================================================
+
+Caller:                                 pikhq
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+Appeal:                                 1840a
+Decision:                               REASSIGN
+
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by pikhq:                        20 Dec 2007 00:38:57 GMT
+Assigned to Murphy:                     20 Dec 2007 03:40:16 GMT
+Judged TRUE by Murphy:                  20 Dec 2007 07:31:04 GMT
+Appealed by Taral:                      20 Dec 2007 17:18:00 GMT
+Appealed by root:                       20 Dec 2007 17:24:47 GMT
+Appealed by Zefram:                     20 Dec 2007 17:28:10 GMT
+Appeal 1840a:                           20 Dec 2007 21:12:56 GMT
+REASSIGNED on Appeal:                   31 Dec 2007 17:17:50 GMT
+Assigned to Zefram:                     09 Jan 2008 18:34:19 GMT
+Judged FALSE by Zefram:                 14 Jan 2008 15:46:08 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments for: It registered as such.
+It is a private contract.
+It qualifies as a partnership.
+There is no requirement for it to be declared *as* a partnership.
+
+For evidence, contact H. Notary Goethe about the WALRUS Contract.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Its name is in all caps, and pikhq assumed that e is allowed to act on
+behalf of it; for these reasons I implicitly assumed that it was a
+partnership.  Perhaps pikhq might have done well to be more clear, but I
+think Zefram is being overly pedantic in refusing to recognize WALRUS's
+first attempt at registration, and subsequently questioning the validity
+of this message:
+
+> > WALRUS is a partnership between myself and avpx. Its governing contract
+> > is private.
+> >
+> > If WALRUS is not already a player, it registers.
+> > If WALRUS was not a player before this message, it submits the CFJs that
+> > it would have submitted if it were a player before this message.
+> > If WALRUS was not a player before this message, it submits the proposals
+> > that it would have submitted if it were a player before this message.
+> >
+> > WALRUS sticks its tongue out at Zefram.
+> > I pointedly do not do so.
+
+whose intent was even more clear.  I note that complex conditional
+statements are not usually accepted in Agora, so standing on its own I do
+not think it could ever have any effect.  However, taken with the other
+attempt at registration, of which only one existed, the message could be
+taken as clear shorthand for "I do the same stuff as in my message with
+message-id <blah>, quoting this now:"
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments (in the absence of evidence refuting
+any of eir assertions) and judge TRUE.
+
+========================================================================
+
+Gratuitous Evidence by G.:
+
+As Notary, I confirm that a partnership with at least two members, with
+Pikhq as one member, and known as the WALRUS contract, existed from the
+moment of this time/date stamp:  Date: Sun, 16 Dec 2007 16:55:09 -0700
+
+========================================================================
+
+Gratuitous Evidence by root:
+
+On Dec 24, 2007 9:40 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+>  From context, Telescope is presumably a partnership with root as the
+> front man.  Its playerhood depends on CFJ 1840.
+
+I was hoping that somebody would make this presumption.  I might as
+well reveal at this point that Telescope is, in fact, myself.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+At the time of the attempted registration that this case is concerned
+with, the word "WALRUS" had not been publicly defined to refer to any
+single entity.  It could reasonably be interpreted as referring to
+the aquatic mammal species that goes by that name, or to the Agoran
+entities formerly defined by rule 818.  However, both of these are
+classes of entities, and so inconsistent with the singular usage in
+the attempted-registration message.  Thus no sense could be made of
+the message if interpretation of proper nouns is restricted to require
+definition before use.
+
+It has been argued that, due to the context, "WALRUS" was implicitly
+defined to refer to an otherwise-undisclosed partnership.  That is
+certainly one interpretation that makes the attempted-registration message
+make sense, but not the only one.  As root subsequently demonstrated,
+the previously-undefined term could instead be an alias for a first-class
+person.  If one insist only that the message make sense, and not that
+it constitute a successful registration, the options are much wider:
+the sentence would be meaningful with "WALRUS" defined to refer to any
+specific entity whatsoever.
+
+Implicit definition is a dangerous path to tread.  In addition to the
+problem of deciding which implicit definition to use, it risks accidental
+invocation, with extensive unintended consequences.  (Just ask a FORTRAN
+programmer.)  It also makes the historical record more difficult to
+follow.
+
+I find that it is a matter of common sense, and also greatly to the good
+of the game, that terms used in game messages must be reasonably defined
+in order to mean anything.  Therefore the use of an undefined proper noun
+as the subject of an attempted registration makes the message materially
+unclear, and so ineffective.  I judge CFJ 1840 FALSE.
+
+========================================================================

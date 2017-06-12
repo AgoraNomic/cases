@@ -1,0 +1,63 @@
+==============================  CFJ 2139  ==============================
+
+    Agoroo A and Agoroo B are separate nomics.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  29 Aug 2008 14:43:09 GMT
+Assigned to Murphy:                     08 Sep 2008 01:39:02 GMT
+Judged TRUE by Murphy:                  08 Sep 2008 03:06:41 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On IRC, this happened:
+
+<dogface_> I found this nomic called "Agoroo A": {Any player can
+change the rules with the consent of all other players. If the rules
+of Agoroo A change, the rules of Agoroo B change to match, and vice
+versa.}
+<dogface_> I found this nomic called "Agoroo B": {Any player can
+change the rules with the consent of all other players. If the rules
+of Agoroo A change, the rules of Agoroo B change to match, and vice
+versa.}
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Consider the following hypothetical sequence of events:
+
+  1) dogface_ adds a rule "Any person can become a player of this
+     nomic by request." to the rules of Agoroo A.  The rules of
+     Agoroo B then copy the change.
+
+  2) I request to become a player of Agoroo A, but not to become a
+     player of Agoroo B.
+
+  3) With my consent, dogface_ removes the rule "If the rules of
+     Agoroo A change, the rules of Agoroo B change to match, and
+     vice versa." from the rules of Agoroo A.  The rules of Agoroo B
+     then copy the change.
+
+  4) With my consent, dogface_ adds the rule "This rule does not
+     exist in Agoroo B." to the rules of Agoroo A.
+
+After 2), Agoroo A has me as a player but Agoroo B does not, so they
+must be separate nomics.  I judge CFJ 2139 TRUE.
+
+After 4), Agoroo A has "This rule does not exist in Agoroo B." as a
+rule but Agoroo B does not, so they must be separate nomic rulesets.  I
+judge CFJ 2140 TRUE.
+
+========================================================================

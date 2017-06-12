@@ -1,0 +1,344 @@
+>From nomic-official-owner@teleport.com  Thu Aug  3 04:01:48 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id DAA05917 for <blahedo@quincy.edu>; Thu, 3 Aug 1995 03:54:21 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id AAA22258 for nomic-official-outgoing; Thu, 3 Aug 1995 00:53:45 -0700
+Received: from audumla.students.wisc.edu (students.wisc.edu [144.92.104.66]) by desiree.teleport.com (8.6.10/8.6.9) with ESMTP id AAA22252 for <nomic-official@teleport.com>; Thu, 3 Aug 1995 00:53:42 -0700
+Received: from [144.92.180.44] by audumla.students.wisc.edu;
+          id CAA11938; 8.6.9W/42; Thu, 3 Aug 1995 02:52:21 -0500
+X-NUPop-Charset: English
+Date: Thu, 3 Aug 95 02:50:56 CDT  
+>From: "Charles E. Carroll"  <ccarroll@students.wisc.edu>
+Message-Id: <10265.ccarroll@students.wisc.edu>
+To: nomic-official@teleport.com
+Subject: OFF: CFJ 797: Judgement
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Judgement of CFJ 797
+
+Vlad receives 5 points for speedy Judgement.
+
+============================================================
+
+CFJ 797
+
+Caller: Chuck
+
+Statement: SugarWater's first Injunction on CFJ 795, namely
+  "As per Rule 665/0, I issue the following injunction:
+   The Move to dissolve Reform Group is retracted.  Reform 
+   Group still exists.  The Game State will be adjusted appropriately,"
+   was illegal.
+
+Barred: SugarWater
+Requested Injunction: none
+
+Judge: Vlad
+  Judgement: FALSE
+  Injunction: none
+
+Effects reported by COTC (* indicates new for this report):
+ *Vlad receives 5 points for speedy Judgement
+
+============================================================
+
+============================================================
+
+History:
+  Called by Chuck Mon, 31 Jul 95 12:06:27 CDT
+  Assigned to Vlad Mon, 31 Jul 95 12:37:46 CDT
+  Judged FALSE by Vlad Wed, 2 Aug 1995 20:34:52 -0500 (CDT)
+  Judgement published {as of this message}
+
+============================================================
+
+Arguments of Caller (Chuck):
+
+Rule 663 states "A Judgement may not be accompanied by an Injunction
+unless it is specifically permitted elsewhere in the Rules."  This
+Injunction is not permitted elsewhere in the Rules.  It clearly is
+not of the types permitted by Rule 789 or 908.  It might seem to be
+of the type permitted by Rule 665, but Rule 665 requires for such
+an Injunction to be issued, "The adjustments to the game state must
+have been unambiguously specified within the CFJ..."  Nowhere in
+the CFJ did favor (the caller) specify that the dissolution of
+Reform should be undone; thus the Injunction is in violation of
+the Rules.
+
+It might be argued that SugarWater issued not two Injunctions with
+CFJ 795, as he seemed to do, but only one.  I argue that this is not
+the case, as in the message in which he sent his Judgement to the
+COTC, they are clearly labelled as "Injunctions."
+
+===========================================================
+
+Arguments of Judge (Vlad):
+
+Oh what a tangled web we weave! With so much flak flying
+around what ought to be a simple issue, Judging even one
+small part is difficult. However, this issue is
+relatively easy. Rule 665 is the most important:
+
+> Rule 665/0 (Mutable, MI=1)
+> Injuction--Retracting an Illegal Move
+>
+>       If a CFJ alleges that a specific Move is illegal, and the
+>       Judgement supports the allegation, the Judge may include with
+>       the Judgement an Injunction specifying that the move is to be
+>       retracted, and any resulting adjustments to the published game
+>       state. The adjustments to the game state must have been
+>       unambiguously specified within the CFJ, and these adjustments
+>       must only undo actions which were a direct or indirect result of
+>       that Move.
+
+SugarWater points out that this Rule seems to distinguish
+between "The Move" and "any resulting adjustments to the
+game state". The only question is, can a Move be retracted
+*without* adjustments to the game state? Rule 665 implies
+yes, by using the word "any". This would be the case, for
+instance, if various Officers did not record Reform as having
+dissolved;there would be nothing to undo. But kelly did
+publish score reports which are in error given the non-
+dissolution of reform. Logically, this is silly, but I
+can find no resonn why it would be illegal. Therefore, I
+Judge FALSE. Unofficially, I point out that this means
+that kelly does not have to correct her score reports
+(at least, not due to CFJ 795).
+
+============================================================
+
+Evidence provided by Caller (Chuck):
+
+1. Rule 663
+2. Rule 665
+3. Rule 789
+4. Rule 908
+5. Excerpts of CFJ 795
+6. Excerpts of SugarWater's Judgement message
+
+{full texts of 5 and 6 can be provided upon request}
+
+======1. Rule 663
+
+Rule 663/1 (Mutable, MI=1)
+Injunctions--General
+
+      There shall be an entity known as an Injunction, which may
+      accompany certain Judgements of TRUE, FALSE, or UNDECIDABLE as
+      provided in the rules. An Injunction is a statement or series of
+      statements specifying an action or actions which must take
+      place. If a Judgement is is accompanied by an Injunction, that
+      Injunction must be published with the Judgement. All players
+      must abide by the Injunction beginning no later than 72 hours
+      after its publication unless one of the following conditions
+      then apply:
+        - The Judgement which the Injunction accompanies is undergoing
+          appeal, currently UNKNOWN as a consequence of the appeal
+          process, or, has been appealed and SUSTAINED, but a proposal
+          has been published which would overturn that decision if
+          passed, and said proposal has not failed.
+        - The validity of the Injunction itself is questioned by a
+          pending CFJ.
+        - A Judgement upholding the validity of the Injunction is
+          undergoing appeal, currently UNKNOWN as a consequence of
+          the appeal process, or, has been appealed and SUSTAINED, but
+          a proposal has been published which would overturn that
+          decision if passed, and said proposal has not failed.
+
+      A Judgement may not be accompanied by an Injunction unless it is
+      specifically permitted elsewhere in the rules. An Injunction
+      must be completely consistent with all rules in effect at the
+      time of issuance, and must be completely relevant to the matter
+      addressed in the corresponding judgement.
+
+      If any Player believes that an Injunction or any part of it does
+      not meet the criteria for a valid Injunction, e may submit a CFJ
+      to that effect. If the resulting Judgement supports the
+      contention that the criteria are not met, the Injunction shall
+      be considered illegal and shall have no legal force.
+
+      This rule takes precedence over all rules governing Injunctions.
+
+History:
+..
+Amended(1) by Proposal 1487, Mar. 15 1995
+
+======2. Rule 665
+
+Rule 665/0 (Mutable, MI=1)
+Injuction--Retracting an Illegal Move
+
+      If a CFJ alleges that a specific Move is illegal, and the
+      Judgement supports the allegation, the Judge may include with
+      the Judgement an Injunction specifying that the move is to be
+      retracted, and any resulting adjustments to the published game
+      state. The adjustments to the game state must have been
+      unambiguously specified within the CFJ, and these adjustments
+      must only undo actions which were a direct or indirect result of
+      that Move.
+
+======3. Rule 789
+
+Rule 789/1 (Mutable, MI=1)
+Injunctions on Interpretations of Rules
+
+      When a player makes a CFJ alleging that a Rule should be
+      interpreted in a certain way, e shall also submit a list of
+      Rules relevant to that CFJ, which must include the Rule in
+      question.  If the statement is Judged TRUE, the Judge may
+      include with the Judgement an Injuction requiring the Rulekeepor
+      to annotate the Rule in question with the Statement in the CFJ
+      and the list of relevant Rules.
+
+      The annotation shall remain only until one of the Rules in the
+      list of relevant Rules is changed in any way; or until a CFJ
+      determines that the injunction no longer applies, as described
+      below.  While it remains, it shall guide the application of that
+      Rule.
+
+      If a Player believes that the circumstances which led to the
+      Judgement no longer prevail and the annotation is therefore no
+      longer applicable, e may submit a CFJ to that effect. If it is
+      Judged TRUE, the annotation shall be stricken from the rule set.
+
+History:
+..
+Amended(1) by Proposal 1396, Jan. 29 1995
+
+======4. Rule 908
+
+Rule 908/3 (Mutable, MI=1)
+Formal Apologies
+
+      If a Call for Judgement alleges that a Player (herein called the
+      Ninny) has acted or has failed to act in such a way as to be in 
+      violation of one or more Rules, and this CFJ is Judged TRUE,
+      then the Ninny must submit to the Public Forum a Formal Apology
+      within 72 hours of the publication of Judgement, unless that
+      Judgement is successfully appealed within 72 hours.
+
+      By a Formal Apology is meant a letter of at least 200 words,
+      con-taining all of the Prescribed Words (if any were prescribed)
+      ex-plaining the Ninny's error, shame, remorse, and ardent desire
+      for self-improvement.
+
+      A Judge deciding TRUE in such a CFJ may issue an Injunction
+      including a list of up to ten Prescribed Words of the Judge's
+      choice, and ordering that the Ninny's Formal Apology must
+      include the Prescribed Words.
+
+      If the Ninny fails to meet these criteria e shall gain 3 Blots.
+
+      The Player who called the initial CFJ has the duty to report to
+      the Tabulator any Blots gained through this rule.
+
+======5. Excerpts of CFJ 795
+
+CFJ 795
+
+Caller: favor
+
+Statement: The dissolution of the Reform Group violated the Rules of
+  Agora Nomic.
+
+Barred: TAL, Steve, elJefe
+Requested Injunction: none
+
+Judge: SugarWater
+  Judgement: TRUE
+  Injunctions: As per Rule 665/0, I issue the following injunction:
+
+      The Move to dissolve Reform Group is retracted.  Reform 
+    Group still exists.  The Game State will be adjusted appropriately.
+
+     The Ninny in this situation is the Vizier of Reform Group, as e 
+    executed the illegal dissolution.  Under the authority of Rule 908/3, i
+    prescribe the following words to be used in the Formal Apology:
+
+    Philharmonic   boustrophedonic   supersonic   gin  tonic  chronic
+
+[...]
+
+Arguments of Caller (favor):
+
+Rule 721 states that all Members of a Group must obey the
+Ordinances of that Group, so long as the Ordinances do not
+conflict with the Rules.  Therefore if an action by any
+Members of a Group does not obey the Ordinances (modulo
+conflicts with the Rules), that action violates the Rules.
+
+At the time the Reform Group was dissolved (or, for any
+Platonists listening, when dissolution-looking messages
+were posted to the Public Forum), Ordinance 0 of the
+Reform Group Ordinances stated that the Purpose of the
+Group was to foster progressive change and dynamic
+growth within the Game of Agora Nomic.  While such an
+abstract statement of principle cannot be held to
+govern every small particular action of the Members
+of the Group, the fact that the statement is included
+in the Ordinances, in the lowest-numbered spot, traditionally
+reserved for the highest-precedence and most-encompassing
+item, implies that it must have *some* impact on the
+Members of the Group, and must constrain at least *some*
+of their potential activities.  There must, that is, be
+*some* action on the part of Members that would count
+as not obeying that Ordinance.
+
+The dissolution (or attempted dissolution) of the Group,
+coming as it did almost immediately after a change to the
+Ordinances which provided for the Group Treasury to be
+divided among the members upon the dissolution of the
+Group, constituted a breach of trust with those non-Member
+Players who had invested in Reform Group coins.  More
+generally, it seriously eroded the confidence of the
+Agora public in Group currencies, to the point that
+the elimination of such currencies has been suggested.
+And even more broadly, it cast a pall on general mechanisms
+of trust within Agora Nomic.  None of these effects can
+possibly be interpreted as fostering progressive change
+and dynamic growth within the Game; in fact, it is obvious
+that they have entirely the opposite effect, chilling
+any mechanisms of progress and growth that require trust,
+whether trust in Group currencies or in any other
+cooperative effort of Players.
+
+If any action could count as not obeying Ordinance 0 of
+the Reform Group Ordinances, this action must be deemed
+to so count as well.  Therefore this action does not
+obey that Ordinance, and therefore it violates the Rules
+of Agora Nomic.  Naughty, naughty!
+
+[...]
+
+======6. Excerpts of SugarWater's Judgement message
+
+[...]
+
+Date: Mon, 31 Jul 1995 00:38:18 -0700 (PDT)
+>From: Adrian Brown <gorgonne@becker.u.washington.edu>
+X-Sender: gorgonne@becker1.u.washington.edu
+To: ccarroll@students.wisc.edu
+Subject: Judgement of cfj 795
+
+[...]
+
+Injunctions. . .
+
+
+ As per Rule 665/0, I issue the following injunction:
+
+  The Move to dissolve Reform Group is retracted.  Reform 
+Group still exists.  The Game State will be adjusted appropriately.
+
+ The Ninny in this situation is the Vizier of Reform Group, as e 
+executed the illegal dissolution.  Under the authority of Rule 908/3, i 
+prescribe the following words to be used in the Formal Apology:
+
+Philharmonic   boustrophedonic   supersonic   gin  tonic  chronic
+
+============================================================
+
+End of CFJ 797
+
+============================================================

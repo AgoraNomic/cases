@@ -1,0 +1,132 @@
+==============================  CFJ 1787  ==============================
+
+    It is permissible to judge the question on veracity in this case
+    FALSE.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Murphy
+Judgement:                              UNDECIDABLE
+
+Appeal:                                 1787a
+Decision:                               REMAND
+
+
+Judge:                                  Murphy
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by root:                         10 Nov 2007 21:22:24 GMT
+Assigned to Murphy:                     10 Nov 2007 21:38:58 GMT
+Judged UNDECIDABLE by Murphy:           10 Nov 2007 23:15:46 GMT
+Appealed by Taral:                      10 Nov 2007 23:35:35 GMT
+Appealed by Murphy:                     11 Nov 2007 00:04:20 GMT
+Appealed by Zefram:                     11 Nov 2007 09:01:57 GMT
+Appeal 1787a:                           11 Nov 2007 09:13:08 GMT
+REMANDED on Appeal:                     13 Nov 2007 11:25:17 GMT
+Assigned to Murphy:                     13 Nov 2007 17:26:24 GMT
+Judged UNDECIDABLE by Murphy:           17 Nov 2007 23:29:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+* A judgement of IRRELEVANT is not appropriate, because the veracity
+of the statement determines whether the initiator wins the game, per
+Rule 2110.
+* A judgement of TRUE or FALSE is permissible if and only if it is
+appropriate.  Since only one of (TRUE, FALSE) can logically be
+appropriate, only one judgement from that set can logically be
+permissible.
+* If a judgement of TRUE is permissible, then a judgement of FALSE is
+not permissible.  The judgement of TRUE is therefore not applicable, a
+contradiction.
+* If a judgement of FALSE is permissible, then a judgement of TRUE is
+not permissible and thus not applicable.  The judgement of FALSE is
+therefore not permissible, a contradiction.
+* A judgement of UNDECIDABLE is therefore appropriate.
+* A judgement of UNDETERMINED is not appropriate, because no
+additional information would result in a different judgement being
+appropriate.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments and judge UNDECIDABLE.
+
+========================================================================
+
+Appellant Taral's Arguments:
+
+I intend to appeal this Judgement with two support. I still believe
+that a judgement of "IRRELEVANT" is appropriate in this instance,
+since CFJs cannot and should not be allowed to create their own
+relevance given the wording of the rule.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I agree with Appellant Eris that a judgement of IRRELEVANT would have
+been appropriate.  I reject the argument that a CFJ is automatically
+relevant because its processing triggers various rule mechanisms that
+the caller wishes to test, on the grounds that the caller can just as
+easily question the operation of those mechanisms directly.
+
+However, I stand by my original argument that a judgement of UNDECIDABLE
+was appropriate.  Rule 2158 explicitly gave me discretion to choose any
+appropriate judgement, and Agora has judicial precedent against altering
+a judgement on appeal solely because another judge would have made a
+different choice.  Accordingly, I once again judge UNDECIDABLE.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+This still misses it.  Judge Murphy's "original" arguments, which were
+in fact the Caller's, were found to be incorrect by the appeals board.  The
+caller claimed that the reason UNDECIDABLE was the only appropriate
+judgement was that TRUE and FALSE were clearly inappropriate.  The appeals
+board came up with a demonstration that TRUE or FALSE were *not* clearly
+inappropriate.  So UNDECIDABLE *might* be reasonable, but the judge has still
+given no actual arguments for it!  If you want to judge UNDECIDABLE, you need
+to come up with some arguments other than the Caller's, which the Appeals
+Board rejected.  (I in fact support UNDECIDABLE but not with this precedent).
+The judgement is actually self-contradictory:
+
+1.  In eir original (caller/judge) arguments, e claims that e must
+    judge as e does because IRRELEVANT is unreasonable, which is
+    a key point of the argument.
+2.  In the new judgement, e accepts that IRRELEVANT is reasonable.
+3.  And then says "e stands by eir original argument."
+
+So to sum up:  E accepts that IRRELEVANT is reasonable, and tben
+judges as e does based [in part] on the argument that IRRELEVANT is
+unreasonable!  This just shouldn't stand as precedent.  I recommend
+REASSIGN.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+I interpret the statement as implicitly looking forward to what its
+judge will be allowed to do, thus allowing self-reference and making
+both TRUE and FALSE inappropriate (according to the caller's arguments).
+
+I stand by my previous interpretation that IRRELEVANT is appropriate,
+and that the caller's arguments were incorrect in claiming that it was
+not.  However, the appropriateness of UNDECIDABLE does not depend on
+this, only on the inappropriateness of TRUE and FALSE.
+
+While I have the floor, I take the opportunity to apologize to Panelist
+Goethe for improperly skimming past eir original appellate arguments,
+as well as to Caller root for failing to give sufficient credit to eir
+original arguments.  I then (pseudo-)judge UNDECIDABLE.
+
+========================================================================

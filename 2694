@@ -1,0 +1,83 @@
+==============================  CFJ 2694  ==============================
+
+    If the Chief Whip has caste 1 and 0 rests, then e CAN cast a second
+    valid vote on an ordinary proposal.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       18 Sep 2009 19:56:04 GMT
+Assigned to ais523:                     18 Sep 2009 20:05:42 GMT
+Judged FALSE by ais523:                 21 Sep 2009 21:26:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+According to Rules 2156 and 2255, eir voting limit is 1.5.  In the
+absence of an explicit rounding clause, I think it doesn't get rounded
+at all, and the second vote is invalid because it exceeds the limit.
+
+Tiger wrote:
+
+> 2009/9/18 Ed Murphy <emurphy42@socal.rr.com>:
+>> Wooble wrote:
+>>
+>>> On Thu, Sep 17, 2009 at 8:23 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+>>>> Wooble wrote:
+>>>>
+>>>>>> 6497 O 0 1.0 BobTHJ              Advertising Anarchy
+>>>>> AGAINST * 2
+>>>> Your VLOP is 1 due to coppro's recent Win by Clout.
+>>> I'm pretty sure I still have an extra vote as Chief Whip.
+>> *checks* No, the round-up clause got lost when it was moved into R2255.
+>>
+>>
+> Now it just says "1.5 times what it would otherwise be" without
+> defining rounding procedure, and the standard for 1.5 is that it's
+> rounded up to 2. My bad in the latest report, I forgot to change that
+> 0 after wooble being Savage before.
+> (No CoE needed though, since the GP doesn't really track voting limits)
+
+There is no single obvious standard for rounding non-integers to an
+integer value.  First, some rules make sense even if no rounding
+occurs; Rule 2255 is one such, albeit it was presumably intended to
+retain the method used by its predecessors (Rule 2019, versions /22
+through /24).  Second, even if a rule only makes sense when some
+sort of rounding occurs, there are several likely methods:
+
+  1) always up
+  2) always down
+  3) nearest, always breaking ties up
+  4) nearest, always breaking ties down
+  5) nearest, always breaking ties toward odd
+  6) nearest, always breaking ties toward even
+
+and it's situation-dependent which one is most appropriate (e.g.
+Rule 2019/20 and /21 used x1.4 with method #5, /22 through /24
+used x1.5 with method #6 with the intent of increasing effective
+bonuses).
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2694 FALSE. Nothing in the rules implies that voting limits
+are necessarily integers, so I conclude that the voting limit in that
+situation would be 1.5. As a result, only the first 1.5 votes can be
+valid; half a vote is not something that has any relevance in the rules,
+so the half-vote has no relevance, and a second full vote will not be
+valid either. (Note that this isn't exactly the same as having a voting
+limit of 1; if the Chief Whip had 4 rests in the example, e would be
+reduced to the next lower caste, and the next lower caste from 1.5 is 1,
+not 0.)
+
+========================================================================

@@ -1,0 +1,57 @@
+==============================  CFJ 2820  ==============================
+
+    Lower Deck is adjacent to Bridge.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Yally:                        27 Jul 2010 06:24:26 GMT
+Assigned to Wooble:                     29 Jul 2010 02:19:03 GMT
+Judged FALSE by Wooble:                 29 Jul 2010 10:55:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Also, I was under the impression that Lower Deck was the one adjacent
+to the others. It's defintely ambiguous.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+I thought the wording was a little confusing, but
+unambiguous: "which" refers to the nearer object, Engine Room.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+While I'm the one that raised the question, I also
+thought it was probably intended to be this way (and as Tiger says,
+it was), but that it was confusing enough that I should double-check
+in the discussion forum.  -G.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE.  "where Lower Deck is adjacent to Enginge Room which is
+also adjacent to Bridge" may be phrased a bit awkwardly, but the only
+reading I can see making sense is that "which" refers to "Enginge
+Room".  "Also" is misleading as at first we would infer that something
+else is adjacent to the Bridge, but this can be seen as taking
+advantage of the implicit reflexivity of adjacency.  We could rewrite
+as "Engine Room is adjacent to Lower Deck and Engine Room is also
+adjacent to Bridge", where the "also" still refers to the second
+relation but makes the reference to the first relation more explicit.
+
+========================================================================

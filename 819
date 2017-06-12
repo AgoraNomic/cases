@@ -1,0 +1,172 @@
+>From nomic-official-owner@teleport.com  Tue Nov  7 05:12:33 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA03836 for <blahedo@quincy.edu>; Tue, 7 Nov 1995 05:12:31 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA08158 for nomic-official-outgoing; Tue, 7 Nov 1995 03:05:22 -0800
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA08147 for <nomic-official@teleport.com>; Tue, 7 Nov 1995 03:05:16 -0800
+Message-Id: <199511071105.DAA08147@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA22632; Tue, 7 Nov 1995 12:03:49 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 819 Judgement: FALSE
+To: nomic-official@teleport.com
+Date: Tue, 7 Nov 95 12:03:49 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+			ASSIGNMENT CFJ 819
+
+If at any time there exists an Organization of a Class not specifically
+defined in the Rules, the Rules require that Organization to immediately
+dissolve.
+=======================================================================
+Judge:		Dave Bowen
+Judgement:	FALSE
+
+Eligible:	Andre, Chuck, Coco, Dave Bowen, Erick, favor, KoJen, 
+		Michael, Morendil, Oerjan, SugarWater, Vanyel, Vlad, 
+		Zefram
+
+Not Eligible:	
+Caller:		Swann
+Barred:		Kelly, elJefe, Steve
+On Hold:	
+
+Effects:	Dave Bowen gains 3 Points for timely Judgement
+
+======================================================================
+
+History:
+  Called by Swann, 31 Oct 1995, 01:11 -0500
+  Assigned to Dave B., 31 Oct 1995, 14:56 MET
+  Judged FALSE by Dave B., 6 Nov 1995, 12:04 -0600
+
+=======================================================================
+
+Arguments:
+
+My statement is a natural consequence of the interaction of 1530 and
+1397.
+
+The Reasoning is as follows.  Presume the existence of an Organization
+that belongs to a Class nowhere referred to in the Rules.
+According to 1530:
+
+      "A Compact can only have Jurisdiction over Players permitted to
+       it by the Rules governing its Class of Organization."
+
+For this hypothetical Organization, no Rules exist that grant permission
+for its Compact to have Jurisdiction over any Player. 1530 says "only"
+players so permitted can be part of its Jurisdiction, so this
+hypothetical Organization has a Compact that has a Jurisdiction that 
+contains no Players.  In addition, because of this prohibition, this
+Organization can _never_ expand its Jurisdiction beyond an empty set.
+
+According to 1397:
+
+     "An Organization ceases to exist when any of the following
+      conditions become true:
+
+        i) Its Compact ceases to have Jurisdiction over any Players
+           and no provision exists for the Jurisdiction to expand."
+
+Obviously, the strictures 1530 places on Organizations of undefined
+Classes, all such Organizations fulfill clause i) of 1397 as soon as
+they come into existence, and therefore, immediately cease to exist due
+to 1397.
+
+
+=======================================================================
+
+Decision & Reasoning Judge
+
+Decision: FALSE
+
+Reasoning:  Rule 1530 states that "A Compact can only have Jurisdiction over
+            Players permitted to it by the Rules governing its Class of
+            Organization."  An Organization of a Class not specifically
+            defined in the Rules obviously has no Rule granting it Jurisdiction
+            over any Players, so its Jurisdiction is the empty set of Players.
+            As long as no Rule to grant Jurisdiction for this class exists,
+            then the Jurisdiction remains the empty set.  However, it is the
+            opinion of this Judge, that the passage of a Rule defining an
+            Organization of the given class would expand the Jurisdiction
+            of the Compact.  Thus I find that a provision to expand the
+            Jurisdiction of the Compact does exist and hence, such a Compact
+            is not required to dissolve under Rule 1397/2.
+
+
+
+=======================================================================
+
+Evidence:
+Rule 1530/0 (Mutable, MI=1)
+Compacts: Jurisdiction
+
+      The Jurisdiction of an Organization's Compact is a subset of the
+      set of all Players. A Compact has no force to require, or
+      oblige, anything of Players who are not within its Jurisdiction.
+      (This does not absolve any Players of duties required of them by
+      the Rules.)
+
+      Within its Jurisdiction, a Compact's ability to dictate Players'
+      activity is limited to the extent permitted by the Rules.
+
+      A Compact can only have Jurisdiction over Players permitted to
+      it by the Rules governing its Class of Organization.
+
+      No Compact may have effect prior to its Creation, nor may it
+      have effect subsequent to its dissolution.
+
+      This Rule takes precedence over any other Rule governing
+      Compacts.
+
+History:
+Created by Proposal 1760, Oct. 21 1995
+========================================================================
+
+Rule 1397/2 (Mutable, MI=1)
+Dissolution of Groups
+
+      An Organization ceases to exist when any of the following
+      conditions become true:
+
+        i) Its Compact ceases to have Jurisdiction over any Players
+           and no provision exists for the Jurisdiction to expand.
+       ii) The continued existence of the Organization would result in
+           the absence of a Administrator (and/or the absence of an
+           Executor in the case of a Orginization with Treasuries)
+           with no provision for any Player to fulfill the role(s).
+      iii) The Organization is required to dissolve in accordance with
+           its Compact or the Rules.
+
+      At the moment an Organization dissolves, the following occurs,
+      in order.
+
+        i) Any Currencies remaining in the Organization's Treasuries
+           (if such exist) are distributed as provided for by other
+           Rules.
+       ii) All Players cease to be within the Jurisdiction of the
+           Organization's Compact.
+      iii) The Organization's Treasuries, Compact, and the
+           Organization itself, cease to exist.
+
+      Whenever a Public Organization dissolves, the Notary shall
+      report that event to the Public Forum As Soon As Possible after
+      e is notified as required by other Rules.
+
+      Other Rules may define additional causes of dissolution.
+
+History:
+Created by Proposal 1397, Jan. 29 1995
+Amended(1) by Proposal 1687, Sep. 1 1995
+Amended(2) by Proposal 1760, Oct. 21 1995
+
+
+--
+Steven Swiniarski  (aka S Andrew Swann)
+gb485@cleveland.freenet.edu
+Whenever you have an efficient government you have a dictatorship.
+                                        --Harry S Truman

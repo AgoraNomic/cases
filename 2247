@@ -1,0 +1,115 @@
+==============================  CFJ 2247  ==============================
+
+    The Notary SHALL publish the fact that ais523 owns a Pain called
+    "xyzzy" as part of eir weekly report.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       30 Oct 2008 21:58:21 GMT
+Assigned to BobTHJ:                     02 Nov 2008 16:15:25 GMT
+BobTHJ recused:                         05 Nov 2008 15:48:10 GMT
+Assigned to G.:                         08 Nov 2008 08:48:21 GMT
+Judged FALSE by G.:                     08 Nov 2008 22:01:37 GMT
+
+========================================================================
+
+Gratuitous Evidence by ehird:
+
+You don't.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2008-October/
+015401.html
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, this court finds that the Notary is the recordkeepor of Pains.
+(There was some discussion that came to this consensus, which I will
+not repeat).
+
+R2143 states that any material that is defined as "part of" an Officer's
+weekly or monthly report has the weekly or monthly requirements attached
+(with default being weekly).
+
+Now R2166 states:
+      The recordkeepor of a class of assets is the entity defined as
+      such by its backing document.  That entity's report includes a
+      list of all instances of that class and their owners.
+but it's important to note that the Assets report here is not specific
+to Officers and offices.  In fact, it's specific to entities; and
+while entities may hold Offices, Offices are not entities, but rather
+roles tied to entities (this is an important point).
+
+Thus, the rule on Assets (R2166) does not directly include any
+requirements for timeliness of reports, etc. associated with Offices
+or reference to officers' official reports, but rather ties reports
+to the entities who might happen to hold those offices.
+
+If we construe the "report" in R2166 to apply Asset Reports to "part
+of" an Officer's report as defined in R2143, this (a) creates
+requirements that aren't there, (b) would vary as recordkeepors change,
+depending on whether the recordkeepor was an officer,  and (c) generally
+does not tie to the rules defining particular reports; the whole of a
+particular report consists of what the rules define as being for that
+report (d) leads to inappropriate results due to the confusion of
+"office" and "entity holding the office"; for example, if I am a
+contestmaster, and a contest says "Goethe is the recordkeepor of X",
+and I am also the Herald, does the fact that I am an entity holding
+the office and the entity that is the contestmaster make the asset
+part of the Herald's report?  This double-indirection is inappropriate
+and not directly supported by the Rules in question (even accidentally).
+
+Therefore, given the indirect referrals, and the errors that would
+arise if we assumed otherwise, this court finds that the R2166
+"entity's report" means "a report of the assets in question" which
+is separate from any other report and not necessarily "part of" an
+officer's report, though it may be part of the report of an entity
+(a person) who happens to hold the office.  The Notary is under no
+obligation to publish this report on Assets at any particular time.
+
+This court finds FALSE.
+
+Two additional notes:
+First, I do note that in this particular case, the publication of
+the monthly contract text, which refers to a text file outside of the
+Notary's control which defines the assets in question and their
+disposition, would be a sufficient report if one were necessary.
+
+Second, I would suggest the proper fix would be a clarification of
+R2143, to include in the weekly reports section "including any reports
+of assets for which the Rules defined the officer as the recordkeepor."
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+The context was a now-terminated pledge which allowed ehird to create and
+destroy Pains by modifying a file on eir computer. (I'll dig out the text
+of the pledge later when I'm back on my regular computer.) The pledge
+specified the Notary as the recordkeepor of those things, but e had no way
+to determine whether any Pains existed or not.
+
+The CFJ is probably UNDETERMINED if this actually works (although ehird
+claimed in a-d that it was FALSE, there is no obvious way to check), and
+probably FALSE if it doesn't. (I phrased it as I did due to the off-chance
+of UNDECIDABLE, but I doubt it is.)
+
+========================================================================

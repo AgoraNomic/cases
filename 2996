@@ -1,0 +1,58 @@
+==============================  CFJ 2996  ==============================
+
+    Under the ruleset proposed by P7015, the conditions under which a
+    promise are not destroyed must also be conditions required to be
+    true for the promise to be cashed.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          17 Apr 2011 04:20:31 GMT
+Assigned to ais523:                     19 Apr 2011 06:53:43 GMT
+Judged TRUE by ais523:                  22 Apr 2011 14:43:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+"The conditions of the promise" refers everywhere else to
+the conditions required for cashing, and in general the wording of the
+clause about destruction does little to contradict this
+interpretation.
+
+========================================================================
+
+Caller's Evidence:
+
+Evidence:
+
+>    Optionally, the author CAN, in the creating message, specify a
+>    set of conditions required to be true for the promise to be
+>    cashed.  The default is that the promise has no conditions.
+>[...]
+>    A Player CAN cash a promise in eir possession by announcing that
+>    e does so, provided either that the promise has no conditions, or
+>    all of the conditions of the promise are true.  To do so, e must
+>    clearly and unambiguously identify the promise and SHOULD publish
+>    its text.
+>[...]
+>    Cashing a promise destroys it, unless the conditions of the
+>    promise explicitly and clearly include conditions under which the
+>    promise is not so destroyed, and these conditions are true.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2996 TRUE. A condition on destruction is still a condition.
+(Oops...)
+
+========================================================================

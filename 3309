@@ -1,0 +1,57 @@
+==============================  CFJ 3309  ==============================
+
+    Proposal 7386 failed to fully take effect because it attempted to
+    modify a substantial aspect of Proposal 7411
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        21 Apr 2013 17:20:34 GMT
+Assigned to woggle:                     27 Apr 2013 19:43:33 GMT
+Judged FALSE by woggle:                 04 May 2013 02:12:58 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Proposal 7386 attempted to repeal the rule defining the author of Proposal
+7411.  This would cause Proposal 7411 to not have an author.  Changing the
+author would violate Rule 2350.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+Proposal 7386 does not destroy all Golems, and therefore did not itself
+attempt to modify a substantial aspect of Proposal 7411.
+
+Instead, if this modification was attempted at all, it was attempted by R1586,
+which requires that when a Rule-defined entity is repealed, that that entity
+cease to exist. This is sufficient to judge this CFJ FALSE.
+
+With respect to whether R1586 interferes with the prohibition on modifications
+to proposals as applied to undefining a proposal's author:
+
+The author of a proposal is defined -- not just initially set -- by
+referencing the event of the creation of the proposal. Thus, the prohibition
+on modification of the author attribute prevents creating a legal fiction that
+a different entity created the proposal. Although we do not normally allow
+game entities to continue to refer to destroyed entities, it is appropriate to
+do so when the defining rule explicitly examines history.
+
+Another issue is whether properties of the author besides whether it created
+the proposal deserve protection as an "attribute" of a proposal. The authors
+existence and attributes are only incidental to the typical operation of the
+proposal, so I hold that it does not. This is unlike other attributes of the
+proposal which typically function principally as part of the proposal, like
+the proposal's text or the proposal's AI.
+
+========================================================================

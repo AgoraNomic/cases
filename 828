@@ -1,0 +1,351 @@
+From nomic-official-owner@teleport.com  Wed Nov 22 10:37:06 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id KAA26692 for <blahedo@quincy.edu>; Wed, 22 Nov 1995 10:37:01 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id IAA05459 for nomic-official-outgoing; Wed, 22 Nov 1995 08:29:16 -0800
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id IAA05432 for <nomic-official@teleport.com>; Wed, 22 Nov 1995 08:29:06 -0800
+Message-Id: <199511221629.IAA05432@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA23694; Wed, 22 Nov 1995 17:28:09 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 828 Judgement: FALSE
+To: nomic-official@teleport.com
+Date: Wed, 22 Nov 95 17:28:09 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+			JUDGEMENT CFJ 828
+	  The Rules generally should be interpreted such that
+	  the Mintor of the Group Coins of any given Group is
+	  the Mint, and that all Group Coins existing just prior
+	  to the adoption of Proposal 1760 still existed just
+	  after the adoption of Proposal 1760.
+======================================================================
+Judge:		Coco (defaulted)
+		elJefe
+Judgement:	FALSE
+
+Eligible:	Andre, Chuck, Dave Bowen, elJefe, Kelly, KoJen, 
+		Michael, Morendil, Oerjan, Pascal, Saltwater, Steve, 
+		Swann, Vanyel, Vlad, Wes, Zefram
+
+Not Eligible:	
+Caller:		favor
+Barred:		
+On Hold:	
+1005:		
+Defaulted:	Coco
+
+Effects:	Coco gains 3 Blots for defaulting
+		Coco is not eligible to be a Judge until e requests
+		  the CotC to be eligible again.
+		elJefe gains 5 Points for speedy Judgement
+
+======================================================================
+
+History:
+
+  Called by favor, 8 Nov 1995, 17:12 EST
+  Assigned to Coco, 9 Nov 1995, 9:28 MET
+  Defaulted by Coco, 16 Nov 1995, 9:28 MET
+  Ineffective Judgement of FALSE from Coco, 17 Nov 1995, 10:59 -0600 (CST)
+  Assigned to elJefe, 21 Nov 1995, 11:56 MET
+  Judged FALSE by elJefe, 22 Nov 1995, 11:13 -0500
+
+======================================================================
+
+Arguments:
+
+  The new Organization Rules are a bit wavy on Group Coins.
+  766 clearly causes such things to exist, but it does not
+  explicitly say what the Mintor is.  Neither it nor any
+  other Rule seems to "specifically permit" a Group "to
+  become the Mintor of a Currency", so by 1474 the Mintor
+  of a Group's Coins cannot be the Group itself.  By 1467,
+  if the Mintor of a Currency is otherwise undefined, it's
+  the Mint, so the Mint is apparently the Mintor of Group
+  Coins.
+
+  Now on continuity: the Judgements in CFJs 815 and 816
+  teach that when the Rules governing a type of entity change,
+  and some plausible changes to the existing entities of
+  that type will bring them into conformance with the Rules,
+  those changes occur.  It seems correct, then, to say that
+  the existing Group Coins, and the various Currencies of
+  which they are instances, continue to exist, and just
+  change as needed (their Mintors used to be the Groups,
+  for instance, and now it's the Mint).
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+Judgment: FALSE
+
+Reasons and Arguments:
+
+This judgement turns on a precise reading of Rule 1471.  I was strongly 
+inclined to say that the old Coins continue to exist but am now unable 
+to do so.
+
+Rule 766 explicitly defines Coins to be a Currency.  As there is no 
+entity otherwise defined in the Rules to be their Mintor, (the title
+of Rule 1474 is not part of the Rule) the second paragraph of Rule 1467 
+tells us that their Mintor is the Mint.
+
+Rule 1474/0 clearly said that the Mintor for a Group's Coins was the 
+Group. That language was amended away by Proposal 1760, and the Group 
+issuing the Coins then ceased to have authority to be a Mintor, that 
+authority now going to the Mint.
+
+Rule 1471/0 states that 
+
+   If the Mintor of a Currency ceases to exist, or ceases to have
+                                                ^^^^^^^^^^^^^^^^^
+   the authority to be a Mintor, then all units of that Currency
+   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   are immediately destroyed, and Currency ceases to exist.
+
+
+Therefore the old Coins ceased to exist upon adoption of Proposal 1760.
+
+------
+
+It may be objected that the intention of 1471 was not to destroy the
+Coins in any transfer of Mintors.  I respond that it was not anyone's
+"intention" to change the Group Coin Mintor at all, but it still 
+happened.
+
+It may be objected that 1471 ought to be interpreted that when the
+Mintor's authority is transferred from one Mintor to another, that the
+Mintor has not "ceased to have authority to be a Mintor" since the new 
+Mintor still has that authority.
+
+I reject this interpretation as counter-linguistic; it would interpret 
+the following statements as tautologically false:  "a Voter ceases to be 
+a Player", or "an Officer ceases to fill that Office", or "the Speaker-
+elect ceases to be Speaker-elect" or "a Contestant ceases to be a 
+Contestant".  Statements like these may be found in Rules 1043, 880, 
+402, and 1539.
+
+Even though a conclusion is inconvenient, the temptation of avoiding it 
+by misinterpreting the Rules, or language, must be resisted.  The change 
+of Mintor means that one entity ceased to have the authority and another 
+one began having it.
+
+It may be objected that CFJ 815 should be interpreted as keeping the
+Coins in existence.  Judge |favor|'s excellent judgement should be read 
+carefully; it states in favored conclusion (b.), 
+
+                    For some Entities and some Rule changes,
+      of course, the only change to the Entity that would
+      bring it (or the Game state as a whole) into conformance
+      with the Rules would be for it to cease to exist. 
+
+In any case, CFJ 815 is an interpretation of Rule 1011.  Rule 1011 only 
+has something to say if the Rules do not specify an action.  In this 
+case Rule 1471 clearly specifies the action of destroying all Coins and 
+the old Currency.
+
+------
+
+Recommendation:
+
+I recommend that legislation be passed curing the defects in Rules 1471
+and 766.
+
+FIRST: That Rule 1471 be amended to delete the above language and instead 
+say
+
+      If at any time, a Currency ceases to have a valid Mintor, then 
+      all units of that Currency are immediately destroyed, and Currency 
+      ceases to exist.
+
+This is like the wording for the requirement of having a Recordkeepor.
+
+
+SECOND: That Rule 766 be amended to add language saying
+
+      The Mintor for each variety of Group Coin is the associated Group.
+
+----------------------------------
+- elJefe, Judge
+
+
+******************************************************************
+  Dr. Jeffrey L. Caruso <jlc@triple-i.com>
+  Information International
+
+
+
+======================================================================
+
+Evidence:
+
+  Rule 766/3
+  Rule 1474/0
+  Rule 1474/1
+  Rule 1467/1
+  Judgement of CFJ 815 (included by mention)
+  Judgement of CFJ 816 (included by mention)
+
+Evidence added by Judge:
+  Rule 1471/0
+
+Evidence added by CotC:
+  Ineffective Judgement by Coco
+
+=========================================================================
+
+Rule 766/3 (Mutable, MI=1)
+Groups
+
+      Let there be a Class of Organization known as a Group.
+
+      A Group's Compact consists only of Statutes, and are known
+      collectively as its Ordinances, an individual Statute of its
+      Compact is known as an Ordinance.  Its Administrator is known as
+      the Group's Ordinancekeepor.  A Group has one Treasury, and its
+      Executor is known as the Group's Vizier.
+
+      A Group has an associated form of Currency.  The generic name of
+      all Group Currencies is "Coins."  The specific name of a Group's
+      Currency is <name> Coins, where <name> is the Name of the Group.
+
+      Players within the Ordinances' Jurisdiction are known as the
+      Group's Membership.  Both the Vizier and the Ordinancekeepor of
+      the Group must be Members of the Group.  At all times there must
+      be a Vizier and Ordinancekeepor for every Group.
+
+History:
+...
+Amended(1) by Proposal 1415, Feb. 1 1995
+Amended(2) by Proposal 1601, Jun. 19 1995
+Amended(3) by Proposal 1760, Oct. 21 1995
+
+----------------------------------------
+
+Rule 1467/1 (Mutable, MI=1)
+Definition of a Currency
+
+      A Currency is a type of Nomic Entity.  Only those Nomic Entities
+      which are specifically defined by the Rules as being Currencies
+      are Currencies.
+
+      A Currency must have a Name (which must not be the name of any
+      other Currency), a minimum unit quantity, a Recordkeepor, and a
+      Mintor.  The Mintor of a Currency is the Mint if it is not
+      otherwise defined.
+
+      The minimum unit quantity (MUQ) of a Currency is the smallest
+      amount of that Currency which may be transferred.  All
+      transfers, holdings, and calculations involving a given Currency
+      shall be rounded off to the nearest multiple of its MUQ.  The
+      MUQ of a given Currency is 1, unless another Rule specifies a
+      different MUQ for that Currency.
+
+      The Recordkeepor of a Currency is the Player who is required to
+      maintain a record of the amount of that Currency held in the
+      various Treasuries which exist.  If a Currency ceases to have a
+      valid Recordkeepor, the Banker (or, in eir absence, the Speaker)
+      shall fulfill that responsibility until a new Recordkeepor is
+      selected according to the appropriate procedures.  If no
+      procedure exists to select a new recordkeepor, all units of the
+      Currency are instead destroyed, and the Currency ceases to
+      exist.
+
+      The Mintor of a Currency is the Nomic Entity which is authorized
+      to create and destroy units of that Currency.  If the Mintor of
+      a Currency ceases to exist, all units of the Currency are
+      immediately destroyed, and the Currency also ceases to exist.
+
+      The Banker shall maintain a record of all existing Currencies
+      and their MUQs, Recordkeepors, and Mintors.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1685, Sep. 1 1995
+
+----------------------------------------
+
+Rule 1471/0 (Mutable, MI=1)
+Creation and Destruction of Currencies
+
+      The Mintor of a Currency may, at any time, create new units of
+      that Currency, so long as this creation is permitted by the
+      Rules.  These newly-created units of Currency are placed in the
+      Treasury of the Mintor.  Units of Currency may not otherwise be
+      created except as specifically authorized by the Rules.
+
+      The Mintor of a Currency may, at any time, destroy those units
+      of that Currency which it currently possesses in its Treasury,
+      so long as this destruction is permitted by the Rules.  Units of
+      Currency may not be otherwise destroyed except as specifically
+      authorized by the Rules.
+
+      If the Mintor of a Currency ceases to exist, or ceases to have
+      the authority to be a Mintor, then all units of that Currency
+      are immediately destroyed, and Currency ceases to exist.
+
+      The Mintor of the Currency shall notify the Recordkeepor of the
+      Currency as soon as possible after it creates or destroys Units
+      of Currency.
+
+      A Mintor must have a Treasury.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+
+----------------------------------------
+
+Rule 1474/0 (Mutable, MI=1)
+Coins
+
+      Each Group shall have an associated Currency, the name of which
+      shall be formed by appending the word "Coins" to the name of the
+      Group.  The MUQ of all Group Coins is 1.  The Recordkeepor for
+      each variety of Group Coin is the Vizier of the associated
+      Group.  The Mintor for each variety of Group Coin is the
+      associated Group.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+
+----------------------------------------
+
+Rule 1474/1 (Mutable, MI=1)
+Coins
+
+      An Organization is permitted to be the Mintor of a Currency
+      _only_ if that Organization possesses a Treasury, _and_ if the
+      Rules defining that Organization's Class specifically permit it
+      to become the Mintor of a Currency.
+
+      Each Rule that permits an Organization of a specific Class to be
+      a Mintor must define a unique generic name for every type of
+      Currency associated with that Class of Organization.
+
+      The name of any Currency associated with a specific Organization
+      shall be the Name of the Organization followed by the unique
+      generic name defined by the Class of that Organization.
+
+      The Recordkeepor of any Organization's Currency is the Executor
+      of the associated Organization.  The MUQ of all such Currencies
+      is 1.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1760, Oct. 21 1995
+
+======================================================================
+
+This was the Judgement as issued too late by Coco:
+
+Judgement: FALSE
+Reasoning:
+Since the previous rules governing Groups specified that each Group was 
+the mintor of it's own Coins, the caller's arguement for continuity 
+would be contradicted by tranferring the authority to mint Coins from 
+Groups to the Mint.

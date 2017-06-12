@@ -1,0 +1,72 @@
+==============================  CFJ 2771  ==============================
+
+    When a proposal to create a new rule takes effect, two new rules are
+    created.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          28 Feb 2010 17:32:58 GMT
+Assigned to scshunt:                    06 Mar 2010 16:41:10 GMT
+Judged FALSE by scshunt:                21 Mar 2010 19:55:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 106 specifies that when a proposal to create a rule
+takes effect, such a rule is created; however, the proposal is still
+an instrument in its own right and arguably goes ahead and creates
+another copy of the rule.
+
+========================================================================
+
+Caller's Evidence:
+
+On Sat, Feb 27, 2010 at 12:29 PM, Sean Hunt <rideau3@gmail.com> wrote:
+> On 02/27/2010 09:59 AM, Ed Murphy wrote:
+>>
+>> Detail: http://zenith.homelinux.net/cotc/viewcase.php?cfj=2766
+>>
+>> ===================  CFJ 2766 (Interest Index = 0)  ====================
+>>
+>>     Proposal 6632 successfully amended Rule 2282.
+>>
+>> ========================================================================
+>
+> TRUE; as ais523 pointed out, Rule 106 applies the changes to the game state,
+> meaning that it has sufficient power.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The issue at hand in CFJ 2771 is whether or not Rule 106 defined what a
+proposal taking effect was or instead provided an additional action that
+occurred when a proposal took effect.
+
+Rule 106 itself is unclear in this manner; either interpretation could
+be valid. The only other Rule to provide any guidance is Rule 105,
+defining Rule Changes, which doesn't provide a whole lot. Therefore, I
+will apply the criterion in Rule 217.
+
+In order to find a judgment, I must consider game custom, common sense,
+past judgements, and consideration of the best interests of the game.
+Prior to the Rule 106's 24th amendment, the definition of a proposal
+taking effect was implicit - the actions described in its text were
+performed by the proposal. This seems consistent with all of the
+criteria described in Rule 217. The unclear text was intended to provide
+a loophole by which a proposal could affect rules greater than its
+power, not to cause a proposal to be executed twice. There is no other
+basis in Agora, in nomics, or in law for a proposal to take effect
+twice, unless there is clear text in a rule saying so.
+
+========================================================================

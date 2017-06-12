@@ -1,0 +1,65 @@
+==============================  CFJ 2224  ==============================
+
+    Taral directly or indirectly voted for someone in the most recent
+    Mad Scientist election.
+
+========================================================================
+
+Caller:                                 Taral
+
+Judge:                                  Sir Toby
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Taral:                        13 Oct 2008 22:00:22 GMT
+Assigned to Sir Toby:                   16 Oct 2008 05:52:41 GMT
+Sir Toby recused:                       30 Oct 2008 08:07:07 GMT
+Assigned to omd:                        30 Oct 2008 08:08:03 GMT
+Judged FALSE by omd:                    30 Oct 2008 22:13:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I am not a party to the Vote Market. As such, it cannot
+control or delegate my votes.
+
+========================================================================
+
+Judge omd's Arguments:
+
+This is a common misconception.  The Vote Market does not control or
+delegate anyone's votes.  In fact, SELL (2VP) is not a vote, not even
+a conditional one.  "Voting SELL" is a convenient abbreviation, but as
+the Vote Market explicitly states, SELL(X) is just shorthand:
+   SELL(X - Y) is shorthand for such a Sell Ticket, with a cost of X
+   and a vote of Y if the ticket is not filled;
+That is to say, purporting to vote SELL(X - Y) is exactly equivalent to
+posting:
+"I post a Sell Ticket, with a cost of X.  I conditionally vote as
+follows: (Endorse the filler of that Sell Ticket if it was filled, or
+Y if it was not filled) times my voting limit."
+(Spot the bug?  It exists in the VM as far as I can tell.  But that's
+not relevant to this case.)
+
+Which would be a perfectly reasonable shorthand (since there is no
+competing definition of a SELL pseudovote, nor any indication that
+Taral *wasn't* using the Vote Market definition) if the Vote Market
+allowed nonparties to post Sell Tickets.  Unfortunately it doesn't, so
+the Sell Ticket wasn't posted and I'd say the conditional vote was too
+ambiguous to be effective.  FALSE.
+
+========================================================================
+
+Judge omd's Evidence:
+
+http://agora.eso-std.org/notary-report#vote-market
+
+========================================================================

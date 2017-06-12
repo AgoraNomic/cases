@@ -1,0 +1,164 @@
+==============================  CFJ 3248  ==============================
+
+    In the last few minutes, G. transferred exactly one ruble to ais523.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           07 Jul 2012 06:45:48 GMT
+Assigned to scshunt:                    16 Jul 2012 06:30:41 GMT
+Judged FALSE by scshunt:                18 Jul 2012 23:22:02 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First, apologies for barring H. Judge Murphy; as e has judged both of
+the precedents that are under review here, this is just in the interest
+of looking for a second set of eyes on these cases.
+
+These cases are looking for an explicit revisit (and possible
+overturning or substantial narrowing of) CFJs 2737 and 3121.
+
+CFJ 2737 blandly and generally forbade infinite processes by calling
+them "at odds with ordinary language".  However, the rulings were silent
+on exactly where, in any given situation, we decide this departure
+between finite and infinite language occurs.  In other words, where is
+the chain broken?
+
+In CFJ 2737, it's pretty clear that pledges (at the time) did not
+trigger legal events (e.g. explicit actions), as pledging to do
+something wasn't actually doing it.  So it's reasonable that forbidding
+self-calling pledges was considered an extension of ISID (e.g. it's the
+same as forbidding "I cast an infinite number of votes").
+
+On the other hand, CFJ 3121 deals with explicitly-triggered events in
+the rules (where a promise can trigger another promise).  However, the
+precedent here blandly refers to CFJ 2737, without noticing the crucial
+difference: the Rules here DO make it possible for a promise to trigger
+another promise.
+
+I accept that it's a potential interpretation, though one I disagree
+with, to directly forbid self-calling (direct recursion), although no
+rule actually does forbid self-calling.  (In fact, original drafts of
+the promise rule show that forbidding nested promises was considered,
+but dropped on purpose to allow it, so the "legislative will" at the
+time was to allow such things, for what it's worth).
+
+Now, examine the two promises (Ping and Pong) in the current case.
+
+Pong, a legal process, is not self-referential, and knows nothing about
+the conditions of Ping.  And Ping knows nothing of Pong.  No single step
+in Ping or Pong is IMPOSSIBLE.  But, if we are to apply CFJ 2737, we
+would say that "the whole" is somehow impossible.  So, the question
+before the court is to determine *where* the breakdown occurs (hence the
+set of CFJs).
+
+The first ruble transfer?  Nothing wrong with that.  Calling a promise
+from another promise?  Nothing wrong there, either.  And so on.  If we
+say "it just fails" and nothing happens (i.e. not even the first ruble
+transfer occurs), ask this: if we replaced the conditions of Pong with
+"this promise is destroyed if it has been cashed 5 times", the process
+becomes finite, therefore "allowed":  but why should this change in Pong
+affect the first operation of Ping, before Pong is even called?
+
+Quite simply, any attempt to apply CFJ 2737 "automatically and
+generally" (that is, "fairly") to any loop, thus stopping the loop from
+doing anything, is in effect asking Agora to solve the Halting Problem!
+
+The other approach, of course, is to say, on a meta-level (one level
+removed from the process) we recognize that a particular trigger has
+"fallen into a loop" and select an arbitrary point to hit Ctl-C ("hey,
+the loop works once, but not twice.  or three times").  But the
+arbitrary nature of this (again, who gets the ruble?) is undesirable.
+
+There may be various options that stop this chain.  For example, one
+could say (in the manner of Go) that a "board position" (gamestate)
+can't "repeat" (e.g. once the ruble transfer loops, that's it).
+However, it would be trivially possible to do redo this loop to create
+sequentially-numbered golems (for example) so as to create a propagating
+state that does repeat (we have not done so out of respect for
+recordkeepors) so this in itself is an equally arbitrary choice.
+
+Faced with a choice between IMPOSSIBLE (solving the Halting Problem) and
+the arbitrary (deciding where the loop breaks), I think it's far better
+to select a third option:  substantially narrow or overturn the
+precedent of CFJ 2737 (for processes in general) or 3121 (for promises
+specifically).  That is, state that while direct self-reference (a
+promise promising itself) is generally not possible, if a finite step
+calls a finite step, and it *eventually* loops back, the only way to
+prevent it is direct legislation (e.g. stating legislatively that a step
+of type P, (e.g. "a promise") can't call/trigger any other step of type
+P and not through arbitrary judicial Halting of the process.
+
+In the absence of that legislation, this argues for FALSE on whether
+"exactly one" ruble was transferred, and UNDECIDABLE on whether a ruble
+CAN be destroyed by ais523.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+CFJ 1980 found that this sort of loop would create a paradox
+if it were in the rules rather than a contract. This one is driven by
+the rules.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+You specified "Conditions: This promise is not destroyed
+on cashing.".  Since it's unclear whether the promise not being
+destroyed on cashing is a condition for the promise to be cashed (in
+which case the promise couldn't be cashed) or a condition for the
+promise not to be destroyed on cashing (in which case, er... wait a
+second), it has no effect, so both promises were cashed once and then
+destroyed.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Henkin's theorem (which in effect says, that in a suitable
+logical system, an equivalent to "this sentence is true" is true).
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Apparently it's more commonly known as Löb's Theorem.
+
+Meanwhile, the more serious counterargument: the only sensible
+interpretation is as an abbreviation for "Conditions to not be destroyed
+on cashing: True".
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+I must avoid the question raised by these and judge TRUE, TRUE, and
+FALSE, respectively, as the creation of the promises Ping and Pong was
+unclear as to the nature of the conditions. They could be either
+conditions under which the promise can be cashed or conditions under
+which the promise is not destroyed (it is entirely reasonable for
+"this promise is not destroyed upon cashing" to be a condition for
+cashing). Thus their creation was ambiguous and invalid.
+
+I would gladly judge this case again given the opportunity.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+[CotC: same judgement with arguments was sent to a-d]
+
+========================================================================

@@ -1,0 +1,96 @@
+=========================  Criminal Case 2928  =========================
+
+    coppro violated the power-1 Rule 2215 by purporting to distribute a
+    proposal, when e could not distribute the proposal as it was not in
+    the Proposal Pool at the time.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by ais523:                       15 Dec 2010 20:40:21 GMT
+Defendant scshunt informed:             15 Dec 2010 20:40:21 GMT
+Assigned to G.:                         20 Dec 2010 07:01:39 GMT
+Judged NOT GUILTY by G.:                20 Dec 2010 18:22:58 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Wed, 2010-12-15 at 15:33 -0500, Sean Hunt wrote:
+> On 10-12-15 03:28 PM, ais523 wrote:
+> > NoV: coppro violated the power-1 Rule 2215 by purporting to distribute a
+> > proposal, when e could not distribute the proposal as it was not in the
+> > Proposal Pool at the time.
+> >
+>
+> I contest this. It should be clear from context, including me making it
+> distributable by paying a fee, that I also implicitly submitted the
+> proposal beforehand.
+
+I initiate a criminal CFJ on the matter. Unless otherwise specified,
+actions in a message happen in the order in which they're written. The
+distribution happened before the creation of the proposal itself (also,
+before making it distributable).
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The jurisprudence is that if the Promotor errs in describing a proposal
+e authored, e actually submits an alternate proposal and distributes it.
+This is no different.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+(not anymore, the rule was changed)
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The format I used to describe my proposal was the one I have long used
+to submit a proposal, and back when we had contracts, "I agree to the
+following pledge" wouldn't really work; you had to sort of rearrange the
+implicit interpretation of the thing.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+scshunt wrote:
+
+> From what to what?
+
+The precedent applied to Rule 106/2 through 18:
+  "A proposal is a document outlining changes..."
+but not to Rule 106/19 through the present:
+  "A proposal is a fixed body of text which has been made into a
+   proposal using a process specifically described in the Rules."
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Given this self-contained header:
+     Proposal: My Rights (AI=3, II=1, Distributable via fee, Urgent,
+                             authored by scshunt, Ordinary, ID 6943)
+
+then what the defendant did by saying "I distribute this [proposal
+to be submitted]" is neither worse nor harder to untangle than saying
+"I submit the following proposal and make it distributable and set its
+AI to 1 [proposal text]".  The order is sufficiently (implicitly)
+specified as not being the exact order of text.  It was successful and
+not illegal.  NOT GUILTY.
+
+========================================================================

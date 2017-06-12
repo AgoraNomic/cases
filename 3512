@@ -1,0 +1,82 @@
+==============================  CFJ 3512  ==============================
+
+      I paid Gaelan 1 Shiney via QPS.
+
+========================================================================
+
+Caller:                       Quazie
+
+Judge:                        Sprocklem
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by Quazie:             24 May 2017
+Assigned to Sprocklem:        24 May 2017
+Judged FALSE by Sprocklem:    08 Jun 2017
+
+========================================================================
+
+Caller's Arguments:
+
+1 - QPS isn't a valid agency, as it contains 4 non-conjunction words.
+(Will is a verb, not a conjunction)
+2 - Agencies allow people to be acted on behalf of, not acted as
+(though I'm unsure if there's a valid distinction there)
+
+========================================================================
+
+Caller's Evidence:
+
+QPS's Supposed Text:
+{{{
+  Quazie will Pay the Shinies (QPS)
+  Head: Quazie
+  Agents: All Players
+  Powers:
+    If Quazie makes a pledge in which e pledges 1 Shiny in return for
+    an action or statement, the first player to fulfil the action/
+    statement in the pledge can transfer a Shiny from Quazie to emself.
+}}}
+
+Agencies Rule text (in part):
+{{{
+  Rule 2467/1 (Power=1)
+  Agencies
+
+        An Agency is a document empowering persons to act on behalf of
+        another player. A player may establish an Agency With 24 hours
+        Notice and thereby become its Director by specifying the
+        properties of the new Agency:
+              a) A title, which must be exactly three words, not
+                 counting conjunctions, articles or prepositions.
+}}}
+Text of the pledge in question:
+{{{
+  I pledge to pay Gaelan 1 shiny in thanks for not creating ~25^3 if
+  he uses the powers within the QPS agency to pay emself said shiny.
+}}}
+
+Text of the supposed payment of a shiny
+{{{
+  On Sat, May 20, 2017 at 20:25 Gaelan Steele <gbs@canishe.com> wrote:
+  I act as Quazie via QPS to pay myself one shiny.
+}}}
+
+========================================================================
+
+Judge's Arguments:
+
+To start, Quazie is correct about the validity of QPS. A verb (even an
+auxiliary verb) is not any of "conjunctions, articles or prepositions"
+that are excluded from the 3 word limit on agencies.
+
+As to the second point -- about acting as vs. on behalf of -- they seem
+subtly different meanings, but I don't think it would affect if Gaelan 
+got paid.
+
+I judge CFJ 3512 FALSE.
+
+========================================================================

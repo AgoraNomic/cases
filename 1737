@@ -1,0 +1,97 @@
+==============================  CFJ 1737  ==============================
+
+    The pre-trial phase of a criminal case does not end until one week
+    after the judge informs the defendant of the case and invites em to
+    rebut the argument for eir guilt.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Wooble
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       29 Aug 2007 04:54:52 GMT
+Assigned to BobTHJ:                     29 Aug 2007 09:43:20 GMT
+BobTHJ recused:                         05 Sep 2007 11:47:24 GMT
+Assigned to BobTHJ:                     13 Sep 2007 08:48:59 GMT
+BobTHJ recused:                         20 Sep 2007 09:35:58 GMT
+Assigned to root:                       20 Sep 2007 09:35:58 GMT
+Judged TRUE by root:                    21 Sep 2007 17:38:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1504 reads, in part:
+
+                                                              In the
+      pre-trial phase the judge SHALL as soon as possible inform the
+      defendant of the case and invite em to rebut the argument for
+      eir guilt.  The pre-trial phase ends one week after the
+      defendant has been so informed.
+
+Does "so informed" imply "by the judge"?
+
+The defendant of CFJ 1712 (Zefram) was informed (by emself, in eir
+role as Clerk of the Courts), but not by Judge Wooble.  If this CFJ
+is judged TRUE, then CFJ 1712 is still in its pre-trial phase, its
+judicial question on culpability has not yet become applicable, and
+Judge Wooble's purported judgement was INVALID.
+
+I believe this is a list of all criminal cases since the adoption
+of the no-judgement-during-pre-trial-phase clause.  (All times are UTC.)
+
+  CFJ      Defendant informed      Judgement delivered
+  ----------------------------------------------------
+  1708     Mon 13 Aug 07:22:29     Wed 29 Aug 03:43:59
+  1712    *Thu  2 Aug 09:06:08     Wed 15 Aug 16:12:49
+  1715     Mon  6 Aug 18:14:21     Tue 14 Aug 12:59:35
+  1716     Mon  6 Aug 18:37:23     Wed 22 Aug 05:58:20
+  1733     Tue 28 Aug 01:01:16     not yet
+  1735     not yet                 not yet
+  1736     Wed 29 Aug 04:45:33     not yet
+
+========================================================================
+
+Gratuitous Arguments by Zefram:
+
+I was notified by judge BobTHJ in message
+<56732cfd0708061050hb74424dsd6c31b4bf4ebd3e1@mail.gmail.com>.  BobTHJ
+later recused emself and was replaced by judge Wooble.  I think that I
+had been "so informed" by judge BobTHJ, and there was no need to repeat
+the process just because of a change of judge.
+
+========================================================================
+
+Judge root's Arguments:
+
+I take "so informed" to mean "informed in the manner just described",
+which demands in this context that the informer must be the judge of
+the case.  If we were to accept the interpretation the caller
+suggests, then the relevant phrase of Rule 1504 should instead read
+"after the defendant has been informed of the case".  I therefore
+judge CFJ 1737 to be TRUE.
+
+Additionally, I accept Zefram's gratuitous arguments.  The rule merely
+requires that the informer be the judge of the case at the time of
+informing, not necessarily the final judge of the case.  Otherwise, a
+change of judge at any point in a criminal case's lifetime, even long
+after it has been settled, would suddenly invalidate the end of the
+pre-trial phase and everything hence; clearly, this would be
+unacceptable.
+
+========================================================================

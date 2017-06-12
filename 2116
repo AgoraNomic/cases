@@ -1,0 +1,115 @@
+==============================  CFJ 2116  ==============================
+
+    The contract quoted above currently has Ivan Hope CXXVII as a party.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  omd
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by Wooble:                       28 Jul 2008 19:59:35 GMT
+Assigned to omd:                        02 Aug 2008 07:02:53 GMT
+Judged UNDETERMINED by omd:             10 Aug 2008 01:09:37 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, Jul 27, 2008 at 1:20 PM, Sgeo <sgeoster@gmail.com> wrote:
+> I agree to the following contract:
+> {
+> This is a public contract.
+> Only myself and ais523 may join this contract.
+> As soon as ais523 joins this contract, e may, and shall, as soon as
+> possible, one time only, by announcement act on Sgeo's behalf to cause
+> Sgeo to give em 30VP. 2 weeks after ais523 joins this contract, Sgeo
+> may, one time only, by announcement, act on ais523's behalf to cause
+> ais523 to give Sgeo 30VP.
+> After ais523 receives 30VP from Sgeo by acting on Sgeo's behalf, Ivan
+> Hope CXXVII can and may, by announcement, one time only, act on Sgeo's
+> behalf to cause Sgeo to give Ivan Hope CXXVII 50VP, if and only if
+> doing so counts as fulfilling Sgeo's obligations towards Ivan Hope
+> CXXVII
+> }
+
+========================================================================
+
+Caller's Arguments:
+
+1. The contract itself purports to regulate becoming a party to it;
+however, at the time Ivan Hope CXXVII attempted to become a party it
+wasn't yet a contract, so arguably Rule 2198 doesn't apply to it as it
+only applies to contracts.
+2. Sgeo attempted to cease to agree to the contract before Ivan Hope
+CXXVII's joining was announced in the Public Forum.  However, if Ivan
+Hope CXXVII could become a party to the contract, it's ambiguous when
+eir joining became effective; before e joined the agreement was not a
+public contract and thus possibly not affected by Rule 2178's timing
+clause.
+3. In light of the above ambiguities, Ivan Hope CXXVII's attempted
+contract change may have had no effect due to Rule 2197.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Rule 2178 (Public Contracts) says:
+      If the text of a potential contract is published with a clear
+      indication that the contract will be public when it forms, then
+      it is identified as a public contract when it becomes a
+      contract.
+
+Therefore, the not-yet-a-contract would not yet have been identified
+as public when Ivan Hope CXXVII agreed to it (but only immediately
+thereafter, when it allegedly became a contract).  Besides, the
+membership of the alleged contract did not change: it was {Sgeo, Ivan
+Hope CXXVII} from the beginning, so the last paragraph of Rule 2178
+does not apply.
+
+Rule 1742 (Contracts) says:
+      Contracts are binding agreements governed by the rules.  Any
+      agreement made by one or more persons with the intention that it
+      be binding on them and governed by the rules is a contract
+      (unless it would automatically terminate as a contract).
+
+      A contract automatically terminates if the number of parties to
+      it falls below the number of parties the rules require for the
+      contract.  If other rules do not specify such a number for a
+      contract, then a contract requires at least two parties.
+I think there is a loophole here, actually; rather than never creating
+a contract, Sgeo's purported agreement successfully created a
+non-pledge contract with two parties, which was immediately
+terminated.  However, this is not relevant to the case: if Ivan Hope
+CXXVII agreed to something with Sgeo, that forms a completely
+different contract.
+
+Clearly, Sgeo did not literally mean that e was agreeing to a
+contract.  What is implied by the announcement is that Sgeo was
+announcing eir agreement to form a contract with the specified text,
+and with the implied set of parties {Sgeo, ais523}.
+
+There is no evidence that Sgeo intended to form the contract with Ivan
+Hope CXXVII, although e might have said so explicitly to test whether
+forming a contract with someone counts as their joining it.  It is
+also unclear whether Sgeo intended IRC to be a suitable mechanism for
+agreeing to the contract (instead, perhaps e intended that eir
+agreement only counted towards ais523 consenting in the Public Forum,
+in line with the spirit of public contracts).  So this "agreement"
+between Sgeo and Ivan Hope CXXVII was invalid and never constituted a
+contract, because Sgeo's announcement purporting to agree to a
+contract was not sufficient to create it as such-- although if it had,
+its formation with the appropriate set of parties would have been
+blocked neither by the text of the contract nor by the failure of the
+"change" in membership to be announced to a Public Forum.
+
+I judge UNDETERMINED, because the statement ("The contract quoted
+above currently has Ivan Hope CXXVII as a party.") is nonsensical if
+the text quoted above is not part of a contract.
+
+========================================================================

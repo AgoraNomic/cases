@@ -1,0 +1,44 @@
+==============================  CFJ 1705  ==============================
+
+    It is possible for the Speaker to hold the office of Clerk of the
+    Courts.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  BobTHJ
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       18 Jul 2007 17:46:47 GMT
+Assigned to BobTHJ:                     18 Jul 2007 21:20:15 GMT
+Judged TRUE by BobTHJ:                  24 Jul 2007 15:36:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It is not possible for em to do so for any length of time, due to
+Rule 1450, but it may be possible for em to do so for an instant.
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+R1450 provides a conditional check:
+
+IF a player holds more than 2 exclusive offices THEN they are removed
+from one of them. Therefore, in order to be removed from an office
+under this rule, the player must first possess two conflicting
+offices. R1450 triggers the moment any player holds two such offices,
+immediately rectifying that situation. However, for the briefest
+period of time, the player does indeed hold both offices, otherwise
+R1450 would be unable to have its intended effect. Therefore I rule
+TRUE that it is indeed possible for the Speaker to hold the office of
+CotC, although only for an infinitesimal amount of time.
+
+========================================================================

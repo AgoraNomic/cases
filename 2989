@@ -1,0 +1,46 @@
+==============================  CFJ 2989  ==============================
+
+    Wooble has more than 0 points.
+
+========================================================================
+
+Caller:                                 Walker
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Walker:                       11 Apr 2011 20:21:06 GMT
+Assigned to Murphy:                     15 Apr 2011 22:10:02 GMT
+Judged FALSE by Murphy:                 15 Apr 2011 22:33:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I think that this is FALSE, FALSE and TRUE respectively.
+
+========================================================================
+
+Caller's Evidence:
+
+from the recent voting results:
+
+*6985  1.0  Walker      no equity cases
+*6989  2.0  Wooble      Bring Back Points
+*6991  1.0  omd         Hey, I was using that
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Again, multiple events in the same message occur in order when that
+order is unambiguous, so 2988 and 2990 are straightforward.  As for
+2989, I believe precedent is that a new rule clause reacting to the
+adoption of proposals does not react to the adoption of the proposal
+that enacted it.
+
+========================================================================

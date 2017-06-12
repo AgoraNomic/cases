@@ -1,0 +1,51 @@
+==============================  CFJ 2880  ==============================
+
+    ehird can make emself the holder of IADoP by announcement
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        07 Oct 2010 13:35:52 GMT
+Assigned to G.:                         17 Oct 2010 20:42:28 GMT
+Judged TRUE by G.:                      18 Oct 2010 04:26:08 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments/evidence coming soon;
+specifically, just copy-and-paste the ones on ais523's case here.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+When a conditional is paradoxical, it does not, in fact, have a truth
+value.  The conditional itself is undecidable, that is a fact.
+
+However, that doesn't mean that that truth value cascades to other
+dependencies on the truth value.
+
+You can say that the condition is NOT met, and NOT not met, where the
+capitalized NOT is evaluated one level up (e.g. a meta-evaluation) so
+that "NOT not" does not cancel out into "met".  This is consistent
+with many philosophies of "resolving" self-paradox, as being neither true
+nor false, and in retrospect I'm very surprised it has never been used
+as an argument here.  After all, there is nothing in the rules that
+forbids using a meta-evaluation on a conditional of this nature, or
+using the NOT met in the particular rule as a meta-evaluation and
+it certainly falls within both common sense and the spirit of the game.
+
+Since the condition is NOT met (and it doesn't matter if it's also
+NOT not met) the dependent action fails.  ehird remained active and
+CAN (or COULD) become IADoP by announcement.  TRUE.
+
+========================================================================

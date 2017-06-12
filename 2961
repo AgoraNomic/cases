@@ -1,0 +1,98 @@
+==============================  CFJ 2961  ==============================
+
+    agora-public@googlegroups.com is a Public Forum.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          17 Jan 2011 00:17:12 GMT
+Assigned to G.:                         04 Feb 2011 22:14:05 GMT
+Judged TRUE by G.:                      09 Feb 2011 17:15:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Sun, Jan 16, 2011 at 7:08 PM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+> On 11-01-16 05:54 PM, Ed Murphy wrote:
+>>
+>> Proposal 6947 (Ordinary, AI=1.0, Interest=1) by Wooble
+>>
+>> New Forum
+>>
+>> Flip the Publicity of the mailing list with the address
+>> agora-public@googlegroups.com (on the web at
+>> http://groups.google.com/group/agora-public) to Public.
+>
+> This proposal has no effect; nothing grants it the power to do so and
+> flipping Publicity is a regulated action.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Rule 106 does.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+Rule 106 says that
+       When a proposal that includes
+       such explicit changes takes effect, it applies those changes to
+       the gamestate. If the proposal cannot make some such changes,
+       this does not preclude the other changes from taking place.
+
+This does not actually grant it any powers it doesn't already have, it
+merely instructs the proposal to attempt to perform its text.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+R106 states:
+                                          When a proposal that includes
+       such explicit changes takes effect, it applies those changes to
+       the gamestate.
+
+This is a sufficient and direct way of saying that the gamestate changes
+happen, and thus empowers the changes to occur when the proposal takes
+effect.
+
+However there is a problem.
+
+Before the above text existed (inserted 28-Nov-2009), R106 implicitly
+deferred to R2140 and R1688, and those two rules determined that the
+only changes that took place were those that weren't secured by rules
+of higher power.
+
+Now, however, R106 blatantly states that the changes take effect and
+are applied, and makes no qualifications for power.  (It states that
+invalid changes are generally severable, but doesn't state what makes
+a change invalid!)
+
+So, empowered by R106, which now conflicts with and numerically
+overrules R2140 and R1688, a Proposal CAN (since November-2009) make
+gamestate changes regardless of its power versus the secured Power of
+the change.
+
+The later text of R106:
+                         "its power is set to the minimum of four and
+       its adoption index, and then it takes effect."
+does not actually overrule or conflict with the earlier assertion that
+the gamestate changes are applied regardless of the power of the
+proposal.
+
+The exception is for Rule Changes, which R105 governs and wins out over
+R106, again by numerical precedence.
+
+========================================================================

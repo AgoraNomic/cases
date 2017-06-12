@@ -1,0 +1,46 @@
+==============================  CFJ 3027  ==============================
+
+    It is POSSIBLE for the above promise to be cashed.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      23 May 2011 00:25:39 GMT
+Assigned to Murphy:                     26 May 2011 14:33:13 GMT
+Judged TRUE by Murphy:                  26 May 2011 14:35:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The condition is a false statement; no condition exists that
+requires the player cashing the promise must have registered earlier in
+that message (and no rule would otherwise impose that requirement). Thus
+this condition can never be satisfied.
+
+========================================================================
+
+Caller's Evidence:
+
+On 11-05-17 02:00 PM, Alex Smith wrote:
+> I create the following promise, and transfer it to the Tree:
+> Text: "I register."
+> Conditions: The player who cashes the promise must have registered
+> earlier in the same message in which they cashed the promise.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I find it reasonable to interpret "must have registered" in this promise
+as an obvious gloss for "has registered".
+
+========================================================================

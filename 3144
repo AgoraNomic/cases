@@ -1,0 +1,67 @@
+==============================  CFJ 3144  ==============================
+
+    Rule 2351 indirectly allows players to make arbitrary modifications
+    to the game state.
+
+========================================================================
+
+Caller:                                 FSX
+
+Judge:                                  Machiavelli
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by FSX:                          11 Jan 2012 06:24:14 GMT
+Assigned to Machiavelli:                14 Jan 2012 20:21:05 GMT
+Judged FALSE by Machiavelli:            15 Jan 2012 20:39:32 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2339 allows players to cause Agora Nomic to perform an action with Agoran
+Consent or without objection. Rule 2351 allows Agora to make arbitrary changes
+to the game state. Therefore, by instructing Agora to make a given
+modification to the game state, a player can modify the game state
+arbitrarily.
+
+========================================================================
+
+Gratuitous Arguments by FKA441344:
+
+This is FALSE
+due to Rule 105 and case 1499 and the fact that Agora does not
+currently have a power.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+Well, I can see two possible interpretations of this statement. One is
+"Rule 2351 indirectly allows each individual player to make arbitrary
+modifications to the game state", which I think is false. The other is
+"Rule 2351 indirectly allows players in tandem to make arbitrary
+modifications to the game state", which is more interesting. I will
+interpret the statement in the latter way.
+
+Rule 2339 says that Agora Nomic is intended to be a person, and if it
+is a person, players can cause it to take arbitrary actions. Is it, in
+fact, a person? Rule 2328 states that it is, as long as it is an
+agreement between two or more players. I don't believe that all
+players of Agora necessarily agree to Agora, but I think we can assume
+that at least two of them do. So, Rule 2339 does say that players CAN
+cause Agora to act.
+
+Rule 2351 then says that Agora can make arbitrary changes to the game
+state. However, Agora is not an instrument, and Rule 2140 implies that
+Agora cannot modify instruments. Rule 2140 takes precedence in this
+case, so Agora cannot actually make arbitrary changes to the game
+state; its changes are limited to those that do not modify
+instruments.
+
+Therefore, I judge FALSE.
+
+========================================================================

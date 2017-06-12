@@ -1,0 +1,195 @@
+==============================  CFJ 2324  ==============================
+
+    Craig is a player.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Wooble
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       03 Jan 2009 15:28:21 GMT
+Assigned to ais523:                     08 Jan 2009 06:54:26 GMT
+Judged TRUE by ais523:                  12 Jan 2009 11:05:19 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Craig mentioned on IRC the other day that e is the same Craig listed in
+the Registrar's report as having been a player from 2002 to 2003.  By
+implication, e hasn't attempted to register since then, so the 30-day
+limit isn't an issue.
+
+It's plausible that Craig intended to register if and only if eir
+contract with Warrigal succeeded in assigning a referent to "Markos
+Sophisticus Maximus".  It's also plausible that that contract failed
+to do so; it attempts to define MSM as an office, which Rule 1006
+only allows rules to do.
+
+Warrigal has questioned Rule 1006's restriction, in light of the
+general perception that contracts can successfully define dependent
+actions pertaining to their internal state, despite Rule 1728's
+similar restriction.  I can think of a few plausible resolutions:
+
+  1) Dependent Contract Changes are backed by the first paragraph of
+     Rule 2198, so those should be okay.
+
+  2) Other contract-defined dependent actions:
+     a) don't work, but we didn't realize it until recently.
+     b) do work, because internal contract state is pragmatic based on
+          whatever the parties accept.
+
+========================================================================
+
+Caller's Evidence:
+
+Caller's evidence, part 1 of 2:  Text of the contract in question
+
+> This is a public contract and a pledge. Warrigal CAN terminate this
+> contract by announcement.
+>
+> The Badge of Markos Sophisticus Maximus is a singleton asset whose
+> recordkeepor is Markos Sophisticus Maximus. Ownership of the Badge of
+> Markos Sophisticus Maximus is restricted to parties to this contract.
+> Initially, the Badge of Markos Sophisticus Maximus is owned by
+> Warrigal. Markos Sophisticus Maximus is an imposed office held by the
+> owner of the Badge of Markos Sophisticus Maximus.
+
+Caller's evidence, part 2 of 2:  Craig's purported registration
+
+> I suspect that MSM couldn't register before, being a player already.
+> But now that it's me, and I'm not a player...
+>
+> Markos Sophisticus Maximus registers.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I always interpreted contract-defined dependent actions as being
+shorthand. The Gnarlier Contract defined a switch-like object, which is
+generally believed to have worked. It wasn't a switch due to not being
+defined by the rules and not having a recordkeepor, but describing it as
+like a switch was the easiest way for everyone to understand how it
+worked. As far as I can tell, contract-defined dependent actions are
+similar; they aren't actually rules-defined dependent actions and aren't
+backed by the rules, but it's an unambiguous abbreviation for, for
+instance, "This contract can be changed if all the same conditions are
+met as would be met for a dependent action without 3 objections." So I
+don't think there's a crisis here. As for whether the registration
+worked, I have no idea; I don't really understand what the scam in
+question is trying to do.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+This case hinges around what exactly happened when Craig sent the
+message in question. The sentence in question was
+{{Markos Sophisticus Maximus registers.}}
+
+The only definition of Markos Sophisticus Maximus that has been
+suggested, or that seems plausible in context, is the definition that is
+given by a pledge by Warrigal (of which Craig is obviously aware, being
+a party to it):
+{{
+Markos Sophisticus Maximus is an imposed office held by the
+owner of the Badge of Markos Sophisticus Maximus.
+}}
+
+Now, it is clearly impossible for a contract to create offices. The
+relevant precedent here is CFJ 1930, which found that when a contract
+uses a rules-defined term, it is using the rules-defined meaning not the
+English meaning, unless it explicitly says otherwise. An office is
+defined by the rules as "a role defined as such by the rules"; so the
+contract cannot create an office. So Fight Arena failed, because
+creating a "secret rule" is something that although impossible,
+certainly made sense. A contract obligating someone to create a secret
+rule is much the same as a contract obligating someone to do any other
+impossible thing; ridiculous and you'd be a fool to join, but legally
+parsable. In the case of contract-defined dependent actions, meaning has
+to slip a bit, because the circumstances are different. Rule 1728 allows
+people to perform rules-defined dependent actions dependently. There's
+nothing preventing a contract saying that something CAN be done w3o, or
+whatever; however, rule 1728 doesn't give such actions any special
+meaning, so the phrase just sticks around with game-custom meaning (and
+I believe that it's sufficiently clear to allow the first paragraph of
+rule 2198 to cause dependent-action-like contract changes to work if
+they use the same wording as invokes rule 1728).
+
+So what about contracts that purport to define an office? We first need
+(per the precedent of CFJ 1930) to expand the definition:
+
+{{
+Markos Sophisticus Maximus is a role defined by the rules to be an
+office but not an elected office, held by the owner of the Badge of
+Markos Sophisticus Maximus.
+}}
+
+So we have here a case of a contract which is clearly lying, in much the
+same way as a contract which says "This contract has power 4". CFJ 1933
+covered the case of a contract which effectively said "This contract is
+the backing document for <asset defined by another contract>"; the
+judgement there was that each contract had its own internal gamestate,
+and they could coexist quite happily, producing crop reports (which
+contradicted each other) and disregarding each other (and incidentally,
+CFJ 1923 found that in such a case, referring to a "crop" would
+therefore be ambiguous unless it was clear which contract was meant from
+context). Applying this precedent to the current case would imply that
+the contract believed there was a rules-defined office when the rules
+believed there weren't; however, it is not at all clear whether
+contracts should by default be assumed to have rules-contradictory
+internal gamestate. (There have been contracts with internal gamestate
+different from the rules, mostly external nomics which somehow ended up
+as Agoran contracts; for instance, Flapjack specifically stated that its
+gamestate used different definitions from those in the rules, and had a
+convention to show which meaning was used where. However, this is
+different from defining false facts to be true.) So this precedent would
+encourage TRUE; but it is shaky and not entirely applicable.
+
+However, there is a more compelling argument which also indicates TRUE.
+If the impossible part of the above definition is deleted, we get
+{{
+Markos Sophisticus Maximus is a role, held by the owner of the Badge of
+Markos Sophisticus Maximus.
+}}
+The part of the contract's definitions that purports to contradict the
+rules - which is whether Markos Sophisticus Maximus is rules-defined -
+is irrelevant here. The definition as a role is (per CFJ 1930, and per
+common Agoran language definitions) part of the definition of something
+as an office; and we should not ignore the entire sentence just because
+it contradicts the rules, but instead merely the part of it that
+contradicts the rules. So it is clear that, regardless of how conflicts
+with the rules are resolved, that from the point of view of the
+contract, Markos Sophisticus Maximus was Craig at the time e sent the
+message in question. It is very common shorthand (and r754-unambiguous)
+to use a term defined only in a contract as shorthand for the definition
+used by the contract; for instance, "I transfer a prop to the SoA" would
+be taken as expanding to "I transfer a prop to the player that the
+Agoran Agricultural Association defines to be the Secretary of
+Agriculture", as that is the only plausible referent for SoA in the
+current Agoran gamestate; and likewise, "Markus Sophisticus Maximus
+registers" expands to "The player which Warrigal's recent unnamed pledge
+defines to be the holder of Markus Sophisticus Maximus registers". (It
+is a rules-defined property of offices that the name of the office can
+be used to refer to its holder, although even without the definition it
+would be a pretty clear abbreviation (when recently attempting to
+transfer an asset to an office itself, not its holder, the player who
+attempted to do so had to officially clarify this in the message); and
+likewise, that is the only plausible meaning in this case.) So in other
+words, Craig's message expanded to "Craig registers", and it was an
+unambiguous abbreviation for that per rule 754. Craig's announcement was
+therefore indeed "announcing that e registers" per rule 869, so the
+message in question succeeded in making em a player. As I know of
+nothing that might have deregistered em in the meantime, I conclude that
+Craig is indeed a player (now and at the time the CFJ was called), and
+therefore I judge CFJ 2324 TRUE.
+
+========================================================================

@@ -1,0 +1,149 @@
+==============================  CFJ 1413  ==============================
+
+    Rule 1016 prohibits a frozen Player from becoming a Contestant in a
+    Contest.
+
+========================================================================
+
+Caller:                                 Steve
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Steve:                        20 Sep 2002 01:57:36 GMT
+Assigned to Taral:                      20 Sep 2002 18:18:36 GMT
+Judged TRUE by Taral:                   27 Sep 2002 06:55:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1016 states that:
+
+      A frozen player... is not permitted to perform any of the actions
+      defined by the Rules that non-frozen Players are explicitly
+      permitted by the Rules to perform, with the exception of changing
+      eir activity level, and deregistering.
+
+R1539 states that:
+
+      A Player becomes a Contestant by notifying the Contestmaster and
+      paying the prescribed Entry Fee to the Contest Fund.
+
+Becoming a Contestant is an action that non-frozen Players are
+explicitly permitted by the Rules to perform, and is therefore
+porihibted for frozen Players by R1016.
+
+Request for Annotation:
+
+If Judged TRUE, I ask that the Judge Order the Rulekeepor to Annotate
+R1016 with the Statement of this CFJ.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Supposition:  An broad interpretation of Rule 1016 conflicts with Rule
+101.
+
+Reason for supposition:
+
+To enter Agora as a Player is to enter a binding social contract.  By
+nature, all contracts contain elements of prohibition and constraint.  In
+Agora, we are constrained by the fundamental statement of the Contract,
+the opening lines of Rule 101, to act within the Rules:
+
+>      All Players must always abide by all the Rules currently in
+>      effect, in the form in which they are currently in effect.
+
+In return, we are granted rights and privileges of membership in Agoran
+society.  But what is the basic nature of the rights and privileges of
+Agoran citizenship?
+
+The fundamental core of Agora (part of the "Spirit of the Rules", if you
+will) is that it is a permissive society with a permissive contract.  As
+evidence of this, Rule 101, in addition to stating the requirements of the
+contract (abiding by the Rules), contains a statement that lies at the
+heart of the fundamental rights available to all Agorans:
+
+>      Whatever is not prohibited or regulated by the Rules is
+>      permitted and unregulated, with the sole exception of changing
+>      the Rules, which is permitted only when the Rules explicitly or
+>      implicitly permit it.
+
+Rule 101, taken as whole, lays out for all to see that the Agoran Contract
+is in its nature a permissive Contract, and not a prohibitive one.  As
+such, the assumption of permission should only be turned aside in the face
+of obvious and direct prohibition contained in the Rules.  Such obvious
+and direct prohibitions may be explicit or implicit, but Rule 101 should
+contrain us to interpret them as narrowly as possible.
+
+The current Rule 1016 reads, in part:
+
+>                                          A frozen player may not be
+>      required by the rules to perform any duty or action, and is not
+>      permitted to perform any of the actions defined by the Rules
+>      that non-frozen Players are explicitly permitted by the Rules to
+>      perform, with the exception of changing eir activity level, and
+>      deregistering.
+
+The question is: how should this blanket prohibition be treated?  Here are
+two possibilities out of a range of interpretations:
+
+ 1.  A frozen Player is not permitted to perform actions explicitly
+     allowed to non-frozen players; eg, any time the Rules explicitly
+     state "An Active player may...", or "a non-frozen player may..."
+     that action is explicitly permitted to non-frozen players and thus
+     prohibited to frozen players.  However, any time the rules state
+     "A Player may..." this isn't a explicit permission for the non-
+     frozen, Rule 1016 does not apply, and thus a frozen player may
+     perform the action.
+
+ 2.  Any statement of "A Player may..." is explicitly directed to
+     non-frozen players and frozen players, and since it is explicitly
+     directed to the non-frozen (as well as the frozen!), it is forbidden
+     to the frozen by Rule 1016.  (Note that this may conflict with the
+     permitting rule itself, which may or may not be higher in precedence
+     than Rule 1016 at Power=2).
+
+An interpretation such as #2, above, is a broad prohibition based on
+indirect phrasing, and thus is not in keeping with the requirement for
+obvious and direct prohibitions mandated by Rule 101.  On the other
+hand, interpretation #1 interprets the prohibitions of Rule 1016 as
+narrowly as reasonably possible, and thus is in keeping with this
+principle.
+
+Thus interpretation #1 (narrow) should be a preferrable precedent to
+interpretation #2 (broad), in agreement with the Rules in general, and in
+agreement with fundamental rights of Agorans which Rule 101 continues to
+enshrine.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Firstly, Goethe's argument that "actions ... that non-frozen Players are
+explicitly permitted by the Rules to perform" should be construed
+narrowly. I disagree. Any action that the Rules permit Players in
+general to perform is implicitly permitted to non-frozen Players also.
+
+Secondly, the caller's argument that this provision applies to joining
+Contests. I agree with this, but not for the reasons stated. R1539
+merely states the method by which a Player can join a Contest.
+Permission to join the Contest is granted by R1446:
+
+      Any Player is permitted to be a Contestant or a Contestmaster of
+      any Contest, unless that would conflict with that Contest's
+      Regulations, or the Rules.
+
+Since this clearly constitutes the "explicit permission" that R1016
+calls for, it follows that frozen Players may not join Contests.
+
+As for the Order, I deny the request. I feel that it would unnecessarily
+burden the Recordkeepor.
+
+========================================================================

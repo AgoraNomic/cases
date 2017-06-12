@@ -1,0 +1,142 @@
+==============================  CFJ 1709  ==============================
+
+    rule 1742's obligation to act in accordance with contracts is
+    binding on non-player parties to R1742 contracts.
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by Zefram:                       26 Jul 2007 13:14:35 GMT
+Assigned to root:                       26 Jul 2007 13:19:48 GMT
+root recused:                           04 Aug 2007 07:27:23 GMT
+Assigned to omd:                        04 Aug 2007 07:27:23 GMT
+Judged IRRELEVANT by omd:               05 Aug 2007 21:01:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1742 no longer limits contracts to players; non-players can become
+parties to a R1742 agreement.  Rule 1742 then purports to oblige all
+the parties, including non-players, to abide by that contract.
+
+Rule 1503 says that the rules are to be adjudicated as a binding agreement
+*between the players*.  This suggests that the rules are binding only
+on players.  CFJ 1686 made a determination to that effect concerning the
+scope of contracts, but in that case the contract was not the rules.
+Applying R1503 and CFJ 1686 together appears to yield the conclusion
+that non-players are not bound by R1742 to abide by their contracts,
+and so that a non-player cannot be punished for breach of contract.
+
+Taking this reasoning further, one could argue that this unenforcability
+means that non-players cannot effectively become parties to contracts.
+Even if they qualify as parties to the contract, the impossibility of
+the contract imposing obligations suggests that they can't be members
+of a partnership, as defined by rule 2145.
+
+In the other direction, the fact that a contract is formed with the
+explicit intent that it be governed by the rules might change the
+enforcability.  Presumably such intention includes the intent that
+non-player parties be bound by any relevant rules.  This intent goes up
+against the power=3 rule 1503.  Clearly R1503 dominates here, but perhaps
+its "in general" qualifier provides sufficient room to include non-player
+contract parties as implicit parties to the contract of the rules.
+
+========================================================================
+
+Judge omd's Arguments:
+
+I.
+[CFJ 825: Players must obey the Rules even if no Rule says so.]
+Although that CFJ's statement was quite a bit confusing (the CFJ is
+available at http://www.fysh.org/~zefram/agora/agora_vanyel1.tar.bz2) the
+precedent is clear.  One relevant argument is as follows:
+  If R101 were repealed, then it would not be an interpretation of the
+  by-then repealed rule that told us that we should all follow the
+  rules, but rather the implicit meta-rule which we all agree to respect
+  when we agree to play any game at all.
+
+The summary in the Rules says "players", but the logic applies equally to
+non-player parties to R1742 agreements who *have* agreed to follow the
+Rules and are, in fact, playing the game.  The use in CFJ 825's judges'
+arguments of the terms "should", "must", "have to" follow the rules are
+equivalent to the ordinary language definition of "binding", yielding a
+TRUE result.
+
+II.
+R1503 may well actually imply a judgement of FALSE, but only because it
+*uses* the term "binding".  It is R1742's "...be governed by the rules."
+vs. R1503's
+
+      In general, the Rules shall be adjudicated as if the Rules were
+      a binding agreement between all Players
+
+However, the sentence uses "in general" and does not explicitly deny the
+ability of non-Players to enter into the mentioned binding agreement (such
+as with an "only").  While Rule 1503 is more powerful than R1742, it does
+not come into conflict with Rule 1742 which implies TRUE.  Additionally, I
+interpret the repealing of Rule 1503 subsequent to the calling of this CFJ
+as "game custom" type evidence that its language is obsolete.
+
+III.
+IF the rest of the arguments say TRUE, R101 (v) does use the word 'bound'
+and may cause the hypothetical agreement to sometimes be non-binding if
+the non-player just agreed to the agreement intending that it be
+governed "under Agoran law", and maybe doesn't have an Internet
+connection, leading to a judgement of UNDECIDABLE.  However, Rule 1503
+(with equal power) says:
+      The proposal, fora, and registration processes shall, prima
+      facie, be considered to be protective of a Player's rights and
+      privileges with respect to making and changing the agreement to
+      be bound by the rules.
+I interpret this as applying to other persons and their rights and
+privileges where no other rule attempts to contradict it, and therefore
+Rule 101 (v) does not apply and UNDECIDABLE is not appropriate.
+
+IV.
+R1742 says that they must intend that it be "governed" by the rules, i.e.
+the contract implicitly includes the rules, and if the party intends that
+the contract (which includes the rules) be binding, R1742 would state that
+it is binding, and therefore yield TRUE.
+
+V.
+If Rule 217 applies, especially because many of these arguments (including
+this one) are slippery and a matter of the judge's opinion, I would find
+the "best interests of the game" to include a judgement of TRUE.
+
+VI.
+Most of the preceding assumes that "binding" is (a) defined as "binding
+under Agoran law", and (b) not specifically defined even in this case.
+This should be examined.  The only things that are described as "binding"
+under Agoran law are binding agreements.
+      Any group of two or more persons may make an agreement among
+      themselves with the intention that it be binding upon them
+
+Compare to a similar but non-binding agreement: the only difference defined
+in Rule 1742 is that failing to abide by a binding agreement is a Rule
+violation.  It can be argued that Rule 1742 defines "binding" in this
+manner.  Violating the rules is obviously a rule violation, therefore the
+rules are prima facie binding to any entity that has any obligations under
+them.
+
+Therefore I support a judgement of TRUE on this CFJ.  However,
+
+VII.
+The veracity of the statement of this CFJ has no effect, as far as I can
+tell, on the game at that time or at this because of the replacement of
+civil cases with criminal cases.  Something that has no effect on the game
+is not relevant to it.
+
+========================================================================

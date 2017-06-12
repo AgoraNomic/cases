@@ -1,0 +1,71 @@
+==============================  CFJ 2021  ==============================
+
+    If an entity is both a public message and a forum, it is necessarily
+    a public forum.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Quazie
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Jun 2008 08:06:14 GMT
+Assigned to omd:                        21 Jun 2008 05:54:11 GMT
+omd recused:                            21 Jun 2008 15:10:43 GMT
+Assigned to root:                       21 Jun 2008 15:57:37 GMT
+root recused:                           12 Jul 2008 15:29:24 GMT
+Assigned to Quazie:                     12 Jul 2008 15:36:52 GMT
+Judged FALSE by Quazie:                 16 Jul 2008 18:35:53 GMT
+
+========================================================================
+
+Judge Quazie's Arguments:
+
+R478 has two seperate definitions of Public, one a Switch state  (a)
+and one directly related to messages.(b):
+
+(a)
+      Publicity is a forum switch with values Public, Discussion, and
+      Foreign (default), tracked by the Registrar.
+
+(b)
+      A message is public if and only if it is sent via a public forum
+      or is sent to all players and contains a clear designation of
+      intent to be public.  A person "publishes" or "announces"
+      something by sending a public message.
+
+This CFJ is really asking if the public defined in (b) can be
+transferred to that of (a), that is does a messages public-ness
+transfer to the forum in question.
+
+R478 also states:
+
+      The Registrar may change the publicity of a forum without
+      objection as long as:
+
+      (a) e sends eir announcement of intent to that forum; and
+
+      (b) if the forum is to be made public, the announcement by which
+          the Registrar makes that forum public is sent to all
+          existing public fora.
+
+This regulates the fliping of the Publicity switch of a Forum, and as
+a result the Publicity can not be switched to Public by having a
+Forgein Forum be a Public Message.  As such, even though the entity in
+question is both a public message and a Forum, it is a Public Message
+and a Forgein Forum.  As a result I judge this CFJ FALSE.
+
+========================================================================

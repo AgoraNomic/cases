@@ -1,0 +1,96 @@
+==============================  CFJ 1965  ==============================
+
+    ehird's Announcement of Chaos caused at least one contract to
+    terminate.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       22 May 2008 12:02:11 GMT
+Assigned to omd:                        23 May 2008 13:37:41 GMT
+Judged FALSE by omd:                    29 May 2008 20:23:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I suspect FALSE. The contract in question defines an
+Annoucement of Chaos as something which destroys all rules and then
+terminates the contract. Because ehird's annoucement did not (per CFJ
+1958) destroy all the rules, it therefore was not an Annoucement of Chaos,
+thus the contract's termination condition was not met. (The way I've
+phrased the question also requires a subsidiary point to be considered;
+if a CFJ refers to something that doesn't exist (the Annoucement of Chaos
+in this case), what is the appropriate judgement for the CFJ?)
+
+========================================================================
+
+Judge omd's Arguments:
+
+The issue is whether "destroys all rules and then terminates the
+contract" in its entirety fails if the first part fails.  The
+precedent of CFJs 1638-45 tells us that, were the two actions
+(destroying all rules and terminating the contract) both amendments to
+a rule, doing both in the same sentence would be a single rule change.
+
+However, this is only because the rule changes in CFJs 1638-45 were
+both amendments to the same text.  The described changes could have
+been written as "Amend Rule xxxx by replacing the entire body with
+(amended version)".  In other words, it would be possible to make the
+changes explicitly inseparable, where no rule could say "Halfway in
+the middle of this amendment, have someone win the game.".
+
+In the case of destroying all rules then terminating the contract, the
+changes are definitely separable.  There is no way those actions could
+be worded such that a Rule which said that upon the destruction of a
+rule, someone wins the game would not have effect between the two
+actions.
+
+All this proves is that CFJs 1638-45 are irrelevant.  So we must
+interpret it without precedent, and with respect to ordinary language.
+
+I think that "I register and I deregister" would indeed be two
+indepedent actions, so even if the first failed, the second would
+succeed.  But here there are two reasons why terminating the contract
+should be dependent on destroying all rules:
+
+i. The word "then" implies that the former has no meaning without the
+context of the latter.
+ii. An Announcement of Chaos is something that has both effects.  If
+ehird's Announcement of Chaos did not have both effects, then it was
+not an Announcement of Chaos at all.  There is a contradiction, so it
+has no effect.
+
+But there is also a third reason:
+iii. Terminating the contract is a Contract Change.  Although we're
+leaning toward the action being unsuccessful, it's definitely
+ambiguous whether terminating the contract was intended or allowed.
+Therefore, Rule 2197 says it has no effect.
+
+========================================================================
+
+Judge omd's Evidence:
+
+Evidence (1):
+> I intend to make the following contract with Ivan Hope CXXVII: {This
+contract's
+> mechanism for being terminated is an Announcement of Chaos, which destroys
+> all rules and then terminates the contract.}
+
+Evidence (2):
+Rule 2197/1 (Power=1.5)
+Defining Contract Changes
+...
+     If a Contract Change is ambiguous or its permissibility cannot
+     be determined with certainty at the time it is attempted, then
+     that change has no effect.
+
+========================================================================

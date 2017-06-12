@@ -1,0 +1,103 @@
+==============================  CFJ 1218  ==============================
+
+    The insertion of a blank line in a Rule is a Rule change[.]
+
+========================================================================
+
+Caller:                                 Palnatoke
+
+Judge:                                  t
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Palnatoke:                    18 May 2000 18:08:15 GMT
+Assigned to t:                          18 May 2000 23:44:43 GMT
+Judged FALSE by t:                      24 May 2000 22:13:47 GMT
+
+========================================================================
+
+Judge t's Arguments:
+
+I find this statement to be FALSE, for the reasons I give below.
+
+To determine the truth value of this statement we need to consider what
+kinds of changes to a Proposal are Rule Changes and what kind of a
+standing whitespace has within Rules' texts. Rule 105 defines four types
+of Rule Changes, two of which need be considered here:
+
+      * The amendment of the text of an existing Rule; or
+      * Any change to a substantive property of a Rule other than
+        its text.
+
+The question about the essence of whitespace is answered partly in Rule
+1339, which states that variations in whitespace or capitalization in
+quotation of text in an existing Rule does not create irregularities or
+ambiguities. This Rule appears, then, to confirm the status of whitespace
+as a part of a Rule's text. The Rule, however, only applies in the case of
+a quotation of a Rule's text to be removed or replaced, and in that case
+whitespace is explicitly defined to be inconsequential. That would support
+a position that whitespace is not a substantive property of a Rule, but
+this is possible only if it is not an integral part of the Rule's text.
+
+The foundation on which the dreams of power of whitespace rests crumbles
+as we read Rule 107, which defines valid media for Rule Changes. According
+to the Rule, which takes precedence over 1339, print and electronic media
+have an equal standing. It is obvious that print and electronic media have
+different types of whitespace. In a handwritten page, especially when the
+page has been written by this judge, it is not always clear whether a
+certain area with no text is a blank line. Similarly, the idea of multiple
+blank lines may not be relevant to such a document.
+
+The question is, then, whether the alterations of whitespace in different
+representations of a Rule are in any way relevant. This may be an
+important question if a handwritten Proposal is ever submitted. Even
+though Rule 1339 only applies in certain circumstances, it is only time
+this matter is discussed in the Rules. Since accurate depiction of
+whitespace is not required in one case where it might be, and the
+conversion of documents from print to electronic versions and vice versa
+poses difficulties if small variations in the whitespace of the text can
+be important, we find that it is in the best interests of the game, as
+well as supported by a longtime game custom, that Rule 1339 is taken as a
+guideline in all pertinent game actions.
+
+Another question is whether reformatting a Proposal is a Rule Change. This
+statement may very well be true, but it is a completely different thing
+than the statement of this cfj. Blank lines may be used in formatting
+electronic plain text version of a Rule. Another version of the Rule may
+use some other method to distinguish paragraphs from each other, such as
+<p> tags in html.
+
+On a final note, it is the Judge's humble opinion that Agora would benefit
+greatly if we would have some kinds of standards for Rule text formatting.
+Maybe an Agoran Rules DTD would be in order. Such a thing would remove
+many possibilities of ambiguities within Proposals.
+
+========================================================================
+
+Judge t's Evidence:
+
+Rule 1339/6 (Power=3)
+Precision in Rule Changes
+
+      Exact precision is required in the specification of Rule
+      Changes; any ambiguity or irregularity in the specification of a
+      Rule Change causes it to be void and without effect.
+
+      Variations in whitespace or capitalization in the quotation of
+      text in an existing Rule to be removed or replaced does not
+      create an irregularity or ambiguity, for the purpose of this
+      Rule.  Any other variation, however, does.
+
+Rule 107/1 (Power=3)
+Rule Changes Must Be Written Down
+
+      Any proposed Rule Change must be written down (or otherwise
+      communicated in valid media) before it is voted on. If adopted,
+      it must guide play in the form in which it was voted on.  For
+      the purposes of this rule, print and electronic media, including
+      mailing lists, are valid media.
+
+========================================================================

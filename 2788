@@ -1,0 +1,222 @@
+==============================  CFJ 2788  ==============================
+
+    I CAN judge CFJ 2785
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       26 Apr 2010 09:35:37 GMT
+Assigned to Machiavelli:                04 May 2010 13:23:56 GMT
+Machiavelli recused:                    08 May 2010 21:53:36 GMT
+Assigned to scshunt:                    11 May 2010 05:20:10 GMT
+scshunt recused:                        06 Jun 2010 20:57:49 GMT
+Assigned to Yally:                      06 Jun 2010 21:10:05 GMT
+Yally recused:                          20 Jun 2010 15:49:39 GMT
+Assigned to G.:                         27 Jun 2010 17:34:08 GMT
+Judged FALSE by G.:                     29 Jun 2010 00:06:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In general, with the standard English meaning of the words, it is
+possible to submit something to someone even after it already exists (a
+document, say). Note that the rules define the "initiation" of inquiry
+cases, but not the "submission", apart from rule 2246, which defines
+what it means to submit a CFJ to the Justiciar. As a result, I see no
+reason why it isn't possible to submit a CFJ that already exists to the
+Justiciar.
+
+The next issue is to do with whether the terms "CotC" and "Justiciar" in
+rule 2246 refer to only obligations and powers with regards to the case
+that exist by virtue of the office, or to all obligations and powers of
+the people who happen to hold CotC and Justiciar at the time. The second
+reading seems to be the more natural one; the correct answer to "who is
+the CotC" would almost certainly be "Murphy", and likewise "ais523" to
+"who is the Justiciar". Nothing in the rule in question implies that the
+wording applies only to "official" duties, rather than to the person
+holding them. Among other weirdness, this implies that I am the judge of
+the CFJ in question - despite having submitted it - because I've swapped
+places with Murphy with respect to hit, and e was assigned as its judge
+at the time.
+
+Following the argument so far, I observe that after I'd submitted CFJ
+2785 to the Justiciar, but before I (as the Justiciar) had accepted it,
+it was the case that "the CotC CANNOT perform any duties with regards to
+the case, and does not incur any obligations with regards to it".
+Unfortunately, this prohibition lasts until the "time limit expires or
+the Justiciar rejects the case"; the first won't happen until next week,
+and the second won't happen at all (because I accepted it and can only
+do one or the other). Nothing in rule 2246 implies that that particular
+restriction doesn't get swapped between the CotC and Justiciar too (this
+is almost certainly a bug), so as a result, I'm unable (as enforced by a
+power-2 rule) to incur obligations with regards to the case, and in fact
+CANNOT perform duties relevant to it for an entire week. So a literal
+reading of rule 2246 implies that I CANNOT judge CFJ 2785 now, and NEED
+NOT judge it - ever! (because I was protected from incurring obligations
+with respect to it at the time I would have gained the obligation to
+judge it.
+
+However, it should also be noted that the precedence clause in rule 2246
+is buggy; it applies only to the switching of powers and obligations
+between the CotC and Justiciar, not to the protection on the CotC
+incurring obligations as a result. As a result, there seems to be a
+straight-up contradiction between rule 2246 (power 2) which claims that
+I CANNOT and NEED NOT judge the case, and rule 2158 (power 2) which
+claims that I CAN judge the case, and SHALL do so as soon as possible.
+Rule 2158 would seem to win here due to having the lower ID number,
+meaning that in this particular case, judgement seems to be possible.
+
+But, there's another twist - a bug in rule 1030, which defines
+precedence between rules. Rule 1030 specifically allows for /rules/ to
+claim precedence over each other; but not, apparently, individual
+paragraphs within rules. Rule 2246 claims precedence over rule 2158
+(among several other power-2 rules) for the purpose of switching powers
+and obligations, although not for the purpose of performing duties. But
+the structure of rule 1030 is that one rule claiming precedence over
+another (of equal power, with no contradiction, etc) means that its
+provisions are used entirely to determine the precedence between the
+rules, with the ID numbers left uncompared. There's therefore quite a
+tension here, between rule 1030 saying that rule 2246 is responsible for
+its relative precedence with rule 2158, and yet rule 2246 failing to
+define it; both the resolutions of "rule 2246 takes precedence in
+everything because it takes precedence in something, and the high-power
+rule 1030 assumes that rules work like that", and "rule 2158 takes
+precedence with respect to blocking obligations, as rule 2246 only
+specifies precedence in a different case, and game tradition implies
+that ID numbers should take precedence even if rule 1030 forgets to
+state they do in that case" seem rather weak. I'm not sure how to
+resolve this particular mess, which is why I called the CFJs. (If the
+rules really do leave a precedence issue undefined, I'm not even sure
+what the most appropriate judgement is. UNDECIDABLE?)
+
+========================================================================
+
+Caller's Evidence:
+
+Excerpts from rule 2246:
+
+A judicial case may be submitted to the Justiciar. For such a
+case, the Justiciar CAN, in a timely manner and by announcement,
+either accept or reject the case. Until the time limit expires
+or the Justiciar rejects the case, the CotC CANNOT perform any
+duties with regards to the case and does not incur any
+obligations with regards to it.
+
+If the Justiciar accepts the case, e switches places with the
+CotC entirely with regards to that case; e receives all
+obligations and all powers the CotC would receive, and the CotC
+receives all obligations and powers the Justiciar would receive.
+This includes any secondary duties required to fulfill
+obligations (such as rotating the bench). This takes precedence
+over Rules that would otherwise assign duties and powers
+regarding a judicial case to the Clerk of the Courts or the
+Justiciar.
+
+Excerpt from rule 2158:
+
+When a judicial question is applicable and open, and its case
+has a judge assigned to it, the judge CAN assign a valid
+judgement to it by announcement, and SHALL do so as soon as
+possible, unless e is recused from the case before the time
+limit for doing so has expired.
+
+Excerpt from rule 1030:
+
+If at least one of the Rules in conflict explicitly says of
+itself that it defers to another Rule (or type of Rule) or
+takes precedence over another Rule (or type of Rule), then
+such provisions shall be used to resolve the conflict, unless
+they lead to contradictions between each other; otherwise,
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, I accept the caller's arguments that R2246 allows an existing
+judicial case to be submitted to the justiciar, regardless of where the
+case is in the judicial process (open or closed, assigned already or
+not).  In fact, in R2246, submitting is not creation/initiation, so a
+CFJ must be initiated before it is so submitted.  Announcing "I submit
+the following [new] CFJ to the justiciar" is actually a (reasonable
+administrative) shorthand for "I initiate the following CFJ, then I
+submit it to the justiciar" which are two separate actions in sequence,
+the latter action affecting an already-existing CFJ.  This is a (perhaps
+unintentional) feature and not a bug; if the CotC is part of a scam who
+reveals a conspiracy during judicial assignment, any player can switch
+the case over to the justiciar for the appeal.
+
+Now, the second paragraph of R2246 speaks of what obligations and duties
+the CotC or Justiciar *would* receive or exchange under certain
+circumstances.  Here, I disagree with the caller.  In order for this to
+apply (in the Rule's wording) to what "would" be incurred for any
+[arbitrary] CotC or justiciar (instead of referring to specific players
+who might also be judges), it must be read as applying only to powers
+and duties that are explicitly assigned to the respective offices
+(regardless of who holds them).  The precedence-claiming clause, in
+particular, only claims precedence over rules assigning duties and
+powers to either the CotC or Justiciar; here I read this literally, it
+does *not* claim precedence over rules assigning duties and powers to
+judges, even if those judges happen to be CotC or Justiciar.
+Therefore, R2158 and R1868 generally take precedence, and the original
+judge remains the judge while the duties that the rules associate with
+the respective offices switch as intended.  Also note, that as is
+precedence with offices, the switched duties and obligations follow the
+justiciar position if someone else becomes the justiciar.
+
+However, there is a rub.  If the judge happens to be the CotC, e remains
+bound by this clause:
+                                         "Until the time limit expires
+       or the Justiciar rejects the case, the CotC CANNOT perform any
+       duties with regards to the case and does not incur any
+       obligations with regards to it."
+
+Now here, Murphy, as CotC, clearly cannot perform *any* duties (even
+judge's duties) with respect to the case - I agree with the caller that
+this sentence, in particular, is not restricted to CotC duties.  So
+during this window Murphy CANNOT judge it.  But Murphy was assigned to
+be the judge of CFJ2785 *before* the case was submitted to justiciar.
+And this clause does not remove previously-incurred obligations; it just
+prevents new ones from being incurred.  So during this period ("time
+limit or rejection", which is in fact a bug in the acceptance case as
+the caller points out) Murphy is required to judge, yet CANNOT.  When
+the time limit expires, e CAN judge again, or e can be recused (by the
+justiciar) and the justiciar CAN (and MUST) reassign the case.
+Fortunately, Murphy is protected by R1504(e) from being punished for the
+conundrum.
+
+These arguments lead to judgements of FALSE on each of 2787-2789; ais523
+(the justiciar at the time the case was called) received neither
+judicial position, powers, nor obligations due to R2246.
+
+I'll also note that, both the CotC and Justiciar attempted to judge this
+case when they COULD NOT; therefore as of this writing the case remains
+open.  The CotC CAN judge it now, or the current justiciar CAN recuse em
+and reassign it.
+
+However, I'll note another loophole.  The deadline for both judgement
+and reassignment has passed, and at the time it passed both CotC and
+justiciar had excused reasons of uncertainty not to act.  Therefore, if
+they never do these things, there is no punishment that can be applied.
+
+========================================================================

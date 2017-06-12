@@ -1,0 +1,327 @@
+==============================  CFJ 2821  ==============================
+
+    As a result of the above win announcement, a person other than comex
+    satisfied the Winning Condition of Legislation.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+Appeal:                                 2821a
+Decision:                               REMAND
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          27 Jul 2010 17:52:11 GMT
+Assigned to G.:                         29 Jul 2010 02:16:11 GMT
+Judged FALSE by G.:                     29 Jul 2010 16:53:54 GMT
+Appealed by scshunt:                    29 Jul 2010 19:24:30 GMT
+Appealed by omd:                        29 Jul 2010 19:54:26 GMT
+Appealed by Yally:                      29 Jul 2010 20:03:17 GMT
+Appeal 2821a:                           29 Jul 2010 20:03:17 GMT
+REMANDED on Appeal:                     31 Jul 2010 16:53:48 GMT
+Assigned to G.:                         31 Jul 2010 16:53:48 GMT
+Judged FALSE by G.:                     12 Aug 2010 20:56:46 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+This is a win announcement: A proposal (6740) awarding a win to comex
+has been adopted.
+
+(What?  It's true, even if the proposal also awarded a win to other players.)
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Proposal 6740 is a "proposal awarding a win to one or more
+persons", so "all those persons" satisfy the Winning Condition.
+
+It's less obvious, though, whether the announcement was of the form that
+rule 2188 requires, but I think it probably was.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Would "win announcement: Proposal 6740 was adopted"
+suffice?  If not (as I read it), "awarding a win to one or more
+persons" is part of the format of the announcement, so whatever is
+specified in place of 'one or more persons' (as long as the
+announcement is actually a win announcement, i.e., correct) is used
+for the following text.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, Rule 2186/8 reads in part:
+
+      A win announcement is a factually correct announcement
+      explicitly labeled as a win announcement and/or clearly stating
+                                                   ^^
+      that one or more persons win the game.
+
+As the "or" indicates, so as long as a factually correct announcement
+clearly states that one or more persons win the game, it is a win
+announcement, even if not labeled "win announcement".  Some of the
+gratuitous arguments for these cases show that we have not been paying
+attention to the "or", but it's fairly clear and hard to interpret
+otherwise.
+
+Next, Rule 2188/1 reads:
+
+      Upon a win announcement that a proposal awarding a win to one or
+                                     ^^^^^^^^^^^^^^^^^^^^^^^
+      more persons has been adopted, all those persons satisfy the
+                   ^^^^^^^^^^^^^^^^
+      Winning Condition of Legislation.
+
+      Cleanup procedure: The condition cannot be satisfied again for
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+      the same proposal.
+
+Taking these together, the actual Win Announcement for Legislation is
+the first (correct) announcement that a proposal with the proper
+awarding text has been adopted, as the text of a proposal satisfying
+R2188 would also satisfy text for a win announcement as per R2186[1].
+The announcement that does so[2], of course, is the Assessor's first
+clear and correct voting report on the proposal in question[3].
+
+Therefore, the presupposition of this CFJ, that the quoted text is a
+win announcement[4] is not correct.  FALSE.
+
+---------
+Footnotes
+
+[1]
+One question that the Callers of the CFJs *attempted* to get at: "does a
+win announcement have to list all winners, either to be a win
+announcement or to cause unlisted players to win?"  The question is
+whether "clearly stating that one or more persons win the game" in R2186
+is satisfied by stating literally "one or more persons has won the game"
+or whether, to be considered "clear", the announcement must explicitly
+list the persons in question.  We can't answer this generally for all
+types of wins.  For example, Solitude (R2245) is platonic (perhaps
+accidentally), not requiring a win announcement at all.  For a Win by
+Legislation, R2188 is clear that the announcement is question is that a
+"proposal has been adopted", not that a particular person has won.
+Determining the identity of the winners is therefore delegated to the
+proposal text.  So for a Win by Legislation, the win announcement must
+still state correctly that "one or more persons" won to literally
+satisfy R2186.  Then, to be sufficiently clear, it is both necessary and
+sufficient for the announcement to explicitly reference the proposal,
+and the proposal must specify the set clearly (CFJ 2808 found that the
+proposal in question did, provided the set of winners is non-empty).
+If, optionally, the win announcement, *in addition to referencing the
+proposal*, correctly identified one or more of the winners (an incorrect
+identification would make the win announcement factually incorrect), the
+announcement would still cause "all those persons" specified in the
+proposal (not just those listed in the win announcement) to win.
+
+[2]
+This is all assuming there are actually a nonempty set of winners
+defined by the proposal in question (must be nonempty to satisfy "one or
+more").  CFJ 2808 opined on wording of the proposal but took for granted
+that the set of winners was non-empty and (more importantly) that at
+least one member of the set was reasonably determinable; this is assumed
+here as well, but not further explored.
+
+[3]
+A possible counterargument is timing: that the Assessor's announcement
+can't simultaneously announce the adoption of the proposal and be a win
+announcement, as the win "hasn't happened" at the time of the
+announcement.  In that case, the first clear and correct statement of
+winning was the CotC's announcement of the results of CFJ 2808.  Neither
+the CFJ call nor the judge's delivery of judgement published the full
+facts of the win in one place, but the CotC's announcement of the case
+results clearly announced that it was TRUE that one or more players won
+due to the proposal in question, meeting both R2186 and R2188 criteria.
+This reasoning would still result in a judgement of FALSE, albeit with
+an error rating for the timing of the actual win announcement and
+different implications for past and future win timing.
+
+[4]
+Yes, this "or" is something that we haven't noticed before, which may
+affect the timing of past Legislation Wins, in particular the whole
+Succession List reordering that happened with the Chamber wins a couple
+months ago.
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+I intend, with 2 support, to appeal this judgment, as it implies that
+the win announcement is in fact the adoption of the proposal, but does
+not fully address whether a posting the text of a proposal purporting to
+award a win is the same as announcing that one or more players win the
+game, which is required to satisfy Rule 2186.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The following announcements all work to be a win announcement for
+ALL persons specified as winning in Proposal 6470:
+
+"One or more persons has won due to Proposal 6740 being adopted".
+
+"comex has won (see Proposal 6470)" [provided comex is in the set,
+correctly identifying one of the "one or more persons" directly
+communicates that one or more persons has won].
+
+"Proposal 6470 has been adopted due to these votes.
+  [...]
+  Text of Proposal 6470:
+  [Reasonably-specified nonempty set of persons] has won."
+
+
+These don't work:
+"Proposal 6740 has been adopted" (no mention of one or more persons winning)
+"One or more persons has won" (no mention of proposal)
+"comex has won" (no mention of proposal)
+
+
+This is a borderline case:
+"Win announcement: proposal 6470 has been adopted."
+Because it might be implicit in the term "win announcement" that one
+or more persons has won.  But I'd personally say it doesn't satisfy the test
+of "clearly".
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I support coppro's appeal, as the judge hasn't fully explained why,
+out of two competing sets of persons, both of which are required to be
+present by the rules-- the one in the win announcement, and the one in
+the proposal-- the latter is used as the referent of "all those
+persons".  For example, consider the following hypothetical rule text:
+
+      Upon an announcement that a proposal awarding a win to one or
+      more persons has been adopted, all those persons satisfy the
+      Winning Condition of Legislation.
+
+This is the same as R2188, but with "a win announcement" changed to
+"an announcement".  Clearly, under this version, there is the
+potential for anyone to win the game by falsely claiming a proposal
+awarding em a win has been adopted-- there is no actual proposal to
+provide a set of "all those persons", but the text is only concerned
+with announcement.
+
+Why does adding the requirement that the announcement is correct
+change the referent?
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The win announcement rule (r2186) says, a bit awkwardly, that a win
+announcement must consist of two parts.  The first is a factually
+correct statement [hereafter the "content" of the win announcement].
+The second is a label identifying the announcement as a win
+announcement.  That label can either be (a) the text "win announcement"
+or (b) a statement that one or more persons won the game.  The actual
+requirements of content that set up various win conditions are
+described in individual win conditions.
+
+The problem here is that the label of type (b) is identical in
+information to the required content of many announcement-triggered
+winning conditions.  So it's possible to just state "these persons won
+the game due to X" and take the common-sense approach that the
+statement serves as both label and content that one or more persons
+won the game.  It's also possible to attempt to confound label and
+content to set up contradictions, which is what we have to tease apart
+for this win by legislation.
+
+First: the relatively "easy" issue, raised by Appellant comex.
+
+All the text in R2188 refers to the content of the win announcement,
+not the label, and it's clear that the required content is the fact of
+the Proposal's adoption.  The "all those" reference is a reasonably
+clear reference to the "one or more persons" earlier in the sentence,
+which is the "persons" that the proposal awards.  If we parse this rule
+with parentheses it works like this:
+    Upon a win announcement that a [proposal awarding a win to one or
+    more persons] has been adopted, all those persons satisfy the
+    Winning Condition of Legislation.
+so that "all those persons" refers to all the persons in the proposal.
+This is clearly an intended and reasonable reading.  On the other hand,
+comex would have us read it like this:
+    Upon a [win announcement] that a proposal awarding [a win to one or
+    more persons] has been adopted, all those persons satisfy the
+    Winning Condition of Legislation.
+attempting to link up the "win announcement" and "one or more persons" to
+"all those persons in the win announcement but skipping the part about
+the proposal.  This latter grouping is just not a strong or reasonable
+reading.
+
+Therefore an attempted win announcement creates a winning condition for
+the full set of persons named as winners in the proposal (even if only
+a subset of them are named as the "one or more"), or for none of them
+(if the win announcement as a whole is incorrect or otherwise invalid),
+but never for a subset of them, and never for anyone outside the set.
+
+Second: I myself raised the issue of whether a win announcement could
+be self-affirming, that is, if it could simultaneously award a win and
+be a true statement that someone wins.  After some of the threads in
+discussion that all don't have an issue with self-affirming-ness, I'll
+say that the self-affirming works fine.
+
+Third:  coppro raised the issue about whether the language "purports"
+is an issue.  In the Agoran world of "doing by announcement", all an
+entity can "truly" do is claim, state, purport, announce, or otherwise
+say that e performs an action, then the rules determine if e actually
+does so.  While "purport" has some cultural baggage (e.g. has the tone
+of a doubted accusation) I find that it is not a substantial difference
+in meaning when an entity is claiming to act by announcement/body of
+text.  Therefore, a proposal or person saying "I announce that I do X,
+I claim that I do X, I purport that I do X" is all the same in terms
+of effect, and the same as the passive version "by this [statement/
+proposal/etc], X is hereby done."  And a Rule stating "when a proposal
+purports X" is also triggered when a proposal "says" X, "claims" X
+or otherwise announces X.  So a proposal can state any of these things
+and it is purporting to do X, thus triggering R2188, and this issue has
+no further effect on the current case.
+
+Finally, when the Assessor correctly announced:
+  The following proposals were adopted [...]
+  [...]
+  Proposal text:  [player set Y] won the game.
+
+did this constitute a win announcement?  Here, the statement that one or
+more persons won the game (e.g. the label) is buried deep within the
+proposal text (the content) and surrounded by other proposal texts and
+separated from the note that the proposal was adopted.  In a more direct
+situation, (e.g. if someone isolates the proposal and announces it) then
+the content might serve as the label.  However, here I reverse my
+previous stance, and say that the context was in fact too separate,
+there wasn't a well-contained or well-labeled win announcement there.
+
+So, the Assessor's announcement was not a win announcement.  Where does
+that leave us?  According to the voting record, comex voted for proposal
+6740, and this is a clear public acknowledgment of its existence.
+Therefore, comex was not a member of this set (why does everyone think
+that e was?  By the Assessor's report it's pretty clear e wasn't):
+  Award a win to player who did not acknowledge the existence of this
+  proposal in a public or discussion forum after the time it was
+  submitted and before the time it was adopted.
+Therefore, the alleged win announcement that "a proposal awarding a win
+to comex [among others] has been adopted" contains a false statement,
+so is neither true nor accurate, so is not a win announcement.
+
+Therefore, as the quoted statement was not a win announcement, it did
+not award a win to anyone.  Both 2821 and 2822 are FALSE.
+
+========================================================================

@@ -1,0 +1,44 @@
+==============================  CFJ 2930  ==============================
+
+    If the text in the evidence section were added to a Power-1 Rule, it
+    would be the definition of adoption index of decisions for the
+    purposes of higher-powered Rules.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          16 Dec 2010 17:53:04 GMT
+Assigned to ais523:                     20 Dec 2010 07:03:06 GMT
+Judged FALSE by ais523:                 05 Jan 2011 23:22:40 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+>>       Decision adoption index (referred to as "adoption index" in the
+>>       context of Agoran decisions; not to be confused with the
+>>       adoption index of a proposal) is a switch possessed by Agoran
+>>       decisions, tracked by omd; the possible values for instances of
+>>       the switch are the indices other than 3, plus the default value
+>>       "none".
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Whether a decision has an
+adoption index is clearly a substantive aspect of several high-powered
+rules, and thus even trying to escalate via rule 2162 would not do
+anything, as it's insufficiently powerful to override, say, rule 2196 or
+955. (This is the case whether or not rule 2162 can actually be affected
+like that, which is irrelevant to the case.)
+
+========================================================================

@@ -1,0 +1,60 @@
+==============================  CFJ 3302  ==============================
+
+    scshunt CAN, by announcement, cause a proposal to take effect.
+
+========================================================================
+
+Caller:                                 Wes
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wes:                          10 Apr 2013 18:16:46 GMT
+Assigned to Murphy:                     14 Apr 2013 07:36:21 GMT
+Judged FALSE by Murphy:                 14 Apr 2013 07:40:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+We believe this statement to be false, as it conflicts with Rule 106,
+which states:
+
+      If there is no Agoran Decision to adopt a particular proposal
+      that has an outcome of ADOPTED, that proposal CANNOT take
+      effect, rules to the contrary notwithstanding.
+
+This would appear to be a clear conflict, and as Rule 106 has greater
+Power, this would appear to render that element of Rule 2380
+ineffective.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+for Agoran Decisions that do not have an outcome of
+ADOPTED, I think the answer is uncontroversially FALSE. For Agoran
+Decisions that do have an outcome of ADOPTED (and, in particular, ones
+with a Power greater than 1), the question is more interesting.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+That clause was intended to allow scshunt to cause a high-AI proposal that had
+previously been adopted (so high-Power) to take effect again.  It was ruled in
+CFJ 3277 that this constitutes a substantive change to the proposal and so
+fails.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+scshunt can do this for some proposals (AI = 1 and
+outcome = ADOPTED) but not others.
+
+========================================================================

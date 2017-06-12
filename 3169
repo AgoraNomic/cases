@@ -1,0 +1,117 @@
+==============================  CFJ 3169  ==============================
+
+    The Prisoner is a player.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  FKA441344
+Judgement:                              TRUE
+
+
+Judge:                                  FKA441344
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           16 Feb 2012 17:43:35 GMT
+Assigned to FKA441344:                  24 Feb 2012 00:29:57 GMT
+Judged TRUE by FKA441344:               27 Feb 2012 23:58:41 GMT
+Reconsideration requested by G.:        28 Feb 2012 01:54:58 GMT
+Reconsideration requested by FSX:       28 Feb 2012 12:26:19 GMT
+Reconsideration requested by ehird:     28 Feb 2012 12:51:35 GMT
+Assigned to FKA441344:                  28 Feb 2012 12:51:35 GMT
+FKA441344 recused:                      29 Feb 2012 07:41:38 GMT
+Assigned to ais523:                     09 Mar 2012 02:58:53 GMT
+Judged TRUE by ais523:                  10 Mar 2012 07:10:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+E never explicitly consented (R101iii).
+
+========================================================================
+
+Caller's Evidence:
+
+I create a slave golem named "The Prisoner".
+I state, for the record, that I will never cause The Prisoner to
+deregister.
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+The Prisoner is an entity defined by the rules, which acts when the
+rules say it acts. Per case 2196b, phrases in the rules generally mean
+something rather than nothing. Therefore, when the rules caused The
+Prisoner to be a player, they implicitly caused it to explicitly
+consent to become a player. I judge this case TRUE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+I intend to request reconsideration with 2 support.  "implicitly caused
+it to explicitly" is as much doublespeak nonsense as "war means peace".
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, some context: CFJ 2092 found that it was impossible to cause an
+entity to become a player if it would end up in a situation where its
+rule 101(vi) rights were violated. It's not too much of a stretch to
+conclude that the same thing applies for creating an entity in a
+registered state, and for other clauses of rule 101. So the question
+collapses to whether the Slave Golem's rule 101 rights would be violated
+upon its creation.
+
+I conclude that rule 101(vii) implies that there is a must be a
+mechanism for a Slave Golem to deregister, which I don't think anyone
+seriously disputes (it can deregister via its owner's announcement,
+which would destroy it but which is far from impossible). Rule 101(v)
+implies that there must be a mechanism for a Slave Golem to make posts,
+but this is also possible via its owner's announcement; and Rule 101(ii)
+follows similar lines. Rule 101(i) is almost tautologously satisfied.
+Rules 101(ii) and (iv) seem to be irrelevant to this CFJ. Rule 101(iii)
+is the sticking point; it implies that it's possible for a Slave Golem
+to refuse to become party to any given binding agreement, and implicitly
+does so unless it explicitly does not. Although the rules have been
+considered a binding agreement under certain past rulesets, they haven't
+been under other past rulesets, and that raises the issue of whether
+they are right now. Rule 101(iv) implies that they aren't, by listing
+amendments to agreements together with rule changes; this would be
+redundant if the rules were themselves an agreement for the purposes of
+rule 101. This is not in itself binding evidence, though. CFJ 3144 found
+that it was possible to be a player without agreeing to Agora; this is
+arguably not quite the same thing as agreeing to its /ruleset/, but it's
+pretty close.
+
+I judge CFJ 3169 TRUE, considering that the Prisoner has not agreed to
+Agora's rules in the sense of an agreement, and is not part of such an
+agreement. (It's still bound by the rules, due to its nature as an
+Agoran legal construct; but it hasn't agreed to the rules any more than
+natural persons have agreed to the laws of physics. In each case, the
+relevant person is physically incapable of violating the Agoran rules /
+the laws of physics respectively, but that does not make them binding
+agreements.)
+
+========================================================================
+
+Gratuitous Evidence by omd:
+
+"implicitly caused it to
+explicitly" has been game custom since CFJ 2101.  (Although, as
+usually happens when I read my past judgements, the writing comes off
+as rubbish, I stand by my last few paragraphs.)
+
+========================================================================

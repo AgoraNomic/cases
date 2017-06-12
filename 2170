@@ -1,0 +1,69 @@
+==============================  CFJ 2170  ==============================
+
+    There is a contract called The Agoran Civil Service.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Sep 2008 20:06:37 GMT
+Assigned to woggle:                     23 Sep 2008 08:31:38 GMT
+Judged FALSE by woggle:                 23 Sep 2008 21:29:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I'm not convinced that the intent of the dependent action is
+sufficiently similar to the action itself to terminate the contract; nor
+am I completely certain that a contract reading "This contract
+immediately terminates itself" is capable of immediately terminating
+itself, especially if the contract is a public one, and given that the
+precedences of contract termination rules are screwed up at the moment.
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, 2008-09-15 at 10:27 -0400, Geoffrey Spear wrote:
+> On Wed, Sep 10, 2008 at 5:44 PM, Geoffrey Spear <geoffspear@gmail.com>
+wrote:
+> > I intend, without 3 Objections, to amend the Agoran Civil Service
+> > contract by replacing its entire text with "This contract immediately
+> > terminates itself."
+>
+> Having received only 1 objection, I terminate the Agoran Civil
+> Service.  All members of the contract are to report for termination as
+> well at their earliest convenience.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I believe the action itself is a sufficiently clear synonym, with the
+intent quoted in context, for terminating the contract by means of
+replacing its text with "This contract immediately terminates itself."
+
+As for whether contract security is a problem here:
+
+Old (before the "CAN be performed using that mechanism" language)
+precedent has held that among contracts with more than 2 parties,
+agreement to amend or to terminate the contract can be manifested in
+the contract itself, so "This contract immediately terminates itself."
+is sufficient to terminate the contract under the last paragraph of
+R2198, which has sufficient power to do this. R2198's "CAN be
+performed using that mechanism" creates a mechanism at Power 2 that
+checks the wishes of contracts (rather than giving the contracts
+themselves some force and making them take effect in some part, as
+happens with proposals). Thus, the contract in question would also be
+terminated as a result of its amendment if it did not have two parties
+despite not itself being an instrument.
+
+========================================================================

@@ -1,0 +1,91 @@
+==============================  CFJ 2699  ==============================
+
+    Murphy was audited today
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       19 Sep 2009 20:22:51 GMT
+Assigned to Murphy:                     23 Sep 2009 22:31:35 GMT
+Judged FALSE by Murphy:                 26 Sep 2009 19:12:43 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I hereby give at least 10 seconds of notice that I intend to audit
+Murphy.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I play Penalty Box to audit Murphy.
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2262:
+{{{
+       * Penalty Box      - Specify an entity. When you play this card
+                            you CAN audit that entity With Notice (you
+                            must have previously declared intent as
+                            per other rules), so long as you do so in
+                            the same message as playing this card and
+                            that entity has not been audited since you
+                            declared intent.
+}}}
+
+The plain language of this rule says that, with notice (which was
+given), I can audit someone by playing a Penalty Box. The only possible
+counter-argument to this that I can think of is people saying "but
+that's a dependent action, you can't do it any other way"; but dependent
+actions /do not/ redefine words in the rules!
+
+Excerpts from Rule 1728:
+{{{
+      A rule or contract which purports to allow a person (the
+      performer) to perform an action dependently (a dependent action)
+      by a set of one or more of the following methods (N is 1 unless
+      otherwise specified):
+[snip]
+      thereby allows em to perform the action by announcement if and
+      only if all of the following are true:
+}}}
+Rule 1728 does not define With Notice at all; instead, it treats the
+words as a trigger that allow an action to be done in a dependent
+manner. In fact, I can't see any rules or contracts that purport to
+allow a person to perform an action /dependently/; they say "with
+support", or "without 3 objections", or "With Notice", but those
+words /do not/ indicate a dependent action. The introduction to rule
+1728 requires, as one of the conditions, that the rule purports to allow
+a person to perform an action dependently; as far as I can tell, no rule
+or contract purports such a thing. (Rule 1728 does not define "With
+Notice", or "with support", or whatever; it merely triggers on the words
+in question, adding a dependent-action mechanism when the words are used
+and the rule already claims that a dependent action exists.)
+
+This is rather bad; I suspect it means that there are no dependent
+actions anywhere in the rules. I missed this point when originally
+constructing the scam, but it's likely broken dependent actions for
+quite a while. Yay for self-ratification!
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 1728 does not require the rule or contract in question to
+explicitly use the word "dependently"; purporting to allow a
+person to perform an action using a dependent method is sufficient
+to imply it.
+
+========================================================================

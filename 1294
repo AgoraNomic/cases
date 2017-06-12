@@ -1,0 +1,114 @@
+==============================  CFJ 1294  ==============================
+
+    The Administrative Orders issued by the Executor of the Bank in
+    <20010508144200.E5865@cse.unsw.edu.au>
+    http://www.escribe.com/games/agora-business/m3682.html are
+    improperly or invalidly executed.
+
+========================================================================
+
+Caller:                                 Razl
+
+Judge:                                  Taral
+Judgement:                              DISMISS
+
+========================================================================
+
+History:
+
+Called by Razl:                         08 May 2001 21:21:14 GMT
+Assigned to Taral:                      11 May 2001 02:10:16 GMT
+Order(s) stayed:                        14 May 2001 17:57:42 GMT
+Dismissed by Taral:                     18 May 2001 00:51:53 GMT
+Judgement distributed:                  18 May 2001 21:09:44 GMT
+Order(s) issued:                        12 Jun 2001 00:34:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Orders to satisfy debts are regulated by Rule 1599/6 (Power=1).
+
+Rule 1599/6 (Power=1):
+>     The Executor of the creditor of any unsatisfied debt may, at
+>     any time, Order the debtor to satisfy that debt; but e may not
+>     do so if any other Order neither satisfied nor vacated exists
+>     requiring the same debtor to satisfy the same debt, or if the
+>     debt is disputed. The debtor shall have seven days to satisfy
+>     the debt from the time the Order is executed.
+
+Since:
+ 1) this type of Order is regulated by Rule 1599/6;
+ 2) Rule 1599/6 restricts the target of such Orders to the debtor
+    only;
+ 3) and the Notary is not the debtor of the debts mentioned in the Order,
+I conclude that the Order was improperly or invalidly executed.
+
+Debtor is defined by Rule 1596/5 (Power=1):
+>     A "debt" is an obligation arising under these Rules for one
+>     entity (the "debtor") to make a transfer of one or more
+>     Properties to some other entity (the "creditor").
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Rule 1794 states that Administrative Orders are (only) those Orders
+executed by an Officer in the course of performing the duties of that
+Office. In this case, the Officer is Blob and the Office is that of the
+Treasuror.
+
+Here I interpret "duties" to mean "work that one is obliged to perform
+for moral or legal reasons". However, I find no precedent or Rule which
+makes these Orders a "duty" of the Treasuror. Therefore I find that
+these Orders do not satisfy R1794's requirements for an Administrative
+Order, and therefore are Private Orders.
+
+Since the statement now refers to Orders in a way which can not
+logically admit to being TRUE or FALSE (it refers to things that, due
+to the restrictions of the specification, do not exist), I am required
+to dismiss this CFJ by R1565(ii).
+
+========================================================================
+
+Judge Taral's Evidence:
+
+Rule 1794/4 (Power=1)
+Classes of Orders
+
+      (a) Each Order is of one of the following classes:
+        (1) Judicial: A Judicial Order is an Order executed by a
+            Player while acting as a Judge.
+        (2) Appellate: An Appellate Order is an Order executed by a
+            Board of Appeals.
+        (3) Administrative: An Administrative Order is an Order
+            executed by an Officer in the course of performing the
+            duties of that Office, except when those duties involve
+            acting as a member of a Board of Appeals.
+        (4) Legislative: A Legislative Order is an Order executed as
+            part of the effect of the adoption of a Proposal.
+        (5) Private: A Private Order is any Order not described above.
+
+      (b) For the purpose of this Rule, the holder of any of the
+          following positions shall be considered an Officer when
+          performing a duty required by or a privilege permitted only
+          by virtue of holding that position:
+          (1) the Speaker; or
+          (2) the Recordkeepor of a Currency.
+
+Orders in question (sent by Blob):
+
+As Executor of the Bank:
+
+I hereby Order the Notary to satisfy Andre's debt of 18 Stems.
+I hereby Order the Notary to satisfy Palnatoke's debt of 229 Stems.
+I hereby Order the Notary to satisfy Stuart's debt of 130 Stems.
+
+========================================================================
+
+Judicial Order(s) by Taral:
+
+As Judge of CFJ 1294, I vacate the stay placed on the Orders referred to
+in this matter.
+
+========================================================================

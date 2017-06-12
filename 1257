@@ -1,0 +1,202 @@
+==============================  CFJ 1257  ==============================
+
+    Peekee is an Oligarch.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Kelly
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       18 Dec 2000 22:14:12 GMT
+Assigned to Kelly:                      08 Jan 2001 11:08:28 GMT
+Judged TRUE by Kelly:                   13 Jan 2001 06:10:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Peekee's Oligarch bid won on 11/20, but VTs had been legislated out of
+existence by that time.  Did the debt/bid continue to exist, as Proposal
+4090 assumes?  If so, then it was converted into Stems on 12/5 and paid
+on 12/17.  Rule 1936 (e) specifies that the Auctioneer (or, since e later
+went On Hold, the Speaker) should have forgiven the debt, but that did
+not actually happen prior to Peekee's satisfying the bid.  It is also
+unclear whether Peekee was billed by the Assessor, rather than being
+billed by direct operation of the Rules.  If e was indeed billed by the
+Assessor, then e may still be penalized now for paying eir bid late,
+although eir lateness is understandable in this particular case.
+
+========================================================================
+
+Caller's Evidence:
+
+Evidence, part 1 of 5:  VTs are destroyed (excerpts)
+
+http://www.escribe.com/games/agora-official/m755.html
+
+Subj: OFF: Assessor's Report for Proposal 4085
+From: t
+Date: Thu, 16 Nov 2000 15:35:09
+
+Voting on Proposal       4084 concluded: Tue, 14 Nov 2000 12:18:55 -0600
+
+======================================================================
+Text of Adopted Proposals
+======================================================================
+
+Proposal #4085 by Blob, AI=2
+Playing Roles 1.2
+
+Repeal Rule 1696 (Voting Tokens)
+
+----------------------------------------------------------------------
+
+Evidence, part 2 of 5:  Peekee's Bid wins (excerpt)
+
+http://www.escribe.com/games/agora-official/m761.html
+
+Subj: OFF: Oligarchy auction result
+From: Michael Norrish
+Date: Mon, 20 Nov 2000 03:37:50
+
+I hereby announce that by virtue of being the only voter, Peekee has
+won a Low Oligarchy position.  He owes the Bank ... 1 VT.  Well, at
+least that's what he bid.  But the rules for Oligarchy Auctions say
+that the auction currency is Stems.  Moreover, I believe the effect of
+the Roles proposal was to destroy all VTs..
+
+----------------------------------------------------------------------
+
+Evidence, part 3 of 5:  VT debts and bids converted to Stems (excerpts)
+
+Message-ID: <Pine.LNX.4.21.0012081558560.13007-100000@verso.st.jyu.fi>
+
+Subj: OFF: Assessor's Voting Report for Proposals 4088-4090
+Date: Fri, 8 Dec 2000 16:14:15 +0200 (EET)
+From: t <ttkorkia@st.jyu.fi>
+
+Voting on Proposal       4090 concluded: Tue,  5 Dec 2000 11:59:13 -0600
+
+======================================================================
+Text of Adopted Proposals
+======================================================================
+
+Proposal #4090 by Steve, AI=2
+Debt conversion
+
+Create a Rule entitled "Debt conversion" with Power = 2, with the
+following text:
+
+      Upon the creation of this Rule, all outstanding debts and
+      liabilities denominated in Voting Tokens, Indulgence Auction
+      Tokens, or Proposal Notes, are converted into debts for an equal
+      number of Stems.
+
+      Where the original debts or liabilities arose in connection with
+      the conduct of an Auction, satisfaction of the converted Stem
+      debts constitutes satisfaction of the debts arising from the
+      Auction.
+
+----------------------------------------------------------------------
+
+Evidence, part 4 of 5:  Peekee pays the converted Bid (excerpt)
+
+http://www.escribe.com/games/agora-business/m1966.html
+
+Subj: BUS: Re: DIS: Oligarch Peekee?
+From: Alan Riddell (view other messages by this author)
+Date: Sun, 17 Dec 2000 07:04:00
+
+I hereby pay my 1 Stem debt, so that I can take my position as an Oligarch.
+Please not that
+my voting on any Proposal as an Oligarch will go to the highest bidder (an
+informal auction).
+If nobody pays me to vote then I may or may not declare myself present on the
+given proposal.
+
+----------------------------------------------------------------------
+
+Evidence, part 5 of 5:  Rule 1936/4 (Power=2) (excerpts)
+                        Auctioning Positions in the Oligarchy
+
+      (e) Defaulting: a winning bidder has one week from the time e
+          is billed by the Auctioneer for eir winning bid in which to
+          pay the bill. If the bill remains unpaid for more than one
+          week, then the winning bidder is considered to have
+          defaulted. In that case, the Auctioneer shall forgive the
+          debt and penalise the defaulting bidder 2 Blots.
+
+      When a winning bidder pays the bill for eir winning bid in the
+      Auction, e becomes a Low Oligarch.
+
+========================================================================
+
+Judge Kelly's Arguments:
+
+The facts are undisputed and known; I will not summarize them.
+
+The legal questions appear to be:
+
+1. Was the liability arising from the Oligarchy Auction initiated on
+November 10th denominated in Stems or in VTs?
+2. If this liability was denominated in VTs, was the Rule enacted by
+Proposal 4090 successful in converting that liability into a Debt in
+Stems?
+3. If that Debt was successfully created, did Peekee successfully
+satisfy it and thereby become an Oligarch?
+
+I conclude that all three of these questions are true, and thus that
+Peekee become an Oligarch on 17 Dec 2000 and remained one at least
+until the date CFJ 1257 was called, 18 Dec 2000 (one day later).
+
+As to the first question, it is my opinion that the Auction Currency
+for a given Auction is fixed at the time the Auction begins; subsequent
+changes in the Rules do not affect an already-initiated Auction unless
+a contrary purpose to do so is expressly indicated in the new Rules.
+Proposal 4085 altered the Rules relating to Auctions such that the
+Auction Currency for all Oligarchy Auctions initiated after its
+adoption, but did not expressly alter past Auctions. Furthermore,
+changing the Auction Currency of a running Auction midstream seems, to
+me, like a really dumb idea, and so I think if the Players want to do
+that they should say so explicitly. The Continuity Principle does not
+apply because the alteration in the Oligarchy Auction Rules did not
+affect that particular Auction, as its properties were fixed at the
+time the Auction began. Therefore, the Auction Currency of the
+Oligarchy Auction initiated 10 November was, at all times, VTs, and
+so the liability which arose from it was denominated in VTs.
+
+As to the second question, it appears clear to me that the liability
+which arose from the Auction of 10 November is squarely within the
+ambit of Proposal 4090's scope, and as such the Rule created by Proposal
+4090 successfully converted that liability into a Debt of 1 Stem.  I
+conclude that a "Debt" is nothing more than a liability denominated
+in Property. A liability denominated in something which is not Property
+is not a Debt, but that in no way hampers its status as a liability or
+its enforceability as such. Nor do I see any other impediment to the
+operation of that Rule, and as such I find that as of the adoption of
+Proposal 4090, Peekee's liability of 1 VT was converted to a Debt of
+1 Stem.
+
+As to the third question, I find that Peekee did in fact transfer one
+Stem (this is not disputed) after Proposal 4090 converted the Auction
+liability to a Debt in Stems for the purpose of satisfying that debt.
+There is one problem: the one week time limit in Rule 1936 had elapsed;
+Peekee had defaulted. However, Rule 1936 does not prevent a Player who
+has defaulted from becoming an Oligarch nonetheless if e manages to pay
+the bill before the Grand Warden of the Oligarchy forgives the debt.
+I can find no evidence that the GWotO forgave this debt (as was
+required of em by the Rules) before Proposal 4090 was adopted. Therefore,
+Peekee's satisfaction of this debt fulfilled the ultimate clause of Rule
+1936 (as altered by the Rule created by Proposal 4090), thus causing
+em to become an Oligarch (even though e had previously defaulted).
+
+I would order the GWotO taken out and spanked for dereliction of duty,
+but I lack the authority to do so.
+
+========================================================================

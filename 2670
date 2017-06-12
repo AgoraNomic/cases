@@ -1,0 +1,73 @@
+==============================  CFJ 2670  ==============================
+
+    Agora can be Satisfied with an intent to perform a dependent action
+    With 2 Support (that does not also specify being performed With
+    Notice).
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 scshunt
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       28 Aug 2009 20:32:19 GMT
+Assigned to omd:                        28 Aug 2009 20:42:15 GMT
+Judged TRUE by omd:                     28 Aug 2009 20:42:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The bar on coppro is not because I think e'd be a bad judge, but to
+force a rotation. This CFJ is called mostly because of a scam, although
+the judge should look into whether rule 2124 is really broken or not
+(it's a rather important question).
+
+========================================================================
+
+Judge omd's Arguments:
+
+Item (4) is part of the list of conditions with no explicit
+connective-- Agora is satisfied if and only if ((1) and (2) and (3);
+(4)).  The interpretation of the semicolon is unclear.  The most
+obvious interpretation is another "and", in which case item (4), that
+the action to be performed is With Notice, is required for all
+dependent actions; but the semicolon could also be replaced with an
+"or", where Agora is satisfied if and only if ((1) and (2) and (3)) OR
+(4).  In normal circumstances, the former interpretation should
+prevail, but as that interpretation completely breaks a large part of
+the game, we may consider the lack of conjunction an inclarity, and
+use the latter interpretation out of concern for the best interests of
+the game.  TRUE.
+
+========================================================================
+
+Judge omd's Evidence:
+
+Rule 2124/13 (Power=2)
+Agoran Satisfaction
+
+[...]
+
+      Agora is Satisfied with an intent to perform a specific action
+      if and only if:
+
+      (1) if the action is to be performed Without N Objections, then
+          it has fewer than N objectors;
+
+      (2) if the action is to be performed With N supporters, then it
+          has N or more supporters; and
+
+      (3) if the action is to be performed with N Agoran Consent, then
+          the ratio of supporters to objectors is greater than N, or
+          the action has at least one supporter and no objectors.
+
+      (4) The action to be performed is With Notice.
+
+========================================================================

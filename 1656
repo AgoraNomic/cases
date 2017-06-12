@@ -1,0 +1,130 @@
+==============================  CFJ 1656  ==============================
+
+    the Promotor has distributed a proposal under the description
+    "proposal 4963" which includes the text "Change the Power of rule
+    2126 to 2."
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  GreyKnight
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       09 May 2007 17:21:11 GMT
+Assigned to GreyKnight:                 11 May 2007 06:34:45 GMT
+GreyKnight recused:                     07 Jun 2007 21:06:19 GMT
+Assigned to root:                       13 Jun 2007 01:44:04 GMT
+Judged TRUE by root:                    13 Jun 2007 04:59:02 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The proposal "mostly-random judicial assignments", as submitted, did
+not include the quoted text.  The Promotor's purported distribution
+of the proposal, as proposal 4963, erroneously included the text of
+"more mutability for VCs" (correctly distributed as proposal 4962) and
+the text that had appeared between them in the submitting message, in
+addition to the actual full text of "mostly-random judicial assignments".
+This error raises the question of whether the proposal's purported
+distribution satisfies R1607, and if so what the proposal's text now is.
+
+I suggest that the most reasonable judgement is FALSE & FALSE, based on
+the interpretation that the `distributed' text so substantially differed
+from the submitted text that it does not constitute a distribution at all.
+Alternatively, if it is considered that the intended proposal text is
+adequately clear in the distribution message, a judgement of TRUE &
+FALSE could be entered.  A judgement of TRUE & TRUE would be bad for
+the game, because it would allow the Promotor to modify any proposal at
+the distribution stage.  FALSE & TRUE would be perverse, allowing the
+Promotor to distribute unsubmitted proposals.
+
+========================================================================
+
+Judge root's Arguments:
+
+What remains for CFJ 1656 is to determine whether a proposal 4963 has
+been distributed.  There are three possibilities: the text identified
+as proposal 4963 is not a proposal; it is a proposal but has not been
+distributed; or it is a proposal and has been distributed.
+
+The rule 106 paragraph quoted above seems to indicate by definition
+that the text is in fact a proposal.  However, rule 106 continues:
+
+     A player submits a proposal by publishing it with a clear
+     indication that it is intended to become a proposal, which
+     places the proposal in the Proposal Pool.
+
+Arguably then, a document that has not been published in this manner
+does not "become a proposal" and therefore is not a proposal.
+However, Judge Eris's ruling in CFJ 1586 establishes the precedent
+that submission is not the only means for the creation of a proposal.
+Therefore, I find that the first paragraph of Rule 106 constitutes the
+complete definition of a proposal, and so proposal 4963 is in fact a
+proposal.
+
+The remaining question is whether proposal 4963 has been distributed.
+For this I turn to Rule 1607, which contains these three paragraphs:
+
+     The Promotor is permitted to distribute a proposal in the
+     Proposal Pool at any time.  During each week, the Promotor must
+     distribute each proposal in the proposal pool which was in the
+     Proposal Pool at the beginning of the week.
+
+     The Promotor legally distributes a proposal by publishing it
+     accompanied by an explicit indication that it is being
+     distributed.  When a proposal is distributed, it is removed from
+     the Proposal Pool.  The distribution of a proposal initiates the
+     Agoran decision of whether to adopt the proposal, as described
+     elsewhere.
+
+     The Promotor shall include with the distribution of each
+     proposal the identity of its proposer, the proposal's coauthors,
+     if any, its chamber, and its adoption index.  However, the
+     failure of the Promotor to include any of these with a proposal
+     does not deprive the distribution of the proposal of any legal
+     effect.
+
+The first quoted paragraph explicitly permits the Promotor to
+distribute proposals that are in the proposal pool, so we may infer
+that the Promotor is *not* permitted to distribute proposals that are
+not in the pool, as was the case for proposal 4963.  However, the
+language used is permissive in nature: such a distribution is illegal
+but not necessarily impossible.
+
+The second quoted paragraph describes the mechanism of distribution
+but places no restrictions on what proposals can be distributed or
+when they can be distributed.  The use of the word "legally" in the
+first sentence is questionable: does it mean that this mechanism
+applies only to proposals for which distribution is permitted; or does
+it merely denote that this constitutes the "legal" definition of
+proposal distribution?  I think that the latter is a more natural
+reading, and this interpretation also conforms to the rule's other
+usage of the word "legal" in its final paragraph.
+
+The final paragraph places additional, possibly applicable
+requirements on proposal distribution, but it explicitly notes that
+failure to meet these does not invalidate a distribution.
+
+In summary, I find that the distribution of proposal 4963 was
+effective but illegal: as the caller notes, the Promotor *can*
+distribute unsubmitted proposals, but e also can be punished for doing
+so willfully.  This is not dissimilar to other systems we have in
+place.  Moreover, a judgment of TRUE in CFJ 1656 should not be
+surprising; considerable effort has been applied in the past to making
+the proposal system as pragmatic as possible, and for good reason: the
+adoption of a proposal should not be held up by a simple mistake made
+on the part of the Promotor, especially if the mistake is not
+discovered until much later.  That is not the case here, but still it
+is refreshing to find that the system works exactly as intended.
+
+========================================================================

@@ -1,0 +1,116 @@
+==============================  CFJ 1511  ==============================
+
+    Proposal 4588 is Democratic.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Riail
+
+Judge:                                  Michael
+Judgement:                              
+
+
+Judge:                                  Pakaran
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           25 Jun 2004 16:53:56 GMT
+Assigned to Michael:                    26 Jun 2004 08:05:03 GMT
+Michael recused:                        10 Jul 2004 08:05:03 GMT
+Assigned to Pakaran:                    11 Jul 2004 08:24:44 GMT
+Pakaran recused:                        25 Jul 2004 08:24:44 GMT
+Assigned to OscarMeyr:                  25 Jul 2004 09:05:26 GMT
+Judged FALSE by OscarMeyr:              01 Aug 2004 15:39:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+CFJ 1 is about the power of Debate-o-matic cards to change Chambers.
+
+========================================================================
+
+Caller's Evidence:
+
+>From Rule 1933:
+      "The Chamber of a Proposal may only be changed as
+      specified by an instrument with Power greater than or equal to
+      two (2)."
+
+>From Rule 2067 (Power=1)
+      * Caption: Debate-o-Matic
+        Elements: Budgeted
+        Exploit: Change the Chamber of any one non-Sane Proposal to
+          the Chamber of your choice, provided it is legal for that
+          Proposal to be in the named Chamber.
+
+>From Rule 2069:
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule says otherwise, a Card is
+          automatically transferred to The Deck immediately after
+          being Played.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+1511:  FALSE.  The Debate-o-matic Card is the instrument being used to
+change the Proposal's chamber.  All Cards presently have a Power of
+zero, and changing a Proposal's chamber requires Power of 2 or higher.
+Accordingly, the Proposal in question was not successfully Debated into
+a new chamber.  Ev:  R2070 (Card Powerz), noting that Power (in the
+Agoran sense) is not part of a Card; R1688 (Power defined); also R1933
+as quoted in the Caller's Evidence.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Rule 2070/0 (Power=1)
+Card Powerz
+
+      The following Elements for Cards are defined:
+
+      * Budgeted: The Quota for this Card is determined in the
+        Deckmastor's budget. If the budget is undefined, or does not
+        set the Quota for this Card, then the Quota shall be 3.
+
+      * Handed [X], where X is a non-negative integer: When
+        calculating Hand Size, this Card counts as X Cards.
+
+      * Restricted [X], where X is a type of entity: Only entities
+        considered to be an X may Activate any Exploit possessed by
+        the Card.
+
+      * Limited [X] [Y], where X is a type of entity and Y is a
+        positive integer: For an entity not considered to be an X to
+        Activate any Exploit possessed by the Card requires em to pay
+        a Fee of Y.
+
+      * Persistent: Playing this Card does not result in its being
+        transferred to The Deck.
+
+      * Bleed [X], where X is a non-negative integer: At the beginning
+        of each week, the Holder of this card loses X Points.
+
+Rule 1688/1 (Power=3)
+Power
+
+      Power is an Index.  An Instrument is an entity with nonzero
+      Power.  The Power of a given entity is zero unless otherwise
+      defined by the Rules.
+
+========================================================================

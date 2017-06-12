@@ -1,0 +1,99 @@
+==============================  CFJ 3000  ==============================
+
+    In general, if a purported action by announcement is accompanied by
+    a disclaimer equivalent to "this may be ineffective", without
+    indicating why it may be ineffective, then the action is ineffective
+    due to ambiguity.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       19 Apr 2011 00:58:17 GMT
+Assigned to scshunt:                    19 Apr 2011 07:03:37 GMT
+scshunt recused:                        15 May 2011 22:35:41 GMT
+Assigned to omd:                        15 May 2011 23:22:58 GMT
+Judged FALSE by omd:                    20 May 2011 16:19:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Consider this spectrum of disclaimers attached to "I do X":
+
+  a) I don't.
+  b) Maybe I don't.
+  c) This fails.
+  d) Maybe this fails.
+  e) This (fails / may fail) if (specific condition).
+  f) This may fail for some reason I haven't thought of.
+
+In general, "I don't" introduces sufficient ambiguity.  I believe
+that introducing the /possibility/ of "I don't" also introduces
+sufficient ambiguity.  I believe that the first four disclaimers
+introduce this possibility, while the last two do not.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 478, relevant excerpt:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I'd hesitate to throw out any of b-d.  "This fails", even without
+further explanation, could be (and probably has been) used as a
+courtesy when one is legally required to attempt an action which is
+blocked by something else.  Or maybe it's added for flavor/challenge
+when a specific scam attempt wouldn't work for a withheld reason.
+
+I think in general that claiming something "fails" (as opposed to
+claiming something is "false") is a common Agoran usage which means
+"I try to do this but something else most likely blocks it.  But if
+I'm wrong about the block, I'm still formally attempting it and so
+it should work."
+
+Saying "swing and a miss" is different than saying "no swing".
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+In addition to 2069, there's also CFJ 2830,
+which cites 2069 but, as far as I can see, contradicts its precedent
+(unless there is some reason to believe that awarding a Ribbon was a
+more "truth-based action" than calling a CFJ).
+
+========================================================================
+
+Judge omd's Arguments:
+
+Since an "action statement" states that the performer is performing
+the action, "This may be ineffective." is equivalent to "This
+statement might be false."  The precedent of 2069 etc. is that some
+actions, including filing a CFJ, can be performed with the latter type
+of disclaimer, so FALSE.
+
+(I don't think that whole precedent chain makes much sense-- it's
+based on "everyone sorta agrees that CFJ 1971 exists", not any actual
+reasoning.  But there you go.)
+
+========================================================================

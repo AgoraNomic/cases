@@ -1,0 +1,329 @@
+======================================================================
+                              CFJ 1143
+
+    The Order of the Evil Eye has been dissolved.
+
+======================================================================
+
+Called by:           Murphy
+
+Judge:               Elysion
+Judgement:           FALSE
+
+Judge selection:
+
+Eligible:            Chuck, Crito, elJefe, Elysion, harvel, Kolja,
+                     Lee, Michael, Morendil, Peekee, Vlad, Wes
+
+Not eligible:
+Caller:              Murphy
+Barred:              -
+Had their turn:      Chuck
+Already served:      -
+Defaulted:           Beefurabi
+By request:          -
+On Hold:             -
+
+======================================================================
+
+History:
+
+Called by Murphy:                     20 Jun 1999 17:32:41 -0700
+Assigned to Beefurabi:                02 Jul 1999 07:18:19 -0700
+Assigned to Elysion:                  09 Jul 1999 11:59:18 -0700
+Judged FALSE by Elysion:              12 Jul 1999 10:37:44 -0400
+Judgement distributed:                As of this message
+
+=====================================================================
+
+Caller's Arguments:
+
+High Priest Crito stepped down from that position on 6/14.  The
+Ordinances do not appear to specify a Vizier when there is no High
+Priest.  Per Rule 721 (The Vizier and the Ordinancekeepor), the Player
+who submitted the Application to Create an Organization thus becomes
+Vizier; if that Player is deregistered, then the Group dissolves.
+
+I believe that the Player who submitted the Order's ACO was Harlequin.
+
+======================================================================
+
+Evidence attached by the Caller:
+
+Rule 721/9 (Power=1)
+The Vizier and the Ordinancekeepor
+
+     The Vizier of a Group shall be whoever the Ordinances of that
+     Group specify. If the Ordinances are silent, the Vizier shall be
+     the Player who authored the ACO that created that Group, if e is
+     still a Member of that Group.  If the Group was not created by
+     the Execution of an ACO, the Vizier shall be whoever was the
+     Vizier of that Group when it was first created.
+
+     If the Vizier thus specified is not a Member of the Group, the
+     Group shall be dissolved.
+
+     Unless the Ordinances of a Group specify otherwise, the
+     Ordinancekeepor of a Group shall be its Vizier.
+
+======================================================================
+
+Judge's Arguments:
+
+Considering rule 721/9, the third paragraph is inapplicable, because the
+Order's Ordinances explicitly state that the  ordinancekeepor is the Vizier,
+so the lack of one implies the lack of the other. The remaining portion of
+rule 721/9 can be divided into three (not necessarily exclusive) cases:
+
+1. The Ordinances specify a Vizier
+2. The Ordinances do not specify a Vizier
+3. The Group was not created by an ACO
+
+The third case is false. Exactly one of case one and case two must be true.
+If case two is true, then the Order must have dissolved, following from the
+second paragraph and the fact that Harlequin is not a member of the OEE.
+
+What exactly does it mean to "specify" a Vizier? Here's an obvious case:
+
+    Ordinance the First: The Vizier shall be John Galt.
+
+Does this next Ordinance specify a Vizier?
+
+    Ordinance the Second: The first person with the nickname John Galt shall
+be Vizier
+
+
+Let's look at the applicable Ordinances of the OEE:
+
+#1: Priests and Initiates
+
+  The members of the Order are divided into two ranks, Priests and
+  Initiates. One Priest is the Great and Terrible High Priest of the
+  Eye. Whichever Priest is High Priest is automatically Vizier and
+  Ordinancekeepor of the Order.
+
+#7: Loss of High Priest
+
+ If there is no High Priest, the first Priest to claim the title
+ becomes High Priest.
+
+Taken collectively, they boil down to this: The High Priest is Vizier. The
+first Priest to claim the title [in the event of no HP]
+is the High Priest. Therefore, the first Priest to claim the title is the
+Vizier. This is equivalent to our second hypothetical Ordinance. The key
+here is the meaning of "specify".
+
+The abridged OED defines specify as follows:
+
+ 1. Speak or treat of a matter etc. in detail; give details or particulars.
+ 2. Mention or name (a thing, that) explicitly; state categorically or
+particularly. Also, include in an architect's, engineer's, etc.
+specification.
+ 3. Invest with a specific character.
+
+Clearly, the Ordinances _do_ speak of the matter. Thus, we rule out the
+second case, leaving only the first. Rule 721/9 says nothing about what
+happens to the Group in the first case, only what happens to the Vizier.
+However, rule 1397/5 provides us with an answer: that the OEE does not
+dissolve.
+
+Therefore, I judge the statement FALSE.
+
+======================================================================
+
+Evidence attached by the Judge:
+
+Rule 721/9 (Power=1)
+The Vizier and the Ordinancekeepor
+
+     The Vizier of a Group shall be whoever the Ordinances of that
+     Group specify. If the Ordinances are silent, the Vizier shall be
+     the Player who authored the ACO that created that Group, if e is
+     still a Member of that Group.  If the Group was not created by
+     the Execution of an ACO, the Vizier shall be whoever was the
+     Vizier of that Group when it was first created.
+
+     If the Vizier thus specified is not a Member of the Group, the
+     Group shall be dissolved.
+
+     Unless the Ordinances of a Group specify otherwise, the
+     Ordinancekeepor of a Group shall be its Vizier.
+
+==============
+
+Rule 1397/5 (Power=1)
+Dissolution of Organizations
+
+      An Organization shall only be dissolved when the Rules or the
+      Organization's SLC require it.  An Organization shall be
+      required to be dissolved whenever any of the following
+      conditions are true:
+
+        i) The Jurisdiction of its SLC becomes empty, and there is no
+           provision for this to change.
+       ii) The continued existence of the Organization would require
+           that the Organization have no legal Administrator.
+      iii) The continued existence of the Organization would require
+           that the Organization have no legal Executor.
+       iv) The continued existence of the Organization would require
+           that the Organization have no legal Maintainer for its SLC.
+        v) The SLC of the Organization requires the Organization to
+           dissolve.  This is a Voluntary Dissolution, all other
+           dissolutions are Administrative Dissolutions.
+
+      The Notary is required to detect when an Administrative
+      Dissolution takes place.
+
+      As soon as possible after an Organization dissolves, for any
+      reason, the Notary shall report that dissolution to the Public
+      Forum.
+
+      All Organizations cease to exist upon dissolution. Other Rules
+      can require an Organization to dissolve under other
+      circumstances.
+
+==============
+
+Ordinances of the Order of the Evil Eye
+
+Valid in this form 12 Nov 1998
+
+#1: Priests and Initiates
+
+  The members of the Order are divided into two ranks, Priests and
+Initiates.
+  One Priest is the Great and Terrible High Priest of the Eye. Whichever
+  Priest is High Priest is automatically Vizier and Ordinancekeepor of the
+  Order.
+
+#2:  The Tithe
+
+  Whenever the Accountor's report with current VT holdings is published,
+  the High Priest is authorized to issue a Payment Order to each member
+  not On Hold at the time of the report, requiring em to transfer a
+  percentage of eir reported VT income (VTs earned since the last Assessor's
+  report was published) as their tithe to the Order.  For Priests the tithe
+  is 10 percent or 2 VTs, whichever is less.  For Initiates the tithe is
+  5 percent or 1 VT, whichever is less.  VTs paid to the Order to satisfy
+  the Tithe are placed in the Tithe Fund.
+
+#3: Irises
+
+  The Order mints a Currency called the "Iris."  The MUQ of the Iris is .01.
+  There is also an Iris Exchange Tariff, expressed as a percentage from 0 to
+  100, which the High Priest may change at any time by posting the current
+  Tariff to the Public Forum.  The initial value of the IET is 5%.  Whenever
+a
+  Player transfers VTs to the Order (other than in satisfaction of a Tithe
+  Payment Order), the High Priest shall, as soon as possible, transfer to
+that
+  Player a number of Irises equivalent to the number of VTs, minus the IET
+if
+  the Player is not a member of the Order.  A percentage, equal to the IET,
+of
+  such VTs transferred to the Order by non-members is placed in the Tithe
+Fund
+  and the remainder is placed in the Banking Fund.  All such VTs transferred
+  to the Order by members are placed in the Banking Fund.
+
+#4: Voices
+
+  Any Priest may submit a Voice to the High Priest to be judged by the
+Order. A
+  Voice is a call for one or more of the following things: A change to the
+  rules of the Order; a reward of VTs or Irises for some player, from the
+  group's treasury; the initiation of a new member as an Initiate; the
+raising
+  of an Initiate to a Priest; or the replacement of the High Priest with a
+new
+  High Priest. A Voice is only a Voice if labeled as such. When the High
+Priest
+  recives a Voice, e must distribute it to all members ASAP. Each
+  Priest gets one vote. Each vote must be 'in favor' or 'opposed'; if
+  more than a minimum fraction of the votes, depending on the type of
+  Voice, recieved within 5 days are in favor, the Voice is
+  adopted. The minimum fraction of votes for voices containing the
+  following effects are as follows:
+    Change in rules             2/3
+    Reward of VTs or coins      2/3
+    Initiation of new member    1/2
+    Raising to priest           2/3
+    Replacement of High Priest  3/4
+  The High Priest's vote does not count for the purposes of adopting a Voice
+  that would have the effect of replacting the High Priest.
+
+#5: Group Votes
+
+  The High Priest is authorized to cast Group votes using VTs from the
+Banking
+  Fund only as the result of Directed Votes.  The High Priest is authorized
+to
+  cast Group votes using VTs from the Tithe Fund on any Proposals as e sees
+  fit, provided there are less than four days left in the Voting Periods of
+  the relevant proposals.
+
+#6: Justice Swift and Fair
+
+  The High Priest has the power to enforce the rules of the Order. Any
+member
+  breaking the rules shall be subject to any or all of the following
+penalties,
+  at the High Priest's discretion: loss of Irises owned or controlled by the
+  offending player; removal of the offending player from Priesthood;
+doubling
+  of the offending player's tithe for some period of time; or expulsion of
+  the offending player from the Order. If the High Priest is the offending
+  player, the penalty is to be decided by a random non-High priest (randomly
+  determined by the High Priest).
+
+#7: Loss of High Priest
+
+  If there is no High Priest, the first Priest to claim the title becomes
+High
+  Priest.
+
+#8: Cashing Irises and Directed Voting
+
+  Whenever a Priest or Initiate transfers Irises to the Order, e may request
+  either a VT Refund or Directed Votes.  The High Priest shall honor this
+  request as soon as possible after receiving such a transfer.  VT Refunds
+are
+  honored by transferring to the requestor a number of VTs from the Order's
+  Banking Fund equivalent to the number of Irises transferred with the
+  request.  Directed Votes are honored by casting votes as directed by the
+  requestor, using a number of VTs from the Banking Fund equivalent to the
+  number of Irises transferred with the request.  Directed Votes may only be
+  honored if the following conditions are true for each relevant Proposal:
+
+    1.  The Player has not already directed a vote on the Proposal.
+    2.  There are at least four days left in the Voting Period of the
+Proposal.
+    3.  There have not already been two Directed Votes on the Proposal.
+
+  If a Directed Vote request cannot be honored in full, then it shall be
+  treated as a VT Refund request.  Whenever a non-member transfers Irises to
+  the Order, it shall be considered a VT Refund request.
+
+#9: Quarterly Dividends
+
+  During the first week of each Nomic Quarter, the High Priest may transfer
+VTs
+  from the Tithe Fund to the Banking Fund.  An equivalent number of Irises
+  must then be paid out, ASAP, to the members of the Order, each Priest
+  receiving a 2/(2*P + I) share and each Initiate receiving a 1/(2*P + I)
+  share (P = number of Priests in the Order, I = number of Initiates).
+
+Addenda:
+
+The following voice was adopted by a 2/3 majority:
+
+Voice: Put the order's money to some use.
+
+The High Priest may use the currency owned by the Order to buy
+indulgences. These indulgences are then made available to the members
+of the order at their request, for a price of 1 VT each. If members of
+the order are interested in getting more indulgences from the order
+than the order owns, these indulgences shall be auctioned off by the
+High Priest.
+
+======================================================================

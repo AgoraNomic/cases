@@ -1,0 +1,107 @@
+==============================  CFJ 1596  ==============================
+
+    CFJ 1594 has been judged.
+
+========================================================================
+
+Caller:                                 Quazie
+
+Judge:                                  arkestra
+Judgement:                              
+
+
+Judge:                                  GreyKnight
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       21 Dec 2006 01:35:23 GMT
+Assigned to arkestra:                   31 Jan 2007 13:03:46 GMT
+arkestra recused:                       21 Feb 2007 18:10:52 GMT
+Assigned to GreyKnight:                 21 Feb 2007 18:10:52 GMT
+GreyKnight recused:                     23 Mar 2007 21:12:29 GMT
+Assigned to OscarMeyr:                  23 Mar 2007 23:09:18 GMT
+Judged FALSE by OscarMeyr:              29 Mar 2007 22:51:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Geothe judged CFJ 1594 to be false, thus meaning that e had been
+de-registered, yet only a player may judge a CFJ.
+
+Thus I believe that CFJ 1594 has not been judged and thus Goethe has not
+actually been de-registered, as until CFJ 1594 has been judged there is
+uncertainty in the registration state of Geothe.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+According to the Clerk of the Court archives and the agoranomic.org archives,
+which I consider the best available information for researching this CFJ, here
+is the relevant timeline:
+
+16 Dec 2006 05:11:34 UTC    CFJ 1594 called by Murphy
+18 Dec 2006 01:45:01 UTC    CFJ 1594 assigned to Goethe
+18 Dec 2006 15:44:10 UTC    CFJ 1594: Goethe recused
+18 Dec 2006 15:44:10 UTC    CFJ 1594 assigned to Sherlock
+20 Dec 2006 21:53:52 UTC    CFJ 1594a judged by Goethe, under dispute and in
+appeal
+21 Dec 2006 01:35:23 UTC    CFJ 1596 called by Quazie questioning whether CFJ
+1594 had been judged.
+21 Dec 2006 17:16:36 UTC    CFJ 1594b judged by Sherlock, under dispute and in
+appeal
+
+Because R217 states that judgment must be based on the game state at the time
+the CFJ is issued, the judging of CFJ 1594b may be ignored.
+
+According to this timeline, Goethe had been removed as Trial Judge of CFJ 1594
+before e submitted eir judgement.  As long as this recusal is not challenged
+as invalid -- and I see nothing in the Stare Decisis questioning that recusal
+-- then at the time of this CFJ, Sherlock was the Trial Judge for that CFJ,
+and e delivered eir judgment after the calling of this CFJ.  Thus, at the time
+this CFJ was called, CFJ 1594 had not been judged.  QED.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+1:  History of CFJ 1594, according to CotC web site:
+
+Called by Murphy:                       16 Dec 2006 05:11:34 GMT
+Assigned to Goethe:                     18 Dec 2006 01:45:01 GMT
+Goethe recused:                         18 Dec 2006 15:44:10 GMT
+Assigned to Sherlock:                   18 Dec 2006 15:44:10 GMT
+Judged TRUE by Sherlock:                21 Dec 2006 17:16:36 GMT
+Appealed by Murphy:                     31 Jan 2007 14:41:20 GMT
+Appealed by Zefram:                     31 Jan 2007 14:52:45 GMT
+Appealed by OscarMeyr:                  02 Feb 2007 01:14:32 GMT
+Appeal 1594a:                           02 Feb 2007 01:14:32 GMT
+
+2:  Assignment of Sherlock to CFJ 1594:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2006-December
+/005977.html
+Timestamp: Mon, 18 Dec 2006 07:44:10 -0800
+
+3:  Rule 217/5 (Power=3)
+Judgements Must Accord with the Rules
+
+      All Judgements must be in accordance with the Rules; however, if
+      the Rules are silent, inconsistent, or unclear on the Statement
+      to be Judged, then the Judge shall consider game custom, common
+      sense, past Judgements, and the best interests of the game
+      before applying other standards.
+
+      When a Judge is considering eir Judgement of a Statement
+      contained in a CFJ, e shall make eir evaluation based on the
+      truth or falsity of the Statement at the time the CFJ was
+      issued.
+
+========================================================================

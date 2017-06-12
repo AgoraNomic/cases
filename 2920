@@ -1,0 +1,58 @@
+==============================  CFJ 2920  ==============================
+
+    Upon publication of a valid notice of papal succession, the current
+    Speaker ceases to be Speaker, the pope becomes the new Speaker, and
+    the pope ceases to be a pope.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Yally
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           09 Dec 2010 21:44:16 GMT
+Assigned to Yally:                      12 Dec 2010 23:29:01 GMT
+Judged FALSE by Yally:                  20 Dec 2010 19:53:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2314 states "Movement on the list is Secured" (at power 2).
+The CFJ statement text is part of R2316 and is power-1, so it
+should be blocked from functioning by the security, as when someone
+leaves the list to become speaker, everyone below em moves up.
+
+Alternatives, for example that the vacated spot remains "blank" and
+no-one moves up, are not allowed by the definition of the list as
+being an ordered list of current players sans speaker.
+
+(This may actually work in the isolated case that the new pope in
+question is on the bottom of the list, if and only if "adding and
+removing" does not count as "movement on the list".)
+
+========================================================================
+
+Judge Yally's Arguments:
+
+I agree with the caller's arguments, at least for the general case. The scope
+of this CFJ does not extend to eir specific case. FALSE.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+By that argument, I could add to Rule 2324 that whenever anyone votes
+AGAINST such-and-such, Rule 2324's power is set to 3... then voting
+AGAINST is blocked due to security.
+
+Or, on the flipside, I could write that whenever anyone uses
+Cleanliness (or any other action defined by a Power-3 rule), Rule
+2324's power is set to 3, and it would work.
+
+========================================================================

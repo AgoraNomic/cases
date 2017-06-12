@@ -1,0 +1,156 @@
+==============================  CFJ 1230  ==============================
+
+    Taral has not committed any acts of Promotor Misrepresentation.
+
+========================================================================
+
+Caller:                                 Taral
+
+Judge:                                  Maud
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Taral:                        18 Jun 2000 12:38:25 GMT
+Assigned to Maud:                       18 Jun 2000 23:46:49 GMT
+Judged TRUE by Maud:                    22 Jun 2000 00:07:48 GMT
+
+========================================================================
+
+Judge Maud's Arguments:
+
+Although the Statement is not explicitly an accusation that Taral has
+committed a Crime, Promotor Misrepresentation is defined by Rule 1770
+as a Crime.  Therefore, a Judgement of FALSE on the Statement is equivalent
+to a Judgement of TRUE on the Statement, "Taral has committed the Crime
+of Promotor Misrepresentation".  Therefore, this Statement falls under
+the standards of proof given in Rule 1575.  That is, the Statement must
+not be Judged FALSE (finding that Taral committed a Crime) unless the
+evidence is sufficient to be certain of that Judgement beyond reasonable
+doubt.  I find that evidence from the two Rules mentioned above is
+sufficient to constitute reasonable doubt about Taral's guilt.
+
+According to Rule 1770, Promotor Misrepresentation is defined as
+"[k]nowingly and willfully distributing a Proposal (or text purporting
+to be a Proposal) not in the Current Batch".  This definition is
+ambiguous.  Two readings are: (a) "Promotor Misrepresentation is knowingly
+and willfully distributing a non-Current-Batch Proposal, whether one
+knows the Proposal is in the Current Batch or not"; and (b) "Promotor
+Misrepresentation is willfully distributing a Proposal one knows not to
+be in the Current Batch".  If the correct reading is (b), then the
+Statement is TRUE, because Taral has indicated that at the time he
+distributed Proposals 4017-4019, he did not believe he was distributing
+Proposals not in the Current Batch.  If, however, the correct reading
+is (a), then a Judgement of FALSE cannot yet be ruled out.
+
+However, Rule 1575 indicates that "it is a defense to any accusation of
+a Crime that the Player reasonably believed that eir actions were not a
+Crime at the time e performed them".  As observed above, Taral did not
+believe eir actions were a Crime at the time e performed them.  Thus the
+Judgement depends on whether Taral's belief was reasonable.  This is
+equivalent to asking whether Taral's belief that eir message of 5 June
+2000 "encapsulated" a message of 1 June 2000 distributed Proposals during
+the week of 29 May 2000.  In CFJ 1229, the Judge ruled that Taral did not
+distribute Proposals during that week; however, some Players have called
+for its Appeal.  This seems to indicate that, while it may turn out that
+CFJ 1229, if actually sent to an Appeals Board, is sustained, it was still
+reasonable to believe, before the Appeal, either that the message did or
+that it did not distribute Proposals during the week of 29 May 2000.
+Thus, even if the correct reading above is (a), Taral's reasonable belief
+that the actions e was performing did not constitute a Crime is sufficient
+defense by Rule 1575, and therefore a Judgement of TRUE is required.
+
+========================================================================
+
+Judge Maud's Evidence:
+
+(A)  Rule 1575/4
+(B)  Rule 1770/11
+
+-- A
+---------------------------------------------------------------------------
+
+Rule 1575/4 (Power=1)
+Standards of Proof
+
+      A CFJ alleging that a Player has violated a Rule or committed a
+      Crime shall not be judged TRUE unless the evidence is sufficient
+      to be certain of that Judgement beyond reasonable doubt.
+
+      In all other CFJs, the Judgement shall be consistent with the
+      preponderance of the evidence at hand.
+
+      Furthermore, it is a defense to any accusation of a Crime that
+      the Player reasonably believed that eir actions were not a
+      Crime at the time e performed them, or that e reasonably did not
+      know that e was required to perform an action, when such
+      nonperformance is defined as a Crime.  A Player shall not be
+      convicted of a Crime if this defense applies.
+
+-- B
+---------------------------------------------------------------------------
+
+Rule 1770/11 (Power=1)
+Distributing Proposals
+
+      The Current Batch for a given Week is a subset of the Proposal
+      Queue.  Its contents shall be calculated at the beginning of
+      that Week.  It shall contain every Disinterested Proposal then
+      in the Proposal Queue, as well as:
+
+          * all Interested Proposals in the Proposal Queue with
+            Priority greater than zero, if their number is not
+            greater than the Batch Size; or
+
+          * a set of Interested Proposals in the Proposal Queue
+            with the highest positive Priority the cardinality
+            of which is equal to the Batch Size.  Ties for
+            highest Priority shall be broken in favor of those
+            Proposals which have been in the Queue the longest.
+
+      During a Week, the Promotor must distribute all and only
+      Proposals in that Week's Current Batch.  Failure to Distribute
+      all Proposals in that Current Batch during that Week is the
+      Class 0.5 Infraction of Promotor Tardiness.  All Players are
+      authorized to detect and report this Infraction.  Knowingly and
+      willfully distributing a Proposal (or text purporting to be a
+      Proposal) not in the Current Batch is the Class 2 Crime of
+      Promotor Misrepresentation.  All Players are authorized to
+      detect and report this Crime.
+
+      A Player may make a Claim of Error stating that a distributed
+      Proposal was not in the Current Batch at the time it was
+      distributed.  If this is admitted, then:
+
+          * the Voting Period for that Proposal shall immediately
+            end;
+          * all Votes cast on that Proposal shall be cancelled;
+            and
+          * the Promotor shall add the Proposal to the Proposal
+            Queue.
+
+      Once a Proposal is distributed, it is removed from the Proposal
+      Queue.
+
+      The Promotor shall distribute each proposal in the batch to the
+      Public Forum, accompanied by its number, the identity of its
+      Proposing Entity, and an indication of whether the Proposal is
+      Ordinary or Democratic.
+
+      The failure of the Promotor to distribute any of the above
+      accompaniments with a Proposal does not deprive the
+      distribution of the Proposal of any legal effect.
+
+      A Proposal is only considered to be legally distributed if it
+      is explicitly marked as such. The Promotor is permitted to
+      publish the text of undistributed Proposals without necessarily
+      distributing them.
+
+      Immediately after all Proposals in the Current Batch have
+      been distributed the Promotor shall reduce the Priority of all
+      Proposals remaining in the Queue to half of their previous
+      values, rounding fractions down.
+
+========================================================================

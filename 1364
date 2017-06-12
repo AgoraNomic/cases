@@ -1,0 +1,164 @@
+==============================  CFJ 1364  ==============================
+
+    Once any Bond of a given species becomes redeemed, all Bonds of that
+    species become redeemed.
+
+========================================================================
+
+Caller:                                 Syllepsis
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+Appeal:                                 1364a
+Decision:                               REASSIGN
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Syllepsis:                    08 May 2002 20:10:17 GMT
+Assigned to Murphy:                     10 May 2002 04:28:48 GMT
+Judged FALSE by Murphy:                 10 May 2002 04:39:33 GMT
+Appealed by Steve:                      10 May 2002 04:59:38 GMT
+Appealed by root:                       10 May 2002 05:06:26 GMT
+Appealed by Maud:                       10 May 2002 05:08:29 GMT
+Appeal 1364a:                           10 May 2002 05:08:29 GMT
+REASSIGNED on Appeal:                   28 May 2002 21:00:31 GMT
+Assigned to G.:                         28 May 2002 21:48:30 GMT
+Judged FALSE by G.:                     31 May 2002 23:34:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1966 states:
+
+"All Bonds of a given species are fungible."
+
+This means that any property having contractual relevance must be the
+same for all Bonds of a given species.
+
+R1969 states:
+
+      When the issuer of a Bond receives an unredeemed, mature Bond
+      from another entity where the transfer was executed for the
+      purpose of redemption, the Bond in question is thereby redeemed,
+      and the issuer incurs a debt to the transferor of that Bond for
+      the face value of the bond.
+
+Since the Bond in question here is thereby redeemed, and Bonds of a
+given species are fungible, then all Bonds of said species are also
+redeemed.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1966/0 (Power=1)
+Bonds
+
+      Bonds are Property.  Each Bond, in addition to being a Property,
+      has the following characteristics:
+      (a) an issuer (which must be a Player or an entity with an
+          Executor);
+      (b) a face value, expressed as the positive multiple of the MUQ
+          of some Currency; and
+      (c) a maturity date.
+
+      A species of Bond consists of all Bonds with the same issuer,
+      face value and maturity date.  All Bonds of a given species are
+      fungible.  In any transaction involving Bonds, it is sufficient
+      to identify the Bonds involved by species.
+
+      The Recordkeeper of Bonds shall be the Usuror.
+
+      A Bond is mature on and after its maturity date, and is immature
+      prior to that date.  If the maturity date of a Bond is specified
+      only as a date, it shall be presumed to mature at midnight UTC
+      of that day (the beginning of that day).
+
+
+Rule 1969/0 (Power=1)
+Redemption of Bonds
+
+      Any entity which possesses an unredeemed, mature Bond may redeem
+      it by transferring the Bond to its Issuer, expressing in eir
+      Notice of Transfer the purpose of redeeming the Bond.
+
+      When the issuer of a Bond receives an unredeemed, mature Bond
+      from another entity where the transfer was executed for the
+      purpose of redemption, the Bond in question is thereby redeemed,
+      and the issuer incurs a debt to the transferor of that Bond for
+      the face value of the bond.
+
+      If the issuer of a Bond receives an unredeemed, immature Bond
+      from another entity where the transfer was executed for the
+      purpose of redemption, the issuer incurs a debt to the
+      transferor for that Bond; but if the Bond in question matures
+      while still in the possession of the issuer, this debt is
+      cancelled and the issuer incurs a debt to the transferor of that
+      Bond for the face value of the Bond, as if the transfer had been
+      made at the time the Bond matured.
+
+      Once redeemed, a Bond may not be further transferred.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+"Fungible" does not mean "indistinguishable".  In particular, my Stems
+are distinguishable from Steve's Stems, and similarly my Bonds of species
+X are distinguishable from Steve's Bonds of species X.  FALSE.
+
+========================================================================
+
+Appellant Steve's Arguments:
+
+Too quick. 'Fungible' *does* mean 'functionally interchangeable'.
+Swapping a Stem of mine with a Stem of yours has no effect, because we
+both get left with Stem. But swapping a redeemed Bond of mine with an
+unredeemed Bond of yours does have an effect - or ought to.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The Court feels that the Caller, as a Proud Student of the Great
+Discipline of Physics, should know better.
+
+The Caller's argument is that the contractural fungibility of the Bonds
+transforms all Bonds of a species from Unredeemed into Redeemed as soon
+as one is so transformed as (previously) provided by the Rules.
+
+We have an Agoran custom of treating Property as tangible goods, rather
+than as abstact concepts.  For example, we disallow destroying negative
+properties to create positive properties.  It is good to be reminded of
+this tangibility, as the virtual nature of these tangible goods makes it
+tempting to explore abstract but tangibly impossible operations.
+
+For example, the fact that one dollar can be exchanged for 100 pennies,
+and either can be requested as fungible items to satisfy a debt, does
+not transform 100 pieces of metal into a piece of paper, nor vice versa.
+The Physicist should know that a more energetic process is required.
+
+Further, the Caller's argument, if true, could be applied to the reverse
+case:  that as long as at least one Bond (of same species) remains
+Unredeemed, they all remain Unredeemed.  This is a contradiction.
+
+So, while it *might* be possible that the former Rules allowed  the
+functional exchange of redeemed and unredeemed bonds, this functional
+equivalence should not be confused with a mechanical and tangible
+"switch" of a Bond from Unredeemed to Redeemed.
+
+That tangible switch only applied to individual Bonds when transferred
+as specified.  Again, the Court feels that the Caller's grasp of physics
+should lead em to understand that we Disapprove of the
+"Action-at-a-Distance" that transforming all conspecific Bonds would
+imply.  The Court returns a judgement of FALSE.
+
+========================================================================

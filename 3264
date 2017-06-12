@@ -1,0 +1,58 @@
+==============================  CFJ 3264  ==============================
+
+    I have already called a CFJ in this message. (Plaz)
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  FKA441344
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  30 Aug 2012 00:20:40 GMT
+Assigned to ais523:                     30 Aug 2012 19:23:41 GMT
+ais523 recused:                         08 Sep 2012 21:00:06 GMT
+Assigned to FKA441344:                  17 Sep 2012 14:14:29 GMT
+Judged TRUE by FKA441344:               30 Sep 2012 22:30:41 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+[CotC: The initiating message specified UTF-8. E280AE is Unicode
+ RIGHT-TO-LEFT OVERRIDE, E280AC is POP DIRECTIONAL FORMATTING. The
+ numbering of these CFJs does not necessarily match the order in which
+ they were created.]
+
+Define the word "=E2=80=AEooF=E2=80=AC" as meaning {I call a CFJ on the
+statement "I
+have already called a CFJ in this message. (Foo)".}, and define the
+word "=E2=80=AEraB=E2=80=AC" as meaning {I call a CFJ on the statement "I have
+already
+called a CFJ in this message. (Bar)".}.
+
+=E2=80=AEraB ooF
+
+The answers are obvious, right? The first one is FALSE, and the second
+one is TRUE.
+
+Oh, and for good measure, I call a CFJ on the statement "I have
+already called a CFJ in this message. (Plaz)".
+
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+The email's headers indicate that it should be interpreted as UTF-8,
+and when it is so interpreted the Foo comes before the Bar.
+
+========================================================================

@@ -1,0 +1,82 @@
+==============================  CFJ 2875  ==============================
+
+    Ienpw III is a player.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       02 Oct 2010 16:14:36 GMT
+Assigned to ais523:                     03 Oct 2010 18:02:41 GMT
+Judged TRUE by ais523:                  07 Oct 2010 16:54:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The From: address matches Ienpw III's address in the latest Registrar's
+report of past registrations.
+
+The one-character Caesar shift is pretty obvious to anyone familiar
+with the concept; the subject hints at it, the body and signature are
+consistent, and the signature matches eir nickname.  Even someone who
+was only familiar with substitution ciphers would have a reasonable
+chance of figuring it out.
+
+The de-shifted message is
+  "Denuntio consilium meum ut in tabulas ludi referam."
+
+Googling the phrase turns up nothing.  Googling the first word
+indicates that it's Latin.  A few online Latin-to-English translators
+render it as somewhere in the ballpark of "I announce my intent to be
+registered as a player.", but vaguely enough that I'm uncertain.
+
+========================================================================
+
+Caller's Evidence:
+
+[subject: Caesaris > Dbftbsjt]
+
+Ienpw III wrote:
+
+> Efovoujp dpotjmjvn nfvn vu jo ubcvmbt mvej sfgfsbn.
+>
+> --
+> Jfoqx JJJ
+
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+The amount of hoops you had to go through *clearly* indicates that
+this is not clear intent.
+
+Not only is the cypher not ROT-13 (which I still wouldn't think clear
+enough, but), it is ROT-1, so one has to, potentially, try every
+possible ROT- to find it.
+
+And then, the text is in freaking *Latin*.
+
+You're too forgiving, Murphy :)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The message in question, given that it doesn't take ridiculous amounts
+of effort to decode (with Latin being fairly well-known in the Agoran
+community, as far as I know), is clearly identifiable as an attempt to
+test whether a particular message will cause a registration to occur.
+Making such a test is a reasonably clear and unambiguous sign that a
+person intends, at some point, to become a player and merely wants to
+try to register ambiguously. Therefore, I judge CFJ 2875 TRUE.
+
+========================================================================

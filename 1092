@@ -1,0 +1,75 @@
+======================================================================
+                               CFJ 1092
+
+ If a Player with nonzero Score deregisters and later re-registers,
+ eir Score is the same as it was when e deregistered.
+
+======================================================================
+
+Judge:        Steve
+
+Judgement:    TRUE
+
+Eligible:     Blob, Chuck, Crito, elJefe, Harlequin, Jester, Kolja A.,
+              Michael, Morendil, Oerjan, Sherlock, Steve, Swann
+
+Not eligible:
+Caller:       Murphy
+Barred:       -
+Disqualified: -
+On hold:      Antimatter, General Chaos
+
+======================================================================
+
+History:
+  Called by Murphy, Sat, 18 Apr 1998 07:18:20 -0700
+  Assigned to Steve, Mon, 20 Apr 1998 09:15:48 +0100
+  Judged TRUE, Tue, 21 Apr 1998 10:59:21 +1000
+  Published, Tue, 21 Apr 1998 09:11:58 +0100
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+I Judge that the Statement is TRUE. R1432 is relevant here: when an
+ex-Player reregisters, e is the same Player. Since no Rule states that
+a Player's Score is changed by the act of deregistration, I draw the
+conclusion that a reregistering ex-Player resumes with same Score e
+had when e deregistered, as the Caller alleges.
+
+======================================================================
+
+(Caller's) Arguments:
+
+Rule 1775 says "Only a Player can have a Score" but doesn't say what
+happens when an ex-Player re-registers.  As a candidate for
+Scorekeepor, I'd like to know whether Time Agent will get his Score of
+-13 back if e ever re-registers.
+
+
+List of relevant Rules:
+
+
+Rule 1775/0 (Power=1)
+Points and Scoring
+
+      Every Player has associated with em specific numerical value
+      known as their Score.  A Player's Score shall always be an
+      integer.  If the rules specify a non-integral change in a
+      Player's Score, that change shall be rounded to the nearest
+      integer before being applied.
+
+      Only a Player can have a Score.
+
+      Changes in a Player's Score can be referred to as a gain or
+      loss of Points.  A gain of some number of Points means that
+      number is to be added to a Player's Score, a loss of some number
+      of Points means that number is to be subtracted from a Player's
+      Score.
+
+      This rule takes precedence over all other Rules dealing with
+      Points and Scoring.
+
+======================================================================

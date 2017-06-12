@@ -1,0 +1,196 @@
+==============================  CFJ 1573  ==============================
+
+    OscarMeyr became Speaker on or about 22:58:35 on 30 June 2005.
+
+========================================================================
+
+Caller:                                 Maud
+Barred:                                 OscarMeyr
+Barred:                                 root
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Maud:                         04 Jul 2005 16:34:24 GMT
+Assigned to G.:                         08 Jul 2005 08:15:01 GMT
+Judged FALSE by G.:                     11 Jul 2005 17:35:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+OscarMeyr's announcement of papal succession violated the conditions
+specified in rule 786.  However, that rule does not appear to specify
+what happens if an announcement is made incorrectly (probably a bug).
+The conclave is concluded whether an announcement is made according to
+provision (b) (empty club) or provision (c) (nonempty club).
+
+I think that rule 786 should be read as empowering the ADoP to make a
+player a pope by announcement, but requiring em to do so only when
+that player is in the cardinal club and has at least as much support
+as any other member of that club.  If this reading is correct, then
+OscarMeyr has made emself pope regardless of whether e was a cardinal.
+
+Now, rule 402 says that whenever a pope is not a cardinal, e ceases
+being a pope.  But it also says that whenever a valid notice of papal
+succession is published, the current Speaker ceases being Speaker,
+then the named pope becomes Speaker, then that pope ceases to be a
+pope.
+
+I think that the sequence of events in this case is as follows.  Note
+that I am heavily anthropomorphizing here; I think my conclusions are
+still correct.
+
+      1. OscarMeyr publishes the notice.
+      2. The announcement makes em a pope by rule 786.
+      3. Simultaneously:
+         3.1. Rule 402 tries to make em stop being a pope, because
+              e are the ADoP.
+         3.2. Rule 402 recognizes that the notice of papal succession
+              is valid, because it was published by the ADoP and the
+              player named in it is a pope.
+      4. Hence Rule 402 simultaneously does the following:
+         4.1. It makes em stop being a pope (but it remembers who e
+              is).
+         4.2. It makes the current Speaker cease to be Speaker.
+      5. "The pope" (i.e., the person named in the notice of papal
+         succession) becomes the Speaker.
+      6. Rule 402 tries to make "the pope" cease being a pope, but
+         fails because that person is no longer a pope.
+
+========================================================================
+
+Caller's Evidence:
+
+1.  OscarMeyr's announcement concluding the conclave
+2.  Rule 402/12 (Power=1) Church and State
+3.  Rule 786/14 (Power=1) Default Procedure for Conclaves
+
+1.
+
+OscarMeyr's announcement is available online at
+
+      http://www.agoranomic.org/pipermail/agora-business/2005-June/005055.html
+
+and is included by reference.
+
+2.
+
+Rule 402/12 (Power=1)
+Church and State
+
+      A cardinal is an active, ready player who is neither the current
+      Speaker nor the Associate Director of Personnel.
+
+      While there is a pope, no other player may become a pope.
+      Whenever a pope is not a cardinal, e ceases being a pope.
+
+      A notice of papal succession declares that a specified player is
+      a pope.  The notice is valid only if it is published by the
+      Associate Director of Personnel and the specified player is
+      indeed a pope.
+
+      Upon publication of a valid notice of papal succession, the
+      current Speaker ceases to be Speaker, the pope becomes the new
+      Speaker, and the pope ceases to be a pope.
+
+3.
+
+Rule 786/14 (Power=1)
+Default Procedure for Conclaves
+
+      When the rules require that a conclave be convened, and no
+      competing conclave is currently convened, then as soon as
+      possible, the Associate Director of Personnel (ADoP) shall
+      announce that e convenes a conclave, specifying a collection of
+      cardinals and indicating that those cardinals are to convene a
+      conclave.  Provided that:
+
+      (a) the rules require that the conclave be convened;
+
+      (b) no competing conclave is currently convened; and
+
+      (c) the collection consists of qualified cardinals,
+
+      then as of such an announcement, a conclave consisting of the
+      qualified cardinals is convened.  A cardinal is qualified for a
+      conclave unless the rules specify otherwise.
+
+      The first seven days following the convening of a conclave
+      constitute the posturing period.  During the posturing period, a
+      qualified cardinal may announce eir intent to become a pope.
+      Any other player may publicly support or revoke support for a
+      cardinal's claim until the posturing period ends.
+
+      As soon as possible after the posturing period ends, the ADoP
+      shall perform the following actions in order:
+
+      (a) E shall determine the cardinal club, which is the collection
+          of qualified cardinals with positive support from the
+          populace and at least as much unwithdrawn support as any
+          other qualified cardinal.
+
+      (b) If the cardinal club has no members, e shall announce this
+          fact, and announce the conclave was inconclusive.
+
+      (c) If the cardinal club has at least one member, e shall select
+          one of its members to be pope, then publish the list of
+          members of the cardinal club, indicating which member is to
+          become a pope.  That member becomes a pope as of this
+          announcement.
+
+      The ADoP's announcement in (b) or (c) concludes the conclave.
+      If the conclave was inconclusive, eir announcement of this fact
+      shall constitute a valid call to conclave.  If the conclave has
+      not concluded within a fortnight from the time it was convened,
+      any player may announce that it is inconclusive; upon such an
+      announcement, the conclave shall conclude with an inconclusive
+      result, and a conclave must be convened.
+
+      If the office of ADoP is ever vacant, or the identity of its
+      holder cannot be determined with reasonable certainty, then the
+      first player who announces that e convenes a conclave, with eir
+      announcement adhering to the conditions for the ADoP's
+      announcement, shall then be permitted and required to perform
+      the actions that would have been required of the ADoP for that
+      conclave.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The caller claims that the following to events occured:
+
+>       1. OscarMeyr publishes the notice.
+>       2. The announcement makes em a pope by rule 786.
+
+If the announcement did not in fact make OscarMeyr a pope, then the rest of
+the caller's arguments are irrelevant and the correct judgement would be
+false.
+
+The paragraph of R786 that allegedly enabled the ADoP's announcement to make
+OscarMeyr a pope is:
+       (c) If the cardinal club has at least one member, [the
+           ADoP] shall select one of its members to be pope, then
+           publish the list of members of the cardinal club,
+           indicating which member is to become a pope.  That member
+           becomes a pope as of this announcement.
+OscarMeyr was not in fact a member of the Cardinal Club eir name was
+indicated, by the ADoP's announcement, as the one selected (this fact is
+undisputed).  Did the announcement make OscarMeyr a pope anyway, as the caller
+contends?
+
+No.  The Wholly Beneficient and Majesterial Wisdom that is This Court opines
+that if the ADoP makes an announcement, but selects/ indicates an entity that
+is not a member of the cardinal club, then the announcement does not meet the
+minimum requirements of "selecting one of [the cardinal club's] members" and
+"indicating which member [of the cardinal club] is to become pope" that would
+cause the announcement to be treated as a pope-making instrument.
+
+The Wholly Beneficient and Majesterial &tc. therefore finds:  FALSE.
+
+========================================================================

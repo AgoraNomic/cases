@@ -1,0 +1,49 @@
+==============================  CFJ 3253  ==============================
+
+    WoodsPam called a CFJ in the quoted message.
+
+========================================================================
+
+Caller:                                 Pavitra
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Pavitra:                      13 Jul 2012 03:26:44 GMT
+Assigned to ais523:                     16 Jul 2012 06:33:11 GMT
+Judged FALSE by ais523:                 16 Jul 2012 13:27:23 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On 07/12/2012 08:04 PM, WoodsPam wrote:
+> I am now a player.
+> Does that work?
+
+========================================================================
+
+Gratuitous Arguments by OscarMeyr:
+
+WoodsPam was clearly verifying that e properly registered as a player, and did
+not explicitly call for judgment in eir message.  I recommend finding FALSE.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Calling CFJs is not registering, and so requires
+the use of the standard R478 mechanism for taking actions, rather than
+the intentionally weaker R869 mechanism. Among other things, this
+requires specifying the action (in this case, calling a CFJ); asking a
+question doesn't specify calling a CFJ, nor does it imply calling a CFJ
+strongly enough to be unambiguous. (As an alternative argument for
+FALSE, CFJ 3237 found that a message cannot create a CFJ without
+unambiguously specifying the statement to be inquired into, and that
+message didn't.)
+
+========================================================================

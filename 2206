@@ -1,0 +1,72 @@
+==============================  CFJ 2206  ==============================
+
+    I transferred at least 2 Chits to the PerlNomic Partnership today
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       02 Oct 2008 19:23:51 GMT
+Assigned to G.:                         09 Oct 2008 03:07:07 GMT
+Judged FALSE by G.:                     09 Oct 2008 06:46:39 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I transfer 1 Chit to the PerlNomic Partnership.
+
+========================================================================
+
+Caller's Arguments:
+
+This message has multiple timestamps on, from the various
+servers that process messages. As a result, by rule 478, it happens more
+than once.
+
+(N.B. I don't really expect this to stick, and also it would cause a
+massive recalculation of gamestate, but I'd like to see the specific
+argument by which the judge manages to find FALSE.)
+
+========================================================================
+
+Judge G.'s Arguments:
+
+FALSE.  The act of making an announcement is the whole act of sending a
+message, in R478, '"A person "publishes" or "announces" something by
+sending a public message.'  Here, the act of sending is a single act, so
+regardless of the rest of R478 a single announcement of an action is a
+single action.
+
+Of course, the process of "sending" includes multiple steps - deciding
+what to send, typing, etc.  To treat it as a platonic and instantaneous
+act it is necessary to assign the legal fiction of an instant of
+action, regardless of evidence of the message's passage through the
+ether (the passage in most cases takes less time than said deciding,
+typing, etc.)   There is nothing inconsistent in creating such a legal
+fiction; what would be inconsistent would be assuming that this legal
+fiction allows one to choose multiple points in the sending process
+as originating multiple messages.  In fact, if we took this splitting
+view, why not look at the date stamp per packet which might assemble the
+"message" out of order entirely?  Or say that "the message consists of
+a message sent when the first letter was typed, then a second message
+when the second letter was typed", etc.  All of these quite simply
+do not follow the idea that "sending a message" is a specific, single,
+fully-formed communication.
+
+By the combination of R478 and precedent, we have chosen the date-stamp
+that is commonly displayed by email readers on non-full-header mode as
+the prima facie date stamp of choice, and only discard that stamp if
+other evidence (legally significant delays) are evident in the steps of
+the transfer process.  In those cases another of the stamps might be
+chosen by a judge to be more relevant, but this is still choosing a
+single timestamp from among choices, not choosing all of them.
+
+========================================================================

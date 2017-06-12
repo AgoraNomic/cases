@@ -1,0 +1,50 @@
+==============================  CFJ 2460  ==============================
+
+    It is POSSIBLE for a player to register with a nickname that was
+    used by a now-deregistered former player.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  woggle
+Judgement:                              
+
+
+Judge:                                  ehird
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       22 Apr 2009 14:15:05 GMT
+Assigned to woggle:                     23 Apr 2009 10:23:23 GMT
+woggle recused:                         23 Apr 2009 20:00:31 GMT
+Assigned to ehird:                      23 Apr 2009 21:50:43 GMT
+Judged TRUE by ehird:                   24 Apr 2009 15:45:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The third paragraph of rule 2170 might imply that this is illegal (but
+possible); on the other hand, a player who deregistered in 2001 is
+hardly likely to have been mentioned within the past three months,
+except in historical information. (Sometimes a long-deregistered player
+comes up in discussion, though, such as Andre and eir null patent title
+in one recent case, or of course the First Speaker.)
+
+Of course, even if it does turn out to be illegal, I don't think the new
+player can be considered guilty of anything, it's almost certainly
+UNAWARE-equivalent.
+
+========================================================================
+
+Judge ehird's Arguments:
+
+TRUE; it is merely probably illegal due to the high possibility of
+confusion. This gets less and less likely as the old player's time
+gets older.
+
+========================================================================

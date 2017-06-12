@@ -1,0 +1,98 @@
+==============================  CFJ 1505  ==============================
+
+    root successfully played the Hot Potato card on Sunday, May 16 2004.
+
+========================================================================
+
+Caller:                                 root
+Barred:                                 G.
+Barred:                                 Wes
+Barred:                                 Sir Toby
+
+Judge:                                  t
+Judgement:                              
+
+
+Judge:                                  Sherlock
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         18 May 2004 23:22:26 GMT
+Assigned to t:                          22 May 2004 18:18:16 GMT
+t recused:                              31 May 2004 20:33:03 GMT
+Assigned to Sherlock:                   31 May 2004 20:40:04 GMT
+Sherlock recused:                       14 Jun 2004 20:40:04 GMT
+Assigned to Murphy:                     15 Jun 2004 07:30:17 GMT
+Judged TRUE by Murphy:                  20 Jun 2004 21:40:29 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+root transferred the card to the Deck but did not specify
+whether e did so as a normal transfer or whether the intent was to
+activate the exploit.  It may be that such specification was
+unnecessary and the exploit was activated anyway.
+
+========================================================================
+
+Caller's Evidence:
+
+1) Hot Potato Card Description:
+
+      * Caption: Hot Potato
+        Quota: 1
+        Elements: Persistent
+        Exploit: Transfer this Card to another entity. If that entity
+          does not post to a Public Forum the phrase "Hot Potato" with
+          48 hours, they are guilty of the Class 1 Infraction of
+          Dropping the Potato which you are authorized to Report.
+
+2) Copy of the message in which root transfered the Hot Potato card:
+
+    * From: Ian Kelly (view other messages by this author)
+    * Date: Sun, 16 May 2004 14:29:36
+
+I transfer my Albatross Flies Away card to Murphy.
+I transfer my Boost-o-Matic card to RedKnight.
+I transfer my Hot Potato card to the Deck.
+
+-root
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+Rule 2069/0 (Power=1)
+Card Definitions
+(excerpts)
+
+      II. Definitions
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule says otherwise, a Card is
+          automatically transferred to The Deck immediately after
+          being Played.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Playing a card is defined as taking an action described in an Exploit
+of that card.  No rule restricts this to cases in which the actor
+intends to activate an Exploit, or explicitly states that e activates
+an Exploit.  I judge CFJ 1505 to be TRUE.
+
+========================================================================

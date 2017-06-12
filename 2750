@@ -1,0 +1,41 @@
+==============================  CFJ 2750  ==============================
+
+    If the Chief Whip announced that 2 + 2 = 5, it would be legal to
+    publicly agree.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by Murphy:                       29 Nov 2009 17:17:05 GMT
+Assigned to ais523:                     29 Nov 2009 17:57:58 GMT
+Judged UNDETERMINED by ais523:          02 Dec 2009 21:46:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The Chief Whip card is possessed by the Lost and Found
+Department, a non-person.  Is this sufficient to force a judgement
+of UNDECIDABLE?
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2750 UNDETERMINED. The way I parse the statement of the CFJ,
+the conditional is only satisfied if the L&FD (the Chief Whip at the
+time the CFJ was submitted) makes an announcement. Several rather
+radical rule changes would be needed before that would be possible, and
+it's impossible to guess what changes in Truthiness would or would not
+be made at the same time. Therefore, there's insufficient evidence to
+resolve the hypothetical.
+
+========================================================================

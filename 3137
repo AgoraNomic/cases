@@ -1,0 +1,45 @@
+==============================  CFJ 3137  ==============================
+
+    With no changes to rule 2333, nor to other rules that would change
+    how rule 2333 is interpreted, if a contestmaster announces that one
+    or more persons "win the contest", and then someone announces that
+    all those players satisfy the Victory Condition of Victory, doing so
+    would be a true Victory Announcement.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       22 Dec 2011 00:32:46 GMT
+Assigned to omd:                        10 Jan 2012 18:50:23 GMT
+Judged FALSE by omd:                    14 Jan 2012 21:53:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I think this is pretty much uncontroversially TRUE. I need
+the CFJ's existence for another purpose, though.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Such an announcement would (a) be false, because per Rule
+2343, "Victory Conditions are satisfied instantaneously, not
+continuously," (b) not be a Victory Announcement because it would not
+satisfy the form required by Rule 2343 (the announcement must state
+that they have satisfied, not currently satisfy, a victory condition),
+and (c) not be a Victory Announcement unless it was labeled as such,
+and might additionally be false if those persons were not players, or
+the contestmaster was referring to a different contest than eir own
+when announcing that they "won the contest".
+
+========================================================================

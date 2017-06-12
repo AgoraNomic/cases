@@ -1,0 +1,143 @@
+=========================  Criminal Case 2307  =========================
+
+    The PerlNomic Partnership violated Rule 2215 by announcing that I am
+    a party to it in the quoted message.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  OscarMeyr
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  10 Dec 2008 05:10:54 GMT
+Defendant PerlNomic Partnership informed:
+                                        10 Dec 2008 22:32:37 GMT
+Assigned to OscarMeyr:                  18 Dec 2008 23:45:41 GMT
+Judged NOT GUILTY by OscarMeyr:         19 Dec 2008 00:11:24 GMT
+
+========================================================================
+
+Gratuitous Arguments by Sgeo:
+
+How can a codenomic intend much of anything?
+
+========================================================================
+
+Caller's Arguments:
+
+On Tue, Dec 9, 2008 at 11:46 PM, Warrigal <ihope127+w@gmail.com> wrote:
+> I zoop a criminal case against the PerlNomic Partnership for violating
+> Rule 2215 by announcing that I am a party to it in the quoted message.
+> Arguments: Codenomics generally aren't very smart, so they usually
+> can't be blamed for their mistakes, but I've been a non-party for so
+> long that this really should have been fixed by now.
+
+If this doesn't work, I intend, with two support, to initiate the same
+criminal case; act on behalf of Sgeo, ehird, and comex to support it;
+and initiate it.
+
+Further arguments: A codenomic intends to mislead when it does
+something misleading but nobody does anything about it.
+
+========================================================================
+
+Caller's Evidence:
+
+On Tue, Dec 9, 2008 at 11:38 PM, The PerlNomic Partnership
+
+<perlnomic@nomictools.com> wrote:
+> This message serves to announce and make effective changes to
+> the list of parties to the PerlNomic Partnership (a public contract).
+>
+> The current list of parties is:
+...
+>               ihope                       ihope127@gmail.com
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+I believe Warrigal is the Executor of the quoted message from the PNP
+(based on http://nomic.info/perlnomic/log.txt ).
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Relevant line of the log cited by woggle:
+
+Tue Dec  9 20:38:54 2008 - update_agora.cgi: ihope sent a message with
+subject 'PNP Parties Change' to Agora.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+The PerlNomic Partnership contract includes this clause:
+
+{{{
+5. The PerlNomic Partnership shall act by using the mechanisms of the
+   PerlNomic game to send messages to the appropriate Agoran fora.  This
+   is the only mechanism by which the PerlNomic Partnership may act.
+}}}
+
+which is effective whether or not Warrigal is considered to have
+agreed to the contract.  (Interpreting otherwise would cause all
+messages triggered by GoogleBot to be ineffective, which would be
+against the best interests of Agora, PerlNomic, and the PNP.)
+
+However, if Warrigal triggered the message in question with full
+knowledge of what it would contain, and without making an attempt to
+change it first, then that would be a strong argument in favor of
+sufficiently "explicit, willful consent" (or at least a sentence of
+DISMISS).
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+The PNP log shows:
+1.  The Caller emself caused the PNP to send the message in question.
+2.  At the time of the message in question, a proposal in PNP was
+being prepared to remove the Caller from the PNP.
+
+I find it difficult to conclude that a non-member of the PNP would be
+able to trigger such functionality of the PNP with intent to decieve
+Agora about that person's membership in the PNP.  Without strong
+evidence to the contrary, I conclude that the Caller was acting as if
+e was a party to the PNP at the time in question.  The effort to
+remove em from the Partnership shows that the other parties were also
+acting as if the Caller was a party.
+
+I conclude that the PNP did not act with intent to mislead Agora
+(guilt statement a), and so I rule NOT GUILTY.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+The relevant portion of the PerlNomic log.
+
+Tue Dec  9 20:38:54 2008 - update_agora.cgi: ihope sent a message
+with subject 'PNP Parties Change' to Agora.
+Tue Dec  9 20:54:33 2008 - propose.cgi: woggle proposed
+proposal.woggle.expel_ihope.
+Tue Dec  9 20:54:45 2008 - edit_proposal.cgi: woggle edited
+proposal.woggle.expel_ihope.
+Tue Dec  9 20:55:06 2008 - edit_proposal.cgi: woggle edited
+proposal.woggle.expel_ihope.
+Tue Dec  9 20:55:06 2008 - edit_proposal.cgi: woggle closed
+proposal.woggle.expel_ihope.
+Tue Dec  9 20:55:19 2008 - vote.cgi: woggle voted yes on
+woggle.expel_ihope(+1/-0/~0/8).
+Wed Dec 10 03:50:10 2008 - vote.cgi: Wooble voted yes on
+woggle.expel_ihope(+2/-0/~0/8).
+Wed Dec 10 04:12:59 2008 - vote.cgi: ihope voted no on
+woggle.expel_ihope(+2/-1/~0/8).
+
+========================================================================

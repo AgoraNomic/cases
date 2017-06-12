@@ -1,0 +1,155 @@
+==============================  CFJ 2510  ==============================
+
+    It is POSSIBLE to enact a power-3 rule reading in part {This rule
+    takes precedence over all other rules with which it conflicts.}
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      07 May 2009 00:08:59 GMT
+Assigned to root:                       08 May 2009 06:11:06 GMT
+root recused:                           17 May 2009 21:31:40 GMT
+Assigned to ais523:                     17 May 2009 21:38:44 GMT
+Judged TRUE by ais523:                  22 May 2009 21:21:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I each case, it is possible that Rule 1482 makes the supposed changes
+impossible. Depending on whether 1482 applies based on the current state
+of the ruleset or the potential state of the ruleset, the answers may
+well be different. If the judge wishes me to explain in more detail, e's
+free to ask; but I'm having a hard time getting it down right now, so
+I'll defer explanation.
+
+I think the answers are FALSE to all but the second, which is TRUE.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+When talking about what is possible by changing the rules anything can
+change.  These should all be TRUE, as it is possible to remove the
+blocking section of R1482 (removing it would not in itself change
+precedence so it doesn't block its own removal) and then enact any of
+these within the same proposal.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The possibility or illegality of an action cannot take into
+consideration the ability to change the rules or else all such inquiries
+would be TRUE - it is referring just to the ability to do that precise
+action.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+These are only of academic interest now we've changed the rules, but:
+
+First, I note that Goethe's technicality is correct, in that the
+proposal in question has various ways to work around the precedence
+freeze and satisfy the statement of the CFJ. Therefore, I judge CFJs
+2507-2510 all TRUE on a technicality. Now, for the essence behind the
+questions.
+
+The essence of these cases is what "takes precedence" means. In
+particular, is the rule attempting to invoke the definition in the old
+R1030, to influence the equal-priority without having any legal force,
+or not? Unfortunately, although it fits a best-interest-of-the-game
+argument, I don't see how a portion of a rule claiming to take
+precedence over another can have no legal effect in itself (specifying
+something non-legally-binding in order to trigger things in other
+rules); a mechanism for doing something like that certainly could have
+been added to the ruleset, but it wasn't. A legally binding claim to
+take precedence over other rules, therefore, is likely to cause problems
+with the old R1482.
+
+There are two possible ways that such proposals could succeed; if there
+was actually no conflict (so R1482 did not block the change), or if the
+proposal somehow managed to gain precedence over R1482 (a strange loop,
+given that R1482 itself defined precedence).
+
+The rule that allows proposals to do anything is rule 106. It doesn't
+claim to take precedence over anything but another rule which would
+permit a proposal to take effect, and no rules did so at the time;
+therefore, rule 106 definitely isn't trying to take precedence over
+1482. It also specifies that preventing a proposal taking effect is
+secured; rule 1482 had sufficient power to overcome such security, and
+therefore, rule 1482 is capable of preventing a proposal passing without
+even conflicting with rule 106. However, one interesting point here is
+whether it's rule 106 or the proposal enacting the rules; it seems very
+clear that it's the proposal itself (especially because it's the
+proposal's power that matters to enact the rules), and interestingly,
+there are no rules for governing precedence between rules and proposals.
+It's not completely clear what "takes effect" means; however, an
+explicit clarification in R1482 that a proposal taking effect can't
+cause the ruleset to leave any rule but R1482 determining precedence
+between rules with unequal power means that this is not a get-out
+clause.
+
+What about a lack of a conflict? It seems to me that any rule which
+claimed to take precedence over another rule of a different power would
+be specifying a method of resolving precedence claims that contradicts
+R1482. (Another irrelevant technicality giving an irrelevant verdict of
+TRUE: the new rule itself could define terms or add disclaimers such
+that the text fragments shown in the CFJs don't mean what they appear to
+say.) Rules that claim to take precedence over all other rules are
+definitely claiming to take precedence over rules with a different
+power, so if not for the technicalities, CFJs 2507 and 2509 would be
+FALSE.
+
+As for CFJs 2508 and 2510: the question here is if the rule "conflicts"
+with another rule of a different power. (If these rules were enacted
+indirectly, incidentally, they would be very dangerous, as they'd
+prevent the enactment of another rule of a different power that
+conflicted with the original rule!) It would certainly be possible to
+have a minimal rule with nothing but the text in the CFJ; that has the
+fewest conflicts, and so is the case I will consider.
+
+So think about two rules with the following text, one power-3, one
+power-4:
+{{{This rule takes precedence over all other rules with which it
+conflicts.}}}
+
+What rules can it possibly conflict with (under the ruleset at the time
+this CFJ was called)? Only 1030 and 1482, which were the only
+precedence-setting rules at the time the CFJ was called. (Because,
+presumably, none of the "this rule takes precedence over all other
+rules" rules ever existed, until they were ratified into existence after
+R1482 was fixed, but that's after the CFJ was called and so irrelevant
+here.) The problem here is that the rules claim precedence over R1482
+iff they conflict with it; in the case of the power-4 rule, it conflicts
+with R1482 iff it claims precedence over it! The argument here goes: is
+it R1482 or the new rule that determines precedence, even though they
+agree? If it's R1482, then by R1482 it's the new rule, which is a
+contradiction. If it's the new rule, then it doesn't exist in the first
+place, which is also a contradiction. So for the new rule to claim
+precedence over R1482 is a contradiction, and when there are two equally
+consistent interpretations of a logical loop (X iff Y, Y iff X), it
+makes more sense to take the consistent one. So in the case of the
+power-4 rule, CFJ 2508, TRUE even without the technicalities.
+
+The power-3 rule is slightly easier; given that both R1482 and R1030
+were power-3, claiming to take precedence over them doesn't trigger
+R1482, so there's no need to evaluate whether they conflict or not.
+Therefore, CFJ 2510 is also TRUE even without the technicalities.
+
+Whew, am I glad all this doesn't matter any more!
+
+========================================================================

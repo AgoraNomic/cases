@@ -1,0 +1,82 @@
+==============================  CFJ 3303  ==============================
+
+    The office of Registrar is Postulated.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      12 Apr 2013 21:41:41 GMT
+Assigned to Machiavelli:                14 Apr 2013 07:57:38 GMT
+Judged TRUE by Machiavelli:             15 Apr 2013 19:06:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Per Rule 2276, "When the holder of an office ceases to be an active player,
+the office's Assumption is flipped to Assumed."
+
+The holder of Registrar did not cease to be an active player; an active player
+ceased to be holder of Registrar.
+
+========================================================================
+
+Caller's Evidence:
+
+On Fri, Apr 12, 2013 at 5:34 PM, omd <c.ome.xk@gmail.com> wrote:
+
+> On Fri, Apr 12, 2013 at 4:58 PM, omd <c.ome.xk@gmail.com> wrote:
+> > Oops.  Campaign pledge: if re-elected, I'll actually notice that I'm
+> > the Registrar.
+>
+> I resign Registrar per scshunt's request on IRC, but this stands.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+I refer to Judge ais523's arguments for CFJ 2729:
+
+> I interpret "the holder of an office ceases to be an active player" as "an
+> officer ceases to be an active player", not "an event occurs before
+> which an office was held by an active player and after which that office
+> was not held by an active player", because the two readings do exactly
+> the same thing (due to the irrelevance of the assumption of a vacant
+> office) except that in the situation where an inactive player becomes an
+> officer via a mechanism in another rule, the first reading makes the
+> office unambiguously Postulated, whereas the second reading makes the
+> office Postulated via Cretans; for an ambiguous sentence like that,
+> where both meanings come to the same thing, it makes sense to pick the
+> meaning where the rule does not contradict itself. Even if I picked the
+> other interpretation, though, the verdict would be the same.
+
+So, suppose that the office of Registrar is held by Player 1, who is active,
+and then Player 2, who is inactive, is elected to the office. If we use Judge
+ais523's second interpretation ("an event occurs before which an office was
+held by an active player and after which that office was not held by an active
+player"), then the third paragraph of Rule 2276 states that Registrar is
+flipped to Assumed, while the fourth paragraph simultaneously states that
+Registrar is flipped to Postulated. Thus, under this interpretation, Rule 2276
+contradicts itself, and by Rule 2240, the fourth paragraph takes precedence.
+
+I agree with Judge ais523's argument that we should pick the meaning where the
+rule does not contradict itself, and besides, I think this is a more natural
+reading of the rule. Thus, the correct interpretation is the "an officer
+ceases to be an active player" interpretation. I judge TRUE.
+
+I see two potentially significant consequences of this. The first is that it
+is possible for a vacant office to be Postulated. Currently, this don't have
+much real effect, because the rules always treat Postulated vacant offices the
+same way as Assumed vacant offices (except in the case discussed in CFJ 3304,
+below). The second is that an inactive player can be a Postulated
+office-holder if e is elected to that office while inactive.
+
+========================================================================

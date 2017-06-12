@@ -1,0 +1,46 @@
+==============================  CFJ 2423  ==============================
+
+    Murphy's recent attempt to cause Rule 2223 to amend itself to read
+    'This rule intentionally left blank' was using the mechanism
+    specified in rule 2223, rather than the mechanism specified in the
+    rule created by proposal 6130.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 Murphy
+
+Judge:                                  ehird
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by ais523:                       16 Mar 2009 16:39:09 GMT
+Assigned to ehird:                      23 Mar 2009 16:02:28 GMT
+Judged UNDECIDABLE by ehird:            23 Mar 2009 16:23:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Ambiguous actions are normally taken to fail. I'm not sure whether the
+action Murphy tried was ambiguous enough to cause it to fail, but it
+certainly isn't completely clear-cut. Rule changes are held to a higher
+standard, as is shown by this quote from rule 105:
+{{{
+      Any ambiguity in the specification of a rule change causes
+      that change to be void and without effect.
+}}}
+
+========================================================================
+
+Judge ehird's Arguments:
+
+Mu. See below. Er, I can't actually figure out a good judgment to this
+one. I think it might actually be...
+
+I judge UNDECIDABLE. Please appeal if there's another suitable judgment.
+
+========================================================================

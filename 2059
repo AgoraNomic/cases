@@ -1,0 +1,85 @@
+==============================  CFJ 2059  ==============================
+
+    BobTHJ holds the Patent Title Left in a Huff.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 BobTHJ
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           01 Jul 2008 19:00:33 GMT
+Assigned to ais523:                     04 Jul 2008 06:33:19 GMT
+Judged FALSE by ais523:                 04 Jul 2008 15:05:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On or about 16 Jan 2008 (according to the Registrar's report) BobTHJ
+published a Cantus Cygneus and deregistered/was deregistered in a
+Writ of FAGE.
+
+At the time, R1922/22 did not define Left in a Huff, nor did any other
+Rule.
+
+On or about 12 Feb 2008, Proposal 5434 added the following to Rule 1922:
+      (f)  Left in a Huff, to be awarded by the Clerk of the Courts or
+           the Registrar (whichever one gets around to it first) to any
+           player who publishes a Cantus Cygneus.
+
+Finally, on or about Mar 3, 2008, Registrar root attempted to award the
+title to BobTHJ:
+
+> Oops.  I award the title of Left in a Huff to BobTHJ.
+
+The question is, does the way 1922(f) empower an award based on publishing
+a Cantus Cygneus before 1922(f) existed?  I argue no, as the verb use
+"who publishes" does not adequately imply or allow us to infer retroactive
+application.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Rule 649 states:
+      A Patent Title CAN only be awarded by a proposal, or by the
+      announcement of a person specifically authorized by the Rules to
+      make that award.
+The question is, at the time when the then Registrar attempted to award
+Left in a Huff to BobTHJ, was e specifically authorized by the Rules to
+do so? At that point, the relevant part of Rule 1922 stated:
+      (f)  Left in a Huff, to be awarded by the Clerk of the Courts or
+           the Registrar (whichever one gets around to it first) to any
+           player who publishes a Cantus Cygneus.
+The arguments given focus on the 'who publishes' part of this rule; this
+is, to me, ambiguous, but I believe that the most sensible reading of
+this is "whenever a player publishes a Cantus Cygneus, this event
+happens", i.e. it's a one-off event. Therefore, the event envisaged in
+rule 1922 happens at the point at which the Cantus Cygneus is published,
+so if it was before the rule was added, the event never happens at all.
+This implies FALSE.
+
+However, there is another matter to consider, which is in the words 'to
+be awarded'. This, to me, does not seem to meet rule 649's criterion of
+"specifically authorized by the Rules"; which person is authorized, if
+any? Whichever of the CotC or the Registrar gets round to it first is
+possibly authorized (even this is dubious, because it isn't very
+specific, but game custom is that awarding patent titles is possible in
+some cases); however, the only way to tell when a player gets round to
+it is when they attempt to award the title. This produces an interesting
+chicken-and-egg problem, where the title cannot be awarded until an
+attempt has been made to award the title. It could be said that the
+initial attempt to award the title validates itself; but this is hardly
+specific, as rule 649 implies. Therefore, it is impossible to award
+Champion until the CotC or the Registrar specifically states or implies
+that they have got round to it, and as that (as far as I can tell)
+didn't happen, this again implies FALSE.
+
+========================================================================

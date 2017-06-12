@@ -1,0 +1,201 @@
+==============================  CFJ 1542  ==============================
+
+    The rules currently define no card with the caption "Your Turn".
+
+========================================================================
+
+Caller:                                 Kolja
+Barred:                                 G.
+
+Judge:                                  Sherlock
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Kolja:                        12 Apr 2005 10:12:16 GMT
+Assigned to Sherlock:                   15 Apr 2005 08:28:45 GMT
+Judged FALSE by Sherlock:               19 Apr 2005 19:01:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The text of rule 2076 contains text that might be
+interpreted as defining the card. However, it doesn't say anywhere that
+this rule is meant to define cards (as other rules with similar effect
+do, e.g. 2071). Without this context, the rules text has no legal
+effect.
+
+One may argue that the rules title "Card cards" implies that the rule
+aims to define cards, but according to 1485, a rule title "is not part
+of the Rule itself and has no effect on the meaning or application of
+the Rule, being merely a convenience for the Players.".
+
+I am aware that judging this CFJ true will create a messy bookkeeping
+cleanup for cards, but I would still prefer that to establishing
+precedence that meaningless rules texts are made to have legal
+implications based on arbitrary assumptions and interpretations not
+based on the rules text itself.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2071/4 (Power=1)
+Wacky Cards
+
+      The following Classes of Cards are defined:
+
+      * Caption: Albatross Flies Away
+        Quota: 1
+        Elements: Limited [Immaculate Players] [3]
+        Exploit: You may revoke one of your own Albatrosses.
+
+      * Caption: Dud
+        Elements: Budgeted, Persistent
+        Exploit: You may wish in your own mind that you had a
+          luckier Draw.
+
+      * Caption: Player Stasis
+        Quota: 1
+        Elements: None
+        Exploit: A Player of your choice is unable to Play a Card for
+          the next 88 hours.
+
+      * Caption: Hot Potato
+        Quota: 1
+        Elements: Persistent
+        Exploit: Transfer this Card to another entity. If that entity
+          does not post to a Public Forum the phrase "Hot Potato"
+          within 48 hours, they are guilty of the Class 1 Infraction
+          of Dropping the Potato which you are authorized to Report.
+
+      * Caption: It's a Surprise!
+        Quota: 1
+        Elements: Handed [2], Delayed [3]
+        Exploit: You may Draw two Cards without paying a Fee.
+
+      * Caption: Discard and Draw
+        Quota: 1
+        Elements: None
+        Exploit: Discard X cards from your hand.  For a fee of
+          X Kudos, draw X cards.  Do not include this card as
+          one of the discarded cards.
+
+      * Caption: Rebel Rabble
+        Elements: Budgeted,
+                  Restricted [Rebellious]
+        Exploit: For a fee of N Kudos, where N is the current number
+          of Rebellious Players, increase the effective number of
+          Rebellious Players by 1 for 10 days (which is one week
+          on the Revolutionary Calendar).  Count the day this Card
+          is played as day #1.
+
+
+History:
+Created by Proposal 4574 (Wes), 14 May 2004
+Amended(1) by Proposal 4607 (Goethe), 8 August 2004
+Amended(2) by Proposal 4611 (OscarMeyr), 10 September 2004
+Amended(3) by Proposal 4614 (Goethe), 21 September 2004
+Amended(4) by Proposal 4627 (root), 4 December 2004
+
+----------------------------------------------------------------------
+
+Rule 2076/0 (Power=1)
+Card cards
+
+       Caption:  Your Turn
+       Elements: Budgeted
+       Exploit:  A Player you name must play or discard a card in the
+                 next 72 hours, or commit the Class-1 Infraction of
+                 Delay of Game, reportable by you.
+
+       Caption:  Discard Picking
+       Elements: Budgeted, Delayed[4]
+       Exploit:  If a copy of a card was played or discarded in the
+                 past 72 hours, you may name it, and a copy of that
+                 card, if one is still in the deck, is automatically
+                 transferred from the Deck to your hand.
+
+       Caption:  Enforced Charity
+       Elements: Budgeted, Delayed[3]
+       Exploit:  A Player you name must transfer a card of eir choice
+                 to you in the next 72 hours, or commit the Class-2
+                 Infraction of Greed, reportable by you.
+
+       Caption:  Drop your Weapon
+       Elements: Budgeted
+       Exploit:  A card of your choice, from the Gambler of your
+                 choice, is automatically Discarded, provided that
+                 Gambler has a copy of that card.
+
+       Caption:  Presto!
+       Elements: Budgeted, Delayed[7]
+       Exploit:  A card of your choice, from the Gambler of your
+                 choice, is automatically transferred to your hand,
+                 provided that Gambler has a copy of that card.
+
+History:
+Created by Proposal 4620 (Goethe), 20 November 2004
+
+---
+
+Rule 1485/8 (Power=1)
+Titles for Rules
+
+      Each Rule has a Title, which is a single line of text
+      containing not more than 60 characters.  The Title must be
+      listed by the Rulekeepor along with the Rule.  However, the
+      Title is not part of the Rule itself and has no effect on the
+      meaning or application of the Rule, being merely a convenience
+      for the Players.
+
+      A Rule Change that Creates a new Rule may specify a Title for
+      the new Rule.  If it does not, the Rulekeepor shall choose the
+      new Rule's Title.
+
+      The Rulekeepor is authorized to change the Title of a Rule
+      Without Objection.
+
+History:
+Created by Proposal 1634, Jul. 25 1995
+Amended(1) by Proposal 1668, Aug. 18 1995
+Amended(2) by Proposal 1673, Aug. 22 1995
+Amended(3) by Proposal 1740, Oct. 15 1995
+Amended(4) by Proposal 1754, Oct. 21 1995
+Amended(5) by Proposal 2741 (Zefram), Nov. 7 1996, substantial
+Amended(6) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
+Amended(7) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
+Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
+
+========================================================================
+
+Judge Sherlock's Arguments:
+
+Rule 2069 (Card Definitions) explains what it takes for a piece of text to
+be recognized as a Card:
+
+      II. Definitions
+
+      The Rules may define a Class of Card by specifying a Caption, a
+      Quota, zero or more Elements, and zero or more Exploits. All
+      Cards of the same Class shall be identical and fungible. Each
+      individual instance of a Card shall be considered to be a Copy
+      of that Class of Card.
+
+The text of the rule in question begins:
+
+       Caption:  Your Turn
+       Elements: Budgeted
+       Exploit:  A Player you name must play or discard a card in the
+                 next 72 hours, or commit the Class-1 Infraction of
+                 Delay of Game, reportable by you.
+
+There is no requirement in the rules that a Card be specified as such in
+order to exist.  It must simply list a Caption and a Quota.  There is a
+Caption of "Your Turn" and the Element Budgeted is included, so there is a
+Quota.  Hence, there is a Card known by the Caption "Your Turn".
+
+========================================================================

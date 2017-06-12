@@ -1,0 +1,108 @@
+==============================  CFJ 3101  ==============================
+
+    This is a CFJ
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       17 Oct 2011 03:17:51 GMT
+Assigned to woggle:                     17 Oct 2011 03:22:24 GMT
+Judged TRUE by woggle:                  18 Oct 2011 04:03:44 GMT
+Reconsideration requested by ais523:    18 Oct 2011 09:57:29 GMT
+Reconsideration requested by omd:       18 Oct 2011 10:03:30 GMT
+Reconsideration requested by Murphy:    18 Oct 2011 13:59:15 GMT
+Assigned to woggle:                     18 Oct 2011 13:59:15 GMT
+Judged TRUE by woggle:                  18 Oct 2011 16:09:48 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Interestingly, a-b has decided not to forward the message
+without a list moderator approving it, which makes the situation even
+more interesting.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+If the above-quoted message failed to create a judicial case,
+then I CFJ on the statement "This is a CFJ".  (This limits the
+gamestate ambiguity to who initiated it and when.)
+
+========================================================================
+
+Caller's Arguments:
+
+I suspect many email clients will show it being delivered to
+a-d but not a-b, because it'll arrive via both routes; should such a
+message really be acceptable for game actions?
+
+========================================================================
+
+Caller's Evidence:
+
+The headers on this email as I send it don't match all the
+envelope addresses (it's sent to a-d, but BCCed to a-b).
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+It'll come in with "BUS:" prefixed to the subject line if
+approved; no mail client is going to merge two messages with different
+subjects without any kind of threading info.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3101 TRUE. The message was sent via a public forum. The
+requirement for messages to be sent via a public forum does not impose
+requirements about how clear it is to other players that they are so sent.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d684>:
+
+I intend, with 2 support, to motion to reconsider this. The judgement
+doesn't explain the issue of who created the CFJ. If it was me, note
+that there's no evidence that I sent the CFJ to a-b at all, apart from
+my word in saying that I did, and Taral's that it was rejected (which
+was sent privately to me), so it seems a bit extreme that the message is
+considered to have been sent via a public forum.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d684>:
+
+If it was rejected, it was not sent "via" a public forum, only to a
+public forum.  See CFJ 1905.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I had thought I had received a 'BUS:'-prefixed copy of ais523's message,
+indicating actual delivery through agora-business, but that was
+apparently some sort of hallucination.
+
+The CFJ was created by Murphy, since none of ais523's messages were
+actually sent via the public forum. (Merely sending to the public forum
+is not sufficient. The message needs to be delivered as a result of it
+being sent to the public forum, even if it is not very clearly marked as
+such.)
+
+========================================================================

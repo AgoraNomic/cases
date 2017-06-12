@@ -1,0 +1,338 @@
+==============================  CFJ 1357  ==============================
+
+    If rule 1467 were repealed, currencies would still be properties.
+
+========================================================================
+
+Caller:                                 Maud
+Barred:                                 root
+
+Judge:                                  Sir Toby
+Judgement:                              TRUE
+
+Appeal:                                 1357a
+Decision:                               SUSTAIN
+
+========================================================================
+
+History:
+
+Called by Maud:                         29 Apr 2002 02:32:29 GMT
+Assigned to Sir Toby:                   05 May 2002 19:20:16 GMT
+Judged TRUE by Sir Toby:                06 May 2002 23:42:02 GMT
+Appealed by root:                       07 May 2002 04:48:50 GMT
+Appealed by Maud:                       07 May 2002 04:58:27 GMT
+Appealed by Sir Toby:                   07 May 2002 13:04:39 GMT
+Appeal 1357a:                           07 May 2002 13:04:39 GMT
+SUSTAINED on Appeal:                    16 May 2002 23:09:48 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The only rule that indicates what currencies are, besides placing
+additional requirements on them, is rule 1467.  However, proposal
+4018 (Property and Democracy) indicates that currencies are a type
+of property.
+
+Comments:
+
+Proposal 4018 is approximately 900 lines long.  Therefore, I will
+include only the relevant text from the proposal and a URL at which
+the entire proposal may be found.
+
+========================================================================
+
+Caller's Evidence:
+
+1.  Rule 1467
+2.  Excerpt from proposal 4018
+3.  URL at which proposal 4018 may be found
+
+=======================================================================
+1.  Rule 1467
+
+Rule 1467/7 (Power=1)
+Definition of a Currency
+
+      A Currency is a category of entities established by the Rules.
+      Each instance of a Currency is a Property. Instances of a given
+      Currency are fungible. The size of a single instance, or
+      "unit", of a given Currency is its Minimum Unit Quantity (MUQ).
+      Individual units of a Currency cannot be divided; therefore,
+      the final result of all computations involving numbers of units
+      of Currency shall be rounded off to the nearest integral
+      multiple of its MUQ.
+
+      Unless otherwise specified, the MUQ of a Currency is one (1).
+
+      Since units of Currency are fungible, it is not necessary for
+      the Recordkeepor of a Currency to track the individual
+      ownership of each unit; rather, it is sufficient to maintain a
+      record of the total number of units possessed by each entity
+      which possesses any number of units of that Currency.
+
+=======================================================================
+2.  Excerpt from proposal 4018
+
+A new concept, Property, is introduced. Currencies are a type of
+Property. The reason for creating Property is that there is really
+nothing about the transfer and debt rules that is specific to
+Currencies.
+
+=======================================================================
+3.  URL at which proposal 4018 may be found
+
+http://www.escribe.com/games/agora-official/m196.html
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+        When I first read over this CFJ, I wasn't sure what it was trying
+to accomplish. I thought it was an odd hypothetical question to consider.
+I was perplexed by the inclusion of proposal 4018 as evidence by the
+caller. In order to help clarify these issues for me, I issued a
+proto-judgement to agora-discussion and started a brief discussion about
+this CFJ.
+
+        Although not direcly specified in the CFJ itself, I now understand
+the crux of the caller's argument to be that proposals have "standing
+invisible effects". In particular, the caller identified comments within
+proposal 4018 that could possibly have an effect on resolving the question
+at hand.
+
+        When attempting to answer the question at hand, I am directed to
+rule 217 which specifies which items are to direct my judgement. I argue
+that the possible standing invisible effects of proposal 4018 can have an
+effect on my judgement, under the provisions of "other standards", as set
+forth in rule 217. However, "other standards" can only be used after all
+of the other items listed have been used.
+
+        Now, onto the issue of deciding the question. I first look to the
+rules for guidance. In this case, I must consider the hypothetical state
+of the ruleset if rule 1467 were to be repealed. In this state of affairs,
+currencies are no longer directly declared to be property. In looking over
+the rules discussing currencies, it becomes clear that several rules
+assume that currencies are property. One may argue that what the rules
+assume to be true must be true, but for the sake of argument we'll say
+that there is enough ambiguity in place to look beyond the rules for
+answering the question.
+
+        Onto game custom. I'm still a relative newcomer here, but I'll
+take a shot at it. Agorans tend to live by the word of the rules. No
+assumptions are taken as truth. Ambiguity is resolved by Calling For
+Judgement until the issue is reolved. No help there.
+
+        Onto commonsense. My commonsense tells me that the sheer number of
+rules assuming that currencies are property indicates that this might be a
+safe assumption to take as truth.
+
+        Onto past Judgements. I am not currently aware of past judgements
+along these lines. Unfortunately I don't have time to search through past
+judgements for something relevant.
+
+        Onto the best interests of the game. If this hypothetical
+situation were to come to pass, and this CFJ were to be judged false, it
+seems lots more ambiguity would arise. What would currencies be exactly?
+What do all the rules assuming currencies to be property actually mean?
+The sheer number of issues to resolve is enough to convince me that it's
+in the best interests of the game for currency to be assumed to be
+property.
+
+        After all that, if there was still any doubt in my mind about how
+to judge this CFJ, I would then apply "other standards". Those standards
+would very likely include the invisible standing effects of proposal 4018.
+Since the caller deemed it important enough to include it as evidence, I
+would certainly evaluate its effect on the case.
+
+        However, in this particular case, I did not need to evaluate the
+standing invisible effects of proposal 4018. After evaluating the rules, I
+felt there was sufficient reasons to assume that currencies are property.
+After taking into account commonsense, I am even more convinced of this.
+After considering the best interests of the game, I saw no reason to
+continue further into "other standards".
+
+        To support my claim that the rules assume currencies to be
+property in the absence of rule 1467, I submit the following argument:
+
+        Rule 1942 specifies that "a property is an entity which the rules
+permit to be possessed by another entity." There are tons of rules that
+talk about currencies. Several of them refer to owning or possessing
+currencies. One example is rule 1471 governing the creation and
+destruction of units of currency. For minting units of currencies, it
+states that "the newly created units are added to the Mintor's
+possessions." For destroying units of currencies, it states that "the
+units destroyed are removed from the possession of the entity performing
+the destruction." I'm certain more examples of currencies being owned by
+entities can be found. However, just one example should be sufficient to
+answer this CFJ.
+
+        I submit the following logic:
+           Property is an entity that can be owned by another entity.
+           Currency is something that can be owned by another entity.
+           Therefore, currency is property.
+
+        If that is insufficient, I also offer this argument:
+
+        Rule 1853 specifies a procedure for levying taxes of various
+currencies. When taxed, an entity incurs a debt in that currency. Part of
+Rule 1596 defines a debt as "an obligation arising under the Rules for one
+entity (the "debtor") to make a transfer of one or more Properties to some
+other entity (the "creditor").
+
+        I submit the following logic:
+           Only property can be the subject of a debt.
+           Currencies can be the subject of a debt.
+           Therefore, currency is property.
+
+========================================================================
+
+Judge Sir Toby's Evidence:
+
+Rule 217/3 (Power=1)
+Judgements Must Accord with the Rules
+
+      All Judgements must be in accordance with the Rules; however,
+      if the Rules are silent, inconsistent, or unclear on the
+      Statement to be Judged, then the Judge shall consider game
+      custom, commonsense, past Judgements, and the best interests of
+      the game before applying other standards.
+
+Rule 1942/2 (Power=1)
+Property
+
+      A property is an entity which the rules permit to be possessed
+      by another entity.  The term "possess" refers to the legal
+      status of possessing a property; the terms "possessor" and
+      "owner" are synonyms, as are "possess" and "own".  Individual
+      properties may not be created or destroyed, or their ownership
+      changed, except in accordance with the rules.
+
+      Each property shall have a recordkeepor, which is a player
+      required to maintain a record of who owns that property.  The
+      Treasuror is the recordkeepor for each property that would
+      otherwise have no recordkeepor.
+
+      If one of the official duties of an officer is to be the
+      recordkeepor of a property, then eir Weekly Report shall include
+      this record and any changes thereto since the last posting of
+      eir Report.
+
+Rule 1471/2 (Power=1)
+Creation and Destruction of Units of Currency
+
+      New units of a Currency are created when the Mintor of that
+      Currency transmits to the Recordkeepor of that Currency a notice
+      that e is creating new units of that Currency, specifying the
+      number of units that e is creating.  The newly created units are
+      added to the Mintor's possessions.
+
+      Units of Currency are destroyed when any entity which possesses
+      units of that Currency transmits to the Recordkeepor of that
+      Currency a notice that e is destroying units of that Currency,
+      specifying the number of units that e is destroying.  An entity
+      cannot destroy more units of a Currency than e possesses,
+      however.  The units destroyed are removed from the possession of
+      the entity performing the destruction.
+
+Rule 1853/8 (Power=1)
+Levying Taxes
+
+      Taxes may be levied only by an Officer explicitly permitted by
+      the Rules to do so.
+
+      An Officer levies a tax by announcing that e does so, and
+      specifying:
+
+        (1) The Currency being taxed.
+        (2) The percentage of the tax.
+        (3) Any exemptions applying to the tax.
+        (4) The Rule authorizing em to levy the tax.
+
+      Upon such an announcement, each taxable entity becomes liable to
+      the Bank for a debt equal to the specified percentage of eir
+      taxable holdings of that Currency at the time of the
+      announcement.  As soon as possible after this happens, the
+      Recordkeepor of that Currency shall publish a report listing
+      each entity's holdings of that Currency as of the time of the
+      announcement.
+
+      All entities are taxable, except for:
+
+        (a) the Bank
+        (b) all Rebellious Players who were Rebellious at the time the
+            intent to levy was published
+        (c) entities explicitly specified by the Rule authorizing the
+            levy as tax-exempt for that levy
+
+      All Currency holdings are taxable, except for holdings
+      explicitly specified by the Rule authorizing the levy as
+      tax-exempt for that levy.
+
+      The percentage of the tax may not exceed 50%, unless the Rule
+      authorizing the levy explicitly permits it to do so.
+
+Rule 1596/8 (Power=1) [Section (a) only]
+Debt
+
+      (a) A "debt" is an obligation arising under the Rules for one
+          entity (the "debtor") to make a transfer of one or more
+          Properties to some other entity (the "creditor").
+
+========================================================================
+
+Appellant root's Arguments:
+
+[initial text]
+The point of the CFJ was to determine whether standing invisible effects
+of Proposals can arise under the Rules.  If they can, then I would say that
+the Rules are clear as to how this CFJ should be judged.  Therefore, this
+should be the first point examined, IMO.
+
+[deciding the question]
+Just because some Rules seem to "assume" that something is true does not
+mean that the Rules declare that thing to be true.  At best this allows
+you to declare a state of inclarity, as you do, but even that is sketchy.
+I believe this topic has come up before, in the discussions surrounding
+the Zombie crisis from last August.  I'm aware that you weren't around
+then, and I'll see if I can dig that up.
+
+[game custom]
+[commonsense]
+Again, I disagree.
+
+[past Judgements]
+[best interests of the game]
+You seem to be finding that the highly unlikely possibility described by the
+Statement (that, for some reason, Rule 1467 might be repealed, with no other
+changes) is more of a threat to the game than the real possibility that
+forgotten clauses from forgotten proposals over the past few years are
+still in effect, disturbing the gamestate.  I disagree with this view.
+
+[final text]
+Again, I argue that what you label "other standards" should follow directly
+from the Rules and so be the first evidence considered.
+
+========================================================================
+
+Appellant Maud's Arguments:
+
+I don't necessarily agree anymore that the judge should have answered
+the question of whether standing invisible effects, well, stand, since
+that wasn't what the statement explicitly was about (although the
+arguments were).  However, the basis for the judgement appears to be the
+claim that whatever the rules assume to be, is, which is false.
+
+========================================================================
+
+Appellant Sir Toby's Arguments:
+
+        Well, for one, I just want to see if I can appeal my own
+judgement.
+
+        But, more importantly, it seems that several people want to see
+this treated more in depth, or at least differently, than the treatment I
+gave it. I also want to see what the appeals process will make of it.
+
+========================================================================

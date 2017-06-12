@@ -1,0 +1,123 @@
+==============================  CFJ 1922  ==============================
+
+    Murphy has at least one bean.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Zefram
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       04 Apr 2008 03:27:13 GMT
+Assigned to Zefram:                     06 Apr 2008 22:18:20 GMT
+Assigned to root:                       16 Apr 2008 01:04:57 GMT
+Zefram recused:                         16 Apr 2008 01:04:57 GMT
+Judged FALSE by root:                   22 Apr 2008 05:24:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The public contracts Universe 1 and Universe A were created
+simultaneously.  Each of them defines beans as a class of
+assets.  The first case is intended to test Rule 2166's
+"existing solely" clause; the second (trivially FALSE if the
+first case is FALSE) is intended to test which of the
+contradictory restricted-ownership clauses is effective.
+
+========================================================================
+
+Caller's Evidence:
+
+Evidence, part 1 of 3:  Excerpt from a message that I sent
+approximately 1.5 hours before I initiated these cases.
+
+> > I agree to this:
+> >
+> >   1) This public contract is named Universe 1.
+> >   2) Beans are a class of assets.
+> >   3) The recordkeepor of beans is Murphy.
+> >   4) Beans are restricted to the class of players whose nickname
+> >        is Murphy or pikhq.
+> >
+> > and this:
+> >
+> >   A) This public contract is named Universe A.
+> >   B) Beans are a class of assets.
+> >   C) The recordkeepor of beans is Murphy.
+> >   D) Beans are restricted to the class of players whose nickname
+> >        is Murphy or comex.
+> >
+> > The AFO agrees to both of these.
+
+Evidence, part 2 of 3:  Excerpt from earlier in the same message
+in which I initiated these cases.
+
+> > I create 2 beans in my possession.
+> > I transfer 1 bean to pikhq.
+
+Evidence, part 3 of 3:  Rule 2166/4 (Assets).
+
+      An asset is an entity defined as such by an instrument or
+      contract (hereafter its backing document), and existing solely
+      because its backing document defines its existence.
+
+      Each asset has exactly one owner.  If an asset would otherwise
+      lack an owner, it is owned by the Bank.  If an asset's backing
+      document restricts its ownership to a class of entities, then
+      that asset CANNOT be gained by or transferred to an entity
+      outside that class, and is destroyed if it is owned by an entity
+      outside that class.
+
+
+      The recordkeepor of a class of assets is the entity defined as
+      such by its backing document.  That entity's report includes a
+      list of all instances of that class and their owners.  This
+      portion of that entity's report is self-ratifying.
+
+      An asset whose backing document is not a rule generally CAN be
+      created by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "gain" an asset is to
+      have it created in one's possession; to "award" an asset to an
+      entity is to create it in that entity's possession.
+
+      An asset generally CAN be destroyed by its owner by
+      announcement, and an asset owned by the Bank generally CAN be
+      destroyed by its recordkeepor by announcement, subject to
+      modification by its backing document.  To "lose" an asset is to
+      have it destroyed from one's possession; to "revoke" an asset
+      from an entity is to destroy it from that entity's possession.
+
+      An asset generally CAN be transferred by its owner to another
+      entity by announcement, subject to modification by its backing
+      document.  A fixed asset is one defined as such by its backing
+      document, and CANNOT be transferred; any other asset is liquid.
+
+      A currency is a class of asset defined as such by its backing
+      document.  Instances of a currency with the same owner are
+      fungible.
+
+========================================================================
+
+Judge root's Arguments:
+
+It seems to me that since the "Universe 1" and "Universe A" contracts
+do not refer to one another, they define two distinct classes of
+assets that both happen to be called "beans".  Note that this does not
+conflict with Rule 1586, since neither class of assets is defined by
+the rules.
+
+Murphy did not clearly indicate whether e was attempting to create
+Universe 1 beans or Universe A beans, so I find the attempt failed
+altogether, and CFJs 1922 and 1923 are both FALSE.
+
+========================================================================

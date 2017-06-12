@@ -1,0 +1,226 @@
+==============================  CFJ 3145  ==============================
+
+    The statement "Amend Rule xxxx/yy" is equivalent to "Amend Rule xxxx
+    IFF its revision number is yy."
+
+========================================================================
+
+Caller:                                 Arkady
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Arkady:                       13 Jan 2012 22:50:28 GMT
+Assigned to ais523:                     14 Jan 2012 20:22:30 GMT
+Judged FALSE by ais523:                 15 Jan 2012 01:29:14 GMT
+Reconsideration requested by omd:       15 Jan 2012 02:31:46 GMT
+Reconsideration requested by Pavitra:   15 Jan 2012 02:37:59 GMT
+Reconsideration requested by Murphy:    15 Jan 2012 05:18:08 GMT
+Assigned to ais523:                     15 Jan 2012 05:18:08 GMT
+ais523 recused:                         26 Jan 2012 18:08:22 GMT
+Assigned to omd:                        28 Jan 2012 19:33:35 GMT
+Judged TRUE by omd:                     05 Feb 2012 23:42:40 GMT
+Reconsideration requested by ais523:    06 Feb 2012 10:12:22 GMT
+Reconsideration requested by omd:       06 Feb 2012 18:17:47 GMT
+Reconsideration requested by FKA441344:
+                                        06 Feb 2012 21:26:45 GMT
+Reconsideration requested by Murphy:    07 Feb 2012 05:42:02 GMT
+Assigned to omd:                        07 Feb 2012 05:42:02 GMT
+Judged TRUE by omd:                     08 Feb 2012 02:12:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This seems to be the most obvious interpretation.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The noun "Rule xxxx/yy" can only reasonably be parsed as "a rule named
+'xxxx/yy'". So I judge this FALSE, but only just; under the current
+ruleset, it could refer to a rule:
+      * with ID number xxxx and revision number yy
+      * with title xxxx/yy
+      * or commonly referred to as xxxx/yy
+The second is impossible in the current ruleset; the third isn't, as
+although no rule is currently commonly referred to with a name of that
+form, that could change without any ruleset amendments.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d844>:
+
+On Sat, Jan 14, 2012 at 8:29 PM, ais523 <callforjudgement@yahoo.co.uk> wrote:
+>      * or commonly referred to as xxxx/yy
+> The second is impossible in the current ruleset; the third isn't, as
+> although no rule is currently commonly referred to with a name of that
+> form, that could change without any ruleset amendments.
+
+I intend to call for reconsideration with two support, as this is
+highly unlikely.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d844>:
+
+I support. Common usage is that the first sense is meant.
+
+========================================================================
+
+Judge omd's Arguments:
+
+To address ais523's judgement-- like any CFJ statement, this one is
+impossible to evaluate without context about what definitions these
+terms have (or even what language they're written in), and since the
+CFJ statement suggests a hypothetical (the statements are not
+equivalent in all cases-- if you submitted a proposal containing one
+of the statements, its effect on the ruleset and subsequent
+publication requirements would depend on which one-- but "equivalent"
+here clearly implies "in effect, if they were hypothetically required
+to be applied to the ruleset"), it is valid and necessary for the
+context to back up from the precise gamestate at the time the CFJ was
+submitted and apply a cloud of generality, stating that the gamestate
+is merely within reasonable bounds of that one.
+
+Since rule changes are less expected than other changes and harder to
+predict the effects of, it is customary to assume that the relevant
+rules remain substantially the same; but there is neither rule nor
+custom that those bounds extend to no rule changes and all possible
+other changes.  That a rule will come to be commonly referred to as
+"xxxx/yy" in the near future is extremely unlikely, so it is no more
+reasonable to judge FALSE on the chance it might than on the chance a
+rule with that title will be created.
+
+As for the proposal, Rule 105 requires the specification of rule
+changes to be unambiguous.  Although Rule 1681 requires the SLR to
+include each rule's revision number, revision numbers are not
+otherwise defined, and although the ruleset has maintained a
+consistent revision number system for a long time, I'm presumably
+allowed to adjust the numbering as I see fit.  This is not good
+enough.  So the statements (in the context of a proposal) both do
+nothing, and are thus equivalent.  TRUE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d844>:
+
+I intend, with 2 support, to reconsider this judgement, as it
+contradicts itself. The judgement considers the possibility that the
+Rulekeepor might arbitrarily change (or already have arbitrarily
+changed) revision numbers, and yet excludes the possibility that a rule
+might come to be known by a name that looks similar to the standard
+notation for revision numbers. Both circumstances seem equally
+hypothetical (unless the Rulekeepor reacts by changing the revision
+numbers in the ruleset out of spite); indeed, it's more common in Agora
+to give things weird names in an attempt to exploit loopholes, than it
+is to change traditions such as the Ruleset format.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d844>:
+
+I support this intent, which I hereby dub "Rule 1023/28".
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d844>:
+
+I support because, in addition to ais523's arguments, the fact that
+the Rulekeepor could arbitrarily change revision numbers does not make
+the rule change any more ambiguous than, for instance, a vote of
+"ENDORSE Rulekeepor".
+
+========================================================================
+
+Judge omd's Arguments:
+
+Well, there are several differences here:
+
+- Referring to a revision number is always ill-defined, but "Rule
+xxxx/yy" would normally be unambiguous notation for "revision yy of
+Rule xxxx" (even if the meaning of "revision yy" is ambiguous).
+Almost any notation could hypothetically collide with a name that
+something might come to be known by-- "Amend 'Role and Attributes of
+Rules'" would normally be totally unambiguous if unusual, but if a
+contract with that title were created and commonly referred to as
+such, it would probably be ambiguous enough to fail.  Even, say, "Rule
+2141" might be the title of another object, and although having
+canonical names for things is strongly in the interest of the game, if
+the name somehow became deeply enmeshed in game custom, "Amend Rule
+2141" could become ambiguous.  So it doesn't make sense to predicate
+every CFJ on the possibility.  (Note that attempts to dub things "Rule
+xxxx/yy" with reference to ais523's judgement are much less
+hypothetical but don't count, since inquiry cases are on the truth of
+the statement at the time the case was initiated.)
+
+- As I mentioned, this CFJ statement is inherently hypothetical, while
+the specification of a rule change refers to actual circumstances.  It
+is reasonable to apply a stronger standard of unambiguity to reality,
+because doing so can usefully restrict input knowledge to the truly
+knowable, while hypotheticals are inherently unknowable.
+
+- Rule 105's "Any ambiguity in the specification of a rule change
+causes that change to be void and without effect" is way stronger than
+the traditional requirements for judgements.
+
+- Whether or not something has become commonly referred to as "Rule
+xxxx/yy" is at least knowable at any given time, but it's undefined
+where along the process of 'decision to make change -> local commit ->
+uploaded to web -> published' the game should consider a revision
+number to have been actually changed.  As ais523 noted, there is the
+distinct possibility of "already have arbitrarily changed", which is
+certainly the type of thing the ambiguity clause was intended to
+prevent.
+
+Furthermore, even if "Rule xxxx/yy" became ambiguous because it could
+refer to either a revision number or another object with that name (as
+part of reasonable context, I assume that xxxx/yy is  something
+generally considered an actual ID number and an actual revision
+number; if not, obviously there is no ambiguity), the outcome wouldn't
+be affected, because something that's ambiguous about whether or not
+it refers to something ambiguous is still ambiguous!  The rule change
+would still fail.
+
+Sidenote: ID numbers are not strictly regulated either; Rule 2141 says
+that "rules have ID numbers, to be assigned by the Rulekeepor", but
+does not explicitly prevent me from reassigning them.  However, ID
+numbers are so strongly enmeshed in rule and game custom as
+unambiguous identifiers that I'm not sure if an attempt to reassign
+them would be successful; meanwhile, revision numbers have not been
+regulated for seven years, and have often been inconsistent, such as
+in
+
+Amended(11) by Proposal 3916 (harvel), Sep. 27 1999
+Amended(11) by Proposal 3968 (harvel), Feb. 4 2000
+
+or
+
+Created by Proposal 498 (Alexx), Sep. 30 1993
+Amended by Proposal 869, ca. Apr. 7 1994
+Amended by Rule 750, ca. Apr. 7 1994
+Amended(1) by Proposal 1313, Nov. 12 1994
+
+or
+
+Null-Amended(3) by Proposal 2710, Oct. 12 1996
+(Today I would not record this in history, because it is not a change.)
+
+========================================================================

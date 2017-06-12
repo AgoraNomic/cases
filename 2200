@@ -1,0 +1,76 @@
+==============================  CFJ 2200  ==============================
+
+    This CFJ will exist one second from now.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  Sir Toby
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  28 Sep 2008 03:56:33 GMT
+Assigned to Sir Toby:                   28 Sep 2008 22:22:06 GMT
+Judged TRUE by Sir Toby:                04 Oct 2008 22:06:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I argue for FALSE, as it would be useful for earlier parts of a
+message to always take precedence over later parts, especially for
+things like Normish, where we might want to have a disclaimer followed
+by arbitrary text submitted by an untrusted user.
+
+========================================================================
+
+Caller's Evidence:
+
+Disclaimer: The remainder of this message is not necessarily true.
+
+I CFJ on the following statement: This CFJ will exist one second from now.
+
+Disclaimer: The above disclaimer is not necessarily true. This
+disclaimer takes precedence over the above disclaimer.
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+In looking up prior relevant judicial cases, this judge encountered CFJ
+1971 (see evidence 1). CFJ 1971 was regarding whether or not game
+actions can be taken given a specific disclaimer. The disclaimer read in
+part, "Any statements in the above message are not necessarily true,
+even if the message makes them appear to be so."
+
+Goethe submitted the following arguments for CFJ 1971 (which judge
+BobTHJ agreed with and solely used in judging the CFJ):
+
+"It may be possible, but only if taking the 'attemped game action' in
+question does not depend on the truth value of the statement, the truth
+of any information contained within the statement, or the truth of
+contextual information required to make the statement work. In
+particular, it doesn't work if the action requires reporting or
+announcing any kind of information (vote results, point scores, claim
+denials, etc.), as the DISCLAIMER ensures that said 'reporting' contains
+no information whatsoever on the truth of the information it purports to
+report, and so doesn't actually report it."
+
+Since the action taken by the caller of CFJ 2200 does not require
+reporting or announcing any kind of information, the action of
+initiating the CFJ succeeded. Having succeeded in initiating a CFJ, the
+CFJ still exists 1 second after being initiated.
+
+========================================================================
+
+Judge Sir Toby's Evidence:
+
+<evidence id="1">
+http://zenith.homelinux.net/cotc/format.php?cfj=1971
+</evidence>
+
+========================================================================

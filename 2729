@@ -1,0 +1,90 @@
+==============================  CFJ 2729  ==============================
+
+    The Assumption of the Registrar is Postulated.
+
+========================================================================
+
+Caller:                                 BobTHJ
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by BobTHJ:                       04 Nov 2009 22:27:15 GMT
+Assigned to ais523:                     06 Nov 2009 03:18:38 GMT
+Judged TRUE by ais523:                  12 Nov 2009 21:22:44 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Sun, Nov 1, 2009 at 17:07, Aaron Goldfein <aarongoldfein@gmail.com> wrote:
+>> Registrar     Yally               2009-10-24  2009-10-24  1   Assumed
+>
+> CoE: Registrar is Postulated.
+>
+It may be assumed. Yally is inactive. Depending on how you interpret
+R2276, it could be assumed, postulated, or possibly paradoxial if the
+rule attempted to flip it to both values simultaneously.
+
+========================================================================
+
+Gratuitous Arguments by Yally:
+
+I'm not inactive and have not been inactive
+since most recently assuming the office of Registrar.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First off, there is definitely not a paradox here. Rule 2276 flips
+assumption to Assumed when a player becomes an officer via its
+mechanism, and to Postulated when a player becomes an officer via
+another mechanism; these are disjoint, so it doesn't flip both at once
+like that. It also flips an office's assumption to Assumed at the
+instant in which its holder becomes inactive; this could theoretically
+cause timing ambiguity if becoming an officer caused a player to become
+inactive at the same instant, but no rule currently does that. Note that
+rule 2276 does /not/ cause Assumption to change just because an office's
+holder is inactive; only when the office's holder /becomes/ inactive. (I
+interpret "the holder of an office ceases to be an active player" as "an
+officer ceases to be an active player", not "an event occurs before
+which an office was held by an active player and after which that office
+was not held by an active player", because the two readings do exactly
+the same thing (due to the irrelevance of the assumption of a vacant
+office) except that in the situation where an inactive player becomes an
+officer via a mechanism in another rule, the first reading makes the
+office unambiguously Postulated, whereas the second reading makes the
+office Postulated via Cretans; for an ambiguous sentence like that,
+where both meanings come to the same thing, it makes sense to pick the
+meaning where the rule does not contradict itself. Even if I picked the
+other interpretation, though, the verdict would be the same.)
+
+There seems to be a dispute about whether Yally was active or not at the
+time, but it really doesn't matter for this CFJ; all that matters to
+determine the Assumption is the mechanism via which the officer was
+installed (assuming that eir activity hasn't changed since the office
+last changed hands). Yally stated "I make myself the holder of the
+Registrar office."; the office was assumed by Walker at the time, and
+therefore the only mechanism that could have been used was that in rule
+2276. As a result, the office remained Assumed (or was flipped to
+Assumed; either way, it doesn't matter). Later on, Yally won an election
+for the office of IADoP, which according to rule 2276 flips the office
+to Postulated (current officer would come to hold the office if e didn't
+hold it already). Note that none of the rest of rule 2276 can possibly
+trigger at this point, as the holder of the office didn't change, or
+change activity, at all, so the ambiguity above is moot in this case,
+and the argument above proving it moot is also moot. I judge CFJ 2729
+TRUE, and wonder how on earth anyone could wonder otherwise. (@BobTHJ:
+Yally had just posted a Registrar report marking emself as active, which
+you didn't CoE; and even if e had been inactive, e'd just won an
+election to make emself Registrar, whilst Registrar, which flips the
+office to Postulated and no mechanism to flip it back the other way was
+triggered. How on earth did you think that the office might have been
+Assumed?)
+
+========================================================================

@@ -1,0 +1,81 @@
+============================  Appeal 3004b  ============================
+
+
+Panelist:                               G.
+Decision:                               AFFIRM
+
+
+Panelist:                               omd
+Decision:                               AFFIRM
+
+
+Panelist:                               ais523
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Appeal initiated:                       25 Apr 2011 21:46:08 GMT
+Assigned to G. (panelist):              29 Apr 2011 02:23:18 GMT
+Assigned to omd (panelist):             29 Apr 2011 02:23:18 GMT
+Assigned to ais523 (panelist):          29 Apr 2011 02:23:18 GMT
+omd moves to AFFIRM:                    29 Apr 2011 03:48:31 GMT
+G. moves to AFFIRM:                     29 Apr 2011 16:00:01 GMT
+ais523 moves to AFFIRM:                 06 May 2011 02:23:18 GMT
+Final decision (AFFIRM):                06 May 2011 02:23:18 GMT
+
+========================================================================
+
+Gratuitous Arguments by Roujo:
+
+Being sentenced to 2 simultaneous TIME OUTs does not seem
+to be a worse sentence than just one - they overlap completely, and as
+such do not punish you any more than a single one of them. They
+originate from the same case, anyway: appealing one automatically
+appeals the other, so there isn't even a higher difficulty in
+appealing the two sentences. I don't see how this violates your R101
+right.
+
+========================================================================
+
+Panelist G.'s Arguments:
+
+Since "two simultaneous time-outs" is still an identical net
+punishment, this argument has no bearing.  Without extending this
+to be a precedent on R101 in cases where the net punishment would
+actually be additive, I opine AFFIRM.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+Timing of relative events (all UTC):
+
+ 4 Apr 15:58:55  2982 TIME OUT 7 begins, Yally becomes inactive
+ 4 Apr 16:54:36  2982 appealed, Yally becomes active
+ 4 Apr 22:35:56  2982 affirmed, Yally becomes inactive
+ 4 Apr 23:23:20  Yally becomes active
+ 6 Apr 15:40:47  2985 TIME OUT 14 begins, Yally becomes inactive
+ 6 Apr 19:00:28  Yally becomes active
+11 Apr 22:35:56  2982 time limit ends
+20 Apr 05:01:16  Proposal 7002 changes TIME OUTs from parallel to
+                   serial; Proposal 7012 changes reactivation from
+                   SHALL NOT to CANNOT
+20 Apr 15:40:47  2985 time limit ends
+21 Apr 05:42:08  3004 TIME OUT 14 begins, Yally becomes inactive
+                   and eir stasis timer becomes 14 days and it
+                   starts decreasing
+21 Apr 05:50:07  3004 appealed, Yally becomes active and eir
+                   stasis timer becomes zero
+
+The only simultaneous TIME OUTs are from 2982 and 2985, which
+doesn't violate R101 because they were for different violations.
+
+========================================================================
+
+Panelist ais523's Arguments:
+
+[no opinion given]
+
+========================================================================

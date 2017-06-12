@@ -1,0 +1,144 @@
+==============================  CFJ 1719  ==============================
+
+    Peekee is a player.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         12 Aug 2007 03:59:56 GMT
+Assigned to Zefram:                     12 Aug 2007 06:10:09 GMT
+Judged FALSE by Zefram:                 15 Aug 2007 15:47:59 GMT
+
+========================================================================
+
+Gratuitous Arguments by Peekee:
+
+I did not send the message. Somebody sent it from my web form. I did not in
+anyway instruct, or suggest to anybody to use the webform to send that
+message.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+This case is concerned with the message:
+
+|Received: from ariddell by fripp.uk-noc.com with local (Exim 4.63)
+|        (envelope-from <agora@peekee.co.uk>)
+|        id 1IK4F4-00021j-Mr
+|        for agora-business@agoranomic.org; Sun, 12 Aug 2007 04:35:50 +0100
+|To: agora-business@agoranomic.org
+|From: agora@peekee.co.uk
+|Message-Id: <E1IK4F4-00021j-Mr@fripp.uk-noc.com>
+|Date: Sun, 12 Aug 2007 04:35:50 +0100
+|
+|I DEREGISTER!
+
+It has already been established that messages of this form are sent via
+Peekee's public web form.  Peekee later commented on this particular
+message:
+
+|I did not send the message. Somebody sent it from my web form. I did
+|not in anyway instruct, or suggest to anybody to use the webform to
+|send that message.
+
+These comments were made in a message with a different From: header which
+is incompatible with it having been sent via the web form.  I therefore
+take Peekee's comments at face value.
+
+The primary question is who authored the message for the purposes of
+the rules.  This matter is crucially dependent on the intent of the
+involved parties in the use of the web form.
+
+Peekee could perfectly well have set up a web-to-mail gateway in order
+to be an alternative means of access to the public forum.  We would
+expect that kind of system to accept an email address for the From:
+line as well as message content.  Prior practice, specifically the role
+of the Distributor in early Agora, is that in this case the author of
+the message for legal purposes would generally be whoever decided to
+enter the message into the web form.  It would be clear that Peekee was
+not, and was not claiming to be, the author of the messages that e was
+forwarding.  If the From: header were ever incorrect then this would be
+a matter of forgery.  We would expect the purported author to repudiate
+the message, and the true author (if e could be identified) might well
+be in breach of rule 2149 due to the false claim regarding authorship.
+
+This hypothetical gateway is not the situation that we are presently faced
+with.  Messages entered into Peekee's web form are always mailed with the
+From: header showing "agora@peekee.co.uk", which is Peekee's registered
+email address, thus claiming to be from Peekee.  When e announced the
+web form, Peekee commented, in response to a query about their purpose,
+"but can you send emails as me?".  This indicates that Peekee intended
+that messages sent via the web form would be effectively from em ("sent
+as" em).
+
+E has also not contradicted this intent in the present case.  E has
+not repudiated the message in question, despite ample time and despite
+acknowledging awareness of the message's existence and attributes.
+E has described the factual circumstances around the sending of the
+message, but not made any explicit claim regarding legal authorship
+(other than the From: header of the message itself).
+
+I find that Peekee's intent was that messages sent via eir web form,
+and this message in particular, would qualify as having been authored by
+em for game purposes.  Further, considering Peekee's comments regarding
+intent and the discussion of an earlier message to the discussion forum,
+it is presumable that the sender of the present message also intended that
+it would qualify as having been authored by Peekee.  Despite a public
+request, the sender has not come forward to comment on the situation,
+so this natural presumption remains unchallenged.
+
+The question therefore arises of whether Peekee has the capacity to
+delegate the sending of messages on eir behalf to all users of eir
+web form.  We do not have explicit rules concerning delegation, but
+quite a bit of game custom.
+
+We've always accepted messages being sent with some degree of automation
+in their composition, and messages initiated by a cron job, as being
+authored by the responsible person.  Often it's not even possible to
+tell whether these kinds of automation have been applied, so attempting
+to make a distinction would be impractical and contrary to the best
+interests of the game.
+
+Partnerships, as they currently exist, do not have the ability to email
+directly on their own behalf.  They can act only through natural persons.
+Each partnership has therefore had a clause empowering its members to
+send email on its behalf under specified circumstances.  This, too, is a
+delegation of message sending, which has been accepted without question.
+A problem may occur if a member were ever to purport to send a message
+on behalf of a partnership when it was not actually legal for em to
+do so under the corporation's charter.  We can expect, as with plain
+forgery, that the partnership would then repudiate the message.  We would
+probably apply the corresponding principle of real-life corporate law,
+and judge that an ultra vires message is voidable under some reasonable
+circumstances.
+
+We also have a historical instance of an informally-specified partnership.
+The player Deb & Bob was composed of two natural persons, either of
+which could send message's on the player's behalf.  This is a delegation
+somewhat similar to the present partnership situation, except that the
+two authorised senders presumably did not have to confer before either
+sent a message on behalf of the player.  In that respect it is similar
+to the present Peekee situation.
+
+I find that the game custom is generally permissive in this respect.
+It is entirely possible for one person to send a message on behalf of
+the other.  This capability is not unlimited: no doubt the court will
+insist on reasonable limits, such as it being clear on whose behalf a
+message has been sent.  (It has been clear in every case mentioned.)
+
+I find that Peekee does have the capacity to delegate eir message sending
+to all-comers via a web form, and that the mechanics of the system e
+has in place are reasonable for this purpose.  I therefore find that the
+message in question was authored by Peekee, for the purposes of the rules.
+Peekee thereby deregistered emself, so I judge FALSE.
+
+========================================================================

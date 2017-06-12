@@ -1,0 +1,68 @@
+==============================  CFJ 3333  ==============================
+
+    Rule 649 contains the phrase "As soon as possible after a patent
+    title is awarded or revoked".
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by woggle:                       31 May 2013 08:08:58 GMT
+Assigned to G.:                         09 Jun 2013 18:16:55 GMT
+Judged TRUE by G.:                      10 Jun 2013 18:04:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This proposal only replaces "as soon as possible", but the text is
+"As soon as possible" in this sentence. The text "as soon as possible" also
+appeared elsewhere in the rule. R217's requirement that capitalization is
+"generally inconsequential" suggests that this means that both are replaced,
+but arguably this creates an "ambiguity in meaning".
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Judgement:
+
+The Proposal in question is Proposal 7420, and the clause is:
+  Amend the following rules, in the specified order, by replacing "as
+  soon as possible" with "in a timely fashion": [...] 649
+The phrase in R649 is capitalized while it is not in the proposal.
+
+This puts R105:
+       Any ambiguity in the specification of a rule change causes that
+       change to be void and without effect.   An inconsequential
+       variation in the quotation of an existing rule does not
+       constitute ambiguity for the purposes of this rule, but any
+       other variation does.
+in opposition to R217:
+       Differences in spelling, grammar, capitalization, whitespace,
+       dialect, or the use of synonyms or abbreviations, are generally
+       inconsequential in interpreting rules or communications, as long
+       they do not create ambiguity in meaning.
+
+Three possible arguments:
+1.  R105 takes precedence over R217.
+2.  R217 says only "generally" inconsequential, which is weaker than
+     R105's specific definition of inconsequential (for which this
+     variation would be consequential, as it is "any other variation").
+3.  R217 qualifies itself by saying "as long as they do not create
+     ambiguity" and R105 deals with the case where there is ambiguity.
+
+Any one of these arguments, or all together, argue for the difference in
+capitalization of 'A' as being consequential, therefore it was ambiguous
+as to whether the proposal text referred to the capitalized clause,
+therefore the rule change was void and without effect and the phrase
+remains in the rule.  TRUE.
+
+========================================================================

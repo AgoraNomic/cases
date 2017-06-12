@@ -1,0 +1,30 @@
+==============================  CFJ 1652  ==============================
+
+    the set of eligible voters on an Agoran decision can change during
+    its voting period
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       06 May 2007 00:19:24 GMT
+Assigned to omd:                        11 May 2007 06:32:41 GMT
+Judged TRUE by omd:                     14 May 2007 00:42:51 GMT
+
+========================================================================
+
+Judge omd's Arguments:
+
+TRUE.  There is no denotation to the contrary; the only real evidence to make
+this FALSE is Rule 107 (b) which recommends an explicit list of eligible
+voters but these lists are not usually published.  Furthermore, "by default"
+(R106) implies a somewhat lazy evaluation.
+
+========================================================================

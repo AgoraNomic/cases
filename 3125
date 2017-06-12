@@ -1,0 +1,68 @@
+=========================  Criminal Case 3125  =========================
+
+    scshunt broke rule 2338 by cashing a promise with insufficient
+    context.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 scshunt
+
+Judge:                                  omd
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by ais523:                       13 Nov 2011 22:59:49 GMT
+Defendant scshunt informed:             13 Nov 2011 22:59:49 GMT
+Assigned to omd:                        18 Nov 2011 23:34:26 GMT
+Judged NOT GUILTY by omd:               19 Nov 2011 00:04:12 GMT
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+First, I dispute the notion that there is insufficient referent. The
+message is generated via a promise. If 'this promise' has sufficient
+referent within the first attempt to cash it, then there is no reason
+to believe that that referent would change with multiple recursive
+applications of the promise. Moreover, the analogy to rules and
+proposals is flawed, as would the following proposal not succeed?
+
+{{
+Enact a new power-4 rule entitled "Superpowers" reading
+      This proposal CAN make arbitrary changes to the gamestate, rules
+to the contrary notwithstanding.
+
+Simultaneously enact two new rules, reading 'Tweedledee' and
+'Tweedledum', respectively.
+
+Repeal 'Superpowers'.
+}}
+
+While the referent to 'this proposal' has no meaning outside the
+context of the application of the proposal, it certainly does for the
+duration of the proposal. Applying the common-sense interpretation per
+R217, this would succeed. Likewise, I argue that the body of the
+promise, by referring to 'this promise', provides itself with
+sufficient context to apply correctly.
+
+========================================================================
+
+Judge omd's Arguments:
+
+"This promise" and similar constructions, while awkward considering
+how promises work, are well precedented:
+
+(omd) "I publicly congratulate the casher for eir judgement."
+(G.) "I transfer 6 points to the casher of this promise."
+(scshunt) "I retract any votes on the Proposal N and vote to ENDORSE
+the player cashing this promise."
+(scshunt) "I transfer 5 points to the cashier."
+
+Since there is an obvious and unambiguous referent, I see no reason to
+forbid the term.  NOT GUILTY.
+
+========================================================================

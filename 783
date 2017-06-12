@@ -1,0 +1,105 @@
+From nomic-official-owner@teleport.com Tue Jun 27 03:21:49 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id DAA26303 for <blahedo@quincy.edu>; Tue, 27 Jun 1995 03:14:01 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id BAA15785 for nomic-official-outgoing; Tue, 27 Jun 1995 01:12:52 -0700
+Received: from wing1.wing.rug.nl (wing1.wing.rug.nl [129.125.21.1]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id BAA15704 for <nomic-official@teleport.com>; Tue, 27 Jun 1995 01:12:35 -0700
+Message-Id: <199506270812.BAA15704@desiree.teleport.com>
+Received: by wing1.wing.rug.nl
+	(1.37.109.8/16.2) id AA00374; Tue, 27 Jun 1995 10:13:26 +0200
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: Judgement CFJ 783
+To: nomic-official@teleport.com
+Date: Tue, 27 Jun 95 10:13:25 METDST
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+
+			JUDGEMENT CFJ 783
+	("Agora's Rules (in particular 993/1) are currently such...")
+
+======================================================================
+
+Judgement:	FALSE
+
+Judge:		Vanyel
+
+Eligible:	Andre, Chuck, Dave Bowen, elJefe, Ian, JonRock, Kelly
+		KoJen, Steve, SugarWater, Swann, TAL, Vanyel, Xanadu
+		Zefram
+
+Caller:		Michael
+
+Barred:		none
+
+Not Eligible:	Michael (caller)
+		Blob (1005)
+		Coren, Pascal (1005 & On Hold)
+
+Changes:	Vanyel gains 3 Points for Timely Judgement
+
+======================================================================
+
+History:
+  Called by Michael, June 23 1995, 10:29 BST
+  Assigned to Vanyel, June 23 1995, 12:22 UTC
+  Judged FALSE by Vanyel, June 27 1995, 01:29 -0500 (CDT)
+
+======================================================================
+
+Statement & Requested Injunction:
+
+Agora's rules (in particular 993/1) are currently such that Proposals
+containing Directives can only be adopted if there are no votes
+AGAINST the Proposal.
+
+As this is a rule interpretation judgement, I am required by 789/1 to
+include a list of relevant rules.  In this case I believe the list to
+include 993/1 and 594/1.  If the Judge should find the statement TRUE,
+they may choose to an injunction as per 789.
+
+======================================================================
+
+Argument:
+
+594 states:
+      The Adoption Index of a Proposal shall be the least Index which
+      is not less than the minimum Adoption Index which would allow
+      all the Rule Changes within the Proposal to take effect.  This
+      paragraph yields to any Rule which may require a higher Adoption
+      Index for a given Proposal.
+
+993 states:
+      The Adoption Index of a Proposal containing a Directive must be
+      at least as great as that required by the Rule or Rules which
+      define the type of Directive contained in the Proposal.  Any
+      Proposal for which this is not true is not properly made.
+
+Only if there were no AGAINST votes can a Proposal containing
+Directives pass.  1274/0 defines an ordering on Indices such that a
+Proposal with a Voting Index (see 955/2) of Unanimity automatically
+has a greater index than any possible Adoption Index.  Otherwise it is
+impossible to determine the Voting Index required to adopt the
+Proposal. 
+
+======================================================================
+
+Judgement: FALSE
+
+Reasoning:
+At first I was confused by the argument, but it seems to boil down to
+the fact that the Rules seem to provide a lot of lower bounds for AI,
+but nothing else.  Yet, by calling in the quoted paragraph of 594, we
+see that the AI must be the "minimum...which would allow all the Rule
+Changes within the Proposal to take effect."  In the case of a Proposal
+with Directives and no Rule Changes, this would be 1, as that is the
+minimum AI (1 being the lowest possible AI, also from 594) that would
+allow all the Rule Changes therein to take effect (there being none).
+Of course, if the Directives require a higher AI, that's fine too--but
+they do not absurdly require Unanimity.
+
+======================================================================
+
+Andre

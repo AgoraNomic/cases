@@ -1,0 +1,53 @@
+==============================  CFJ 2506  ==============================
+
+    If a member of an entity's basis nominates that entity for an
+    election, then that entity has been self-nominated.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  Quazie
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by Yally:                        06 May 2009 20:56:06 GMT
+Assigned to Quazie:                     06 May 2009 21:44:49 GMT
+Judged UNDETERMINED by Quazie:          08 May 2009 14:44:15 GMT
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Most partnerships don't allow their parties to act on
+behalf of it by announcement; counting this as self-nomination would,
+for example, allow me to potentially heap obligations on the PBA by
+nominating it to an office.
+
+========================================================================
+
+Judge Quazie's Arguments:
+
+I judge UNDETERMINED.  Only true for first class players.
+
+R2150 states:
+The basis of a first-class person is the singleton set consisting of that
+person
+
+Making this CFJ TRUE for first class players.
+
+R2145 states:
+      A public Legalistic partnership whose basis contains at least
+      two persons is a person, and SHALL act as specified by itself.
+
+So this CFJ could be TRUE if a partnership specified that having a
+member of its basis nominate itself constitutes a self-nomination, but
+in every other partnership the nomination would NOT be a self
+nomination (and I'm not even 100% sure that in the case that the
+partnership specified that it would be a self-nomination that it would
+indeed be one).  Thus FALSE in this case and UNDETERMINED in general.
+
+========================================================================

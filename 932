@@ -1,0 +1,155 @@
+======================================================================
+                               CFJ 932
+
+"No Player is currently authorized to execute Payment Orders for
+ Indulgences pursuant to penalties expressed in terms of Blots."
+
+======================================================================
+
+Judge:        elJefe
+Justices:     Antimatter (pro-S), Michael (C), Murphy (pro-J)
+
+Orgnl Jdgmnt: TRUE
+Judgement:    FALSE
+
+Eligible:     +Andre, +Antimatter, Blob, Chuck, Crito, (elJefe),
+              (General Chaos), Harlequin, Kolja A., (Michael), Murphy,
+              +Oerjan, Steve, Swann, +Vlad
+
+Not eligible:
+Caller:       Morendil
+Barred:       -
+Disqualified: Vanyel
+On hold:      Andre, Antimatter, Oerjan, Zefram
+
+======================================================================
+
+History:
+  Called by Morendil, Sat, 26 Jul 1997 10:45:15 +0100
+  Assigned to elJefe, Mon, 28 Jul 1997 11:57:31 +0100
+  Judged TRUE, Thu, 31 Jul 1997 16:13:02 +0000
+  Published, Mon, 4 Aug 1997 11:34:15 +0100
+  Appealed by Crito, Mon, 04 Aug 1997 09:21:50 -0400
+  Appealed by Michael, Mon, 4 Aug 1997 14:29:38 +0100
+  Appealed by Oerjan, Mon, 4 Aug 1997 20:13:49 +0200 (MET DST)
+  Appealed by Steve, Tue, 5 Aug 1997 17:39:17 +1000 (EST)
+  Appealed by Harlequin, Tue, 05 Aug 1997 00:51:07
+  Murphy selected to replace elJefe as Justiciar
+  Appeals process begun, Tue, 5 Aug 1997 12:36:34 +0100
+  Murphy OVERTURNS/reverses, Tue, 05 Aug 1997 19:44:52 -0700
+  Michael OVERTURNS/reverses, Tue, 12 Aug 1997 12:04:33 +0100
+  General Chaos defaults
+  Antimatter selected as new Justice, Wed, 13 Aug 1997 10:08:07 +0100
+  Antimatter OVERTURNS/reverses, Wed, 13 Aug 1997 09:52:05 -0700 (PDT)
+  Final verdict published, Fri, 15 Aug 1997 14:18:47 +0100
+
+======================================================================
+
+Appeal decisions
+
+----------------------------------------------------------------------
+
+Justice Murphy's decision: to OVERTURN and reverse decision
+
+I agree with Judge elJefe that the Caller's argument is incorrect.
+
+Rule 1435 ("Indulgences exist") takes precedence over Rule 1579 ("all
+Currencies must have a Mintor; any Currency ceasing to have one is
+destroyed").  Even accepting CFJ 929's claim that Indulgences were
+destroyed (which seems to be a conflict between those rules),
+Indulgences are then resurrected with no Mintor.
+
+I therefore consider the Statement false for lack of evidence.
+
+----------------------------------------------------------------------
+
+Justice Michael's decision: to OVERTURN and reverse decision
+
+Reasons and arguments:
+
+If Indulgences exist, then a Payment Order was executed by the
+Chancellor when he attempted to transfer 9 Indulgences from the Bank
+to Elde.
+
+If Indulgences exist, then the Indulgence Currency's Recordkeepor is
+authorised to record and execute Payment Orders (R1596).
+
+Thus, if Indulgences exist, the correct judgement for this CFJ is
+FALSE.
+
+The argument that Indulgences do not exist is based on R1579, which
+states that all Currencies have a Mintor and if a Currency should lose
+its Mintor, then it is destroyed.  It is accepted that an entity known
+as the Mint was the Mintor for Indulgences before the Pragmatic
+Currencies reform occurred.
+
+By virtue of R1586, we must also accept that the Mint no longer
+exists, so it would appear that the antecedent of the conditional
+sentence of the second paragraph in R1597 holds.  So, what might
+prevent Indulgences from being destroyed, as required by R1579?
+
+The answer is the precedence taking R1435.  This states that
+"Indulgences are a Currency".  This statement must remain true,
+whatever R1579 says to the contrary.  My Fellow Justice elJefe claims
+that this is possible if one reads "Indulgences are a Currency" as
+"Indulgences are a destroyed Currency".
+
+This is a senseless contortion.  We do not need to put the rules
+through such hoops.  We have rules taking precedence over each other
+all the time.  When we read "Indulgences are a Currency", we know that
+this is equivalent to stating that there exists a Currency whose name
+is "Indulgences".  But now the opposing argument wants us to
+simultaneously read this as admitting the precise opposite, that this
+Currency doesn't exist at all.
+
+I refuse to make the Rules play such tricks.  If a high precedence
+rule says that Indulgences exist, then the lower precedence R1579 can
+yammer on about Mintors and the lack thereof all it likes.
+
+Indulgences exist.
+
+----------------------------------------------------------------------
+
+Justice Antimatter's decision: to OVERTURN/reverse the decision
+
+I vote to OVERTURN this appeal, with the comment that ordinarily I would
+decline judgement, but since my fellow Justices are agreed, I might as
+well go along (since I can't change things anyways).
+
+======================================================================
+Original Judgement: TRUE
+
+Reasons and arguments:
+
+The caller's argument appears to be incorrect:
+
+> Therefore, the specification "the Player who is required to report
+> the change in Blots" points to no particular Player, since the Rules
+> charge no Player with the responsibility of keeping a record of any
+> particular Payment Orders.
+
+This is formally contradicted by Rule 1596, which state, in part "Each
+Recordkeepor shall maintain a record of all Payment Orders executed
+which specify the Currency of which e is the Recordkeepor..."
+
+However, as I have argued in CFJ 929, Indulgences having ceased to be
+a Currency, no POs can issue in terms of them, and so no player is
+authorized to execute such POs pursuant to anything.
+
+======================================================================
+
+(Caller's) Arguments:
+
+Rule 1435 goes : to gain or receive Blots is to be subject to a PO for
+the same number of Indulgences, and a Player's Blots is the total
+amount of such Transfers e has been ordered to effect (that are not
+disputed or vacated). Thus a "change in Blots" is precisely the
+executing, disputing or vacating (but unfortunately not the
+satisfaction) of such a Payment Order.
+
+Therefore, the specification "the Player who is required to report the
+change in Blots" points to no particular Player, since the Rules
+charge no Player with the responsibility of keeping a record of any
+particular Payment Orders.
+
+======================================================================

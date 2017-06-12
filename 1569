@@ -1,0 +1,219 @@
+==============================  CFJ 1569  ==============================
+
+    Manu successfully transfered a Kudo from a Contract to emself at
+    least once.
+
+========================================================================
+
+Caller:                                 Manu
+
+Judge:                                  Maud
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Manu:                         25 May 2005 15:55:24 GMT
+Assigned to Maud:                       03 Jun 2005 08:16:52 GMT
+Judged FALSE by Maud:                   08 Jun 2005 20:21:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Contract Regulations are defined in the Rules but set by its Notary.
+When Rule 2047 states that "The kudos of a Player may only be changed
+as specified by the rules or by an instrument of Power 2 or greater",
+Regulations are indeed specified by the Rules. The fact that the
+content of these Regulations is set by its Notary is irrelevant.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2047/1 (Power=2)
+Kudos
+
+      Kudos (singular Kudo) are an integral measure of a Player's
+      Kismet and noteworthiness within the game of Agora.
+
+      The Herald is the recordkeepor of Kudos.  The kudos of a Player
+      may only be changed as specified by the rules or by an
+      instrument of Power 2 or greater.
+
+      If an entity has a defined number of Kudos, but the number has
+      not been set by the Rules, then the entity has 1 Kudo.
+
+
+Rule 2107/0 (Power=1)
+Contracts
+
+      There exists a type of agreement known as a Contract.  A
+      Contract is an Entity.  The content of a Contract is called its
+      Regulations.  The first Player to announce the creation of a
+      Contract is its Executor and is known as the Notary of that
+      Contract.  Any other Player may decide to become part of a
+      Contract by notifying that Contract's Notary.  Players party to
+      a Contract, including the Notary, are the Members of this
+      Contract.  A Member may leave a Contract at any time by
+      notifying the Notary.
+
+      A Contract may contain any number of Regulations.  Regulations
+      have the power to constrain the actions of Players in the same
+      manner as the Rules.  However, Regulations have power over only
+      those Players that are Members of that Contract.  All Members
+      are required to abide by the Regulations, unless doing so would
+      violate the Rules.  Violation of this requirement is the Class 1
+      Crime of Insubordination.  A Contract may include in its
+      Regulations ways for Players to leave the Contract.
+
+      Rules to the contrary notwithstanding, no Player shall ever
+      involuntarily become a Member of a Contract.
+
+      If the Notary of a Contract becomes Silent, all Members of this
+      Contract cease to be Members of this Contract and the Contract
+      ceases to exist.
+
+      Only Members of a Contract may CFJ that a Member has violated
+      that Contract.  All Members of a Contract are automatically
+      ineligible to Judge a CFJ that a Member has violated that
+      Contract.
+
+      All Rules regulating agreements that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
+
+**
+
+* First Contract: Cash Cow
+
+I create a Contract named "Cash Cow" with the following Regulation:
+
+    1. The Notary of this Contract may transfer the Kudo from this
+       Contract to emself by publicly saying so.
+
+I transfer the Kudo from the Cash Cow Contract to myself.
+
+
+* Second Contract: Kudo Cow
+
+I leave the Contract named Cash Cow.
+
+-
+
+I create a Contract named "Kudo Cow" with the following Regulation:
+    1. This Contract has 1 Kudo.
+
+    2. The Notary of this Contract may transfer the Kudo from this
+       Contract to emself by publicly saying so.
+
+I transfer the Kudo from the Kudo Cow Contract to myself.
+
+* Third Contract: Cash Kudo
+
+I create a Contract named "Cash Kudo" with the following Regulations:
+    1. This Contract has 1 Kudo.
+
+    2. The Notary of this Contract may transfer the Kudo from this
+       Contract to emself by publicly saying so. On that annoucement,
+       this Contract loses one Kudo and the Notary gains one Kudo.
+
+
+I transfer the Kudo from the Cash Kudo Contract to myself.
+
+I leave Cash Kudo.
+
+========================================================================
+
+Judge Maud's Arguments:
+
+As the caller notes, the kudos of a player may only be changed "as
+specified by the rules or by an instrument of Power 2 or greater".
+Since a contract is not an instrument, it is only possible for Manu to
+have transferred a kudo from a contract to emself if a mechanism for
+doing so was specified by the rules.
+
+The rules specify several mechanisms for modifying the kudos of a
+player.  For example, there are mechanisms for setting the kudos of a
+new player, for modifying the kudos of each player at the beginning of
+each quarter, for subtracting a fee to be paid from a player's kudos,
+and for transferring a kudo from one player to another.  However, the
+rules do not explicitly specify a mechanism for transferring a kudo
+from a nonplayer to a player.
+
+The caller suggests that the fact that a contract specifies a
+mechanism for transferring a kudo from it to a player entails that the
+rules themselves specify that mechanism.  However, specification is
+not generally held to be transitive in this sense.  For example,
+proposals may be held to be specified by the rules roughly in the same
+way that contracts are; however, proposals may only modify game
+properties because they are explicitly enabled to do so by the rules,
+and would not be able to create new mechanisms to do so without first
+creating rules authorizing these new mechanisms.  Moreover, rule 1513
+states that a nonrule entity has only those powers explicitly given to
+it by the rules.  As rule 2107 only gives contracts the power to
+constrain actions, a contract does not have the power to specify
+mechanisms for modifying a player's kudos.
+
+========================================================================
+
+Judge Maud's Evidence:
+
+1.  Rule 2047/1 (Kudos)
+2.  Rule 2107/0 (Contracts)
+
+1.
+
+Rule 2047/1 (Power=2)
+Kudos
+
+      Kudos (singular Kudo) are an integral measure of a Player's
+      Kismet and noteworthiness within the game of Agora.
+
+      The Herald is the recordkeepor of Kudos.  The kudos of a Player
+      may only be changed as specified by the rules or by an
+      instrument of Power 2 or greater.
+
+      If an entity has a defined number of Kudos, but the number has
+      not been set by the Rules, then the entity has 1 Kudo.
+
+2.
+
+Rule 2107/0 (Power=1)
+Contracts
+
+      There exists a type of agreement known as a Contract.  A
+      Contract is an Entity.  The content of a Contract is called its
+      Regulations.  The first Player to announce the creation of a
+      Contract is its Executor and is known as the Notary of that
+      Contract.  Any other Player may decide to become part of a
+      Contract by notifying that Contract's Notary.  Players party to
+      a Contract, including the Notary, are the Members of this
+      Contract.  A Member may leave a Contract at any time by
+      notifying the Notary.
+
+      A Contract may contain any number of Regulations.  Regulations
+      have the power to constrain the actions of Players in the same
+      manner as the Rules.  However, Regulations have power over only
+      those Players that are Members of that Contract.  All Members
+      are required to abide by the Regulations, unless doing so would
+      violate the Rules.  Violation of this requirement is the Class 1
+      Crime of Insubordination.  A Contract may include in its
+      Regulations ways for Players to leave the Contract.
+
+      Rules to the contrary notwithstanding, no Player shall ever
+      involuntarily become a Member of a Contract.
+
+      If the Notary of a Contract becomes Silent, all Members of this
+      Contract cease to be Members of this Contract and the Contract
+      ceases to exist.
+
+      Only Members of a Contract may CFJ that a Member has violated
+      that Contract.  All Members of a Contract are automatically
+      ineligible to Judge a CFJ that a Member has violated that
+      Contract.
+
+      All Rules regulating agreements that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
+
+========================================================================

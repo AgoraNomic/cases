@@ -1,0 +1,41 @@
+==============================  CFJ 2089  ==============================
+
+    The PerlNomic Partnership transferred 150 chits to woggle as a
+    result of the quoted message.
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  Quazie
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by woggle:                       16 Jul 2008 18:08:15 GMT
+Assigned to Quazie:                     19 Jul 2008 00:33:56 GMT
+Judged TRUE by Quazie:                  19 Jul 2008 07:45:07 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Jul 16, 2008 at 11:40 AM (Mountain Time), The PerlNomic Partnership
+
+<agora@objnomic.x10hosting.com> wrote:
+
+> I transfer 75 chits each to Woggle, ais523, Ivan Hope, tusho, and woggle
+
+========================================================================
+
+Judge Quazie's Arguments:
+
+I judge TRUE.  The action is basically a for each loop, where each
+name is in an array (listOfPlayersToGetChits).  For each player in
+listOfPlayersToGetChits, give player 75 chits.  Nowhere in the rules,
+nor the action itself, does it state that each player need be
+different.
+
+========================================================================

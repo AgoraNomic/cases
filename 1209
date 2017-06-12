@@ -1,0 +1,223 @@
+==============================  CFJ 1209  ==============================
+
+    The change to the minimum wage on March 30, 2000 was invalid and the
+    subsequent minimum wage PO's issued April 1, 2000 were incorrect.
+
+========================================================================
+
+Caller:                                 lee
+
+Judge:                                  Chuck
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by lee:                          17 Apr 2000 21:40:58 GMT
+Assigned to Chuck:                      18 Apr 2000 00:43:24 GMT
+Judged FALSE by Chuck:                  24 Apr 2000 23:33:34 GMT
+
+========================================================================
+
+Judge Chuck's Arguments:
+
+Rule 1893 states, "(2) - (4) given above [which inlude the Minimum
+Income] shall be given in integer multiples of 0.1, of the Basic
+Officer Salary..."
+
+"given in" here is quite problematic.  This CFJ would have been
+fairly straightforward to judge if the author of this Rule had
+simply stated, "...shall be integer multiples of 0.1..." which
+is what, I suspect, e intended.  If this is what were written,
+Lee's attempt to change the Minimum Income to 0.25 BOS clearly
+would have failed.
+
+But that is not what the Rule says.  It says that the Minimum
+Income shall be given in integer multiples of 0.1, and it is
+left up to me to determine what is meant by "given in".  (Given by
+whom?  When?  In what context?)  While my initial instinct
+in judging this CFJ was to find that it was in the best
+interest of the game to interpret "shall be given in" to
+mean "shall be", I soon realized that I could not twist the English
+language to this extent--"shall be given in" does not mean "shall be",
+and I could think of no example where it would.  One might as well
+decide that "sends" actually means "eats".
+
+I can only read this sentence so as to restrict the action of someone
+setting ("giving") the value of the Minimum Income, and not a restriction
+on the value of the Minimum Income itself.  That is, although R1893 requires
+the Treasuror to use an integer multiple of 0.1 in setting the
+Minimum Income, it does not prevent the Minimum Income from taking
+on another value, should it be set to something else by someone acting in
+violation of the Rules.  Rule 1906 permits the change Lee made.  Thus,
+I conclude that although lee violated R1893 in setting the Minimum Income to
+0.25 BOS, this did not prevent the Minimum Income from taking this value.
+"Shall be given in" is not a synonym for "shall be."
+
+Whether the change was "invalid" or not depends on the meaning of "invalid"
+(illegal? or ineffective?), a bit of a sloppy construction in the statement
+of this CFJ.  Fortunately, I do not have to deal with that issue, since
+the POs referred to were clearly correct, and the second part of the
+statement is false, making the whole false.
+
+I therefore Judge this statement to be FALSE.
+
+========================================================================
+
+Judge Chuck's Evidence:
+
+1. Rule 1893
+2. Rule 1906
+3. Message changing the Minimum Income (Some headers deleted)
+4. Treasuror's report of budget subsequent to the change (Some headers
+deleted)
+5. Message issuing Minimum Income POs subsequent to the change (Some headers
+   deleted)
+
+
+Rule 1893/5 (Power=1)
+The Treasuror's Budget
+
+      The Treasuror's Budget shall include the following:
+
+      (1) The Basic Officer Salary, an amount between 0 and 200 Stems.
+      (2) The Salary of every officer that receives a monthly wage.
+      (3) The Minimum Income.
+      (4) The Speaker's Gratuity.
+      (5) The Trade Fellowship amount for every Officers' Degree.
+      (6) Any other material that is required by the rules to be in
+          the Treasuror's budget.
+
+      (2) - (4) above shall be given in integer multiples of 0.1, of
+      the Basic Officer Salary, between 0 and 4 times the BOS
+      inclusive.  (E.g. 3.2*The BOS).  Also, the average (mean) of
+      all of the above shall be less than or equal to twice the BOS.
+
+      If there is no valid version of the Treasuror's budget, there
+      shall be a budget created as soon as possible by the Treasuror.
+      This budget shall contain all the information that is required
+      to be in the Treasuror's budget and shall be set, as best as is
+      possible to the values of the previous quarter.  The resultant
+      budget shall be considered to be the Treasuror's Budget.  The
+      Treasuror shall post this budget to the public forum.
+
+History:
+Created by Proposal 3871 (Peekee), Jun. 2 1999
+Amended(1) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(2) by Proposal 3924 (Wes), Oct. 10 1999
+Amended(3) by Proposal 3944 (harvel), Nov. 20 1999
+Amended(4) by Proposal 3955 (Blob), Dec. 13 1999
+Amended(5) by Proposal 3982 (Sherlock), Mar. 1 2000
+
+
+Rule 1906/0 (Power=1)
+Amending the Budget
+
+      The Treasuror make make changes to the Budget, With Support,
+      provided that e does not hold the Office temporarily.
+
+History:
+Created by Proposal 3888 (Blob), Jul. 30 1999
+
+
+Date: Thu, 30 Mar 2000 08:54:06 -0600
+Subject: OFF: Treasuror Business
+To: agora-official@gecko.serc.rmit.edu.au
+From: lee@schawk.com (_lee _kinkade)
+
+
+Having the proper support, I hereby change the Minimum Income to .25
+
+---
+lee
+If you don't want to know the answer, don't ask the question.
+
+
+Date: Thu, 30 Mar 2000 10:24:19 -0600
+Subject: OFF: Current Budget
+To: agora-official@gecko.serc.rmit.edu.au
+From: lee@schawk.com (_lee _kinkade)
+
+Officer Salaries:
+
+Accountor                    0.8
+Assessor                     0.7
+Clerk of the Courts          0.5
+Herald                       0.4
+Justiciar                    0.1
+Notary                       0.4
+Payroll Clerk                0.8
+Priest                       0.5
+Promotor                     0.7
+Registrar                    0.7
+Rulekeepor                   0.8
+Scorekeepor                  0.5
+Speaker-Elect                  0
+Treasuror                    0.1
+
+Average Officer's Salary     0.5
+
+BOS                           75
+Minimum Income               0.25
+Speaker's Gratuity           0.5
+
+Trade Fellowships for:
+- Associate of Nomic          (A.N.)       0.00001
+- Bachelor of Nomic           (B.N.)       0.00002
+- Doctor of Nomic History     (D.N. Hist)  0.00003
+- Master of Nomic             (M.N.)       0.00004
+- Doctor of Nomic Philosophy  (D.N.Phil)   0.00005
+
+---
+lee
+If you don't want to know the answer, don't ask the question.
+
+
+Date: Fri, 31 Mar 2000 18:06:57 -0600
+Subject: OFF: Monthly Salaries
+To: agora-official@gecko.serc.rmit.edu.au
+From: lee@schawk.com (_lee _kinkade)
+
+
+I hereby order the Bank to pay Accountor, Wes, 60 Stems.
+I hereby order the Bank to pay Assessor, t, 53 Stems.
+I hereby order the Bank to pay Clerk of the Courts, harvel, 38 Stems.
+I hereby order the Bank to pay Herald, Elysion, 30 Stems.
+I hereby order the Bank to pay Justiciar, Blob, 8 Stems.
+I hereby order the Bank to pay Notary, Peekee, 30 Stems.
+I hereby order the Bank to pay Payroll Clerk, lee, 60 Stems.
+I hereby order the Bank to pay Priest, Elysion, 38 Stems.
+I hereby order the Bank to pay Promotor, Wes, 53 Stems.
+I hereby order the Bank to pay Registrar, Michael, 53 Stems.
+I hereby order the Bank to pay Rulekeepor, Chuck, 60 Stems.
+I hereby order the Bank to pay Scorekeepor, t, 38 Stems.
+I hereby order the Bank to pay Speaker-Elect, lee, 0 Stems.
+I hereby order the Bank to pay Treasuror, lee, 8 Stems.
+I hereby order the Bank to pay Speaker, Murphy, 38 Stems.
+I hereby order the Bank to pay Anthony 19 Stems.
+I hereby order the Bank to pay Blob 19 Stems.
+I hereby order the Bank to pay Chuck 19 Stems.
+I hereby order the Bank to pay Crito 19 Stems.
+I hereby order the Bank to pay elJefe 19 Stems.
+I hereby order the Bank to pay Elysion 19 Stems.
+I hereby order the Bank to pay Harlequin 19 Stems.
+I hereby order the Bank to pay harvel 19 Stems.
+I hereby order the Bank to pay lee 19 Stems.
+I hereby order the Bank to pay Michael 19 Stems.
+I hereby order the Bank to pay Murphy 19 Stems.
+I hereby order the Bank to pay Novalis 19 Stems.
+I hereby order the Bank to pay Palnatoke 19 Stems.
+I hereby order the Bank to pay Peekee 19 Stems.
+I hereby order the Bank to pay Schneidster 19 Stems.
+I hereby order the Bank to pay Sherlock 19 Stems.
+I hereby order the Bank to pay Steve 19 Stems.
+I hereby order the Bank to pay t 19 Stems.
+I hereby order the Bank to pay Wes 19 Stems.
+
+The Bank pays the above Payment Orders.
+---
+lee
+If you don't want to know the answer, don't ask the question.
+
+========================================================================

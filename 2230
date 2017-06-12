@@ -1,0 +1,59 @@
+==============================  CFJ 2230  ==============================
+
+    The Mad Scientist CAN act on behalf of the Monster to take an action
+    that the Monster MAY, but CANNOT, take.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Wooble
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       16 Oct 2008 15:53:32 GMT
+Assigned to root:                       23 Oct 2008 10:01:11 GMT
+Judged FALSE by root:                   29 Oct 2008 20:15:51 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This hinges on Rule 2192 containing a lower-case "may", which is not
+strictly defined by MMI.  I argue, on the basis of common sense and
+the best interests of the game, that it should be interpreted as CAN
+instead.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2192 (The Mad Scientist), relevant excerpt
+
+      The Mad Scientist CAN act on behalf of the Monster to take any
+      action that the Monster may take,
+
+or possibly (depending on CFJs 2213 and 2228)
+
+      The Mad Scientist CAN, without 2 objections, act on behalf of
+      the Monster to take any action that the Monster may take,
+
+========================================================================
+
+Judge root's Arguments:
+
+I'm wary of treating non-MMI words as if they were in fact some
+particular MMI word.  To me, the most natural interpretation of "may
+take" in the quoted sentence is neither "MAY take" nor "CAN take", but
+rather as denoting that the mood of "take" is subjunctive.  Thus, the
+sentence is reasonably synonymous with "The Mad Scientist CAN ... act
+on behalf of the Monster to take any action that the Monster _might_
+take."  In this light, the sentence is seen to be a simple grant of
+authority to act for the Monster, and nothing more.  I assign a
+judgement of FALSE to CFJ 2230.
+
+========================================================================

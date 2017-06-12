@@ -1,0 +1,104 @@
+==============================  CFJ 1567  ==============================
+
+    If Sherlock has a One Share card, then Goethe errored in good faith
+    in determining the cards to deal, and the errors did not greatly
+    change the probability of the cards that were selected.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Manu
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           20 May 2005 19:15:11 GMT
+Assigned to Manu:                       25 May 2005 07:04:58 GMT
+Judged TRUE by Manu:                    27 May 2005 18:02:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The recent "two-state" did not happen to deal any copies of the cards that
+have uncertain locations.  Therefore, the deals for the first state are
+correct for the first gamestate, and the deals for the first state would only
+be slightly incorrect in probability if applied to the second gamestate.
+Therefore, the first gamestate's deals should be treated as the actual deals
+in either gamestate: they are absolutely correct in the first gamestate, and
+should be allowable by the last paragraph of 2069 in the second gamestate (the
+gamestate in which Sherlock has a One Share card).  A judgement of TRUE would
+allow this interpretation and minimize game splintering.
+
+========================================================================
+
+Caller's Evidence:
+
+---------- Forwarded message ----------
+Date: Fri, 20 May 2005 11:55:01 -0700 (PDT)
+From: Kerim Aydin <kerim@u.washington.edu>
+To: Agora Business <agora-business@agoranomic.org>
+Subject: The mirror crack'd
+
+
+I have no legal choice, really.  After pondering probabilities, I must do as
+follows.
+
+The following five deals are only legal deals in the gamestate in which
+Sherlock holds a Discard Picking card:
+
+I deal Dud to The Library
+I deal Divide or Conquer Your Stock to The Library
+I deal Divide or Conquer Your Stock to The Library
+I deal Coalition to The Library
+I deal Library Renewal to The Library
+
+The following five deals are only legal deals in the gamestate in which
+Sherlock holds a One Share card:
+
+I deal Distrib-u-Matic to The Library
+I deal Procedure to The Library
+I deal Debate-o-Matic to The Library
+I deal Raffle Ticket to The Libary
+I deal Divide or Conquer Your Stock to The Library
+
+THE TABLE is OPEN for BUSINESS (both gamestates).
+
+The following five deals are only legal deals in the gamestate in which
+Sherlock holds a Discard Picking card:
+
+I deal Instant Punishment to root.
+I deal Not Your Turn to Quazie.
+I deal Raffle Ticket to root.
+I deal Distrib-u-Matic to Quazie.
+I deal Divide or Conquer Your Stock to root.
+
+The following five deals are only legal deals in the gamestate in which
+Sherlock holds a One Share card:
+
+I deal Debate-o-Matic to root.
+I deal Discard Picking to Quazie.
+I deal Debate-o-Matic to root.
+I deal Absolve-o-matic to Quazie.
+I deal Thieves in the Night to root.
+
+-Goethe
+
+========================================================================
+
+Judge Manu's Arguments:
+
+Du fait que les cartes ubiques concernées sont toujours dans le paquet,
+je crois que les probabilités des deux états sont très similaires. Si
+le deuxième état (One Share) devient le seul et unique état
+de jeu, mon opinion est que la situation de cet état sera correct et
+valide, particulièrement grâce à la lecture de la règle 2069. Il est
+pratiquement impossible de déterminer la différence créée entre les deux
+états, nous pouvons donc dire que la donne effectuée plus tôt est
+entièrement valide. Mon verdict est donc VRAI, ou TRUE pour les
+angliches.
+
+========================================================================

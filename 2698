@@ -1,0 +1,115 @@
+==============================  CFJ 2698  ==============================
+
+    If a player had a reasonable opportunity to review a change, then
+    that player had notice of the change.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Walker
+Judgement:                              
+
+
+Judge:                                  Pavitra
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       19 Sep 2009 20:07:00 GMT
+Assigned to Walker:                     23 Sep 2009 22:29:23 GMT
+Walker recused:                         29 Sep 2009 18:17:41 GMT
+Assigned to Pavitra:                    03 Oct 2009 19:54:13 GMT
+Pavitra recused:                        03 Oct 2009 19:55:35 GMT
+Assigned to omd:                        03 Oct 2009 19:56:57 GMT
+omd recused:                            12 Oct 2009 23:41:14 GMT
+Assigned to Murphy:                     13 Oct 2009 00:04:55 GMT
+Judged TRUE by Murphy:                  25 Oct 2009 17:15:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+[see CFJ 2697]
+
+This should also be a trivial TRUE; I can't see any way to
+twist the English language sufficiently that it comes out false.
+
+Putting these two statements together, intending to perform a change is
+notice of the change. Note that the contract didn't say "with 4 days
+notice that I intend to perform the change using this mechanism"; just
+"with 4 days notice".
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The judge should consider whether explicitly and clearly specifying a
+method of change in the intent, and then attempting to use a different
+and "unreviewed" actual method of change, is misleading enough to
+interfere with the review process.  For example, if you are explicitly
+told at the outset that you have seven days to review it (and the seven
+days is in keeping with the rules) so you decide to look at it later,
+but then you are only given four, did that make the opportunity
+unreasonable?  If you are told that its up for a vote, and you count
+people voting against, but then the votes are ignored by a short-
+circuited unannounced process, could you have adequately reviewed so
+as to consider your response?
+
+Further, the judge should consider whether "intend" in the general
+natural language sense is the same as posting a R1728 dependent-action
+intention (the judgement in CFJ 2692 implies that a R1728 intent posting
+is not necessarily a "natural" posting of intent).
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+On Mon, Oct 12, 2009 at 8:12 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> Is this for 2696 or 2698 or both?  I'm throwing it in as gratuitous
+> arguments (already have done for Pavitra and 2706).
+
+That was 2696; I didn't notice the linked case 2698.  For the record I
+would have judged trivially TRUE, with the caveat that ais523's
+attempted conclusion ("intending, then waiting 4 days, gives a
+reasonable opportunity; a reasonable opportunity constitutes notice;
+therefore, intending constitutes notice") is faulty for two reasons.
+
+First, Rule 101 (iv) refers to an amendment, not an intent to amend.
+Just as burying an intent inside a long report can prevent it from
+being counted as valid notice, so can burying it inside a host of
+other intents.  There was only one amendment, and everyone had plenty
+of opportunity to review its implications-- amended contract is turned
+into a mousetrap-- but there were many intents, and it might be
+unreasonable to expect everyone to review every possible way the
+intent could go through.  After all, if everyone had notice of the
+intent to amend Cookie Jar, wouldn't they have left the contract?...
+
+Second, "with notice", with the implicit nod to dependent actions
+(even before With Notice was introduced) probably requires a more
+formal process than ordinary-language notice.  After all, if all
+that's required is ordinary-language notice of ordinary-language
+intent, simply (for example) protoing the change to the discussion
+forum would be enough to trap anyone the caller could prove read it,
+for who posts a proto of a change they don't intend to implement?
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments, but also c.'s gratuitous arguments;
+in particular, ais523's "I intend to amend via various objection-based
+methods" did not necessarily offer a reasonable opportunity to review
+the notice-based change that e actually had in mind.
+
+========================================================================

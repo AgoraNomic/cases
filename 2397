@@ -1,0 +1,275 @@
+==============================  CFJ 2397  ==============================
+
+    ais523 can act on Murphy's behalf to cause Murphy to support
+    ais523's own intent to make Einos (http://einos-nomic.blogspot.com/)
+    a protectorate.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          03 Mar 2009 15:56:15 GMT
+Assigned to G.:                         03 Mar 2009 16:22:03 GMT
+Judged TRUE by G.:                      05 Mar 2009 18:11:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This is not a contract.  No rule says that act-on-behalf can only be
+granted by contracts; CFJ 1719, for example, dealt with a web form.
+But contracts have been the only mechanism by which we have thus far
+allowed act-on-behalf where it is clearly and immediately obvious who
+is acting on behalf of whom, as opposed to the webform, in which case
+it would not be in the best interests of the game to have anything
+depend on who submitted it.  In other precedents (the non-binding
+contract), act-on-behalf has been considered a type of obligation,
+which would suggest FALSE, but does that really make sense?
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+> But contracts have been the only mechanism by which we have thus far
+> allowed act-on-behalf where it is clearly and immediately obvious who
+> is acting on behalf of whom,
+
+Seems obvious enough to me that ais523 was to act on behalf of me.
+
+> In other precedents (the non-binding
+> contract), act-on-behalf has been considered a type of obligation,
+
+What other precedents?  I can't remember any, and I'm pretty sure we've
+had precedents that they work (hence TRUE) but can't be pursued in
+equity court if abused.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+ais523 allegedly acted on my behalf to cause me to support at
+Tue, 03 Mar 2009 15:50:25 +0000 (about 50 seconds before this case
+was initiated).  If successful, this may lead to FALSE on the grounds
+that I couldn't support a second time.
+
+I retracted permission at Tue, 03 Mar 2009 07:56:31 -0800 (about 16
+seconds after this case was initiated).
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+>From Goethe's judgement of CFJ 1892, dealing with my alleged
+non-binding contract:
+{
+
+comex attempts a semantic trick here, by claiming in Clause 1 that a
+contract imposes no obligations, and wording clauses 2-3 to attempt to
+avoid any sense of "obligation." Clauses 2-3, in fact, DO impose an
+obligation on "non-comex" members, an obligation that actions taken by
+comex on their behalf will be binding unto them, in the same way that a
+Power of Attorney obligates grantees to be bound by actions taken on
+their behalf by the grantor. Therefore, Clauses 2-3 DO impose
+obligations on members, and Clauses 2-3 conflict with Clause 1.
+
+}
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Argument is perhaps based on a false premise, that webforms and the
+like do not constitute agreements.  Arguably, if it looks like an
+agreement and quacks like an agreement it's [e.g.a Webform or the
+like is] an agreement, whether the word "contract" is used in its
+formation [e.g. CFJs 1921, 1328].
+
+If I send you a private message (or set up a web form) that says "go
+ahead and act on my behalf to do X" and you implicitly accept by doing
+so, there's an agreement.  Probably all of the historical arrangements
+used to support on-behalf-of in CFJ 1719 (e.g. Deb & Bob) could be
+construed to be such agreements.
+
+========================================================================
+
+Gratuitous Evidence by ais523:
+
+Murphy stated TTPF:
+{{{
+ais523 can act on my behalf to cause me to support eir own intent to
+make Einos (http://einos-nomic.blogspot.com/) a protectorate.
+}}}
+
+I interpreted this as relatively clear consent to allow me to act on
+Murphy's behalf support such an intent, although not as being a
+contract. Note that my intent to protectorise Einos came after Murphy's
+comment quoted above, although before the CFJ was called.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+But it was in fact an agreement between you that imposes obligations on
+Murphy.  Murphy is legally bound to accept your act-on-behalf-of as
+binding to eir action) and CFJ 1921 made it pretty clear that a public
+binding statement that a reasonable person would accept as binding should
+be construed as a contract. -Goethe
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+I did not make any arrangement with ais523 on this subject (e.g. a
+private contract) prior to the PF message that ais523 has submitted
+as evidence.
+
+
+========================================================================
+
+Judge G.'s Arguments:
+
+"Acting on behalf of" is not specifically defined in the rules, nor is
+"power of attorney" (PoA), so the first note of this Court is to say
+that (within Agoran contexts) these are synonymous concepts (e.g. verb
+and noun forms) as per R754/9(1), and as per R754/9(3) the legal
+definition of the terms are appropriate to use.  A straightforward legal
+definition of power of attorney (M-W online) is:  "a legal instrument
+authorizing one to act as the attorney or agent of the grantor".  This
+is sufficient for our purposes, and illustrates several points:
+
+1.  A power of attorney is a distinct legal instrument;
+2.  There are two relevant entities, the agent and the grantor;
+3.  It authorizes the agent to act as well as requiring the grantor to
+    respect the act as coming from emself; and
+4.  This decision is restricted to consensual rather than imposed PoAs,
+    so mutual consent is required to form one (the act of using a PoA is
+    positive consent on the part of the agent, if the agent hasn't
+    already otherwise agreed to the grant).
+
+It would be tempting, then, to call a PoA an Agoran contract between two
+parties, as defined by R1742/17.  It would not itself violate
+R101/11(iii) to decide this, even if prior to this decision it was not
+generally known; CFJ 1921 found that a general understanding that some
+kind of agreement has been reached is in many cases sufficient to form a
+contract.
+
+However, there is a more fundamental issue.  Judge Zefram, in CFJ 1719,
+found that the natural power or ability to grant PoA (and the ability to
+act on one) is more fundamental and more flexible to Agoran game play
+and tradition than are perhaps the current contract rules.  For example,
+in the examples of CFJ 1719 (e.g. Deb & Bob), in the absence of
+controversy (e.g. a split between Deb and Bob) no formal mechanism was
+necessary to adjudicate communications from these parties beyond what
+was necessary for any player's communications.  The same could have
+been said for Peekee's web form in the same CFJ.   Thus, unless
+forbidden or otherwise specifically regulated by the Rules, POAs would
+exist without R1742 or other contract law - this suggests POAs shouldn't
+be mapped onto contracts.
+
+And in terms of flexibility, it has been found that contracts CANNOT be
+terminated at will if no escape clause exists; however, it is in the best
+interests of the game that more flexibility be assumed for PoA's,
+especially in terms of their escape (e.g. it is for the good of the game
+not to force an accident in a specified PoA to constitute a permanent
+entrapment).  This corresponds with common uses of PoA in Agora;
+typically, they are granted as one-shot deals - "you CAN act on my behalf
+to do X" is typically used to imply it may be done once and expires after
+reasonable time, rather than that the ability is granted in perpetuity.
+
+So, given that CFJ 1719 implies that PoAs would exist in a flexible and
+natural matter, and that a contract is not the most appropriate legal
+instrument, is there another legal construct we can use?  The answer is
+found in the Judge's arguments in CFJ 2137:  'What is really going on
+[in using a PoA] is the following:  "Acting as a communications agent
+for the Grantor, I hereby send the message that the Grantor announces "I
+do X." '  This gives another model:  the agent is an legal instrument of
+communication, just as an email system is an agent of communication.
+
+This is a reasonable legal inference.  Email and other communication
+systems are "loosely" regulated based on evidence of function.  We
+generally assume that each player, as a grantor, can control eir
+communications methods with the presumption of such control "naturally"
+working (e.g. "this is my new email address, please delist the old one in
+the Registrar's report").
+
+This does not mean we treat all communication media the same way.  For
+example, the quirks of email have led to precedents on date-stamps;
+likewise, the quirks of using a second conscious decision-making entity
+as a communication medium will lead to decisions on communication clarity
+(e.g. CFJ 2292) or perhaps the scope of a particular PoA (unlike email
+addresses which are unlimited in scope and always at the will of the
+grantor, PoAs are generally limited in scope on the part of what the
+agent can perform at the agent's will).
+
+This means, though, that we generally accept positive evidence of
+"natural" granting and revokation of PoAs on the part of the grantor
+(who controls the authorization of eir communications) as naturally
+granting and revoking PoAs.  It also means that, given the "particular
+quirk" of a communications agent who may have self-interest in over-
+inferring the bounds of a PoA, the general presumption in interpreting
+PoAs is that they are limited rather than unlimited in scope, and any
+communication powers not explicitly given to the agent remain with the
+grantor outside the directly and specifically authorized set of
+communications, and these powers may "naturally revert" to the grantor
+outside of that context (where the scope limitation might include a
+limiting the presumption of the grant to a reasonable length of time
+appropriate to the context of the grant).
+
+However:  if there are substantial other portions to the granting:  "I
+grant you PoA if you give me 10 points", the grant could be taken to be
+*part* of what's offered of value in a contract inferred as per CFJ
+1921, and the contract could thus limit termination.  Also note that
+this casts a grantor's power to communicate as a natural "possession of
+value" if you will, one which generally, unless the rules mandate it,
+can not be taken without consent (see CFJ 1892).
+
+This, as a whole, is the strongest fit to Judge Zefram's CFJ1719 notion
+of PoAs with natural flexibility existing within the game, and fits all
+of the requirements of the legal definition of the term.
+
+In the current instance, the facts are as follows:
+
+1:  Murphy naturally and reasonably authorized ais523 to communicate
+    Murphy's support; this succeeded, and no additional contract was
+    implied (see evidence).
+2:  The CFJ was called, immediately within this scope.
+3:  (not essential to the question) Murphy naturally and reasonably
+    revoked the authorization; the grant was not part of a contract
+    so this succeeded as well.
+
+Therefore at the time of this CFJ, this statement was TRUE.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+Testimony from ais523: (http://www.agoranomic.org/cgi-bin/mailman/private/agor
+a-business/2009-March/018241.html)
+
+Murphy stated TTPF:
+{{{
+ais523 can act on my behalf to cause me to support eir own intent to
+make Einos (http://einos-nomic.blogspot.com/) a protectorate.
+}}}
+
+I interpreted this as relatively clear consent to allow me to act on
+Murphy's behalf support such an intent, although not as being a
+contract. Note that my intent to protectorise Einos came after Murphy's
+comment quoted above, although before the CFJ was called.
+
+
+Testimony from Murphy: (http://www.agoranomic.org/cgi-bin/mailman/private/agor
+a-business/2009-March/018242.html)
+
+I did not make any arrangement with ais523 on this subject (e.g. a
+private contract) prior to the PF message that ais523 has submitted
+as evidence.
+
+========================================================================

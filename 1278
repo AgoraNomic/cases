@@ -1,0 +1,89 @@
+==============================  CFJ 1278  ==============================
+
+    The Assessor has announced the results of the voting on Proposal
+    4111.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Syllepsis
+Judgement:                              TRUE
+
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       21 Feb 2001 09:28:46 GMT
+Assigned to Syllepsis:                  26 Feb 2001 08:26:13 GMT
+Judged TRUE by Syllepsis:               28 Feb 2001 14:17:21 GMT
+Assigned to root:                       26 Aug 2005 17:19:43 GMT
+Judged TRUE by root:                    17 Oct 2005 01:32:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+E has correctly announced the Vote count, but incorrectly announced
+the result of that Vote count - namely whether Proposal 4111 was
+adopted.
+
+========================================================================
+
+Judge Syllepsis's Arguments:
+
+It is unclear in the rules if an incorrect announcement is to be
+considered an announcement at all. Logically, it seems that an incorrect
+announcement of some results would actually be an announcement of results
+that never took place, and so in this case the results would not have been
+announced.
+
+In t's "Assessor's Voting Report" dated Tue, 20 Feb 2001 15:38:43 e
+announces first the following:
+
+Num. Type Proposer    AI Title                         RESULT   F  A  -  *
+4111 Dem  Elysion      2 Oligarchy Reform v1.2         FAILS/Q  3  0  0
+4112 Ord  t            1 Banking Developments          PASSES  11  2  0  -
+
+Here t has announced a set of results different from the actual voting
+results, and has hence not announced the actual results of the vote. So at
+this point, the results have not been announced.
+
+However, t continues:
+
+Ordinary                        Democratic
+                4112                            4111
+
+(vacant)                        Elysion         3F
+Blob                            Wes             F
+Steve           2F              Steve           2F
+harvel                          Michael         2F
+Peekee                          Goethe          A
+Wes             F               Lindrum         F
+                                Murphy          F
+                                David           F
+                                Syllepsis       A
+
+FOR             3                               11         FOR
+AGAINST         0                               2      AGAINST
+ABSTAIN         0                               0      ABSTAIN
+                                                0      Present
+
+Voters          2                               9       Voters
+Quorum?         N                               6/Y    Quorum?
+PASSES?         N                               Y      PASSES?
+
+
+The above text is an actual legible, reasonably understandable
+announcement of the results of the voting on roposal 4111.
+
+I then conclude that t first erroneously announced a set of results
+different from the results (and hence had not announced the results yet),
+but then announced the actual results immediately afterwards. It follows
+that the Assessor has announced the results of Proposal 4111.
+
+========================================================================

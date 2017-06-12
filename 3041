@@ -1,0 +1,238 @@
+==============================  CFJ 3041  ==============================
+
+    Pavitra is a player.
+
+========================================================================
+
+Caller:                                 Pavitra
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+
+Judge:                                  Murphy
+Judgement:                              
+
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Pavitra:                      21 Jun 2011 01:47:35 GMT
+Assigned to omd:                        03 Jul 2011 17:37:07 GMT
+omd recused:                            24 Jul 2011 17:55:13 GMT
+Assigned to Murphy:                     24 Jul 2011 18:15:19 GMT
+Judged TRUE by Murphy:                  08 Aug 2011 15:36:42 GMT
+Reconsideration requested by Machiavelli:
+                                        08 Aug 2011 16:08:52 GMT
+Reconsideration requested by ehird:     08 Aug 2011 16:27:57 GMT
+Reconsideration requested by Walker:    08 Aug 2011 19:19:10 GMT
+Assigned to Murphy:                     08 Aug 2011 19:19:10 GMT
+Murphy recused:                         14 Aug 2011 17:31:53 GMT
+Assigned to Yally:                      14 Aug 2011 17:41:50 GMT
+Yally recused:                          25 Aug 2011 00:58:46 GMT
+Assigned to Machiavelli:                10 Sep 2011 18:50:10 GMT
+Machiavelli recused:                    15 Sep 2011 11:52:18 GMT
+Assigned to woggle:                     16 Sep 2011 15:02:41 GMT
+Judged FALSE by woggle:                 19 Sep 2011 03:58:42 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On 06/20/2011 08:43 PM, Pavitra wrote:
+> On 06/20/2011 08:41 PM, Pavitra wrote:
+>> I hereby take the action described in the shortest document that has the
+>> following SHA512 sum:
+>>
+>> f8aab185fc415e93a77bc64b66202a9d3d81a3c44231c399ba84960fec88ae7a
+>> 17a7da73059d7289381870b02649da088887ea63eae05643ff5e558669f0666b
+>>
+>>
+>> I CFJ: Pavitra is a player. (Arguments and evidence will be provided
+>> shortly.)
+>>
+>>
+>> Pavitra
+>
+> The text [omitted] has the indicated SHA512 sum.
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+First, I wish to argue that there is a distinction between publication
+of information and the taking of actions-by-announcement. What I have
+done would certainly not be sufficient to discharge an obligation to
+keep anyone informed, such as the publication of an officer's report.
+
+However, for the purposes of speech acts, this attempt has several
+highly desirable qualities, perhaps most importantly nonrepudiation.
+After message P alone, it would have been obvious to an observer that I
+had attempted to take an action, and furthermore it would have been
+ineffective-in-practice for me to try to change my mind afterward about
+the content of that action, or to deny that the attempt had taken place.
+
+Back on the first hand, I could have refrained from disclosing the
+content of the document in question, and while it probably would have
+been possible to discover this (the document does not remotely meet the
+usual cryptographic standards of unguessability) it would almost
+certainly be outside the Agoran standard of reasonable effort to do so.
+
+In particular, such disclosure had not happened at the time of message P
+and hence CFJ 3040, and had occurred only to a non-public forum
+at the time of message R and hence CFJ 3041.
+
+It is my belief that inclusion-by-reference, especially under these
+strict conditions of nonrepudiation, in general ought to work for
+actions by announcement. If I were to try the same thing now that the
+text corresponding to the hash has been published, I believe that I
+would thereby register.
+
+CFJ 3040 is, in my opinion, somewhat more straightforward; on the
+surface, it asks only whether nonrepudiation with the danger of
+nondisclosure is sufficient to include a message. There is one
+complication to this, which I shall discuss shortly.
+
+CFJ 3041 is more complex (assuming CFJ 3040 is FALSE), as
+it depends both on whether disclosure via a discussion forum is
+sufficient, and on whether later disclosure can cause later action.
+
+This brings us to the complication on CFJ 3040, which is whether
+later disclosure can cause _retroactive_ action. Did message P become
+effective as of its timestamp upon the disclosure in message Q?
+
+I would strongly argue against this interpretation, as in general it
+would be bad for the game if the effects of a public message depended in
+part on information not necessarily yet decided (whether message Q would
+be sent) at the time of its publication.
+
+As I type this up, I am coming to realize that my whole premise is on
+rather shakier ground than I initially realized, and perhaps I could
+have produced a more interesting case had I written up my arguments in
+advance. Vivo et disco.
+
+========================================================================
+
+Gratuitous Evidence by Pavitra:
+
+the two messages I recently sent to a-b (hereafter messages P and R),
+and the one message I recently sent to a-d (message Q). In particular,
+the chronological order of those messages was P->Q->R, and message Q
+disclosed (and I hereby publish) the fact that "I register." has the
+indicated hash.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+It's possible (if unlikely) that a shorter document has the same sum.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+There are many, many documents with that sum, all tied in length. They
+will all have the same text, but no document is unique. I suspect,
+however, that that is not a significant argument here.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Pretty much the first thing I thought of upon seeing the message was to take
+the SHA-512 hash of "I register." (Unfortunately, I read on before actually
+doing so.) Arguably, it is not unreasonable effort to reverse a hash when it's
+/that/ guessable.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept ais523's gratuitous arguments and judge TRUE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d8b4>:
+
+in my mind, brute-forcing a SHA-512 hash of any
+size is an unreasonable effort to undertake in order to understand a
+message. The responsibility for making a message easy to understand
+falls chiefly on the writer, not the reader. While the writer could
+have trivially made the message easier to understand, the reader would
+have to know what a SHA-512 hash is and how to calculate one, and
+either have enough cleverness to guess the correct string in a few
+tries, or know how to write or find a computer program that
+brute-forces the hash. It is unreasonable for the author of a message
+to avoid an insignificant burden by expecting readers to bear a
+significant one.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Googling "SHA 512" turns up
+  http://hash.online-convert.com/sha512-generator
+within the first page of hits.  Furthermore, not only was Pavitra's
+action relatively easy to guess, but eir exact text was relatively
+easy to guess due to its straightforwardness and brevity (contrast
+the hypothetical situation where e hashed e.g. "so hey I wanna become
+one o' them player thingies").
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+Judge Murphy ruled TRUE on the grounds that ais523 claimed to have
+correctly guessed the text of the hashed message in advance. Even if the
+message could have been sufficiently obvious to at least one player, it
+does not follow that the message was generally comprehensible to the
+players at large. Suppose, for comparison, that I had chosen a much
+longer and more complicated text to hash, and disclosed that text
+privately to ais523 beforehand.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+CFJs 2875 and 2972.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+Though it may have been unambiguous, Pavitra's message was certainly did
+not "reasonably clearly" indicate eir intent to register. The effort
+required to interpret the message goes well beyond "reasonable". While
+it is common for some player's to guess that Pavitra was trying to pull
+a registration scam, it is not reasonable to expect all players to do so
+or to expect a newcomer with access to the Public fora archives to do so
+in less than an hour.
+
+Moreover, proving that the "I register." expansion of the SHA512 hash is
+the only shortest message is a non-trivial mathematical result, which
+Pavitra can probably not prove to a mathematician's satisfaction.
+
+Future disclosure of the message's hash is irrelevant because messages
+are traditionally interpreted using the context available at the time
+they sent. (Rules may simulate changing that context retroactively (e.g.
+ratification), but simple clever wording of messages should not be
+enough; enabling such practice would not be in the interest of the
+stability of the game.)
+
+========================================================================

@@ -1,0 +1,53 @@
+==============================  CFJ 2319  ==============================
+
+    'e' is primarily used in a mathematical context, and therefore means
+    'approximately 2.718281828' when used in rules.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       22 Dec 2008 20:05:05 GMT
+Assigned to omd:                        23 Dec 2008 00:46:42 GMT
+Judged FALSE by omd:                    23 Dec 2008 02:05:19 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+>From rule 754/8:
+{{{
+(3) Any term primarily used in mathematical or legal contexts,
+    and not addressed by previous provisions of this Rule, by
+    default has the meaning it has in those contexts.
+}}}
+The term isn't defined anywhere in the ruleset...
+
+========================================================================
+
+Judge omd's Arguments:
+
+FALSE.  'e' is primarily used in mathematical contexts, so BY DEFAULT
+it means '2.718281828', but most rules are not written such that this
+is a reasonable interpretation-- it is quite difficult to make a
+sentence where 'e' could be reasonably interpreted as the mathematical
+constant.  We therefore choose the nondefault meaning 'he/she'.
+Besides, the difference between 'e' and 'he/she' is a difference in
+dialect or grammar and/or the use of a synonym in place of a word, all
+of which are Rule 754 (1) inconsequential.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Er, I meant to say where 'e' could be reasonably interpreted either as
+the mathematical constant or as a pronoun.
+
+========================================================================

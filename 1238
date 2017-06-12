@@ -1,0 +1,220 @@
+==============================  CFJ 1238  ==============================
+
+    Rule 1930 "Scoring" is the only Rule allowing a Point Award or
+    Penalty for any particular type of event, and has been the only such
+    Rule since it and Rule 1929 "Points" were enacted.  Therefore, any
+    notification of the occurrence of such an event implicitly specifies
+    Rule 1930 as the Rule allowing the Award or Penalty.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Blob
+Judgement:                              DISMISS
+
+========================================================================
+
+History:
+
+Called by Murphy:                       31 Jul 2000 05:17:19 GMT
+Assigned to Blob:                       31 Jul 2000 15:30:15 GMT
+Dismissed by Blob:                      02 Aug 2000 12:23:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I am already screening all my PF mail for Score-worthy events.  I
+don't want to have to *also* check for an explicit specification of
+Rule 1930 - which no one seems to be giving - or to check whether
+I'm reading the message within 7 days after it was sent, and can thus
+specify Rule 1930 to myself by thinking about it.  If this CFJ is
+Judged FALSE, then a *ton* of Score history will be have to be
+recalculated for no good reason - and I will move to Ratify the
+Scorekeepor's Report to avoid it.
+
+========================================================================
+
+Judge Blob's Arguments:
+
+Before I look into the facts of the matter, I wish to point out that
+the statement of this CFJ is poorly chosen. It could well have been
+stated as "Any notification of the occurrence of such an event implicitly
+specifies Rule 1930 as the Rule allowing the Award or Penalty." and
+the remainder given as arguments. (Or even more succinctly "Lee has 10
+Points"). This, I think, is what the Caller truly wants me to arbitrate
+on. Unfortunately with the statement as given, I am bound to judge true
+only if all the following conditions are all true:
+
+   i) Rule 1930 "Scoring" is the only Rule allowing a Point Award or
+      Penalty for any particular type of event
+
+  ii) Rule 1930 has been the only such Rule since it and Rule 1929
+     "Points" were enacted.
+
+ iii) Any notification of the occurrence of such an event implicitly
+      specifies Rule 1930 as the Rule allowing the Award or Penalty.
+
+Not only is this an extra burden on the Judge, but it may also be the
+case that statement (iii) is true while one or more of the other
+statements is not. The CFJ would then have to be judged FALSE, and the
+issue at stake would remain undecided.
+
+Now, taking each of these conditions in turn:
+
+   i) Rule 1930 "Scoring" is the only Rule allowing a Point Award or
+      Penalty for any particular type of event
+
+Indeed, I can find no other rule in the ruleset which describes specific
+Point Awards or Penalties for any events, so I judge this condition to
+be true.
+
+  ii) Rule 1930 has been the only such Rule since it and Rule 1929
+     "Points" were enacted.
+
+This is a little harder to ascertain, as it requires me to examine
+all rules that have existed since Feb 23 this year. I have consulted
+the Escribe archives and checked every Short Logical Ruleset published
+since that date. I can find no evidence of any other rule ever having
+existed which described Point Awards or Penalties for particular events,
+so I judge this condition to also be true.
+
+ iii) Any notification of the occurrence of such an event implicitly
+      specifies Rule 1930 as the Rule allowing the Award or Penalty.
+
+This is the heart of the issue. I presume that the Caller's interest in
+whether the statement specifies Rule 1930 is related to the requirement
+in Rule 1929:
+
+      Such a notification must meet the following requirements, else
+      it is invalid:
+         -- It must be sent within 7 days of the event
+         -- It must unambiguously describe the event
+         -- It must indicate the Rule allowing the Award or Penalty
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+         -- It must be the first such notification for that specific
+            event
+
+So does a statement such as "harvel is Awarded 10 Points for winning
+a contested election", specify (or indicate) Rule 1930 as the Rule
+allowing the Award or Penalty?
+
+We have debated the nature of communication before in this game, and I
+think it is agreed that all communication involves some explicit and
+some implicit information. Clearly Rule 1930 is not mentioned
+specifically. The question is whether the explicit information in
+the statement is enough to imply that it is the acting Rule.
+
+This prompts us to ask, "Imply to whom?". This statement might imply
+different things to different Players. Certainly, this judge was not
+aware before reading this CFJ that Rule 1930 was the rule that
+defined point awards and penalties. So a statement like the example
+above would not inform em in any way about the Rule allowing the Award
+or Penalty. If we interpret rule 1929 to say that the indication
+must be made to all Players, then this is a straightforward counter-
+example.
+
+But there is another possibility, which I consider more likely: It may
+only be the Scorekeepor who needs to be informed. The message in question
+need only be sent to the Scorekeepor, so it is sensible to assume that
+e is the one who has to interpret it. Still, it is by no means certain
+that the Scorekeepor will generally be able to form the necessary
+implications of the statement. It is more likely that e would know the
+identity of the Rule that regulates point awards and penalties, but
+it is by no means certain.
+
+This doubt arises because of the generality of the statement. I am not
+called upon to judge whether any particular statements made in the past
+have specified Rule 1930 to a particular Scorekeepor. Instead I have to
+determine whether any statement of this kind would in general implicitly
+specify Rule 1930. To this I cannot give an answer.
+
+Without a definite answer to this problem, I determine this statement
+to be undecidable, and rule that it be dismissed. I encourage the
+Caller to submit another CFJ of a more specific nature about particular
+scoring events that have already been processed.
+
+========================================================================
+
+Judge Blob's Evidence:
+
+Rule 1929/1 (Power=1)
+Points
+
+      Points are a measure of a Player's unloserliness. The number of
+      Points a Player has is called eir Score. The Score of each
+      Player is at all times an integer. A new Player, or a Player
+      with no Score starts with a Score of zero Points.
+
+      The Rules may specify that certain events may cause a certain
+      Player to be Awarded Points (causing eir Score to be increased)
+      or Penalized Points (causing eir Score to be decreased). If said
+      event occurs, then any Player may notify the Scorekeepor of the
+      Award or Penalty. The Scorekeepor shall then note the change in
+      the affected Player's Score.
+
+      Such a notification must meet the following requirements, else
+      it is invalid:
+         -- It must be sent within 7 days of the event
+         -- It must unambiguously describe the event
+         -- It must indicate the Rule allowing the Award or Penalty
+         -- It must be the first such notification for that specific
+            event
+
+      Having a Score of 200 Points or more is a Win Condition. If at
+      any time a Player Wins the Game, all Player's Scores shall
+      instantly be set to zero.
+
+History:
+Created by Proposal 3977 (Wes), Feb. 23 2000
+Amended(1) by Propsoal 3993 (t), Apr. 20 2000
+
+----------------------------------------------------------------------
+
+Rule 1930/0 (Power=1)
+Scoring
+
+      If a Player is found Guilty of a Crime, e may be Penalized
+      a number of Points equal to the Class of the Crime times 2.
+
+      If a Player wins a contested Election, e may be Awarded
+      10 Points.
+
+      If a Player Resigns from an Office, e may be Penalized
+      5 Points.
+
+      If a Player is Impeached, e may be Penalized 15 Points.
+
+      If a Revolt succeeds, each Rebellious Player may be Awarded
+      15 Points.
+
+      If a Revolt fails, each Rebellious Player may be Penalized
+      10 Points.
+
+      If a Player submits a Proposal which is Adopted, e may be
+      Awarded a number of Points equal to twice the number of
+      AGAINST Votes cast on that Proposal.
+
+      If a Player submits an Insane Proposal which is Adopted,
+      e may be Awarded 5 Points, in addition to any other Awards
+      for that particular Proposal.
+
+      If a Player is the only Player to Vote either FOR or AGAINST
+      a particular Proposal that e did not write or Propose, e may
+      be Awarded 10 Points.
+
+      If a Judgement is Sustained on Appeal, the original Judge
+      may be Awarded 5 Points
+
+      If a Judgement is Overturned on Appeal, the original Judge
+      may be Penalized 5 Points.
+
+      If a Player gains a Patent Title, e may be Awarded 5 Points.
+
+      If a Player is granted a Degree, e may be Awarded 10 Points.
+
+History:
+Created by Proposal 3977 (Wes), Feb. 23 2000
+
+========================================================================

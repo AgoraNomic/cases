@@ -1,0 +1,72 @@
+==============================  CFJ 2839  ==============================
+
+    In the section of Rule 106 quoted in caller's evidence, "permit"
+    should be interpreted as referring to possibility and not legality.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       24 Aug 2010 07:47:46 GMT
+Assigned to ais523:                     28 Aug 2010 00:00:00 GMT
+Judged TRUE by ais523:                  03 Sep 2010 10:35:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The rules do not explicitly define "permit", but the other rules that
+use it should clearly be interpreted this way:
+
+  * 101 and 105 discuss permission to change the rules
+
+  * 1030 discusses permission to change the rules to create a precedence
+      paradox (and refers to "can")
+
+  * 2228 discusses permission to destroy Rests (and refers to "CANNOT")
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 106 (Adopting Proposals), excerpt
+
+      If the Rules do not otherwise permit at least one current active
+      player to distribute a Proposal, then any player may do so
+      Without 3 Objections.
+
+omd wrote:
+
+> On Tue, Aug 24, 2010 at 12:37 AM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+>> Also, you cannot do this, as Wooble CAN legally distribute a proposal.
+>
+> Not this one.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The most relevant usage of "permit" is the one earlier in the same rule,
+where it explains that a player permitted to distribute proposals can do
+so via a certain mechanism. The rules nowhere explicitly state that it's
+legal for the Promotor to distribute proposals, but rule 1607 states
+that it's possible; the can-but-shall-not construction in rule 1607 is a
+common idiom, and it's clear that this is meant to be equivalent to a
+CAN for the purposes of rule 106 as well, and there's no reason to
+assume that "permitted" changes meaning between paragraphs of the same
+rule. Compare CFJ 1990, which explains that these things must be taken
+on a case-by-case basis; thus "permitted" may well have a different
+meaning elsewhere in the ruleset (although based on Murphy's arguments,
+is probably used consistently as it is). Thus, I don't think the
+caller's arguments are relevant here; but I come to the same conclusion
+on a different basis
+
+========================================================================

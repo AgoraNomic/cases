@@ -1,0 +1,45 @@
+==============================  CFJ 1553  ==============================
+
+    The Assessor may refuse to assign a voting index to an aborted
+    proposal.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         18 Apr 2005 04:22:42 GMT
+Assigned to OscarMeyr:                  18 Apr 2005 08:33:46 GMT
+Judged FALSE by OscarMeyr:              21 Apr 2005 01:26:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Concerning statement 5):
+
+Rule 955 requires the Assessor to count the votes on a proposal and
+compute a voting index for it, which then explicitly determines whether
+the proposal is adopted.  Rule 2033 attempts to release the Assessor
+from the duty of reporting the votes cast as required by R208, but it
+says nothing of this duty.  Thus, the Assessor may be required to do
+this even if statement 4) is found to be true, thereby mandating the
+possible adoption of an aborted proposal even if the Assessor refuses
+to publish the votes cast upon it.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+Since I ruled that abortion does not cancel votes already
+cast, Rule 955 applies, and the Assessor must compute and publish the
+voting index on an aborted Proposal.  (Note, however, that the issue of
+quorum still applies.)
+
+========================================================================

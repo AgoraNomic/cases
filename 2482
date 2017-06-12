@@ -1,0 +1,284 @@
+==============================  CFJ 2482  ==============================
+
+    The right of participation in the fora (Rule 101) takes precedence
+    over the prohibition against excessive Notices of Violation (Rule
+    2230).
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+Appeal:                                 2482a
+Decision:                               REMAND
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       02 May 2009 17:01:12 GMT
+Assigned to omd:                        04 May 2009 07:24:52 GMT
+omd recused:                            04 May 2009 12:49:28 GMT
+Assigned to ais523:                     04 May 2009 15:33:38 GMT
+Judged TRUE by ais523:                  04 May 2009 16:39:38 GMT
+Appealed by Wooble:                     04 May 2009 18:02:16 GMT
+Appealed by Rodlen:                     04 May 2009 18:09:31 GMT
+Appealed by Murphy:                     04 May 2009 18:16:17 GMT
+Appealed by scshunt:                    04 May 2009 18:19:14 GMT
+Appeal 2482a:                           04 May 2009 18:19:14 GMT
+REMANDED on Appeal:                     12 May 2009 00:03:00 GMT
+Assigned to ais523:                     12 May 2009 00:03:00 GMT
+Judged TRUE by ais523:                  18 May 2009 19:55:09 GMT
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge this TRUE; rule 101 has higher Power, so by rule 1482 it does
+indeed take precedence.
+
+At this point, I'd normally answer the question that this case probably
+meant to ask, which is whether there is a conflict between the two rules
+such that the precedence relationship actually matters. However, I have
+a rather obvious conflict of interest concerning this matter, so I won't
+opine on it in this judgement, and instead I'll CFJ on it.
+
+========================================================================
+
+Appellant Wooble's Arguments:
+
+I intend, with 2 support, to appeal this ruling.  R1482 only applies
+in conflicts between 2 rules, and the judgement explicitly doesn't
+consider whether such a conflict exists.
+
+========================================================================
+
+Appellant Rodlen's Arguments:
+
+I support.  I don't see how preventing someone from flooding the game with
+NoVs, or the punishment for flooding the game with NoVs, prevents access
+to/use of the public fora.
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+I support and do so.
+
+There's also the issue of self-interest to consider, so I would
+recommend avoiding REMAND.
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+Kerim Aydin wrote:
+> On Mon, 4 May 2009, Ian Kelly wrote:
+>> On Mon, May 4, 2009 at 12:25 PM, Kerim Aydin <kerim@u.washington.edu>
+wrote:
+>>> Note that R1482 doesn't explicitly define precedence when there's no
+>>> conflict, so precedence is not defined in the rules, so a "rules are
+>>> silent" argument can be made on either side.  It's all semantic.  If
+>>> Sentence A is in Rule A, and Sentence B is in Rule B, and Rule A >
+>>> Rule B, but Sentence A and Sentence B are wholly unrelated and have no
+>>> conflict, you can say either:
+>>>
+>>> 1.  Rule A > Rule B, therefore sentence A > sentence B, but it doesn't
+>>> matter or affect anything at the moment (ais523's opinion).
+>>>
+>>> 2.  Rule A > Rule B, but sentence A and sentence B aren't in the same
+>>> units, so comparisons aren't meaningful (Wooble's appeals argument).
+>>>
+>>> I personally prefer #1 (ais523) out of aesthetics, and also (in case
+>>> Sentence C in Rule C somehow makes A and B conflict) the lines of
+>>> precedence remain constant.
+>>
+>> Proto:
+>>
+>> Create a new power-1 rule titled "Paradox!" reading:
+>>
+>>      Unless Rule 101 takes precedence over this rule, persons have no
+>>      rights.
+>
+> Nice.  A very good argument for keeping ais523's opinion.  -Goethe
+
+Unfortunately, this is Agora, and "interpretation X would have
+potentially catastrophic consequences" does not automatically imply
+"interpretation X is wrong". Reductio ad absurdum must be handled very
+carefully to ensure that the 'absurdity' is actually false rather than
+merely absurd.
+
+Goethe's arguments on this matter are rather more persuasive:
+
+Kerim Aydin wrote:
+> On Mon, 4 May 2009, Ed Murphy wrote:
+>> That's the point.  For two rules not in conflict, precedence is
+>> undefined (specifically, R1482 does not define it).
+>
+> So the rules are silent on the matter, and ais523 (as judge to whom
+> we defer) can reasonably define it to follow the rules of conflicts.
+
+Is this interpretation allowed? Rule 1482 (Precedence between Rules with
+Unequal Power) says:
+      No change to the Ruleset can occur that would cause a Rule
+      to stipulate any other means of determining precedence
+      between Rules of unequal Power.  This applies to changes by
+      the enactment or amendment of a Rule, or of any other form.
+      This Rule takes precedence over any Rule that would permit
+      such a change to the Ruleset.
+
+I would like to be able to argue that this only restricts defining
+precedence between Rules, not between sentences. However, I can find no
+justification in the Ruleset for doing so. Precedence between sentences
+in Rules only appears to occur because conflict between sentences causes
+the Rules containing those sentences to conflict.
+
+Now, it is possible there may be a way out. Rule 217 may offer a
+definition of 'precedence' if and only if the relevant language was
+added to it before the second paragraph of Rule 1482 was added.
+R1482par2 only forbids _changes_ that would define precedence; it does
+not stamp out _preexisting_ definitions of precedence.
+
+According to the annotations on the Full Logical Ruleset published 01
+May 2009, Rule 217 was last amended in August 2007. Rule 1482 has been
+amended twice, once in 1997 (labeled as "cosmetic") and once in May 2007.
+
+Examining the archives reveals that the relevant amendment to R1482 was
+the last one, by Proposal 4942
+(http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2007-May/002
+961.html).
+
+The last amendment to Rule 217, by Proposal 5105
+(http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2007-August/
+003160.html),
+is the only substantive one after P4942 (the other merely retitled the
+rule).
+
+P5105 replaced the text of R217 outright, so I refer to the last
+publication of the ruleset before then to determine what the prior text was.
+
+This ruleset is found at
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2007-July/003
+149.html
+and Rule 217/5 is found to have read as follows:
+
+Rule 217/5 (Power=3)
+Judgements Must Accord with the Rules
+
+      All Judgements must be in accordance with the Rules; however, if
+      the Rules are silent, inconsistent, or unclear on the Statement
+      to be Judged, then the Judge shall consider game custom, common
+      sense, past Judgements, and the best interests of the game
+      before applying other standards.
+
+      When a Judge is considering eir Judgement of a Statement
+      contained in a CFJ, e shall make eir evaluation based on the
+      truth or falsity of the Statement at the time the CFJ was
+      issued.
+
+For side-by-side comparison, the current Rule 217/6 reads:
+
+Rule 217/6 (Power=3)
+Interpreting the Rules
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence.  Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense,
+      past judgements, and consideration of the best interests of the
+      game.
+
+The key change, then, appears to have been to generalize the standards
+that applied to judicial findings to a more general context.
+
+In particular, Proposal 5105 did not "cause a Rule to stipulate any
+other means of determining precedence between Rules of unequal Power".
+The stipulation was already present; Proposal 5105 merely extended the
+scope in which that stipulation applies.
+
+Lest anyone argue that the extension of scope does in fact infringe
+R1482par2 on the grounds that R217 now stipulates the definition in a
+context where it previously did not, I observe that this case, by virtue
+of being a call for judgement, falls within the umbra rather than the
+penumbra (as it were). As the question before us is the subject of a
+Call for Judgement, and the answer ultimately provided will be a
+Judgement, for the purposes of the Court we may say that the guiding
+principles given in Rule 217 are not restricted by the second paragraph
+of Rule 1482.
+
+Therefore, since the text is silent on precedence between nonconflicting
+rules of unequal power, let us consider game custom, common sense, past
+judgements, and consideration of the best interests of the game.
+
+
+Consideration of the best interests of the game is the most easily
+evaluated of the four. root provides a very succinct and persuasive
+example (quoted above) of why it is in the interest of the game for
+precedence to be defined as if the rules conflicted.
+
+Game custom also appears to support this. I am a relative newcomer to
+Agora, and have little knowledge of its frankly vast history, but unless
+an older player contradicts me I will assume for the time being that the
+most directly relevant precedent is Rule 1482's definition of precedence
+between conflicting rules of unequal power.
+
+I do not remember seeing any past judgements cited in relation to this
+case so far. If anyone knows of any relevant precedents, please bring
+them up.
+
+Common sense at least appears to be forked two ways here. On the one
+hand, it seems extremely reasonable for the rules of precedence to apply
+in a latent sort of way when rules don't conflict. On the other hand,
+one tends to feel that if one rule takes precedence over another, then
+the trumped rule is thereby invalidated and rendered nonfunctional.
+
+A simple application of the idea, however, puts the lie to this second
+interpretation. When two rules only partially conflict -- that is, for
+example, when a higher-powered rule prevents part but not all of a
+lower-powered rule, common sense and game custom both immediately insist
+that the non-trumped part of the lower rule be allowed to stand.
+Although the two rules as wholes do indeed conflict, the precedence
+(which in this case can uncontroversially be said to exist) is latent
+with regard to the nonconflicting clauses of the lower-powered rule.
+
+A little thought, then, reveals that the common-sense interpretation
+must be that precedence occurs latently between nonconflicting rules.
+
+
+Considering the relative difficulty with which the present judicial
+panel was assembled, unless someone can find either a logical fallacy in
+the arguments here presented or a relevant judicial precedent implying
+FALSE, I recommend a ruling of AFFIRM with the above arguments as a
+concurring opinion and an error rating of 25 (since the original judge's
+arguments were correct, but incomplete).
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Given that CFJ 2482 was remanded to me by accident, more or less, I'm
+not sure what else I can say. I don't believe my judgement in it was
+incorrect nor self-interested (due to a flaw in the question); I
+re-judge CFJ 2482 TRUE, like I did first time, this time per Pavitra's
+arguments in CFJ 2482a (which supported mine but went further in
+explaining the reasons why).
+
+The only argument against my judgement itself, as opposed to claims of
+self-interest, that I've seen is Rodlen's; however, I feel that Rodlen's
+argument was relevant to CFJ 2488 (which was judged in the direction eir
+argument was arguing), rather than 2482. I hope that the extra
+supporting arguments given by the appeals panel, and the judgement in
+the issue that /actually/ affected me, will help avoid the perception of
+self-interest in the rather technical question which was asked by
+mistake in CFJ 2482, and which lead to an appeal.
+
+========================================================================

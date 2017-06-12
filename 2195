@@ -1,0 +1,71 @@
+==============================  CFJ 2195  ==============================
+
+    The computer by which I am sending this email is a nomic.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        25 Sep 2008 19:05:13 GMT
+Assigned to ais523:                     28 Sep 2008 22:14:32 GMT
+Judged FALSE by ais523:                 28 Sep 2008 22:19:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It is an OS X system with a root account that is accessable.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+root's judgement generally (though not specifically) goes against
+CFJ 1879 for computers in general.  In particular, for computers in
+general, persons having "membership" or "playing" or being "bound by
+the rules" and thus "deregistering" is not particularly mappable to
+"having an account" or anything comparable, and thus was sufficient
+in CFJ 1879 to find that an entity wasn't a nomic.
+
+It may be that Normish as a special computer has special-purpose
+scripts which make rules-binding somehow meaningful but that would
+not apply to computers in general.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+FALSE, for technical reasons. It may well be that there is a nomic on
+that computer, though.
+
+The relevant parts of Rule 2200 say:
+{{{
+      A nomic ruleset is a set of explicit rules that provides means
+      for itself to be altered arbitrarily, including changes to those
+      rules that govern rule changes. Not all rule changes need be
+      possible in one step; an arbitrarily complex combination of
+      actions (possibly including intermediate rule changes) can be
+      required, so long as any rule change is theoretically achievable
+      in finite time.
+
+      A nomic is the single entity defined by a nomic ruleset as a
+      whole.  Each nomic ruleset defines exactly one nomic, and each
+      nomic is defined by exactly one nomic ruleset.
+}}}
+
+The point is that tusho's computer is not "defined by a nomic ruleset".
+There are quite likely several subsets of files on that computer which
+are nomic rulesets (for instance, if there is an accessible root
+account, the set of all files form a nomic ruleset by that definition),
+but it seems unreasonable to think of a computer as "defined" by the
+files on it. (Note that Normish is a nomic, however; Normish the nomic
+is not normish the virtual machine, though.)
+
+========================================================================

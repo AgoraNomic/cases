@@ -1,0 +1,92 @@
+==============================  CFJ 2838  ==============================
+
+    In the hypothetical situation described in caller's evidence, the
+    final attempted act would fail.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       24 Aug 2010 02:17:19 GMT
+Assigned to G.:                         27 Aug 2010 23:58:36 GMT
+Judged FALSE by G.:                     28 Aug 2010 20:13:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This hypothetical situation is basically the same as the one in CFJ
+2836, except that it eliminates the technicality that made CFJ 2836's
+judgement unambiguous.  If Ribbons remain defined, but a specific
+color becomes undefined and then defined again, is that enough to
+equate the two versions of that color per Rule 1586?
+
+========================================================================
+
+Caller's Evidence:
+
+Consider the following hypothetical situation:
+
+  1) A rule (G1) is created with text "A player who has never owned a
+     Gray Ribbon qualifies for one."
+
+  2) A player awards emself a Gray Ribbon.
+
+  3) Rule G1 is repealed.
+
+  4) A rule (G2) is created with the same text as rule G1.
+
+  5) The player from step 2 attempts to award emself a Gray Ribbon.
+
+Throughout this period, the rest of the ruleset remains in its
+current state, and the player from step 2 remains registered.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+When a class or subclass of game object (i.e. asset) ceases to be
+defined by the Rules, it ceases to exist, and if it is re-created,
+it is by default a new class of game object with a clean history.
+This is important for a long-running game; I ever bring back Stems,
+Kudos, Voting Tokens, Indulgences, Bonds, Voting Credits, Papyri,
+HereYouGoKezomi, or Michael's Pot Plant, I wouldn't want to have to
+answer past questions about them; nor should anyone be expected to.
+
+So to a legal question "Has X ever owned a gray ribbon", there's two
+ways to consider the question.
+1.  "Has X owned a gray ribbon of the class currently defined?"
+2.  "Has X ever owned something called a gray ribbon?"
+
+The problem with following #2 is that we'd not only have to remember
+every game-named object going back to 1993, but since we allow
+common definitions to apply whenever the game object was undefined,
+so we'd have to also consider every real life object that might be
+a gray ribbon that X may have owned.  This is fairly untenable.
+
+Therefore, such questions about rules objects, by default, apply
+only to the class of object as it is currently defined.  Note that
+this can be overridden, if the rule question actually is very
+explicitly "has X ever owned anything called a gray ribbon" or if a
+proposal implementing gray ribbons explicitly states "gray ribbons
+are continuous with the previous iteration of gray ribbons."
+The fact that ribbons remained defined while colors may have come
+and gone is not sufficient to assume said continuity of individual
+ribbon colors.  (Continuity assumptions might be made implicitly
+if non-rule, rule-defined documents such as contests use them
+continually, but such assumptions should be examined case-by-case).
+
+So ok, there's multiple nested negatives in the actual statement. Er,
+the attempt would succeed if the ribbon question applied to the
+new ribbon class as I just argued it, so FALSE: the action would not
+fail, Wooble would have awarded emself the "new type" of ribbon
+successfully because e never owned one of the new type.
+
+========================================================================

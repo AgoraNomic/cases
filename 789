@@ -1,0 +1,283 @@
+From nomic-official-owner@teleport.com  Sun Jul 23 16:20:32 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id QAA00415 for <blahedo@quincy.edu>; Sun, 23 Jul 1995 16:06:57 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id JAA02102 for nomic-official-outgoing; Sun, 23 Jul 1995 09:58:12 -0700
+Received: from audumla.students.wisc.edu (students.wisc.edu [144.92.104.66]) by desiree.teleport.com (8.6.10/8.6.9) with ESMTP id JAA02095 for <nomic-official@teleport.com>; Sun, 23 Jul 1995 09:58:09 -0700
+Received: by audumla.students.wisc.edu;
+          id LAA17124; 8.6.9W/42; Sun, 23 Jul 1995 11:58:09 -0500
+X-NUPop-Charset: English
+Date: Sun, 23 Jul 95 11:55:00 CDT  
+From: "Charles E. Carroll" <ccarroll@students.wisc.edu>
+Message-Id: <42905.ccarroll@students.wisc.edu>
+To: nomic-official@teleport.com
+Subject: OFF: CFJ 789: Final Judgement
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Final Judgement of CFJ 789, now including Vanyel's Judgement
+
+Vanyel receives 3 Points for Judgement.
+
+============================================================
+
+CFJ 789
+
+Caller: Kelly
+
+Statement: Chuck violated Rule 1454, by selecting Rule 106 to be 
+  infected by the Virus in a manner other than that specified
+  in the Rules. 
+
+Barred: Chuck
+
+Requested Injunction: It is requested that the Judge enjoin Chuck to 
+  retract his illegal move.
+
+Judge: Andre
+  Judgement: TRUE
+  Injunction: I request Chuck to retract eir illegal move, that is, to
+    choose, but now in the right way, a Virus Number for the Nomic Week
+    in which this erroneous Virus Report was issued.
+
+pro-Speaker: KoJen
+  Judgement: FALSE
+pro-COTC: Vanyel
+  Judgement: FALSE
+Justiciar: Steve
+  Judgement: FALSE
+
+Final Judgement: FALSE
+  Injunction: none
+
+Effects reported by COTC (* indicates new to this report)
+  Andre receives 5 Points for speedy Judgement
+  Steve receives 5 Points for speedy Judgement
+  KoJen receives 3 Points for Judgement
+  Andre loses 5 Points for having his Judgement overturned
+ *Vanyel receives 3 Points for Judgement
+
+============================================================
+
+============================================================
+
+History:
+
+  Called by Kelly, July 10 1995, 10:17 EST5
+  Assigned to Andre, July 11 1995, 10:25 UTC
+  Judged TRUE by Andre, July 14 1995, 11:12 METDST
+  Appealed by Chuck, timestamp incorrect
+  Appealed by Steve, July 17 1995, 17:16 +1000 (EST)
+  Appealed by Vanyel, July 17 1995, 03:14 -0500 (CDT)
+  Assigned to Kelly as Speaker, July 17 1995, 09:15 UTC
+  Assigned to Andre as CotC, July 17 1995, 09:15 UTC
+  Assigned to Steve as Justiciar, July 17 1995, 09:15 UTC
+  Judged FALSE by Steve, July 18 1995, 12:39 +1000 (EST)
+  Assigned to KoJen as pro-Speaker, July 18 1995, 00:24 EST5
+  Assigned to Vanyel as pro-CotC, July 19 1995, 08:25 METDST
+  Judged FALSE by KoJen Fri, 21 Jul 95 16:23:39 -0400
+  Final Judgement of FALSE published Sat, 22 Jul 95 16:03:26 CDT
+  Judged FALSE by Vanyel Sun, 23 Jul 1995 02:08:53 -0500 (CDT)
+
+=============================================================
+
+Arguments of Caller (Kelly):
+
+Rule 1454 requires the Rulekeepor to select a _random_ integer in the 
+range [M,N], where M and N are, respecctively, the number of the
+lowest and highest numbered Rules at the beginning of that week.
+ 
+Rule 1079 requires that the any "random" selection be made such that 
+the selection be made such that each possible choice has equal 
+probability of being selected. 
+
+Chuck's procedure for selecting an integer in the required range 
+clearly does not result in a randomly-selected integer as defined by 
+the Rules; the number of possible outcomes of the selection mandated
+by 1479 is nearly 1400, and, as TAL has postulated, the number of 
+ingredients in a random foodstuff more closely approximates a Poisson
+distribution, rather than the uniform distribution called for by 1079.
+Hence, this selection procedure has a much greater probability of
+selecting the integers at the lower end of the distribution than those 
+at the higher end, and is therefore not a "random" selection as 
+defined by the Rules. 
+
+KoJen's use of this selection method does not violate 1079 because 
+KoJen employed an arbitrary mapping between the generated integer and 
+the set of objects to select from.  The inclusion of such an arbitrary
+mapping introduces a randomicity which is not present in the case 
+under consideration.  A finding of TRUE on this CFJ should in no way 
+invalidate the methodology employed by KoJen in selecting a new 
+Notary. 
+ 
+==============================================================
+
+Arguments of Judge (Andre):
+
+In the case of CFJ 789 I judge TRUE. 
+
+I think we all agree that Chuck's method was not random in the sense of the 
+Rules. Eir method gave a far higher chance to yield one of the lower integers
+in the given range, thus the choice was not random as described in Rule 1079. 
+ 
+However, did e choose a Virus Number, or was e posting a completely bogus 
+report? In my opinion by clearly specifying it as such he HAD selected a
+Virus Number, and done so in an incorrect way. I do agree there could be a 
+discussion at this point, however. 
+
+===============================================================
+
+Arguments of Justiciar (Steve):
+
+There is a broad consensus that Chuck did not use a random process
+in his attempt to select a Virus Number (see the evidence adduced
+with the original CFJ). However, I part company from Judge Andre
+when he concludes from this that Chuck violated Rule 1454. For the
+wording of Rule 1454 is quite clear: nothing is a Virus Number that
+is not randomly selected. Since Chuck did not select a random number,
+he did not select a Virus Number. Hence he did not select Rule 106
+to be infected, despite his claim to the contrary. The correct
+conclusion to draw, therefore, is that Chuck posted an erroneous or
+misleading Report. However, nothing in Rule 1454 prohibits Chuck
+from doing this. So the Statement is FALSE.
+
+============================================================
+
+Arguments of pro-Speaker (KoJen)
+
+Clearly Chuck did not use a process which could yield any of the outcomes with
+equal probability, as required by Rule 1079. So he has not yet chosen any Rule
+to be infected, and is not in violation for infecting an incorrect Rule.
+
+(As an aside, he *is* actually in violation of Rule 1454 for another reason: By
+failing to choose *any* Rule to be infected, he is in violation of Rule 1454 and
+the "As Soon As Possible" Rule. But that is not the subject of this CFJ.)
+
+============================================================
+
+Arguments of pro-COTC (Vanyel)
+
+In Chuck's first message alleging to be the Virus Report, he said that
+Rule 106 was infected.  However, as he did not select a random number in
+the correct range, there was no Virus Number then, and no Rule was
+infected.  There is no rule against counting the number of ingredients
+on a soup can, diddling with the number and posting the whole mess to
+nomic-business.  And, there is no rule against posting that a rule was
+infected... thus, Chuck didn't violate rule 1454.
+
+============================================================
+
+Evidence provided by Caller (Kelly):
+
+I.   Rule 1079/0 
+II.  Rule 1454/0 
+III. Chuck's Report of Virus Activity 
+ 
+-------I. 
+ 
+Rule 1079/0 (Mutable, MI=1) 
+Definition of "Random" 
+ 
+      All occurrences of the word "random" or forms of it shall be 
+      taken to mean "any one of the choices with equally distributed 
+      possibility for each choice". 
+
+-------II. 
+ 
+Rule 1454/0 (Mutable, MI=1)
+The Virus
+ 
+      There is a Nomic Entity called the Virus which has the effect 
+      of altering the texts of Rules, in the manner and under the
+      conditions set out below. This process is known as "infection". 
+      The effect of the Virus on a Rule, when it has an effect, is 
+      that of a non-Proposed Amendment to that Rule. Thus, the Virus 
+      can only be effective inasmuch as it satisfies the Rules for 
+      the effectiveness of non-Proposed Rule Changes. 
+ 
+      The selection of the Rule to be infected by the Virus occurs as 
+      follows: as soon as possible after the beginning of each Nomic 
+      Week, the Rulekeepor shall select a random integer in the range 
+      [M,N], where M and N are, respectively, the numbers of the 
+      lowest and highest numbered Rules at the beginning of that 
+      week. Call a number selected in this way a Virus Number.  If 
+      the Virus Number selected is the number of a Rule, then that
+      Rule is infected as described below, and no further Virus 
+      Numbers are selected in that week. If the Virus Number is not 
+      the number of a Rule, then a new Virus Number is selected as 
+      above, unless five such Virus Numbers (which are not the
+      numbers of a Rule) have already been selected in that week. In 
+      that case, the Virus is ineffective and no Rule is infected in 
+      that week.
+ 
+      The Rulekeepor shall publish the results of the selection 
+      process in the Public Forum within 24 hours of the completion 
+      of that process. If a Rule has been infected, e shall announce 
+      the number of that Rule. If no Rule has been infected, then e 
+      shall that no Rule has been infected. 
+ 
+      An infected Rule is amended in the following way, given that 
+      other Rules permit it: if the Rule does not already contain the 
+      sentence "This Rule defers to all other Rules which do not 
+      contain this sentence.", then that sentence is appended to the 
+      Rule. If the Rule already contains the sentence, then the 
+      sentence is deleted from the Rule.
+ 
+      There is one exception to the above: if this Rule is the 
+      infected Rule, then this Rule automatically Repeals itself. 
+
+ 
+History: 
+Created by Proposal 1573, Apr. 28 1995
+ 
+-------III. 
+ 
+X-NUPop-Charset: English 
+Date: Mon, 10 Jul 95 08:42:44 CST 
+Sender: owner-nomic-official@teleport.com 
+Precedence: bulk 
+Reply-To: nomic-discussion@teleport.com 
+From: "Charles E. Carroll" <ccarroll@students.wisc.edu> 
+To: nomic-official@teleport.com 
+Subject: OFF: Virus Report 
+ 
+In the past I have used a pseudo-random number generator to
+select the virus numbers.  Today I have decided to use a different 
+method. 
+ 
+For each number to be selected, I will select an item from my
+kitchen.  I will count the number of ingredients, take that 
+number modulo 1382, and add 101.  This gives a number in 
+the range 101-1482 inclusive.
+ 
+The first item is Nile Spice Black Bean Soup.  It has 5 ingredients. 
+106 is a Rule, but since it has MI=3, it is not amended. 
+(I have added a line to the history noting the infection, however.) 
+Rule 106 now reads: 
+ 
+====== 
+ 
+Rule 106/0 (Semimutable, MI=3) 
+Adopting Proposals 
+ 
+      All Proposals made in the proper way shall be voted upon.  A 
+      Proposal shall be adopted if and only if it receives the
+      required number of votes and if Quorum is achieved. 
+ 
+History: 
+Initial Immutable Rule 106, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1073, Oct. 4 1994 
+Amended by Proposal 1278, Oct. 24 1994 
+Renumbered from 1073 to 106 by Rule 1295, Nov. 1 1994
+Infected, but not amended, by Rule 1454, May 7 1995 
+Infected, but not amended, by Rule 1454, Jul. 10 1995 
+ 
+====== 
+ 
+Chuck 
+
+=============================================================
+
+End of CFJ 789
+
+=============================================================

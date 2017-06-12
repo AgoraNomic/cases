@@ -1,0 +1,84 @@
+==============================  CFJ 3043  ==============================
+
+    Tanner L. Swett has voted (endorse Murphy, or if e doesn't vote then
+    AGAINST) on Proposal 7083.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       21 Jun 2011 22:14:58 GMT
+Assigned to G.:                         03 Jul 2011 17:38:16 GMT
+Judged TRUE by G.:                      07 Jul 2011 00:49:21 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Tanner L. Swett wrote:
+
+> I vote:
+>
+>> 7081 3   Murphy      Effects are effective
+> MURPH
+>
+>> 7082 3   omd, etc.   Fix promise transfers
+> FOR
+>
+>> 7083 3   Walker      Re-jigged Re-jiggery
+> MURPH or AGAINST (using a Perl-style "or")
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+Perl is moderately liberal with boolean
+evaluation, treating (for example) the string '0' as false. It's
+possible that AGAINST (or perhaps PRESENT) might evaluate to false.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+We have precedent that the truth value of an action
+statement is true if it succeeds and false if it does not; as many
+Perl I/O functions also follow such a convention, we should treat the
+boolean value of an AGAINST vote as true if the vote was successfully
+cast (and perhaps valid?) and false otherwise, if anything.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+func(a || b) is not generally equivalent to func(a) || func(b).
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+Is "AGAINST if Murphy sucks, else PRESENT" one vote, or a
+conditional branch of two votes?
+
+========================================================================
+
+Judge G.'s Arguments:
+
+There are too many computer programmers here; Agora is not a Boolean
+game any more than English is a Boolean language.  Terms such as 'or' or
+'and' are not 'primarily used in mathematical' contexts.  The voter did
+specify a "perl" type 'or', do we need to use logic or language?
+Actually, it doesn't matter.  Evaluating left to right in both, it's
+most reasonable for this to be read as "Endorse Murphy, or if Murphy's
+vote is invalid/doesn't vote, vote Against" in either common language
+or left-to-right Boolean evaluation (perl or otherwise).  To avoid
+inserting the "Present" of a unclear conditional in the middle, this is
+taken to be a single conditional vote.
+
+========================================================================

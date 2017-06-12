@@ -1,0 +1,91 @@
+==============================  CFJ 3003  ==============================
+
+    If the Rules state that a person can do Y by "publishing" X, then
+    it's functionally equivalent to saying Y can be done "by
+    announcement" of X.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 Apr 2011 19:37:18 GMT
+Assigned to ais523:                     20 Apr 2011 00:53:25 GMT
+Judged FALSE by ais523:                 22 Apr 2011 14:43:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R478 equates "publish" with "announce" and they are common-language
+synonyms.   R478 puts standards of clarity ("unambiguously and
+clearly") for things performed "by announcement".  Are these the same
+standards for things performed "by publishing"?
+
+The intent of a R869 amendment was to weaken the "by announcement"
+standard by using "publishing" for registration.  However, such a
+weakening would mean that unclear reports could be published,
+unclear judicial declarations, etc.... multiple places that define
+"publish".  The multiple places that the two terms are used
+interchangeably outweigh the single place (registration) that this
+was not the intention.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+1) We don't require the author of a report to specify that "e
+performs" anything when publishing it, which is hard to square with
+the idea that the definition of "by announcement" is involved.  (The
+title of a report is arguably a specification that that report is
+being published, but it does not say who is publishing it.  I don't
+think I can call a CFJ by stating "A CFJ is called...")
+
+2) When we had Truthfulness, we didn't hesitate to punish people for
+ambiguous/unclear false statements, which by your interpretation would
+not be considered published.  (The most recent version of that rule
+used the phrase "make a public statement", which seems like it should
+be equivalent to "publish"; the Truthiness version actually used
+"publish statements").
+
+3) Even if a report is allowed to be unclear, the author still has to
+publish the information, not a message "indicating" something or
+other, so there's still a large distinction between the cases.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, obviously "publish" = "announce"
+because rule 478 says so. So saying that somebody publishes something,
+is the same as saying that they announce it.
+
+However, doing something "by announcement" is not the same as announcing
+it:
+
+> A
+> person "publishes" or "announces" something by sending a public
+> message,.
+
+> Where the rules define an action that CAN be performed "by
+> announcement", a person performs that action by unambiguously
+> and clearly specifying the action and announcing that e performs
+> it.
+
+Two clearly different definitions, there. The second one requires the
+player to announce that they perform the action, but adds extra
+conditions as well (unambiguity, etc.).
+
+Thus, I judge CFJ 3003 FALSE. I can see a weakish case for "by
+publication" = "by announcement" (a direct grammatical translation of
+rules-defined synonyms), but not for "by publishing" = "by
+announcement" (because both are explicitly defined in the rules, to
+different meanings).
+
+========================================================================

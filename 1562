@@ -1,0 +1,89 @@
+==============================  CFJ 1562  ==============================
+
+    A cancelled vote on a Proposal does not count towards quorum.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Murphy
+Barred:                                 root
+Barred:                                 Quazie
+
+Judge:                                  Michael
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           03 May 2005 18:14:06 GMT
+Assigned to Michael:                    03 May 2005 23:15:38 GMT
+Judged TRUE by Michael:                 05 May 2005 23:49:01 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The arguments are presented for Proposal voting only, although it may or may
+not generalize to other types of voting.  After the adoption of Proposal 4699,
+Rule 683 read:
+
+    A Voter authorised to cast votes on a particular Proposal may do
+    so only by informing the Assessor of the vote or votes e is
+    casting on that Proposal. A Voter may change or cancel eir vote
+    or votes during the Voting Period by informing the Assessor.
+
+    A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
+    (or an obvious synonym of one of these).  Something which is not
+    one of these is not a vote upon a Proposal.
+
+and R2033 states in part what happens when a Proposal is aborted:
+
+    (2)  all Votes cast on the Proposal are cancelled, and the
+         Proposal fails;
+
+I am not interested in whether "the proposal fails" of R2033 clause happens
+automatically, that is the subject of another CFJ. Instead, I am interested in
+what happens when a vote is "cancelled", an event which occurs in other places
+in the Rules.
+
+Rule 955(a) states that only "uncancelled" votes shall be counted by the
+Assessor, but this again is the subject of another CFJ. Overall, the
+definition of cancel does not appear in the Ruleset, so we must rely on common
+definitions.
+
+The first common definitions of "cancel" that are relevant to legal
+proceedings are:
+"To annul or invalidate."
+http://www.answers.com/topic/cancel
+http://www.thefreedictionary.com/cancel
+or to:
+"declare null and void; make ineffective;"
+www.cogsci.princeton.edu/cgi-bin/webwn
+
+In other words, to cancel a vote is to declare it invalid and/or ineffective,
+and invalid votes do not count towards quorum.  (I argue that it is implicit
+in Rule 879 that only the casting of valid and effective votes counts towards
+quorum).  Another way to look at is as that R683 allows implicitly that
+cancelling a vote, whether voluntarily or Rules-enforced, changes a vote of
+FOR, AGAINST, or ABSTAIN to a vote of NULL or CANCEL, which by R683 second
+paragraph is not a vote on a proposal and thus again, not applicable towards
+quorum.
+
+Considering cancelled votes as not applying towards quorum does not contradict
+R106, even under Judge OscarMeyr's original unappealed interpretation of CFJ
+1550.
+
+========================================================================
+
+Judge Michael's Arguments:
+
+As the Caller points out, the ruleset lacks a complete definition of
+what it is to be a cancelled vote.  In this case, common sense leads
+us to confirm that a cancelled vote should indeed not count as a vote
+in any sense, wherever this is consistent with what is explicitly
+stated in the ruleset.
+
+In particular, a cancelled vote should not count towards Quorum.
+
+========================================================================

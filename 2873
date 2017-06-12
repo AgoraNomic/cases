@@ -1,0 +1,73 @@
+==============================  CFJ 2873  ==============================
+
+    The message quoted in evidence is sufficiently unambiguous and clear
+    to qualify as an intent to perform at least one specific dependent
+    action.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 omd
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           27 Sep 2010 20:26:08 GMT
+Assigned to Taral:                      03 Oct 2010 18:01:42 GMT
+Judged TRUE by Taral:                   08 Oct 2010 05:02:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This strains the bounds of unambiguity and clarity, given (a) the
+combinatorial number of specified different actions which may be
+beyond a reasonable effort to enumerate; and (b) interpretation for
+a particular person who might object to being flipped in a particular
+way under R1728/30(a).  Does it break said bounds?
+
+========================================================================
+
+Caller's Evidence:
+
+Evidence:
+> For each team T, for each team U other than T, for each player P in T,
+> I intend, without two objections from members of T and without two
+> objections from members of U, to flip P's Allegiance from T to U.
+
+Rule 1728/30 Dependent Actions [excerpt]
+
+        a) A person (the initiator) announced intent to perform the
+           action, unambiguously and clearly specifying the action and
+           method(s) (including the value of N for each method), at most
+           fourteen days earlier, and (if the action depends on
+           objections or notice) at least four days earlier.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Writing all the possibilities out seems to be a) entirely possible, and
+b) even worse.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+According to the latest Referee's report, there are
+two 3-player teams and two 4-player teams, so this expands to
+3*3 + 3*3 + 4*3 + 4*3 = 42 intents ("each team U other than T"
+avoids any intents to "move" someone to eir own team for no net
+effect).
+
+========================================================================
+
+Judge Taral's Arguments:
+
+TRUE. 42 intents could easily have been scripted and written out.
+
+========================================================================

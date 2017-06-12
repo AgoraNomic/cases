@@ -1,0 +1,82 @@
+Clerk's Note: One last apology to Kolja for putting the wrong name in the
+subject line when we first published this CFJ. We're glad it was spotted
+by em and Judged appropriately. ;-)
+
+======================================================================
+                              CFJ 1149
+
+    If entity X submits a Transfer Order satisfying a Payment Order
+    naming another entity Y as payor, entity Y will commit the Crime
+    of Contempt by Inaction if entity Y does not submit the Transfer
+    Order specifically required by the Payment Order.
+
+======================================================================
+
+Called by:           Elysion
+
+Judge:               Kolja
+Judgement:           TRUE
+
+Judge selection:
+
+Eligible:            Annabel, Kolja, Michael, Murphy, Palnatoke,
+                     Peekee, Vlad, Wes
+
+Not eligible:
+Caller:              Elysion
+Barred:              -
+Had their turn:      Beefurabi, Blob, Chuck, Crito, elJefe,
+                     Elysion, harvel
+Already served:      -
+Defaulted:           -
+By request:          -
+On Hold:             Lee, Oerjan, Steve
+
+======================================================================
+
+History:
+
+Called by Elysion:                    31 Jul 1999 21:48:16 -0400
+Assigned to Kolja:                    03 Aug 1999 16:48:48 GMT
+Judged TRUE by Kolja:                 08 Aug 1999 13:14:15 +0200
+Judgement published:                  As of this message
+
+=====================================================================
+
+Caller's Arguments:
+
+By rule 1569/3, the Payment Order requires entity Y to submit a
+specific Transfer Order.
+
+Rule 1793/0 states:
+
+     An Order is a command, executed by a Player and directed to some
+     entity requiring that entity to perform exactly one action, or
+     to refrain from performing one or more actions.
+
+CFJ #1142 established that a Payment Order can be satisfied by
+entity X. However, entity Y has not obeyed the order, so will be
+guilty of Contempt by Inaction if e does not perform the required
+action (by rule 1810/0).
+
+======================================================================
+
+Evidence attached by the Caller:
+
+<none>
+
+======================================================================
+
+Judge's Arguments:
+
+CFJ1142 established that PO can be satisfied by a player who is not
+the payor named in the PO, i.e. it doesn't matter who satisfies the
+PO (because the lower numbered 1732 takes precedence over 1810).
+
+However, the 'Crime of Contempt by Inaction' is defined in R1810 as
+failure 'to perform the required action' in time by the 'entity who
+is required by an Order to perform an act'. This definition is not
+altered by contradicting regulation in 1732 and remains valid,
+implying that the statement is true.
+
+======================================================================

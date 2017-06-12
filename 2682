@@ -1,0 +1,49 @@
+==============================  CFJ 2682  ==============================
+
+    It is POSSIBLE to increase a player's voting limit on an ordinary
+    decision by playing a Roll Call card.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  BobTHJ
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       11 Sep 2009 15:52:53 GMT
+Assigned to omd:                        15 Sep 2009 07:37:49 GMT
+omd recused:                            15 Sep 2009 15:53:16 GMT
+Assigned to BobTHJ:                     16 Sep 2009 07:00:05 GMT
+Judged TRUE by BobTHJ:                  18 Sep 2009 19:28:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+CFJ2276a hinged on the numerical precedence between the rule
+defining voting limit and the rule allowing changes.  The relative
+numbering has changed and the issue should be re-examined.
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+There are two possible interpretations of R2156: the first is that it
+creates a static voting limit which can not be changed, and the second
+that it initializes a dynamic value voting limit which can then be
+modified as described in other rules. R2156 gives us no clear guidance
+on which of these interpretations should be used. However, other rules
+(such as R2260) would seem to suggest that the latter interpretation
+is more in line with the intent. Since one interpretation would lead
+to a conflict between rules and the other would not the correct choice
+is to use the latter. I judge TRUE.
+
+========================================================================

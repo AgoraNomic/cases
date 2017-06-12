@@ -1,0 +1,76 @@
+==============================  CFJ 1227  ==============================
+
+    A Low Oligarch who is entitled to cast any vote at all upon a given
+    Ordinary Proposal may cast a vote of ABSTAIN upon that Proposal.
+
+========================================================================
+
+Caller:                                 Kelly
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Kelly:                        29 May 2000 22:04:14 GMT
+Assigned to Murphy:                     31 May 2000 01:44:00 GMT
+Judged TRUE by Murphy:                  03 Jun 2000 20:47:01 GMT
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 683 generally allows a vote of ABSTAIN on a Proposal.
+
+Rule 1935 prevents multiple votes cast by an Oligarch on an Ordinary
+Proposal from being ABSTAIN.  However, a Low Oligarch may cast only
+one vote on an Ordinary Proposal, and is thus unaffected by this
+restriction.
+
+No other Rule prevents an Oligarch's vote on an Ordinary Proposal
+from being ABSTAIN, except by preventing the Oligarch from being
+able to vote on it at all.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+Rule 683/9 (Power=1)
+Voting on Proposals
+
+       A Voter authorised to cast votes on a particular Proposal may do
+       so only by informing the Assessor of the vote or votes e is
+       casting on that Proposal. Once cast, a vote cannot be changed or
+       cancelled by the Voter which cast it, although it may be
+       cancelled as other Rules require.
+
+       A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
+       (or an obvious synonym of one of these).  Something which is not
+       one of these is not a vote upon a Proposal.
+
+       A vote cast by an entity which does not have an Executor
+       is cast at a time and in a manner specified in other Rules.
+
+Rule 1935/0 (Power=1)
+Voting by the Oligarchy
+
+       Subject to the qualifications below, the High Oligarch must cast
+       three votes, a Middle Oligarch two votes, and a Low Oligarch one
+       vote, on any Ordinary Proposal on which e votes at all.
+
+       A Player who becomes an Oligarch during the Voting Period of an
+       Ordinary Proposal may not vote on that Proposal (unless the
+       Proposal becomes a Democratic Proposal). An Oligarch who
+       changes rank during the Voting Period of an Ordinary Proposal
+       must cast as many votes as the lower rank entitles em to cast,
+       if e casts any votes at all on that Proposal (again, this
+       provision applies only as long the Proposal remains an Ordinary
+       Proposal).
+
+       Multiple votes cast by an Oligarch on an Ordinary Proposal must
+       be either all FOR or all AGAINST. Oligarchs may not declare
+       Presence on an Ordinary Proposal.
+
+========================================================================

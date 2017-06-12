@@ -1,0 +1,292 @@
+>From nomic-official-owner@teleport.com  Tue Aug 15 06:17:35 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id GAA32418 for <blahedo@quincy.edu>; Tue, 15 Aug 1995 06:17:32 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id EAA20725 for nomic-official-outgoing; Tue, 15 Aug 1995 04:15:02 -0700
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id EAA20273 for <nomic-official@teleport.com>; Tue, 15 Aug 1995 04:09:38 -0700
+Message-Id: <199508151109.EAA20273@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA16023; Tue, 15 Aug 1995 13:08:54 +0200
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 803: Judgement
+To: nomic-official@teleport.com
+Date: Tue, 15 Aug 95 13:08:54 METDST
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+============================================================
+
+CFJ 803
+
+Caller: Zefram
+
+Statement: The second clause of the second sentence of rule 1488/0 is
+without legal effect.
+
+Judge: Michael
+
+============================================================
+
+History:
+  Called by Zefram Mon, 7 Aug 1995 11:51:20 BST
+  Assigned to Michael Tue, 08 Aug 1995 19:59:53 -0500
+  Judged FALSE by Michael Tue, 15 Aug 1995 11:17:50 BST
+
+Effects of this CFJ (Scorekeepor, take note!):
+  Michael gains 3 Points for timely Judgement.
+
+============================================================
+
+Arguments of Caller (Zefram):
+
+The first sentence of rule 1488/0 states "Let there be an Entity known
+as the Nomic Potato".  Note that there was already, prior to the
+creation of this rule, an Entity known as "the Nomic Potato"; it is a
+Contest, created on 1995-08-02, and its Contestmaster is Zefram.  Much
+of rule 1488/0 is concerned with who shall possess the Nomic Potato,
+and this does not conflict with any other rule, as no other rule states
+anything about the possession of a Contest.
+
+The second sentence of rule 1488/0 states "There is only one Potato
+which cannot be destroyed".  This obviously refers to the Nomic Potato,
+already referred to in the first sentence.  Rule 1011/0 requires that
+there is only one Nomic Potato, because if there were more than one
+then they would have the same name, violating that rule.  Rule 1488/0
+therefore, despite the lack of a clarifying comma in that sentence,
+states that the one Nomic Potato cannot be destroyed.
+
+Rule 1446/3 states that a Contest can be dissolved under certain
+circumstances, including "when there is no Contestmaster and no
+provision for replacing em".  Regulation 2 of the Nomic Potato states
+"The Contestmaster shall be Zefram, and may not be replaced.  The
+Contestmaster may resign at any time by indicating eir intent to do so
+to the Public Forum".  Thus rule 1446/3, applied to the Nomic Potato,
+clearly indicates that it can be destroyed.
+
+Rule 1446/3 states that the Nomic Potato can be destroyed, and rule
+1488/0 states that it cannot.  They are in conflict, and 1446/3 takes
+precedence by virtue of a lower number.  Hence, the Nomic Potato can be
+destroyed, and the part of rule 1488/0 that says otherwise has no legal
+power.
+
+============================================================
+
+Arguments of Judge (Michael):
+
+Judgement:  FALSE
+
+Argument:  This statement is one that attempts to use the prior
+           existence of a Contest called the Nomic Potato to
+invalidate the claim in 1488/0 that the Entity defined there can not
+be destroyed.  This argument rests on the assumption that the Entity
+defined in 1488/0 has the same name as the Contest, and so to avoid
+conflict with 1011/0 must be the same Entity.  (Contests can be
+dissolved so, if one accepts the reasoning thus far, the clause of
+1488/0 in question is invalidated by reason of it conflicting with
+1466/3 "Contests".)
+
+I attack this claim by showing that the assumption about names is
+false.  In particular, rule 1488/0 nowhere claims that the Entity in
+question has 'Nomic Potato' as its name.  It merely states that it is
+known as the 'Nomic Potato'.  There is a world of difference between
+being known as something and actually being named something.
+
+Now, one might claim that the Nomic Potato Contest is an Entity known
+as the Nomic Potato.  This is true, but it does not necessarily follow
+therefore that the 1488/0 Entity is the same one.  The use of "let" in
+Agora is used in a creative role; it creates a fresh instance of some
+type.  Note that if 1488/0 had tried to name its Entity, then it would
+have failed because of 1011/0.  It would not have suddenly merged two
+distinct Entities, simply because two rules (of lesser precedence than
+1011/0, which has MI = 2) asserted that they had the same name.
+
+This argument may seem pedantic and slightly unworthy, but I believe
+it is cast at the appropriate level given the circumstances in which
+this CFJ was called. 
+
+--------------------
+
+Michael.
+
+
+
+
+
+============================================================
+
+Evidence provided by Caller (Zefram):
+
+1. Rule 1011/0: Game Entities May Not Be Arbitrarily Changed
+2. Rule 1446/3: Contests
+3. Rule 1488/0: The Nomic Potato
+4. Message creating the Nomic Potato
+
+----------------------------------------
+
+Rule 1011/0 (Semimutable, MI=2)
+Game Entities May Not Be Arbitrarily Changed
+
+      Any Entity which is created by the Nomic Rules, and which exists
+      only within the context of Agora Nomic (such as Points, Votes,
+      Currencies and any Official Records) may *not* be changed by any
+      action other than those specified by the Rules.
+
+      No two Nomic Entities (including Players) shall have the same
+      name or nickname.
+      (*Was: 450*)
+
+History:
+Created by Proposal 450, Sep. 10 1993
+Amended by Proposal 1011, Sep. 5 1994
+Mutated from MI=1 to MI=2 by Proposal 1593, Jun. 2 1995
+
+----------------------------------------
+
+Rule 1446/3 (Mutable, MI=1)
+Contests
+
+      A contest is a subgame of Agora Nomic, having its own Name,
+      Entry Fee, Regulations, Contestmaster, and Contest Fund.
+
+      It is created when a Player posts to the Public Forum an
+      announcement of the contest, including the Name and Regulations.
+      Participants in the subgame are called Contestants of that
+      contest.  The player making the post becomes the Contestmaster.
+
+      The Contestmaster for a given Contest is a Player who has
+      responsibility for administering the subgame.  He reports all
+      currency transfers taking place under the Regulations, is the
+      Executor of the Contest Fund, and maintains the Regulations.
+
+      The Contest Fund is a Treasury, as provided for in other Rules.
+      The owner of this Treasury is the Contest, and the Executor of
+      this Treasury is, at all times, the Contestmaster of the
+      Contest.
+
+      The Regulations specify the operation of the Contest.  All
+      Contestants, and the Contestmaster, are bound by the Regulations
+      except where these conflict with the Rules.  They may also
+      specify:
+        1. how a Contestmaster is replaced. However, no person may
+           become Contestmaster without eir consent;
+        2. how the Currencies in the Contest Fund shall be spent, so
+           long as this does not conflict with the Rules;
+        3. the amount of the Entry Fee for the Contest, in the form of
+           units of one or more Currency;
+        4. additional restrictions on Players to become Contestants, 
+           and conditions under which Contestants cease to be
+           Contestants;
+        5. how the Regulations may be changed.  If they do not so 
+           specify, the Regulations may not be changed. Whenever the 
+           Regulations are changed, the Contestmaster must post the 
+           new Regulations to the Public Forum, and no such change is
+           effective until it is so posted;
+        and
+        6. how the Contest may be dissolved.
+
+      A Player becomes a Contestant by notifying the Contestmaster and
+      paying the prescribed Entry Fee to the Contest Fund.  A
+      Contestant may quit a Contest at any time by so notifying the
+      Contestmaster, or by so posting to the Public Forum.  A
+      Contestmaster may resign at any time by posting a message to
+      that effect to the Public Forum, at which time e ceases to be
+      Contestmaster.
+
+      A contest is dissolved when there is no Contestmaster and no
+      provision for replacing em, or upon unanimous agreement of the
+      Contestmaster and all Contestants, or as otherwise provided in
+      the rules, or in the Regulations.  When this happens the Contest
+      Fund is distributed as provided in the Regulations; if no
+      provision is made the Fund is divided equally between the
+      Contestants. 
+
+      If the Contest Regulations require a transfer to be made, but
+      the Contest Fund has insufficient currencies to permit that
+      transfer to be made, sufficient currencies to cover the transfer
+      shall be involuntarily transferred from the Contestmaster's
+      Treasury to the Contest Fund.  The Contestmaster shall report
+      this transfer to the appropriate Recordkeepors.
+
+      No Blots shall be assigned by this Rule.
+
+History:
+Created by Proposal 1509, Mar. 24 1995
+Amended(1) by Proposal 1574, Apr. 28 1995
+Amended(2) by Proposal 1601, Jun. 19 1995
+Amended(3) by Proposal 1644, Aug. 1 1995
+
+----------------------------------------
+
+Rule 1488/0 (Mutable, MI=1)
+The Nomic Potato
+
+      Let there be an Entity known as the Nomic Potato.  There is only one
+      Potato which cannot be destroyed.  The Potato can be possessed by
+      any Agora Player who owns Extra Votes (EVs).  A Player with no EVs
+      cannot possess the Potato, and if the Player possessing the Potato
+      ever ceases to own EVs, e also loses possession of the Potato.
+
+      If the Potato's possessor ceases to possess the Potato though
+      ceasing to own EVs, or ceasing to be a Player, or in any other way
+      not otherwise described by the Rules pertaining to the Nomic Potato,
+      the possession of the Potato immediately passes to the Player who
+      owns the greatest number of EVs.
+
+      If more than one Player is tied for the greatest number of EVs, the
+      Potato is transferred to the tied Player who:
+	
+	i) Has not previously possessed the Potato; providing all other
+	   tied Players have previously possessed the Potato.
+
+       ii) Has not possessed the Potato for the longest consecutive period
+	   of time immediately prior to the Potato's transfer; providing
+	   all other tied Players have previously possessed the Potato.
+
+      iii) The tied Player randomly determined by the Assessor, provided
+	   neither i) or ii) apply.
+
+      As long as at least one Player owns EVs, the Potato is always in
+      some Player's possession. The only time that the Potato is not
+      possessed by a Player is when no Player owns EVs.
+
+      The Assessor keeps track of who possesses the Potato.
+
+History:
+Created by Proposal 1647, Aug. 7 1995
+
+----------------------------------------
+
+>From: Zefram <A.Main@dcs.warwick.ac.uk>
+Message-Id: <27163.199508020122@stone.dcs.warwick.ac.uk>
+Subject: BUS: Announcing a new contest
+To: nomic-business@teleport.com (Agora Nomic business mailing list)
+Date: Wed, 2 Aug 1995 02:22:14 +0100 (BST)
+X-Loop: zefram@dcs.warwick.ac.uk
+X-Stardate: [-31]6070.28
+
+I hereby announce a Contest, entitled "The Nomic Potato".  The
+Regulations of The Nomic Potato are as follows:
+
+1. These Regulations may not be changed at any time in any way.
+
+2. The Contestmaster shall be Zefram, and may not be replaced.  The
+   Contestmaster may resign at any time by indicating eir intent to do
+   so to the Public Forum.
+
+3. Currencies in the Contest Fund may not be transferred.
+
+4. The entry fee is 100 Marks.
+
+5. No Player is permitted to become a Contestant.
+
+6. This Contest shall be dissolved when there is no Contestmaster, and
+   may not be dissolved for any other reason.
+
+----------------------------------------
+
+============================================================
+
+End of CFJ 803
+
+============================================================

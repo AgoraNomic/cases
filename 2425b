@@ -1,0 +1,201 @@
+============================  Appeal 2425b  ============================
+
+
+Panelist:                               Yally
+Decision:                               REMAND
+
+
+Panelist:                               root
+Decision:                               REASSIGN
+
+
+Panelist:                               scshunt
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Appeal initiated:                       07 Apr 2009 23:47:01 GMT
+Assigned to Yally (panelist):           08 Apr 2009 00:00:17 GMT
+Assigned to root (panelist):            08 Apr 2009 00:00:17 GMT
+Assigned to scshunt (panelist):         08 Apr 2009 00:00:17 GMT
+scshunt moves to AFFIRM:                08 Apr 2009 00:27:29 GMT
+root moves to REASSIGN:                 08 Apr 2009 00:52:01 GMT
+Yally moves to REMAND:                  12 Apr 2009 19:27:28 GMT
+Final decision (REMAND):                12 Apr 2009 19:27:28 GMT
+
+========================================================================
+
+Panelist scshunt's Arguments:
+
+CFJ 2423 and empirical evidence show that there is clearly an ambiguity
+in the specification of Murphy's rule change, as the method of the rule
+change was unclear. Rule 105 states that {Any ambiguity in the
+specification of a rule change causes that change to be void and without
+effect.} The text is clear enough - any ambiguity, no matter how small,
+is sufficient to nullify a rules change. This is supported by the next
+sentence, which states that only a variation in whitespace or
+capitalization is to be accepted - which strongly implies that even
+something as small as omitting a {u} from {honour} is sufficient to
+cause a rule change to fail. As such, there is no reason to accept an
+ambiguity in the method of a rule change - it is a far more major
+omission than a {u}.
+
+========================================================================
+
+Panelist root's Arguments:
+
+R105 defines "rule change" as a subclass of effects that instruments
+can have.  "The specification of a rule change", then, is the
+specification of (part of) the instrument's effect, i.e. detailing how
+the affected rule is to be changed.  It does not include per se the
+identity of the instrument performing the rule change, nor can I see
+that the rule provides any leeway for interpreting it otherwise.
+Thus, Murphy's action was not ambiguous with respect to the
+specification of the rule change it would perform.
+
+There may be cause for judging the attempt to have failed due to
+ambiguity, but R105 does not provide it.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+It occurs to me for the first time in this case that there's actually
+only *one* method, "by announcement", and that two different rules happen
+to agree on conditions where that mechanism can be used.  If the conditions
+in the two rules are substantially different, you just have the case of
+"by announcement CAN be used if (Rule A OR Rule B conditions) = TRUE",
+and (A OR B) is obviously true if (A AND B) is true, so it's meaningless or
+unnecessary to specify "which one of" (A OR B) are true when (A AND B) is
+true.
+
+Has anyone said that yet?
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+I agree with you, and disagree with everyone else regarding ambiguity.
+ If Rule A says:
+
+A person CAN deregister by announcement.
+
+and Rule B says:
+
+A person CAN deregister by announcement; e CANNOT register for thirty
+days thereafter.
+
+then, by Rule 478, a person takes the action of deregistering by
+announcing that e deregisters.  No rule says that e need mention "by
+what rule" e is deregistering, just that e is doing so, and no rule
+gives such a mention any legal weight or states that a person can
+choose "by what rule" e is taking an action.  Therefore, either
+deregistering *always* fails in this scenario due to ambiguity (the
+rules don't state which mechanism is to be used), or the mechanisms in
+both rules are satisfied at the same time.  I prefer the latter, and
+this applies to all such actions-- under the current contest rules, if
+a contestmaster of two contests awards points to a member of both
+contests, this counts against eir total for both contests (because
+both mechanisms are being used simultaneously).  Hence, I believe that
+the rule change was not ambiguous, but the contest rules are broken.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+That would imply that a player could remove all their Rests by spending
+just 2 Notes. After all, you CAN destroy a Rest by spending 2 Notes. So
+your Note spend destroys as many Rests as you want...
+
+In other words, I don't think this argument fits game custom at all.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+I don't see what your argument is there.  If we treat that in terms of
+the effect of announcements, I am announcing that I spend two notes to
+destroy a Rest.  The assets rule makes such an announcement effective,
+with or without the 'destroy a Rest' bit; the Rests rule says that
+when I announce that I am spending two notes 'to destroy a
+Rest'==>'for the purpose of destroying a Rest', the announcement does
+in fact destroy one of my Rests, but it's implied that an announcement
+can only have one such purpose.  So I can't destroy multiple rests, or
+spend C C to destroy a rest as well as giving ehird a C note, etc.
+because I have to have exactly one purpose for the destruction.  But
+the contests rule does not say I award points 'for a particular
+contest' or 'to be an award for a particular contest', only that I
+award points up to the total.  An announcement that I award points
+thus can satisfy that condition for multiple contests.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I thought about this after writing it.  This is how I resolved it.
+
+When the rules enable an otherwise restricted action, the "enabling"
+language has three parts:  Action, Method, Enabling Conditions.
+
+If there are two rules, that allow "approximately" the same thing:
+
+1.  If the actions differ, there is ambiguity.
+2.  If the methods differ, there may be ambiguity, but it may
+    be resolved because action is almost always in context (e.g.
+    "by announcement" is done with an announcement, "by submission
+    to a certain party" is done by said submission, etc.
+3.  Enabling conditions work as logical ORs, so not being clear
+    about which enabling conditions you satisfy does not create
+    ambiguity.  Furthermore, game tradition is not in favor of
+    specifying enabling conditions, you don't say "by the
+    authority of Rule X, I hereby vote...".
+
+In the current case, the action is unambiguously "amend the rule to
+read X" and method unambiguously "by announcement."  The only ambiguity
+is in "which" of the parts of the logical OR is used, but that is not
+relevant as I said before.
+
+For points awards, it's a bit different.  It's tempting to read that
+the action is "award X points" and the conditional is "because the
+player earned them through being a contestant" which would lead to the
+difficulties that ais523 describes, or the alternate interpretation of
+comex that one award attempt might satisfy multiple awards.
+
+However, if you look at the contest rules (R2233), the construct that
+the contest owns a certain number of points, so the action is actually
+"awarding a subset of these 5N points from this contest" while the
+Scorekeepor (R2234) "awards a subset of [a different] N points."
+So these actions are different, because the awards are drawn from
+different subsets of [potential] points.
+
+So, if a Scorekeepor is also a contestmaster, and they just say "I
+award X points to Y" then there is ambiguity in the action, not the
+conditional, so it doesn't work.  I think that's pretty much holding
+with game custom:  if you tell me you're awarding me points but there's
+multiple "potential points pools" they can be drawn from, you need
+to specify.
+
+For Rests, you spend to "destroy a Rest".  While rests are fungible,
+they can be ordered, so each spend is to "destroy the first...second...
+Nth rest" so again, different actions.  Since there's specific
+fungibility, you don't have to specify (any arbitrary ordering works).
+
+It is perfectly true that a rules amendment could *make* the actions
+for rule changes that Murphy attempted into different actions (for
+example with ais523's recent proposal attempt) but currently that is not
+so.
+
+[There's also a parallel question for SHALL... if the same action
+would independently satisfy two different SHALLs, does doing the
+action once satisfy both?]
+
+========================================================================
+
+Panelist Yally's Arguments:
+
+For CFJ 2425b I judge REMAND as, given the evolving nature of 2424b (in the
+form of my judging OVERRULE), 2425b should be looked at in a new light.
+
+========================================================================

@@ -1,0 +1,253 @@
+======================================================================
+                               CFJ 875
+
+"Rule 1006 should be interpreted to mean that if a Rule is enacted
+ which designates a position to be an Office, and no procedure exists
+ to determine which Player initially holds that Office, then such a 
+ position is not an Office, unless such a Rule takes precedence over 
+ Rule 1006."
+ 
+======================================================================
+
+Judge:       Zefram
+Justices:    Chuck, favor and Andre
+
+Judgement:   TRUE
+
+Eligible:    Andre, Chuck, elJefe, favor, Jtael, Kelly, Murphy, 
+             Oerjan, Steve, Swann, Vanyel, Zefram
+
+Not eligible: 
+Caller:      Morendil
+Barred:      
+On hold:     
+Defaulted:   KoJen, Michael
+
+======================================================================
+
+History:
+  Called by Morendil, Wed, 5 Jun 1996 00:47:09 +0100
+  Assigned to KoJen, Wed, 5 Jun 96 10:01:50 GMT
+  KoJen defaulted
+  Re-assigned to Michael, Thu, 13 Jun 1996 09:54:43 GMT
+  Michael defaulted
+  Re-assigned to Zefram, Fri, 21 Jun 1996 14:54:10 +0100
+  Judged FALSE by Zefram, Thu, 27 Jun 1996 06:32:30 +0100 (BST)
+  Judgement published, Fri, 28 Jun 1996 10:19:55 +0100
+  Appealed by Steve, Kelly and Morendil, 
+                                       Sat, 29 Jun 1996 20:41:29 +0100
+  Player elJefe disqualifies himself, Sun, 7 Jul 1996 12:19:01 -0700
+  Player Chuck appointed as Justice (Speaker elJefe is ineligible)
+  Player Kelly appointed as Justice (elJefe is acting Justiciar)
+  Player Andre appointed as Justice (CotC Michael is ineligible)
+  Appeal distributed, Mon, 8 Jul 1996 12:12:59 +0100
+  Kelly defaulted
+  Player Jtael appointed in Kelly's place, 
+                                       Wed, 24 Jul 1996 10:01:45 +0100
+  Player Jtael defaults by deregistering
+  Player favor appointed in Jtael's place, 
+                                       Tue, 30 Jul 1996 11:30:16 +0100
+  J. Chuck reverses decision, Sun, 14 Jul 1996 14:47:09 -0500 (CDT)
+  J. Andre calls for rejudgement, Mon, 15 Jul 96 12:46:13 METDST
+  J. favor reverses decision, Thu, 1 Aug 96 16:01:52 EDT
+
+  Majority of Justices agree that judgement was incorrect, and that
+  its decision is to be reversed.  There ends CFJ 875.
+
+======================================================================
+
+Justice Chuck's decision:
+
+In the matter of Judge Zefram's Judgement of FALSE on CFJ 875, I find
+that this Judgement is in error, and that the Judgement should be
+reversed to TRUE.
+
+I agree with the Judge that in such a case as described by the
+Statement, there are two possible resolutions: that an indeterminate
+Player holds the Office, or that the putative Office is not an Office
+after all.
+
+Zefram gives two reasons for selecting the first resolution.  He cites
+Game Custom, noting that we have had indeterminate game states before.
+However, I believe he is confusing two different types of
+indeterminacy.  We have often had instances where we have been unsure
+of the game state, but in all of these, it has been possible, at least
+in principle, to determine the actual game state.  To choose Zefram's
+solution would be to have a game state that is indeterminate even in
+theory; I know of no such cases where this has happened before, so
+this interpretation does not have the support of Game Custom.
+
+Judge Zefram also points out that the former interpretation satisfies
+both Rules in question, while the latter violates the Rule defining
+the Office.  At one time, I would have agreed with Zefram.  At one
+time, I *did* agree with Zefram.  As it was long ago, I cannot cite
+the CFJ, nor do I remember the particulars, but the status of a Group
+was in question.  As Judge, I ruled that the Group no longer existed
+on the same basis as Zefram ruled here, that the Group's ceasing to
+exist prevented a Rule conflict--despite the fact that no Rule
+explicitly mandated the dissolution of the Group.  However, my
+Judgement was found to be in error by the Appeals Court--the mere fact
+that the resolution satisfied all Rules in question did not justify
+creating that resolution out of thin air, with no other support from
+the Rules.  This is exactly what Zefram has done here.  In as much as
+past Judgements are to be considered in Judging CFJs, I find that the
+Appellate Judgement in that case clearly refutes the "indeterminate
+Player" interpretation here.  Thus, the only interpretation supported
+is that the putative Office is not actually an Office, and the
+Statement is TRUE.
+
+======================================================================
+
+Justice Andre's decision:
+
+Judgement: REJUDGE
+
+The Appelants have a good case in claiming Rule 1011 might disallow
+the change of holding of an Office to an unknown Player. Because this
+could be seen as bringing new evidence into the case, which might
+indeed be a case for overturning, I think the correct thing for me to
+do is setting the Judgement aside and selecting a new Judge.
+
+======================================================================
+
+Justice favor's decision:
+
+Judgement on Appeal of CFJ 875: I overturn the matter which is being
+considered.  (Rule 1447/4's worded a little funny, ain't it?)  That
+is, I find that the statement is TRUE (or, more to the point and as
+required by 451/1, *was* TRUE at the time it was issued).  The
+argument per se is relatively simple: Rule 1006/5 includes being held
+by a Player as part of the definition of an Office, and Rule 1011
+forbids us from changing a Nomic property without a procedure
+specified by the Rules.  A Rule which specified an Office, but did not
+give us a procedure for someone coming to hold it, would require us to
+violate either 1011 or 1006, and therefore unless it took precedence
+over both of them (and in particular over 1006), it would fail to have
+effect.  So the Statement is TRUE.  I feel, though, that I should deal
+with some of the side-arguments that have occurred on this topic:
+
+  - Judge Zefram did not err in suggesting that the state of the Game
+    might be indeterminate; this Judgement is silent on whether or not
+    that is possible.  But even an indeterminate Game state in which
+    someone (someone we know not whom) held an Office, but came to
+    hold it without benefit of a procedure blessed by the Rules, would
+    violate 1011.
+
+  - There are questions of just how much of a "procedure" Rule 1011
+    really demands.  Prior Judgements teach us that the null
+    procedure, a simple ad hoc adjustment of the Gamestate to bring it
+    into line with conflicting Rules, is *not* permitted.  That is,
+    nowhere do the Rules grant us license to fiddle with the Gamestate
+    as we wish in order to cure conflicts between Rules.  (Of course,
+    we may sometimes have no other choice, but this is not one of
+    those times.)
+
+  - If Rule 1006/5 had not mentioned in its very first, definitive,
+    sentence that an Office is a thing that is held by a Player, it
+    would have been correct to see 1011 as merely overriding the
+    second sentence of 1006/5 in this case, resulting in an Office
+    that was held by no one.  But given that being held is an
+    essential property of an Office, we cannot use 1011 to reach that
+    deeply into the guts of 1006/5 and make adjustments to the essense
+    of its function (again, we cannot just fiddle with things to try
+    to get them to work).
+
+  - Given what is apparently a threefold conflict between 1006/5,
+    1011, and a hypothetical procedureless Rule defining an Office,
+    where the latter does not win a precedence battle with 1006/5, it
+    seems comfortable to allow the latter to be the loser, resulting
+    in the entity in question not being an Office.  I will not ask
+    what it might be instead, and I will avoid the issue of whether
+    the Entity in question exists at all!
+
+Note, of course, that 1006/6 fixes this problem, and there is now
+always a procedure for determining who holds an Office...
+
+
+======================================================================
+(Original) Judgment: FALSE
+
+Reasoning:
+
+The first paragraph of Rule 1006/5 defines the term "Office".  It
+states "An Office is a position ... established by the Rules and held
+by a Player".  The second sentence, "At any time, for each Office there
+shall be exactly one Officer who holds it", merely clarifies the latter
+clause of the definition.
+
+In the circumstances described in the Statement, another Rule (which
+defers to Rule 1006) designates some position as an Office, but there
+is no way to determine who holds that Office.  There are two ways to
+interpret this situation.  Firstly, the position may be an Office, held
+by some Player whose identity cannot be determined.  Secondly, the
+position may not be an Office, because no Player holds it.
+
+The first interpretation allows for both Rules to be correct, without
+conflict.  The lesser Rule establishes an Office, and 1006/5 states
+that it is held by exactly one Player.  However, the identity of that
+Officer is indeterminate.  Note that there is precedent for the game
+state to be actually indeterminate.
+
+The second interpretation requires the reasoning that, because the
+identity of the Officer is indeterminate, there is no such Officer.
+This is logic of extremely dubious value.  From this interpretation of
+the situation comes a conflict between the two Rules -- the lesser Rule
+stating that the position in question is an Office, and Rule 1006/5
+implying by definition that it is not.
+
+I believe that the first interpretation is to be preferred, for two
+reasons.  First, it avoids a conflict between Rules.  Second, it is
+consistent with game custom, which holds that the actual game state is
+independent of our perceptions of it.  I therefore Judge this CFJ
+FALSE.
+
+======================================================================
+
+Evidence:
+
+Rule 1006/5 (Mutable, MI=1)
+Defaults for Officers
+
+      An Office is a position of authority or responsibility
+      established by the Rules and held by a Player, who is called an
+      Officer.  At any time, for each Office there shall be exactly
+      one Officer who holds it.
+
+      A position of responsibility or authority is only an Office if
+      the Rules specifically designate it as such.  An Office only
+      exists as long as there is a Rule in force which specifies that
+      it exists.  If the Rule or Rules which mandated the existence of
+      an Office are changed such that they no longer do so, that
+      Office ceases to exist.
+
+      A given Office has whatever duties, responsibilities, and
+      privileges that the Rules assign to it.
+
+History:
+Created by Proposal 386, Aug. 16 1993
+Amended by Proposal 733, Nov. 24 1993
+Amended by Proposal 881, date unknown
+Amended by Rule 750, date unknown
+Amended by Proposal 1006, ca. Aug. 25 1994
+Amended by Rule 750, ca. Aug. 25 1994
+Amended(1) by Proposal 1336, Nov. 22 1994
+Amended(2) by Proposal 1582, May 15 1995
+Amended(3) by Proposal 1699, Sep. 1 1995
+Amended(4) by Proposal 1763, Oct. 31 1995
+Amended(5) by Proposal 2442, Feb. 6 1996
+
+======================================================================
+
+(Caller's) Arguments:
+
+Relevant Rules : 1006, 1631
+
+Basically, I agree with Steve that Rule 1006 defines an Office as a
+position designated by such by the Rules and which is held by exactly
+one Player.
+
+Consequently, if another Rule states that a position which is held by
+no Player is an Office, that Rule is in conflict with 1006 and such a
+provision cannot apply unless such a Rule wins that conflict.
+
+======================================================================

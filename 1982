@@ -1,0 +1,107 @@
+==============================  CFJ 1982  ==============================
+
+    comex CAN initiate an equity case concerning the Gnarlier Contract
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Wooble
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by ehird:                        30 May 2008 21:32:39 GMT
+Assigned to Wooble:                     31 May 2008 01:03:04 GMT
+Judged UNDECIDABLE by Wooble:           05 Jun 2008 13:06:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See ais523's arguments on CFJ 1975. That particular CFJ was
+judged FALSE due to rule 2197. However, whether a non-party can
+initiate an equity case depends on whether the contract is a pledge,
+and this depends on ais523's gnarlierness, which I don't know; initiating
+an equity case is also not affected by rule 2197, as it is not a
+Contract Change. To repeat my arguments: TRUE and FALSE are both
+inappropriate, because ais523's gnarlierness is unknown (and mine, being
+slippier, is definitely not mixier, so my gnarlierness is the only
+one that matters here), IRRELEVANT is inappropriate because for all I
+know, comex might want to initiate an equity case, and anyway whether
+e does or not the knowledge of whether e can is relevant to the game,
+and so only UNDETERMINED or UNDECIDABLE can be appropriate. I feel
+that UNDETERMINED is inappropriate because the lack of knowledge of
+ais523's gnarlierness depends on the interpretation of the rules (for
+instance, if there were a rule "Whenever an exiled entity is ever
+not a player, e is registered", it would cause the same sort of
+trigger loop as this one, and interpretation of those rules would
+determine whether the entity in question were a party. UNDECIDABLE is
+appropriate, however; the statement is not capable of being accurately
+described as either true or false because it depends on unknown and
+unknowable information.
+
+========================================================================
+
+Caller's Evidence:
+
+the following message (heh, a legitimate reason to top-
+post):
+-----Original Message-----
+From: agora-business-admin@agoranomic.org on behalf of Alexander Smith
+Sent: Thu 29/05/2008 18:00
+To: agora-business@agoranomic.org
+Subject: BUS: RE: Salvaging the Gnarly Contract
+
+I hereby publish the text and membership of the Gnarlier Contract,
+a public contract:
+
+Text:
+{{{
+1. This is a public contract.
+
+2. This is a pledge if and only if the gnarlierness of any of its
+parties is mixier.
+
+3. Any player CAN join this contract by announcement.
+
+4. There is a property associated with each party to this contract,
+known as eir gnarlierness; it acts much like a switch possessed by
+parties to this contract with values in the set {slippier, spikier,
+twistier, mixier}, with slippier being the default. (It is not a
+switch because it is not defined by the rules, and it is not tracked
+by an officer.) A party's gnarlierness CAN be flipped as described
+in this contract, and by this contract, and CANNOT be flipped except
+as allowed by this contract.
+
+5. Any party to this contract may flip eir gnarlierness to either
+slippier or twistier by announcement.
+
+6. Whenever a party's gnarlierness becomes twistier (including, but
+not limited to, being flipped to twistier), it is flipped to mixier.
+
+7. Whenever a party's gnarlierness becomes mixier (including, but
+not limited to, being flipped to mixier), it is flipped to spikier.
+
+8. Whenever a party's gnarliness becomes spikier (including, but
+not limited to, being flipped to spikier), it is flipped to twistier.
+
+9. A party CAN leave this contract by announcement.
+}}}
+Membership: ais523, ehird.
+
+I flip my gnarlierness to twistier.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I defer to the precedent in CFJ 1980 on the exact same question, and
+judge CFJ 1982 UNDECIDABLE.
+
+I look forward to the effort by the callers to resolve the paradox.
+
+
+========================================================================

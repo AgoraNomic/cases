@@ -1,0 +1,209 @@
+==============================  CFJ 3505  ==============================
+
+      Can this statement have a Judge?
+
+========================================================================
+
+Caller:                      CuddleBeam
+
+Judge:                       Quazie
+Judgement:                   TRUE
+
+========================================================================
+
+History:
+
+Called by CuddleBeam:         21 May 2017
+Assiged to Quazie:            21 May 2017
+Judged TRUE by Quazie:        24 May 2017
+
+========================================================================
+
+Caller's Evidence:
+(message included with CFJ call)
+
+> I also opt to bar one person from such procedure. That person is the
+> person who would successfully become the first Judge of the Call for
+> Judgement submitted by this message.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+My own current understanding is that the attempt to bar the judge
+fails because it's a conditional action based on information that will
+only be available in the future; presumably, the CFJ verdict might end
+up confirming or denying this understanding.
+
+========================================================================
+
+Gratuitous Arguments by G.
+
+We used to explicitly say in the Rules that True/False judgements were 
+equivalent to Yes/No if the statement was phrased as a yes/no question.
+We repealed that explicit text, but there's some ounce of possibility
+that precedent would allow it.
+
+The most recent CFJ phrased that way is CFJ 3374, but that was when
+the yes/no text was in the rule.
+
+========================================================================
+
+Judge's Arguments:
+
+First: Past rules allow for YES/NO questions to be judged TRUE/FALSE
+with TRUE meaning YES and FALSE meaning NO, and I will re-establish that
+tradition as a new judicial precedent within this judgment.  If there is
+issue with this interpretation, I will be happy to reconsider as
+DISMISS, but I will follow with the rest of my judgment.
+
+Next: The CFJ in question asks "Can this statement have a Judge?".  I
+find this CFJ to be trivially TRUE and judge it as such.  Even giving
+the interesting barring attempt (Which I'll discuss shortly) only two
+realities exist:
+Reality One: I am the judge of this CFJ, and if this is true then the
+barring attempt failed.
+Reality Two: I am not the judge of this CFJ, but once thats established
+ais523 will simply assign a new judge, and E will likely agree with my
+statement that e is the judge of the CFJ.
+
+In either reality there eventually is a judge for this CFJ, and thus the
+CFJ is TRUE (Meaning YES to the yes/no question presented).
+
+To be honest, I could end the judgment here.  CuddleBeam should've CFJed
+on "A player, other than CuddleBeam, is barred on this CFJ".  That
+would've required someone to judge if the barring worked.  I note to
+CuddleBeam: Be more careful of your wording next time. I'm unsure if
+your $2.99 Super CFJs are all their cracked up to be if I feel
+comfortable not judging the question you seemed to intend to raise. But,
+I've got an opinion on the matter, and I believe it's controversial, and
+I've got some words to say.
+
+So... let's get into the question at hand:
+
+Was anyone barred from judging this CFJ?
+
+It seems like ais523 didn't attempt to assign anyone else first (E gave
+no indication that E did so, and in fact noted that e didn't believe e
+had to).
+{{{
+  (My own current understanding
+  is that the attempt to bar the judge fails because it's a conditional
+  action based on information that will only be available in the future;
+  presumably, the CFJ verdict might end up confirming or denying this
+  understanding.)
+}}}
+
+The thing is, I don't see it that way.
+
+Conditional activities are defined, in a general way, by R1023
+{{{
+  (c) If a regulated value, or the value of a conditional, or a
+    value otherwise required to determine the outcome of a
+    regulated action, CANNOT be reasonably determined (without
+    circularity or paradox) from information reasonably
+    available, or if it alternates instantaneously and
+    indefinitely between values, then the value is considered to
+    be Indeterminate, otherwise it is Determinate.
+}}}
+
+The burden here is reasonability - is it reasonable to allow an
+conditional activity to happen?
+
+I agree, there's a long standing tradition (Potentially established/
+enforced through CFJ 3381 or CFJ 2926, this information gathering is
+left up to the reader) that future conditional actions aren't valid, and
+I will uphold that logic for most cases.
+
+I agree that it's wrong for the game to allow an action to resolve at an
+arbitrary date in the future. (e.g. "I give <PLAYER> 1 shiny if they
+send a photo of a sloth via a public forum." should not actually send
+the Sloth-Sender a shiny.  That requires an officer (or in simpler cases
+just the playerbase) to keep track of an action for an indeterminate
+amount of time which is unreasonable.)
+
+I agree that it's wrong and bad for the game to make future conditional
+action's be allowable with a pre-set arbitrary resolution event and
+time. (e.g. "I give <PLAYER> 1 shiny if, within the next week, they send
+out a message with unicode characters in it".  Non-rule defined
+deadlines are similarly unreasonable, as they non-consensually place an
+obligation on someone else to track the conditional to ensure success of
+a future activity.) (e.g. "When the promotor distributes proposal titled 
+'Beef, it's what's for dinner!' I vote FOR" is invalid for similar
+reasons.  It isn't reasonable for the Assesor to start tracking votes
+until the voting period begins.  Once again, a non-rule obligation.)
+
+But in this case, the barring in question, I just don't see any of that
+unreasonableness.
+
+Let's look at the rule shall we?
+
+{{{
+  Rule 991/17 (Power=2)
+  Calls for Judgement
+
+        Any person (the initiator) can initiate a Call for Judgement
+        (CFJ, syn. Judicial Case) by announcement, specifying a
+        statement to be inquired into.  E may optionally bar one person
+        from the case.
+
+        At any time, each CFJ is either open (default), suspended, or
+        assigned exactly one judgement.
+
+        The Arbitor is an office, responsible for the administration of
+        justice in a manner that is fair for emself, if not for the rest
+        of Agora.
+
+        When a CFJ has no judge assigned, the Arbitor CAN assign any
+        player to be its judge by announcement, and SHALL do so within a
+        week.  The players eligible to be assigned as judge are all
+        players except the initiator and the person barred (if any).
+        The Arbitor SHALL assign judges over time such that all
+        interested players have reasonably equal opportunities to judge.
+        If a CFJ has no judge assigned, then any player eligible to
+        judge that CFJ CAN assign it to emself Without 3 Objections.
+}}}
+
+In my reading of the rule, the barring isn't resolved until a judge is
+assigned, thus it's not unreasonable to ask the Arbitor to resolve a
+conditional at that time.
+
+The conditional itself must be reasonable though.  Is it reasonable to
+ask the Arbitor to know who e will assign to a case?  Yes, that sounds
+reasonable to me, as it's eir job to assign judges to cases.
+
+Additionally my interpretation of the barring is 'I bar the first
+eligible Player that is attempted to be assigned to this case', as any
+eligible judge would be successfully assigned. It seems reasonable to
+take this reasonable interpretation of the barring.
+
+The Arbitor isn't prescribed an exact method to eir madness, they can
+assign judges however they like, BUT it does state:
+{{{
+  The Arbitor SHALL assign judges over time such that all
+  interested players have reasonably equal opportunities to judge.
+}}}
+and thus there must be some amount of method to the madness, and thus it
+seems even more reasonable to have the Arbitor bar the first judge e was
+intending to assign to the case.
+
+I am uncertain what would've happened if the CFJ had remained unassigned
+and someone had tried to assign Without 3 Objections - but thankfully I
+don't have to have an opinion on that.  As a result I wont go deeply
+into it, but perhaps the first attempt at that would fail - and so it
+would take two attempts to assign a judge?  I'm unsure, and wont discuss
+the matter further.
+
+To Summarize: Though I have judged this CFJ, I believe that I was
+ineligible to be assigned to the CFJ by the reasonableness of the
+barring attempt.  A reasonableness that comes from the fact that the
+barring itself isn't resolved until judge assignment, and all the
+information was at hand at that time, and thus no unreasonable
+obligations were placed on the Arbitor.
+
+If the barring attempt was sufficiently unreasonable ("I bar whoever
+walked the most steps on the day this CFJ is assigned a judge") then I
+would also state it couldn't be a proper barring attempt, but
+CuddleBeams barring seems reasonable enough to me.
+
+========================================================================

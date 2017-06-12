@@ -1,0 +1,44 @@
+==============================  CFJ 2391  ==============================
+
+    If a Power=1 rule was created with text "Upon the creation of this
+    rule, the text of Proposal 6116 is changed to read 'CREAMPUFF'.",
+    then it would succeed in changing the text of Proposal 6116.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       24 Feb 2009 19:55:58 GMT
+Assigned to woggle:                     24 Feb 2009 20:24:32 GMT
+Judged FALSE by woggle:                 03 Mar 2009 21:13:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See CFJ 2376, which is probably trivially TRUE because a sufficiently
+high-Power rule could unambiguously override past practice.  Proposal
+6116 is currently being voted on, and has AI = 2.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+went ahead and tried to set a precedent for this one in the
+previous case; didn't see that you'd called the second one.  -G.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+FALSE, P6090's amendment to R106 prevents this and occured before this
+CFJ was called.
+
+========================================================================

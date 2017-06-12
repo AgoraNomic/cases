@@ -1,0 +1,69 @@
+==============================  CFJ 1876  ==============================
+
+    It is possible to cease to be a party to a pledge which has exactly
+    1 party by announcement when the text of pledge explicitly permits
+    this.
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by woggle:                       18 Jan 2008 02:14:40 GMT
+Assigned to root:                       18 Jan 2008 10:26:20 GMT
+Judged FALSE by root:                   23 Jan 2008 02:33:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Modifying the set of parties can be done, according to R1742, "by agreement
+between all parties". CFJ 1770 says that the text of a contract can be used
+to manifest the  agreement between its parties for the purposes of modifying
+or terminating a contract. R2191's mechanism for modifying a contract without
+objection  supplements but does not override this. (It does not explicitly
+take precedence over R1742 and has the same power and a higher rule number.)
+
+Arguments against:
+Obtaining agreement requires that two people be involved, but "all parties"
+is just one person in such a case.
+
+Clearly, it would against the intention of the Pledges rule (which allows
+the pledge to be changed without Objection) if a single party to a pledge
+could cease to be a party to it by agreeing with themselves.
+
+========================================================================
+
+Judge root's Arguments:
+
+The initiator argues that obtaining "agreement between all parties" to
+terminate or modify a contract requires at least two parties.  Rule
+1742 describes how certain agreements may be formed but does not
+define the term, so I turn to dictionary.com.  Agreement is "the act
+of agreeing or of coming to a mutual arrangement" or "the mutual
+assent of contracting parties to the same terms".  The legal definiton
+"an expression of assent by two or more parties to the same object" is
+also provided.  "Agree" is defined as "to come to one opinion or mind;
+come to an arrangement or understanding; arrive at a settlement",
+which does not imply a minimum number of parties.  However, "mutual"
+is defined as "of or pertaining to each of two or more; held in
+common; shared".  Finally, Human Point Two found in CFJs 1682-1683
+that an R1742 binding agreement required at least two persons (prior
+to the rule's subsequent amendment to match), based upon that rule's
+consistent use of the plural.  That precedent applies in this case as
+well.  Thus, I find that the majority of the evidence points to the
+phrase "agreement between all parties" requiring at least two parties
+to be satisfied.
+
+In the case of pledges, Rule 2191 provides an alternative means for
+leaving or terminating the pledge without objection; but an action
+without objection is not an action by announcement, so this does not
+meet the criteria of the statement.  I find CFJ 1876 to be FALSE.
+
+========================================================================

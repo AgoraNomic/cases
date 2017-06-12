@@ -1,0 +1,111 @@
+==============================  CFJ 1437  ==============================
+
+    Where the Bank has been properly ordered to forgive a debt
+    denominated in a Bank Currency, only the Treasuror is both permitted
+    and required to act on the Bank's behalf to forgive the debt.
+
+========================================================================
+
+Caller:                                 Steve
+Barred:                                 G.
+
+Judge:                                  Sherlock
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Steve:                        17 Feb 2003 03:03:00 GMT
+Assigned to Sherlock:                   18 Feb 2003 23:25:46 GMT
+Judged TRUE by Sherlock:                20 Feb 2003 18:56:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I'll begin by showing that Bank Currency Recordkeepors are neither
+permitted nor required to forgive the Bank's debts, and then show that
+the Treasuror is both permittec and required to do so.
+
+In general, Limited Executors are permitted to do only those things that
+the Rules explicitly permit them to do on behalf of their Executees
+(R1478(b)).
+
+Each Bank Currency Recordkeepor is a Limited Executor of the Bank with
+respect to that Currency, but is empowered only to make transfers of
+that Currency from the Bank (R1470(b)), not to forgive debts. Hence Bank
+Currency Recordkeepors are not permitted to forgive the Bank's debts.
+
+In general, the Prime Executor of an entity with respect to a certain
+action is the player who is responsible for performing that action
+(R1989(a)).
+
+Each Bank Currency Recordkeepor is the Prime Executor of the Bank with
+respect to debts denominated in that Currency (R1470(c)). But a debt is
+defined as an obligation to pay (R1596(a)). Hence Bank Currency
+Recordkeepors are responsible only for satisfying the Bank's obligations
+to pay, not its obligations to forgive.
+
+Finally, the Treasuror is the Executor of the Bank, and is therefore
+empowered to perform all actions that the Bank is permitted to perform
+(R1478(a)), which includes forgiving debts pursuant to a properly issued
+Order (R1470(e)). The Treasuror is also the Prime Executor of the Bank
+with respect to all "other" actions -- ie all actions other than
+satisfying the bank's debts -- that the Bank is required to perform
+(R1470(c)).
+
+========================================================================
+
+Judge Sherlock's Arguments:
+
+As noted above, R1478 states:
+
+      (b) A Limited Executor of an entity is a Player who is empowered
+          by the Rules to perform on behalf of that entity a subset of
+          the actions which the Rules permit the entity to perform. A
+          Limited Executor is permitted to perform on behalf of an
+          Executee only such actions as are explicitly permitted by
+          the Rules.
+
+and R1470 states:
+
+      (b) The Treasuror is the Executor of the Bank.  Each
+          Recordkeepor of each Bank Currency is a Limited Executor of
+          the Bank, and is empowered to make transfers of that
+          Currency from the Bank.
+
+      (c) Each Recordkeepor of each Bank Currency is the Prime
+          Executor of the Bank with respect to debts denominated in
+          that Currency. The Treasuror is the Prime Executor of the
+          Bank with respect to all other actions that the Bank is
+          required to perform.
+
+R1470 says that a Recordkeepor is "empowered to make transfers of that
+currency from the Bank."  No other rights or duties are "explictly
+permitted by the Rules" per R1478.  While a Recordkeepor "is the Prime
+Executor of the Bank with respect to debts," if there is an understanding
+that that would include forgiving as well as making transfers, that
+understanding would have to be considered implicit, not explicit.
+Therefore it seems reasonable that Recordkeepors are not allowed to
+forgive debts.
+
+So, is the Treasuror "permitted" and "required" to forgive debts?  Well,
+the Treasuror is clearly permitted to forgive the debt, since that would
+have to fall under the category of "other actions" than transference of
+currency.  As for the requirement of forgiving debts, see R1989:
+
+      (a) The Prime Executor of an entity with respect to a certain
+          action is the Player who is responsible for performing that
+          action. For each action that an entity is required to
+          perform, there shall be at most one Prime Executor of that
+          entity with respect to that action. Any penalty incurred due
+          to an entity's failure to perform as required by the Rules
+          is incurred by the Prime Executor of that entity.
+
+It seems that if the Bank is properly ordered to do something, it can be
+reasonably surmised that it is "required" to do so.  Therefore, the Prime
+Executor (in this case, the Treasuror) is, as a result, "required" to do
+it as well.
+
+========================================================================

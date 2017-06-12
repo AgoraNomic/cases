@@ -1,0 +1,116 @@
+==============================  CFJ 1994  ==============================
+
+    The PerlNomic Partnership has voted FOR on the Agoran decision on
+    whether to adopt proposal 5545.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Pavitra
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       09 Jun 2008 14:34:01 GMT
+Assigned to Pavitra:                    13 Jun 2008 05:19:37 GMT
+Pavitra recused:                        13 Jun 2008 20:31:41 GMT
+Assigned to root:                       14 Jun 2008 13:50:42 GMT
+Judged TRUE by root:                    21 Jun 2008 01:18:37 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+CFJ 1695 has established that it is possible for partnerships to take game
+actions like voting; custom is that the contracts defining partnerships have
+been free to define the method with which the partnership acts (e.g. compare
+the AFO, which acts when its basis requests it to, with the PNP, which acts
+according to Perl scripts whose content and input is determined by its basis).
+The PNP sent the required vote to agora-business@agoranomic.org which is a
+public forum; this is an appropriate forum for voting, so it acted under
+paragraph 4 of its own contract. However, agora-business@agoranomic.org is not
+currently working, so the resulting vote was never received by the other Agora
+players.
+
+Rule 683 states, in part:
+{{{
+      An eligible voter on a particular Agoran decision submits a
+      ballot to the vote collector by publishing a valid notice
+      indicating which one of the available options e selects.
+}}}
+
+Whether the PNP's vote exists depends, therefore, on whether the vote was
+published. First note that the PNP cannot, with its current code, send emails
+to any forum other than agora-business unless a proposal (with the PerlNomic
+meaning) is passed to either send a one-off message to a different forum, or
+to permanently change the forum used for messages to Agora. PerlNomic
+proposals generally take a while to pass (using PerlNomic rather than Agoran
+definitions in this sentence, they require support from more than half of the
+active PerlNomic players to pass, and players can be active despite visiting
+PerlNomic no more often than once a week), and so it would likely be
+impractical for the PerlNomic partnership to use any forum other than
+agora-business to cast eir vote. Does this mean that it can publish messages
+in agora-business under its rule 101(vi) right, even when agora-business is
+not currently working? What about the fact that the method by which
+partnerships act is generally specified by the partnership itself.
+
+As another point to consider, imagine a hypothetical partnership whose backing
+document stated that it could be caused to act by the members of its basis
+posting to agora-discussion@agoranomic.org (which is a discussion forum).
+Would it be able to vote despite not publishing anything in a public forum?
+What if the hypothetical partnership posted the action {{I send the message "I
+vote FOR proposal 5545" to a public forum}} in a discussion forum, when its
+backing document specifically stated that it could take game actions and/or
+publish messages via this method?
+
+Also, does it make a difference that it can be proved to all players that the
+message was sent? (Compare CFJ 1905, and CFJ 1314.) Even more interestingly,
+is it the case that the PNP did not vote before this CFJ, but /now/ has done,
+because me filing this CFJ has brought the fact that the PNP voted to the
+attention of all players? What if there is at least one player who isn't
+subscribed to the backup public fora (this is only a "should" requirement
+after all, and it's possible that there's at least one player who doesn't
+follow it)?
+
+========================================================================
+
+Caller's Evidence:
+
+The fact that the PNP sent a message to agora-business@agoranomic.org (a
+public forum), due to the members of its basis acting using the mechanisms of
+the PerlNomic game; this can be determined by any player who can read Perl by
+visiting the PerlNomic log at http://nomic.info/perlnomic/log.txt (sending
+that message is the only thing, short of a hidden scam that breaks the
+PerlNomic metarules, that could cause the relevant log entry to be entered,
+short of a proposal (with the PerlNomic meaning of proposal, which is similar
+to the Agoran meaning but applies to a different nomic), and there were no
+such proposals as can be seen from the proposals logs; the ability to read
+Perl is needed to verify this, as it is the language in which the PerlNomic
+ruleset is written).
+
+This extract from the PNP's backing document:
+{{{
+4. The PerlNomic Partnership shall act by using the mechanisms of the
+   PerlNomic game to send messages to the appropriate Agoran fora.  This
+   is the only mechanism by which the PerlNomic Partnership may act.
+}}}
+
+========================================================================
+
+Judge root's Arguments:
+
+By the precedent in CFJ 1646, a public announcement is effective when
+the message leaves the sender's technical domain of control, as
+established by the "Received" headers.  Since the message has arrived
+subsequent to the initiation of this CFJ, it can be inspected to
+verify that this had indeed happened at the time the case was
+initiated.  Accordingly, I judge TRUE.
+
+========================================================================

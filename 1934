@@ -1,0 +1,81 @@
+==============================  CFJ 1934  ==============================
+
+    Hello!
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Iammars
+Judgement:                              
+
+
+Judge:                                  pikhq
+Judgement:                              
+
+
+Judge:                                  Pavitra
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by ais523:                       04 May 2008 17:50:28 GMT
+Assigned to Iammars:                    04 May 2008 21:28:10 GMT
+Iammars recused:                        16 May 2008 05:18:57 GMT
+Assigned to pikhq:                      16 May 2008 05:34:54 GMT
+pikhq recused:                          30 May 2008 07:28:00 GMT
+Assigned to Pavitra:                    30 May 2008 07:32:05 GMT
+Judged IRRELEVANT by Pavitra:           31 May 2008 16:50:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The precedent of CFJs 1883 and 1884 is that when a statement cannot have a
+truth-value assigned to it (in the case of those CFJs, it was because the
+statement was a question), it must be judged as UNDECIDABLE, and Rule 591/26
+backs this up. Since the time of those CFJs, that rule has been amended only
+by proposals 5476, 5470 and 5425; 5476 merely fixed a typo in the word
+"Rulekeepor" and therefore has no material affect on the outcome of those
+CFJs; and proposals 5425 and 5470 only have an effect in the case where the
+statement that the inquiry CFJ is called on is actually a question, and the
+statement that this CFJ is filed on is not a question. The statement on which
+the CFJ is filed is in fact an interjection, and therefore "not capable of
+being accurately described as either false or true" (quote from rule 591/26)
+and "cannot be accurately described as either false or true" (in the wording
+of CFJ 1883's verdict). This precedent shows that the UNDECIDABLE verdict is
+correct; also, none of the other possible verdicts are appropriate: TRUE and
+FALSE are not appropriate because those verdicts make no logical sense when
+describing an interjection, IRRELEVANT is inappropriate, because the outcome
+of this CFJ determines whether the CFJ I am currently filing has a chance of
+becoming a tortoise (and thus is relevant to the game), and UNDETERMINED is
+inappropriate; the statement is not at all nonsensical, and is not too vague,
+as "Hello!" has a clear, established meaning (it is certainly less vague than
+nkeplwgplxgioyzjvtxjnncsqscvntlbdqromyeyvlhkjgteaqnneqgujjpwcbyfrpueoydjjk
+which is, according to CFJ 1846a, 'an established word
+with an established definition'), and it is not the case that "the information
+available to the judge is insufficient to determine which of the FALSE, TRUE,
+and UNDECIDABLE judgements is appropriate" because FALSE and TRUE are both
+clearly inappropriate as judgements, whereas precedent shows that UNDECIDABLE
+is appropriate as a judgement, and the information in this evidence section is
+available to the Judge, who therefore has sufficient information to be able to
+decide which of those three statements is inappropriate.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+As this "statement" is not regarding the possibility or legality of a
+rule-defined action, it could not become a tortoise even if I were to
+enter a judgement of UNDECIDABLE. Therefore a judgement of IRRELEVANT
+is appropriate.
+
+The caller cites the precedent of CFJs 1883-4, which implies that
+UNDECIDABLE would also be appropriate. However, those cases' statements
+could at least arguably be read as inquiring on possibility (though I
+am not sure I am able actually to parse them), whereas "Hello!" cannot,
+by any stretch of the imagination.
+
+========================================================================

@@ -1,0 +1,51 @@
+==============================  CFJ 2640  ==============================
+
+    BobTHJ CAN cast more than 2 valid votes on Proposal 6413.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       24 Jul 2009 04:34:21 GMT
+Assigned to Quazie:                     24 Jul 2009 21:44:23 GMT
+Quazie recused:                         02 Aug 2009 16:17:27 GMT
+Assigned to omd:                        02 Aug 2009 16:23:17 GMT
+Judged FALSE by omd:                    03 Aug 2009 01:28:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See caller's arguments for CFJ 2638.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Rule 2156 (Voting on Ordinary Decisions, Power-2) reads:
+
+      The voting limit of an eligible voter on an ordinary decision is
+      eir caste at the start of its voting period[...].
+
+There was some controversy related to a previous scam over an attempt
+to increase voting limit despite this clause, and it was ruled that
+the increase succeeded, but in that case the Rule attempting to
+increase it had Power 2 and a lower ID number than Rule 2156, and so
+took precedence.  In this case, Rule 2156 takes precedence over Rule
+2260 (The Deck of Government, Power-1), and defines the voting limit
+as eir caste at the start of the voting period, etc.  This is an
+immutable quantity, so the voting limit cannot be changed by a
+lower-Power rule.  FALSE.
+
+========================================================================

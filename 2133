@@ -1,0 +1,70 @@
+==============================  CFJ 2133  ==============================
+
+    "<Speech act>. The previous sentence is false." results in <speech
+    act> being performed.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        09 Aug 2008 23:03:34 GMT
+Assigned to Wooble:                     15 Aug 2008 07:02:44 GMT
+Judged FALSE by Wooble:                 15 Aug 2008 12:59:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+you can't change earlier things in a message later on
+right? Something like that I believe is precedent.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE.  CFJ 1971 establishes that a disclaimer posted at the
+end of the message CAN, in general, affect whether actions are taken
+in the message in question.  In this decision, it was opined that if
+the performance of the action in question was not dependent on the
+truth of the statement initiating the action, then the action could
+occur despite the disclaimer.
+
+However, the goes back to the issue of whether performative utterances
+in general are truth-evaluable. If they're not, then a mere claim that
+"<Speech act>" is a false statement would be a lie, but not sufficient
+to cause <Speech act> to not occur.  If they are truth-evaluable, then
+the claim that they're false constitutes a disclaimer that causes
+<Speech act> to fail.
+
+It's my intuition (and the belief of John Searle) that speech acts
+are, in fact, truth-evaluable.  However, it's not necessary to base my
+ruling on this belief; at a minimum there is strong disagreement on
+the truth-evaluability of speech acts, both in the philosophy
+community and in the current group of players of Agora, and I hold
+that this disagreement is sufficient to at least create ambiguity in
+whether a person publishing the statement in question intends to cause
+<Speech act> to occur.  By Rule 478, a person publishing such a
+statement does not perform such an action; to do so e must
+unambiguously announce that e does so.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Zefram's assertion that a speech act is only true the instant it is
+performed means that "Speech act" followed by "The previous statement
+is false" is not any kind of contradiction, as the speech act is
+false at the instant the second sentence is made.
+
+However, if the above CFJ is judged at the time when 2149 was in
+place, Zefram's assertion is contradicted by the idea that "the
+truth or falsity of the whole is what is significant."
+
+========================================================================

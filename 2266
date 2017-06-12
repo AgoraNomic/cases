@@ -1,0 +1,96 @@
+==============================  CFJ 2266  ==============================
+
+    The Burgundy Contract is a partnership.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         14 Nov 2008 17:31:26 GMT
+Assigned to BobTHJ:                     15 Nov 2008 16:48:59 GMT
+BobTHJ recused:                         20 Nov 2008 23:45:04 GMT
+Assigned to omd:                        25 Nov 2008 19:55:22 GMT
+Judged TRUE by omd:                     26 Nov 2008 15:35:26 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Fri, Nov 14, 2008 at 10:24 AM, Geoffrey Spear <geoffspear@gmail.com> wrote:
+> 2. A Voting Sockholder is a member of this contract who holds at least
+> one Burgundy sock. Any member of this contract which does not hold at
+> least one Burgundy sock ceases to be a member of this contract. A
+> Potential Sockholder that holds at least one Burgundy sock may become
+> a member of this contract by announcement.
+
+> 5. The sole Officer of this Corporation is the CEO. The Voting
+> Sockholders are responsible for ensuring this corporation fulfills
+> it's obligations by enabling its CEO to act on behalf of the
+> corporation. The CEO may resign their Office by announcement.
+> Initially the Office of CEO is vacant.  The CEO CANNOT act on behalf
+> of the Corporation without Authorization.
+
+========================================================================
+
+Caller's Arguments:
+
+Paragraph 2 of the Burgundy Contract defines the Voting
+Sockholders as a subset of the contract's members.  By paragraph 5 of
+the contract, the contract's members are the Voting Sockholders.  This
+is circular, and I argue that the contract therefore devolves its
+obligations onto nobody and has no Voting Sockholders.
+
+It seems likely that paragraph 2 was intended to define Voting
+Sockholders as a subset of the contract's parties, rather than its
+members, but this is not what it actually says.
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+these are R754 equivalent, and paragraph 2 makes
+all members Voting Sockholders since if they have no socks they
+platonically cease to be parties.  On the other hand, this change
+doesn't become effective in Agora until the change is published, which
+means there could be people who are not parties to the contract in B
+while being parties in Agora. This sort of platonic in B/pragmatic in
+Agora thing may make the Werewolves contract problematic too.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+No, R2145 explicitly defines members as a subset of parties.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Contracts are not regulated by Rule 754 (2), and even if they were,
+the clause only legislates the default meaning of terms.  Given the
+history of the Burgundy Corporation, and the member/party ambiguity
+that until yesterday existed in the Rules themselves, it is reasonable
+to interpret "member" as meaning "party" in the context of the
+Burgundy Corporation contract, although of course the wording is poor
+form on Burgundy's part.  I judge TRUE.
+
+(Alternate interpretation: clause 2 allows a party to become a member
+[and thus a Voting Sockholder] by announcement.  The circular clauses
+are not really inconsistent as clause 2 effectively defines a Voting
+Sockholder as any member [since a V.S. who ceases to hold a sock loses
+membership immediately anyway].  This would also lead to a judgement
+of TRUE, although it's not really important since Burgundy is now no
+longer a contract.)
+
+========================================================================

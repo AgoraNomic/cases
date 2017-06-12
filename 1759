@@ -1,0 +1,100 @@
+==============================  CFJ 1759  ==============================
+
+    The AFO was the vote collector for the Agoran decision on whether to
+    adopt Proposal 5222 as of the publication of Message-id:
+    <46FFFFB9.4070306@socal.rr.com>
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Zefram
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       30 Sep 2007 23:09:08 GMT
+Assigned to Zefram:                     01 Oct 2007 09:29:05 GMT
+Judged TRUE by Zefram:                  03 Oct 2007 11:25:34 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+At the start of Proposal 5222's voting period, then-Assessor Murphy
+was the vote collector (Rule 2137).  Rule 208 specifies that the
+decision always has exactly one vote collector.  No rule explicitly
+removed em from this role; in particular, neither Rule 2137 nor any
+other rule specifies that the position of vote collector moves with
+the Assessorship, and no rule specifies that the vote collector must
+be a player.
+
+root points out that this violates the spirit of Rule 101 (viii), but
+I believe it fails to violate the letter.  I suggest amending Rules
+101 and 1504 to clarify that the rules cannot directly impose
+obligations on non-players, but can generally define the gamestate
+with respect to their existence, actions and inactions.  (In
+particular, the rules cannot make it ILLEGAL for an exiled or
+recently deregistered person to register, but can and do make it
+IMPOSSIBLE.)
+
+Indirect obligations arising from contracts are a debatable point.  As
+Zefram points out, these have been decoupled from playerhood, at least
+in principle.  Agora can be, and at times has been, considered as a
+contract (between all players to obey the rules) that one can leave at
+will, but must this ability extend to all other contracts recognized
+and judged by Agora?
+
+I also suggest legislation clarifying what happens to positions with
+obligations, such as vote collector, when its holder deregisters.  (In
+the specific case of an office, Rule 1006 specifies that it is either
+vacant or held by a player, so the natural interpretation is that it
+becomes vacant.  However, as previously noted, the position of vote
+collector does not necessarily move with the office from which it
+originated.)
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+The vote collector for the Agoran decision on whether to adopt a proposal
+is determined by rule 2137/1:
+
+#      The Assessor is the default vote collector for all Agoran
+#      decisions that do not specify a different vote collector.
+
+On the face of it, therefore, the vote collector at the time in question
+was the assessor, namely the AFO.  Initiator notes that no rule explicitly
+specifies that the position of vote collector moves when the assessorship
+does, but practice has always been that official duties do move with
+the office.  The concept of office wouldn't be worth much if they didn't.
+
+Furthermore, per CFJ 1702 the office has some existence independent
+of its holder, so it could perhaps be said that the vote collector is
+always the office of assessor, and a change of officeholder doesn't imply
+a change of vote collector.  I do not rely on that argument, however.
+I will now examine the issues involved in a change of vote collector.
+To prevent rule 2137 making assessor AFO the vote collector, there
+would have to be some conflicting provision taking precedence over it.
+The initiator points to rule 208/4, which certainly takes precedence:
+
+#      Each Agoran decision has exactly one vote collector.
+
+Initiator argues that this ties the position of vote collector to
+an individual person, specifically (for proposals) the person who
+was assessor when the Agoran decision was initiated.  It seems to
+me that that's not what the rules say.  Rule 208 doesn't say that
+the vote collector can only be one person across all time.  The usual
+interpretation of such rule provisions is as an instantaneous constraint.
+That is, each Agoran decision has exactly one vote collector *at any
+particular time*.  Having vote collection duties move from one person
+to another does not violate this constraint.
+
+When the Agoran decision on proposal 5222 was initiated, its vote
+collector was assessor Murphy.  At the time in question in this CFJ,
+its vote collector was assessor AFO.  Rule 208 has been continuously
+satisfied.
+
+========================================================================

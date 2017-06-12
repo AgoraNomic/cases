@@ -1,0 +1,80 @@
+==============================  CFJ 2300  ==============================
+
+    The Executor of the public message that purported to initiate the
+    Agoran Decisions on whether to adopt proposals 5686-5687 cannot be
+    determined with reasonable effort, other than via a judicial
+    declaration.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       05 Dec 2008 14:38:50 GMT
+Assigned to Murphy:                     07 Dec 2008 05:16:03 GMT
+Judged FALSE by Murphy:                 11 Dec 2008 00:11:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Normally the Executor would be considered to be the person who sent the
+message, not the person who composed it. (Googlebot is, I suspect, not a
+person, even though the PNP provides a mechanism for it to send messages
+in English via email; even if it is, it isn't first-class.) I argue that
+it is unreasonable to determine exactly who the Executor was in this
+case, and thus a judicial declaration is needed to sort out who the
+Executor was; I also suggest that I am a plausible Executor in this
+case, due to having input the proposals in question. (I'd also like the
+judge to consider the case of the proposals having been input by
+different people.) I argue for TRUE in this case, by the way; note that
+the case is relevant because the statement of the CFJ is exactly the
+condition for triggering the last paragraph of rule 2170.
+
+========================================================================
+
+Caller's Evidence:
+
+The message in question was sent by the PNP, but it is not first class.
+More specifically, the message was sent by PerlNomic in response to a
+request from Googlebot. (As of now, do a Google search for
+{{site:nomic.info "distribution of proposals"}}, and the first result
+shows that the message somehow entered Google's index (although
+unfortunately not its cache); as PerlNomic only shows the message to the
+client who actually causes it to be sent, the only conclusion is that
+Googlebot was the trigger. I have a screenshot of the relevant Google
+result, in case it's vanished by the time the CFJ's judge comes to
+review the evidence.) It seems that both the proposals in question were
+entered into PerlNomic by me; but nothing in the way PerlNomic was set
+up forces all the proposals to be entered by the same person. The script
+that sends the message was written jointly by me and Wooble.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Since the PNP is not first-class, R2170's "the first-class person
+who ... most directly and immediately causes it to be sent" standard
+applies.  The candidates are:
+
+  1) ais523 (entered both proposals into PerlNomic and co-authored
+     the message-sending script)
+
+  2) Wooble (co-authored the message-sending script)
+
+  3) All other first-class players of PerlNomic (approved the
+     legislation approving the above)
+
+  4) All first-class persons involved in implementing and operating
+     GoogleBot
+
+and R2170 ranks them strictly in this order, so ais523 is the Executor
+of the message in question.
+
+========================================================================

@@ -1,0 +1,209 @@
+==============================  CFJ 2424  ==============================
+
+    Murphy's recent attempt to cause Rule 2223 to amend itself to read
+    'This rule intentionally left blank' failed because it was ambiguous
+    which of two mechanisms were used to do the amendment.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 Murphy
+
+Judge:                                  ehird
+Judgement:                              TRUE
+
+Appeal:                                 2424a
+Decision:                               REMAND
+
+
+Judge:                                  ehird
+Judgement:                              TRUE
+
+Appeal:                                 2424b
+Decision:                               REMAND
+
+
+Judge:                                  ehird
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       16 Mar 2009 16:39:09 GMT
+Assigned to ehird:                      23 Mar 2009 16:02:28 GMT
+Judged TRUE by ehird:                   23 Mar 2009 16:23:10 GMT
+Appealed by G.:                         24 Mar 2009 21:54:18 GMT
+Appealed by Murphy:                     24 Mar 2009 23:24:20 GMT
+Appealed by Taral:                      24 Mar 2009 23:59:46 GMT
+Appeal 2424a:                           24 Mar 2009 23:59:46 GMT
+REMANDED on Appeal:                     04 Apr 2009 16:16:22 GMT
+Assigned to ehird:                      04 Apr 2009 16:16:22 GMT
+Judged TRUE by ehird:                   07 Apr 2009 22:57:23 GMT
+Appealed by root:                       07 Apr 2009 23:16:07 GMT
+Appealed by woggle:                     07 Apr 2009 23:36:51 GMT
+Appealed by Murphy:                     07 Apr 2009 23:44:41 GMT
+Appealed by Machiavelli:                07 Apr 2009 23:47:01 GMT
+Appeal 2424b:                           07 Apr 2009 23:47:01 GMT
+REMANDED on Appeal:                     15 Apr 2009 00:00:17 GMT
+Assigned to ehird:                      15 Apr 2009 00:00:17 GMT
+Judged FALSE by ehird:                  15 Apr 2009 14:34:29 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Ambiguous actions are normally taken to fail. I'm not sure whether the
+action Murphy tried was ambiguous enough to cause it to fail, but it
+certainly isn't completely clear-cut. Rule changes are held to a higher
+standard, as is shown by this quote from rule 105:
+{{{
+      Any ambiguity in the specification of a rule change causes
+      that change to be void and without effect.
+}}}
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+The problem here is that the source of the mechanism really can matter.
+For instance, Murphy was recently simultaneously contestmaster of two
+contests (The Werewolves of Nomic Crossing, and the Fantasy Rules
+Contest). During this period, e attempted to award points. Rule 2233
+says:
+{{{
+           Its contestmaster CAN award points (up to this total) to
+           its other parties by announcement, and SHALL do so as
+           explicitly described in its contract.
+}}}
+Ignore the SHALL part of this for the moment; I'm interested in the CAN.
+There are two sources of the ability to award points by announcement
+(two contests), but which is used certainly matters; it alters the
+remaining point allotal of the contest that is used. Murphy announced in
+the message
+http://www.mail-archive.com/agora-business@agoranomic.org/msg11471.html
+"I award 8 points to Wooble and 12 points to ais523.", without
+specifying the mechanism (obviously by announcement, that was an
+announcement) or the source of the mechanism. I'm not entirely convinced
+that that worked (although IIRC points are self-ratifying, so this
+doesn't affect anything); certainly, only context made it obvious which
+contest was granting the point-awardal power. In the case of Murphy's
+recent attempt to effectively blank rule 2223, the mechanism (or its
+source) does not make a ridiculous amount of difference, although it
+does affect the result of the first of the CFJs I called.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+As in this specific instance, there may be many rules where two rules
+independently permit (through "CAN by announcement") the exact same
+action with the exact same consequences, and no difference in follow-on
+effects.  In such instances, it is not for the good of the game (nor
+following custom) to add extra-legal requirements to the announcement
+of specifying which rule did the enabling, if "the rules" as a whole
+empower an action, it is the same action whether or not it is empowered
+twice.
+
+In a recent example, I announced by intent to deputize for an IADoP
+action.  Then I became the IADoP.  However, I could still (having
+announced my intent) "deputize" to perform the action (The deputization
+rule doesn't prevent me from deputizing for myself).  Therefore two
+independent rules say that I CAN do the same thing by announcement.
+It is not for the good of the game to require me to specify which rule
+I use when I perform the action, as that would require us to constantly
+hunt for every possible permissions route every time.
+
+In the example ais523 gives for points, the difference matters for
+it depletes a reserve of points awardable for a particular contest.
+However, that means the consequences differ.  In the current situation,
+the consequences do not.
+
+========================================================================
+
+Judge ehird's Arguments:
+
+TRUE; requiring preciseness in matters of ambiguity is of course very
+important, and even moreso in the case of important things like rule
+changes.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+The judge's
+cursory claim that "all ambiguity matters" is just that, cursory.  R105
+talks about ambiguity in specifying rule changes, and says nothing about
+cases where there's multiple possible mechanisms that all work on their
+own, and there's no ambiguity on whether they work independently.  In
+particular, there are several non-rule change mechanisms that this would
+break; I gave examples in my gratuitous arguments and the judge ignored
+these.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+As I said yesterday in my own intent, there are no
+substantive differences between the two methods (e.g. one awarding
+points for using it).
+
+========================================================================
+
+Judge ehird's Arguments:
+
+I accept ais523's and my previous arguments; claiming my claim is
+cursory is cursory in itself: I have given reasonable arguments and so
+have others. I see no reason why my arguments are less reasonable than
+others's.
+
+========================================================================
+
+Appellant root's Arguments:
+
+I intend to appeal these with 2 support; I recommend REASSIGN since
+ehird seems intent on ignoring the appeal panel's instructions.
+
+========================================================================
+
+Appellant woggle's Arguments:
+
+For the record, I note (as a member of the appeals panel who recommended
+REMAND) that I do not mind ehird judging to the same outcome; however, I
+would've appreciated eir amending eir arguments to, for example,
+reference rules or explain what the R105 "specification of a rule
+change" is.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I support both of these.  The arguments so far can be summarized thusly:
+
+  ais523> In the situation "I award <points> to <player>", the method
+          matters because different limits are used up.
+
+  others> That only covers situations that have substantively different
+          side effects based on the method.  The situation actually at
+          hand does not.  Things break badly if one interprets such
+          situations as requiring specification anyway.
+
+   ehird> Preciseness is important.
+
+ehird's arguments do not address the specific claims made and rebutted
+by anyone else.  That is why they are less reasonable.
+
+========================================================================
+
+Appellant Machiavelli's Arguments:
+
+I support both of these, as ehird did not make a better judgement or
+submit new arguments.
+
+========================================================================
+
+Judge ehird's Arguments:
+
+FALSE, Goethe and comex have convinced me.
+
+========================================================================

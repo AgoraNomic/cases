@@ -1,0 +1,121 @@
+=========================  Criminal Case 2214  =========================
+
+    Wooble violated 2170 for claiming to be tusho (an old name of mine).
+
+========================================================================
+
+Caller:                                 ehird
+Barred:                                 Wooble
+Barred:                                 ais523
+
+Judge:                                  Taral
+Judgement:                              INNOCENT
+
+========================================================================
+
+History:
+
+Called by ehird:                        07 Oct 2008 16:09:25 GMT
+Defendant Wooble informed:              08 Oct 2008 11:45:15 GMT
+Pre-trial phase ended:                  08 Oct 2008 13:02:54 GMT
+Assigned to Taral:                      09 Oct 2008 03:00:14 GMT
+Judged INNOCENT by Taral:               13 Oct 2008 22:07:23 GMT
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+[intent to initiate]
+
+Nick changes are arguably messages, as they are sent to everyone in the
+channel.
+
+========================================================================
+
+Gratuitous Evidence by ehird:
+
+> gspear is now known as tusho.
+> [16:52] ehird: Oh dear.
+> [16:53] You kicked tusho from the chat room. (ehird)
+> [16:53] ehird: I don't know what he was going to do but I can
+> probably guess.
+
+========================================================================
+
+Gratuitous Arguments by Zefram:
+
+[support to initiate]
+
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+[support to initiate]
+
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+The relevant portion of Rule 2170 which I'm alleged to have violated states:
+      A person SHALL NOT make a public statement intended to mislead
+      others as to the identity of its publisher.
+
+I'm completely INNOCENT.  Even if the IRC channel in which the act was
+alleged to have occurred was a Public Forum at the time it allegedly
+occurred (which is itself the subject of a CFJ), I made no statements
+in that Forum while my nickname was set to anything other than
+"gspear", my first initial followed by my last name, or "Wooble"
+followed by 0 or more characters.  I did, very briefly, have my
+nickname set to "tusho", but made no Public Statements while that
+nickname was set.  The idea that the act of changing my nickname was
+itself a public statement doesn't hold water; the setting of an IRC
+nickname is a mere change in metadata; the fact that the change is
+reported as text to the users of most IRC clients is irrelevant; this
+metadata is analogous to email headers, which precedent holds are not
+capable of holding public statements or causing game actions.
+
+Even had I made such public statements there was no probability
+whatsoever that anyone would have been misled as to my identity; my
+previous nickname was displayed on the screen, ehird was in the
+channel (as an admin, no less), and everyone else in the channel was
+clearly aware of the identities of both ehird and myself.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+:ehird!n=ehird@eso-std.org PRIVMSG #really-a-cow :This is a test.
+:ehird!n=ehird@eso-std.org NICK :foobarbazquux
+:foobarbazquux!n=ehird@eso-std.org PRIVMSG #really-a-cow :It is
+certainly a message, and that is how it is specified in the IRC
+protocol - just not of the PRIVMSG kind. It's explicitly sent as a
+message. That is not metadata.
+:foobarbazquux!n=ehird@eso-std.org PRIVMSG #really-a-cow :It just so
+happens that IRC has different types of messages.
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+The Public Forum in question is the channel #really-a-cow.  According
+to RFC 1459, NICK messages are not sent to the channel but to the
+server; the fact that the server relays them to the clients of the
+users who happen to be in the channel, and that those clients often
+choose to display them as if they're messages in the channel itself
+does not mean that the message is sent via the channel and thus via
+the Public Forum.  If you send me an email message with the subject
+"BUS: whatever" and other appropriate headers, my email client may
+display it in a thread with public messages; this doesn't mean that
+the message was sent via the public forum.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+I find Woobel INNOCENT. The "NICK" "message", as pointed out, was not
+directed to the (alleged) Public Forum and thus was not a public
+statement. (Note the lack of #really-a-cow in the IRC log entry.)
+
+========================================================================

@@ -1,0 +1,116 @@
+==============================  CFJ 2412  ==============================
+
+    If Rule A says that a person SHALL perform an action by a specific
+    mechanism, but Rule B says a person SHALL NOT perform an action by
+    the mechanism, and no other mechanism for performing the action is
+    specified, then the person CAN perform the action via the mechanism
+    (though perhaps breaking Rule B).
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  ehird
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           13 Mar 2009 17:31:06 GMT
+Assigned to ehird:                      13 Mar 2009 17:36:20 GMT
+Judged TRUE by ehird:                   14 Mar 2009 16:34:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+We've accepted that SHALL implies CAN (e.g. CFJ 2120) when no other
+CAN mechanism is specified.  But if one rule contains a SHALL, does
+that enable the CAN to work even if another rule says SHALL NOT?
+
+Or is the net effect of the rules that matters (e.g. SHALL -> CAN
+only if the net effect of the rules says SHALL, so the relative
+precedence of the SHALL versus the SHALL NOT matters)?
+
+The issue here is that CAN and SHALL work differently when conflicts
+arise:
+
+1.  A conflicting CAN and CANNOT results in a net single "Rules say
+    CAN or CANNOT" based on precedence;
+2.  A conflicting SHALL and SHALL NOT does not create a conflict
+    based on impossibility, so both exist in the rules, merely
+    creating a difficulty in obeying both.
+
+So how does that translate for SHALL->CAN?
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+While we've found that SHALL -> CAN, we haven't found that SHALL NOT ->
+CANNOT.  In fact, accepting that SHALL NOT -> CANNOT would probably
+break a lot of things.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+SHALL and CAN are supposed to be orthogonal, and it's
+perfectly reasonable to require someone to perform an action by a
+certain mechanism without actually allowing them to (e.g., you SHALL
+deregister by submitting a Cantus Cygneus rather than by
+announcement).  The special case of a simple 'X SHALL do Y by
+<mechanism> was established in CFJs 1765 and 1890 to imply the
+mechanism, but I'd argue that's just an archaic linguistic shortcut,
+not a necessary side-effect of the SHALL.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Sorry, you're right; but the CFJ statement is indeed for cases where
+it's "X SHALL do Y by mechanism Z"; so as long as we're assuming that the
+archaic shortcut is functional, it's relevant.  -G.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+But I argue it's _just_ a linguistic shortcut: not some odd attribute
+of 'CAN-ness' attached to the obligation, but an expansion to apply
+within the rule's text before anything else is considered.
+
+'SHALL by announcement' --> 'CAN by announcement, and SHALL'
+
+'SHALL NOT by announcement' --> well, I guess this has never been
+tested.  Is it 'CAN by announcement, but SHALL NOT' or just 'SHALL NOT
+use the announcement mechanism to ...'?
+
+Either way the answer is TRUE because one or both rules say CAN and
+neither say CANNOT.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+That's reasonable.
+
+But you do leave out the third possibility for 'SHALL NOT by announcement',
+which is 'CANNOT by announcement and SHALL NOT'.  Not that it's a
+particularly likely construction, I agree, but its unlikeliness is as much
+a historical accident as the original shortcut.
+
+========================================================================
+
+Judge ehird's Arguments:
+
+"X SHALL Y by Z" is fairly obvious shorthand for "X CAN Y by Z and X
+SHALL Y using the mechanism Z". The two things are separate.
+
+And "SHALL NOT" does not in any way imply CANNOT. There are actions we
+CAN perform, but SHALL NOT. The SHALL NOT only cancels the SHALL; not
+the CAN. (In fact, the SHALL might take precedence of it; I'm assuming
+SHALL NOT power > SHALL).
+
+========================================================================

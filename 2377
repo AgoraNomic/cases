@@ -1,0 +1,45 @@
+==============================  CFJ 2377  ==============================
+
+    Rule 2211 is a proposal.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       11 Feb 2009 21:33:14 GMT
+Assigned to Wooble:                     14 Feb 2009 17:51:39 GMT
+Judged TRUE by Wooble:                  15 Feb 2009 20:26:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+the precedent of the famous CFJ 1656 implies that rule 2211
+is a proposal (it states that anything matching the definition of the
+first paragraph of rule 106 is a proposal, and rule 2211 is "making
+other explicit changes to the gamestate" by platonically flipping castes
+to Alpha every month). I'm wondering if that precedent ought to be
+overturned; for one thing, it implies that proposals are trivially
+capable of being amended, otherwise rule 2211 couldn't be amended, and
+yet it has been in the past.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+R2211 meets the definition of "proposal" found in R106.
+
+I believe this does imply that proposals in general can be mutable,
+although whether proposals that are not rules are mutable is beyond
+the scope of this case. The proposition that there exist mutable
+proposals does not imply that all proposals are mutable, this is the
+converse fallacy of accident.
+
+========================================================================

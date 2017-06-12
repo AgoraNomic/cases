@@ -1,0 +1,332 @@
+From owner-nomic-official@teleport.com  Wed Feb 28 21:31:36 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id VAA09068 for <blahedo@quincy.edu>; Wed, 28 Feb 1996 21:31:31 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id TAA06834; Wed, 28 Feb 1996 19:09:01 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Wed, 28 Feb 1996 19:08:59 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id TAA06756 for nomic-official-outgoing; Wed, 28 Feb 1996 19:08:57 -0800
+Received: from torii.triple-i.com (torii.triple-i.com [192.94.150.1]) by desiree.teleport.com (8.6.12/8.6.9) with ESMTP id TAA06601 for <nomic-official@teleport.com>; Wed, 28 Feb 1996 19:08:42 -0800
+Received: from siesta (siesta+.triple-i.com [192.94.150.7]) by torii.triple-i.com (8.6.9/8.6.9) with SMTP id TAA08392 for <nomic-official@teleport.com>; Wed, 28 Feb 1996 19:07:59 -0800
+Received: from pak by siesta (4.1/SMI-4.1)
+	id AA11196; Wed, 28 Feb 96 19:07:57 PST
+Date: Wed, 28 Feb 96 19:07:57 PST
+From: jlc@triple-i.com (Jeff Caruso)
+Message-Id: <9602290307.AA11196@siesta>
+Received: by pak (4.1/SMI-4.1)
+	id AA04240; Wed, 28 Feb 96 19:07:57 PST
+To: nomic-official@teleport.com
+Subject: OFF: Final Judgement of CFJ 851: FALSE
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+
+                FINAL JUDGEMENT OF APPEAL CFJ 851
+
+"A transfer for which no Rules specify a time limit for its being 
+ reported, and which is reported later than seven days after it 
+ supposedly occurs, is illegal and thus does not occur."
+
+======================================================================
+
+Board of Appeals:       Decision:
+   favor                FALSE
+   Andre                FALSE
+   Chuck (defaulted)    
+   Murphy               FALSE
+
+Final Judgement:        FALSE
+
+Eligible:		Coren, dcuman, Doug, elJefe, Ghost, Jtael, 
+			Michael, Murphy, Swann, Wes, Zefram
+
+Original Judge:		Blob (declined)
+			KoJen
+Original Judgement:	TRUE
+
+Caller:		Morendil
+Barred:		Kelly, Steve
+On Hold:	Blob, Dave Bowen
+1005:		Pascal, Vanyel, Vlad
+Declined:	Blob
+Judged already:	Andre, KoJen, favor
+
+Judicial salaries were earned by favor, Andre, and Murphy,
+and will be reported after the end of the Nomic Week.
+  
+======================================================================
+
+History:
+  Called by Morendil, 24 January 1996, 14:03 +0100
+  Assigned to Blob, 24 January 1996, 14:35 MET
+  Blob defaults by going On Hold, 27 January 1996, 14:02 +1100
+  Assigned to KoJen, 2 February 1996, 15:00 MET
+  Judged TRUE by KoJen, 7 February 1996, 13:56 -0500
+  Appealed by favor, 8 February 1996, 15:16 EST
+  Appealed by Chuck, 8 February 1996, 09:28 -0600 (CST)
+  Appealed by Swann, 8 February 1996, 13:33 -0500
+  Assigned to Kelly as Speaker, 9 February 1996, 10:44 MET
+  Assigned to Andre as CotC, 9 February 1996, 10:44 MET
+  Assigned to Steve as Justiciar, 9 February 1996, 10:44 MET
+  Delegated by Kelly to favor, 9 February 1996, 11:44 EST5
+  Judged FALSE by Andre, 13 February 1996, 17:10 MET
+  Judged FALSE by favor, 14 February 1996, 13:57 EST
+  Delegated by Steve to Chuck, date unknown (but before 16 Feb 1996, 0944 UTC)
+  Defaulted by Chuck (before 23 Feb 1996, 09:44 UTC)
+  Assigned to Murphy as Justice, Wed, 28 Feb 96 06:05:26 PST
+  Judged FALSE by Murphy, Wed, 28 Feb 1996 20:55:56 -0600
+
+======================================================================
+
+Arguments :
+
+This one is simple. Rule 1472 :
+
+Rule 1472/2 (Mutable, MI=1)
+Transfer of Currencies
+
+      It shall be legal to transfer Currencies between Treasuries,
+      provided this is done in accordance with the Rules.
+      (...)
+      The Recordkeepor of a Currency must be notified of a transfer
+      involving that Currency within seven days, unless another Rule
+      specifies a different time limit for reporting a certain type of
+      transfer.  For a Class I or Class II transfer, the notification
+      shall be made by the Player required to detect and report it.
+      For a Class III transfer, the notification shall be made by the
+      Player who initiated it.
+
+If the Player who must d/r a transfer (in the case of a Class I 
+transfer) or the Player who initiates it (in the case of a Class III 
+transfer) violates 1472 in not reporting a transfer within seven 
+days, then that transfer obviously was not "done in accordance with 
+the Rules". Unless a higher-MI Rule requires this transfer, or a 
+lower-numbered Rule explicitly claims precedence, Rule 1472 makes 
+such a transfer illegal.
+
+-----------------------------------------------------------------------
+
+---*-*-*---
+ Morendil
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+My decision on CFJ 851 is TRUE.
+
+Reasons: Morendil's assertion is essentially a paraphrasing of Rule 1472, and I
+see no reason why 1472 should not apply in the general case being asserted by
+this CFJ.
+
+-- KoJen
+
+======================================================================
+
+Decision & Reasoning CotC:
+
+This case is not as simple as the Caller thinks it is. The problem that needs
+to be addressed is this: Is the notification of the transfer of Currencies
+between Treasuries part of the transfer, or is it a separate obligation which
+only is CAUSED by the transfer? If it is indeed part of the transfer, then
+indeed such is necessary to make the transfer legal, and 1472's timing issues
+apply. If however the notification is not part of the transfer per se, but
+only an obligation caused by it, a transfer will happen, even if its
+notification to the Recordkeepor of the Currency is done wrongly or not at
+all, so any breaking of 1472's timing requirements does not make the transfer
+illegal or ineffective.
+
+Although no Rule explicitly gives an answer to this question, it still isn't
+very hard to extract one from Rule 1472:
+
+If we take the second Paragraph given by the Caller in eir Arguments, such
+a report can take place AFTER the transfer has taken place. So it can never
+be a part of it. Therefore I judge this CFJ FALSE.
+
+By the way, if one still maintains the reporting is part of the transfer,
+then the statement is trivially TRUE, as the 'if'-part is necessarily false.
+
+Andre
+
+======================================================================
+
+Judgement, Pro-Speaker: FALSE
+
+Reasons and Arguments, Pro-Speaker:
+
+This Statement seems unlikely on the face of it, because it
+would give the Player responsible for reporting a transfer
+the ability to prevent it, by simply not reporting it (it
+would not be a violation of any duty, since if the transfer
+did not occur, there is no responsibility to report it!).
+Of course, we've had strange and non-working Rules before,
+so it is necessary to examine the caller's arguments for
+the statement.
+
+In the sentence cited by the caller:
+
+>     It shall be legal to transfer Currencies between Treasuries,
+>     provided this is done in accordance with the Rules.
+
+the latter clause ("provided... Rules") is of coure a tautology.
+Everything is legal provided it is done in accordance with the
+Rules, by the commonsense definition of "legal".  (The Rules
+themselves do not define "legal" anywhere that I can find, so
+we must use the usual English meaning.)  So the presense of
+this clause seems to add nothing in particular to the Rule it
+occurs in, except to make the sentence sound less vacuous than
+it would without it (it's a pretty vacuous sentence even with it).
+
+Having observed that, we look at the next bit of evidence: another
+paragraph from Rule 1472/2.  Nowhere in the paragraph is there
+any mention of transfers being illegal, or not occurring.  This
+paragraph merely specifies default requirements on the player who
+is required to detect and report the transfer.  If these requirements
+are not carried out, some player has violated some rule, but
+there is no hint that the transfer that caused it is therefore
+cancelled.  Because the Rule is unfortunately worded in the
+normative ("must") rather than the Platonic ("is") mode, it
+is possible for Players to act other than the way the Rule
+specifies, but there is nothing in the Rule to lead to the
+conclusion that transfers which are not correctly reported
+are therefore retroactively cancelled.  There is nothing in
+the Rules, in Game Custom, or even in common sense to
+suggest that if someone fails to react to an event in the
+required manner, the event retroactively fails to occur.
+
+So the Statement is FALSE.
+
+
+Respectfully submitted,
+
+Pro-Speaker and Justice Favor
+
+======================================================================
+
+Evidence (added by CotC):
+
+1. Rule 1472/2
+
+----------------------------------------
+
+Rule 1472/2 (Mutable, MI=1)
+Transfer of Currencies
+
+      It shall be legal to transfer Currencies between Treasuries,
+      provided this is done in accordance with the Rules.  Every
+      transfer shall involve a positive amount of exactly one
+      Currency, which shall be transferred from exactly one Treasury
+      into exactly one other Treasury.  Every transfer has an
+      initiator, which is the Entity which causes the transfer to take
+      place.
+
+      A transfer which is explicitly and directly required to take
+      place by a Rule is initiated by that Rule, and is called a Class
+      I Transfer.
+
+      A transfer which is required to take place by an Entity (other
+      than the Rules) to which the Rules have granted the power to
+      require Currency Transfers to take place is initiated by that
+      Entity (_not_ the Rule which grants that power to that Entity),
+      and is called a Class II Transfer.
+
+      A transfer which is not required to take place, and which is
+      instead the consequence of a Player's action, is initiated by
+      that Player, and is a called a Class III Transfer.
+
+      For the purpose of this Rule, a Rule, or an Entity other than
+      the Rules to which the Rules have granted the power to require
+      Players to perform actions, which requires a Player to initiate
+      a transfer is _not_ requiring the transfer.  Such a transfer is
+      a Class III transfer initiated by that Player.  This Rule takes
+      precedence over any Rule which would require a Player to
+      initiate a transfer which is prohibited by this Rule.
+
+      A Class I transfer is not permitted if there is no Rule which
+      specifies a Player who is to detect and report the transfer.
+
+      A Class II transfer is not permitted if there is no Rule, or
+      Entity other than the Rules to which the Rules have granted the
+      power to require Players to perform actions, which specifies a
+      Player who is to detect and report the transfer.
+
+      A Class II or Class III Transfer is not permitted if the
+      Treasury from which the Currency is being transferred will
+      possess a negative quantity of that Currency after the transfer
+      has been completed.
+
+      A Class III Transfer is not permitted unless the transfer is
+      initiated by the Executor of the Owner of the Treasury from
+      which the Currency is being transferred.
+
+      This Rule takes precedence over any Rule which would permit a
+      transfer prohibited by this Rule.
+
+      The Recordkeepor of a Currency must be notified of a transfer
+      involving that Currency within seven days, unless another Rule
+      specifies a different time limit for reporting a certain type of
+      transfer.  For a Class I or Class II transfer, the notification
+      shall be made by the Player required to detect and report it.
+      For a Class III transfer, the notification shall be made by the
+      Player who initiated it.
+
+      Class I and Class II transfers take place at the time they are
+      required to take place.  Class III transfers take place at the
+      time they are reported.
+
+[CFJ 793: Notification may take place as part of an Official Report to
+ the Public Forum.]
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1649, Aug. 1 1995
+Amended(2) by Proposal 1702, Sep. 1 1995
+
+----------------------------------------
+
+======================================================================
+Decision of Justice Murphy: FALSE
+
+> Assigned to Murphy as Justice.
+                       ^
+Insert "Poetic" right here.
+
+I Judge this Statement FALSE.  Again.  And it's even got legal force this
+time, even if said "force" is merely to make a known decision unanimous.
+
+>From Morendil's Argument:
+> If the Player who must d/r a transfer (in the case of a Class I
+> transfer) or the Player who initiates it (in the case of a Class III
+> transfer) violates 1472 in not reporting a transfer within seven
+> days, then that transfer obviously was not "done in accordance with
+> the Rules". Unless a higher-MI Rule requires this transfer, or a
+> lower-numbered Rule explicitly claims precedence, Rule 1472 makes
+> such a transfer illegal.
+
+>From Andre's appelate comments:
+> Is the notification of the transfer of Currencies
+> between Treasuries part of the transfer, or is it a separate obligation which
+> only is CAUSED by the transfer? If it is indeed part of the transfer, then
+> indeed such is necessary to make the transfer legal, and 1472's timing issues
+> apply. If however the notification is not part of the transfer per se, but
+> only an obligation caused by it, a transfer will happen, even if its
+> notification to the Recordkeepor of the Currency is done wrongly or not at
+> all, so any breaking of 1472's timing requirements does not make the transfer
+> illegal or ineffective.
+[snip]
+> If we take the second Paragraph given by the Caller in eir Arguments, such
+> a report can take place AFTER the transfer has taken place. So it can never
+> be a part of it. Therefore I judge this CFJ FALSE.
+
+It is my belief that the transfer and notification are separate events for the
+reasons noted by Andre, that Morendil's assumption (violation of notification
+requirements by a Player implies violation of the Rules by the transfer) is
+false, and thus that the Statement is false.
+
+Respectfully submitted,
+Judge Murphy
+
+-------------------------------------------------------------------------------
+Ed Murphy, K.S.C.                      http://www.ee.tulane.edu/ford/index.html
+mailto:ford@ee.tulane.edu        "I didn't lose my virginity.  I eradicated all
+#include <std/disclaimer.h>       traces of its existence."  -Mona Mayfair

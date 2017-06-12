@@ -1,0 +1,225 @@
+==============================  CFJ 1609  ==============================
+
+    Michael's message, on or about 11 January 2007, reading in part "I
+    hereby vote AGAINST all proposals currently up for vote", did not
+    have the effect of submitting any ballots.
+
+========================================================================
+
+Caller:                                 Maud
+
+Judge:                                  Sherlock
+Judgement:                              
+
+
+Judge:                                  Manu
+Judgement:                              
+
+
+Judge:                                  Cecilius
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Maud:                         13 Jan 2007 13:57:06 GMT
+Assigned to Sherlock:                   31 Jan 2007 13:03:46 GMT
+Sherlock recused:                       31 Jan 2007 15:53:01 GMT
+Assigned to Manu:                       31 Jan 2007 15:53:01 GMT
+Manu recused:                           21 Feb 2007 18:10:52 GMT
+Assigned to Cecilius:                   21 Feb 2007 18:10:52 GMT
+Judged FALSE by Cecilius:               28 Feb 2007 05:51:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+We've been through this before.  In CFJ 1302, the Caller argued and
+the Judge upheld that
+
+     .. a "conditionally expressed Notice of Transfer" (that is, a
+     message which appears to be a Notice of Transfer but with a
+     condition attached), where a reasonable person would conclude
+     that the sender of the purported Notice of Transfer did not
+     possess... immediate knowledge as to whether the condition was
+     true, does not express an "intent to transfer one or more
+     Properties" and as such is not a Notice of Transfer.  Rather,
+     such a message expresses an intent to achieve a certain state
+     of affairs which may or may not include a transfer, and as such
+      fails to set forth the requisite intent required by Rule 1598.
+
+The next relevant CFJ 1307, which was called after a player posted a
+message reading in part "So I transfer all of my currencies to the
+Bank, and then deregister."  The Caller argued that
+
+     this situation is exactly analogous [to that of CFJ 1302]: a
+     reasonable person would conclude that Annabel did not know what
+     Currencies e intended to transfer, but merely intended to
+     transfer whatever e had (unknown to em at the time) so as to
+     achieve a desired result.
+
+The Judge held the statement to be TRUE.  E observed that Annabel had
+specified a set of currencies that with perfect information could be
+determined with complete unambiguity, but noted that
+
+     [u]nfortunately, we do not have perfect information. Thus, it may
+     no longer possible to determine precisely what Properties are
+     being transferred. We may or not be in error in what we believe
+     is the correct gamestate, but we do not know (unless we ratify)
+     whether there is any error.  Does the statement refer to all
+     Properties e actually owned? all Properties e was reported as
+     owning? If the two cases are distinct, which is likely given that
+     Officers occasionally make mistakes, then Annabel did not satisfy
+     the first definition of "specify".
+
+The Judge then examined several different interpretations of Annabel's
+message.  These can be read in the full case file.  A URL for the full
+case file is provided in the evidence section of this message.
+
+The main rule to which CFJ 1302 and CFJ 1307 refer, rule 1598, has
+long since been repealed, but the wording of rule 683 is similar to
+that of rule 1598.  In particular, the specification issue to which
+the Judge of CFJ 1307 refers comes from the following language of
+rule 1598:
+
+     (b) A valid Notice of Transfer must additionally:
+         (1) specify one or more Properties all of which are owned by
+             the transferor; and
+
+Rule 683 reads in part:
+
+     An eligible voter on a particular Agoran decision submits a
+     ballot to the vote collector by publishing a valid notice
+     indicating which one of the available options e selects.  To be
+     valid, the ballot must satisfy the following conditions:
+
+     [...]
+
+     (b) The ballot clearly identifies the matter to be decided.
+
+There is no major difference in meaning between "specifying" something
+and "clearly identifying" something, so the reasoning of CFJ 1307
+still applies.
+
+Moreover, the conditional voting rule does not affect this, for two
+reasons.  One, rule 2127 refers only to conditional specification of
+the *vote*, not of the *issue*.  Two, rule 683, a power 3 rule, clearly
+states that it takes precedence over any rule that would loosen the
+constraints it places on ballots, and rule 2127, a power 1 rule, does
+not take precedence over, nor have sufficient power to take precedence
+over, rule 683.
+
+========================================================================
+
+Caller's Evidence:
+
+1. CFJ 1302 is available online at
+
+     http://zenith.homelinux.net/cotc/viewcase.php?cfj=1302
+
+2. CFJ 1307 is available online at
+
+     http://zenith.homelinux.net/cotc/viewcase.php?cfj=1307
+
+3. Rule 683/12 (Power=3) Voting on Agoran Decisions
+
+     An eligible voter on a particular Agoran decision submits a
+     ballot to the vote collector by publishing a valid notice
+     indicating which one of the available options e selects.  To be
+     valid, the ballot must satisfy the following conditions:
+
+     (a) The ballot is submitted by an eligible voter during the
+         voting period for the decision.
+
+     (b) The ballot clearly identifies the matter to be decided.
+
+     (c) The ballot clearly identifies the option selected by the
+         voter.
+
+     (d) The voter has not publicly retracted the ballot during the
+         voting period.
+
+     The strength of an option is the number of valid ballots
+     selecting that option.
+
+     Other rules may place further constraints on the validity of
+     ballots.  This rule takes precedence over any rule that would
+     loosen the constraints specified by this rule.
+
+4. Rule 2127/0 (Power=1) Conditional Votes
+
+     A ballot option (vote) on an Agoran decision may be submitted
+     conditionally, and the truth or falsity of the condition and
+     thus the selected option will be determined as it exists at the
+     end of the voting period.
+
+     The option selected shall be considered to be clearly identified
+     if and only if the truth or falsity of the specified
+     condition(s) can be reasonably determined, without circularity
+     or paradox, from information published within the voting period.
+
+5. Rule 1598/10 (Power=1) Property Transfers
+
+     (a) A Notice of Transfer is a message which sets forth the
+         intent to transfer one or more Properties from one entity
+         (the "transferor") to some other entity (the "transferee").
+
+     (b) A valid Notice of Transfer must additionally:
+         (1) specify one or more Properties all of which are owned by
+             the transferor; and
+         (2) be sent by the Executor of the transferor, or by a
+             Limited Executor of the transferor with the authority to
+             execute transfers on behalf of that entity with respect
+             to all of the Properties involved.
+
+     (c) A transfer of a Property occurs only when its Recordkeepor
+         receives a valid Notice of Transfer.
+
+     (d) The effect of a transfer of Properties is to cause the
+         transferor to cease to possess the Properties transferred,
+         and simultaneously to cause the transferee to possess them.
+
+     (e) The Recordkeepor of a Property shall maintain a record of
+         all transfers of that Property. E shall retain a record of
+         each Notice of Transfer which e receives (whether valid or
+         not) involving that Property. E shall retain this record of
+         each Notice of Transfer for at least four weeks after its
+         receipt.
+
+     (f) If the transferor transfers Property to the transferee with
+         the purpose of satisfying a debt, or of paying the Fee
+         associated with performing an action, but the debt does not
+         exist, or the action is not successfully performed, then the
+         transferor's Executor may publicly demand the return of the
+         Property. The effect of such a demand is to cause the
+         transferee to incur a debt to the transferor for the
+         Property transferred.
+
+========================================================================
+
+Judge Cecilius's Arguments:
+
+In the arguments of the Caller (Maud) of CFJ 1609 ("the Current CFJ"), much is
+made of the similarities to CFJs 1302 and 1307 ("the Earlier CFJs").
+
+However, despite the Caller's contention that there is "no real difference"
+between "specify" (as used in Rule 1598 at the time of the Earlier CFJs) and
+"clearly identif[y]" (as used in the present formulation of Rule 683), I find
+that there is a difference.
+
+The first definition of "specify" is "to name or state EXPLICITLY OR IN
+DETAIL." [Capitalized emphasis mine.] (If we go through the second definition,
+we get to the definition of "specification" which includes the words
+"detailed" and "precise".) That is a much higher standard than to simply
+identify.
+
+While the message Michael sent in the message referred to in the Statement of
+the Current CFJ does not specify IN DETAIL the proposals on which e intended
+to vote, it does identify. There is no evidence on the record of any dispute
+as to which proposals were currently up for vote at the time the message was
+posted. Thus the identifying phrase "all proposals currently up for vote" is
+not unclear and thus "clearly identifies the matter to be decided" as required
+by Rule 683(b).
+
+========================================================================

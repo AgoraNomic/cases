@@ -1,0 +1,187 @@
+==============================  CFJ 1538  ==============================
+
+    A successful play of the Corporate Bankruptcy card causes any shares
+    cards not in the Deck to be discarded.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Riail
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           07 Apr 2005 19:54:03 GMT
+Assigned to Riail:                      09 Apr 2005 23:57:59 GMT
+Judged TRUE by Riail:                   17 Apr 2005 23:41:28 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+1.  The Corporate Bankruptcy card causes Shares cards to be
+"returned" to the deck [R1932].
+
+2.  "Returning" cards to the deck is not defined, but any
+common definition would involve transferring/moving cards
+from their holders to the Deck (the card is not destroyed
+and re-created in the deck, as such destruction and creating
+is strictly regulated by R2068 (last paragraph).
+
+3.  Transferring is not explicitly defined except to say
+that gamblers may do it [R2069.III.a] so the common
+definition of "transfer" in terms of changing possession,
+transferring, or moving of a thing from one entity to
+another should be used.
+
+4.  R2069.III.a. states "Discarding a Card is synonymous
+with transfering said Card to The Deck."
+
+5.  Therefore, discarding a card should also be synonymous
+with common sense synonyms of "transfer to the deck", and,
+in context, "return to the deck" as used in Corporate Bankruptcy
+is a reasonable synonym for "transfer to the deck."
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2068/1 (Power=1)
+The Deckmastor
+
+      The Deckmastor is an office which acts as the recordkeepor for
+      Cards. The Deckmastor's Weekly Report shall contain a record of
+      all Cards in existence and what entity possesses each Card.
+
+      The Deckmastor shall have a budget containing the Maximum Hand
+      Size and the Minimum Hand Size, each of which is a positive
+      integer between 2 and 10, with the Minimum being less than the
+      Maximum. In the absence of a budget, the Maximum Hand Size shall
+      be 5 and the Minimum Hand Size shall be 2.
+
+      The Deck is a Gambler. The Deckmastor shall be the sole Executor
+      of The Deck, but may take no action on behalf of The Deck except
+      as explicitly permitted by the Rules. The Deck may not transfer
+      Cards to any other entity except as explicitly required by the
+      Rules.
+
+      Only the Deckmastor may create or destroy Cards, and e may do if
+      and only if the Rules require it by announcing the Card being
+      created or destroyed and the entity who either possesses it now
+      or possessed it at the time of destruction as appropriate.
+
+----------------------------------------------------------------------
+
+Rule 2069/2 (Power=1)
+Card Definitions
+
+      I. Possession
+
+      Cards may be possessed by Gamblers. All Players are Gamblers.
+      If at any time a Card is not possessed by a Gambler, it
+      immediately and automatically returns to the possession of The
+      Deck.
+
+      The Gambler that possesses a Card is that Card's Holder and
+      Holds that Card. All Cards possessed by a particular Gambler are
+      collectively referred to as that Gambler's Hand. A Gambler's
+      Hand Size is the number of Cards in eir Hand plus one for each
+      Pending Draw for that Gambler.
+
+      II. Definitions
+
+      The Rules may define a Class of Card by specifying a Caption, a
+      Quota, zero or more Elements, and zero or more Exploits. All
+      Cards of the same Class shall be identical and fungible. Each
+      individual instance of a Card shall be considered to be a Copy
+      of that Class of Card.
+
+      (a) The Caption shall be the name of a particular Class of
+          Cards. No two Classes of Cards shall have the same Caption.
+
+      (b) The Quota shall be a non-negative integer. If at any time
+          fewer Copies of a Class of Cards exist than its Quota, then
+          the Deckmastor shall create a Copy of that Card in the
+          possession of The Deck. If at any time more Copies of a
+          Class of Cards exist than its Quota, then the Deckmastor
+          shall destroy a Copy of that Card in the possession of The
+          Deck, unless no such Copies exist, in which case the
+          Deckmastor shall destroy a random Copy.
+
+      (c) The Rules may define Elements for Cards. Each Element shall
+          have a name and a description. Any Card possessing the
+          Element of that name shall behave according to the
+          description associated with that Element. An Element not
+          defined in the Rules has no effect.
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule says otherwise, a Card is
+          automatically transferred to The Deck immediately after
+          being Played.
+
+      III. Actions
+
+      No action involving Cards may be simultaneous with any other
+      action. No such action may be performed more than once
+      simultaneously. If any attempt is made to perform more than one
+      such action in such a way that the order of said actions is
+      unclear, all such actions fail.
+
+      (a) Unless restricted from doing so by the rules, any Gambler
+          possessing a Card may transfer that Card to any other
+          Gambler by announcing which Card is to be transferred and
+          the Gambler it shall be transferred to. All such transfers
+          take place at the time they are announced.
+
+          Discarding a Card is synonymous with transfering said Card
+          to The Deck.
+
+      (b) Drawing a Card and Drawing from The Deck are synonymous.
+
+          When a Gambler Draws a Card, the Deckmastor shall be
+          required to randomly select one Card from among those
+          currently in The Deck's Hand and transfer it to that Gambler
+          as soon as possible. Until this transfer takes place, that
+          Gambler is said to have one Pending Draw for each such
+          transfer the Deckmastor is required to make, but has not yet
+          made.
+
+          A Gambler may Draw from The Deck for a Fee equal to the
+          number of times that Gambler has previously Drawn from the
+          Deck during the current month so long as the Gambler's Hand
+          Size is smaller than the Maximum Hand Size plus the number
+          of Offices e holds.  For the purposes of this Rule, the
+          Speakership is considered an office.
+
+          If the Deckmastor errs, in good faith, in selecting a
+          particular card to deal, and that error does not greatly
+          change the probability of selecting that card, that deal
+          shall be allowed to stand.
+
+-------------------------------------------------
+Excerpt from Rule 1932/8 (Power=2)
+Shareholders and the Corporation
+
+      * Caption: Corporate Bankruptcy
+        Quota: 1
+        Elements: Limited [Shareholders] [3]
+        Exploit: For a fee of 3 kudos, all Stock Cards are returned
+          to the Deck.
+
+========================================================================
+
+Judge Riail's Arguments:
+
+As Goethe stated in his caller's arguments, the common definitions for
+'return' and 'transfer' apply despite the fact that neither are
+explicitly defined in the Rules.
+
+========================================================================

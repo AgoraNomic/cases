@@ -1,0 +1,234 @@
+==============================  CFJ 3337  ==============================
+
+    scshunt is an eligible voter on the decision to adopt Proposal 7436.
+
+========================================================================
+
+Caller:                                 omd
+Barred:                                 Murphy
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          10 Jun 2013 03:33:22 GMT
+Assigned to G.:                         17 Jun 2013 06:06:53 GMT
+Judged FALSE by G.:                     19 Jun 2013 15:48:14 GMT
+Reconsideration requested by G.:        19 Jun 2013 19:24:05 GMT
+Assigned to G.:                         19 Jun 2013 19:24:05 GMT
+Judged TRUE by G.:                      19 Jun 2013 19:24:05 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This hinges on whether the gamestate implicitly contains a record of
+history which rules that refer to the past state of the game use in
+lieu of the actual past.  If so, Rule 1551's "the gamestate is
+modified" also modified the historical record so that scshunt was a
+player at the time of distribution of Proposal 7436, so e is in the
+set of "those entities that were active first-class players at the
+start of its voting period" (1950).  If not, e is not: if the decision
+were purportedly resolved before ratification, the act of ratification
+would itself cause the proposal to take effect (since, under the
+simulated gamestate in which "the gamestate had been minimally
+modified" (1551), the proposal took effect, so "the gamestate is
+modified to what it would be" if it took effect).
+
+My view is that "were" should mean "were": although modifying the past
+is convenient in some cases and prevents some wonkiness in this case,
+it contradicts the plain meaning of the rules, and adds unnecessary
+moving parts, when usually there is not enough delay to require us to
+decide on what the past was this far into the future.  To quote my
+notes on Proposal 7419:
+
+> [See
+http://www.mail-archive.com/agora-discussion@agoranomic.org/msg26334.html.
+>  There seems to be some confusion over whether a certain past
+> judgement implies that the gamestate currently includes history,
+> though that may be my fault, but I think the issue ought to be
+> legislated.
+>
+> Not including history in the gamestate has the potential to cause
+> weirdness when incorrect documents are ratified, because the true,
+> ratified-away value can still affect the game if rules refer to the
+> past, but the only case I can think of where this has actually
+> mattered is ratifying victories (no longer an issue as you now only
+> win the game after a victory announcement has ratified, and even if
+> the gamestate includes history, "our record of history is modified
+> such that you won the game" is a dubious substitute for an actual
+> win), and it has the benefit that it's much easier to work out what
+> happens when rules and proposals try to do weird things with the
+> gamestate as a whole.  As I mentioned in that thread, whether the
+> previous, confusingly-worded version of ratification was effective at
+> doing anything might depend on whether this implicitly defined archive
+> is "stored" as a list of instantaneous states or a list of changes;
+> that could be legislated and I might be overblowing the ambiguity, but
+> I think it's unnecessary mind screw overall.
+
+Note that the current (2011-) version of ratification is effective
+regardless of this format.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The issue is more complicated than omd suggests. There are complex
+elements of game state that are relevant, including three elements in
+particular:
+
+- The set of eligible voters
+- The set of valid ballots
+- The outcome
+
+I submit that these things are rather clearly elements of the game
+state, and hence are undoubtedly within the reaches of a ratification.
+Some may, in certain circumstances, have a value that is not
+immediately discernible solely by taking the rules and some other
+subset of game state, and performing a calculation. This indicates to
+me that they are properly considered as game state and not
+definitions. In particular:
+ - The set of valid ballots may change by virtue of some effects such
+as veto which, while not present in the rules, have generally been
+considered functional
+ - The outcome may change by announcement in the case of a tied vote
+
+All of these are defined by rules of power 3, but theoretically can be
+overridden by the power-3.1 Rule 1551. Moreover, at the time that the
+ratification is performed, it must be the case that Rule 1551
+overrides them, as otherwise the gamestate would not be set to what
+Rule 1551 specifies.
+
+The sole question then, is whether the power-3 rules "reassert"
+themselves and reinstate their versions of the game state over top of
+the papering performed by Rule 1551, or not. However, we have a
+precedent here. In CFJ 3289, it was determined that an instantaneous
+effect (setting the power of a rule) taking precedence over a
+continuously-defined effect (the minimum and maximum power of a rule)
+does not allow for the continuously-defined effect to reassert itself
+over top of the instantaneous effect. While this issue was not
+directly addressed in the judgment, it implies that a value defined in
+the manner of being a continuous effect should in fact be construed as
+both:
+
+1) An instantaneous effect setting a value
+2) A continuous prohibition against changing that value.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+This is similar to CFJs 2277-8, where there was a debate
+over what happens when one rule provides a definition of a value in
+terms of something else, and another purports to allow changing it;
+due to a trivial outcome for the CFJ, I'm not sure that was ever
+resolved.  However, I believe, as I did then, that that constitutes a
+redefinition of the value, in that case as N higher than it would
+otherwise be, in this case as what the vote collector chose in case of
+a tie, and whether the redefinition is in effect and its parameters
+are in the gamestate.  This does not apply to rubberstamp (not veto,
+at least recently) changing the set of valid ballots, however, since
+its wording is quite clearly a redefinition:
+
+      among the otherwise-valid votes on a decision that has been
+      Rubberstamped, only the first AGAINST vote per voter is valid.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+The reports I used for those dates were Registrar and
+IADoP's reports: the Registrar's for obvious reasons, but the IADoP's
+because it listed scshunt as belonging to one or more offices, and
+this is self-ratifying:
+
+      The portion of a public message purporting to be an IADoP's
+      report that lists the holder of each office is self-ratifying.
+
+Rule 1006 (Offices) defines the holder of an office as necessarily a player:
+
+      An office is a role defined as such by the rules.  Each office
+      is either vacant (default) or filled (held) by exactly one
+      player.
+
+and ratification "cannot add inconsistencies between the gamestate and
+the rules", so scshunt and I concluded that the minimal modification
+required to make the IADoP's reports "as true and accurate as
+possible" would be making scshunt a player.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, I accept that the Registrar's reports for a while ratified
+scshunt as a non-player, and the IDAoP reports ratified scshunt as a
+player, as this represents a minimal set of changes in the game state to
+conform with the reports.  I have a bit of disagreement here in fact,
+but I'm likely in the wrong and so will let it pass and deal with the
+possible ambiguity legislatively (legislatively, because ratification of
+the Registrar's report inarguably can induct someone against R101, which
+demands attention).
+
+Also, took a good look at what records would be affected or not affected
+by scshunt "blinking in and out" via ratification.  Asset reports have
+ratified so no LF&D reclamation is evident.  However, the following
+things have NOT ratified:
+ 1.  Status as an elder;
+ 2.  Office Assumption status (that is NOT part of "the holder of
+     each office" that is self-ratified by R1551);
+ 4.  Continuity of officeholding for the purpose of Yaks.
+(there may be others)
+
+I agree with scshunt that history CAN be subject to ratification, but
+*not* that it is subject to self-ratification.  That is, the self-
+ratification of a report fact ("as of this date, scshunt was a player")
+does not ratify the state of play the instant before that report was
+made.  In particular, R2139 explicitly only governs the set of players
+at a particular instant (the instant of the report), and R2138 only
+governs the older of each office at a particular instant.  The strict
+wording of *exactly* what is self-ratified (state) precludes any
+ratification of when or how that state came to be, historically.
+
+An explicit ratification process could do so, by (e.g. without
+objection) ratifying that the statement in question was true at an
+earlier date from the report.
+
+I'm really not sure how this whole thing pertains to "continuous"
+versus "instantaneous" values that scshunt and omd discuss in the
+arguments, so I'll leave it to them to motion it back to me if I've
+missed something esoterically vital.
+
+In any case, R1950 only cares about player status at the time of the
+start of the voting period, for Prop 7436, the ratified state of the
+Registrar's report was that e was NOT a player.  FALSE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d6f4>:
+
+[Re]-judgement of CFJ 3337.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+BREAKING NEW EVIDENCE!!
+
+Above, my arguments assert that "self-ratification" of the specific
+Registrar's and IDAoP reports affect state but not history, but
+ratification in general CAN affect history.  New evidence shows that such
+ratification without objection took place here, before this CFJ was called:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2013-June/031
+344.html
+and so scshunt was in fact an eligible voter.  I judge TRUE.
+
+-G.
+
+========================================================================

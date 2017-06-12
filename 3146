@@ -1,0 +1,59 @@
+==============================  CFJ 3146  ==============================
+
+    I am a player.
+
+========================================================================
+
+Caller:                                 Turiski
+
+Judge:                                  Pavitra
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Turiski:                      13 Jan 2012 23:05:06 GMT
+Assigned to Pavitra:                    14 Jan 2012 20:23:47 GMT
+Judged FALSE by Pavitra:                24 Jan 2012 21:16:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Although case 2062 was judged TRUE, a primary motivation for that decision was
+that the author stated it was encoded in a particular manner, which this
+message does not. (Of course, this assumes case 3143 is judged TRUE)
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+CFJ 2875 worked, and rot13ed English is certainly clearer than Caesared
+Latin. This case therefore depends directly on CFJ 3143.
+
+I create the following promise and transfer it to the Tree: {
+  Title: 3146 DEPENDS 3143
+  Cashing: CFJ 3143 has been judged.
+  Text:
+  I assign to CFJ 3146 the same judgement that 3143 was assigned,
+  submitting as judge's arguments the text of the message in which this
+  promise was created.
+}
+
+========================================================================
+
+Gratuitous Arguments by FKA441344:
+
+{might reasonably be interpreted as}
+sounds like a weaker test than {unambiguously indicates}. If so, this
+case would depend on case 3148 rather than case 3143.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+Upon further examination, CFJ 3130 ruled out registration by CFJ. I
+judge CFJ 3146 FALSE.
+
+========================================================================

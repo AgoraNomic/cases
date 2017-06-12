@@ -1,0 +1,99 @@
+==============================  CFJ 1826  ==============================
+
+    The AFO's VVLOP changed as a result of comex's message with
+    Message-ID
+    <6bf32280711281839g6adde4a4wdf21f00d231c776b@mail.gmail.com>
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       06 Dec 2007 19:15:52 GMT
+Assigned to root:                       09 Dec 2007 23:23:20 GMT
+Judged FALSE by root:                   20 Dec 2007 05:53:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In CFJ 1813, Goethe argued that VVLOP is defined as a "parameter",
+implicitly treated as a number, but could also be interpreted as a set
+of numbers (added up whenever the value of VVLOP is queried).  In this
+hypothetical context, "decrease by -1" is interpreted as "remove -1 from
+the set".  However, this only works if the set contains a -1 to be
+removed.  This is sufficiently unworkable to shoot down the implicit
+application of this interpretation.  Even if this interpretation were
+explicitly stated, the AFO's VVLOP set did not contain enough -1's to
+remove 104 of them.
+
+========================================================================
+
+Judge root's Arguments:
+
+When I initially read Judge Goethe's arguments in CFJ 1813, they
+seemed very reasonable.  Upon closer inspection, the interpretation of
+VVLOP as a summed multiset is reasonable but not necessary.  It is
+equally reasonable to interpret VVLOP as simply a rational number;
+both interpretations are consistent with the rules.  With that in
+mind, I would adhere to Goethe's precedent if it aligned with the best
+interests of the game, but I find that it does not.
+
+The initiator of these cases argues that to remove a number of -1
+values from the set, there must be at least that number of -1 values
+in the set to begin with.  Considering this argument, the set must be
+finite, or it would be impossible to sum.  Furthermore, Goethe's
+interpretation provides no way to replenish the -1 values in the set,
+so they must eventually deplete, at which point this interpretation
+breaks.  Since there is no indication as to the initial number of -1
+values in the set, there is no way to know when this condition is
+reached, leading to a nondeterministic split in game state each time
+the clause is exercised.  This is clearly in opposition to the best
+interests of the game.
+
+Additionally, the rules do not only define ways to increase and
+decrease VVLOP by integral values; Rule 2126(d) defines a means for
+multiplying VVLOP by fractional multiples of 0.1 and 0.
+
+The multiplication could be performed in three ways, none of which are
+satisfactory:  first, a number of copies of the set equal to the
+multiplicand could be joined together, but this only works when the
+multiplicand is an integer.  Additionally, upon multiplication by 0,
+the set would be empty and thus would no longer contain any negative
+values to be removed under R2126(c).
+
+Second, every element of the set could be multiplied individually, but
+this is also incompatible with the interpretation of removing negative
+values.  In particular, upon multiplication by zero, all the elements
+in the set would be zero and thus non-negative.  Upon multiplication
+by a fraction, it is unknown at what point the set ceases to have
+integral values, which again results in nondeterminism, and not just
+when applying the scam.
+
+Third, to multiply by a fraction or zero, we could remove copies of
+each type of element in proportion.  In addition to having the same
+multiplication by 0 issue as the first method, this would result in
+slight nondeterministic errors when the elements of the set do not
+happen to exist in the correct proportions.
+
+Finally, Rule 2156 defines circumstances under which VVLOP is
+specifically set to an integer value.  Each week, EVLOP is explicitly
+"rounded to an integer", making it clearly an integer, and VVLOP is
+then "set to the same rounded value", not to an equivalent set-based
+value.  To support the set interpretation, VVLOP must at some point be
+changed back into a set, and it is not clear how this must occur.
+
+As stated above, I find that all of these points conflict with the
+best interests of the game, and so I think it important to deviate
+from the set interpretation.  In contrast, a rational number
+interpretation results in no such problems.  Based upon that, and upon
+Judge Goethe's prior reasoning if VVLOP is assumed to be a number, I
+judge CFJs 1826 and 1827 FALSE.
+
+========================================================================

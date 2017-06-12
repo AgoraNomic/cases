@@ -1,0 +1,85 @@
+==============================  CFJ 3042  ==============================
+
+    Tanner L. Swett has voted (endorse Murphy) on Proposal 7081.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       21 Jun 2011 22:14:58 GMT
+Assigned to G.:                         03 Jul 2011 17:38:16 GMT
+Judged FALSE by G.:                     07 Jul 2011 00:49:21 GMT
+Reconsideration requested by Murphy:    07 Jul 2011 01:25:24 GMT
+Reconsideration requested by G.:        07 Jul 2011 03:45:26 GMT
+Reconsideration requested by Pavitra:   07 Jul 2011 04:12:42 GMT
+Assigned to G.:                         07 Jul 2011 04:12:42 GMT
+Judged TRUE by G.:                      07 Jul 2011 04:59:16 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Tanner L. Swett wrote:
+
+> I vote:
+>
+>> 7081 3   Murphy      Effects are effective
+> MURPH
+>
+>> 7082 3   omd, etc.   Fix promise transfers
+> FOR
+>
+>> 7083 3   Walker      Re-jigged Re-jiggery
+> MURPH or AGAINST (using a Perl-style "or")
+
+========================================================================
+
+Judge G.'s Arguments:
+
+There are too many computer programmers here; Agora is not a Boolean
+game any more than English is a Boolean language.  Terms such as 'or' or
+'and' are not 'primarily used in mathematical' contexts.  The voter did
+specify a "perl" type 'or', do we need to use logic or language?
+Actually, it doesn't matter.  Evaluating left to right in both, it's
+most reasonable for this to be read as "Endorse Murphy, or if Murphy's
+vote is invalid/doesn't vote, vote Against" in either common language
+or left-to-right Boolean evaluation (perl or otherwise).  To avoid
+inserting the "Present" of a unclear conditional in the middle, this is
+taken to be a single conditional vote.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d8b4>:
+
+I intend (with two support) to move for reconsideration of CFJ 3042,
+as the arguments don't match the statement (which pertained to a
+different proposal and vote than 3043).
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d8b4>:
+
+Sorry, careless of me.  Support.  -G.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Currently, voting 'Nickname' is a reasonably understood shorthand for
+endorsing that player, even if the nickname itself is a shortened
+unofficial nickname -- provided the shorthand is a clear and unambiguous
+reference to a player.  MURPH -> MURPHY -> ENDORSE MURPHY is
+sufficiently clear.  TRUE.
+
+========================================================================

@@ -1,0 +1,70 @@
+==============================  CFJ 1809  ==============================
+
+    sentencing someone to APOLOGY without giving a set of prescribed
+    words means that the apology has a null set of prescribed words.
+
+========================================================================
+
+Caller:                                 pikhq
+Barred:                                 Zefram
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by pikhq:                        28 Nov 2007 00:29:48 GMT
+Assigned to root:                       28 Nov 2007 16:57:18 GMT
+Judged TRUE by root:                    29 Nov 2007 02:15:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Example:
+"I sentence comex to APOLOGY."
+
+========================================================================
+
+Judge root's Arguments:
+
+>From Rule 1504/16,
+
+      The valid sentences are:
+
+      [SNIP]
+
+      * APOLOGY with a set of up to ten words (the prescribed words),
+        appropriate for rule breaches of small consequence.  When in
+        effect, the ninny SHALL within 72 hours publish a formal
+        apology of at least 200 words, including all the prescribed
+        words, explaining eir error, shame, remorse, and ardent desire
+        for self-improvement.  The ninny is only obliged to publish
+        one apology per question on sentencing, even if sentences of
+        this type are assigned more than once or go into effect more
+        than once.
+
+APOLOGY with no set of words is thus not a valid sentencing judgement.
+ But the rule does not stipulate how the set must be specified.  I
+will interpret "giving" in the statement as meaning "explicitly
+giving"; if interpreted as "giving by any means", then the statement
+is a patent contradiction.
+
+Rule 2158/1, reads in part:
+
+      When a judicial case has an applicable open judicial question,
+      it requires a judge, and its judge CAN assign a valid judgement
+      to that question by announcement.
+
+This rule also says nothing about how explicit the specification of
+the judgement must be.  Nor does Rule 754/7, on regularity of
+communication, or Rule 478/22, on announcements.
+
+It seems to me that it is unambiguous, convenient, and not contrary to
+the rules to interpret the lack of an explicitly specified set of
+words as an implicit specification of the empty set.  The empty set is
+a null set, so I assign a judgement of TRUE in CFJs 1808 and 1809.
+
+========================================================================

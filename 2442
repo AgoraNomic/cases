@@ -1,0 +1,51 @@
+==============================  CFJ 2442  ==============================
+
+    A correct Win Announcement that states that a player has a score x +
+    yi such that xy >= 2500 causes that player to satisfy a Winning
+    Condition, even if that Win Announcement contains extra information
+    not required by the rules.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       06 Apr 2009 13:33:09 GMT
+Assigned to Murphy:                     07 Apr 2009 21:41:06 GMT
+Judged FALSE by Murphy:                 10 Apr 2009 03:18:57 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I'm particularly wondering if the announcement can itself
+contain the clear labelling that it is a win announcement; I've got in
+the habit of putting the label in a separate sentence, but putting it in
+the same sentence would probably be clearer and look more natural.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+"Announcement" is not explicitly defined, but Rule 478's definition of
+"announces" implies that it is synonymous with "public message".
+
+Rule 2186 defines "win announcement" as "a correct announcement
+explicitly labeled as a win announcement".  It does not specify whether
+this labeling must occur in the same sentence as the content required
+for a specific type of win announcement, so either method is acceptable
+(provided that the rule defining the specific type is similarly
+non-specific, which Rule 2187 is).
+
+That said, the statement is FALSE on a technicality.  Rule 2186 does
+not define "win announcement" as an announcement that succeeds in
+granting a Winning Condition, and this specific type of win announcement
+fails to do so if any other players also have qualifying scores.
+
+========================================================================

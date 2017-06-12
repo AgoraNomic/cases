@@ -1,0 +1,32 @@
+==============================  CFJ 2073  ==============================
+
+    Either the sky is always red or, if I do not hereby initiate an
+    inquiry case on this sentence, then the sky is always green.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  14 Jul 2008 03:45:42 GMT
+Assigned to Wooble:                     17 Jul 2008 06:04:52 GMT
+Judged TRUE by Wooble:                  17 Jul 2008 12:38:26 GMT
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I rule TRUE.  I take the English "Either... or" construct to be the
+equivalent of logical XOR.  The sky is neither always red nor always
+green.  "the sky is always red" evaluates to FALSE, and "if I do not
+hereby initiate an inquiry case on this sentence, then the sky is
+always green" evaluates to TRUE (X -> F == T for all X), making the
+statement reduce to F XOR T == T.
+
+========================================================================

@@ -1,0 +1,128 @@
+==============================  CFJ 2361  ==============================
+
+    If the Rules specify that a player is to receive a Note for
+    performing a required (i.e. a SHALL) action, and e fails to perform
+    it, the withholding of the Note is, for the purposes of R101(vi), a
+    penalty for breaking the SHALL.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           26 Jan 2009 19:27:07 GMT
+Assigned to omd:                        04 Feb 2009 07:39:23 GMT
+omd recused:                            17 Feb 2009 00:09:00 GMT
+Assigned to ais523:                     17 Feb 2009 00:09:48 GMT
+Judged FALSE by ais523:                 18 Feb 2009 14:18:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This situation in general exists in the rules for a variety of duties
+(officers, judges).  The question is whether "withholding a reward" is
+the same thing as "punishment".  I consider this to be a possibly deep
+philosophical issue that's not covered in the Rules, to be clarified with
+a reward/punishment equivalent to Mother May I.  But in the meantime (1)
+where the rules are silent, we must not ignore R101; and (2) it's
+specifically and directly relevant in the current system, where the
+"exchange rates" of 2 Notes per removed Rest put the judicial and
+economic system in a single common currency.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+If withholding a reward for an action not
+performed is a punishment, we're all constantly being punished for
+doing something we are not obligated to not do.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The first question here is the extent to which the reward is correlated
+to the actual performance of the action. Consider the following
+situations:
+
+a) A judge judges a CFJ on Wednesday. They receive a reward at the end
+of the week. However, they could be assigned another CFJ later in the
+week and get the reward from that instead.
+b) Suppose instead the judge's time limit to judge the CFJ ran out in
+Wednesday. Are they being punished for not getting the reward for the
+week the CFJ was assigned to them, or for the week the judgement period
+ran out in? What if they got a reward from a different CFJ in that time.
+c) Suppose that an officer fails to submit a report, but that Notes are
+repealed by proposal in the meantime. (Or maybe that a proposal to
+repeal notes is submitted, but fails.) Is the officer being punished for
+lateness by not being given the Note, even though they no longer exist?
+
+The problem, it seems to me, is that failing to perform an action is
+illegal now, but the withholding of the Note that would be the reward
+happens later, at the end of the week, and anything could happen in
+between. However, the fact that the "punishment" of withholding of a
+Note happens later than the crime is not necessarily a problem; after
+all, normal judicial punishments happen after-the-fact too.
+
+Looking at the problem from another angle, there is a problem with a
+lack of correlation between individual omissions and individual rewards.
+Suppose a player holds two high-priority offices, and submits a report
+for neither. They then aren't rewarded; but there isn't a withheld
+reward for either office, as they wouldn't have got one anyway due to
+their omission in the other!
+
+The rules don't define what a reward or punishment is directly, although
+they strongly imply that non-DISCHARGE criminal sentences are a form of
+punishment, and the title of rule 2234 (which is not legally binding but
+provides evidence of game custom) implies that contestmaster salaries
+are a reward. Per rule 754, therefore, we have to rely on the common
+English definition of "punishment".
+
+Can the withholding of a reward be a punishment? In standard English
+usage, yes. Importantly, though, this is only a punishment if the reward
+was going to be obtained anyway. If someone's earning £1000 a month, and
+is fined £1000 for a serious health and safety breach, they lose a
+month's salary. That's a punishment, rather than the withholding of a
+reward; it's gaining a reward and the reward's being cancelled out. If
+their month's salary is instead withheld (probably illegal in the UK, by
+the way), it comes to the same thing; it's still a punishment.
+
+However, suppose someone quits work, and doesn't get their pay for the
+next month as a result. That isn't a punishment for quitting, that's a
+lack of a reward. The difference is that not getting a salary is not a
+punishment if it isn't certain that you'll get it anyway. In a nomic,
+where the rules could change beneath you before your salary gets paid,
+or the salary could be withheld instead for another reason, or a Holiday
+or a scam could interfere with your requirement to perform an ability,
+or weeks might last for months unexpectedly (see B), it's hard to see
+how an Agoran officer's or judge's salary could be seen as stable enough
+to be a given which is fined away from the judge, instead of an
+occasional reward for performing a job, especially as there is not a 1:1
+correlation between rewardable tasks and Notes awarded.
+
+Therefore, I judge CFJ 2361 FALSE; salary paid in notes is not
+predictable enough for the withholding of it to be considered a
+punishment, rather than the granting of it a reward. (Supporting this
+fact but not strong enough to support a judgement in itself is that the
+rules strongly imply that judicial sentences are punishments, thus
+weakly implying that other things aren't.)
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Nitpick:  DISCHARGE should be considered punishment too, at least for the
+purposes of R101(vi).  -Goethe
+
+========================================================================

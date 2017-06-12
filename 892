@@ -1,0 +1,183 @@
+======================================================================
+                               CFJ 892
+
+"The words `other Rules' in the sentence:
+   `This Rule defers to all other Rules which do not contain this
+    sentence.' in Rule 1504,
+ should be interpreted as meaning `Rules other than this one'."
+
+======================================================================
+
+Judge:       favor
+
+Judgement:   FALSE
+
+Eligible:    Andre, Chuck, elJefe, favor, Harlequin, KoJen, Michael,
+             Murphy, Oerjan, Steve, Swann, Vanyel, Zefram
+
+Not eligible:
+Caller:      Blob
+Barred:      -
+On hold:     Morendil
+
+======================================================================
+
+History:
+  Called by Blob, Thu, 16 Jan 1997 17:22:04 +1100 (EST)
+  Assigned to favor, Tue, 21 Jan 1997 11:42:26 +0000
+  Judged FALSE, Tue, 21 Jan 97 08:59:20 EST
+  Published, Wed, 22 Jan 1997 11:54:31 +0000
+
+======================================================================
+
+Judgement: FALSE
+
+Reasons and arguments:
+
+I Judge this statement to be FALSE.  The fuller context of the
+sentence is, of course:
+
+   This Rule takes precedence over any Rule that would require another
+   Player to report Score, Currency, or Blot changes which result from
+   these penalties, or which would require a different timing for such
+   penalties.
+
+   This Rule defers to all other Rules which do not contain this
+   sentence.
+
+The antecedant of "other" here is clearly the "any Rule" in the
+previous sentence.  That is, the end of this Rule is of the form:
+
+  This Rule takes precedence over any Rule that X.
+
+  This Rule defers to all other Rules that Y.
+
+The obvious interpretation, at least to this native speaker, is that
+the Rule defers to all and only those Rules which Y, but do not X.
+There is a mild ambiguity here, in that "all other Rules" *could* be
+read to mean "all Rules besides this one", but that seems unnatural to
+me.  In no reasonable context that I can construct does the word word
+"other" in statements of the form
+
+  This Rule does X to all A's that N.
+
+  This Rule does not-X to all other A's that M.
+
+seem to mean "other besides this very one" rather than "other besides
+the ones we just mentioned".
+
+It has been argued that the sentence
+
+   This Rule defers to all other Rules which do not contain this
+   sentence.
+
+appears in various other places in the Rules, and in those other
+places the phrase "other Rules" does in fact mean "other Rules than
+this one".  I would counter that:
+
+  - In most of those cases, the context is critically different, in
+    that there is no other antecedant available available for the
+    "other", and we are therefore left only with "this very Rule".
+    When the antecedant *is* available, it is natural to accept it,
+    and not look elsewhere.
+
+  - In at least two other places in the Ruleset (perhaps only one at
+    the time this CFJ was called) the same context *does* occur (see
+    R1367/1).  But the meaning of the last sentence in this case has
+    never been tested, as far as I know, either by CFJ or by routine
+    Game operation.  So Game Custom is silent as to the interpretation
+    of this sentence in this context.  If there were complete
+    ambiguity here, in that there were just no other way to decide
+    which of the possible readings of "other Rules" was the correct
+    one, we might get a wisp of weight out of this.  My feeling,
+    though, is that the ambiguity is not nearly this delicately
+    balanced, and the wisp here is not strong enough to counteract the
+    easy availability of the antecedant.
+
+Since "other Rules" in R1504 actually means "other Rules than the ones
+we just mentioned", and not "Rules other than this one", I must Judge
+this Statement FALSE.
+
+======================================================================
+
+(Caller's) Arguments:
+
+The last two paragraphs of the Rule read:
+
+      This Rule takes precedence over any Rule that would require
+      another Player to report Score, Currency, or Blot changes which
+      result from these penalties, or which would require a different
+      timing for such penalties.
+
+      This Rule defers to all other Rules which do not contain this
+      sentence.
+
+This final sentence was only recently added by the Virus, and is the
+source of the confusion. The words "other Rules" are ambiguous. They
+could potentially mean either "Rules other than this one" or "Rules
+other than those just described (in the previous paragraph)".
+
+I put it to you that either interpretation is valid, but that game
+custom favours the first interpretation, as evidenced by all the other
+infected rules.
+
+I urge the Judge to issue an Injunction to annotate this Rule appropriately,
+as per Rule 789.
+
+Evidence:
+---------
+
+Rule 1504/3 (Mutable, MI=1)
+Application and Timing of Crimes and Infractions
+
+      Penalties for a Crime are applied 72 hours after the CotC
+      legally reports the penalty.  If the CFJ alleging the Crime is
+      appealed before this time, then application of the penalty is
+      deferred until immediately after the resolution of the appeal.
+
+      If an appeal finds that the Crime has occurred and the penalty
+      has not yet been applied, then the penalty is applied
+      immediately upon resolution of the appeal.
+
+      If an appeal finds the Crime did not occur, the penalty shall
+      not be applied.  If the penalty has already been applied, then
+      the penalty shall be reversed to the extent possible immediately
+      upon resolution of the appeal.
+
+      Penalties for Infractions are applied immediately upon their
+      legal report.  The Player so penalized is permitted to submit a
+      CFJ alleging that the Infraction did not occur.  If this CFJ is
+      found TRUE, then the penalties are reversed, to the extent
+      possible, 72 hours from the time of Judgement.  If the CFJ is
+      appealed before this time, this reversal is deferred until
+      immediately after the appeal is resolved.
+
+      If an appeal finds that the Infraction did not occur, and the
+      penalty has not been reversed, the penalty is reversed to the
+      extent possible immediately upon resolution of the appeal.
+
+      If an appeal finds that the Infraction did occur, then the
+      penalty shall not be reversed.  If the penalty has been
+      reversed, the penalty is immediately re-applied upon resolution
+      of the appeal.
+
+      Detecting and reporting the consequences of penalty reversals
+      and re-applications due to this Rule shall be the duty of the
+      Clerk of the Courts.
+
+      This Rule takes precedence over any Rule that would require
+      another Player to report Score, Currency, or Blot changes which
+      result from these penalties, or which would require a different
+      timing for such penalties.
+
+      This Rule defers to all other Rules which do not contain this
+      sentence.
+
+History:
+Created by Proposal 1682, Aug. 22 1995
+Amended(1) by Proposal 2570, Apr. 12 1996
+Amended(2) by Proposal 2677, Sep. 26 1996
+Infected and Amended(3) by Rule 1454, Jan. 8 1996, substantial
+  (unattributed)
+
+======================================================================

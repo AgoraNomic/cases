@@ -1,0 +1,53 @@
+==============================  CFJ 2746  ==============================
+
+    A player can appear more than once on the List of Succession.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      26 Nov 2009 17:57:01 GMT
+Assigned to G.:                         29 Nov 2009 17:55:15 GMT
+Judged FALSE by G.:                     01 Dec 2009 17:29:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Is the List of Succession the active players awarded the 5 most recent
+instances of Champion? Is it the active players awarded the 5 most
+recent instances of Champion among active players? The text of the
+rule seems unclear, and requires careful semantic analysis (which I
+won't provide, as I'm not the judge).
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 402 reads:
+      The List of Succession is a list of the five active players who
+      were most recently awarded the patent title Champion.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The enumerated items are players, not title instances.  A person is not
+more than one player (more than one element) no matter how many times e
+has won.  If a player is on the list more than once, there are not five
+players on the list (in the set).
+
+========================================================================
+
+Judge G.'s Arguments:
+
+See CFJ 2745
+
+========================================================================

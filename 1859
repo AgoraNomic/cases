@@ -1,0 +1,195 @@
+==============================  CFJ 1859  ==============================
+
+    At least one of the votes in root's message with message-id
+    <3fc761710712310956p646fddd3h9ca3b5ceb0c16fe4@mail.gmail.com> is
+    valid.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          01 Jan 2008 22:37:41 GMT
+Assigned to Murphy:                     07 Jan 2008 12:14:18 GMT
+Judged FALSE by Murphy:                 08 Jan 2008 05:18:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See CFJ 1434.  The relevant portion of CFJ 1769 (If some Rule
+requires... if some Rule bases) is unchanged from the time of CFJ 1434
+(evidence (2)) to now (evidence (3)).
+Evidence:
+[CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
+period is an event for the purposes of rule 1769.]
+http://cfj.qoid.us/1434
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1769/2 (Power=2)
+Holidays
+
+      A Holiday is a period of time, not to exceed 17 days in length,
+      designated as such by the Rules.  If one Holiday begins within
+      72 hours of the end of another Holiday, the two Holidays and the
+      time between them are taken as a single Holiday, unless this
+      would cause the combined Holiday to exceed 17 days in length, in
+      which case the first Holiday is extended to 17 days and the
+      second Holiday does not occur.
+
+      During a Holiday, no Proposal may be distributed by the
+      Promotor, nor may any Call for Judgement, Judgement, notice of
+      Appeal, Decision of Appeals Boards, or Opinion be published by
+      the Clerk of the Courts; however, if any of the above do take
+      place during the Holiday in violation of this Rule, this Rule
+      does not deprive them of their usual effects.
+
+      If some Rule requires that an action be done prior to a given
+      time, and that given time falls during a Holiday, or within the
+      72-hour period immediately following that Holiday, then that
+      action need not be done until 72 hours after that Holiday ends.
+
+      If some Rule bases the time of a future event upon the time of
+      another event, or requires that a Player perform some action
+      within some time of another event, and that other event occurs
+      during a Holiday, the time at which the Holiday ends shall be
+      used instead for the purpose of determining the time of the
+      future event or of the time by which the Player must perform the
+      specified action.
+
+      This Rule takes precedence over all Rules pertaining to the
+      timing of events, and over all Rules which require Players to
+      perform events before a specified time.
+
+History:
+Created by Proposal 3679 (General Chaos), Jan. 30 1998
+Amended(1) by Proposal 4036 (Oerjan), Aug. 7 2000
+Amended(2) by Proposal 01-003 (Steve), Feb. 2 2001
+
+Evidence (3):
+
+Rule 1769/5 (Power=2)
+Holidays
+
+      A Holiday is a period of time designated as such by the Rules.
+
+      During a Holiday, the Promotor SHALL NOT distribute any
+      proposals, and judges SHALL NOT be assigned to any judicial
+      case, and judges SHALL NOT assign judgement to any judicial
+      question.
+
+      If some Rule requires that an action be done prior to a given
+      time, and that given time falls during a Holiday, or within the
+      72-hour period immediately following that Holiday, then that
+      action need not be done until 72 hours after that Holiday ends.
+
+      If some Rule bases the time of a future event upon the time of
+      another event, or requires that a Player perform some action
+      within some time of another event, and that other event occurs
+      during a Holiday, the time at which the Holiday ends shall be
+      used instead for the purpose of determining the time of the
+      future event or of the time by which the Player must perform the
+      specified action.
+
+      This Rule takes precedence over all Rules pertaining to the
+      timing of events, and over all Rules which require Players to
+      perform events before a specified time.
+
+      The period each year from midnight GMT on the morning of 24
+      December to the beginning of the first Agoran week to begin
+      after 2 January is a Holiday.
+
+> > 5375  O1  1    root        Mother, May I Limit Partnerships?
+> FOR x 4
+>
+> > 5376  D1  2    root        Repeal Marks
+> FOR
+>
+> > 5377  D1  2    pikhq       Repeal Marks
+> FOR
+>
+> > 5378  D1  2    root        First-Class Mentors
+> FOR
+>
+> > 5379  D0  2    root        Clarify voting limit reduction Mk II
+> FOR
+>
+> > 5380  O1  1    Goethe      Public Partnerships I
+> FOR x 4
+>
+> > 5381  D1  2    Goethe      Public Partnerships II
+> FOR
+>
+> > 5382  D1  2    Murphy      Cap Red Mark inflation
+> FOR
+>
+> > 5383  O1  1    WALRUS      <none>
+> AGAINST x 4
+>
+> > 5384  D1  2    Murphy      Refactor excess CFJs
+> FOR
+>
+> > 5385  D0  2    Murphy      Transfer VC recordkeeping
+> FOR
+>
+> > 5386  O1  1.7  Murphy      Revise criminal defenses
+> FOR x 4
+>
+> > 5387  O1  1.7  Murphy      Expedited equity
+> FOR x 4
+>
+> > 5388  D1  2    Murphy      Only private assets can hyperinflate
+> FOR
+>
+> > 5389  O1  1    Goethe      Ministerial Pragmatism
+> FOR x 4
+>
+> -root
+>
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+There are three distinct ways in which a pair of events (in which the
+time of the second event is based on the time of the first) can interact
+with a holiday:
+
+  1) E1 occurs during a holiday.
+  2) E1 occurs before a holiday, E2 would occur during it or within
+       3 days after it.
+  3) E1 occurs before a holiday, E2 would occur more than 3 days
+       after it.
+
+Neither the caller nor the judge of CFJ 1434 clearly specified which of
+these cases e was addressing.
+
+A search of other judicial records pertaining to holidays turns up CFJs
+1192, 1206, 1424, 1480, 1857 and 1858, but none of these address the
+above distinction either.
+
+The "If some rule bases" paragraph of Rule 1769 applies to 1) only.
+
+The "If some rule requires" paragraph of Rule 1769 applies to 1), and
+can be interpreted as applying to 2) as well.  This is the situation
+on which the validity of root's votes depends.
+
+Rule 683 (Voting on Agoran Decisions) requires votes to be submitted
+during the voting period in order to be valid, so the only way for
+root's votes to be valid is if Rule 1769's "that action need not be
+done" is interpreted as implicitly extending the voting period.  (Rule
+1769's precedence claim is trumped by Rule 683's higher Power.)  I
+believe this is too far a stretch, as the voting period is the time
+limit for five separate activities (cast a vote, retract a vote, veto,
+rubberstamp, filibuster).
+
+========================================================================

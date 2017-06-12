@@ -1,0 +1,151 @@
+==============================  CFJ 1647  ==============================
+
+    Murphy's message with datestamp Sun, 29 Apr 2007 16:59:19 -0700 had
+    the effect of submitting a proposal.
+
+========================================================================
+
+Caller:                                 Taral
+
+Judge:                                  Sherlock
+Judgement:                              
+
+
+Judge:                                  Human Point Two
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Taral:                        30 Apr 2007 17:34:35 GMT
+Assigned to Sherlock:                   04 May 2007 20:22:26 GMT
+Sherlock recused:                       07 Jun 2007 21:06:19 GMT
+Assigned to Human Point Two:            13 Jun 2007 01:41:45 GMT
+Human Point Two recused:                26 Jun 2007 20:33:13 GMT
+Assigned to Murphy:                     27 Jun 2007 21:14:10 GMT
+Judged FALSE by Murphy:                 29 Jun 2007 03:56:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 106 states, in part, "A player submits a proposal by publishing
+it with a clear indication that it is intended to become a proposal".
+I argue that the form of Murphy's message did not contain any such
+indication. I see a request to remove this (existing) proposal from
+the pool, albeit referencing it with the wrong name, and then a
+precise copy of the existing proposal.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 106/4 (Power=3)
+Adopting Proposals
+
+     A proposal is a document outlining changes to be made to Agora,
+     including enacting, repealing, or amending rules, or making
+     other explicit changes to the gamestate.
+
+     A player submits a proposal by publishing it with a clear
+     indication that it is intended to become a proposal, which
+     places the proposal in the Proposal Pool.  The proposer of a
+     proposal may remove it from the Pool by announcement.
+[rule abbreviated]
+
+-----
+Message-ID: <46353157.1000108@socal.rr.com>
+From: Ed Murphy <emurphy42@socal.rr.com>
+To: Agora Business <agora-business@agoranomic.org>
+Subject: Re: BUS: Proposal:  Protection Racket
+Date: Sun, 29 Apr 2007 16:59:19 -0700
+
+I remove "Proposal Racket" from the pool.
+
+Proposal:  Protection Racket
+
+[We will, of course, relinquish this power and implement a fix, in
+return for a suitable token.  To do otherwise would be Not Fun.]
+
+Create a rule with this text:
+
+      Murphy, OscarMeyr, and Quazie are Oligarchs.
+
+      An Oligarch may refuse a CFJ by announcement.  A refused CFJ
+      ceases to be a CFJ.
+
+      An Oligarch may refuse a proposal by announcement.  A refused
+      proposal ceases to be a proposal.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Based on the preponderance of publications over the past few years,
+I argue that messages of this general form:
+
+  "I retract proposal <name>.
+   Proposal:  <similar name>
+   <text similar to that of the retracted proposal>"
+
+constitutes a clear indication that the stuff after the retraction
+is intended to become a proposal, and that the clear/unclear meter
+does not undergo a discontinuous jump when "similar" reaches the
+limit of "identical".
+
+The following hypothetical cases would be substantively different:
+
+  1) A player sends two messages, both containing "Proposal:
+     <identical name> <identical text>" and nothing else.
+
+  2) A player refers to a proposal using an excerpt from its text,
+     because its name and number may be nonexistent or ambiguous.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+(pseudo-judged by root to avoid some conflicts of interest)
+
+According to Rule 106/4:
+
+   A proposal is a document outlining changes to be made to Agora,
+   including enacting, repealing, or amending rules, or making
+   other explicit changes to the gamestate.
+
+The text in Murphy's message outlines the enactment of a rule, so it
+does meet the criteria for a proposal.  Rule 106/4 continues, "A
+player submits a proposal by publishing it with a clear indication
+that it is intended to become a proposal."  The message was sent to a
+public forum, so it was published by definition.  The only question is
+whether there was a clear indication that it was intended to become a
+proposal.
+
+The purported proposal included the heading "Proposal:  Protection
+Racket", followed by the body of the proposal.  This style of proposal
+submission is not uncommon, and under normal circumstances it would
+constitute the "clear indication" required by Rule 106.  However, this
+case is complicated by two facts:  the proposal was preceded in the
+message by a (mis-referenced) attempt to withdraw an existing
+proposal, and the remainder of the message was identical in to that of
+the message in which the existing proposal was submitted.  Could this
+reasonably have been interpreted as merely a further description of
+the proposal to be removed?  If so, then the message lacked "clear
+indication".
+
+I believe the answer to that question is "yes".  It is not unheard of
+to reference a proposal using the full text of the proposal or its
+submission message, especially when the proposal's number has not yet
+been published, as appears to have been the case here.  It is not
+necessary that such a reference include "Reply" markings or
+indentation, as the message may be a result of cut-and-paste.  There
+was no clear indication that the message was intended as only a single
+action, but there was also no clear indication that it was intended as
+two separate actions.
+
+========================================================================

@@ -1,0 +1,107 @@
+==============================  CFJ 1524  ==============================
+
+    A Corporate Bankruptcy card has been legally dealt to root.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 root
+
+Judge:                                  Maud
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           04 Nov 2004 20:57:38 GMT
+Assigned to Maud:                       06 Nov 2004 18:50:25 GMT
+Judged FALSE by Maud:                   12 Nov 2004 01:44:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The Deck was randomly and uniformly shuffled (algorithm
+available, but it involved Heisenberg Uncertainty as described
+in http://www.fourmilab.ch/hotbits/ , so it better darn well
+satisfy R1079).
+
+Cards were dealt from the "top" of the deck, to those who
+had drawn cards before the shuffle, in:
+http://www.agoranomic.org/pipermail/agora-business/2004-November/003318.html
+leaving a randomly-selected card on the "top" of the deck.
+Note that the order of satisfying Player draws was determined
+by me before the random shuffling process.
+
+root then drew a card.  I attempted to deal the "randomly
+placed" top card to root.  So did this satisfy the requirement
+for a random deal contained in R2069?
+
+========================================================================
+
+Caller's Evidence:
+
+R1079/3:
+Rule 1079/3 (Power=1)
+Definition of "Random"
+
+       (a) When a Rule requires a random choice to be made, then the
+           choice shall be made using whatever probability distribution
+           among the possible outcomes the Rules provide for making
+           that choice. If the Rules do not specify a probability
+           distribution, then a uniform probability distribution shall
+           be used.
+
+       (b) Where the Rules do not indicate who is required to make a
+           particular random choice, it shall be made by the Speaker.
+
+       (c) When making a random choice as required by the Rules, a
+           Player may rely on any physical or computational process
+           whose probability distribution among the possible outcomes
+           is reasonably close to that required by the Rules.
+
+       (d) For the purposes of this Rule, tossing a platonic solid or
+           coin that is not specially weighted has a probability
+           distribution among the possible outcomes that is reasonably
+           close to uniform.
+
+       (e) For other methods, the Courts are the final arbiter of
+           whether a method's probability distribution among the
+           possible outcomes is reasonably close to that required by
+           the Rules.
+
+
+>From R2069/0:
+      When a Gambler Draws a Card, the Deckmastor shall be
+      required to randomly select one Card from among those
+      currently in The Deck's Hand and transfer it to that Gambler
+      as soon as possible. Until this transfer takes place, that
+      Gambler is said to have one Pending Draw for each such
+      transfer the Deckmastor is required to make, but has not yet
+      made.
+
+========================================================================
+
+Judge Maud's Arguments:
+
+I thank the Caller, Goethe, for providing arguments and evidence.  Too
+often these are omitted.
+
+A search of the rules reveals that cards in the Deck have no natural
+order.  The shuffling of the Deck performed by the Deckmastor amounts to
+making random choices of which cards to deal.  Rule 2069 requires the
+Deckmastor to select a random card when (that is, as soon as possible
+after) a Gambler draws.  This rule regulates dealing from the deck;
+consequently, the Deckmastor may not select a random card to deal before
+a Gambler actually draws.  Eir posting of the shuffled deck is analogous
+to making a pledge to deal cards in the order listed.
+
+Any card dealt to satisfy a draw made after the shuffled Deck was posted
+was not selected randomly *after the draw*, as required by Rule 2069, and
+therefore was dealt illegally.
+
+I therefore find that a Corporate Bankruptcy card has not been legally
+dealt to root, and so judge CFJ 1524 FALSE.
+
+========================================================================

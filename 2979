@@ -1,0 +1,170 @@
+==============================  CFJ 2979  ==============================
+
+    I register
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+Appeal:                                 2979a
+Decision:                               REMIT
+
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Mar 2011 16:03:29 GMT
+Assigned to Wooble:                     20 Mar 2011 17:50:52 GMT
+Judged FALSE by Wooble:                 20 Mar 2011 18:07:08 GMT
+Reconsideration requested by Wooble:    21 Mar 2011 19:04:55 GMT
+Reconsideration requested by omd:       21 Mar 2011 19:19:14 GMT
+Reconsideration requested by G.:        21 Mar 2011 20:34:34 GMT
+Assigned to Wooble:                     21 Mar 2011 20:34:34 GMT
+Judged TRUE by Wooble:                  23 Mar 2011 13:26:54 GMT
+Appealed by G.:                         23 Mar 2011 16:26:00 GMT
+Appealed by omd:                        23 Mar 2011 16:36:13 GMT
+Appealed by Murphy:                     23 Mar 2011 16:52:47 GMT
+Appeal 2979a:                           23 Mar 2011 16:52:47 GMT
+REMITTED on Appeal:                     15 Apr 2011 22:22:06 GMT
+Assigned to scshunt:                    15 Apr 2011 22:37:44 GMT
+Judged FALSE by scshunt:                24 Apr 2011 11:09:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Fri, 2011-02-04 at 14:37 +0000, Alex Smith wrote:
+> I deregister.
+
+Murphy wrote:
+> *6964  1.0  Wooble      I miss ais523
+
+I call for judgement on the statement "I register".
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE. The message in which this CFJ was initiated does not
+indicate reasonably unambiguously that ais523 intended to become a
+player at that time. By initiating a CFJ into the matter, ais523 has
+explicitly indicated that the statement's veracity is in doubt,
+creating ambiguity.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+> CFJ 2979 actually ruled on the entire message, not just the first statement:
+>
+>> The message in which this CFJ was initiated does not
+>> indicate reasonably unambiguously that ais523 intended to become a
+>> player at that time.
+>
+> I disagree, but I'll comply with the precedent.  FALSE.
+>
+
+I disagree too; I completely missed the last line of the original
+message when rendering my judgment.
+
+========================================================================
+
+Gratuitous Arguments by Roujo:
+
+I support and do so, although I'm not sure how. =P
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+While the statement "I register" in the CFJ was not an unambiguous
+intent to become a player, being wrapped in a CFJ call and thus
+indicating the caller's implicit belief that the statement's veracity
+was ambiguous, the following "I do so" was published at the same time
+as the CFJ statement. There's no compelling reason to consider the
+actions in the message as not occurring simultaneously at the instant
+it was published (as there might be if, for example, it was IMPOSSIBLE
+for a non-Player to submit a CFJ), so I take the Statement to be
+equivalent to "I am registering at this instant", not "This statement
+is causing me to register." TRUE.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+On timing, this is a pretty strong tradition the judge is bucking here,
+without reasonable justification.  The tradition is that doing the
+following in one message:
+I set up gamestate X;
+I CFJ on whether the gamestate is X;
+I replace gamestate X with Y;
+that the CFJ SHOULD be judged based on that interim "moment" before Y.
+I think bucking this tradition radically degrades the convenience of
+setting up test situations and ending them cleanly, and this judgement,
+if upheld or not appealed, would add an arbitrary and capricious aspect
+of judicial "choice" to CFJ timing.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+CFJ 2086
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+If this judgement holds, then in the following case:
+1.  I set up gamestate A;
+2.  I CFJ on "the gamestate is A"
+3.  I replace gamestate A with B.
+the judge could arbitrarily pick between true, false, undetermined,
+or undecidable.  This is not a particularly beneficial interpretation
+of judicial timing.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Citizenship is a switch; it must always have a value. Thus there is no
+sensible interpretation of Agoran law such that flips are not atomic
+and thus there was no time at which ais523 was "in the process" of
+registering - e was either registered or not when e called this
+statement. Thus this statement was necessarily FALSE.
+
+That is very unsatisfying, however, so some more in-depth look at the
+exact timing is deserved.
+
+While R478 does provide guidance for how multiple actions in a message
+are to be handled, this does not apply in this case asregistering is a
+side-effect
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player at that time.
+
+Thus it is the act of publishing the message itself that causes
+registration. But does it occur before or after the actions of the
+message itself, accepting that it cannot possibly be the case that
+they truly occur simultaneously since, as was already discussed, flips
+are atomic. However, this is quite easily resolved by the fact that
+precedent holds that a case initiated in a message such as {{I do
+<something ambiguous in an attempt to test registration metrics>. I
+CFJ {I am a player.}.}} can be judged TRUE. Thus it is clear that the
+act of registration actually occurs /before/ anything in that message.
+
+This has a few odd effects, such as making a case initiated in {{I CFJ
+{I am a player.}.  I register.}} actually TRUE.
+
+========================================================================

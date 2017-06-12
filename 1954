@@ -1,0 +1,109 @@
+==============================  CFJ 1954  ==============================
+
+    In the message archived at the URL <http://www.agoranomic.org/cgi-bi
+    n/mailman/private/agora-business/2008-May/010573.html>, ehird won
+    the game.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        14 May 2008 15:35:45 GMT
+Assigned to Machiavelli:                16 May 2008 05:36:58 GMT
+Machiavelli recused:                    16 May 2008 11:02:42 GMT
+Assigned to Murphy:                     18 May 2008 11:06:13 GMT
+Judged FALSE by Murphy:                 18 May 2008 11:49:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There are only two rules that could prevent a player from winning the
+game merely by announcing it: rule 2186/0 and rule 101/7. In addition,
+it must be established that it is possible to win the game merely by
+announcing it.
+
+Rule 101/7(ii) allows players to take actions which are not regulated
+(and precedent seems to be that in general regulated actions cannot be
+taken except by virtue of rule 101/7). Therefore, if it is shown that
+rule 2186/0 is not a problem, and that the action of winning the game
+by announcement is not regulated, then an attempt to win the game by
+announcement must succeed.
+
+Rule 2140(c) implies that no entity with a power less than 3 can
+modify any substantive aspect of an instrument with power greater than
+its own, defining a "substantive" aspect of an instrument as any
+aspect that affects the instrument's operation. Therefore, in order to
+show that rule 2186/0 does not prevent a player winning the game by
+announcement, it needs only be shown that given that winning the game
+by announcement is not regulated, that part of rule 2186/0 affects a
+substantive aspect of a rule with higher power.
+
+Rule 2186/0 states "This is the only way to win the game, rules to the
+contrary notwithstanding." However, rule 2186/0, being less powerful
+than rule 101, cannot take precedence over it, nor modify a
+substantive aspect of it; the ability to take non-regulated actions by
+announcement is clearly a substantive aspect of rule 101 (because part
+(ii) talks specifically about non-regulated actions, and therefore the
+ability or otherwise to take non-regulated actions is clearly an
+aspect that affects the operation of rule 101; to expand on this, rule
+101 allows a certain set of actions to be performed, and rule 2186/0
+attempts to modify this set, but fails because it has a lower
+precedence), so given that winning the game by announcement is not
+regulated, rule 2186/0 cannot override it.
+
+Therefore, all that remains to show is that winning the game by
+announcement is not regulated. The only rule that could cause it to be
+regulated is rule 2125/1. First, part (d) of that rule is irrelevant
+to this CFJ, as me winning the game in no way makes it impossible to
+modify the rules. Second, part (c) does not apply either; although
+this is less obvious, no player is the recordkeepor of which players
+have won the game (the Herald awards the patent title of Champion, but
+this is an indirect consequence of a player winning the game, not as a
+necessary result of it; regulation under 2125/1(c) would prevent the
+Herald awarding the title of Champion unless permitted to do so by
+other rules, rather than preventing a player winning the game by
+announcement.) So all that remains is to show that neither part (a)
+nor (b) of 2125/1 causes the action of winning the game by
+announcement to be regulated.
+
+First, note that the only rule that could 'prohibit' the action of
+winning the game by announcement is 2186/0; and the set of which
+actions are prohibited is clearly a substantive aspect of rule 2125/1
+(because that set directly affects which actions are prohibited by
+rule 2125/1, thus affecting its operation), so it is obvious that the
+action of winning the game by announcement is not prohibited, and so
+rule 2125/1(a) does not regulate it. Finally, the ruleset nowhere
+states that if certain conditions are met, a player wins the game by
+announcement. (Rule 2186/0 refers to a win announcement, but this is
+not the same thing; a win announcement has to be explicitly labeled as
+such, and is not involved in all methods of winning the game (e.g. the
+Winning Condition of Renaissance can be achieved without involving a
+win announcement).) Therefore, rule 2125/1(b) does not cause the
+action of winning the game by announcement to be regulated either.
+
+Therefore, as the power-3 rule 101/7(ii) permits winning the game by
+announcement, and no rule with power at least 3 prohibits it, it is
+possible to win the game by announcement. As I made such an
+announcement, I have therefore won the game.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Winning the game, by announcement or otherwise, is regulated by Rule
+2186.  Since it is regulated, Rule 101 (ii) does not apply; there is
+no conflict to interfere with Rule 2186.  FALSE.
+
+========================================================================

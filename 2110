@@ -1,0 +1,82 @@
+==============================  CFJ 2110  ==============================
+
+    At least two of the valid votes on Proposal 5648 were cast by the
+    same player.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       23 Jul 2008 01:16:57 GMT
+Assigned to Quazie:                     27 Jul 2008 22:40:23 GMT
+Quazie recused:                         13 Aug 2008 23:27:26 GMT
+Assigned to ais523:                     15 Aug 2008 07:01:47 GMT
+Judged FALSE by ais523:                 15 Aug 2008 19:58:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Assuming that tusho is not a player (CFJ 2074), Proposal 5648 was not
+made democratic until after the end of the voting period.  Rule 2142
+allows this, but what does it do to vote validity?
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+R683 strongly implies that a vote is valid if it is among the first N where
+N<= the voting limit when the vote is submitted.  This points to a dangerous
+break in the rule allowing democratization during the voting period, in that
+Ordinary votes cast before the democratization would remain valid even after
+the democratization.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+      Among the otherwise-valid votes on an Agoran decision, only the
+      first N submitted by each entity are valid, where N is the
+      entity's voting limit on that decision.
+
+I don't see anything in there that implies "when the vote is cast"
+timing.  It talks about the collective validity of votes which could
+have been cast at different times, not the validity of individual
+votes.
+
+In fact, condition (d) strongly implies that vote validity is a status
+that is evaluated instantaneously, not set in stone when the vote was
+cast -- otherwise, retracting a vote would fail to invalidate it.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I spotted this scam ages ago, and filed CFJs 1959 and 1960 to determine
+whether it would work. The verdict is that it wouldn't, so I didn't try
+it. (I certainly would have tried it otherwise.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+At the time the CFJ was called, its statement was FALSE. Vote validity
+is evaluated instantaneously (see root's gratuitous arguments and CFJs
+1959 and 1960), and at the time the CFJ was called the Agoran Decision
+about the proposal in question was Democratic, therefore the same player
+cannot possibly have more than one valid vote on it. (The statement was
+true earlier, during the voting period for instance, but was false at
+the time the CFJ was called).
+
+========================================================================

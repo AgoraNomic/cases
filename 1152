@@ -1,0 +1,79 @@
+======================================================================
+                              CFJ 1152
+
+    If a Rule implicitly designates a Player who is a Legislator to
+    temporarily be a Voting Entity, then such implicit designation is
+    sufficient to allow that Player to vote.
+
+======================================================================
+
+Called by:           harvel
+
+Judge:               Palnatoke
+Judgement:           FALSE
+
+Judge selection:
+
+Eligible:            Annabel, Palnatoke, Peekee, Vlad, Wes
+
+Not eligible:
+Caller:              harvel
+Barred:              -
+Had their turn:      Beefurabi, Blob, Chuck, Crito, elJefe, Elysion,
+                     harvel, Kolja, Michael, Murphy
+Already served:      -
+Defaulted:           -
+By request:          -
+On Hold:             Lee, Oerjan, Steve
+
+======================================================================
+
+History:
+
+Called by harvel:                     03 Aug 1999 5:00:06 EDT
+Assigned to Palnatoke:                03 Aug 1999 16:51:48 GMT
+Judged FALSE by Palnatoke:            03 Aug 1999 21:37:42 +0200
+Judgement published:                  As of this message
+
+=====================================================================
+
+Caller's Arguments:
+
+<none>
+
+======================================================================
+
+Evidence attached by the Caller:
+
+<none>
+
+======================================================================
+
+Judge's Arguments:
+
+Rule 206 defines a Voting Entity as being 'generally authorized' to vote.
+The rule also mentions that this authorization may be withdrawn *without*
+causing the Entity to cease being a Voting Entity.
+
+There are, in other words, potential Voting Entities without voting
+privileges.
+
+
+"Rule 206/11 (Power=2)
+Voting Entities and Votes
+
+      A Voting Entity is an Entity which is generally authorized by
+      the Rules to cast a vote or votes on a Proposal, although other
+      Rules may withdraw this authorization from a Voting Entity in
+      specific circumstances without that Entity thereby ceasing to
+      be a Voting Entity. No Entity is permitted to vote on a
+      Proposal unless it is a Voting Entity, and only those Entities
+      designated by the Rules to be Voting Entities are Voting
+      Entities.
+
+      Each Voting Entity has two votes on a Proposal, unless another
+      Rule says otherwise. However, no such Entity shall have more
+      than five votes on any Proposal, regardless of what any other
+      Rule may say to the contrary."
+
+======================================================================

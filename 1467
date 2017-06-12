@@ -1,0 +1,28 @@
+==============================  CFJ 1467  ==============================
+
+    If a player attempts to spend N kudos to pay a fee, but the fee is
+    smaller than N, then N kudos are still paid.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Taral
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       05 Oct 2003 07:29:13 GMT
+Assigned to Taral:                      06 Oct 2003 00:05:56 GMT
+Judged FALSE by Taral:                  15 Oct 2003 08:11:14 GMT
+
+========================================================================
+
+Judge Taral's Arguments:
+
+    The amount "paid" is equal to the actual fee, not the amount
+    specified. See CFJ 1465.
+
+========================================================================

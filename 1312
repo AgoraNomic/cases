@@ -1,0 +1,238 @@
+==============================  CFJ 1312  ==============================
+
+    The final auction price in the most recent Indulgence Auction was 50
+    Stems.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           06 Aug 2001 20:25:47 GMT
+Assigned to root:                       07 Aug 2001 01:37:57 GMT
+Judged FALSE by root:                   12 Aug 2001 00:38:01 GMT
+Appealed by Maud:                       12 Aug 2001 02:59:04 GMT
+Appealed by Oerjan:                     13 Aug 2001 06:01:02 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Steve, in the latest Indulgence Auction, made several bids "on behalf of"
+the Zombie Grech.  Steve was not eligible to bid at the time (not an
+Acolyte) but Grech was: the strong implication is that those bids were
+bids that would obligate Grech to pay if e were a winner.  It is my belief
+that those were successful bids, if so; one of them was for 50 Stems.
+
+Later, Steve send a message stating "I cancel my bid of 50 Stems" without
+mentioning Grech.  The question is, does the final cancellation message
+successfully refer to Grech's earlier bid and cancel it?  On one hand, the
+final message doesn't mention Grech, and as such may not refer to the
+previous bid under Rule 1478(d).  On the other hand, the bid, once made,
+was arguably one of Steve's actions, not Grech's.
+
+Effect on Auction price:
+ (1) If Grech is found to have placed successful bids, but
+     Steve's last message left them uncancelled, the final
+     price would be 50 Stems (TRUE).
+ (2) If Steve successfully cancelled the bid of 50 Stems, the final price
+     would be 26 Stems (FALSE).
+ (3) If for some reason (I don't expect this), none of Steve's bids
+     successfully obligated Grech to pay winning bids, that would mean
+     that the success of Elysion's bids on behalf of harlequin, also
+     a Zombie, must be examined to determine the final price, but the
+     result would still be FALSE.
+
+========================================================================
+
+Caller's Evidence:
+
+[The original Auction announcement]
+
+>Kerim Aydin wrote:
+>>
+>> -I announce an Indulgence Auction for 2 Indulgences beginning with this
+>>  message.
+>> -I, Herald Goethe, am the Auctioneer.
+>> -The items to be auctioned are units of 1 Indulgence each,
+>>  therefore there are two such items.
+>> -Minimum bid is 1 Stem, all bids in Stems, and public.
+>> -Only Acolytes may bid.
+>>
+
+[The following messages are a complete set of all bidding messages sent to
+the P.F. during the auction.  Headers and nonessential content have been
+edited out: a full log is available upon request]:
+
+> Date: Wed, 01 Aug 2001 12:45:48 +1000 (EST)
+> From: Steve Gardner <gardner@silas.cc.monash.edu.au>
+> To: Agora Nomic Business List <agora-business@agoranomic.org>
+>
+> Acting as Grech's Executor, I make bids of 50 and 25 Stems on behalf of
+> Grech in this Auction.
+>
+> Steve
+
+
+> Date: Wed, 01 Aug 2001 17:56:33 -0400
+> From: Joshua Boehme <elysion@mindspring.com>
+> To: agora-business <agora-business@agoranomic.org>
+>
+> I cause harlequin to become an Acolyte. I cause harlequin to make a
+> bid of 150 Stems and a bid 75 Stems in the current Indulgence Auction.
+>
+> Elysion
+
+
+> Date: Thu, 02 Aug 2001 13:55:37 +1000 (EST)
+> From: Steve Gardner <gardner@silas.cc.monash.edu.au>
+> To: Agora Nomic Business List <agora-business@agoranomic.org>
+>
+> H. Auctioneer Goethe,
+>
+> Acting as Grech's Executor, I make a bid of 76 Stems on Grech's behalf
+> in the current Indulgence Auction.
+>
+> Steve
+
+
+> Date: Thu, 02 Aug 2001 10:07:28 -0400
+> From: Joshua Boehme <elysion@mindspring.com>
+> To: agora-business <agora-business@agoranomic.org>
+>
+> I cause harlequin to cancel eir bids of 150 and 75 Stems in the
+> Indulgence Auction. I cause harlequin to make 1 bid of 26 Stems and 1
+> bid of 13 Stems in the Indulgence Auction.
+>
+> --
+>
+> Elysion
+
+
+> Date: Fri, 03 Aug 2001 12:04:39 +1000 (EST)
+> From: Steve Gardner <gardner@silas.cc.monash.edu.au>
+> To: Agora Nomic Business List <agora-business@agoranomic.org>
+>
+> H. Auctioneer Goethe,
+>
+> I cancel my bid of 50 Stems in the current Indulgence Auction.
+>
+> Steve
+
+========================================================================
+
+Judge root's Arguments:
+
+The first question we must consider is whether or not an action performed
+"on behalf of" an entity is actually performed by the Executor or the
+Executee. Rule 1478(a) reads:
+
+      (a) An Executor of an entity is a Player who is empowered by the
+          Rules to act on behalf of that entity, who is called the
+          Executee. There may be more than one such Player. An
+          Executor of an Executee may perform on behalf of the
+          Executee all such actions as the Rules permit the Executee
+          to perform.
+
+The use of the phrases "empowered by the Rules to act" and "An Executor of
+an Executee may perform" strongly indicate that the actor is the Executor.
+This is further backed by the phrase "on behalf of" itself. The American
+Heritage Dictionary defines "on behalf of" as meaning "as the agent of",
+and it defines "agent" as meaning "One empowered to act for or represent
+another".
+
+As a counter-argument, Rule 1478(e) reads:
+
+      (e) Only persons may perform actions. Non-persons perform
+          actions only via the agency of persons, as specified by the
+          Rules.
+
+This provides a counter-argument by specifying that non-persons can perform
+actions, but in my judgement this is not sufficient on its own, and I would
+find that Rule 1478 tells us that it is the Executor who performs the
+action, and not the Executee.
+
+However, this is a very dangerous precedent to set.  For example, a Zombie
+may be required to perform some action as soon as possible.  The Zombie
+cannot, however, perform the action, because this interpretation of 1478
+only permits the Zombie's Executor to perform the action and not the Zombie
+emself, unless by some miracle the Zombie should become Noisy and perform it.
+
+With this and other dangerous effects in mind, I must determine that an
+action performed "on behalf of" an entity is deemed to have been performed
+by that entity, despite the unclear wording.
+
+Here some might argue that, by labelling emself as the performer of the
+action on behalf of Grech (e.g. "I make a bid", rather than "I cause Grech
+to make a bid"), Steve's messages in fact created no successful
+bids.  However, given that Rule 1478 explicitly uses the same "on behalf
+of" language used by Steve, I can see no real reason not to accept eir bids.
+
+We have established that Steve's bids on behalf of Grech were
+successful.  Now we must examine whether the bid e attempted to cancel was
+successfully cancelled.  Rule 1478(d) reads:
+
+      (d) A Player acting on behalf of an entity other than emself
+          must clearly indicate on whose behalf e is acting. A Player
+          who does not clearly indicate that e is acting on behalf of
+          some entity other than emself is presumed to be acting on
+          eir own behalf.
+
+A couple Players have argued that, because Steve did not mention Grech in
+the message in which e attempted to cancel the bid, Steve failed to clearly
+indicate that e was cancelling it on Grech's behalf.  However, Goethe
+points out that Steve's cancellation attempt clearly refers to the bid e
+made on Grech's behalf, since Steve made no bids of eir own.  Thus a clear
+indication that the action was to be performed on Grech's behalf was at
+least implied.
+
+It might also be noted that nobody seems to have misunderstood Steve's
+intent to perform the action on Grech's behalf.  The problem was pointed
+out by Goethe in http://www.escribe.com/games/agora-business/m5093.html,
+and e wrote there:
+
+    Steve made no bid of 50 Stems in the auction.  Steve caused Grech to bid.
+    So I do not know if "my bid", when referred to by Steve, successfully
+    cancels Grech's bid.
+
+It is clear to me that Goethe understood that Steve was intending to
+perform on Grech's behalf, and that eir uncertainty merely centered around
+the validity of the cancellation, and not around what bid Steve was
+attempting to cancel.  Since the intended Executee was clear to all
+nvolved, I therefore find that clear indication was given.
+
+Therefore, I conclude that Steve successfully cancelled Grech's bid of 50
+Stems, and so the Final Auction Price was not 50 Stems, making the
+Statement of this CFJ FALSE.
+
+========================================================================
+
+Appellant Maud's Arguments:
+
+root wrote:
+> This provides a counter-argument by specifying that non-persons can perform
+> actions, but in my judgement this is not sufficient on its own, and I would
+> find that Rule 1478 tells us that it is the Executor who performs the
+> action, and not the Executee.
+
+Zombies aren't non-persons.  Zombies are players, and players are
+persons.  (I realize your argument doesn't turn on this point, but
+thought I should mention it.)
+
+
+> Since the intended Executee was clear to all
+> involved, I therefore find that clear indication was given.
+
+Rule 1478 does not require that the intended Executee be clear to all
+involved.  Rather, it requires that there be a clear indication of the
+intended Executee.  I don't see any argument for the claim that the
+intended Executee being clear to all involved is sufficient for there
+being a clear indication of the intended Executee.
+
+========================================================================

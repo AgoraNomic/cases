@@ -1,0 +1,201 @@
+==============================  CFJ 1378  ==============================
+
+    The player root won the game on or around May 10, 2002.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Steve
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         17 May 2002 00:49:28 GMT
+Assigned to Steve:                      28 May 2002 14:54:23 GMT
+Judged TRUE by Steve:                   31 May 2002 03:08:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1638 establishes a way for Players to win the game by publishing
+a Notice of Victory.  It refers to Players being "eligible to Win" when
+they meet Win Conditions, and it says that iff the Notice of Victory is
+accurate, then the Players who are "eligible to Win" immediately "Win".
+As of this CFJ, no such Notice of Victory has been published as a
+result of Proposal 4296.
+
+However, Rule 112 takes precedence over Rule 1638, and it simply uses
+the language that a Player "Wins" whenever e meets some Win condition,
+the same language that is used by Rule 1638 upon the completion of a
+Notice of Victory.  This seems to mean that Rule 112 establishes a
+second way to win, which is simply to meet a Win condition.  As a
+side effect, this interpretation would completely preempt Rule 1638,
+but that doesn't mean that it isn't valid.
+
+Rule 1729, which permits the win in question, adds to the confusion by
+using the same language as Rule 112, merely saying that "the Proposer
+shall Win".  It does not say that the Proposer shall be "eligible to
+Win", or that the Proposer shall meet any Win condition.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1638/5 (Power=1)
+Announcing a Win
+
+       When one or more Win Conditions are true for a Player and no
+       Win-Preventing Conditions are, e is eligible to Win. Any Player
+       may then publish a Notice of Victory containing the following
+       information:
+
+         a) The fact that one or more Players are eligible to Win
+         b) The cause of the Win
+         c) The identity of every Player who is eligible to Win at
+            the time the message is sent
+
+       If and only if the information contained in the Notice of
+       Victory is accurate, the Player or Players who are identified
+       as being eligible to Win immediately Win the Game.
+
+Excerpt from Rule 112/3 (Power=3)
+
+                               A Player Wins whenever a Win condition
+       defined by one or more of those Rules occurs for that Player,
+       provided that no Win-Preventing conditions are also occurring at
+       that time for that Player.
+
+Excerpt from Rule 1729/4 (Power=1)
+
+       And should such a Proposal's Voting Period begin,
+       but no one Votes FOR it, the Proposer shall Win.
+
+Excerpts from Assessor's Voting Report
+Message-ID:
+<Pine.A41.4.44.0205101012090.82960-100000@homer35.u.washington.edu>
+
+4296   A MODEST PROPOSAL               root       1  I     FAILED  QUORUM
+...
+Please note:
+No one voted FOR Insane Proposal 4296.
+
+========================================================================
+
+Judge Steve's Arguments:
+
+Facts in evidence:
+
+Proposal 4296 was an Insane Proposal, proposed by root. Assessor Goethe
+announced the results of this Proposal on Fri, 10 May 2002 17:43:00 GMT
+(see Evidence <1>). The vote was 1 vote AGAINST, 0 votes FOR. No Notice
+of Victory was published on or around May 10.
+
+Arguments:
+
+R1638 claims that the only way a Player can Win the Game is by
+publication of an accurate Notice of Victory identifying the Player as
+having met a Win Condition (and as having no Win-Preventing Conditions).
+On the face of it, then, since no Notice of Victory was published on or
+around May 10, root could not have Won the Game at that time.
+
+Against this view, the Caller argues that R112 says that a Player Wins
+whenever e meets some Win Condition. It's hard to avoid the conclusion
+that the Caller's argument is correct: R112 conflicts with, and takes
+precedence over, R1638's claim that the only way to win is via
+publication of a Notice of Victory.
+
+The only thing remaining is to establish whether there was some Win
+Condition that root met on or around May 10, 2002. Concerning Insane
+Proposals, R1729 states:
+
+      And should such a Proposal's Voting Period begin,
+      but no one Votes FOR it, the Proposer shall Win.
+
+Although the term 'Win Condition' does not appear in R1729, there is
+judicial precedent that some poetic license is permitted in interpreting
+Rules written in verse (see CFJ 1309, in which "bended" is interpreted
+to mean "broken"; but for a contrary and more literal view of this
+passage, see CFJ 1284). It is reasonable, I think, to interpret R1729 as
+defining a Win Condition.
+
+I therefore Judge that the Statement is TRUE.
+
+========================================================================
+
+Judge Steve's Evidence:
+
+<1> Assessor Goethe's announcement of the results of Proposal 4296
+    http://www.escribe.com/games/agora-official/m2435.html
+
+========================================================================
+Rules referred to in this Judgement:
+
+Rule 1638/5 (Power=1)
+Announcing a Win
+
+      When one or more Win Conditions are true for a Player and no
+      Win-Preventing Conditions are, e is eligible to Win. Any Player
+      may then publish a Notice of Victory containing the following
+      information:
+
+        a) The fact that one or more Players are eligible to Win
+        b) The cause of the Win
+        c) The identity of every Player who is eligible to Win at
+           the time the message is sent
+
+      If and only if the information contained in the Notice of
+      Victory is accurate, the Player or Players who are identified
+      as being eligible to Win immediately Win the Game.
+
+
+Rule 112/3 (Power=3)
+Ways to Win and Preclusions Thereof
+
+      Ways for a Player to Win a Game may be defined by other Rules.
+      Also, ways to prevent a Player from Winning a Game may be
+      defined by other Rules. A Player Wins whenever a Win condition
+      defined by one or more of those Rules occurs for that Player,
+      provided that no Win-Preventing conditions are also occurring at
+      that time for that Player.
+
+
+Rule 1729/4 (Power=1)
+Insanity
+
+      An Interested Proposal is Insane, if it contains no minuscule
+         letter.
+      (That is the opposite of CAPITAL, for those who know not
+         better.)
+
+      For such a Proposal, until the Voting Period has ended:
+      there shall be no discussing Votes, or this Rule has been
+         bended.
+      Nor shall a Player Vote in public, only to Assessor.
+      The Votes shall be unknown to others, even employer and
+         professor.
+
+      And should a Player split eir votes 'tween FOR and
+          AGAINST like crazy,
+      E will annoy Assessors (who are known for being lazy)
+      So should eir votes cast differ from each other, this Rule's
+          broke,
+      With the breaker being the voting Player, as sure as if e'd
+          spoke.
+
+      And should such a Proposal's Voting Period begin,
+      but no one Votes FOR it, the Proposer shall Win.
+
+
+Rule 451/3 (Power=1)
+Determination of Judgement--Timing
+
+      When a Judge is considering eir Judgement of a Statement
+      contained in a CFJ, e shall make eir evaluation based on the
+      truth or falsity of the Statement at the time the CFJ was
+      issued.
+
+========================================================================

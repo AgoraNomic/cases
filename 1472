@@ -1,0 +1,141 @@
+==============================  CFJ 1472  ==============================
+
+    There is a Points Contest named Eris' Contest.
+
+========================================================================
+
+Caller:                                 root
+Barred:                                 G.
+Barred:                                 Murphy
+Barred:                                 Pakaran
+
+Judge:                                  RedKnight
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         07 Oct 2003 14:27:09 GMT
+Assigned to RedKnight:                  12 Oct 2003 00:31:07 GMT
+Judged TRUE by RedKnight:               17 Oct 2003 21:08:30 GMT
+
+========================================================================
+
+Judge RedKnight's Arguments:
+
+If you follow the chain of rules that govern this case, the resut is
+obvious.  R1533 (Application to Create an Organization) says that ACO's must
+be submitted to the Notary and, for that ACO to be valid, it must specify
+values for all the atributes an orgnization is required to have PLUS it must
+meet any other requirements imposed on it by other rules pertaing to its
+type of orgnization.
+
+A contest is a type of orgnization (R1987, Classes of Organizations) and
+R1446 (Contests) states "The ACO to create a Contest must be published to
+have effect."  This judge interprets this as a condition on the validity of
+a contest ACO.
+
+But what does it mean for something to be published?  R478 (Fora) answers
+this question; for something to be published it must be included as part of
+a public message.
+
+As this CFJ was called after the ACO of Eris' Contest, I judge CFJ 1472
+TRUE.
+As the publishing of the ACO of Eris' Contest was after the begining of the
+month of October, I judge CFJ 1473 FALSE.
+As Eris' Contest did not exist at the start of the month of October, R1990
+(Points Contests) clearly does not permit the awarding of points.  Therefore
+I judge CFJ 1474 TRUE.
+
+========================================================================
+
+Judge RedKnight's Evidence:
+
+Rule 1533/13 (Power=1)
+Application to Create an Organization
+
+      An Application to Create an Organization (ACO) shall be
+      submitted to the Notary.
+
+      To be valid, an ACO must specify all properties that an
+      Organization is required to have.  Other Rules may place further
+      conditions on the validity of ACOs for a specific Class of
+      Organization.
+
+      The effect of submitting a valid ACO is to create the
+      prospective Organization, with the Sponsor and signatories as
+      Foundors and initial Members.
+
+----------------------------------------------------------------------
+
+Rule 1987/2 (Power=1)
+Classes of Organizations
+
+      The following Classes of Organizations exist:
+
+        a) Contests.
+        b) Monasteries.
+
+----------------------------------------------------------------------
+
+Rule 1446/14 (Power=1)
+Contests
+
+      Each Contest is an Organization associated with an SLC
+      called its Regulations.  The Administrator for each Contest
+      is that Contest's Contestmaster, and the Players within
+      the Jurisdiction of its SLC, other than the Contestmaster,
+      are its Contestants.
+
+      Any Player is permitted to be a Contestant or a Contestmaster of
+      any Contest, unless that would conflict with that Contest's
+      Regulations, or the Rules. A Contest must have exactly one
+      Foundor, who becomes the Contest's initial Contestmaster.
+
+      The ACO to create a Contest must be published to have effect.
+
+      Each Contest has Mint Authority.
+
+----------------------------------------------------------------------
+
+Rule 1990/4 (Power=1)
+Points Contests
+
+      A Contest may be a Points Contest if its ACO specifically states
+      that it is a Points Contest.  A Player may not be the
+      Contestmaster of more than one Points Contest in a single Agoran
+      month.
+
+      The PLIMIT and PPP (Points Per Player) are as set in the
+      Scorekeepor's Budget.
+
+      Once during each month that starts while the Contest exists, a
+      Points Contest's Contestmaster may post a single valid Notice of
+      Award to the Public Forum, listing any number of the Contest's
+      Contestants, and a listing a positive number of Points to be
+      awarded to each Contestant on the list.  Different Contestants
+      may be awarded different numbers of points in the same
+      listing. The posting must obey all regulations for such posting
+      contained in the Contest's SLC to be valid.
+(snip)
+
+----------------------------------------------------------------------
+
+Rule 478/13 (Power=1)
+Fora
+
+(snip)
+      A message is not public unless some rule states that it is
+      public.  A message is public if it is sent via a Public forum,
+      or if it is sent to all players via a combination of fora and
+      contains a clear designation of intent to be public.
+
+
+      A player publishes information by publicly sending a message
+      containing that information, and announces something by
+      publishing it.
+
+(snip)
+
+========================================================================

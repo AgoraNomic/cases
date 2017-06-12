@@ -1,0 +1,131 @@
+==============================  CFJ 2737  ==============================
+
+    G. has cast an infinite number of votes on proposal 6581.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           17 Nov 2009 18:15:16 GMT
+Assigned to scshunt:                    28 Nov 2009 23:50:24 GMT
+scshunt recused:                        14 Dec 2009 17:10:17 GMT
+Assigned to omd:                        14 Dec 2009 17:14:10 GMT
+omd recused:                            08 Jan 2010 23:09:03 GMT
+Assigned to Murphy:                     08 Jan 2010 23:11:40 GMT
+Judged FALSE by Murphy:                 19 Jan 2010 09:22:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There are two conflicting ideas:
+
+1.  Performing an pragmatically-impossible number of actions by saying
+you do doesn't work.  [CFJ 1584 upheld in CFJs 1728 and 1962].
+
+2.  If a legal construct (e.g. rule or contract) creates a platonically
+infinite process that functions "instantaneously" without finite time
+delay when is triggered by a single (finite) event, it can in fact lead
+to an infinite result.  This was never subject to CFJ that I can find,
+but was accepted without argument at least once, circa 2005, when
+triggered by a rule change.  The rules read:
+(clause 1)
+  "Whenever the Hand Size of the Library is less than 5, the Library
+   gains one Pending Draw."
+(clause 2)
+  "The hand size of an entity equals the cards it holds plus its
+   Pending Draws".
+Initially, (clause 2) limited the effects of (clause 1).   Due to a
+rules refactor, "plus its pending draws" was deleted from (clause 2),
+so as soon as the hand size of the library was less than 5, the
+"whenever" was satisfied constantly, instantaneously and continuously
+and so pending draws were continuously added (i.e. for any finite number
+of draws added, you could say that one more had been added).  It was
+"generally agreed" that the Library had gained an infinite number of
+pending draws (which were then canceled by the proposal that fixed
+clause 2).
+
+If the judge requests it, I can dig up the proposals and rules for the
+above card situation if there are not enough details listed here.
+
+If the pledge above doesn't work on a technicality, the judge is asked
+to opine on whether there is a slightly-modified version (for example
+if I made a contract with another person to trigger the process) that
+would work.
+
+========================================================================
+
+Caller's Evidence:
+
+[Triggering pledge and action].
+> I pledge the following:
+>
+>  Whenever I state that I zinf a decision to adopt a proposal in its voting
+>  period, it means that I cast one vote FOR the indicated decision and
+>  immediately thereafter zinf that decision.  I CAN terminate this pledge
+>  by announcement.
+>
+> I zinf the decision to adopt proposal 6581.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The following permutation of my attempt is in the category of "technical
+variations" of my attempted actions that I asked the judge to consider:
+
+c. wrote:
+> Hmm, but this is just a definition, and definitions in contracts are
+> just shorthand for writing the whole thing out-- which you (probably)
+> couldn't do in this case, so it doesn't work.
+>
+> Well, *most* definitions in contracts.
+>
+> I agree to the following:
+> {
+> This is a public contract and a pledge.
+>
+> Finzing a proposal is an action which consists of voting FOR the
+> decision to adopt it, then acting on behalf of comex to finz the same
+> proposal.
+> }
+>
+> I finz proposal 6581.
+>
+> See Rule 2263:
+>
+> ...   (c) performing by announcement an action defined in a public
+>          contract's text to (clearly and unambiguously) include
+>          causing the grantor to perform a specific action (the
+>          message states the grantor performs the action)
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+These ideas are not contradictory.  Platonic effects can be
+infinite (idea #2), but actions cannot (idea #1).  This statement
+pertains to an attempt at infinite actions, so #1 is relevant.
+
+As requested, I opine that the concept of infinite actions is
+sufficiently at odds with the ordinary-language concept of actions
+that it can only be enabled by a rule explicitly stating that some
+finite action is legally equivalent to infinite actions; attempting
+to set up an induction chain via 2263(c) is not explicit enough.
+
+========================================================================

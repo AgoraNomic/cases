@@ -1,0 +1,43 @@
+==============================  CFJ 3242  ==============================
+
+    🎩❓
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              MALFORMED
+
+========================================================================
+
+History:
+
+Called by omd:                          05 Jul 2012 03:11:39 GMT
+Assigned to ais523:                     06 Jul 2012 13:43:52 GMT
+Judged MALFORMED by ais523:             09 Jul 2012 23:32:26 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Jul 4, 2012 at 7:51 PM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+> Diamonds. I ♦ Agora forever.
+>
+> —Machiavelli
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Regardless of whether the message has the right form to initiate a CFJ
+or not (I think it might do, the effort required to decode it is not too
+extreme), it doesn't contain a statement (the characters that appear
+after the colon cannot reasonably be parsed as a statement).
+
+As such, I judge CFJ 3243 FALSE. CFJ 3242 doesn't exist, but just in
+case, I attempt to judge it MALFORMED (and note that it's impossible to
+actually correctly judge a CFJ MALFORMED, as all CFJs for which it's
+appropriate don't exist).
+
+========================================================================

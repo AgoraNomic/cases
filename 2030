@@ -1,0 +1,114 @@
+==============================  CFJ 2030  ==============================
+
+    It is possible for ehird to cause woggle to vote by announcing 'On
+    behalf of woggle: woggle retracts eir votes on proposal 5568 and
+    votes AGAINST x 6 on proposal 5568'.
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by woggle:                       23 Jun 2008 05:53:50 GMT
+Assigned to ais523:                     24 Jun 2008 08:19:44 GMT
+Judged FALSE by ais523:                 24 Jun 2008 17:31:51 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See also CFJ 1941, CFJ 1832-5.
+
+I reccommend FALSE.
+
+As the authority for contracts to grant acting-on-behalf of authority
+(excepting the contracts of non-first-class persons) is game custom only, it
+is probably in the best interests of the game if ambiguous attempts at
+granting such authority were entirely ineffective. Given the incredible power
+of this authority and its lack of basis in the rules, it is better to eir on
+the side of clear player intention in determining whether the actions in
+question are authorized.
+
+I note that the hypothetical announcement definitely unambiguously specifies
+the action, so meets R2208 requirements in spite of the lack of clairty over
+whether ehird would be authorized to perform said action.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following: {
+-1. This is a pledge and public contract known as the 'Magical Gnarly
+Contract'.
+0. woggle CAN terminate or amend this pledge by announcement.
+1. Paradox is a switch-like property of woggle, which can only be changed as
+described in this contract and has no recordkeeper.
+2. The possible values of Paradox are Off (default), Magic, and More Magic.
+3. woggle CAN flip eir Paradox to any possible value by announcement.
+4a. If woggle's Paradox is Magic it automatically becomes More Magic.
+4b. If woggle's Paradox is More Magic, it automatically becomes Magic.
+5. Any player CAN act on woggle's behalf to cast or retract votes on proposal
+5568 while woggle's Paradox is More Magic.
+}
+
+[Yes, I know this is suspiciously similar to someone else's contract.]
+
+I flip my Paradox to Magic.
+
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge FALSE. woggle is as far as I can tell not a Monster, and anyway
+ehird is not the Mad Scientist, so there appear to be no rules governing
+this situation, apart from rule 217. As far as I can tell, game custom is
+that actions on behalf of other players are possible if a contract binding
+on the player who is acted on behalf of allows it, and there is judicial
+precedent in this regard; however, game custom is also that actions fail if
+they are unclear. In this case it is unclear whether the contract purports
+to allow ehird to be able to act on behalf of woggle at all; therefore, the
+contract does not have this effect (acting on behalf is not a rule-defined
+action except in the case of acting on behalf of a Monster, Agora, or the
+Speaker, and so per rule 217 custom and the interests of the game determine
+whether it is legal).
+
+There is one point that I haven't considered so far, which is whether rule
+101 allows anyone to act on behalf of everyone else because the rules don't
+regulate it (or likewise, whether acting on behalf is impossible in general
+because the Mad Scientist can act on behalf of the Monster). The reason I
+haven't considered this is simply because it would be against the best
+interests of the game in the one hand (immediately after this judgement,
+I'll attempt a scam which I expect to fail, to prove empirically that rule
+101 does not allow anyone to act on behalf of anyone else), or against
+precedent of CFJs (which I defer to) on the other hand (and also the other
+possible belief would invalidate all actions ever taken by partnerships,
+causing massive gamestate recalculation). Actually, it would be kind-of fun
+to rule that acting on behalf is impossible and no partnership ever existed
+and the rules do kind of support this in a way (because the Mad Scientist
+can act on behalf of the Monster, thus preventing acting on behalf in any
+other situation based on one possible reading of the rules), but I find
+that there is sufficient inclarity in the situation for rule 217 to take
+precedence, and thus I rule that acting on behalf of another player is
+possible if and only if that player is bound by a contract specifically and
+unambiguously allowing it.
+
+========================================================================
+
+Judge ais523's Evidence:
+
+I act on behalf of each other player of Agora (that is, all players except
+me) to cause each such player to agree to the following: {{All players SHALL
+act as though ais523 had the Patent Title of Puppetmaster. }} (Note that I
+believe this to be ineffective, I'm just doing it to demonstrate that it
+fails, and encouraging players to think about why that is. The argument for
+saying that it works, which I don't agree with, is to say that acting on
+behalf isn't regulated and therefore any player can do it.)
+
+========================================================================

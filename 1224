@@ -1,0 +1,128 @@
+==============================  CFJ 1224  ==============================
+
+    Elysions's message of 11 April 2000, reading in part, 'The Bank pays
+    all its outstanding IAT POs (50 to Michael and 75 to Chuck)', did
+    not have the effect of executing a Transfer Order which would
+    satisfy the Payment Order executed by lee in eir message dated 11
+    March 2000, reading in part, 'I order the Bank to pay Murphy 130
+    IATs.'
+
+========================================================================
+
+Caller:                                 Kelly
+
+Judge:                                  Sherlock
+Judgement:                              
+
+
+Judge:                                  Chuck
+Judgement:                              TRUE
+
+Appeal:                                 1224a
+Decision:                               REVERSE
+
+========================================================================
+
+History:
+
+Called by Kelly:                        26 May 2000 21:04:33 GMT
+Assigned to Sherlock:                   29 May 2000 10:06:10 GMT
+Sherlock recused:                       08 Jun 2000 18:13:54 GMT
+Assigned to Chuck:                      09 Jun 2000 12:52:44 GMT
+Judged TRUE by Chuck:                   15 Jun 2000 16:14:15 GMT
+Appealed by Wes:                        15 Jun 2000 18:03:41 GMT
+Appealed by Crito:                      15 Jun 2000 18:06:44 GMT
+Appealed by Steve:                      16 Jun 2000 00:10:34 GMT
+Appeal 1224a:                           16 Jun 2000 00:10:34 GMT
+REVERSED on Appeal:                     23 Jun 2000 12:56:48 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Payroll Clerk lee's message was delayed two and a half months by a
+malfunction in the mail server which services one of the Public Fora.
+As a result, this message, while sent on March 11, was not generally
+received by the Players until May 23.  Elysion, however, has claimed
+that eir message, dated April 11, a month and a half before any Player
+other than lee was aware of this Order, had the effect of executing a
+Transfer Order for a Payment Order of which e had no knowledge.  If
+Elsyion is correct, e is claiming to have executed a Transfer Order
+without knowing that e had done so, and in fact did not realize that e
+had done so until some time after May 23, when lee's Payment Order was
+distributed to the Players.  Elysion's message parenthetically listed
+the POs to be paid; there is no mention of lee's PO to be paid to
+Murphy.  It seems clear that Elysion had no intention that eir message
+was intended to satisfy this wayward Payment Order.
+
+It stretches credibility to the extreme to believe that this
+constitutes a Transfer Order as required by Rule 1598.  A Transfer
+Order must specify a source entity, a destination entity, a Currency,
+and some number of units.  While it has been held that these can be
+specified implicitly, this situation takes "implicitly" too far.  At
+the time this message was sent, the only person who was even possibly
+aware that this Order existed was lee, and I suspect that even lee had
+forgotten about it.  If this message specifies a Transfer Order with
+deferred specification, then it should also be legal for a Player to
+state "I execute a Transfer Order, for an amount of Currency to be
+named later, to an entity to be named later" and then name the amount
+and payee at some future time.  I do not think that anyone will accept
+this as a valid specification of a Transfer Order -- and neither
+should we accept Elysion's specification as a valid specification of a
+Transfer Order, either.
+
+I request that this CFJ be known as the "Case of the Wayward Payment
+Order".
+
+========================================================================
+
+Judge Chuck's Arguments:
+
+In discussions on this issue, both Kelly and Elysion make the assumption
+that the Payment Order in question cam into existence when it was sent.
+However, this assumption is worth questioning.
+
+Rule 1793 states, "An Order is a command, executed by a Player..."
+That is, a collection of text which could potentially be an Order
+must be "executed" for it to actually be an Order.  A command which
+is not executed is not an Order.
+
+What does it mean for a command to be executed?  The term is not defined
+in the Rules.  Where there is a significant delay between the time the
+command is sent, and the time when it is received, at which time was
+the command executed?  The Rules provide no guidance on this issue, nor
+does the m-w.com definition of "execute," which defines it as "to
+carry out fully : put completely into effect."  Even with this
+definition of "execute", a case for either interpretation could be
+made.
+
+I find that it is not in the best interests of the game to require
+a Player to abide by a command which e has not received.  A command
+is not "executed" if it has not been received by the Player required
+to abide by it.  Thus, the command for the Bank to pay Murphy 130 IATs
+did not become a Payment Order until it was received by the Bank's
+Executor on May 23.
+
+Since the Payment Order did not exist as such on April 11, Elysion's
+message of that date that the Bank paid its outstanding IAT POs
+naturally did not satisfy that Payment Order.  I find the statement
+to be TRUE.
+
+On an additional note, I would remind readers that the principle
+that a Player can not be required to abide by an Order which e
+has not received is based on the best interests of the game, and
+thus applies *only* when the Rules are unclear.  Note that Rule
+1793 also provides that when the holder of an Office changes,
+and an unfulfilled Order is directed at that Office, the responsibility
+to abide by that Order attaches to the new holder of the Office.
+One might imagine a case where an Order is delivered privately
+to the holder of an Office, and is received by em (thus the Order
+is already properly executed), and then the Officer changes, with
+the new Officer being unaware of the Order.  In this case, R1793
+is quite clear that the responsibility dicated by the Order transfers
+to the new Officer.  Although it may be highly undesirable that
+the Officer is required to abide by an Order of which e is unaware,
+R1793 is quite clear on the matter, and thus my argument from
+the best interests of the game cannot be applied in such a case.
+
+========================================================================

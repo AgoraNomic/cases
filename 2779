@@ -1,0 +1,221 @@
+==============================  CFJ 2779  ==============================
+
+    On or about 22-Mar 2010, CFJ 2777 was  assigned to G.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Taral
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           31 Mar 2010 17:46:38 GMT
+Assigned to omd:                        08 Apr 2010 13:33:46 GMT
+Judged TRUE by omd:                     09 Apr 2010 16:17:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+>From March 14 to March 21, the agora-business public forum was not sending
+messages; in other words it was not possible to send a message "via" that
+forum during that time.  During that time, public messages were sent via
+the BAK list.  On March 21 the agora-business list began to forward messages
+again, but at least one person, including G., were accidentally unsubscribed
+from the list without their knowledge.  Within about a day of this occurring,
+a message was sent by the CotC to agora-business, assigning the above case
+to G.  The message was sent "via" agora-business to at least a subset of
+players, but not all (and not G.).  Was this message a Public Announcement?
+
+On one hand, for at least 24 hours after BAK generally went silent (which
+includes the time the CFJ message was sent), G. had absolutely no reason
+to believe that anything was wrong; a day or two of silence in the fora
+is infrequent but not unheard of.  So G. had made every reasonable effort
+to ensure e received messages, yet could not do so.  In addition, the fact
+that G.'s loss-of-account meant e couldn't log into the archives simply
+added to the illusion; it made it seem that "the site was still in transit
+and deactivated" and that if anyone wanted to send a message, they would
+be using BAK.
+
+After time (say, after a few days) it becomes reasonable to expect G. would
+become suspicious, and it would be reasonable to expect em to make an
+effort to ensure e could receive messages by emailing the distributor,
+or asking via BAK what was up.  As it happens, e started to wonder what
+was up around March 24-25, but didn't really worry about acting on it
+until Taral's message on March 27 [see evidence].  But for at least a
+couple days, including the time of the message, it would be unreasonable
+to expect em to act.  This suggests (either via R101 rights or R478) that
+the message wasn't sent "via" the public forum at all.
+
+On the other hand, G. was able to read the message within a certain
+amount of time (by trivial resubscription after learning of the problem),
+which in this case was barely enough time to avoid lateness penalties
+for judging.  However, consider:  if it's held that being unable to
+read messages "for a few days" doesn't deprive rights as long as it's
+fixed afterwards, what happens to a scam depending on a delay in
+informing others of a Without Objection announcement?  {see CFJ 1905
+for the importance of determining whether a message was sent "via"
+a forum versus just "to" a forum.)
+
+I'm honestly not sure where the good of the game lies in this case.
+De-publicing a forum due to a technical glitch that might not always
+be detectable isn't desirable; but neither is allowing a delay of 3+
+days between message sending and being capable of being informed of
+its existence.
+
+========================================================================
+
+Caller's Evidence:
+
+Private message from Taral to G.:
+Date: Sat, 27 Mar 2010 17:50:26 -0700
+From: Taral
+To: G.
+Subject: Agora mail
+
+u.washingston.edu thinks that my mail host isn't allowed to send mail
+-- in the mean time, be warned that you might miss some things. :)
+
+
+Message from Taral to BAK:
+Date: Sat, 27 Mar 2010 18:00:31 -0700
+From: Taral
+To: Agora Nomic Backup List
+Subject: BAK: Mail warning
+
+I didn't update the SPF records when the mail server moved. So... some
+people have been unsubscribed due to bounces. It's fixed, but will
+take a few hours to propagate.
+
+
+Rule 101/13 (Power=3)
+The Rights of Agorans
+
+      WHEREAS Agora, since its inception, has functioned not only as a
+      game but as a society, and WHEREAS a society, to function, must
+      balance its Rules with the natural rights of its participants,
+      BE IT HEREBY PROCLAIMED that no interpretation of Agoran law or
+      binding agreement may substantially limit or remove a person's
+      rights as defined by this Rule, except through the explicit and
+      legal amendment of this Rule.  This rule takes precedence over
+      any rule which would allow or mandate restrictions of the rights
+      contained herein.
+
+         i. Every person has the right, though not necessarily the
+            ability, to perform actions that are not prohibited or
+            regulated by the Rules, with the sole exception of
+            changing the Rules, which is permitted only when the Rules
+            explicitly or implicitly permit it.
+
+        ii. Every person has the right to initiate a formal process to
+            resolve matters of controversy, in the reasonable
+            expectation that the controversy will thereby be resolved.
+            Every person has the right to cause formal reconsideration
+            of any judicial determination that e should be punished.
+
+       iii. Every person has the right to refuse to become party to
+            a binding agreement.  The absence of a person's explicit,
+            willful consent shall be considered a refusal.
+
+        iv. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, or a Rule
+            Change, which e has not had the reasonable opportunity to
+            review.  For the purpose of protecting this right, a rule
+            change which would otherwise take effect without its
+            substance being subject to general player review through a
+            reasonably public process is wholly prevented from taking
+            effect.
+
+         v. Every player has the right of participation in the fora.
+
+        vi. Every person has the right to not be penalized more than
+            once for any single action or inaction.  However, this
+            right is not violated by replacing part or all of a
+            penalty with a different but comparable penalty, e.g. when
+            the rules governing penalties are amended.
+
+       vii. Every player has the right to deregister; e may continue
+            to accrue obligations and penalties after deregistration
+            but, if e wishes to ignore the game, such penalties shall
+            not unduly harass em.
+
+      Please treat Agora right good forever.
+
+
+Rule 478/27 (Power=3)
+Fora
+
+      Freedom of speech being essential for the healthy functioning of
+      any non-Imperial nomic, it is hereby resolved that no Player
+      shall be prohibited from participating in the Fora.
+
+      Publicity is a forum switch with values Public, Discussion, and
+      Foreign (default), tracked by the Registrar.
+
+      The Registrar's report includes, for each forum with non-Foreign
+      publicity, sufficient instructions for players to receive
+      messages there.
+
+      The Registrar may change the publicity of a forum without
+      objection as long as:
+
+      (a) e sends eir announcement of intent to that forum; and
+
+      (b) if the forum is to be made public, the announcement by which
+          the Registrar makes that forum public is sent to all
+          existing public fora.
+
+      Each active player should ensure e can receive messages via each
+      public forum.
+
+      A public message is a message sent via a public forum, or sent
+      to all players and containing a clear designation of intent to
+      be public.  A person "publishes" or "announces" something by
+      sending a public message.
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.  Any action performed by sending a message is performed at
+      the time date-stamped on that message.
+
+========================================================================
+
+Judge omd's Arguments:
+
+While the message loss violated G.'s right to participate in the
+fora-- as e could not be reasonably expected to realize that e was not
+receiving messages-- invalidating or delaying the messages sent in the
+interim would violate the right of all other players to participate in
+the fora-- as they could not be reasonably expected to realize that
+they were not successfully sending messages!  Accordingly, there are
+no absolutes: while, if G.'s rights were the only ones involved, Rule
+101 would force them to be respected, no matter how much the resulting
+interpretation contradicts common sense and the best interests of the
+game, here there are multiple conflicting rights and Rule 101 does not
+specifically state which ones win.  Thus we can consider which
+interpretation is in the best interests in the game.
+
+Retroactive changes suck, and while, on one hand, the circumstance of
+message loss is naturally time limited for most players-- and thus
+limited in the potential damage to free speech-- on the other hand,
+message loss might easily occur for a new player who is not as well
+aquainted with the volume of traffic on the lists, causing messages to
+be unsendable, potentially for a long time, without any reasonable way
+for the players to notice or correct the error.
+
+If there was any sign Taral had intentionally denied G. access to the
+lists, the balance of rights would be far different, but here, it's in
+the best interests of the game that all messages involved are
+considered to have been sent when they reached the majority of
+players.
+
+Of course, if there were any deadline violations involved, G. would be
+not guilty/excused.
+
+========================================================================

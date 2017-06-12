@@ -1,0 +1,79 @@
+==============================  CFJ 2807  ==============================
+
+    I registered in the quoted message
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        26 Jun 2010 20:13:39 GMT
+Assigned to ais523:                     27 Jun 2010 17:35:19 GMT
+Judged FALSE by ais523:                 27 Jun 2010 18:13:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I intended to register when composing the above message, not realising
+that I was already registered, and I think that intent is conveyed
+clearly enough in this message to satisfy R869. I am obviously a
+first-class person, so it seems to me that I must have been
+registered, despite already being a player. However, according to
+R869:
+
+     The verb "to be registered" means to become a player (i.e., to
+     have one's citizenship changed from Unregistered to Registered),
+
+My citizenship cannot have been changed from Unregistered to
+Registered, because it was not Unregistered to start with. Yet the
+rules explicitly state that I can and did register.
+
+Although I'm not entirely sure what that message did, I'm pretty sure
+the outcome is that everything is the same as before I posted that
+message.
+
+========================================================================
+
+Caller's Evidence:
+
+On 26 June 2010 21:12, Elliott Hird <penguinofthegods@gmail.com> wrote:
+> I assume the office of Mary; and prior to doing so, Godot registers.
+>
+> Godot is me, as of before the previous line.
+>
+> As of this line, however, Godot is not me. Godot must therefore be waited
+for.
+>
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Rule 869's definition of registration in paragraph 2
+("to have one's citizenship changed from Unregistered to Registered")
+is sufficient to trigger the exception clause in paragraph 3 ("unless
+explicitly ... prevented by the rules").
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2807 FALSE. In order to "become" a player, ehird would have
+to not be a player at the time; thus, an intention to register whilst
+already a player would have to include an implicit intention to
+deregister in order to work. There clearly isn't enough evidence to read
+the interpretation "I deregister and register again" into ehird's
+message, especially as such an action would be impossible due to the
+cooldown period; thus, ehird's intent to become a player failed due to
+the gamestate not being one in which e could become a player (just like
+you can't transfer away an asset you don't have) and the next-best
+interpretation making substantially less sense.
+
+========================================================================

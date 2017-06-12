@@ -1,0 +1,85 @@
+=============================  CFJ 3458  =============================
+
+      The above-quoted message is a claim of error.      
+
+======================================================================
+
+Caller:                      ais523                    
+
+Judge:                       Sprocklem           
+Judgement:                   FALSE           
+
+======================================================================
+
+History:
+
+Called by ais523:            04 Feb 2016
+Assigned to Sprocklem:       09 Sep 2016
+Judged FALSE be Sprocklem:   13 Oct 2016
+
+======================================================================
+
+Caller's Arguments:
+
+           We define a claim of error as a method of challenging a
+self-ratifying report, but we don't have any definition of what a claim
+of error actually /is/. The message seems to fit the English definition
+of the words in question.
+
+The rules additionally require an "explicit public challenge" to prevent
+self-ratification. It's unclear whether this is part of the definition
+of a claim of error, or whether something can be a claim of error but
+implicitly so that it doesn't prevent self-ratification, or whether
+clearly being a claim of error is explicit enough to count. (I suspect
+the message in question isn't explicit enough to count. I also, however,
+have no problems with it self-ratifying, assuming it's accurate.)
+
+======================================================================
+
+Caller's Evidence:
+
+[Arbitor note:  this is the "above quoted message"]
+
+On Wed, 2016-02-03 at 16:55 -0500, Henri Bouchard wrote:
+> I intend to deputise for Registrar in two days. Ignore the Registrar's
+> Report I just published. It is invalid because the office is filled.
+
+======================================================================
+
+Judge's Arguments:
+
+The caller's arguments, available in the link above, also discuss how
+this effects the documents self-ratification, which requires an
+"explicit public challenge" and, in doing so, present a couple of
+possibilities:
+    * The message is not a claim of error;
+    * The message is a CoE, but not an explicit public challenge;
+    * the message is a CoE, and is an explicit public challenge.
+
+The second case implies that it is possible to implicitly make a claim
+of error, in a manner that doesn't challenge self-ratification. The Rule
+2201 reads "A doubt is an explicit public challenge via one of the
+following methods...", which to my reading implies that each of the
+following methods (including a claim of error), is always an explicit
+public challenge. Additionally, while the action in question is pretty
+harmless, the ability for an report to self-ratify after the publishing
+has been shown to be an error, seems uncomfortable, if not scammable.
+
+As far as the first case goes, insofar as I can remember, claims of
+error have always been explicit. This has the advantage of making claims
+of error easy to recognise, so the publisher can republish as
+appropriate. In practice the only consequence of this option is that a
+probably-correct ruleset was unexpectedly ratified (but was later
+replaced anyways). In the future, people will just continue to be
+explicit about what is a point of error.
+
+On the other hand, I think the phrasing of the message in question makes
+it pretty clear that the publishing of the document was in error and the
+document should not be taken as fact. The downside to this third option
+is that a claim of error could become more easier to miss.
+
+Ultimately, I think that the (past) inconvenience of the one time
+ratification of a probably-correct ruleset is dwarfed by the ease of
+detectability of requiring more explicit CoEs.
+
+======================================================================

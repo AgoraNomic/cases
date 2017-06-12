@@ -1,0 +1,118 @@
+======================================================================
+                               CFJ 873
+
+"Rule 833 should be interpreted to mean that if a Proposal receives
+ exactly one more Vote FOR than AGAINST, or exactly one more Vote
+ AGAINST than FOR, and the Assessor Voted on that Proposal and did not
+ abstain, then the Assessor's Vote does not count toward determining
+ the F-A award or penalty for that Proposal."
+ 
+======================================================================
+
+Judge:       Andre
+
+Judgement:   FALSE
+
+Eligible:    Andre, Chuck, elJefe, favor, Jtael, KoJen, Michael, 
+             Murphy, Oerjan, Steve, Swann, Vanyel, Zefram
+
+Not eligible: 
+Caller:      Morendil
+Barred:      Kelly
+On hold:     
+
+======================================================================
+
+History:
+  Called by Morendil, Mon, 3 Jun 1996 23:23:24 +0100
+  Assigned to Andre, Tue, 4 Jun 96 9:32:39 GMT
+  Judged by Andre, Fri, 7 Jun 96 14:06:45 METDST
+  Judgement delivered, Fri, 7 Jun 96 14:17:07 GMT
+
+======================================================================
+Judge's verdict and arguments:
+
+At first I wanted to decline this Judgement, my redenation being
+something like this:
+
+I agree with the Caller that, in absence of any evidence of the
+contrary under the rules, a 'tie-breaking vote' is a vote breaking a
+tie. However, this does not NECESSARILY lead to the statement in the
+CFJ. The problem is with the word 'tie'. There are 2 possible
+readings, neither of which is wrong at first sight:
+
+ 1. tie === equality
+According to this definition, the votes are tied, when there are as
+many votes for as against.
+
+ 2. tie === undecided
+According to this definition, the votes are tied, when the proposal,
+does clearly pass nor clearly fail.
+
+The rules do not give a clear decision, so we turn to (rule 217) "game
+custom, commonsense, past Judgements, and the best interests of the
+game." I don't think there are past Judgements on this subject, and
+the importance of the matter is not big enough to let the interests of
+the game be the main criterion. The other 2 both could lead to both
+interpretations:
+
+ 1. Game custom or commonsense say, that, if possible, a reading
+should be given that gives a certain rule or part of a rule, some
+meaning. The given Paragraph of Rule 833 has a real meaning under
+interpretation 1, but not under interpretation 2, which makes
+interpretation 1 more natural.
+
+ 2. But, they also say, that, if possible, meanings of Game Terms
+change as little as possible when something is changed. Especially,
+the removal of the 'real' Tiebreaking vote from the ruleset should not
+change the meaning of the word 'Tie'. Before this rulechange on a
+Proposal with AI=3 a Tie was reached when there was exactly a 3:1
+majority in favour of the Proposal.  Which is consistent with
+interpretation 2, but not with interpretation 1.
+
+To me, then, the fight between the 2 meanings is still tied (pun
+intended), and the tie-breaker, IMO, should be found within the
+meaning of the word in everyday English. And that's where I would have
+declined, to leave the question to some native Speaker. I think I
+would have, at least.
+
+However, then I was notified of the fact that elJefe had found the
+Statement trivially FALSE. If namely the Assessor has voted AGAINST a
+Proposal with exactly one more Vote FOR than AGAINST, that vote cannot
+be called tie-breaking, whichever way one stretches the word
+'tie'. Which makes the CFJ as stated trivially FALSE.
+
+This all causes the following actions:
+
+ 1. I judge this CFJ FALSE
+ 2. I make myself ineligible for CFJ 874. (CotC, take note!)
+
+======================================================================
+(Caller's) Arguments:
+
+I will use the instance I recently pointed out as an example :
+
+(From the Assessor's Report)
+2610  Antivirus                               FAILS 5-6 (1)
+F-A :  -1
+
+I note that if not for the Assessor's Vote, the Vote on this Proposal
+would have been a 5-5 tie.
+
+I therefore claim that the following in Rule 833 applies :
+
+---
+Rule 833/4 (Mutable, MI=1)
+Reward or Penalty for Proposing
+
+.../...
+      For the purpose of this Rule, Votes by Voting Entities which are
+      not Players do not count, nor does any tiebreaking Vote cast by
+      the Assessor.
+---
+
+Since no other Rule defines what a 'tiebreaking Vote cast by the
+Assessor' is any longer, I submit that this should be taken to have
+its usual meaning, that is, a Vote which breaks a tie.
+
+======================================================================

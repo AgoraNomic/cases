@@ -1,0 +1,136 @@
+==============================  CFJ 3209  ==============================
+
+    scshunt won the game in the above quoted message.
+
+========================================================================
+
+Caller:                                 Yally
+Barred:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Yally:                        13 May 2012 05:32:24 GMT
+Assigned to G.:                         26 May 2012 01:56:50 GMT
+Judged TRUE by G.:                      06 Jun 2012 16:32:33 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, May 13, 2012 at 1:09 AM, ais523 <callforjudgement@yahoo.co.uk>wrote:
+
+> On Sun, 2012-05-13 at 01:04 -0400, Sean Hunt wrote:
+> > On Sun, May 13, 2012 at 12:44 AM, omd <c.ome.xk@gmail.com> wrote:
+> > > I transfer 1 ruble to my Speaker Account.
+> > >
+> > > I cause the President to flip the Speed to Fast.
+> > >
+> >
+> > Oh, that passed.
+> >
+> > I transfer 2 rubles to my Speaker Account.
+> >
+> > I cause the President to create a promise with the following text: { I
+> > deregister. }
+> >
+> > I cause the President to transfer the aforementioned promise to me.
+> >
+> > I cash the aforementioned promise.
+> >
+> > The following is a Victory Announcement: I satisfied the Winning
+> > Condition of Anarchy in this message.
+>
+> Doesn't this cause the President to win, rather than you?
+>
+> --
+> ais523
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+R2344 says:
+      If a player causes the President to cease to be a player, then
+      that player satisfies the Victory Condition of Anarchy.
+
+Nowhere does the rule require direct causation. There is also no other
+use of the word 'cause' in the rules which can be attributed
+similarly, except perhaps in the definition of Executor and in the
+rule indicating that players SHOULD NOT cause Heroic Titles to be
+revoked. While the word 'cause' is also used in the action sense of 'I
+cause X to do Y', I believe that this is a different sense of the word
+and, since 'cause' is not specifically defined in this context, should
+take a more broad definition than that specifically used in certain
+circumstances in the Ruleset.
+
+Thus it was ultimately my sequence of actions which caused the
+President's actions (and surely there can be no dispute that I caused
+the President to create the promise, the key event underpinning the
+victory) and eir ultimate deregistration. Accordingly, I believe that
+I am to be accorded the win.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, I'll tackle the "trivial" objection to this case.
+
+Yally raised this case questioning "the above quoted message".  There
+are actually several quoted messages, nested.  Full details, including
+timestamps, are included in each sub-message, so any of them could be
+the "questioned document", including the Victory Announcement.  The
+question is, did e include sufficient context to target the victory
+announcement as what, among the nested quotes, e was explicitly
+questioning?
+
+Zefram, in CFJ 1690, found that "explicitly identifying the document" to
+halt a self-ratification must fundamentally identify the matter at hand,
+and gives examples, such as "Proposal 6000 was rejected".  I find that
+Yally, by including "won the game" in eir CFJ, successfully identifies
+the component sub-message (e.g. the proper quoted message) with
+reasonable context to halt the self-ratification of the win
+announcement.
+
+I'll also note that it is for the good of the game to err (a little) on
+the side of halting self-ratification, not that I believe this does so.
+
+Now, the tricky part.
+
+"Cause" is used in the ruleset in many contexts.  In most places, it
+it identifies players as causal agents; but in some cases the causes are
+more autonomous:  "Any ambiguity in the specification of a rule change
+causes that change to be void..."  In reality, a result or situation
+is the sum of many causes.  In CFJ 1890, I attempted to sort through
+some of this ambiguity by Aristotelean means, setting aside formal
+or material causes (e.g. the fact that the ruleset exists in a
+particular form, or the fact that electrons moved through a wire).  The
+final result of CFJ 1890 is that, in Agora, we should assume causality
+rests with the closest immediate "final" cause; that is, the most
+immediate (real, first-class) person who sends a message.  In other
+words, unless the ruleset explicitly says otherwise, the Executor of a
+message (R2170) is the most immediate "cause" of that message's effects.
+
+In the current case, it becomes more complicated due to the Promise
+mechanism.  The Victory Condition reads "If a player causes the
+President to cease to be a player..." and (leaving aside the creation
+and existence of the promise as a material effect) the chain of events
+is scshunt message "causes" President's message to be published which
+"causes" deregistration.
+
+Once again, there are multiple causal agents.  BUT.  Here, I interpret
+that the existence of "executor" language in R2170, as well as the
+precedent of CFJ 1890, leads us to classify The President's promise and
+resulting message as a material or formal cause (a construct of the
+ruleset), and say (as does scshunt in eir gratuitous arguments) that
+the most pressing and immediate cause here is scshunt's message, as
+caused ("final cause") by scshunt.
+
+Therefore, scshunt won the game by causing the president to cease to be
+a player.  TRUE.
+
+========================================================================

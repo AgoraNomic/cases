@@ -1,0 +1,130 @@
+=============================  CFJ 3482  =============================
+
+      Repealed Rule 2469 (Dictatorship) is an Instrument with Power-3.
+
+======================================================================
+
+Caller:                      G.                                 
+
+Judge:                       o           
+Judgement:                   FALSE           
+
+======================================================================
+
+History:
+
+Called by G.:                3 May 2017
+Assigned to Murphy:          4 May 2017
+Murphy Recused:             19 May 2017
+Assigned to o:              19 May 2017
+Judged FALSE by o:          22 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+It's ALSO interesting that Repealing a rule doesn't explicitly remove 
+its power.  It ceases to be a Rule, but does it continue to be an 
+Instrument with some kind of power?  So a re-enacted rule would come 
+in with the power it had when repealed, by default?  Likely not, but 
+it's a possibility.
+
+The more I think about this last part, the more it concerns me.  In 
+particular, in our old ruleset, with "definition and continuity of 
+entities", repealing a rule would make it cease to exist (thus, it 
+would automatically be removed of power).  Even without that ceasing-
+to-exist defined, it's part of judicial precedent, so that's probably 
+what happens if you only read R105(b).
+
+HOWEVER.  Once the language for "re-enact" was added in R105(c), it 
+implicitly created a new category of thing:  the "repealed rule".  
+This is clearly not a Rule, but it is now a tracked thing, in spite of
+the 'no-tracking' provision in R105(b) - it has tracked ID and text in
+case the rulekeepor needs to re-enact it with its "same text".  And 
+this tracked thing NEVER HAD ITS POWER REMOVED.  It just got moved 
+from the "rule" to the "repealed rule" category of thing.
+
+======================================================================
+
+Caller's Evidence:
+
+- Rule 2469 was repealed by Proposal 7839 (17-Jan-2017).
+
+Rule 105/12 (Power=3)
+Rule Changes
+
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
+
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
+          defaulting to one if the enacting instrument does not
+          specify or if it specifies a power less than 0.1, and the
+          maximum power permitted by other rules.  The enacting
+          instrument may specify a title for the new rule, which if
+          present shall prevail.  The ID number of the new rule cannot
+          be specified by the enacting instrument; any attempt to so
+          specify is null and void.
+
+      (b) repeal a rule.  When a rule is repealed, it ceases to be a
+          rule, and the Rulekeepor need no longer maintain a record
+          of it.
+
+      (c) reenact a rule.  A repealed rule identified by its most
+          recent rule number may be reenacted with the same ID number
+          and the next change identifier.  If no text is specified,
+          the rule is reenacted with the same text it had when it was
+          most recently repealed.  If the reenacting proposal provides
+          new text for the rule, the rule must have materially the
+          same purpose as did the repealed version; otherwise, the
+          attempt to reenact the rule is null and void.
+
+      (d) amend the text of a rule.
+
+      (e) retitle a rule.
+
+      (f) change the power of a rule.
+
+      A rule change is any effect that falls into the above classes.
+      Rule changes always occur sequentially, never simultaneously.
+
+      Any ambiguity in the specification of a rule change causes that
+      change to be void and without effect.  An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule, but any
+      other variation does.
+
+      A rule change is wholly prevented from taking effect unless its
+      full text was published, along with an unambiguous and clear
+      specification of the method to be used for changing the rule, at
+      least 4 days and no more than 60 days before it would otherwise
+      take effect.
+
+      This rule provides the only mechanism by which rules can be
+      created, modified, or destroyed, or by which an entity can
+      become a rule or cease to be a rule.
+
+======================================================================
+
+Judge's Arguments:
+
+The only applicable rule granting a power other than zero is Rule 2141:
+
+> Every rule has power between 0.1 and 4.0 inclusive. It is not
+> possible for a rule to have a power outside this range.
+
+However, under Rule 105, a repealed rule is not a rule:
+
+> When a rule is repealed, it ceases to be a rule, and the Rulekeepor
+> need no longer maintain a record of it.
+
+As a repealed rule must necessarily have power zero, by Rule 1688 and
+by the absence of any other applicable Rule, it also ceased to be an
+instrument:
+
+> An Instrument is an entity with positive Power.
+
+Therefore, I find the statement FALSE. Repealed Rule 2469 is neither
+an instrument nor an entity with power 3.
+
+======================================================================

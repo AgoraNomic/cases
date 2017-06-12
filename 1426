@@ -1,0 +1,221 @@
+==============================  CFJ 1426  ==============================
+
+    Absolving (removing) a Blot as per Rule 1986 is not the same as
+    Expunging Blots as per Rule 2017.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Taral
+
+Judge:                                  Steve
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           14 Jan 2003 00:07:43 GMT
+Assigned to Steve:                      14 Jan 2003 00:57:09 GMT
+Judged FALSE by Steve:                  16 Jan 2003 03:05:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First of all, Goethe made two attempts to remove a number of
+Blots from Eris at a time when Eris has more than zero but less
+than 1 Blot.  Either attempt may have been successful, but not
+both, for Goethe was only permitted one such successful action
+with 0 Support in a given Agoran Week (R1986).
+
+If CFJ #1 is FALSE, and Absolving and Expunging are the
+same thing, then Goethe's first action of absolving 1 Blot
+from Eris (also quoted in Evidence below) succeeded in
+reducing Eris's Blots to zero, by the last paragraph of R2017.
+If so, CFJ #2 is trivially FALSE, CFJ #3 is trivially TRUE,
+CFJ #4 is trivially FALSE, and CFJ #5 is trivially FALSE.
+
+However, I argue for a judgement of TRUE in CFJ #1.
+Expunging is a very specific mechanism defined in Rule 2017,
+that is only triggered (as explained in R2017's last paragraph)
+when the Rules explicitly state that a Blot is Expunged.
+Rule 1986 does not use the word Expunge, and the fact that
+(remove) is placed in parentheses where (expunge) could be used
+highlights that this is a different method of reducing Blots.
+
+Further, the definition of Absolve (simply removing a Blot)
+has a higher precedence than the definition of Expunging a Blot
+(R1986 is Power-2 vs. R2017 at Power-1).  Thus CFJ #1 should
+be judged TRUE, and Absolving is a distinct method of removing
+a Blot which is more powerful than Expunging.  And in cases
+where removing a Blot from a Player would result in negative
+Blots, the rounding-to-zero method triggered by Expunging in
+the last paragraph of R2017 is not directly triggered by a R1986
+Absolution.
+
+If so, and CFJ#1 is TRUE, what happened in Goethe's Absolution
+attempts?
+
+At the time of the attempts, Eris had 0.68 Blots.  R1986 states
+that an Acolyte may, as a single action Absolove (remove) exactly
+1 Blot from a Player, provided e has enough Support for the
+number of times e performed the action.  Goethe, in eir
+first attempted action, had the required support, and therefore
+removed 1 Blot from Eris and Eris has less than zero Blots.
+
+Now R2017 specifically states that "The Stain of each entity is
+at all times a non-negative number."  However, R1986 (Power=2)
+*HAS A HIGHER PRECEDENCE* then R2017 (Power=1).  Therefore, the
+fact that an Acolyte with the proper Support may remove 1 Blot
+from an entity has a higher precedence than the fact that Blots
+must be non-negative.
+
+Thus, the Caller strongly argues for this interpretation, from
+which follows a judgement of TRUE for CFJ#2, FALSE for CFJ#3,
+TRUE for CFJ #4, and TRUE for CFJ #5, as an Immaculate Player
+is one whose Stain is exactly zero (R1962).  Under this
+interpretation Goethe's second Absolution attempt, to expunge
+exactly 0.68 Blots, trivially failed due to requiring more
+than 0 Support.
+
+If the judge believes that Absolution is not Expunging, but
+that the non-negative nature of Blots in R2017 somehow has
+precedence over the ability of Acolytes to Remove Blots in
+R1986, then some more interpretation of Goethe's actions are
+necessary.  It is possible that some portion of Goethe's
+first attempt was successful, but this is unlikely, in just
+the same manner that game precedence holds that an attempt
+to transfer "20 Stems" when you've only got 10 does not
+transfer 10, but rather fails entirely.  If the first attempt
+thus failed, it is possible that the second attempt (specific
+attempt to reduce Eris's Blots to zero) succeeded.  But this
+is also unlikely: just like previous CFJs ruled that half a vote
+couldn't be specifically cast, R1986 doesn't allow fractions
+of Blots to be expunged.  It is more likely under this line
+of reasoning that both attempts failed, and Eris still has
+(positive) 0.68 Blots.
+
+========================================================================
+
+Caller's Evidence:
+
+Goethe's attempts:
+>   I announce my intent, as an Acolyte, to Absolve (remove) 1 Blot
+>   from Goddess Eris, with 0 Support.  Having received the
+>   required Support, I Absolve 1 Blot from Goddess Eris.
+>
+>  That might not have worked, so:
+>
+>   I announce my intent, as an Acolyte, to Absolve (remove) 0.68 Blots
+>   from Goddess Eris, with 0 Support.  Having received the
+>   required Support, I Absolve 0.68 Blots from Goddess Eris.
+
+-Acolyte Goethe
+
+
+Eris's Blots [Jan 09 Herald's Report]:
+> Goddess Eris [...] 0.68
+
+
+Rule 1986/5 (Power=2) [Excerpt]
+Role-Based Powers
+
+      [...]
+      An Acolyte may absolve (remove) 1 Blot from any Entity by paying
+      Fee in Indulgences, or receiving the Support of a number of
+      other Acolytes, equal to the number of such Absolutions the
+      Acolyte has previously performed in the current Agoran Week
+      (minimum zero).
+      [...]
+
+
+Rule 2017/0 (Power=1)
+Blots
+
+      A entity's Stain is a measure of that entity's cleanliness,
+      measured in Blots.  The Stain of each entity is at all times a
+      non-negative number.
+
+      If the Rules state that an entity gains, is assessed, or is
+      penalised some number of Blots, then, as soon as possible after
+      the Herald is informed of the change, e shall record an increase
+      of that amount in the entity's Stain.  (If the entity was an
+      Unready Player at the time of the change, then the Herald shall
+      instead record an increase of half that amount.)
+
+      If the Rules state that some number of a entity's Blots are
+      expunged, then, as soon as possible after the Herald is informed
+      of the change, e shall record a decrease of that amount in the
+      entity's Stain.  (If this would result in a negative Stain, then
+      it instead results in a Stain of zero.)
+
+
+Rule 1962/3 (Power=1)
+Immaculate Players
+
+      An Immaculate Player is a Player whose Stain is zero.
+
+      Not being Immaculate is a Win-Preventing Condition.
+
+      Being the only Active Immaculate Player is a Win Condition. Upon
+      the report of such a Win, the Herald shall expunge N Blots per
+      Player, where N is the Stain of the Active Player(s) with the
+      lowest non-zero Stain.
+
+========================================================================
+
+Judge Steve's Arguments:
+
+R1986 refers to Blots being 'removed'; all other Rules (1664, 1988,
+1505, 2018, 1962, and especially 2017) that talk about getting rid of
+Blots (to use a neutral term), refer to Blots being 'expunged'. What is
+the significance of this difference?
+
+My judgement is that the difference is not significant, and that we
+should regard 'remove' in R1986 simply as synonymous with 'expunge', in
+line with R754. Any dictionary will confirm that the two terms are
+synonymous. This seems to me to be the simplest and most straightforward
+interpretation of the situation.
+
+However, in a series of ingenious posts, Goethe has argued that the
+difference is a very significant one, that what we have here are two
+independent and distinct procedures for getting rid of Blots, Absolution
+and Expunging, each complete in themselves.
+
+Goethe gave six arguments against synonymity (see <1>). The most obvious
+of these is just the difference in terminology itself. Why does R1986
+use 'remove' when it might just as easily have used 'expunge'? But this
+argument doesn't really lead anywhere. Of course it's possible to point
+to cases where a difference in a single word marks an important
+difference in procedure, e.g. 'pay' vs 'pay out'. But equally it's
+possible to point to cases where the use of alternative terminology
+makes no difference: 'pay' vs 'transfer', or 'enact' vs 'create'. The
+general principle I bring to bear on such cases is anti-formalism: other
+things being equal, we should not be fussy about precise forms of words
+where that can be avoided. The burden of proof lies with the person who
+wants to show that two otherwise similar expressions should be treated
+as having different effects.
+
+The key argument offerred by Goethe to try and meet this burden seems to
+me to be his first:
+
+| 1.  If you removed the definition of "expunge" from the Ruleset,
+|     the phrase "absolve (remove)" is still a clear definition of
+|     what absolution is, the removal of exactly one Blot.  This
+|     suggests that it is an independent mechanism.
+
+In subsequent posts, Goethe has clarified this argument: the use of
+'remove' in R1986 is to be regarded as the definition of a complete,
+independent and distinct procedure for getting rid of Blots, one that
+could stand on its even if R2017 were repealed.
+
+However, I think this key argument fails. R2017 specifically defines the
+consequences of expunging Blots in terms of Recordkeeping responsibilities
+incurred by the Herald. No separate procedure is defined for removing
+Blots. The inference is a strong one, I think, that the consequences of
+removing Blots are precisely those defined for expunging Blots in R2017.
+The argument that removal is a complete, independent and distinct
+procedure for getting rid of Blots collapses.
+
+========================================================================

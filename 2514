@@ -1,0 +1,158 @@
+==============================  CFJ 2514  ==============================
+
+    The phrase "This takes precedence over any other rule" in Rule
+    2229/1 takes precedence over the first sentence in Rule 1482/2 for a
+    matter of spending rests.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           07 May 2009 13:11:05 GMT
+Assigned to Yally:                      08 May 2009 06:13:16 GMT
+Judged TRUE by Yally:                   15 May 2009 00:27:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In the past, when a low-powered rule has claimed precedence over a
+certain matter (e.g. rests), we have reasoned that "R1030 allows this
+claim to work for rules of the same power, but R1482 overrules this
+claim for rules of different power."
+
+However, it is also generally agreed that if R1482 (high power) says
+that high powered rules have precedence over lower ones, and that if
+a low power rule says that low powered rules have precedence over
+higher ones, we have a genuine UNDECIDABLE type of paradox.  (Hence
+the addition of the second paragraph in R1482).  This argument does
+not change if the matter the lower powered rule claims precedence
+over is limited in scope (e.g. to Rests).
+
+Both views can't be right.  Has the phrase "this matter claims
+precedence over matters of X" been in an UNDECIDABLE conflict with
+R1482 all along?  Was Rule 2229's claim of precedence (allegedly
+enacted 2008 or later) allegedly IMPOSSIBLE due to the second
+paragraph of R1482 (adopted 2007)?
+
+Why would the paradox be avoided just because a lower-powered claim
+of precedence limited its domain to specific areas?  It's still
+a claim of precedence, or "a means of determining precedence" in
+the language of R1482, and it doesn't restrict its claim to rules
+of the same or lower power.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2229/1 (Power=2)
+Just Resting
+
+      Owning one or more Rests is a Losing Condition.
+
+      While a person owns at least 8 Rests, that person CANNOT spend
+      Notes except to destroy Rests e owns.  This takes precedence
+      over any other rule.
+
+      While a player owns at least 24 Rests, that player CAN be
+      deregistered by any player by announcement.  A person who owns
+      at least 6 Rests, or where every member of eir basis owns 6
+      Rests, CANNOT register, rules to the contrary notwithstanding.
+
+      A person who has one or more rests but is not a player is a
+      Fugitive.  The Herald's monthly report shall include a list of
+      all Fugitives and the number of Rests they possess.  At the
+      beginning of each month, half of each Fugitive's rests (rounded
+      down) are destroyed.
+
+Rule 1482/2 (Power=3)
+Precedence between Rules with Unequal Power
+
+      In a conflict between Rules with different Power, the Rule with
+      the higher Power takes precedence over the Rule with the lower
+      Power.
+
+      No change to the Ruleset can occur that would cause a Rule
+      to stipulate any other means of determining precedence
+      between Rules of unequal Power.  This applies to changes by
+      the enactment or amendment of a Rule, or of any other form.
+      This Rule takes precedence over any Rule that would permit
+      such a change to the Ruleset.
+
+Rule 1030/6 (Power=3)
+Precedence between Rules with Equal Power
+
+      If two or more Rules with the same Power conflict with one
+      another, then the Rule with the lower ID number takes
+      precedence.
+
+      If at least one of the Rules in conflict explicitly says of
+      itself that it defers to another Rule (or type of Rule) or
+      takes precedence over another Rule (or type of Rule), then such
+      provisions shall supercede the numerical method for determining
+      precedence.
+
+      If all of the Rules in conflict explicitly say that their
+      precedence relations are determined by some other Rule for
+      determining precedence relations, then the determinations of
+      the precedence-determining Rule shall supercede the numerical
+      method for determining precedence.
+
+      If two or more Rules claim to take precedence over one another
+      or defer to one another, then the numerical method again
+      governs.
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+a rule's claim that it takes precedence over
+some other rule or set of rules doesn't specify "a means of
+determining", but rather constitutes a claim to be considered using
+whatever existing means of determining precedence exist in the rules;
+this is implicit from the structure of R1030 and R1482 and game custom
+that such claims work on their common sense reading rather than
+failing to be enacted as an attempt to specify a new means of
+determining precedence.
+
+Indeed, taking a rule's claim of precedence as itself specifying a
+means of determining precedence would make the last paragraph of R1030
+meaningless; under this interpretation, why should we accept R1030's
+claim that one of the rules takes precedence based on rule number as
+taking precedence over both of the other rules' contradictory claims?
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I see what you're saying, and that this is generally what R1482
+intends, but I have a hard time saying that a claim "This rule takes
+precedence over matters of X" is not a direct specification of
+a means of determining precedence.  It literally and directly is.
+It specifies the means "if the matter is X, defer to this rule".
+
+Linguistically, I just don't see a dividing lines between a "claim
+of precedence" and a "specification of a means of determining
+precedence".  Both can be broad or narrow, both say "x has
+precedence over y under circumstances z", I don't see that any
+particular grammar or phraseology differentiates them.
+
+========================================================================
+
+Judge Yally's Arguments:
+
+By the arguments I specified in 2513, Rule 2229 specifically claims precedence
+over Rule 1482. Had Rule 1482 claimed to take precedence over "all other
+rules" in the same way that Rule 2229 does, there would be a conflict.
+However, because the ruleset lists only one way for the conflict to be
+resolved (in another part of Rule 1482), that must be the way in which it is
+revolved. But that is not the case here.
+
+========================================================================

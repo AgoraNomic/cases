@@ -1,0 +1,78 @@
+=============================  CFJ 3492  =============================
+
+      天火狐 is a member of 蘭亭社.
+
+======================================================================
+
+Caller:                     grok
+Judge:                      Quazie            
+Judgement:                  TRUE            
+
+======================================================================
+
+History:
+
+Called by grok:             19 May 2017
+Assigned to Quazie:         19 May 2017
+Judged TRUE by Quazie:      22 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+The decision in CFJ 1460
+The decision in CFJ 3478, specifically the following two excerpts:
+
+> There are plenty of lines which are potentially ambiguous; for example,
+> paragraph 5 machine-translates as "suitable", and uses the characters
+> ｢相応し｣ to represent the word (as opposed to ｢相応しい｣, which is defined to
+> mean "Appropriate"). However, some experimentation shows that when the
+> word is followed by ｢くない｣, the final ｢い｣ is dropped (both incorrect
+> combinations are flagged up as a typo by the autocorrect on the machine
+> translator I'm using, which is about as clear a message as a computer
+> can give on the subject). As such, it seems most reasonable to
+> interpret ｢相応しくない｣ as meaning "Inappropriate", even if this definition
+> cannot be determined via a simple matching of character sequences in an
+> editor.
+
+---
+
+> However, some lines are very clear. Line 3, for example, is a very
+> clear statement of possibility for a Budget switch flip. Unfortunately,
+> it does not use the word "Appropriate" anywhere, neither in its
+> English form, nor anything resembling the specified Japanese
+> translations ｢ふさわしい｣ or ｢相応しい｣. An Organization merely
+> stating that something is possible has no effect; it needs to specify
+> that the action is Appropriate. As such, I conclude that there's no
+> actual way to join this Organization.
+
+======================================================================
+
+Judge's Arguments:
+
+I accept 天火狐's arguments which I will summarize below:
+
+* Rule 2461 "Death and Birth of Organizations" states that "When an
+  organization is created this way, its Charter is set to the value
+  that e specified, and the Budget switch for that player and
+  Organization is set to the Income Floor."
+* Rule 2459 "Organizations" states that "A 'member' of an Organization
+  is a player for which the pair consisting of that Organization and
+  that player has a nonzero Budget."
+* "And" implies that the Charter and the Budget switch are set at the
+  same time.
+* Therefore, 天火狐 had become a member of 蘭亭社 regardless of what
+  its charter allowed or forbade.
+
+What this judgement thus implies is that as long as an organization
+was successfully created, regardless of what the charter says or
+doesn't say about how one joins the Organization, the creator of an
+organization is initially a member of said Organization. If i were not
+on Lockout, I'd go so far as to prove this logic by, as part of my
+judgement, making an organization whose charter was simply "No person
+may flip their budget switch for this organization" - I would be
+unable to leave said organization (as i couldn't flip my Budget to 0),
+but if I created it, the charter would not stop me from joining (as
+2461 would've set my Budget to the Income Floor).
+
+======================================================================

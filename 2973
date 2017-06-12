@@ -1,0 +1,43 @@
+==============================  CFJ 2973  ==============================
+
+    If I registered in the quoted message, I would currently be
+    District.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          03 Feb 2011 00:11:02 GMT
+Assigned to Murphy:                     27 Feb 2011 17:31:25 GMT
+Judged TRUE by Murphy:                  27 Feb 2011 18:04:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+District is the default value, but before I deregistered I
+was Supreme.  Rule 2162 (Switches) is very confusingly worded.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Rule 2226 defines judicial rank as a player switch.  Rule
+2162 says "No other entity possesses an instance of that switch".  If
+you deregistered, then you became an "other entity" and thus ceased to
+possess an instance of the judicial-rank switch.  FALSE.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Whoops, TRUE, rather.
+
+========================================================================

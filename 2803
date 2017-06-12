@@ -1,0 +1,70 @@
+==============================  CFJ 2803  ==============================
+
+    coppro violated R2201 by not responding to a "claim of error"
+    concerning a proposal being distributed with an incorrect chamber.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 scshunt
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           07 Jun 2010 05:17:55 GMT
+Assigned to Murphy:                     13 Jun 2010 20:35:59 GMT
+Judged TRUE by Murphy:                  13 Jun 2010 23:02:06 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Facts:  Promotor coppro did not respond asap to a "CoE" published by G.
+that claimed (correctly) that an Agoran Decision initiation notice
+published by coppro listed an invalid chamber for the proposal.
+
+coppro says:  "distribution is not self-ratifying and no admission is
+required. The distribution failed platonically (I will redistribute in a
+minute)."
+
+G. says:  "R2201 defines what a doubt and CoE are, but don't explicitly
+limit them to self-ratifying documents (the part of the Rule describing
+Doubts and CoEs would function fine without the first paragraph). R2201(b)
+states that a CoE is "appropriate for matters of fact" not just self-
+ratifying matters and lays out response requirements, which don't depend
+on the document being self-ratifying."
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+It is not a claim of error because it does not explain the scope
+(but only the nature) of the perceived error.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+That's just silly.  "Scope and nature" is reasonably contained in the
+CoE message that cites/quotes the relevant proposal distribution
+and decision number (the scope) and states the error in chamber (the
+nature).  Still, it was remiss of me not to enter said message into
+evidence.  "CoE" Message of 1-June by G.:
+> On Sat, 29 May 2010, Sean Hunt wrote:
+>> NUM   II  AI   SUBMITTER    CHAMBER  TITLE
+>> 6731  1   2.0  G.           Purple   Threat Level Green
+>
+> COE:  This should be Red, I set my chamber to Red just before submitting
+> it (same message).  -G.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments and judge TRUE.
+
+========================================================================

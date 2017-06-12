@@ -1,0 +1,80 @@
+==============================  CFJ 1366  ==============================
+
+    Syllepsis' transfer of one Vote "Sir Toby" for Speaker-Elect
+    Pamphlet to a Vote "Sir Toby" for Speaker-Elect Pamphlet was valid.
+
+========================================================================
+
+Caller:                                 teucer
+
+Judge:                                  Steve
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by teucer:                       08 May 2002 23:05:35 GMT
+Assigned to Steve:                      13 May 2002 23:25:35 GMT
+Judged TRUE by Steve:                   14 May 2002 04:15:47 GMT
+
+========================================================================
+
+Judge Steve's Arguments:
+
+Sir Toby created the Currency 'Vote "Sir Toby" for Speaker-Elect
+Pamphlets' (henceforth 'Pamphlets') on May 6. (See Evidence <1>.) The
+creation satisfied the requirements for the creation of new Currencies.
+In the same message, e transferred one Pamphlet to Syllepsis. So
+Syllepsis possessed a Pamphlet.
+
+Syllepsis' transfer message reads in part (see Evidence <2>):
+
+    I transfer one Vote "Sir Toby" for Speaker Elect Pamphlet to itself.
+
+Rule 1598 (Property Transfers) states in part:
+
+      (a) A Notice of Transfer is a message which sets forth the
+          intent to transfer one or more Properties from one entity
+          (the "transferor") to some other entity (the "transferee").
+
+      (b) A valid Notice of Transfer must additionally:
+          (1) specify one or more Properties all of which are owned by
+              the transferor; and
+          (2) be sent by the Executor of the transferor, or by a
+              Limited Executor of the transferor with the authority to
+              execute transfers on behalf of that entity with respect
+              to all of the Properties involved.
+
+Syllepsis' message sets forth eir intent to transfer one or more
+Properties (ie, a Pamphlet), from one entity (Syllepsis), to another
+entity (the selfsame Pamphlet).
+
+Syllepsis' message satisfies the requirements for being a valid a Notice
+of Transfer. I can find nothing in the Rules that restricts transferees
+to being entities that we might intuitively think are capable of
+possessing Agoran Property, e.g. entities with Executors. There seems
+little choice but to conclude that Syllepsis' transfer is therefore
+valid.
+
+I therefore Judge that the Statement is TRUE.
+
+I won't make a formal Order to Annotate, because I am not certain that
+the Statement of this CFJ alleges that a Rule should be interpreted in a
+certain way, as required by R789. However, I request Rulekeepor to
+unofficially annotate R1598 with something like the following:
+
+      [CFJ 1366, Judged TRUE by Steve 14 May 2002: the transferee can be
+      any entity, not only one with an Executor.]
+
+========================================================================
+
+Judge Steve's Evidence:
+
+<1> Sir Toby's creation of the Pamphlets
+    http://www.escribe.com/games/agora-business/m6637.html
+
+<2> Syllepsis' transfer message
+    http://www.escribe.com/games/agora-discussion/m14153.html
+
+========================================================================

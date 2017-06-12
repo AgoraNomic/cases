@@ -1,0 +1,176 @@
+====================================================================== 
+
+CFJ 1069 
+
+"Steve is currently holding the Office of Justiciar." 
+
+====================================================================== 
+
+
+
+Judge:       Swann
+Judgement:   TRUE
+
+
+Eligible:    Andre, Calabresi, ChrisM, Chuck, Crito, elJefe,
+	     General Chaos, Kolja A., Morendil, Murphy,
+	     Oerjan, Swann, Vlad
+
+
+Not eligible:
+Caller:	     Michael
+Barred:	     Steve
+On request:  Vanyel
+On hold:     Harlequin, Vir
+
+======================================================================
+History:
+
+  Called by Michael, 11 Nov 1997 12:01:39 +0000 
+  Assigned to Swann, 12 Nov 1997 07:50:05 +0000 
+  Judged TRUE, 13 Nov 1997 13:29:05 -0500 
+
+======================================================================
+Caller's Arguments:
+
+Steve Gardner writes: 
+
+  Question: when an Officer resigns and appoints a Player other than the Speaker
+  to succeed em, and the other Player consents (as is the case here), when does
+  the change of Office occur? At the time of the resignation, or at the time
+  consent is given? What if consent is withheld?
+  
+  If the change does not occur until consent is given, then Harlequin was still
+  CinC when he went On Hold. He would thus have been removed from that Office
+  when he went On Hold and the Office would have fallen to Speaker Morendil. If
+  that's so, does the Office go to Vlad when Vlad consents? That's hard to
+  justify.
+  
+  There is way to preserve the intuition that Vlad is now CinC - but we may not
+  like it much. That is to say that at the time Vlad consents, he retroactively
+  becomes CinC as of the time that Harlequin resigned.  Note that this does not
+  violate the new R108. Maybe this is what former Wizard Zefram was referring to
+  when he opined that the new R108 does not really prohibit retroactivity.
+  
+It doesn't, mainly because R880 seems to use language which bases events in the
+present on events in the future.  It says: "for an appointment to be valid, this
+Player [the putative new holder of the Office], must either explicitly and
+publically consent to becoming the new holder of that Office within seven days
+of such appointment, or be the Speaker."
+
+So a resignation can happen as long as the resigner makes an appointment.  An
+appointment is to either the person named or the Speaker if no-one is named.
+But if you name someone, the validity of doing so is dependent on their agreeing
+to the position within seven days.  The resignation rule can actually require us
+to predict the future when the resignation happens.
+
+I think this is slightly different from retroactivity in general, though it
+looks much the same once someone consents and we retroactively install them in
+the office.  For example, who is the Justiciar now?  elJefe has resigned, but
+Steve hasn't consented to the appointment.  If he is to do so in the next seven
+days, he is temporarily in office.  If he doesn't, then he's not.
+
+Fundamentally, the problem is that our rule language can express "impossible"
+concepts (basing events now on events in the future). Rather than restrict our
+use of language, I think this is probably a good case for a judicial
+interpretation to effectively rewrite the rule for us in the interests of common
+sense and the game's best interests &c.
+
+Therefore I make the following CFJ:
+
+Steve is currently holding the Office of Justiciar. 
+
+I bar Steve. 
+
+I also urge Steve not to consent to the appointment until the Judge has returned
+their Judgement, and simultaneously urge the Judge to be quick about returning
+the Judgement.  This way they have to judge in an "impossible" situation.  I bar
+Steve only because I believe that he would Judge being able to know whether or
+not he is going to consent to the appointment, thereby defeating the CFJ's
+ulterior motive.
+
+Finally, I disagree with Zefram who claims that consent is part of the
+appointment process.  The wording of 880 suggests more to me that an Officer
+need only specify a successor Player in order to be able to resign, and that
+this action takes place regardless of the validity of that appointment.  (Though
+I wonder, what happens if you appoint someone currently On Hold?)
+
+Michael. 
+
+======================================================================
+Reasoning and arguments of Judge: 
+
+My first impulse was to Judge this trivially True, because the caller was so set
+on having the Judgement made in a completely indeterminate state where we didn't
+know if Steve consents or not.  But, while having Steve consent skewers the
+motive behind the CFJ, I've come to realize that it doesn't make the Statement
+trivial, or any less interesting.
+
+What we have here is a question about a transitional event.  These kind of
+events seem to be were a lot of the interesting matter happens, and many
+profound CFJs have ruled on what actually happens between point A and B. (The
+recent destruction of currencies is a case in point.) Therefore I intend to
+plumb the issue with an open mind.
+
+The core question we have here is from Steve eimself, "when an Officer resigns
+and appoints a Player other than the Speaker to succeed em, and the other Player
+consents (as is the case here), when does the change of Office occur?"
+
+The caller opines that Rule 880 requires a prediction of the future. Upon a
+careful reading of the rule, I think not.  The first sentence says;
+
+     "An Officer is always permitted to resign from any Office e 
+      holds, provided e specifies another Player to succeed 
+      em, who then becomes the temporary holder of that Office." 
+
+That clearly installs the specified Player in the Office.  It is my opinion that
+the Rule makes the most sense if interpreted as a chronology of what happens
+when an Officer resigns (and appoints someone other than the Speaker);
+
+     a) Sentence 1, the Office is held temporarily by the specified
+        Player and the resigning Player ceases to hold that Office.
+     b) The Specified Player holds the Office temporarily until e
+        consents, refuses, or stays silent for seven days.
+     c) If e doesn't consent, then Rule 880 invalidates the appointment.
+        This is I believe the most sensible interpretation of the Rule's
+        provisions.  The language of the Rule IMO, provides a
+        presumption of validity that holds until the Rule says
+        otherwise.  i.e. all appointments are valid until the Office is
+        refused or seven days without consent have passed.
+     d) If the appointment is invalidated I believe that the sentence,
+        "An Officer who resigns without appointing a successor is deemed
+        to have appointed the Speaker to succeed em." can be justifiably
+        read as applying to the person refusing the Office, i.e.
+        Refusing an appointment is akin to resigning without specifying
+        a successor.  Reading events in this matter requires no
+        precognition, insures that the identity of the Officer in
+        question is not inderterminate at any point, and renders the
+        verdict TRUE at the time the statement was made, whatever
+        Steve's decision had been.
+
+Therefore I judge the Statement TRUE based on Common Sense and the best
+interests of the Game.
+
+Evidence: 
+
+--------------------------------------------------------------------------------
+
+Rule 880/4 (Power=1) 
+Resignation of Offices
+
+      An Officer is always permitted to resign from any Office e
+      holds, provided e specifies another Player to succeed
+      em, who then becomes the temporary holder of that Office.  For
+      this appointment to be valid, this Player must either explicitly
+      and publically consent to becoming the new holder of that Office
+      within seven days of such appointment, or be the Speaker.  The
+      Speaker can be appointed to hold an Office temporarily without
+      consenting, and may not refuse such an appointment.  An Officer
+      who resigns without appointing a successor is deemed to have
+      appointed the Speaker to succeed em.
+
+      A change in the identity of the Speaker does not automatically 
+      cause the transfer of any Offices being held by the former 
+      Speaker to the new Speaker. 
+
+======================================================================

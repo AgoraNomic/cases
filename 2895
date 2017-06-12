@@ -1,0 +1,494 @@
+=========================  Criminal Case 2895  =========================
+
+    G. violated the Power-1 Rule 2224 by making proposals disinterested
+    as quoted in the evidence section.
+
+========================================================================
+
+Caller:                                 omd
+Barred:                                 G.
+
+Judge:                                  Wooble
+Judgement:                              GUILTY/DISCHARGE
+
+Appeal:                                 2895a
+Decision:                               REMAND
+
+
+Judge:                                  Wooble
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by omd:                          01 Nov 2010 04:23:42 GMT
+Defendant G. informed:                  01 Nov 2010 04:23:42 GMT
+Assigned to Wooble:                     08 Nov 2010 09:14:47 GMT
+Judged GUILTY/DISCHARGE by Wooble:      11 Nov 2010 14:08:06 GMT
+Appealed by G.:                         11 Nov 2010 19:01:09 GMT
+Appeal 2895a:                           11 Nov 2010 19:01:09 GMT
+REMANDED on Appeal:                     21 Nov 2010 23:48:54 GMT
+Assigned to Wooble:                     21 Nov 2010 23:48:54 GMT
+Wooble recused:                         12 Dec 2010 04:34:17 GMT
+Assigned to Murphy:                     12 Dec 2010 23:01:04 GMT
+Judged NOT GUILTY by Murphy:            13 Dec 2010 01:38:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It is unclear how G. might have submitted a proposal to repeal either
+Rule 1750 or Rule 2161 whose effects were limited to correcting errors
+and/or ambiguities.  However, I suppose e could have resigned the
+office...
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, Nov 1, 2010 at 12:05 AM, Kerim Aydin <kerim@u.washington.edu> wrote:
+> I submit the following proposal, "NaN", AI-1, II-0:
+> I submit the following proposal, "Other documents" AI-1, II-0:
+> I submit the following proposal, "Proposal Points", AI=Mutable, II-0:
+
+>From Rule 2309, Fearmongor's duties:
+         2) For each of those rules, submit a disinterested proposal
+            with AI equal to that rules' power.
+
+>From Rule 2224:
+      The submitter of a proposal SHALL set its interest index to 0 if
+      and only if the proposal's effects are limited to correcting
+      errors and/or ambiguities.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+>From R1504:
+        (e) the Accused could have reasonably avoided committing the
+                                   ^^^^^^^^^^
+            breach without committing a different breach of equal or
+            greater severity.
+I posit that resigning an Officer's position rather than choosing the
+lesser of the breaches is not a "reasonable" way of avoiding both
+breaches, for the good of the game in terms of allowing Officers to
+keep being Officers.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge GUILTY; the defendant could have reasonably avoided breaching
+either Rule 2224 or with equal severity breaching Rule 2309 by
+resigning the office of Fearmonger.  I sentence em to DISCHARGE.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I appeal this verdict as it sets a bad precedent: in cases where an
+Officer has contradictory duties, it is reasonable for em to choose
+the lesser rules breakage, and not reasonable, in terms of the game,
+for em to be essentially required to resign the whole office to avoid
+the punishment.  The verdict should at least include a discussion of
+why resignation is more reasonable than following the intent of the
+law with a (far-lesser and not substantial) rules breakage.  -G.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The following was going to be a judgment for CFJ 2895 until ais523
+noticed that I called it and so am not qualified to judge this case:
+
+  1 At issue in this case is whether or not it is possible to take an
+    action referring to the subject of the message that would be
+    ambiguous if only the body of the message is considered.
+
+  2 The message in question read, in its entirety:
+
+{{{
+Return-Path: <agora-business-admin@agoranomic.org>
+X-Original-To: scshunt@csclub.uwaterloo.ca
+Delivered-To: scshunt@csclub.uwaterloo.ca
+Received: from caffeine.csclub.uwaterloo.ca (localhost [127.0.0.1])
+     by caffeine.csclub.uwaterloo.ca (Postfix) with ESMTP id 81402E0E75
+     for <scshunt@csclub.uwaterloo.ca>; Fri,  5 Nov 2010 17:48:11 -0400
+(EDT)
+Received: from yzma.clarkk.net (blackbox.clarkk.net [66.93.216.11])
+     by caffeine.csclub.uwaterloo.ca (Postfix) with ESMTP id 3B4EFE0E74
+     for <scshunt@csclub.uwaterloo.ca>; Fri,  5 Nov 2010 17:48:11 -0400
+(EDT)
+Received: from yzma.clarkk.net (localhost [127.0.0.1])
+     by yzma.clarkk.net (Postfix) with ESMTP
+     id AB05D81294; Fri,  5 Nov 2010 15:48:01 -0600 (CST)
+Delivered-To: agora-business@yzma.clarkk.net
+Received: from mail-iw0-f177.google.com (unknown [209.85.214.177])
+     by yzma.clarkk.net (Postfix) with ESMTP id 9086A81294
+     for <agora-business@agoranomic.org>; Fri,  5 Nov 2010 15:47:04
+-0600 (CST)
+Received: by iwn8 with SMTP id 8so3445479iwn.22
+         for <agora-business@agoranomic.org>; Fri, 05 Nov 2010 14:46:54
+-0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+         d=googlemail.com; s=gamma;
+         h=domainkey-signature:mime-version:received:received:in-reply-to
+          :references:date:message-id:subject:from:to:content-type;
+         bh=JoHi3srwhJvrX3xG+wwzD7q2Q1qtVE+l8FZEKk9Demk=;
+
+b=M5ReC0e1nkbp0lm2JagPHAoN1GsAqPTdvMn+XNRQ0sPUmJDPiJsHwCb5FjAvNZgiYZ
+
+KXTkz3cFlPtmFLO8dGedihtEXn+/uce2+1To3OT2VjEy5QTYCYXY1UTsQZ/93Li3LcsP
+          Q4ehIzMSQ98KQqC0CJ2bz0I0nTiQ2Pmy59Th4=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+         d=googlemail.com; s=gamma;
+
+h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+          :content-type;
+
+b=EgflBf5XWpyvHr5YdwFI/RtQ5Sh0IdYxosqRUXlwfGSdVTcjGVeNymhHgQ13d3S5V3
+
+PQo8caMMWfTB6ga9qPKini9Tt+B+1Kxu9Sf1lfT5UkazVk+XlyJ6CajTuWjauJlgCJGu
+          RfSsgLG90tZ+M/GMjR4+xrmuDuTzaG5+eumto=
+MIME-Version: 1.0
+Received: by 10.231.156.139 with SMTP id x11mr2237722ibw.22.1288993613956;
+  Fri, 05 Nov 2010 14:46:53 -0700 (PDT)
+Received: by 10.231.13.74 with HTTP; Fri, 5 Nov 2010 14:46:53 -0700 (PDT)
+In-Reply-To: <422f97faf982157336d102ce36c95faf@csclub.uwaterloo.ca>
+References: <422f97faf982157336d102ce36c95faf@csclub.uwaterloo.ca>
+Message-ID: <AANLkTindPwbEL=c8_LKMf70ewxLXOJ9bQgnSSjCcq7bY@mail.gmail.com>
+Subject: Re: BUS: rebellion
+From: Elliott Hird <penguinofthegods@googlemail.com>
+To: agora-business <agora-business@agoranomic.org>
+Content-Type: text/plain; charset=UTF-8
+Sender: agora-business-admin@agoranomic.org
+Errors-To: agora-business-admin@agoranomic.org
+X-BeenThere: agora-business@agoranomic.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: agora-discussion@agoranomic.org
+List-Help: <mailto:agora-business-request@agoranomic.org?subject=help>
+List-Post: <mailto:agora-business@agoranomic.org>
+List-Subscribe:
+
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+     <mailto:agora-business-request@agoranomic.org?subject=subscribe>
+List-Id: Agora Nomic public communications (PF)
+<agora-business.agoranomic.org>
+List-Unsubscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+     <mailto:agora-business-request@agoranomic.org?subject=unsubscribe>
+List-Archive:
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/>
+Date: Fri, 5 Nov 2010 21:46:53 +0000
+X-Virus-Scanned: ClamAV using ClamSMTP
+
+me too
+}}}
+
+  3 With irrelevant headers stripped, the result is:
+
+{{{
+In-Reply-To: <422f97faf982157336d102ce36c95faf@csclub.uwaterloo.ca>
+References: <422f97faf982157336d102ce36c95faf@csclub.uwaterloo.ca>
+Subject: Re: BUS: rebellion
+From: Elliott Hird <penguinofthegods@googlemail.com>
+To: agora-business <agora-business@agoranomic.org>
+Date: Fri, 5 Nov 2010 21:46:53 +0000
+
+me too
+}}}
+
+  4 Message 422f97faf982157336d102ce36c95faf@csclub.uwaterloo.ca had the
+    subject "rebellion" and the body "i rebel - coppro". It is not
+    otherwise reproduced here.
+
+  5 As is usual in cases of ambiguity, the formula in Rule 217 should be
+    followed.
+
+{{{
+       When interpreting and applying the rules, the text of the rules
+       takes precedence.  Where the text is silent, inconsistent, or
+       unclear, it is to be augmented by game custom, common sense,
+       past judgements, and consideration of the best interests of the
+       game.
+}}}
+
+  6 Rule 478 defines public messages
+
+{{{
+       A public message is a message sent via a public forum, or sent
+       to all players and containing a clear designation of intent to
+       be public.  A rule can also designate that a part of one public
+       message is considered a public message in its own right. A
+       person "publishes" or "announces" something by sending a public
+       message,.
+
+}}}
+
+  7 The text of the rule is very clear. Any message sent by a public
+    forum constitutes, in its entirety, a public message.
+
+  8 Rule 478 is silent as to what portion of an electronic mail
+    constitutes the message.
+
+  9 Rule 754 provides guidance as to how words should be interpreted when
+    they are not defined by the rules.
+
+{{{
+       (3) Any term primarily used in mathematical or legal contexts,
+           and not addressed by previous provisions of this Rule, by
+           default has the meaning it has in those contexts.
+
+       (4) Any term not addressed by previous provisions of this Rule
+           by default has its ordinary-language meaning.
+}}}
+
+10 The term 'message' is not used primarily in a mathematical or legal
+    context, so it has its ordinary-language meaning.
+
+11 RFC 2821, which defines the Simple Mail Transfer Protocol and thus
+    electronic mail generally, consistently refers to a message as being
+    the entirety of the message, including the headers and body.
+
+{{{
+2.3.9 Message Content and Mail Data
+
+    The terms "message content" and "mail data" are used interchangeably
+    in this document to describe the material transmitted after the DATA
+    command is accepted and before the end of data indication is
+    transmitted.  Message content includes message headers and the
+    possibly-structured message body.  The MIME specification [12]
+    provides the standard mechanisms for structured message bodies.
+}}}
+
+12 The definition in RFC 2821 is not binding. Rather, it must be
+    evaluated in context of the Rule 271 guidelines to rule
+    interpretation. It is, however, a strong source, as it is the
+    defining document for most of Agora's communication history, and,
+    with exception of a single scam, all of Agora's historical public
+    fora.
+
+13 The first Rule 271 consideration is game custom. There appears to be
+    a weak game custom towards having subject lines not be relevant. In
+    particular, it was assumed by the Herald that ehird's rebellion
+    failed.
+
+14 However, when this CFJ was first called, there was not a significant
+    set of arguments put against it in either direction. Most commentary
+    was referring meekly to past CFJs, which will be addressed in time.
+
+15 The only message that this Court believes could constitute a genuine
+    argument in this case was sent by Wooble:
+
+{{{
+You acknowledged yourself that you didn't quote the message, and
+message headers are generally ineffective, so I assumed it was
+uncontroversial that you weren't a rebel.
+}}}
+
+16 Here, Wooble assumes the same weak general principle that headers are
+    generally ineffective.
+
+17 All in all, there does not seem to be a particularly strong game
+    custom, although there is a weak one in favor of message headers
+    being ineffective.
+
+18 Past judgments will be next considered. CFJs 1631, 1784, 1880, 2389,
+    2390, and 2777 were presented as evidence for this case. This court
+    also finds that CFJs 1335, 2441, and 2452 are relevant to this
+    case.
+
+19 CFJ 1335 is the oldest case that this Court could find that deals
+    with the subject of message subject lines. The judgment, fortunately,
+    contains sufficient context to interpret it, and is reproduced here:
+
+{{{
+To be "correct in its particulars", Rule 402/9(ii) requires a Notice of
+Speaker Transition (NoST) to contain two distinct elements:
+      Element (1): the reason for the transition; and
+      Element (2): the Player who held the office of Speaker-elect at the
+                   time the transition commenced.
+
+Here is the Relevant portion of Neil's message of Sat, 8 Dec 2001:
+
+ > As GWotO:
+ >
+ > The current Speaker is Tainted, and there is an Electee to the Office
+ > of Speaker-Elect.  By Rule 1648, this triggers a Speaker Transition as
+ > described in R402.
+ >
+ > Notice of Speaker Transition:
+ >   A Speaker Transition has begun.  At the commencement of the
+ >   Transition, Steve held the Office of Speaker-Elect.
+ >
+ > Assuming the particulars of the Notice are correct, Steve ceases to
+ > hold the Office of Speaker-Elect and becomes the Speaker.
+
+In terms of Element (1), while the message as a whole identifies the
+reason for the Speaker Transition, ("the current Speaker is Tainted"),
+the portion of the message specifically labeled "Notice of Speaker
+Transition" does not contain this information.  The question is, then,
+can the NoST itself be construed to contain this information?
+
+Case FOR: The subject line of the whole message is "Notice of Speaker
+Transition."  This overrides the smaller subset of text which attempts
+to delimit the NoST, and therefore the whole message is an NoST.  The
+other actions in the message ("as ADoP" etc.) are not necessary for the
+NoST but are in fact part of it.  This is also less nitpicky, the
+information is in the message and this Court generally preferred less
+nitpicky interpretations of Actions.
+
+Case AGAINST: The internal delimitation has precedence, and only two
+sentences of the message are the actual NoST.  This is rather like a
+Proposal which has "Proposal" in the subject heading but contains other
+actions (for example, submitting the Proposal) before the delimited
+portion of the Proposal itself.
+
+In many and even most cases, this Court should and would take the less
+nitpicky approach; that since the message as a whole contains the
+information, the information should be deemed to be part of the Notice.
+However, several of the other Actions performed in the message ("As
+ADoP", etc.) clearly were meant to happen BEFORE and AFTER the Notice
+was issued. This is further evidenced by the rest of the message, which
+contains phrases such as "...the above Notice..."
+
+Therefore the Notice should be taken to explicitly begin at the internal
+Title and explictly end after the indentation changes to indicate the
+end of the delimitation, and as such, does not contain information on
+Element (1), the reason for the transition.
+
+Therefore, The Court returns a judgement of TRUE.
+}}}
+
+20 This Court notes that the inquiry was to whether "The Notice of
+    Speaker Transition issued Sat, 8 Dec 2001 was incorrect in its
+    particulars." Thus it was judged that the NoST failed.
+
+21 The most directly relevant portion of Judge G.'s ruling is that in
+    most cases, the subject line would be held relevant to the message
+    and it would consider the entire message to be the NoST. However, he
+    excepts the specific scenario for which the CFJ was called, as the
+    NoST was clearly delimited.
+
+22 The next relevant CFJ was CFJ 1631, where it was ruled that omd did
+    not register by sending a message with a subject of "I register" and
+    no body.
+
+23 The judgment was brief and made a reference to game custom, which
+    this Court has already examined.
+
+{{{
+Agoran custom, as I understand it, is that a public announcement happens
+in the message body.  The message body was blank, so there is no action
+taking place. Therefore, I judge FALSE.
+}}}
+
+24 CFJs 1784 and 1880 directly or indirectly refer to CFJ 1361 as being
+    precedent and do not question the judgment. This Court finds no
+    reason to consider them further, as they do not add any new
+    jurisprudence. The judgments are not reproduced here.
+
+24 This court does not find CFJ 2389 to be directly relevant to the
+    case at hand.
+
+26 CFJ 2390 covers case where the subject line of an email was required
+    to somewhat disambiguate a fairly-clear action taken in the body of
+    a message. It was found that it could be so used, but the judgment
+    referred to past precedent without citing any specific case. It
+    seems likely that it referred to one of CFJs 1361, 1784, or 1880.
+    Because of the brevity and the lack of cited precedent, it is
+    difficult to assign significant weight to this case.
+
+{{{
+Subjects should not be interpreted as game actions in the
+general case; this is established precedent. However, in the lack of
+context to make a message meaningful, the Subject line can provide
+necessary context for the actions within. This is pure common sense
+and, IMO, for the Good of the Game.
+}}}
+
+27 CFJ 2777 is similar, but contains stronger reasoning. Once again,
+    without a specific citation of precedent or an in-depth analysis, it
+    is difficult to assign great weight to this judgment.
+
+{{{
+While a subject line alone is not (by past precedent) sufficient to
+directly perform an action or directly convey information, if a clear
+statement in the body of the message specifically and directly exhorts
+the reader to pay attention to the subject line, and the body does not
+contradict the subject line, that is sufficient to make the subject
+line a part of the information clearly "contained in the message".
+
+Note that a reference to something not sent along with the message
+(e.g. a reference to look at a website or external source) would
+not necessarily qualify in the same way, as the external reference
+does not leave the sender's domain of control with the message.
+}}}
+
+27 CFJs 2441 and 2452, by contrast, do not deal with subjects of
+    messages. However, they do address the subject of attachments, which
+    are, like subject lines, portions of the message not contained in
+    what most people view as being the message body. Thus this Court
+    will consider them as well in discharging this judgment.
+
+28 In judging CFJ 2441, Judge ehird made two errors in eir judgment.
+    The first is the statement that the archive does not store
+    attachments and the second is assigning legal weight to the archives.
+    Attachments are, in fact, stored in the archives, and there is no
+    basis in the rules or elsewhere to consider the archives to be part
+    of the definition of a forum. As a result, this Court will exclude
+    this case from its consideration.
+
+{{{
+FALSE; the archive does not store these, and ais523 has said he
+sometimes reads the PF via the archives, so an attachment effectively
+doesn't exist for a Public Forum message.
+}}}
+
+29 It was judged in CFJ 2452 that it is permissible to conduct game
+    communication by attachments, provided that people have their
+    attention drawn to the attachment. This has parallels to the earlier
+    cases where a subject line was deemed effective because it was
+    referred to by the body of a message. Judge Yally equated this more
+    directly to the use of a foreign language, where the test of
+    reasonability applies.
+
+{{{
+I see this issue as being similar to posting in a foreign language or a
+strange regional dialect. In that, this is legal communication but if
+the attachment does not appear for some players or a player isn't
+reasonably aware of the attachment, then it is ambiguous. However, if
+all players receive the attachment and the executor makes it clear that
+there is an attachment, then I see no problems. I opine TRUE.
+}}}
+
+30 This Court does not find that the best interests of Agora favor one
+    interpretation.
+
+31 The Court is persuaded by past judgments, in particular CFJs 1335 and
+    2452, to apply the moron in a hurry test to this situation. Common
+    sense is also a strong guide - this Court sees no reason why a
+    message that is very explicit should be denied status simply because
+    it has an empty body.
+
+32 Applying this test to the message in dispute, the Court finds that
+    only a moron in a hurry would not realize that ehird intended to
+    rebel, as the message e was referring to was obvious, and there is
+    only one action to which "me too" could possibly refer.
+
+33 Accordingly, this Court judges CFJ 2895 to be TRUE.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept G.'s arguments, at least with respect to this
+specific pair of breaches.  NOT GUILTY.
+
+========================================================================

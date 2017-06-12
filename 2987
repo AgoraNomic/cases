@@ -1,0 +1,119 @@
+==============================  CFJ 2987  ==============================
+
+    If a player were to win the game, the game would end.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      10 Apr 2011 22:52:30 GMT
+Assigned to G.:                         15 Apr 2011 22:38:32 GMT
+Judged FALSE by G.:                     15 Apr 2011 23:29:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Winning is not currently defined in the rules. By the ordinary-language
+sense of winning, winning terminates the game. Thus if a player were to
+get 250 points, they could win the game and end Agora.
+
+========================================================================
+
+Gratuitous Arguments by Walker:
+
+By the Agoran sense of the word, a 'game' is the time
+between two players winning the game, and the established meaning is
+that the game does not end. I know that the various definitions
+surrounding winning have been repealed, but the judge may still find
+that their definitions hold under game custom. Even considering the
+normal sense of the word, someone who has never played Agora before
+would probably not think that winning currently ends the game, if they
+read the ruleset as it currently stands.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First let me note the following:  If X (for any X) would cause the game
+to end, then X would be IMPOSSIBLE unless the rule empowering X had
+precedence over R1698.
+
+Now on this case, which presupposes that such an impossible/high-powered
+X CAN happen.
+
+I agree with the caller that the rules don't define what happens to
+Agora when someone "wins the game".  And I agree that, by common
+definition, games generally end when someone wins.
+
+However, it's possible to be a little more specific when defining Agora.
+Specifically, Agora is not just a game but a game of Nomic (R1698).  I
+believe that, especially within mathematical or legal circles, the game
+of Nomic has become widely enough known, at least within "legal or
+mathematical" circles that it is still within reasonably common
+definitions to say "Agora is a game of Nomic" and to ask "do games of
+Nomic, in general, end when someone wins?
+
+So, a story:
+
+My first game of Nomic was played face-to-face (before any newsgroup
+Nomic existed).  Someone "achieved 100 points" and thus was "the winner"
+(Suber Rule 208).  The very first thing after that was someone said "So,
+you're the winner.  That doesn't mean the game is over!" and invoked
+judgement, and the judge agreed.  The game continued until someone
+passed a rule explicitly ending it.  The original "winner" was in fact
+quite annoyed, as e assumed games ended when someone won.  E was wrong
+in this case and e Left in a Huff.
+
+In my second game of Nomic, it took a very long time for someone to
+achieve 100 points; and when e did, everyone was tired and said "you win
+- congratulations - game over."
+
+These stories are brought up to demonstrate:  it is wholly silent on
+whether games of Nomic end when someone wins.  Figuring it out is in
+fact part of the game.
+
+So, what about Agora?  Given that the rules are currently silent, is it
+a nomic-that-ends or a nomic-that-doesn't-end?
+
+Arguments that, as a Nomic, Agora ends when someone wins:
+    - Games generally end when someone wins.
+
+Arguments that Agora doesn't end:
+
+    - It has always been held as not ending in the past (game custom).
+      [Note that the requirement that a judge consider game custom is
+      explicitly against using the view of a hypothetical naive new
+      player as the caller suggests].
+
+    - R1698 strongly implies continuity in the face of winning.
+
+    - So does R1586.
+
+    - Not all the past judgements about R104 ("the first game") were made
+      in reference to the win conditions defined at the time; they were
+      based on the historical fact that the game had an incremented
+      counter at one point without "ending" as a point of precedent.
+
+    - Insomuch as ending a game is like killing it, it's not in "the best
+      interests" of the particular instance of the game to end it.
+
+    - Finally, the current rule for Winning implicitly implies that the
+      game continues after a win, by stating that AFTER a win the rules
+      still authorize a patent award (by standard definitions, when a
+      game is over, the rules governing that game cease to have binding
+      meaning).
+
+I find that the weight of the evidence is in favor of the game
+continuing even if a win occurs.  With the weight of history that
+currently exists, ending Agora would likely take a fairly explicit action
+of an instrument with a greater power than Rule 1698.  FALSE.
+
+========================================================================

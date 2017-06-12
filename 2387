@@ -1,0 +1,58 @@
+==============================  CFJ 2387  ==============================
+
+    Warrigal is a party to The Small Partial Mousetrap.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       19 Feb 2009 17:02:52 GMT
+Assigned to omd:                        21 Feb 2009 07:45:04 GMT
+omd recused:                            10 Mar 2009 20:43:57 GMT
+Assigned to woggle:                     10 Mar 2009 20:47:37 GMT
+Judged TRUE by woggle:                  19 Mar 2009 06:00:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Warrigal joined the contract in question voluntarily, so was
+certainly party to it at some point. The contract purports to prevent
+Warrigal leaving it for as long as ais523 is a party:
+{{{
+ais523 CAN leave this contract by announcement. Other persons can leave
+this contract only if ais523 is not a party to it, in which case they
+can leave it by announcement.
+}}}
+
+As ais523 has continuously been a party to the contract in question, the
+only way that Warrigal could have left it is via rule 101; that's what
+this case has been called to determine.
+
+See also CFJ 2381, which was seeking to establish the solution to the
+same questions, but was marked UNDETERMINED due to lack of specificity;
+this CFJ was called per the request of the judge there.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge [late] TRUE. The right to cease playing, even if it allows one
+to cease to be obliged to perform the actions required by contracts
+(and thus temporarily cease to be considered a party), does not help
+people when they, in fact, continue playing as Warrigal's recent
+actions clearly suggest e is doing. Also, I am not aware of any way in
+which Warrigal might have left the contract in question.
+
+========================================================================

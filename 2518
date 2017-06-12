@@ -1,0 +1,43 @@
+==============================  CFJ 2518  ==============================
+
+    At least one contract is Public.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Tiger
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       10 May 2009 19:29:41 GMT
+Assigned to Tiger:                      10 May 2009 23:04:24 GMT
+Judged TRUE by Tiger:                   11 May 2009 09:39:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2178 does not specify anyone to track these switches
+(although I'm tracking them unofficially). As a result, by rule 2162,
+they aren't switches. I'm not sure whether they still have values
+anyway, though.
+
+========================================================================
+
+Judge Tiger's Arguments:
+
+Since the definition of the Disclosure switch does not include which
+Officer keeps track of it, it does not fulfill R2162's definition of
+"a type of switch", therefore it is not a type of switch according to
+R2162. Interpreting "switch" in it's ordinary-language sense gives
+that a switch can be flipped and has exactly one value, however there
+might be things specified for switches in R2162 that do not follow
+from the ordinary-language sense. However, this CFJ was only about the
+alleged switches having values at all, which I judge they do. At least
+one such switch has been flipped to Public, so I judge TRUE.
+
+========================================================================

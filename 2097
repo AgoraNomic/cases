@@ -1,0 +1,78 @@
+==============================  CFJ 2097  ==============================
+
+    The Executor of a message that contains a CFJ is also the Initiator
+    of that CFJ, even if the Executor says E submits the CFJ on behalf
+    of someone/something else
+
+========================================================================
+
+Caller:                                 Quazie
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       18 Jul 2008 07:36:21 GMT
+Assigned to BobTHJ:                     19 Jul 2008 00:41:44 GMT
+BobTHJ recused:                         20 Jul 2008 00:36:59 GMT
+Assigned to woggle:                     20 Jul 2008 07:13:33 GMT
+Judged FALSE by woggle:                 26 Jul 2008 03:59:56 GMT
+
+========================================================================
+
+Judge woggle's Arguments:
+
+There is one case where the answer is clear. That is the case of a
+partnership initiating an equity case for a contract it is not a party
+to. In the case of a partnership structured like the PerlNomic
+Partnership, it is not unlikely that the executor would not be
+qualified to initiate that equity case and not be easy to determine.
+As partnerships have long been recognized to have a right to act and
+certainly should have the R101(iii) to resolve controversies
+concerning a contract that have joined -- especially when the rules
+concerning equity cases clearly attempt to permit it.
+
+Therefore, I judge FALSE.
+
+Now, the apparent real purpose of this CFJ is to overturn
+act-on-behalf rights, which presently are primarily a matter of game
+custom and judicial precedent. It would be injust to overturn this in
+the case of partnerships as then the rule's definition of partnerships
+as persons would be pretty useless. The more interesting case, of
+course, is that of first-class persons.
+
+Sending messages is a complex process. We have, in the past,
+recognized automated messages on behalf of a person, which is
+certainly more extreme than delegated authority. And, really, there's
+no reason to require a very strong and direct connection between the
+act of sending a message and its sender. Indeed, most people could
+easily setup technical means for forwarding messages such that we
+could not tell if e sent or if someone acting on eir behalf sent it.
+
+Now, the game protects itself against uncertainty in this way by
+trusting a message's claim of who sent it (the Who
+am I? rule). I do not think it is in the best interest of the game to
+disallow people from doing this "delegation" manually, when clearly it
+is technically possible. We can reasonably read a contract granting
+authorization to act on behalf of someone as a promise not to
+challenge the identity of (sub)messages matching that criteria in this
+sense.
+
+========================================================================
+
+Judge woggle's Evidence:
+
+[Excerpt from R2171]
+     The Executor of a public message is the first-class person who
+     sends it, or who most directly and immediately causes it to be
+     sent.  The executor of an action performed by announcement is
+     the executor of the announcement.
+
+========================================================================

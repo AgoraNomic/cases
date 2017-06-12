@@ -1,0 +1,304 @@
+==============================  CFJ 1892  ==============================
+
+    comex's non-binding agreement 'X' is a contract.
+
+========================================================================
+
+Caller:                                 pikhq
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by pikhq:                        02 Feb 2008 16:58:27 GMT
+Assigned to G.:                         03 Feb 2008 02:57:30 GMT
+Judged FALSE by G.:                     04 Feb 2008 04:45:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments against: 'X' claims to be nonbinding. Rule 1742 requires
+that a contract be a binding agreement.
+
+Allowing this scam to work will be the most abusive use of the rules
+on contracts since the infamous Mousetrap, and, in fact, flies in the
+face of both the spirit and the text of the Declaration of the Rights
+of Nomic Players (rule 101).
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1742/12 (Power=1.5)
+
+     Any group of two or more persons may make an agreement among
+     themselves with the intention that it be binding upon them and be
+     governed by the rules.  Such an agreement is known as a contract.
+
+Rule 101/7 (Power=3)
+
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absence of a person's explicit,
+            willful consent shall be considered a refusal.
+
+         v. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, which e has
+            not had the reasonable opportunity to review.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+The first thing of relevance is R101 (v):
+         v. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, which e has
+            not had the reasonable opportunity to review.
+I would say that that implies that, were Agora not given the
+reasonable opportunity to review X, nobody could be forced to join it.
+ However, I published its text over 10 days ago.  pikhq writes:
+
+> I have not had the reasonable opportunity to review this contract *and
+> all of its implications*.
+
+So what?  You have had plenty of time to review the contract.  Whether
+you figured out what I was going to do with it is patently irrelevant.
+
+For this reason, Wooble's attempted deregistration of me is invalid,
+because I did not have a chance to review his private contract as well
+as because the message was poorly worded (I do not have the ability to
+cause Wooble to deregister me).
+
+The second thing is whether R1742 requires that agreement be reached
+(to change the set of parties) between not only all existing parties,
+but also all prospective parties.  It is my opinion that it does not.
+For one thing, it certainly doesn't say so, but does 'agreement
+between all parties' implicitly include prospective parties?  I doubt
+it.  To get around the paradox of self-amendment, gamestate changes
+are atomic.
+
+For example, if I submitted a proposal to amend Rule 105 by removing
+part (c), and then adding a new bullet to elaborate on how to amend a
+rule, the second part would not fail to work (because amendment wasn't
+defined) as long as the removal and adding were part of the same rule
+change.
+
+The set of parties is just a set, and the most natural translation of
+R1742 to psuedocode is, in my opinion:
+        agreement reached between $parties?
+        --> $parties = $new_set
+
+Only the consent of all existing parties is required, not all
+prospective parties.
+
+Thirdly, there is the issue that Rule 1742 defines a contract as a
+binding agreement.  As watcher notes,
+
+Rule 1742/12 (Power=1.5)
+Contracts
+
+     Any group of two or more persons may make an agreement among
+     themselves with the intention that it be binding upon them and
+     be governed by the rules.  Such an agreement is known as a
+     contract. (...)
+
+I argue that, whether or not it actually was binding (plenty of
+contracts have been created that do not impose obligations) the
+parties of myself and the AFO did in fact *intend* (intention is quite
+a  loose concept) that, were obligations added, that X would be
+binding upon us.  There was no clause about bindingness originally.
+However, once I amended the contract to add the non-binding clause, I
+ceased to agree to any such thing, although the contract remained a
+contract.
+
+Therefore, although R1742 previously defined "contracts" as binding
+agreements, it not only no longer does so but no longer requires that
+contracts be binding.
+
+Fourthly, there is Murphy's comment.
+
+> The rules do not explicitly grant us the right to refuse, but
+> neither do they explicitly grant you the right to draft.
+
+R1742, in fact, does.
+
+> Since the agreement is non-binding, we are not bound to recognize
+> its claims as legally effective, any more than the non-parties of
+> Fookiemyartug were bound to recognize its claims wrt "nkep".
+
+This doesn't make any sense to me.  You don't have to recognize the
+claims as legally effective, but they are anyway.  Besides, nkep
+required that non-parties use terms defined in the contract, which is
+quite different, especially considering that, um, you're parties.
+
+
+Fifthly, Zefram commented that
+
+> Even if it does, press-ganging parties patently does not constitute a
+> delegation of message sending rights for CFJ 1833 analysis.
+
+Nonsense!  Consider the judgement of CFJ 1835.  Even when I explicitly
+refused (not just didn't see, *refused*) to be bound by the agreement,
+I was forced to anyway!
+
+> I find that comex's unilateral statement cannot override the contractual
+> provision to which e was bound. The contract was therefore in effect
+> despite the repudiating statement. The AFO was at the time authorised
+> to act on comex's behalf in any way.
+
+Note that I think the word 'bound' here is used in the sense of "to
+tie or secure", i.e. I and the contractual provisions were linked due
+to my being a party to the contract.  This is different from the
+definition of binding as used in the rules which is inherently related
+to obligations; Zefram does not mention obligations in that judgement.
+
+Finally, I would like to comment on pikhq's CFJ.
+> Allowing this scam to work will be the most abusive use of the rules
+> on contracts since the infamous Mousetrap, and, in fact, flies in the
+> face of both the spirit and the text of the Declaration of the Rights
+> of Nomic Players (rule 101).
+
+I have demonstrated that it does not fly in the face of the text of
+R101.  If it is judged that my scam attempt was successful, I will use
+the new rule only to fix the bug, award myself Scamster and then
+repeal it.  I am saying this because Rule 217 requires that judges
+consider the best interests of the game, and a rogue dictator is
+probably not in the best interests of the game.
+
+Although, I don't think that "comex's non-binding agreement 'X' is a
+contract." is a very good statement.  It's definitely a contract, the
+question is whether it's a non-binding agreement.  And you might as
+well go and ask whether I caused (say) Zefram to vote in my message
+dated xxx.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+This "contract" contains TWO blatant self-contradictions.
+
+The FIRST CONTRADICTION is in the first four words:
+
+"1. This contract is non-binding..."
+
+A "non-binding contract" is a contradiction in legal terms, and a
+meaningless semantic construct.  R1742, and R2169, both explicitly and
+implicitly link the concept of "contract" with the concept of it being
+binding in law.   It could be argued that the rules don't define a "non-
+binding agreement", and that a "non-binding agreement" could be a
+contract by common definition.  So looking at the common definition of
+"contract" from M-W online:
+
+con·tract
+1 a: a binding agreement between two or more persons or parties;
+especially : one legally enforceable
+
+So a "non-binding agreement" isn't a contract in either the Rules (which
+define a contract as an agreement which binds) or in common terms (which
+do the same).   A contract is a contract only as long as it is binding,
+and when it ceases to be binding by its own mechanisms (or if it never
+binding), it ceases to be legally enforceable, or have a legal impact on
+the Rules (for example, it ceases to govern delegations, powers of
+attorney, devolution of obligations, transfer of rights and/or duties).
+
+One assertion (by comex and others) is that if a contract begins as
+binding, then changes its text to be non-binding, it remains a contract
+by R1742.  But if a contract is legally amended to read "This is not a
+contract" (as Murphy attempted at one stage but never tested in court:
+"This contract has ceased to be...it is an ex-contract") I find nothing
+in the rules or common sense against taking such self-annullment at face
+value, and having the courts take the position that this does in fact
+terminate the contract.  Changing a contract to claim itself to be "non-
+binding" would have the same effect.
+
+A second point made by comex is that "plenty of contracts have been
+created that do not impose obligations".  However, this is the first
+time any of those have been tested in Agoran Courts (and in fact, if a
+contract claimed to "not impose obligations", there would be no equity
+case that could be brought), so it is quite possible that none of these
+were proper contracts.
+
+The SECOND CONTRADICTION comes from taking clauses 1-3 together:
+
+1. This contract is non-binding, and so it does not impose any
+contractual obligations whatsoever.
+2. comex may act on behalf of any party to this contract by
+announcement.
+3. Each party to this contract allows comex to act on eir behalf
+by announcement.
+
+comex attempts a semantic trick here, by claiming in Clause 1 that a
+contract imposes no obligations, and wording clauses 2-3 to attempt to
+avoid any sense of "obligation."  Clauses 2-3, in fact, DO impose an
+obligation on "non-comex" members, an obligation that actions taken by
+comex on their behalf will be binding unto them, in the same way that a
+Power of Attorney obligates grantees to be bound by actions taken on
+their behalf by the grantor.  Therefore, Clauses 2-3 DO impose
+obligations on members, and Clauses 2-3 conflict with Clause 1.
+
+So there are (at least) TWO CONTRADICTIONS in the body of X.  The
+question is, when multiple clauses conflict with each other, which
+clauses have precedence?
+
+If clause 1 has precedence over clauses 2-3, then the contract is self-
+annulling, with Clause 1 annulling the obligations imposed by Clauses
+2-3, and X is not a contract by Agoran or common definition, as
+described in the FIRST CONTRADICTION, above and a judgement of FALSE.
+
+If clauses 2-3 have precedence, then they impose obligations on members
+in spite of the claim of Clause 1, and X is a binding contract subject
+to all the Rules on binding contracts, leading to a judgement of TRUE.
+
+If none of the clauses have precedence, the status of X may be
+UNDECIDABLE (a self-contradictory loop).
+
+In the absence of any explicit guidance in the contract, I find that the
+overarching statement of Clause 1 ("This contract is...") implicitly
+claims precedence over the rest of the contract (while Clauses 2-3 do
+not claim any sort of precedence, and are focused on details).  Thus
+this contract, by claiming in clause 1 to be non-binding as a whole,
+nullifies the obligations imposed by Clauses 2-3, is self-annulling as
+a whole, and is not a contract.  This is also, I find, in the best
+interests of the game, as tossing a blatently self-contradictory
+contract wholly out of the courts as a non-contract is less "nonsense"
+then picking it apart and looking for sense in its individual pieces.
+
+This Court finds FALSE.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+Versions of the contract, as posted by comex:
+
+Date: Fri, 18 Jan 2008 11:29:20 -0500
+{{
+1. comex may act on behalf of any party to this contract by announcement.
+2. Each party to this contract allows comex to act on eir behalf by
+announcement.
+}}
+
+Date: Tue, 22 Jan 2008 18:25:55 -0500
+{{
+1. This contract is non-binding, and so it does not impose any
+contractual obligations whatsoever.
+2. comex may act on behalf of any party to this contract by announcement.
+3. Each party to this contract allows comex to act on eir behalf by
+announcement.
+4. This is a public contract.
+}}
+
+Date: Sat, 02 Feb 2008 07:52:31 -0500
+{{
+1. This contract is non-binding, and so it does not impose any
+contractual obligations whatsoever.
+2. comex may act on behalf of any party to this contract by announcement.
+3. Each party to this contract allows comex to act on eir behalf by
+announcement.
+4. This is a public contract.
+}}
+
+========================================================================

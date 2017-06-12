@@ -1,0 +1,58 @@
+==============================  CFJ 1791  ==============================
+
+    Eris's VC holdings as reported in the Assessor's report on or about
+    November 3, 2007 have been ratified.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       11 Nov 2007 21:36:58 GMT
+Assigned to root:                       11 Nov 2007 21:42:11 GMT
+Judged FALSE by root:                   12 Nov 2007 18:15:19 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Zefram directly challenged pikhq's VC holdings (see CFJ 1780).  These
+CFJs seek to determine whether this challenge suffices to prevent the
+automatic ratification of all VC holdings in the report in question,
+or only the automatic ratification of pikhq's VC holdings.
+
+Zefram also indirectly challenged the VC holdings of the AFO and Eris
+(see CFJ 1777), but this should not count (see CFJ 1789).
+
+========================================================================
+
+Judge root's Arguments:
+
+The question at hand is whether an explicit challenge to a part of a
+self-ratifying public document prevents the rest of the public
+document from self-ratifying.  Rule 1551 states that "A public
+document is part (possibly all) of a public message."  Thus, a part of
+a public document is also a public document, so the question in
+general is a plausible one.
+
+But can a proper sub-document of a self-ratifying public document
+self-ratify if the whole of the public document does not?  In the case
+of assets, the answer appears to be no.  Rule 2166 reads in part,
+"[The recordkeepor's] report includes a list of all instances of that
+class and their owners.  This portion of that entity's report is
+self-ratifying."  Note that it is the full list of instances that is
+self-ratifying.  I therefore find that a list that is not purported to
+be complete or that is challenged as incomplete cannot self-ratify.
+
+Zefram's challenge to the Assessor's report of November 3, 2007
+constituted a challenge that the list of VCs was incomplete.  As a
+result, no part of the list of VCs did self-ratify.  Accordingly, I
+judge CFJs 1790 and 1791 to be FALSE.
+
+========================================================================

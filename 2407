@@ -1,0 +1,46 @@
+==============================  CFJ 2407  ==============================
+
+    this is a call for judgement.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       10 Mar 2009 22:07:07 GMT
+Assigned to woggle:                     12 Mar 2009 23:08:54 GMT
+Judged TRUE by woggle:                  19 Mar 2009 04:43:42 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+ais523 published the following:
+
+LCzLmcqHdcedya/HncaDcG7JviDJuW/JnyBsbMmQyZQgyZAgc8SxIHPEscmlyocsLCDKh3XHncmv
+x53Kh8mQyodzIMedyaXKhyB1byDKh3XHncmvx53Gg3Buyb4gyblvyZ8gbGzJkMmUIMSxDQoNCi0t
+IA0KYWlzNTIzDQo=
+
+which, when base64-decoded, produces the following text (except upside down
+using Unicode characters), followed by eir signature:
+
+i call for judgement
+on the statement ''this is a call for judgement.''
+
+========================================================================
+
+Judge woggle's Arguments:
+
+[Really upside-down.]
+
+The message was unambiguous, and in these days of wide Unicode support
+reasonably clear (though I would not encourage it in the future). I
+judge TRUE.
+
+========================================================================

@@ -1,0 +1,58 @@
+==============================  CFJ 1659  ==============================
+
+    The phrase "by announcement" and similar phrases used by the charter
+    of Primo Corporation, when qualified by the additional phrase "to
+    the Corporate Forum", are not bound by the standard Rule definition
+    of the phrase "by announcement".
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 BobTHJ
+Barred:                                 Primo Corporation
+
+Judge:                                  The Hanging Judge
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       13 May 2007 22:38:00 GMT
+Assigned to The Hanging Judge:          23 May 2007 20:11:11 GMT
+The Hanging Judge recused:              07 Jun 2007 21:06:19 GMT
+Assigned to root:                       07 Jun 2007 21:06:19 GMT
+Judged FALSE by root:                   13 Jun 2007 02:39:35 GMT
+
+========================================================================
+
+Judge root's Arguments:
+
+Rule 754/6 reads in part:
+
+    (2) A term explicitly defined by the Rules shall be interpreted
+        as having that meaning, as shall its ordinary-language
+        synonyms not explicitly defined by the rules.
+
+The term "by announcement" is explicitly defined by Rule 478/17:
+
+    A player performs an action "by announcement" by announcing that
+    e performs it.
+
+Thus, it is clear to me that the phrase "by announcement" must be
+interpreted according to its Rule 478 definition, regardless of any
+qualification or decoration.  The phrase "by announcement to the
+Corporate Forum" builds its meaning upon the phrase "by announcement",
+and so it cannot be construed as an independent phrase.
+
+Note that this judge does not consider "by announcement to the
+Corporate Forum" to be an oxymoron, but rather the usual phrase with
+an additional restriction.  Therefore, this requirement could be
+satisfied by sending a message to BOTH a public forum and the
+corporate forum.
+
+========================================================================

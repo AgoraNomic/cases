@@ -1,0 +1,103 @@
+==============================  CFJ 2172  ==============================
+
+    The Monster is a person
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  root
+Judgement:                              TRUE
+
+Appeal:                                 2172a
+Decision:                               REMAND
+
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       22 Sep 2008 15:25:59 GMT
+Assigned to root:                       28 Sep 2008 21:42:36 GMT
+Judged TRUE by root:                    07 Oct 2008 21:18:44 GMT
+Appealed by omd:                        07 Oct 2008 22:02:51 GMT
+Appealed by Wooble:                     07 Oct 2008 22:04:27 GMT
+Appealed by G.:                         07 Oct 2008 22:44:16 GMT
+Appeal 2172a:                           09 Oct 2008 14:35:36 GMT
+REMANDED on Appeal:                     02 Nov 2008 16:00:26 GMT
+Assigned to root:                       02 Nov 2008 16:00:26 GMT
+Judged FALSE by root:                   13 Nov 2008 02:08:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Because the Monster certainly has the general capacity to be the
+subjects of rights and obligations under the rules, it is therefore by
+this definition a person. (Other definitions exist in the rules too, but
+this is the most powerful. Rule 2150 also says "An entity is a person if
+and only if it is defined to be so by rules with power 2 or greater.",
+but is itself a rule with power 2 or greater, and thus this definition
+is powerful enough to apply.)
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2150:
+{{{
+      A person is an entity that has the general capacity to be the
+      subject of rights and obligations under the rules.
+}}}
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+The paragraph in question defines what a person is, not what is a person.
+
+========================================================================
+
+Judge root's Arguments:
+
+At first glance, R2150 may appear to be self-contradictory in defining
+persons.  In the first sentence, it gives an intensional definition.
+The second sentence is an extensional definition.
+
+However, these definitions are not (currently) contradictory.  Per the
+intensional definition, "the general capacity to be the subject of
+rights and obligations under the rules" is a necessary and sufficient
+condition for personhood.  Per the extensional definition, biological
+organisms capable of communicating by email in English, public
+partnerships with a basis of at least two persons, and anything
+meeting the intensional definition are persons; nothing else is.
+Since "biological organisms ..." and "public partnerships ..." are
+each a subset of the intensional definition, the two definitions turn
+out to be equivalent.
+
+As the caller suggests, it is clear from R2193 and the first paragraph
+of R2192 that the Monster fits the intensional definition.  I
+therefore assign a judgement of TRUE to CFJ 2172.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+See CFJ 1746.
+
+========================================================================
+
+Judge root's Arguments:
+
+As I've noted, I don't think the reasoning applied in CFJ 1746 was
+entirely correct.  However, the judgement there was reasonable despite
+the arguments, and it went unappealed at the time.  I see no reason to
+change the precedent now, and I accordingly adopt the precedent of CFJ
+1746 for the following judgements.
+
+CFJ 2172: FALSE.
+
+========================================================================

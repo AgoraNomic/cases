@@ -1,0 +1,39 @@
+=========================  Criminal Case 2113  =========================
+
+    Sgeo violated Rule 1742 by leaving the contract "The Winning Team"
+    when the contract forbid leaving the contract.
+
+========================================================================
+
+Caller:                                 Wooble
+Barred:                                 Sgeo
+
+Judge:                                  ais523
+Judgement:                              INNOCENT
+
+========================================================================
+
+History:
+
+Called by Wooble:                       25 Jul 2008 03:00:50 GMT
+Defendant Sgeo informed:                25 Jul 2008 06:55:29 GMT
+Pre-trial phase ended:                  29 Jul 2008 19:48:36 GMT
+Assigned to ais523:                     02 Aug 2008 07:00:34 GMT
+Judged INNOCENT by ais523:              04 Aug 2008 14:33:34 GMT
+
+========================================================================
+
+Gratuitous Arguments by Sgeo:
+
+I plead UNIMPUGNED, as the contract did not exist in a binding capacity yet.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I rule CFJ 2113 trivially INNOCENT, as that contract never existed. (It
+never reached the required number of members to become a contract). (Not
+UNIMPUGNED, because leaving a contract which forbids leaving it is a
+violation of rule 1742.)
+
+========================================================================

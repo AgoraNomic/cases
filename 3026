@@ -1,0 +1,143 @@
+==============================  CFJ 3026  ==============================
+
+    Agora is Satisfied with Wooble's recent intent to register with
+    Agoran Consent.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Wooble
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       17 May 2011 20:51:07 GMT
+Assigned to omd:                        19 May 2011 02:49:44 GMT
+Judged TRUE by omd:                     19 May 2011 03:29:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Here are all the questions of interpretation that I see:
+
+  1) Does support implicitly withdraw one's earlier objection?
+
+  2) When replying to two levels of quoted material without explicitly
+     specifying a target, is either level implicitly specified?
+
+  3) Do similar positive/negative phrases (e.g. FOR / AGAINST, favor /
+     disfavor) count as implicit support / objection?
+
+========================================================================
+
+Caller's Evidence:
+
+[CotC:  "see upcoming CFJ" was copy+pasted and refers to CFJ 3025]
+
+To the best of my knowledge, here are all announcements
+that might have counted as support and/or objection to the intent:
+
+Roujo  > I support or vote FOR, whichever is applicable.
+ais523 > I object. I support.
+omd    > I support.
+scshunt> [replying to ais523] I object to both of these.
+ehird  > I vote AGAINST.
+G.     > [replying to ais523] I favor this.
+Roujo  > [replying to G.] I object.
+Tanner > I favor this intent.
+Roujo  > I support and do so.
+ehird  > I [something, see upcoming CFJ]
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+I was objecting to ais523's support and objection, not
+Wooble's intent.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Note that I interpreted many of the messages as
+supporting/objecting to/favouring/etc. other player's
+supports/objections, rather than Wooble's original intent. (It's
+something of an Agoran tradition to have random supports/objections/etc.
+in a-d in response to blank or test messages, in fact, the
+interpretation of Roujo's "I support and do so" as anything but a
+gameplay-irrelevant joke on the general theme didn't occur to me until
+this spate of CFJs.)
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I purposefully had no idea what I was intending to favor.
+I think I was favoring the datestamp.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Why would it?
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Because, in ordinary language, support and objection are
+mutually exclusive unless qualified (e.g. "I support sending troops to
+Guilder but I object to having them shoot first").
+
+========================================================================
+
+Judge omd's Arguments:
+
+On Wed, May 18, 2011 at 10:49 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> Caller's Arguments:
+>
+> Here are all the questions of interpretation that I see:
+>
+>  1) Does support implicitly withdraw one's earlier objection?
+
+No.  In R2124, being a supporter-and-objector is just the natural
+combination of being a supporter and being an objector; it stands to
+reason that supporting-and-objecting should be the natural combination
+of supporting and objecting, rather than requiring a new syntax.
+
+>  2) When replying to two levels of quoted material without explicitly
+>     specifying a target, is either level implicitly specified?
+
+Depends on context.  In the case of scshunt's message:
+
+>>> I intend, with Agoran Consent, to become a player.
+>> I object. I support.
+> I object to both of these.
+
+"both of these" could refer to both Wooble's and ais523's *messages*
+or both of ais523's actions-- probably the latter-- but it couldn't
+possibly refer to Wooble's intent.
+
+>  3) Do similar positive/negative phrases (e.g. FOR / AGAINST, favor /
+>     disfavor) count as implicit support / objection?
+
+"FOR" certainly does, as the analogy between voting and supporting is
+direct and obvious (in fact, supporting used to be a type of vote).
+Based on the hint from ordinary language, and the different semantics
+of favoring ("support" is more equivalent to "judge TRUE" than
+"favor"), I'd say that "favor" does not.
+
+So, based on Murphy's list, but (as the usual "support/objection goes
+to the intent" assumption clearly cannot be applied here (especially
+not to messages quoting "I yell CREAMPUFF")) disqualifying messages
+that did not quote the intent:
+
+Supporters: Roujo, ais523, omd
+Objectors: ais523, ehird
+
+========================================================================

@@ -1,0 +1,117 @@
+==============================  CFJ 3124  ==============================
+
+    The text labelled in this message as a Victory Announcement is a
+    factually-correct Victory Announcement.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Bucky
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Walker
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           07 Nov 2011 14:41:19 GMT
+Assigned to Yally:                      10 Nov 2011 16:38:45 GMT
+Yally recused:                          20 Nov 2011 22:36:53 GMT
+Assigned to Walker:                     20 Nov 2011 23:12:18 GMT
+Walker recused:                         04 Dec 2011 17:33:19 GMT
+Assigned to Machiavelli:                04 Dec 2011 17:34:42 GMT
+Machiavelli recused:                    08 Dec 2011 20:05:27 GMT
+Assigned to omd:                        10 Dec 2011 22:49:51 GMT
+Judged TRUE by omd:                     12 Dec 2011 07:36:09 GMT
+Reconsideration requested by G.:        13 Dec 2011 20:33:59 GMT
+Reconsideration requested by Murphy:    13 Dec 2011 20:37:53 GMT
+Reconsideration requested by omd:       13 Dec 2011 20:37:53 GMT
+Assigned to omd:                        13 Dec 2011 20:37:53 GMT
+Judged FALSE by omd:                    13 Dec 2011 20:37:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Not a "rules-defined victory condition" at the time that Proposal 7129 took
+effect.  Note that the author of R2343/3 was very very explicit at limiting
+victory conditions to rules-defined ones as the result of a recent scam, so
+the intent of this new rule text should be considered.
+
+Proposal 7129 passed before R2343/3 took effect (in Proposal 7135) and
+victory conditions did not have to be rules defined in R2343/2.  So a likely
+interpretation is that the win was quite valid and a Victory Condition was
+achieved but no Victory Announcement is currently possible.
+
+========================================================================
+
+Caller's Evidence:
+
+> ID: 7129
+> Title: Why did we repeal that victory condition?
+> Author: scshunt
+> AI: 1.0
+> Text:
+>
+> Bucky satisfies the Victory Condition of Paradox.
+
+VICTORY ANNOUNCEMENT:  Bucky has satisfied the Victory Condition of Paradox.
+
+Rule 2343/3 (Power=1.7)
+Victory Conditions [excerpt]
+       A Victory Condition is a condition explicitly defined by the
+       rules as a victory condition.  A Victory Announcement is a
+       published statement labeled as a Victory Announcement that
+       states clearly that a specified person or persons have satisfied
+       a specified and rules-defined victory condition (and explicitly
+       and clearly states which persons and which victory condition).
+       A Victory Announcement is self-ratifying.
+
+========================================================================
+
+Judge omd's Arguments:
+
+I concur with the caller's argument.  TRUE.  (However, Bucky currently
+satisfies the newly enacted Victory Condition of Paradox, so an
+identical Victory Announcement posted now would be factually correct
+and allow em to finally receive eir win.)
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+I intend to motion to reconsider with 2 support.  The caller's arguments
+(mine) were generally for FALSE; I can't tell here if the judge TRUED
+when e meant to FALSE or whether e was reading the caller's arguments
+as being supporting of TRUE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+Oops, I meant FALSE.  I support and do so, and judge FALSE.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Oops, I meant FALSE.  I support and do so, and judge FALSE.
+
+========================================================================

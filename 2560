@@ -1,0 +1,81 @@
+==============================  CFJ 2560  ==============================
+
+    I can initiate an equity case regarding Test Subject 2.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      02 Jun 2009 14:26:56 GMT
+Assigned to ais523:                     06 Jun 2009 06:39:17 GMT
+Judged FALSE by ais523:                 09 Jun 2009 09:19:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If it's Equitable, I can. If it's not, I cannot.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following:
+
+{ This is a pledge named Test Subject 2. Its Disclosure is Public.
+
+coppro can terminate this pledge by announcement.
+
+This contract's Sentiment is Equitable. This contract's Sentiment is
+Legalistic.}
+
+========================================================================
+
+Judge ais523's Arguments:
+
+CFJ 2560 is a test of a conflict between R2162 and R2198. Test Subject 2
+purported to be both Equitable and Legalistic. R2198 itself has no
+problem with this; the paragraph I quoted above therefore attempts to
+platonically hold the switch at simultaneously-equitable-and-legalistic.
+
+R2162 has a problem with this, by specifying that at any given time, a
+switch only has one value. It specifies a method for remedying a
+situation in which a switch 'violates' (in the platonic CAN sense, not
+the legal SHALL sense) the rule by having no value; unfortunately, it
+does not specify a method for remedying a situation in which a switch is
+created with two values at once. However, there is a straightforward
+conflict here: R2162 and R2198 clearly contradict each other on this
+point, they both have power 2, and so by R1030, R2162 is correct, and
+the switch (if it exists; see later) platonically has exactly one value.
+(Incidentally, I consider any need to appeal to R1030 in a judgement
+that isn't specifically to do with a precedence-based question a bug in
+the ruleset; any ideas as to the best way to fix this? I think
+pragmatising R2198 may be the way to go.)
+
+So the final question is, if the switch has exactly one value, which
+value does it have? At this point, I think I have clearly established
+that the value of the switch is ambiguous; flipping to default might be
+a common-sense solution to this, but R2162 specifically only flips a
+switch to default if it has no possible value, and this switch would
+have two. However, R2198 specifies what to do with an ambiguous attempt
+to create a contract; the contract doesn't exist at all:
+{{{
+      The rest of this rule notwithstanding, if the nature and/or
+      permissibility of a Contract Changes is ambiguous, then it has
+      no effect.
+}}}
+[I believe the typo there is irrelevant due to R754; H. Janitor Quazie,
+cleaning it may be a good idea...]
+So Test Subject 2 was not a contract; the attempt to agree to it failed
+due to ambiguity (in the value of its instance of the Sentiment switch).
+And not being a contract, coppro couldn't initiate an equity case
+regarding it. Therefore, I judge CFJ 2560 FALSE.
+
+========================================================================

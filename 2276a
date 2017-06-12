@@ -1,0 +1,423 @@
+============================  Appeal 2276a  ============================
+
+
+Panelist:                               Elysion
+Decision:                               OVERRULE/FALSE
+
+
+Panelist:                               root
+Decision:                               OVERRULE/FALSE
+
+
+Panelist:                               ais523
+Decision:                               OVERRULE/FALSE
+
+========================================================================
+
+History:
+
+Appeal initiated:                       20 Nov 2008 16:46:59 GMT
+Assigned to Elysion (panelist):         25 Nov 2008 20:35:05 GMT
+Assigned to root (panelist):            25 Nov 2008 20:35:05 GMT
+Assigned to ais523 (panelist):          25 Nov 2008 20:35:05 GMT
+ais523 moves to OVERRULE/FALSE:         30 Nov 2008 17:50:00 GMT
+Elysion moves to OVERRULE/FALSE:        04 Dec 2008 22:23:19 GMT
+root moves to OVERRULE/FALSE:           12 Dec 2008 06:46:30 GMT
+Final decision (OVERRULE/FALSE):        12 Dec 2008 10:35:48 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I don't agree with either line of argument, actually. In my
+interpretation of what happens, "is" specifies a value for the voting
+limit; the Notes rule specifies a way to increase it, which takes
+precedence, and therefore sets its own value, which is 1 more than it
+would have been otherwise. Caste says the voting limit is 1: Notes says
+the voting limit is 1+50, and Notes wins. For something which is
+platonically set with an "is", an increase clearly also platonically
+sets it to a higher value than its previous platonic value; as the value
+isn't a floating property like a switch, there's no other interpretation
+of "increase" that makes sense.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+I recommend REMAND with instructions to explicitly evaluate the two
+competing interpretations:
+
+  +S) 2126 takes precedence, so 2156 implicitly defines the initial
+      limit and 2126's increases stick.
+
+  -S) Even though 2126 takes precedence, 2126 only attempts to operate
+      once and 2156 attempts to operate conditionally, so 2126's
+      increases happen but 2156 comes along afterward and resets things.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+An increase that remains in effect for an infinitesimal amount of time
+is no increase at all.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+R2156, in defining that a voting limit *is* a caste level (as opposed
+to saying "is set to" a caste level) constitutes a whole and complete
+definition of a particular voting limit.  As a definition, R2156 governs
+the properties of the voting limit that are possible to exist (R1586)--
+it is no more possible to set a voting level to deviate from a player's
+caste than it would be possible to set a voting limit to be a chunk of
+green cheese.  Such a definition constitutes an implicit claim of
+precedence for the purposes of R1030.  Since R2156 and R2126 are of the
+same power, and R2126 does not itself claim to have greater precedence,
+this claim should be sufficient to establish R2156's authority in the
+matter.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+This actually argues in comex's favour. It is indeed possible to set a
+voting limit to a different value. This does not create an implicit
+claim of precedence for R2156 though; far from it! It means that R2126
+has the claim of precedence, as it's claiming to do something R2156
+claims is impossible. Imagine R1 saying "Goethe CAN deregister by paying
+1 Stem" and R2 saying "Goethe CANNOT deregister"; R1 clearly takes
+precedence here, due to the direct conflict. If it had been R1 saying
+"Goethe CAN deregister by paying 1 Stem" and R2 saying "Every second,
+Goethe becomes unable to deregister", then it's no longer so clear;
+there might not be a conflict due to deregistration-ability becoming
+some sort of flip-state there. When there's an obvious direct conflict
+between two rules, as there is here, there isn't an implicit claim of
+precedence on either; there's an explicit clash, and the more powerful
+rule, or the rule with the lower number, takes precedence.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Thu, 2008-11-20 at 13:04 -0800, Kerim Aydin wrote:
+> An important missing piece in your argument is that I used R1586 to
+> argue for definitional preference. R2 is actually in conflict with R1586
+> as well as R1.  In particular from R1586:
+>                                                          "then that
+>       entity and its properties continue to exist to whatever extent
+>       is possible under the new definitions."
+>          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> It is not possible for the Voting Index to be Green Cheese under its
+> definition as a number.  As R2 would allow me to set it against the R1
+> "new definitions", R2 is in conflict with R1586 (and in the current case,
+> by numerical precedence, R1586 wins).
+This argument fails utterly: quote the first half of that sentence
+{{{
+      If the documents defining an entity are amended such that they
+      still define that entity but with different properties,
+}}}
+and the then clause fails to apply. No way is spending a Note to
+increase voting limit /amending/ the rules that define voting limit.
+
+Also, you seem to have numerical precedence backwards, although I don't
+think it affects your argument.
+
+> Finally, we're *both* making implicit claims.  You're claiming the fact
+> that someone CAN set a numerical index to Green Cheese is an implicit
+> definition that the numerical index has a defined green cheese state.
+> I'm saying that the definition implicitly claims precedence (which only
+> works at the same Power to override numerical precedence) and forbids
+> a green cheese state under R1586 as it is not possible under the new
+> definitions.  I still find my implicit claim far less of a stretch than
+> yours.
+R1030:
+{{{
+      If two or more Rules with the same Power conflict with one
+      another, then the Rule with the lower ID number takes
+      precedence.
+
+      If at least one of the Rules in conflict explicitly says of
+      itself that it defers to another Rule (or type of Rule) or
+      takes precedence over another Rule (or type of Rule), then such
+      provisions shall supercede the numerical method for determining
+      precedence.
+
+      If all of the Rules in conflict explicitly say that their
+      precedence relations are determined by some other Rule for
+      determining precedence relations, then the determinations of
+      the precedence-determining Rule shall supercede the numerical
+      method for determining precedence.
+
+      If two or more Rules claim to take precedence over one another
+      or defer to one another, then the numerical method again
+      governs.
+}}}
+
+Implicit claims don't affect precedence; R1030 explicitly requires
+precedence claims to be explicit. There is definitely no comparison of
+strength of implicit claims! If there is a claim on both sides, or a
+claim on neither side, go numerical; and R2126 beats R2156, with R1586
+being irrelevant.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Several interpretations have been thrown out, including (extended from
+Murphy's post):
+
+ +S) 2126 takes precedence, so 2156 implicitly defines the initial
+     limit and 2126's increases stick.
+
+ -S) Even though 2126 takes precedence, 2126 only attempts to
+     operate once and 2156 attempts to operate conditionally, so
+     2126's increases happen but 2156 comes along afterward and
+     resets things.
+
+ +G) Even though 2126 takes precedence, it defers to Rule 2156
+     because the latter is defining a term used by the former (and
+     Rule 754 takes precedence over both).
+
+ -G) Rule 2156 defines voting limit as caste, so an attempt to
+     increase voting limit is in fact a failed attempt to increase
+     caste.
+
+ +A) Rule 2126's "increase" should be interpreted such that upon an
+     increase, Rule 2126 defines the voting limit as one higher than
+     it would otherwise be, in the fashion of an RPG.
+
+Wooble's judgement agreed with -S, but e gave the issue only a
+perfunctory treatment.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+-G') Rule 2156 defines voting limit as caste, so an attempt to increase
+     voting limit on one proposal alone is an attempt to simultaneously
+     change and not-change caste, thus ineffective.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+A very quick summary of the arguments (I'll flesh them out
+later):
+
++G No rule 754 doesn't say that, and anyway you didn't
+consider the effect of rule 683 in this; rule 754 merely
+says everything's talking about the same thing.
+
+-G/-G': Voting limit isn't caste now, but caste at the
+start of the voting period. Trying to change that
+retroactively isn't something that can sanely be implied
+into a rule, especially given the "by default" in rule
+754.
+
++S/-S: The rules don't try to define a switch here, we
+shouldn't imply one into them unless absolutely necessary.
+(Actually, rule 2156 is ambiguous, and the alternative
+interpretation makes it clear that +S is correct, but
+nobody's suggested that interpretation before and it would
+be against game custom.)
+
++A: The only correct one, see my earlier arguments for now,
+I'll explain in more detail later.
+
+========================================================================
+
+Panelist ais523's Arguments:
+
+There is only one interpretation of rule 2126, 2156, 683
+and 754 that does not lead to a contradiction, which obeys
+the letter of all the rules in question, which doesn't go
+strongly against game custom or rely on an unintended
+ambiguity; that is, that rule 683 sees ehird's voting
+limit as 1 (per rule 2156) increased by 50 (per rule 2126),
+and thus as 51. Therefore, the AFO's assessment of proposal
+5956 was correct, and it was adopted. This panel hereby
+rules OVERRULE/FALSE on CFJ 2276a.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+The really controversial one is CFJ 2276a. So far, 6 possible
+interpretations of what happened have been suggested, which I repeat
+here for reference:
+
+ +S) 2126 takes precedence, so 2156 implicitly defines the initial
+     limit and 2126's increases stick.
+
+ -S) Even though 2126 takes precedence, 2126 only attempts to
+     operate once and 2156 attempts to operate conditionally, so
+     2126's increases happen but 2156 comes along afterward and
+     resets things.
+
+ +G) Even though 2126 takes precedence, it defers to Rule 2156
+     because the latter is defining a term used by the former (and
+     Rule 754 takes precedence over both).
+
+ -G) Rule 2156 defines voting limit as caste, so an attempt to
+     increase voting limit is in fact a failed attempt to increase
+     caste.
+
+ +A) Rule 2126's "increase" should be interpreted such that upon an
+     increase, Rule 2126 defines the voting limit as one higher than
+     it would otherwise be, in the fashion of an RPG.
+
+ -G') Rule 2156 defines voting limit as caste, so an attempt to increase
+     voting limit on one proposal alone is an attempt to simultaneously
+     change and not-change caste, thus ineffective.
+
+Here are the relevant excerpts of the relevant rules:
+
+Rule 754(2):
+{{{
+       (2) A term explicitly defined by the Rules by default has that
+          meaning when used in any Rule of equal or lesser power, as
+          do its ordinary-language synonyms not explicitly defined by
+          the rules.
+}}}
+Excerpt from rule 683:
+{{{
+      The voting limit of an eligible voter on an Agoran
+      decision is one, except where rules say otherwise.
+}}}
+Rule 2126(7):
+{{{
+      (7) A player CAN spend one Note to increase another player's
+          voting limit on an ordinary proposal whose voting period is
+          in progress by 1.
+}}}
+Excerpt from rule 2156:
+{{{
+      The
+      voting limit of an eligible voter on an ordinary decision is eir
+      caste at the start of its voting period, or half that (rounded
+      up) if the voter was in the chokey at that time.
+}}}
+
+I want to cover the +G interpretation first, as it was the subject of an
+extensive argument between me and Goethe. The argument here is that rule
+754 makes definitions take precedence over actions. First, I want to
+take rule 683 into account. Unarguably, it is rule 683 that defines
+voting limit; it's defined as 1 except where rules say otherwise. In
+this case, only rules 2126 and 2156 say otherwise, so they're the
+relevant rules. Goethe claims that rule 754(2) means that definitions
+take precedence over actions; but it says no such thing. (The "by
+default" is a big clue against, but even without that, all the rule is
+saying is that text defined by the rules can be referenced by the rules,
+obvious but it's relevant because it's establishing a precedence order
+of definitions.) So rule 754(2) establishes that "voting limit" means
+the same things in rules 683, 2126, and 2157; but this has not been
+disputed. (Goethe also suggested the possibility that rule 2156 defines
+a switch with only one possible value; I'll consider this later along
+with -S, which is similar but different.)
+
+I'd like to rebut -G and -G' next. The relevant phrase here is "at the
+start of its voting period"; this pretty clearly establishes that voting
+limit and caste are different things. If it had said "The voting
+limit ... is eir caste", then it would be unclear whether it was
+defining a synonym for caste (what these interpretations rely upon) or
+something different; even then, though, the existence of rule 683
+implies that voting limit is something separate. The interpretation that
+-G and -G' put on rule 2126 in particular is absurd, though; it would
+mean that people could spend notes to /retroactively/ change eir Caste
+at the start of the voting period. Implying retroactive behaviour into a
+rule that doesn't ostensibly act retroactively is something highly
+against game custom, and in this case no rule suggests that that is what
+is happening; rule 683 makes it pretty clear that the value of voting
+limit is not the same thing as caste is, even though rule 2156 defines
+voting limit to have the same value as caste.
+
++S and -S both take the argument that rule 2156 defines some sort of
+implicit switch, differing about how exactly this switch works. First, I
+would like to point that rule 2156 is ambiguous: if it's read as "At the
+start of its voting period, the voting limit of an ordinary voter on an
+eligible decision is eir caste...", then +S is pretty obviously the
+correct definition with a relatively obvious implicit switch. However,
+this reading isn't the one that most players have come up with reading
+the rule, and thus game custom and rule 217 would imply that it isn't
+the reading that should be taken. (Note that this CFJ leads to the same
+result but different reasoning if it is, by the way.) I would favour
+this reading of the rule if it were the only reading consistent with the
+older rule 2126, but as it happens, it isn't.
+
+With the intended reading of rule 2156, we have to consider whether it
+does in fact define a switch. It's been argued that it's a switch with
+only one possible value, a switch that is changeable by the rules at
+will, or some sort of elastic switch which is platonically set to a
+particular value at every opportunity; however, none of these
+definitions seem reasonable; the ambiguity that has blown up here is
+good evidence of this. Still better evidence, though, is rule 683
+itself, which defines voting limit but clearly doesn't define a switch.
+Also, we should be wary of implying switches into the rules where they
+clearly don't imply there is one; many things specified in much the same
+way, like pledgeness, are not switches but instantaneously evaluated
+things. I think the main reason that +S and -S were suggested was that
+there were no clear alternatives suggested at the time; when, as in this
+case, the rules do not define a switch, it is clearly preferable to
+interpret them as not defining a switch.
+
+This leaves us with +A; I believe this is the correct interpretation, as
+it's the only interpretation which fits the letter of the rules and game
+custom. We have -G and -G' which imply synonyms that aren't there and
+retroactive changes; +G which relies on a perverse reading of rule 754,
+and also ignores rule 683; and +S and -S which define a switch with
+unknown parameters which isn't mentioned by the rules; none of these
+fits the literal definition of what the rules say. +A does, and also
+fits both game custom, and the spirit of the rules in question (this
+last is a bonus, but obviously, and especially where scams are
+concerned, the letter of the rules in question takes precedence over
+their spirit as long as it's unambiguous); it also does not rely on any
+precedence resolution mechanism, as none of the rules contradict each
+other in this interpretation (Power Controls Mutability is relevant, but
+only insofar as it requires me to point out that rule 683 is the rule
+defining voting limit here but it's explicitly looking at other rules
+and using their subordinate definitions; again, uncontroversial I think,
+although some people missed it during the initial arguments). The
+reasoning goes like this:
+
+Rule 683 says (in this case) that voting limit is according to what
+rules say.
+
+Rule 2156 says that voting limit (in this case) is equal to caste at the
+start of the voting period (possibly halved).
+
+Rule 2126 says that voting limit on a particular proposal CAN be
+increased by spending notes (i.e. attempts to increase it by spending
+notes succeed).
+
+So suppose there's an attempt to increase voting limit on a particular
+proposal. Rules 2126 and 2156 don't do anything directly to the voting
+limit; they only matter because rule 683 looks at them to see what
+happens. When rule 683 looks up the voting limit, what does it see? It
+sees that ehird's voting limit is 1, increased by one 50 times, i.e. 51.
+Although this definition of "increase" is different from the definition
+used in "increase caste", it is a perfectly common English definition;
+in fact, similar definitions are used elsewhere in the rules ("lowered"
+in rule 1668, "decreases" in rule 2019). Importantly, there are no
+contradictions anywhere here, each rule is working as expected and
+exactly as it literally states, and there are no contradictions
+anywhere.
+
+I don't know of any alternative interpretations for what happened; but I
+have yet to see a plausible argument as to why +A is wrong. (No, Goethe,
+rule 754 does not say what you think it says, and even if it did it
+wouldn't matter.)
+
+========================================================================
+
+Panelist Elysion's Arguments:
+
+I support this. Referencing rule 683 is what won me over, BTW.
+
+========================================================================
+
+Panelist root's Arguments:
+
+[support actually given by CotC Murphy]
+
+========================================================================

@@ -1,0 +1,75 @@
+==============================  CFJ 2540  ==============================
+
+    It is POSSIBLE for a proposal to change the Rules.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          26 May 2009 17:58:04 GMT
+Assigned to Quazie:                     29 May 2009 21:12:04 GMT
+Quazie recused:                         11 Jun 2009 04:23:12 GMT
+Assigned to Murphy:                     11 Jun 2009 04:24:48 GMT
+Judged TRUE by Murphy:                  11 Jun 2009 04:50:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+No rule specifically allows R1551 (Ratification) to make Rule Changes.
+ Rule 106 previously read:
+
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
+
+but now reads:
+
+      A proposal is a fixed body of text which has been made into a
+      proposal using a process specifically described in the Rules.  A
+      proposal SHOULD outline changes to be made to Agora, including
+      enacting, repealing, or amending rules, or making other explicit
+      changes to the gamestate.
+
+which arguably no longer grants permission to make Rule Changes.
+
+See also CFJ 2213.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 105/3 (Power=3)
+Rule Changes
+
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
+...
+      This rule provides the only mechanism by which rules can be
+      created, modified, or destroyed, or by which an entity can
+      become a rule or cease to be a rule.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 106's "A proposal SHOULD outline changes ... including [rule
+changes]" and "the proposal ... takes effect" are together sufficient
+to preserve the intent that proposals are generally permitted to change
+the rules, which satisfies Rule 105's "Where permitted by other rules"
+in the case that the proposal would cause one or more rule changes.  (If
+this line of argument is rejected, then the relevant amendment to Rule
+106 was probably blocked by Rule 1698.)
+
+========================================================================

@@ -1,0 +1,180 @@
+==============================  CFJ 3449  ==============================
+
+    I possess the patent title "Head of the Agoran Ceremonial Mint".
+
+========================================================================
+
+Caller:     scshunt
+Judge:      G.
+Judgement:  FALSE
+
+========================================================================
+
+Called by scshunt:                                  15 Jul 2015 22:58:07
+Assigned to aranea:                                 21 Jul 2015 15:55:44
+Judged FALSE by aranea:                             28 Jul 2015 12:36:44
+Reconsideration requested by scshunt:               28 Jul 2015 12:50:17
+Reconsideration requested by omd:                   28 Jul 2015 16:20:27
+Reconsideration requested by aranea:                29 Jul 2015 07:59:18
+Reconsideration initiated by G.:                    29 Jul 2015 15:36:03
+aranea recused:                                     06 Aug 2015 01:45:32
+Assigned to Tekneek:                                06 Aug 2015 01:45:32
+Tekneek recused:                                    17 Aug 2015 21:58:25
+Assigned to G.:                                     17 Aug 2015 21:58:25
+Judged FALSE by G.:                                 28 Sep 2015 18:46:55
+
+========================================================================
+
+<1437011890.18328.20.camel@adf.bham.ac.uk>
+Exhibit by ais523:
+
+I think you can plausibly argue that the referent of "its" in rule 106
+is ambiguous; if it refers to the decision rather than the rule, nothing
+is broken.
+Alternatively, you're trying to take the minimum of 4 and an undefined
+value. I'd have thought the most sensible resolution of this situation
+is to calculate the result as 4.
+
+========================================================================
+
+<CAMQXVwVh40Kr+Q-FDNQpzfKnL-iTzXQm3SxAJnFVbh32qp9gmA@mail.gmail.com>
+Exhibit by scshunt:
+
+As comex pointed out in the discussion forum, Proposal 7448 was
+submitted without an AI and purported to award me that Title, but was
+assumed to have failed to do so due to insufficient AI.
+If ais523's argument that the "minimum of 4 and its adotion index" is
+in fact 4, however, it succeeded.
+
+========================================================================
+
+Judge's Arguments by aranea:
+
+Note: I've had some troubles finding a ruleset from Jun 2013 (when the
+resolution of proposal 7448 took place). I believe the relevant rules
+cited below existed back then, but I'm not 100% sure.
+
+"its adoption index" in R106 refers to the proposal, not to the
+decision, as the other "its" and the "it" in the same sentence also
+refer to the proposal. So if a proposal doesn't has an adoption index
+of "none", this results in fact in the power of the proposal being set
+to the minimum of four and "none".
+
+I agree with ais523's interpretation that the the minimum of four and
+none is four; mathematically, this seems to make sense: If we assume
+{'none'} = {} and "minimum of a and b := min {a,b}", then "minimum of
+none and four" evaluates to min {'none',4} = min {4} = 4.
+
+However, I don't believe proposal 7448's adoption index actually _was_
+'none' at the time R106 was applied to it. According to R2034,
+"A public message purporting to resolve an Agoran decision constitutes
+self-ratifying claims that [..] (if the indicated outcome was to adopt
+a proposal) such a proposal existed, was adopted, and took effect.".
+
+The message resolving the relevant decision
+(https://www.mail-archive.com/agora-official@agoranomic.org/msg06802.html)
+clearly indicated the AI of proposal 7448 as 1. Nobody objected, so the
+claim self-ratified and caused p7748's AI to become 1 "at the time the
+ratified document was published" according to R1551, which I believe to
+be before the application of R106.
+
+Therefore, R016 "saw" a proposal with an AI of 1 and subsequently set
+the power of the proposal to 1 before causing it to take effect; so
+p7448 had in fact insufficient power to award an patent title.
+
+I judge FALSE and award myself a Blue Ribbon (I'm still 3h20 short of
+the deadline!).
+
+========================================================================
+
+Motion to Reconsider by scshunt:
+
+I intend, with 2 support, to file a Motion to Reconsider on this case.
+
+It is true that there is self-ratification involved in order to make
+the proposal resolution mechanism work, however! ratification causes a
+minimal change to the game state to be applied.
+
+In other words, the self-ratification of the resolution only causes a
+minimal change to the game state to ensure that the following three
+things are true:
+- The proposal exists
+- The proposal was adopted
+- The proposal took effect
+
+None of these things is inconsistent with the proposal having no AI.
+Thus the minimal game state modification is to do nothing.
+
+There is possibly an argument that the AI refers to "such a proposal
+existed", however, I do not think that should be interpreted in that
+fashion. If the AI is included in that ratification, then the text is
+as well. This in turn implies that an Assessor could scam
+self-ratification by subtly changing the text of a proposal, which is
+clearly not the intent (otherwise why would the author carefully limit
+what is self-ratified?) and also bad for the game.
+
+Thus the "such a proposal existed" exists should be interpreted
+minimally, without reference to any additional properties defined by
+the Assessor.
+
+========================================================================
+
+Judge's Arguments by G.:
+
+Aranea has already laid the groundwork for this opinion, primarily
+by citing R2034:
+"A public message purporting to resolve an Agoran decision constitutes
+self-ratifying claims that [..] (if the indicated outcome was to adopt
+a proposal) such a proposal existed, was adopted, and took effect.".
+
+scshunt, in eir Motion to Reconsider, claims that:
+[...] the self-ratification of the resolution only causes a
+minimal change to the game state to ensure that the following three
+things are true:
+- The proposal exists
+- The proposal was adopted
+- The proposal took effect
+None of these things is inconsistent with the proposal having no AI.
+
+However, when we refer to "such a proposal" existing, we have to ask
+what properties define the proposal that "exists", and is AI included?
+
+For a long time, both the Promotor and Assessor have habitually
+published results with a Table of Results up front, and then a list
+of Proposals (in the case of the Assessor, the adopted proposals only). 
+For example, recently:
+
+[This notice resolves the Agoran decisions of whether to adopt the
+following proposals.  For each decision, the options available to
+Agora are ADOPTED (*), REJECTED (x), and FAILED QUORUM (!).]
+
+*7772  scshunt    3.0  Tie-Breaking Votes
+*7784  omd        0.2  Mammon Machine
+
+Then later in the message:
+
+Text of adopted proposals:
+
+ID: 7772
+Title: Tie-Breaking Votes
+Adoption index: 3.0
+Author: scshunt
+Co-author(s):
+
+Amend Rule 955 (Determining the Will of Agora) by replacing
+
+The Top Table clearly refers to DECISION AI, not Proposal AI.  But the
+lower section is labeled "text of adopted proposals" and lists
+properties associated with PROPOSALS (authors and co-authors, etc). 
+Therefore, I find that, if listed this way, the second listing
+refers to the AI of the Proposal, not the Decision.
+
+Therefore, in this case, the ratification is that "such" a proposal
+as listed in the lower section (including its AI) is adopted, which
+ratifies the AI successfully.  The Assessor's Report for proposal 7448
+followed this model, so the AI was ratified at too low of a power to
+make the disputed patent award.
+
+I judge FALSE.
+
+========================================================================

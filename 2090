@@ -1,0 +1,149 @@
+==============================  CFJ 2090  ==============================
+
+    CFJ 2019 is a valid CFJ.
+
+========================================================================
+
+Caller:                                 Quazie
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+Appeal:                                 2090a
+Decision:                               REMAND
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       16 Jul 2008 22:46:35 GMT
+Assigned to ais523:                     19 Jul 2008 00:35:29 GMT
+Judged TRUE by ais523:                  21 Jul 2008 15:11:28 GMT
+Appealed by root:                       22 Jul 2008 20:01:05 GMT
+Appealed by Zefram:                     22 Jul 2008 20:21:26 GMT
+Appealed by Taral:                      22 Jul 2008 23:54:22 GMT
+Appeal 2090a:                           22 Jul 2008 23:54:22 GMT
+REMANDED on Appeal:                     08 Aug 2008 16:06:54 GMT
+Assigned to ais523:                     08 Aug 2008 16:06:54 GMT
+Judged TRUE by ais523:                  11 Aug 2008 20:43:09 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Jul 16, 2008 at 3:44 PM, Ian Kelly <ian.g.kelly@gmail.com> wrote:
+> On Wed, Jul 16, 2008 at 4:42 PM, Geoffrey Spear <geoffspear@gmail.com>
+wrote:
+>> On Wed, Jul 16, 2008 at 6:37 PM, Ian Kelly <ian.g.kelly@gmail.com> wrote:
+>>> On Wed, Jul 16, 2008 at 4:30 PM, Quazie <quazienomic@gmail.com> wrote:
+>>>>      The initiator is unqualified to be assigned as judge of the
+>>>>      case, and in the initiating announcement e CAN disqualify one
+>>>>      person from assignment as judge of the case.  If the initiator is
+>>>>      a partnership, all members of that partnership are unqualified
+>>>>      to be assigned as judge of the case.
+>>>
+>>> Partnerships can't initiate inquiry cases.
+>>
+>> Rule 591 is only power 1.7; partnerships have an R101 right to initiate
+cases.
+>
+> We discussed this ages ago; my recollection is we determined their
+> R101 right was preserved by the ability of members of their bases to
+> initiate cases for them.
+>
+> -root
+>
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Although it is not possible for a partnership to file a CFJ directly (it
+can file a partnership via the members of its basis instead), that only
+means that CFJ 2019 was not filed by Human Point Two. As CFJ 2019 was an
+inquiry case, it was entirely within Murphy's power to create such a CFJ
+emself; therefore, I rule that CFJ 2019 was accidentally created by
+Murphy when e assigned it to someone (and was incorrect about its
+caller), in much the same way that the distributor can create a proposal
+by mistake in the act of distribution. Therefore, TRUE, but the CotC's
+report should be amended to list the CFJ's actual caller.
+
+========================================================================
+
+Appellant root's Arguments:
+
+I intend to appeal this judgement with two support.  R591 is clear
+that an inquiry case is initiated through a public announcement by a
+first-class player that e initiates the case.  Nowhere in Murphy's
+assignment of CFJ 2019 did e make any such announcement.
+
+The analogy to proposals is specious.  Proposals are documents that
+are created by the act of writing them, not by the act of submitting
+them; this is how the distributor can create new proposals
+accidentally.  Inquiry cases, in contrast, are purely legal fictions.
+
+========================================================================
+
+Appellant Zefram's Arguments:
+
+I support.  The rules are clear about what creates a CFJ.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, the instructions from the appeal board are somewhat hard to
+follow; Quazie's and Zefram's arguments hardly qualify as "recent"
+because the appeal process has taken so long. It took me a while to
+locate the arguments in question, so I repeat them here for convenience.
+
+Quazie wrote:
+> I do not support.  BUT if there is an appeal of this case I urge the
+> panel to look into whether R591 can indeed prevent a partnership from
+> submitting a CFJ and also look at CFJ 2050 and how/if it applies to
+> this situation.  If player A submits a CFJ on behalf of player B, then
+> player A actually submitted the CFJ.  Logically applied here CFJ2019
+> was not submitteb by h.2 but instead by Quazie.
+
+root wrote:
+> I intend to appeal this judgement with two support.  R591 is clear
+> that an inquiry case is initiated through a public announcement by a
+> first-class player that e initiates the case.  Nowhere in Murphy's
+> assignment of CFJ 2019 did e make any such announcement.
+
+Zefram wrote:
+> I support.  The rules are clear about what creates a CFJ.
+
+Rule 591 says:
+{{{
+An inquiry case CAN be initiated by any first-class person, by
+announcement which includes the statement to be inquired into.
+}}}
+
+Rule 478 says:
+{{{
+Where the rules define an action that CAN be performed "by
+announcement", a person performs that action by announcing that e
+performs it.
+}}}
+
+In that case, it is indeed impossible to create an inquiry case without
+a player stating that they create an inquiry case (or synonyms to that
+effect), so Murphy indeed could not create a CFJ by mistake because e
+did not explicitly say e was creating the initial CFJ (this differs from
+my original ruling). Human Point Two obviously also did not create the
+CFJ, not being first-class. So the remaining argument to look into is
+Quazie's. Luckily, there is precedent on this matter; CFJ 2050 holds
+that CFJ 2050 was filed by me not by tusho (I submitted the CFJ on
+behalf of em, but it was found in that CFJ that I submitted it and not
+tusho (note for the CotC: your database is wrong with respect to the
+caller of 2050)). Therefore, I find TRUE, and that CFJ 2019 was
+submitted by Quazie under the precedent of CFJ 2050 (and would have been
+submitted by Quazie even if e had tried to submit it on behalf of a
+first-class person).
+
+========================================================================

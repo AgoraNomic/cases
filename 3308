@@ -1,0 +1,82 @@
+==============================  CFJ 3308  ==============================
+
+    scshunt objects to the Ambassador-at-Large's latest intention
+    regarding Psychose Nomic.
+
+========================================================================
+
+Caller:                                 Roujo
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Roujo:                        19 Apr 2013 20:43:34 GMT
+Assigned to ais523:                     20 Apr 2013 22:24:46 GMT
+Judged TRUE by ais523:                  25 Apr 2013 23:06:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In the quoted message, scshunt said "I object until more
+info is provided.", information which I then provided, satisfying the
+condition.
+
+========================================================================
+
+Caller's Evidence:
+
+On Fri, Apr 19, 2013 at 3:56 PM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+> On Fri, Apr 19, 2013 at 3:53 PM, Jonathan Rouillard
+> <jonathan.rouillard@gmail.com> wrote:
+>> I intend, with Agoran Consent, to flip OmNomNomic's recognition to
+>> Neutral. See here for details: http://www.reddit.com/r/omnomnomic
+>> I intend, with Agoran Consent, to flip Psychose Nomic's recognition to
+>> Friendly. That's a Nomic I've started a couple of years ago with some
+>> friends of mine. May Agora have mercy on its soul.
+> I object until more info is provided.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+To start off with, I expand scshunt's statement to a more precise,
+equivalent version: "I object. I withdraw that objection when more info
+is provided.". This seems to be the only reasonable expansion of the
+statement; matters would be more confusing if withdrawing objections
+were impossible, but in this case there obvious expansion of the
+statement consists of a pair of possible actions, one of which has a
+dubious timing rule.
+
+Seen in that light, the original objection worked. But what about the
+withdrawal? Rule 2124 defines a mechanism via which dependent actions
+can be objected to (which is equivalent to by announcement, although
+defined in a more long-winded way). It's a little dubious as to whether
+it defines a mechanism for withdrawing dependent actions; game custom
+and the surrounding context makes announcement reasonable for that, as
+well (especially as one possible reading of the rule, if not the most
+natural one, makes it possible to group "publicly" with "posted (and not
+withdrawn)" rather than just with "posted". So it makes sense to rule
+that the appropriate mechanism for withdrawing an objection is by
+announcement.
+
+As such, an attempt to set up a delayed objection withdrawal merely by
+saying that an objection is withdrawn in the future upon meeting
+specified conditions is the ISIDTID fallacy; no rule provides that as a
+mechanism for withdrawing objections, so it fails. (I note that you
+could accomplish something similar via "I object. I promise to withdraw
+that objection if more information is provided.", but that has the
+crucial distinction that someone would actually have to cash the
+promise, and you'd need to give the promise to someone (or the Tree) in
+order to make that possible. So there'd be no weird platonic timing
+issues involved; the withdrawal would happen when the promise was
+cashed, rather than some weird moment of information provision.)
+
+As such, the objection succeeded and the withdrawal failed: TRUE.
+
+========================================================================

@@ -1,0 +1,200 @@
+=========================  Criminal Case 3194  =========================
+
+    ehird violated rule 2205 by submitting a CFJ without submitting such
+    arguments and/or evidence (relevant to that case) as e were
+    reasonably able to collect, nor understanding the full implications
+    of failing to submit such arguments and carefully weighing them.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 ehird
+
+Judge:                                  FKA441344
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              GUILTY/APOLOGY
+
+========================================================================
+
+History:
+
+Called by ais523:                       25 Mar 2012 22:36:35 GMT
+Defendant ehird informed:               25 Mar 2012 22:36:35 GMT
+Assigned to FKA441344:                  29 Mar 2012 06:41:24 GMT
+FKA441344 recused:                      09 Apr 2012 22:31:41 GMT
+Assigned to omd:                        06 May 2012 18:18:48 GMT
+omd recused:                            26 May 2012 01:54:03 GMT
+Assigned to Murphy:                     26 May 2012 01:55:01 GMT
+Judged GUILTY/APOLOGY by Murphy:        26 May 2012 16:26:06 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule excerpts:
+Rule 2152:
+{{{
+      7. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+         the described action, the full implications of failing to
+         perform it should (in the ordinary-language sense) be
+         understood and carefully weighed.
+}}}
+Rule 2205:
+{{{
+      Each of the following participants in a judicial case SHOULD
+      present such arguments and/or evidence (explicitly labeled)
+      relevant to that case as e is reasonably able to collect:
+
+      1) The initiator, when initiating the case.
+}}}
+
+The only past judgement I could find on the subject with a reasonable
+search through the CotC database (filtering on "should" in arguments/
+evidence, and looking at all criminal cases) was CFJ 3120 ("ais523
+violated a SHOULD requirement in rule 2205 by submitting this CFJ."),
+which found that actually considering the full implications of failing
+to perform an action (and, presumably, carefully weighing them) is
+sufficient to avoid violating a SHOULD requirement. Sgeo pointed me to
+CFJ 2383 ("Sgeo violated rule 1750 by failing to read the ruleset during
+Read the Ruleset week, and also failing to understand or to carefully
+weigh the consequences of this failure."), which I somehow missed
+looking through the list (the CFJ itself is light on arguments, but
+there are lots of interesting arguments in the appeal); CFJ 2383a found
+that it was possible to deliberately violate a SHOULD requirement.
+Thanks for the reminder, Sgeo!
+
+Probably it's also worth mentioning CFJ 3188, which sort-of found that a
+mere statement from me that I wasn't Mr. Snuggles (combined with a lack
+of any evidence that I was) was sufficient to legally consider me to not
+be em. It's not the best of precedents, though, due to the lightness of
+its reasoning.
+
+(Note that CFJ 2105 is irrelevant here; the requirement violated is a
+SHOULD requirement nowadays, but was a SHALL requirement at the time of
+the CFJ. Just to save the judge of this CFJ some work chasing it up.)
+
+
+We haven't had a good violated-a-SHOULD case for a while. In this case,
+the evidence is reasonably clear-cut: ehird's CFJ came soon enough after
+mine that he didn't really have time to consider the implications and
+carefully weigh them (nor did e claim to have done in the message, nor
+is e the sort of person who's at all likely to carefully weigh the
+implications of something before acting impulsively, and e admitted to
+not have done so on IRC). Especially with the precedent of CFJ 3188, I
+think there's enough evidence that ehird didn't take the implications
+into account. The arguments and evidence on the case e started are also
+clearly deficient; they talk about why e submitted the case, but not
+about the subject of the case, and the case is not trivial (I can see
+arguments for both FALSE and UNDETERMINED, and the case could probably
+do with better arguments, and it would be trivial to produce the
+evidence of Mr. Snuggles claiming to be an existing player at a time
+when kcnomic wasn't registered (it took me less than 10 seconds with my
+mailreader's search function to find the message with subject "BAK: mr
+snuggles' manifesto"); so I guess it would come down to whether you
+trust Mr. Snuggles not to lie about eir identity, despite the effort e's
+taken to keep it secret).
+
+The difference between this case and CFJ 2383/2383a is that in the
+previous case, Sgeo was aware of the recommendation to read the rules
+during February, whereas in this case, ehird was presumably not aware of
+the recommendation to submit reasonably accessible arguments and
+evidence on a CFJ when creating it (e is not currently a player, and
+although e knew of the recommendation in question, was under the
+mistaken belief that it applied only to players, like the requirement to
+label arguments and evidence correctly is). Ignorance of the rules is no
+defence in the case of SHALL requirements, but is it in SHOULD
+requirements? (Note that the rule has not been amended since ehird was
+last a player, and e should have known what it said then).
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, 2012-03-25 at 22:17 +0100, Elliott Hird wrote:
+> On 25 March 2012 21:49, ais523 <callforjudgement@yahoo.co.uk> wrote:
+> > CFJ: kcnomic is a player.
+>
+> CFJ: kcnomic is mister snuggles.
+>
+> Arguments: I'm trying to destroy Agora by systematically clogging the
+> courts with nonsense CFJs.
+>
+> Evidence: This message.
+
+Also, the following discussion on IRC (edited to remove irrelevant
+chatter, but the original discussion is logged at
+
+<http://codu.org/logs/log/_esoteric/2012-03-25#220322ais523> so that the
+judge can verify that I haven't omitted anything important:
+[23:03] <ais523> elliott: in your very recent Mr. Snuggles CFJ, did you
+consider the implications of submitting it without proper arguments or
+evidence?
+[23:04] <elliott> ais523: I'm not a player, so I don't think I have to
+[23:05] <ais523> so you didn't?
+[23:06] <elliott> ais523: maybe I did, maybe I didn't... whichever one
+will not result in you doing something nasty like criminal cfjing me
+[23:07] <ais523> I'm going to criminal CFJ you /anyway/
+[23:07] <elliott> oh
+[23:07] <elliott> well, I definitely did
+[23:07] <elliott> I concluded that it was for the good of Agora for me
+to submit that CFJ
+[23:07] <elliott> mainly because it would lead to the game's collapse,
+which is for the best
+[23:07] <ais523> you're not helping
+[23:07] <ais523> I wanted a nice clear precedent on whether it was
+possible to violate a SHOULD or not
+[23:08] <elliott> oh
+[23:08] <elliott> well, truthfully, I didn't :P
+[23:08] <elliott> i suppose the only way i can be punished is EXILE,
+which is rather ineffective.
+[23:09] <ais523> somehow I guessed that :)
+[23:09] <ais523> and indeed, and it's possible you'll have a low or null
+centre
+[23:09] <ais523> *punishment
+[23:09] <ais523> even if you are found guilty
+
+========================================================================
+
+Gratuitous Arguments by Bucky:
+
+CfJ 3018 is a direct precedent, although it dealt with not labeling evidence
+rather than not including enough of it.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+In CFJ 3018:
+
+  * The severity of the inaction was low.  (The unlabeled text was
+    clearly evidence in context.)
+
+  * There was no evidence that the defendant hadn't thought about the
+    implications of eir inaction.
+
+  * Thus, it was reasonable to assume that e had thought about it.
+
+In this case:
+
+  * The severity of the inaction is higher.  (The case was not
+    obviously IRRELEVANT or FALSE, and e didn't explicitly state
+    whether e had any real evidence either way.  Granted, the judge of
+    such a case can just respond "UNDETERMINED, come back when you've
+    done your homework", but that's still extra work for em.)
+
+  * E admitted that e hadn't thought about the implications.  (E has
+    not denied the IRC conversation, despite having had ample time and
+    opportunity to do so.  In said conversation, e didn't even address
+    the possibility of being prosecuted until ais523 asked whether e had
+    thought about things.)
+
+GUILTY / APOLOGY (destroy, is, such, an, ugly, word)
+
+========================================================================

@@ -1,0 +1,47 @@
+==============================  CFJ 2406  ==============================
+
+    If an officer violates a time limit to perform a required action,
+    then another player CAN perform that action as if e held that office
+    via deputisation even if the officer in question performed the
+    action after the time limit expired but before the deputisation, as
+    long as it would be possible (but not necessarily mandatory) for the
+    officer to perform the action in question a second time.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       09 Mar 2009 17:21:17 GMT
+Assigned to omd:                        12 Mar 2009 23:52:32 GMT
+Judged FALSE by omd:                    12 Mar 2009 23:58:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2160 appears to explicitly allow this;
+probably that's a bug. (The only part of Rule 2160 which appears to have
+a chance of preventing that is the "rules require" in part a, and that's
+rather vague.)
+
+========================================================================
+
+Judge omd's Arguments:
+
+Following Goethe's reasoning in the other case, when an officer
+violates a time limit, the broken obligation is converted to an
+open-ended one without a time limit.  If the officer performs the
+action after the time limit expires, e satisfies the open-ended
+obligation, so the rules no longer require em to perform it.  Even if
+that argument is rejected, the alternative is that deputisation is
+generally impossible, not that required actions can be performed
+*twice*.  I judge FALSE.
+
+========================================================================

@@ -1,0 +1,45 @@
+==============================  CFJ 2950  ==============================
+
+    coppro CAN cause any office to become vacant by announcement.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          26 Dec 2010 12:08:56 GMT
+Assigned to Murphy:                     10 Jan 2011 01:09:52 GMT
+Judged TRUE by Murphy:                  11 Jan 2011 07:50:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This action clearly falls into R2125's "CAN be performed
+while certain conditions are satisfied", as any player can do it
+without objection (R1006).
+
+[2:51 PM] <comex> starting from a blank slate, you can go two ways
+[2:51 PM] <comex> for an action which is permitted in certain
+circumstances by other rules
+[2:51 PM] <comex> 1. coppro's rule says he CAN; R2125 is fine with it
+[2:51 PM] <comex> 2. R2125 forbids it; coppro's rule doesn't apply
+[2:52 PM] <comex> but... there is no way to decide which way to go
+[2:52 PM] <comex> so UNDECIDABLE is appropriate
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 2125 (c) consistently uses "the rules", not "the rule".  In this
+case, it was triggered by Rules 1006 and 2324 collectively, causing it
+to prevent making offices vacant except as allowed by "the rules" (i.e.
+either Rule 1006 or Rule 2324).  TRUE.
+
+========================================================================

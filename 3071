@@ -1,0 +1,78 @@
+==============================  CFJ 3071  ==============================
+
+    Proposal 7095 created a rule.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Walker
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          23 Jul 2011 19:57:54 GMT
+Assigned to Walker:                     24 Jul 2011 18:33:09 GMT
+Walker recused:                         26 Jul 2011 10:53:12 GMT
+Assigned to ais523:                     08 Aug 2011 15:28:20 GMT
+Judged TRUE by ais523:                  12 Aug 2011 10:36:34 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments: I'm not sure exactly what "[no] player of [Agora] can make
+arbitrary changes to the gamestate" means, but it sounds suspiciously
+like an Agora Is a Nomic violation.
+
+(Note that AIaN was amended by my proposal in the immediately prior
+resolution.)
+
+========================================================================
+
+Caller's Evidence:
+
+On Sat, Jul 23, 2011 at 3:39 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> Proposal 7095 (AI=3) by Yally
+> Agora, Adult
+>
+> Enact a new power-3 rule with the following text:
+>
+> Agora can make its own decisions. If, at any time, Agora wishes to
+> counteract a decision, then that decision, rules to the contrary
+> notwithstanding, has no effect. The game of Agora, but not any player
+> of it, can make arbitrary changes to the gamestate.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+"no player of Agora can make arbitrary changes to the
+gamestate" translates as "for each player of Agora, there is at least
+one gamestate change they cannot make". I don't think that's an AIAN
+violation, unless it happens to be the same change for each player. (All
+this seems to do is platonically claim that dictatorship scams don't
+exist, which probably needs fixing...)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+It was presumably already the case that no player could make an
+arbitrary change to the gamestate (barring a currently unknown
+dictatorship scam), so this doesn't change anything. Note that "no
+player can make arbitrary changes to the gamestate" does not imply "no
+combination of players can make arbitrary changes to the gamestate",
+which is what AIAN blocks.
+
+Note that it doesn't even block AIAN to forbid some sorts of changes
+entirely, so long as it's still possible to repeal the rule that forbids
+it (which would provide a mechanism to make the change anyway).
+
+========================================================================

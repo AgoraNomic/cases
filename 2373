@@ -1,0 +1,59 @@
+=========================  Criminal Case 2373  =========================
+
+    Murphy violated R1868 (power 2) by failing to assign a judge to CFJ
+    2163 as soon as possible after it came to require a judge.
+
+========================================================================
+
+Caller:                                 omd
+Barred:                                 Murphy
+
+Judge:                                  woggle
+Judgement:                              GUILTY/APOLOGY
+
+Appeal:                                 2373a
+Decision:                               REMAND
+
+
+Judge:                                  woggle
+Judgement:                              GUILTY/DISCHARGE
+
+========================================================================
+
+History:
+
+Called by omd:                          09 Feb 2009 23:42:28 GMT
+Assigned to woggle:                     10 Feb 2009 06:07:38 GMT
+Defendant Murphy informed:              10 Feb 2009 07:42:28 GMT
+Judged GUILTY/APOLOGY by woggle:        10 Feb 2009 23:11:51 GMT
+Appealed by omd:                        11 Feb 2009 22:35:17 GMT
+Appealed by Murphy:                     11 Feb 2009 22:56:27 GMT
+Appealed by G.:                         11 Feb 2009 23:05:46 GMT
+Appeal 2373a:                           11 Feb 2009 23:05:46 GMT
+REMANDED on Appeal:                     21 Feb 2009 18:02:13 GMT
+Assigned to woggle:                     21 Feb 2009 18:02:13 GMT
+Judged GUILTY/DISCHARGE by woggle:      24 Feb 2009 06:35:18 GMT
+
+========================================================================
+
+Judge woggle's Arguments:
+
+GUILTY / APOLOGY (empty set).
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend with 2 support to appeal the questions on sentencing in CFJs
+2373 and 2375, on the grounds that failing to assign judges to some
+old cases does not deserve a formal apology unless someone
+demonstrates that they were actually disadvantaged by the lateness.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+In light of R2339, I rejudge DISCHARGE on sentencing in CFJ 2373 and
+DISCHARGE on sentencing in CFJ 2375.
+
+========================================================================

@@ -1,0 +1,65 @@
+==============================  CFJ 3503  ==============================
+
+      It is possible to create an agency such that its acronym contains
+      at least one non-english alphabetic character (芋, Ñ, Æ).
+
+========================================================================
+
+Caller:                       Quazie
+
+Judge:                        o
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by Quazie:             20 May 2017
+Assigned to o:                20 May 2017
+Judged TRUE by o:             22 May 2017
+
+========================================================================
+
+Caller's Arguments:
+
+Agencies might be a limited resource of (26^3) possible existing agencies.
+From my reading of rule 2461, it seems like a number is likely not possible
+within an agency's Acronym, as numbers aren't words, but I wouldn't be
+surprised if non-english words would allow us to get to more than
+(26^3) agencies [More language bits!].
+
+Parts of 2461:
+..
+
+            a) A title, which must be exactly three words, not
+               counting conjunctions, articles or prepositions.
+
+..
+
+      An Agency, once created, SHOULD be referred to by the acronym
+      formed from its title with conjunctions, articles, and
+      prepositions removed. The acronym of an agency must be unique
+      and any attempt to create or amend an Agency such that two
+      Agencies would have the same acronym is INEFFECTIVE.
+
+========================================================================
+
+Judge's Arguments:
+
+Rule 2467 requires that the title of an Agency consist of exactly three
+words:
+
+> a) A title, which must be exactly three words, not counting
+> conjunctions, articles or prepositions.
+
+It does not require that those words be representable using any dialect
+of English. Russian words, for example, appear perfectly acceptable, and
+would be represented most accurately in the Cyrillic alphabet. Such a
+word would most obviously be abbreviated for the Agency’s acronym by
+taking its first character, which would be a non-english alphabetic
+character.
+
+It is therefore possible for the acronym of an Agency to contain at
+least one non-english alphabetic character.
+
+========================================================================

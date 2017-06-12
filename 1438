@@ -1,0 +1,109 @@
+==============================  CFJ 1438  ==============================
+
+    The Order issued by Steve, 'I order the Bank to forgive RedKnight's
+    Oligarchy upkeep debt.'
+    (http://www.escribe.com/games/agora-business/m9000.html) is not a
+    properly-issued Order.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Steve
+Barred:                                 RedKnight
+
+Judge:                                  Sir Toby
+Judgement:                              
+
+
+Judge:                                  Cecilius
+Judgement:                              
+
+
+Judge:                                  Pakaran
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           18 Feb 2003 16:38:31 GMT
+Assigned to Sir Toby:                   18 Feb 2003 23:26:08 GMT
+Sir Toby recused:                       02 Mar 2003 21:25:19 GMT
+Assigned to Cecilius:                   09 Mar 2003 23:42:23 GMT
+Cecilius recused:                       30 Mar 2003 23:42:23 GMT
+Assigned to Pakaran:                    31 Mar 2003 18:20:34 GMT
+Pakaran recused:                        08 Apr 2003 01:37:41 GMT
+Assigned to Murphy:                     14 Apr 2003 15:24:14 GMT
+Judged TRUE by Murphy:                  15 Apr 2003 05:27:09 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If it is a Private Order, the Order is improper by judicial
+precedent, as it Orders the bank to perform an action over
+which the Bank's executors have discretion (and require no
+Objections to perform).
+
+However, an Order must be valid *and* Proper (properly-issued)
+for the Bank to forgive a debt [R1470e].
+
+Propriety of Orders is not explicitly defined in the Rules and
+left to judicial review.  For example, it has been found that,
+due to R101, it is improper to Order an entity to perform an
+action over which they have Rules-granted discretion.
+
+ R2010 reads:
+    If an Oligarch does not pay eir Oligarchy Upkeep within a
+    week of the GWotO's announcement of the debt, then the GWotO
+    shall remove the Oligarch from the Oligarchy, and Order the
+    Bank to forgive the Upkeep debt.
+
+Now, this contains two clauses for the GWotO to act upon.
+E must both remove an Oligarch and Order the Bank to forgive
+the debt.
+
+Due to a bug in other Rules currently under CFJ, the GWotO was
+(arguably) not able to remove Redknight from the Oligarcy.
+E was still required to issue the Order, which e did.  E has
+attempted to perform one of the above duties, and by issuing
+the Order performed the other one.
+
+But it is not required that this Order be found to be Proper.
+Specifically, the intent of this double-clause (forgiveness due
+to being removed from Oligarchy) is clear.  I argue that this is
+"strong" intent in that it is clear to a reasonable reader that
+one is conditioned on the other.  The forgiveness of debt is
+conditioned on a Player being removed from the Oligarchy.  While
+the player remains unremoved, e is able to exercise all Oligarchic
+powers and privileges, and therefore the debt should not be
+forgiven.
+
+Again, I emphasize that the Order was valid and that the GWotO
+was required to issue it.  But it is within the discretion of
+a reasonable judge to find that the Order is improper, as the
+Order violates the strong intent of R2010 by allowing forgiveness
+of a debt that should not be forgiven while a Player remains an
+Oligarch.
+
+========================================================================
+
+Caller's Evidence:
+
+See CFJ 1295:
+   http://cotc.taral.net/viewcase.php?cfj=1295
+specifically solublefish's arguments following Appeal, and
+Justice Steve's arguments in Appeal 1295b:
+   http://cotc.taral.net/viewcase.php?cfj=1295b
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I agree with this line of reasoning, and Judge TRUE.
+
+========================================================================

@@ -1,0 +1,59 @@
+==============================  CFJ 3007  ==============================
+
+    Two instances of the same sentence in different contexts are
+    different statements.
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        22 Apr 2011 20:44:04 GMT
+Assigned to omd:                        24 Apr 2011 03:44:38 GMT
+omd recused:                            24 Apr 2011 17:03:18 GMT
+Assigned to scshunt:                    25 Apr 2011 03:00:20 GMT
+Judged FALSE by scshunt:                05 May 2011 18:36:30 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The first statement in the Example Document is trivially true; The second is
+trivially false.  For the purposes of future CfJs, it is dangerous to assert
+that the two are really the same statement.
+
+========================================================================
+
+Caller's Evidence:
+
+The following self-contained document exists.
+"Example Document":
+{{
+This statement is not located at the end of the Example Document.
+This statement is not located at the end of the Example Document.
+}}
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+They're two instances of the same statement.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+FALSE. A single statement can have different truth values depending on
+context, but it's not a different statement.
+
+========================================================================

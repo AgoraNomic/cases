@@ -1,0 +1,95 @@
+==============================  CFJ 2638  ==============================
+
+    BobTHJ's voting limit on proposal 6413 is 2.
+
+========================================================================
+
+Caller:                                 BobTHJ
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by BobTHJ:                       23 Jul 2009 03:24:48 GMT
+Assigned to Quazie:                     24 Jul 2009 21:44:23 GMT
+Quazie recused:                         02 Aug 2009 16:17:27 GMT
+Assigned to Murphy:                     02 Aug 2009 16:21:56 GMT
+Judged FALSE by Murphy:                 08 Aug 2009 16:29:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Since the Roll Call card does not specify the amount that
+my voting limit is increased my voting limit can not be determined.
+Therefore I argue for a judgment of UNDECIDABLE.
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Jul 22, 2009 at 19:04, Sean Hunt<rideau3@gmail.com> wrote:
+> NUM  C I AI  SUBMITTER           TITLE
+> 6410 D 0 2.0 coppro
+> 6411 D 1 2.0 Yally               Terms and Vacancies 2.0
+> 6412 O 1 1.0 allispaul           A Standard Standard
+> 6413 O 1 1.0 c-walker            Office IIs with Agoran Consent
+
+I play Roll Call to increase my voting limit on proposal 6413. Since
+the amount of increase is not specified, I determine that it increases
+my voting limit by 10,000.
+
+This is a win announcement. BobTHJ's voting limit on proposal 6413
+exceeds the combined voting limits of all other players and e wins by
+Clout.
+
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+To play a card, a player must announce the play "while also announcing
+any further information required by the exploit." (R2256)
+
+Although the exploit text doesn't *say* it requires a value for the
+increase, in actual fact, a value is required implicitly in order to
+interpret the result of the play.  BobTHJ specified a value forbidden
+by R2222 (too high) so the play simply failed because e didn't specify
+a legitimate required value.
+
+(In other words, while the value isn't required by the text of the
+exploit, it's required for the result of the exploit to take effect,
+so it's "required by the exploit" generally).
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+UNDECIDABLE is an inappropriate judgment; the
+amount of increase isn't specified by the rule, but it's neither
+logically undecidable nor incapable of being described as either true
+or false.  BobTHJ's voting limit on the decision either is or is not
+2, and the trial judge has the discretion to determine whether the
+game custom of such increases increasing the limit by 1 applies, or if
+the player of the card can specify any limit whatsoever (although in
+this case R2222 clearly takes precedence and it is IMPOSSIBLE for the
+specified increase to take effect.)
+
+IMO, the CFJ is either TRUE or FALSE, and if a judgment of FALSE is
+given I recommend the judge specify whether BobTHJ's voting limit is 1
+or 12, which IMO are the only possible values under FALSE.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+See judge's arguments for CFJ 2640.
+
+========================================================================

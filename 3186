@@ -1,0 +1,66 @@
+==============================  CFJ 3186  ==============================
+
+    To initiate a criminal case, Rule 1504 requires specifying exactly
+    one action the Accused allegedly performed or failed to perform.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 FKA441344
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       26 Feb 2012 16:31:22 GMT
+Assigned to omd:                        10 Mar 2012 18:20:15 GMT
+Judged TRUE by omd:                     11 Mar 2012 08:34:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1504 requires specifying "a <whatever>" in order to initiate, and
+the rest of it generally appears to assume that this means "exactly one
+<whatever>".  The alternate interpretation "at least one <whatever>"
+may be possible to use, but would at least have interesting consequences
+likely to lead to further adjudication and/or legislation (e.g. if you
+accuse X and Y of Z, and X did it but Y didn't, then GUILTY unfairly
+dings Y while NOT GUILTY may unfairly give X a double-jeopardy defense).
+
+Inquiry cases specifying multiple statements have been allowed, but
+only because that rule is written differently.  Currently, Rule 591
+merely requires the announcement to "include" a statement, with a
+judgement of MALFORMED if the initiator failed to specify a single
+statement (e.g. CFJ 2924).  The first multiple-statement CFJ that I
+remember is CFJ 1266, which was dismissed due to a different but
+similar rule.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+On Sun, Feb 26, 2012 at 11:31 AM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> The first multiple-statement CFJ that I
+> remember is CFJ 1266, which was dismissed due to a different but
+> similar rule.
+
+Obligatory digging: CFJ 6 most likely counts
+(http://zenith.homelinux.net/cotc/stare_detail/06.txt).
+
+========================================================================
+
+Judge omd's Arguments:
+
+This is about a criminal case in which I am the defendant, so I would
+recuse myself, but I think this is pretty clear cut: indeed, the rest
+of the rule uses "the Accused", "the specified rule", "the specified
+act", and it is common practice to use "a" to mean "one" - "specifying
+an integer from 1 to 14", "the enacting instrument may specify a title
+for the new rule".  TRUE on 3184-86.  (But it may be the case that
+"did X and Y" can be considered a single, composite "action".)
+
+========================================================================

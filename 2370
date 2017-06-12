@@ -1,0 +1,29 @@
+=========================  Criminal Case 2370  =========================
+
+    Murphy violated R1868 (power 2) by failing to assign a judge to CFJ
+    2139 as soon as possible after it came to require a judge.
+
+========================================================================
+
+Caller:                                 omd
+Barred:                                 Murphy
+
+Judge:                                  woggle
+Judgement:                              GUILTY/SILENCE
+
+========================================================================
+
+History:
+
+Called by omd:                          09 Feb 2009 23:42:28 GMT
+Assigned to woggle:                     10 Feb 2009 06:07:38 GMT
+Defendant Murphy informed:              10 Feb 2009 07:42:28 GMT
+Judged GUILTY/SILENCE by woggle:        10 Feb 2009 23:11:51 GMT
+
+========================================================================
+
+Judge woggle's Arguments:
+
+GUILTY / SILENCE
+
+========================================================================

@@ -1,0 +1,220 @@
+==============================  CFJ 1362  ==============================
+
+    In the context of the rules, fungible means indistinguishable by any
+    value other than ownership.
+
+========================================================================
+
+Caller:                                 Syllepsis
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Syllepsis:                    08 May 2002 13:58:38 GMT
+Assigned to G.:                         09 May 2002 19:03:38 GMT
+Judged FALSE by G.:                     14 May 2002 16:57:30 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1467 States:
+
+      Since units of Currency are fungible, it is not necessary for
+      the Recordkeepor of a Currency to track the individual
+      ownership of each unit; rather, it is sufficient to maintain a
+      record of the total number of units possessed by each entity
+      which possesses any number of units of that Currency.
+
+The presupposition made here by the rules is that since currencies are
+'fungible' the only thing that needs to be tracked (i.e. is worth noting
+as far as the game is concerned) is how many are owned by what parties.
+
+This implicitly defines fungible to mean 'indistinguishable other than
+by ownership'.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1467/7 (Power=1)
+Definition of a Currency
+
+      A Currency is a category of entities established by the Rules.
+      Each instance of a Currency is a Property. Instances of a given
+      Currency are fungible. The size of a single instance, or
+      "unit", of a given Currency is its Minimum Unit Quantity (MUQ).
+      Individual units of a Currency cannot be divided; therefore,
+      the final result of all computations involving numbers of units
+      of Currency shall be rounded off to the nearest integral
+      multiple of its MUQ.
+
+      Unless otherwise specified, the MUQ of a Currency is one (1).
+
+      Since units of Currency are fungible, it is not necessary for
+      the Recordkeepor of a Currency to track the individual
+      ownership of each unit; rather, it is sufficient to maintain a
+      record of the total number of units possessed by each entity
+      which possesses any number of units of that Currency.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First of all, a note on definitions in general.  It is possible, even in a
+single body of law (the Rules) for a word to have more than one meaning,
+especially if the word is not explicitly defined by the Rules, but rather
+taken from common English usage.
+
+For example, "reasonable" has a general meaning and is not Rules-defined,
+however "reasonable" error (R1497) and "reasonable" interpretation (R1665)
+may come to have different meanings, especially if judicial precedent sets
+more explicit tests for "reasonableness" in the context of each usage.
+
+So may it be with fungible.  We must examine each use of fungible
+carefully to determine the truth of this blanket statement.  'Fungible'
+occurs in exactly 5 places in 4 Rules.  Arranged from higher to lower
+precedence, R1993, R1467 (twice), R1596(e), and R1966.
+
+Rule 1993 is not discussed further: since it simply states that Land is
+*not* fungible.  Further examination of Land will tell us nothing about
+fungible, in the same way that (since Land isn't a black crow) further
+examination of land won't tell us anything about black crows.
+
+In the remaining Rules, there is no explicit definition, so we must assume
+that we begin with a reasonable English interpretation of the word.
+The implicit definitions to consider are R1467 (Fungible in terms of
+currencies) and R1966 (fungible in terms of bonds) and R1596e(fungible
+in terms of satisfying debts).
+
+None of the dictionaries This Court has searched for fungible included the
+idea of "indistinguishable" but rather the idea of "interchangeable in
+terms of satisfying debts and/or obligations."  In fact, as suggested by a
+quote on www.word-detective.com, fungible items may be distinguishable in
+all characteristics except for debt-satisfaction: "...if I owe you a sum
+of money, and you agree to accept several aged cows plus a few bushels of
+wheat and maybe a couple of old video games as payment, that debt would be
+said to be fungible."  This is clearly the meaning intended in R1596(e).
+
+Since fungible doesn't start out meaning "indistinguishable", the burden
+of proof is placed on the Caller to show that the Rules give it that
+meaning. Starting with Rule 1467:
+      A Currency is a category of entities established by the Rules.
+      Each instance of a Currency is a Property.  Instances of a given
+      Currency are FUNGIBLE.
+This, in itself, doesn't forbid individual units of currency from being
+distinguished and tracked, just as noting that U.S. dollars are fungible
+"legal tender for all debts" doesn't prevent them from possessing serial
+numbers.
+
+However, the second mention of fungibility (R1467) states:
+      Since units of Currency are FUNGIBLE, it is not necessary for
+      the Recordkeepor of a Currency to track the individual
+      ownership of each unit; rather, it is sufficient to maintain a
+      record of the total number of units possessed by each entity
+      which possesses any number of units of that Currency.
+
+Therefore, it is not the responsibility of the recordkeepor to distinguish
+two units of currency.  Does this mean that two currency units may become
+distinguishable in the Game State (other than ownership)?  If, for
+example, I decide to name one Stem "Bonny" and one Stem "Clyde", do they
+become distinguishable in the Game State?
+
+No.  This Court finds that the Game State is defined by its mandated,
+ratified Records.  The strongest support for this position is found in the
+concept of ratification (R1551):
+                              [...] the State of the Game, upon such
+      ratification, becomes that specified within the Document, plus
+      all subsequent legal changes between the time of its publication
+      and its ratification.
+
+However, only certain types of information can be ratified into the Game
+State (R1552):
+      In order for an Official Document to be valid for the purpose of
+      a Ratification, it must satisfy all the following criteria at
+      the time the Proposal which would Ratify it is Proposed:
+           i) The Rules require some specific Player to produce and/or
+              maintain the document.
+          ii) The Rules required it to be published.
+          [...]
+
+The recordkeepors of each currency are each responsible for records
+subject to ratification.  However, R1467 specifically *exempts"
+recordkeepors from tracking individual units of currency, and thus
+R1552(ii) prevents such information from being ratified by the
+Recordkeepor.  And no other Rules require any other entity to track this
+information.  Therefore, it is not possible for ownership of individual
+units of currency to be ratified into the Game State.  And therefore,
+these units are indistinguishable in the current Ruleset.
+
+But this indistinguishability does not arise out of re-defining the word
+fungible.  It arises out of a further recordkeeping allowance.  IF SOME
+OTHER RULE specified a requirement of distinguishing units of a currency
+(for example, through serial numbers), and SPECIFIED some other "specific
+Player to produce and/or maintain the document.,"  the currency would
+still be fungible by R1467, but could be distinguishable as well, and
+these distinguishing features could be ratified into the gamestate.
+Without any contradiction with fungibility.
+
+This is what happens for Bonds.
+
+R1966 reads:
+      A species of Bond consists of all Bonds with the same issuer,
+      face value and maturity date.  All Bonds of a given species are
+      FUNGIBLE.  In any transaction involving Bonds, it is sufficient
+      to identify the Bonds involved by species.
+
+This is actually two seperate statements:
+   (i)  Bonds of a given species are fungible
+   (ii) In any transaction...it is sufficient to identify...
+
+In our current multi-CFJ crisis, it is not (i) that is causing the large
+degree of problems, it is (ii).  It would be possible to have fungible
+entities (i) with different characteristics (redeemed vs. unredeemed)
+which might be tracked by a recordkeepor.  However, (ii) specifies that
+species is sufficient information in any transaction, and that is causing
+us problems.
+
+Rule 1966 states that Bonds, as kept as a record by the Usuror, can be
+identified by Species alone.  However, Rule 1969 states that Bonds of the
+same species can be split into Redeemed and Unredeemed Bonds.
+
+Clearly unredeemed and redeemed bonds are properties.  According to 1969,
+they are different even if of the same species.  However, they are not
+properties that must be tracked by the Usuror according to 1966(ii).
+They are *subtypes* of Bonds of the same species, and thus not identical
+to the general "Bonds" defined in 1966, in much the same way as limited
+executors are subsets of executorship, but each one is distinct and thus
+subject to different Rules.
+
+So is there a recordkeeping responsibility for these subtypes?  Yes.
+Rule 1942 (with precedence over 1966 and 1969) states:
+
+      Each property shall have a recordkeepor, which is a player
+      required to maintain a record of who owns that property.  The
+      Treasuror is the recordkeepor for each property that would
+      otherwise have no recordkeepor.
+
+This Court concludes that, while the Usuror is the recordkeepor of Bonds
+by species, the Treasuror is the recordkeepor of Bonds that have subtypes
+by Redeemed/Unredeemed status.  This interpretation resolves the conflicts
+between R1966 and R1969 without one contradicting the other.
+
+Since all Bonds have Unredeemed/Redeemed status, the Treasuror is the
+recordkeepor for all bonds.  Past transfers of Bonds, when they *have been
+effectively clear* (for example, when all Bonds of that Species in the
+posession of the Transferor were Unredeemed), should be held to be valid,
+as the Usuror's Reports have served to inform the Treasuror of the
+transfers.  But in cases where this status was ambiguous, the transfers
+should be held invalid as they failed to provide the Treasuror with
+sufficient information.
+
+However, this has nothing to do with the definition of fungible.
+
+The Court returns a judgement of FALSE.
+
+========================================================================

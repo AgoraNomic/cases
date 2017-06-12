@@ -1,0 +1,69 @@
+==============================  CFJ 2062  ==============================
+
+    The contract Ivan Hope just agreed to is a pledge because it states
+    "Guvf vf n cyrqtr.", which is "This is a pledge." in rot13.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  05 Jul 2008 02:47:16 GMT
+Assigned to ais523:                     06 Jul 2008 09:08:46 GMT
+Judged TRUE by ais523:                  07 Jul 2008 17:07:35 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following: "This is a pledge. Guvf vf n cyrqtr. Vina
+Ubcr PKKIVV FUNYY fngvfsl gur Jvaavat Pbaqvgvba bs Zhfvpvnafuvc nf
+fbba nf cbffvoyr."
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The relevant rules here are rules 754 and 2191. Here are the relevant
+portions of those rules:
+{{{
+(1) A difference in spelling, grammar, or dialect, or the use of
+    a synonym or abbreviation in place of a word or phrase, is
+    inconsequential in all forms of communication, as long as
+    the difference does not create an ambiguity in meaning.
+(4) Any term not addressed by previous provisions of this Rule
+    by default has its ordinary-language meaning.
+A pledge is a contract identifying itself as such.  A pledge
+requires at least one party.
+}}}
+First, I rule that rot13 is not "ordinary language"; although it is
+reasonably common on the Internet, it is used for the precise purpose of
+making things harder to read without some effort (often to hide
+spoilers, for instance). Also, writing something in rot13 is not really
+a difference in spelling, grammar, or dialect.
+
+However, it seems likely that rot13 can be described as "the use of a
+synonym or abbreviation", and in this context it does not create an
+ambiguity in meaning, especially because in the same message the
+pledge's author stated that it was rot13 and gave instructions for
+decoding it (thus effectively defining a local synonym). Therefore, rule
+754 would seem to encourage TRUE.
+
+Also, rule 2191 states "identifying itself as such", not "clearly" or
+"unambiguously" identifying. (I exploited this particular loophole to
+win the game a few weeks ago, and the rule has not been changed since
+despite my efforts to patch it.) The contract clearly does identify
+itself as a pledge, as do the words in question (as Ivan Hope CXXVII has
+stated that they do and explained how), so rule 2191 also encourages
+TRUE.
+
+As there seem to be no reasonable arguments for FALSE, I therefore judge
+TRUE.
+
+========================================================================

@@ -1,0 +1,293 @@
+==============================  CFJ 3161  ==============================
+
+    Immediately prior to this messsage, 441344 was a player as defined
+    by the published OmNom Constitution.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Machiavelli
+
+Judge:                                  omd
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by G.:                           30 Jan 2012 17:47:53 GMT
+Assigned to omd:                        05 Feb 2012 21:11:06 GMT
+Judged UNDETERMINED by omd:             05 Feb 2012 23:12:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The Constitution text (as text in and of itself) is not explicit as to
+the definition of "nomic namespace".  It was uncoverable with a fairly
+trivial search but that is not sufficient for published legal matters
+here; therefore any definitions not explicit in the Constitution as
+published defer to Agoran definitions, not elsewhere-posted OmNom
+definitions, and default to Agora-published versions of any reports.
+
+In particular, this link (http://omnom.wikidot.com/nomic:players)
+lists 441344 as a player, but that information has not been published
+in Agora, therefore under Agoran interpretation, this constitution text
+refers to a blank (i.e. unstarted) nomic without players or gamestate
+beyond what is published.  (Note: in calling this CFJ I am calling
+attention to an alleged report, not publishing its content myself, so
+I disclaim specific knowledge of its veracity in this publication).
+
+I should note that I think that the appropriate solution is to publish,
+in the registration intent, a constitution text that includes some
+explicit linkages along with explicit publication of the current
+gamestate, not to require all such nomics to require all such reports
+in Agora all the time.
+
+========================================================================
+
+Caller's Evidence:
+
+> The text of the OmNom Constitution follows this horizontal rule.
+>
+> ------------------------------------------------------------------------
+>
+> [[toc]]
+>
+> + Rule 1: There Is No Game
+>
+> If there are only one or two active players, then, rules to the
+> contrary notwithstanding, all actions are legal. If there are more
+> than two active players, anyone may repeal this rule.
+>
+> + Rule 2: Legality
+>
+> Whether an action is //legal// or not is determined by the rules.
+> Players should avoid taking illegal actions, even if there is no
+> punishment for doing so. All actions are legal, except for those that
+> the rules identify as illegal.
+>
+> + Rule 3: Reports
+>
+> A //report// is a page in the Nomic namespace. Creating or editing
+> reports is illegal, except as explicitly allowed by rules. If a piece
+> of information is "determined by a report", the piece of information
+> is what the most recent legal revision of the report said it was. A
+> //legal revision// of a report is defined as a revision that is any of
+> the following:
+>
+> * The first revision of the report, if the report was created legally.
+> * Any revision following a legal revision, if that revision was
+> performed legally.
+> * Any revision that reverts the report to a prior revision, if the
+> prior revision was the most recent legal revision. (It is legal to
+> revert a report to its most recent legal revision.)
+> * Any revision that has been ratified legally.
+>
+> To //ratify// a revision is to edit the report to note that the
+> revision in question was legally ratified. Ratifying is generally
+> illegal.
+>
+> It is legal to edit a report as long as the changes clearly do not
+> affect the information that the report determines, and do not
+> introduce any factual errors.
+>
+> + Rule 12: Governance
+>
+> If one report //governs// another, anyone may edit the latter report
+> in accordance with the former report. If a report //shadows// a rule,
+> and the report states that an action is illegal, then any statement
+> within the rule that the action is legal is void.
+>
+> + Rule 4: Rules
+>
+> The //rules// are a set of texts, determined by the [[[nomic:Rules]]]
+> report. Each rule has a unique number and a title.
+>
+> + Rule 5: Players
+>
+> The //players// are a set of persons, determined by the
+> [[[nomic:Players]]] report. Any natural person may add themself to the
+> Players report, identified by their Wikidot username. Agora Nomic may
+> do the same. Each player is either //active//, or //inactive//, as
+> determined by the Players report, and defaulting to active. Any player
+> may become active or inactive.
+>
+> + Rule 6: Proposals
+>
+> The //proposals// are a set of texts, determined by the
+> [[[nomic:Proposals]]] report. Each proposal has a title. A proposal
+> may be referred to as "Proposal X", where X is the revision number in
+> which the proposal was created. Any player may add a proposal to the
+> Proposals report. The //voting period// of a proposal is the period of
+> time beginning when the proposal is created and lasting for three
+> days, or until nobody is voting IFFY ON it, whichever comes first.
+>
+> For each person and proposal, that person //votes// FOR, AGAINST, or
+> IFFY ON that proposal, defaulting to IFFY ON, as determined by the
+> Proposals report. Any player may change their vote on a proposal in
+> its voting period.
+>
+> Once a proposal's voting period is over, it is //passed// if it has
+> more votes FOR than AGAINST, //failed// otherwise. To //resolve// a
+> proposal is to follow its instructions. If a proposal is passed and
+> has not been resolved, any player may resolve it (even if some other
+> rule prohibits resolving it), unless the proposal itself prohibits
+> them from resolving it. When a proposal is resolved, its author and
+> its resolver each gain 10 points. A proposal is //dead// if either it
+> is failed or it has been resolved.
+>
+> The //historical proposals// are a set of texts, determined by the
+> [[[nomic:Historical Proposals]]] report. Any player may add a dead
+> proposal to the Historical Proposals report, as long as it is not
+> already there. If a dead proposal is in the Historical Proposals
+> report, any player may remove it from the Proposals report.
+>
+> If a proposal has no votes FOR, then its author may amend or delete it.
+>
+> + Rule 7: Points
+>
+> Each player's //score// (or the number of //points// they have) is an
+> integer (defaulting to 0) determined by the [[[nomic:Players]]]
+> report. To //award// or //revoke// points from a player is to increase
+> or decrease (respectively) their score by that number, stating in the
+> edit description why this is being done. When a player //gains// or
+> //loses// points, any player may, once, award or revoke that number of
+> points from them within the next seven days.
+>
+> When a player's score reaches 150, that player wins. Winning has no
+> effect, except for those explicitly given by the rules.
+>
+> + Rule 8: Inquisitions
+>
+> The //inquisitions// are a set of texts, determined by the
+> [[[nomic:Inquisitions]]] report. Each inquisition may have a player as
+> its //judge// or one of the phrases given below as its //answer//, as
+> determined by the report.
+>
+> Any player may add an inquisition to the Inquisitions report. Any
+> player may then make any player its judge, except for the one who
+> submitted the inquisition, or the assigning player themself. (If there
+> are only two players, the player that submitted the inquisition may
+> and shall make the other player its judge.) The judge may and shall
+> then, within seven days, give it an appropriate answer.
+>
+> The possible answers for an inquisition are the following:
+>
+> * TRUE or YES, appropriate if the inquisition is true;
+> * FALSE or NO, appropriate if the inquisition is false;
+> * NONSENSE, appropriate if the inquisition is neither true nor false;
+> * IRRELEVANT, appropriate if the inquisition is a question or
+> statement that does not pertain to the state of the game;
+> * UNKNOWN, appropriate if the inquisition's truth or falsehood is not
+> a matter of opinion and cannot be reasonably determined;
+> * PLATYPUS, appropriate if, for some reason, it is not reasonably
+> possible to assign a different appropriate answer.
+>
+> (TRUE and YES are different words for the same answer, as are FALSE and NO.)
+>
+> The answer to an inquisition should be taken as true unless there is
+> substantial reason to doubt it.
+>
+> The [[[nomic:Inquisitive Regulations]]] report shadows this rule, and
+> governs the Inquisitions report, as well as any report whose title
+> begins with the word "Inquisitive".
+>
+> + Rule 9: Moderations
+>
+> A player is //suspicious// if they have made seven or more edits to
+> pages in the Nomic namespace within the past week. Moderators of
+> Omnibus Nomic shall not use their technical control over it to prevent
+> non-suspicious players from editing pages in the Nomic namespace.
+>
+> + Rule 10: Acting On Behalf
+>
+> If a natural person is authorized to act on behalf of another (natural
+> or legal) person, then they can do so by noting in the edit
+> description that they are acting on behalf of that person. Persons
+> shall not make such a note unless they are so authorized.
+>
+> Agora Nomic's Ambassador is allowed to act on behalf of Agora Nomic.
+>
+> + Rule 11: Kill Everyone
+>
+> Each player's //health// (or the number of //health points// they
+> have) is an integer (defaulting to 100) determined by the
+> [[[nomic:Ludic Players]]] report. A player is //alive// or //living//
+> if their health is positive, //dead// otherwise.
+>
+> Each player's //affiliation// is one of None (default), Red, Blue, or
+> Exiled, as determined by the Ludic Players report. The //Red Team// is
+> the set of all players whose affiliation is Red, and likewise for
+> Blue. If a player's affiliation is None, they may change it to either
+> Red or Blue.
+>
+> Each team's //leader//, if any, is the member of that team identified
+> as such by the Ludic Players report. If a team has only one living
+> player, that player may make themself its leader. The leader of a team
+> may change any of their teammates' affiliations to None or Exiled, or
+> any Exiled player's affiliation to None.
+>
+> Team members are encouraged to attempt to take actions that benefit
+> their team exclusively (as long as these actions are not illegal).
+>
+> The [[[nomic:Ludic Regulations]]] report shadows this rule, and
+> governs any report whose title begins with the word "Ludic".
+>
+> + Rule 13: Calendar
+>
+> Days in OmNom begin at midnight UTC. Weeks in OmNom begin on Monday
+> and run through the following Sunday.
+>
+> + Rule 14: Personhood
+>
+> The //OmNom Constitution// is the document whose text is the most
+> recent legal revision of the [[[nomic:Rules]]] report. The
+> Constitution is intended to be a person.
+
+Published by G.:
+> I publish the following Report, entitled the [[[nomic:Players]]]
+> report:
+> -------------------------------------------------------------------
+> [[[nomic:Players]]] report:  G. is the only Player of OmNom.
+> -------------------------------------------------------------------
+
+========================================================================
+
+Gratuitous Evidence by G.:
+
+On Mon, 30 Jan 2012, Kerim Aydin wrote:
+> I publish the following Report, entitled the [[[nomic:Players]]] report:
+> -------------------------------------------------------------------
+> [[[nomic:Players]]] report:  G. is the only Player of OmNom.
+>                               G. is active.
+> -------------------------------------------------------------------
+
+Just in case this is unclear even given the message context, I publish
+the above as a report as defined by the published OmNom Constitution.
+-G.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Unlike previous contract rules, Rule 2328 doesn't require any kind of
+submission to Agoran governance, but simply refers to "an agreement".
+Therefore there is no special reason to require that such agreements
+act 'natively' rather than 'foreignly', and in this case the agreement
+is clearly intended to use foreign or ordinary language definitions of
+terms rather than Agoran ones.
+
+However, the caller's arguments suggest that Machiavelli has not
+adequately identified the agreement the OmNom Constitution is the text
+of, so eir attempts to register it failed due to ambiguity.
+
+Also, the precedent of CFJ 1772 suggests that neither the OmNom
+Constitution nor (despite recent rulemaking) Agora is actually an
+"agreement" in the Agoran sense, so the text as published cannot
+become a player.  I hereby deregister Agora.
+
+UNDETERMINED, too vague as there appear to currently be two games
+whose ruleset is the published OmNom constitution (one is G.'s).
+
+========================================================================

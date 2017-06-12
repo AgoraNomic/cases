@@ -1,0 +1,456 @@
+From owner-nomic-official@teleport.com  Tue Jan 30 06:23:29 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id GAA25800 for <blahedo@quincy.edu>; Tue, 30 Jan 1996 06:23:28 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA26503; Tue, 30 Jan 1996 03:46:09 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Tue, 30 Jan 1996 03:46:08 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA26494 for nomic-official-outgoing; Tue, 30 Jan 1996 03:46:08 -0800
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA26464 for <nomic-official@teleport.com>; Tue, 30 Jan 1996 03:46:02 -0800
+Message-Id: <199601301146.DAA26464@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA09129; Tue, 30 Jan 1996 12:44:58 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CJF 846: Concurring Opinion
+To: nomic-official@teleport.com
+Date: Tue, 30 Jan 96 12:44:58 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+A concurring Opinion has been issued on CFJ 846. It can be found in this
+posting, between the 'Reasoning & Arguments Judge' and 'Evidence'-parts.
+
+
+The texts with (M) before it are only true in the Gamestate in which
+Morendil became Speaker in December
+The texts with (S) before it are only true in the Gamestate in which
+Swann became Speaker in December
+The texts with (S+) before it are only true in the (S)-state with
+Morendil not deregistering
+
+======================================================================
+
+			JUDGEMENT CFJ 846
+
+  "The Rules should be interpreted that Swann is currently Speaker"
+
+======================================================================
+
+Judge:		Andre
+Judgement:	TRUE
+
+Eligible:	Andre, favor, Kelly, Murphy, Steve, Vanyel, Vlad
+		(S) Blob, Chuck
+
+Not Eligible:	
+Caller:		Swann
+Barred:		Morendil
+On Hold:	Dave Bowen
+1005:		KoJen, Michael, Pascal, Swann, Wes
+		(M) Blob, Chuck, Morendil
+
+Effects:	Andre gains 3 Points for timely Judgement
+
+======================================================================
+
+History:
+  Called by Swann, 22 January 1996, 16:27 -0500
+  Assigned to Andre, 23 January 1996, 12:54 MET
+  Judged TRUE by Andre, 29 January 1996, 13:40 MET
+  Concurring Opinion by Steve, 30 January 1996, 00:26 +1100 (EST)
+  (M,S-) Appealed by Morendil, 29 January 1996, 20:54 +0100
+  Concurring Opinion supported by Kelly, 29 January 1996, 21:57 EST5
+  Concurring Opinion supported by Michael, 30 January 1996, 11:05 GMT
+
+======================================================================
+
+Arguments:
+
+These need no arguments, all relivant info has spammed the PF over the period
+of crisis.  I, in fact, have little oppinion on how these Statements should
+be resolved and will offer no argumenrts other than to plead for a difinitive
+and comprehensive judgement from the Judge on each of these so we can legally
+end the indertermancy of the gamestate.
+
+I would also ask interested parties to submit CFJs on the nature of the
+Currency Transfers that initiated the crisis.  I, myself, have avoided the
+issue and lack the knowledge to come up with a difinitve statement for
+a CFJ.
+
+======================================================================
+
+Reasoning & Arguments Judge:
+
+It seems clear to me, that the fate of this CFJ is dependant on the question
+of whether and when the transfer of very many Points from Morendil to the
+Bank to disown his Proposals did occur. At first I hoped to have the Judgement
+on CFJ 845 to guide me, but 'the end is neah', and I haven't received a result
+on that one yet. So I'm going to try to sort things out myself.
+
+The main source of disagreement seems to be, whether these tansfers were
+Class I or Class III transfers. 
+Let's first look at the text in Rule 1451/1:
+"The player so disowning a proposal loses a flat fee of five points (...)"
+
+Apart from this, no text in 1451/1 could be of importance to this discussion.
+Especially, no mention is made of where these points are going, or how this
+transfer takes place.
+
+It's clear that Rule 1479/0 is applicable:
+
+"     Whenever a Rule calls for a Player to lose a number of Points
+      without specifying where these Points shall be transferred to,
+      the Player shall be required to transfer that number of Points
+      from eir own Treasury to the Bank.
+
+(...)
+
+      All of these transfers are involuntary in nature."
+
+So, Rules 1451+1479 together say that Morendil is (or should I say was?)
+required to transfer a (large) number of Points from eir own Treasury to the
+Bank. These transfers (one for each Proposal disowned) are involuntary in
+nature. There is no contradiction in 1479, in my opinion. So till here I
+follow Morendil's line of reasoning. However, now we look at Rule 1472:
+
+
+"     A transfer which is explicitly and directly required to take
+      place by a Rule is initiated by that Rule, and is called a Class
+      I Transfer.
+
+(...)
+
+      For the purpose of this Rule, a Rule, or an Entity other than
+      the Rules to which the Rules have granted the power to require
+      Players to perform actions, which requires a Player to initiate
+      a transfer is _not_ requiring the transfer.  Such a transfer is
+      a Class III transfer initiated by that Player.  This Rule takes
+      precedence over any Rule which would require a Player to
+      initiate a transfer which is prohibited by this Rule."
+
+Well then, Rule 1472 is quite clear:
+If the Rules require the transfer, the transfer is Class I.
+If the Rules require a Player to INITIATE the transfer, the transfer is
+  Class III.
+
+However, Rule 1479 clearly says: "the Player shall be required to 
+transfer...", not "the Player shall be required to initiate the transfer...",
+or any text which could be explained in the same way (i.e. any text of
+the form "the Player shall be required to do X", where X would initiate the
+transfer). So the loss and gain of Points in Rule 1479 are Class I. As to
+the timing matters, I refer to my own Arguments as Caller on CFJ 845:
+
+
+"Morendil interprets this differently, namely as "Class I and Class II
+ transfers take place at the time the Rules declare them to take place." 
+ In my opinion both are grammatically correct. However, my interpretation 
+ has not only the advantage of following Game Custom, but also of having 
+ meaning. With this last I mean, that, if Morendils interpretation is taken,
+ the line doesn't have a sensible meaning at all, since it only forces 
+ things which are forced to happen anyway."
+
+Chuck was too reluctant to make a Judgement which would imply e was not the
+Judge on the Statement, however, e did agree with me. I have added eir quite 
+extensive Reasoning as Evidence.
+
+So, finding that Morendil did indeed loose his many Points at the time he
+disowned his Proposals, he did not win. As Kelly's Score reports have shown,
+in this case Swann won the Game. As our former Speaker (Ian) had abandoned,
+Swann, already having become Speaker-Elect, Rule 785 becomes Speaker
+automatically. As no Speaker Transition has taken place since then, Swann is
+Speaker.
+
+======================================================================
+
+Concurring Opinion:
+
+I concur with Judge Andre's Judgement that the Statement is TRUE. 
+However I disagree with some the arguments he presents, and arrive
+at his conclusion via different means.
+
+In particular, I do not agree with Judge Andre's assessment that
+there is a meaningful distinction to be drawn between those cases
+in which "a Player is required to transfer" and those in which
+"a Player is required to initiate a transfer". It is my view that
+these phrases are synonymous, and that both have the implication
+that voluntary action is required on the part of the Player to
+make the transfer, for example, a post to the Public Forum in the
+case of points or Marks, saying in effect "I hereby transfer...".
+However, R1479 explicitly states that the transfers are involuntary
+in nature. Since R1479 apparently requires that the transfers for
+disowning be both voluntary and involuntary, the conclusion is
+inescapable that R1479 is self-contradictory. 
+
+It is my view that in such cases of self-contradictory Rules that
+we must do our best to respect as much of the Rule as we can.
+Nevertheless we must acknowledge that some part of the Rule will
+be violated due to the presence of the contradiction. The only
+question to be settled then is: which part? As I have argued
+extensively elsewhere, it is my view that game custom, commonsense
+and consistency (with, for example, the language in R1451 and the
+rest of the language in R1479) all favour the interpretation that the
+transfers for disowning are involuntary transfers, directly required
+by Rule 1451. This makes them Class I transfers according to the
+definition in R1472, taking place when they are required to take
+place, According to Chuck's non-Judgement of CFJ 845, in the case
+of these particular transfers for disowning, they took place
+on Dec 22. The subsequent events are admirably summed up by Andre
+in his Judgement.
+
+Steve Gardner                     |  "Justice? You get justice in the next
+Dept. of Philosophy, Monash Uni.  |   world, in this world you get the law."
+gardner@aurora.cc.monash.edu.au   |          --  William Gaddis --
+
+Kelly Martin
+
+Michael.
+
+
+
+======================================================================
+
+Evidence (added by Judge):
+
+Rule 785/2
+Rule 1451/1
+Rule 1472/2
+Rule 1479/0
+CFJ 845, non-Judgement by Chuck
+Score reports for the period 24 December 1995 - 22 January 1996, added by
+  reference
+
+----------------------------------------
+
+Rule 785/2 (Mutable, MI=1)
+Abandonment of Speakerhood
+
+      If any Player suspects that the Speaker has Abandoned, e may
+      send a message to all Players calling on the Speaker to announce
+      eir presence.  The Speaker must reply to all Players within one
+      week; if e does not, and the Speaker has not changed in that
+      week, e is defined to have Abandoned.
+
+      If the Speaker has Abandoned, then if there is already a
+      Speaker-Elect e immediately becomes Speaker, and the old Speaker
+      becomes a Voter.  If not, a new Speaker shall be chosen
+      according to the Order of Succession, defined elsewhere, with
+      the first Player who called for the Speaker to announce eir
+      Presence as the Arbiter of Succession.
+
+      The new Speaker shall make reasonable effort to obtain the
+      former Speaker's materials: proposal queue, voting records, etc.
+      but if this is not possible, then the new Speaker shall
+      request that these be resubmitted by the Players.  A Speaker
+      who Abandons commits a Class A Crime
+
+History:
+...
+Amended(1) by Proposal 1424, Feb. 7 1995
+Amended(2) by Proposal 1682, Aug. 22 1995
+
+----------------------------------------
+
+Rule 1451/1 (Mutable, MI=1)
+Disowning Proposals
+
+      A player may disown eir own proposal if it has not yet been
+      distributed or if no more than four days have passed since its 
+      distribution, by sending a statement disowning it to the Public 
+      Forum.  
+
+      The player so disowning a proposal loses a flat fee of five
+      points, reported by the Assessor, but any other score changes,
+      blots, or other effects resulting from the player's submission
+      of that proposal, including but not limited to formatting
+      penalties, rule repeal rewards, new player bonuses, and awards
+      or penalties for votes cast on that proposal are cancelled and
+      shall not be taken into account.  The disowning Player does not
+      receive any Extra Votes for a Proposal he disowned, even if it
+      passes. 
+
+      Neither the Assessor nor any Player who has been Assessor since
+      the beginning of the voting period on that proposal may disown a
+      proposal, unless that proposal has not yet been distributed. 
+
+      This Rule takes precedence over any other Rule which would
+      otherwise seek to reward or penalize any player based on the
+      disowned proposal. 
+
+
+History:
+Created by Proposal 1549, Apr. 14 1995
+Amended(1) by Proposal 1700, Sep. 1 1995
+
+----------------------------------------
+
+Rule 1472/2 (Mutable, MI=1)
+Transfer of Currencies
+
+      It shall be legal to transfer Currencies between Treasuries,
+      provided this is done in accordance with the Rules.  Every
+      transfer shall involve a positive amount of exactly one
+      Currency, which shall be transferred from exactly one Treasury
+      into exactly one other Treasury.  Every transfer has an
+      initiator, which is the Entity which causes the transfer to take
+      place.
+
+      A transfer which is explicitly and directly required to take
+      place by a Rule is initiated by that Rule, and is called a Class
+      I Transfer.
+
+      A transfer which is required to take place by an Entity (other
+      than the Rules) to which the Rules have granted the power to
+      require Currency Transfers to take place is initiated by that
+      Entity (_not_ the Rule which grants that power to that Entity),
+      and is called a Class II Transfer.
+
+      A transfer which is not required to take place, and which is
+      instead the consequence of a Player's action, is initiated by
+      that Player, and is a called a Class III Transfer.
+
+      For the purpose of this Rule, a Rule, or an Entity other than
+      the Rules to which the Rules have granted the power to require
+      Players to perform actions, which requires a Player to initiate
+      a transfer is _not_ requiring the transfer.  Such a transfer is
+      a Class III transfer initiated by that Player.  This Rule takes
+      precedence over any Rule which would require a Player to
+      initiate a transfer which is prohibited by this Rule.
+
+      A Class I transfer is not permitted if there is no Rule which
+      specifies a Player who is to detect and report the transfer.
+
+      A Class II transfer is not permitted if there is no Rule, or
+      Entity other than the Rules to which the Rules have granted the
+      power to require Players to perform actions, which specifies a
+      Player who is to detect and report the transfer.
+
+      A Class II or Class III Transfer is not permitted if the
+      Treasury from which the Currency is being transferred will
+      possess a negative quantity of that Currency after the transfer
+      has been completed.
+
+      A Class III Transfer is not permitted unless the transfer is
+      initiated by the Executor of the Owner of the Treasury from
+      which the Currency is being transferred.
+
+      This Rule takes precedence over any Rule which would permit a
+      transfer prohibited by this Rule.
+
+      The Recordkeepor of a Currency must be notified of a transfer
+      involving that Currency within seven days, unless another Rule
+      specifies a different time limit for reporting a certain type of
+      transfer.  For a Class I or Class II transfer, the notification
+      shall be made by the Player required to detect and report it.
+      For a Class III transfer, the notification shall be made by the
+      Player who initiated it.
+
+      Class I and Class II transfers take place at the time they are
+      required to take place.  Class III transfers take place at the
+      time they are reported.
+
+[CFJ 793: Notification may take place as part of an Official Report to
+ the Public Forum.]
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1649, Aug. 1 1995
+Amended(2) by Proposal 1702, Sep. 1 1995
+
+----------------------------------------
+
+Rule 1479/0 (Mutable, MI=1)
+Point Penalties and Awards
+
+      Whenever a Rule calls for a Player to lose a number of Points
+      without specifying where these Points shall be transferred to,
+      the Player shall be required to transfer that number of Points
+      from eir own Treasury to the Bank.
+
+      Whenever a Rule calls for a Player to receive a number of
+      Points, but does not specify where the Points shall be received
+      from, that number of Points shall be transferred from the Bank
+      to that Player's Treasury.
+
+      The payment of all Salaries shall be by transfer of Points from
+      the Bank to that of the Player receiving the Salary.
+
+      All of these transfers are involuntary in nature.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+
+----------------------------------------
+
+Non-Judgement CFJ 845 (Evidence deleted):
+
+
+This CFJ hinges on the meaning of the sentence in Rule 1472:
+
+      Class I and Class II transfers take place at the time they are
+      required to take place.
+
+But, many Class I and Class II transfers have no time at which they
+are explicitly required.  In such cases, what does this sentence
+mean?
+
+I will use, as an example, the fee for disowning a Proposal imposed
+by Rule 1451, due to the obvious practical importance of this case.
+But it should be noted that the statement does not mention this
+particular case; and even though I reference Rule 1451, the same
+argument applies to all such transfers.
+
+Rule 1451 states that a Player disowning a Proposal loses 5 points,
+but specifies no time at which this takes place.
+
+CFJ 721 and 722 are of some interest here.  They both address similar
+statements, regarding the alleged violation by then-Registrar KoJen
+in announcing the vacancy in a few Offices.  Both Judges, Vanyel
+and Down with 815!, ruled that because Rule 790 imposed no time
+limit on the Registrar's duty, he could not be said to have violated
+Rule 790.
+
+However, in spite of the fact that a Registrar could not be convicted
+of violating that part of 790, and that that part of 790 is therefore
+unenforceable, the _de jure_ requirement for the Registrar to
+announce the vacancy remains.
+
+Morendil may well be right in stating that there is no time at
+which the penalty for disowning to take place.  *However*, there
+is no justification for saying that the transfer therefore does
+not take place.  This is, plain and simple, a _non sequitur_.
+There is no logic to his statement that because that sentence
+in 1472 does not specify a time at which the transfer takes place,
+it does not take place at all.  I find that this sentence in Rule
+1367 is also interesting:
+
+      There shall exist a subset of the Patent Titles known as
+      Degrees.
+
+Not relevant, you say?  Au contraire!  Like the sentence in question
+in Rule 1472, it *also* does not specify a time at which the
+disowning penalty takes place.  In fact, there are several thousand
+such sentences in the Ruleset.  Yet no one claims that *these* imply
+the transfer does not take place.  Why should the sentence in
+Rule 1472 be any different?  It is not.
+
+Rule 1472 is, at worst, silent on the time at which the disowning
+penalty takes place.  But this in no way means that the penalty
+does not take place at all!  There are numerous other Rules
+which also are silent on the time at which the disowning penalty
+takes place.
+
+In fact, no Rule requires the disowning penalty to take place
+at any given time.  Such rules--those that require point changes
+without specifying the time at which those changes take place--
+go all the way to the beginning of Agora.  In fact, in the
+initial Ruleset, 5 types of point changes are specified.  For
+only one of these is the time of the point change specified.
+Yet, somehow, these changes took place nonetheless--at the time
+at which the requirement of them taking place started.  Thus,
+there are 2 1/2 years of Game Custom supporting the interpretation
+that, when the Rules are silent on the time at which a currency
+transfer takes place, it takes place when the requirement
+of that transfer starts.  This non-Judgement supports that
+interpretation as well, as I choose to use the same criteria
+that actual Judges are required to apply: when the Rules are
+silent, Game Custom, the Spirit of the Game, and past Judgements
+should be considered.

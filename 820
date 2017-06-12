@@ -1,0 +1,474 @@
+>From nomic-official-owner@teleport.com  Wed Nov 15 08:53:44 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id IAA03235 for <blahedo@quincy.edu>; Wed, 15 Nov 1995 08:53:40 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id GAA06587 for nomic-official-outgoing; Wed, 15 Nov 1995 06:48:14 -0800
+Received: from wing1.wing.rug.nl (wing1.wing.rug.nl [129.125.21.1]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id GAA06444 for <nomic-official@teleport.com>; Wed, 15 Nov 1995 06:47:43 -0800
+Message-Id: <199511151447.GAA06444@desiree.teleport.com>
+Received: by wing1.wing.rug.nl
+	(1.37.109.8/16.2) id AA00243; Wed, 15 Nov 1995 15:46:01 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 820 Final Judgement: TRUE
+To: nomic-official@teleport.com
+Date: Wed, 15 Nov 95 15:46:00 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Wow! That was close! Two Judgements in the last hour when it was possible!
+
+======================================================================
+		 	ASSIGNMENT CFJ 820
+
+Rule 1533 should be interpreted to forbid any Group of Players from
+forming an Organization that does not belong to a Class defined in the
+Rules.
+====================================================================
+Judge:		Dave Bowen
+Judgement:	FALSE
+Speaker:	Michael
+Judgement:	TRUE
+CotC:		Andre
+Judgement:	TRUE
+Justiciar:	Steve (must delegate eir duties)
+pro-Justiciar:	Morendil
+Judgement:	TRUE
+Final Judgement:TRUE
+
+Eligible:	Andre, Chuck, Coco, Dave Bowen, Erick, favor, KoJen, 
+		Michael, Morendil, Oerjan, SugarWater, Vanyel, Vlad, 
+		Zefram
+
+Not Eligible:	
+Caller:		Swann
+Barred:		Kelly, elJefe, Steve
+On Hold:
+	
+Effects:	Dave Bowen gains 3 Points for timely Judgement
+		Morendil gains 5 Points for speedy Judgement
+		Michael gains 3 Points for timely Judgement
+		Andre gains 3 Points for timely Judgement
+		Dave Bowen looses 3 Points for being overturned
+
+======================================================================
+
+History:
+  Called by Swann, 31 Oct 1995, 01:58 -0500
+  Assigned to Dave B., 31 Oct 1995, 15:00 MET
+  Judged FALSE by Dave B., 6 Nov 1995, 12:42 -0600
+  Appealed by Swann, 7 Nov 1995, 15:19 MET
+  Appealed by Morendil, 8 Nov 1995, time unknown
+  Appealed by Michael, 8 Nov 1995, 10:05 GMT
+  Assigned to Michael as Speaker, 8 Nov 1995, 12:11 MET
+  Assigned to Andre as CotC, 8 Nov 1995, 12:11 MET
+  Assigned to Steve as Justiciar, 8 Nov 1995, 12:11 MET
+  Delegated to Morendil as pro-Justiciar, 8 Nov 1995, 23:25 +1100 (EST)
+  Judged TRUE by Morendil, 9 Nov 1995, 01:05 +0001
+  Judged TRUE by Michael, 15 Nov 1995, 10:22 GMT
+  Judged TRUE by Andre, 15 Nov 1995, 11:42 MET
+
+====================================================================
+
+Requested Injunction:
+
+Rule 1533 shall be annotated with the interpretation given in this
+CFJ.
+
+====================================================================
+Argument:
+
+Rule 1533 defines the general procedure for creating an Organization,
+to illuminate the Statement in this CFJ, I will process the Rule as it
+will apply to a hypothetical  Organization of an undefined Class.
+
+First off, 1533 Claims precedence over such an Entity, because, to
+quote.
+
+     "This Rule defers when other Rules specifically claim precedence
+      over its requirements. Otherwise, these requirements take
+      precedence."
+
+An undefined Class of Organization has, by definition, no Rule
+specifically claiming such precedence, so 1533 does by dint of this
+clause.
+
+To from such an Undefined Organization then:
+
+     "A set of Players, known as the Foundors, sends a message to the
+      Notary containing the following information:
+
+         i) The Class of the created Organization.
+        ii) The Unique Name of the particular Organization being
+            created.
+       iii) The inital Compact for the proposed Orginization.
+        iv) Any information required by Rules governing that specific
+            Class of Organization."
+
+So far, so good...
+
+Then we start to have problems:
+
+     "The Organization is created and is in force once the Notary
+      receives the above information from all required Foundors."
+
+Who are "all required Foundors" for a non-existent Class?  Rule 1533
+does not define this term, and nowhere else does the Ruleset define it
+in the case of an undefined Organization.  At best this clause would
+render the Organization's existence indeterminate (and this CFJ
+UNDECIDABLE) because there is no way to determine which Foundors are
+the "required" ones.
+
+However, Rule 1533 does elaborate on where the definition shall come
+from:
+
+     "The set of required Foundors is specified within the Rules
+      defining the particular Class of Organization, but they must be
+      from within the Jurisdiction of the new Organization's Compact."
+
+Therefore the set of required Founders must be obtained from the Rules
+that define a Class of Organization.  This implies that there can be
+no "required Foundors" for our hypothetical Organization, because there
+are no Rules defining its Class.  IMO this, in itself, is enough to
+decide the Statement TRUE--
+
+But, additionally, 1533 also restricts the Foundors to be from within
+the Jurisdiction of the Organization's Compact.
+
+Can our hypothetical Organization have a Jurisdiction at all?
+
+>From 1530:
+
+     "A Compact can only have Jurisdiction over Players permitted to
+      it by the Rules governing its Class of Organization."
+
+The word "only" here seems quite explicit to me.  It is clear that
+1530 forbids an Organization Jurisdiction over Players unless a Rule
+explicitly allows its Class to claim such Jurisdiction.  I've heard
+claim that somehow 116 override this interpretation, but lets look at
+116:
+
+     "Whatever is not prohibited or regulated by a Rule is permitted
+      and unregulated..."
+
+The Jurisdiction of our hypothetical Organization obviously falls into
+the class of things that are "regulated," therefore 116 does not come
+into play.  1530 offers a clear prohibition for any undefined Organization to 
+have a Jurisdiction containing Players, and therefore such an Organization can 
+not have any Foundors, and without Foundors, such an Organization can never be 
+formed in the first place.
+
+
+====================================================================
+
+Decision & Reasoning Judge:
+
+Decision: FALSE
+
+Reasoning: I reject the Caller's claim the absence of any "required Founders"
+           suffices to bar an Organization from forming.  It seems to me
+           quite possible that a class of Organization with no required
+           Founders but only "optional Founders" could be permitted in the
+           Rules as they currently exist.  Since only the elements of "the
+           set of required Founders" are required to be within the Jurisdiction
+           of the Organization, the fact that the Jurisdiction is empty is
+           not a bar to formation.  I agree with the Caller that Rule 1530
+           constitutes regulation of Jurisdiction and hence that Rule 116 is
+           not applicable in this case.
+
+====================================================================
+
+Decision & Reasoning CotC:
+
+I reverse the Judge's Judgement and judge TRUE.
+
+However, this is for reasons other than those given by the Caller and
+addressed by the Judge.
+
+As both the Caller and the Judge seem to agree, the set of Required Foundors 
+for an Organization of a Class not defined in the Rules would be empty. 
+However, this is, in my opinion, not enough reason to make such an 
+Organization impossible.
+
+As the Caller claims, the Judge upholds, and is also found in the decision
+of CFJ 818, an Organization of undefined class will have no Players in its
+Jurisdiction. As, however, no Required Foundors are present, still all
+Required Foundors are in its Jurisdiction - The empty set is a subset of
+itself.
+
+So, it seems, I have followed the reasoning of the Judge. And indeed I have,
+till here. However, there are other Rules of importance:
+
+If it is legal for an Organization of undefined Class to be FORMED it should
+also be legal for it to EXIST. What are the main regulations (small r) about
+what an Organization needs - and has an Organization of undefined Class the
+possibility to follow them? The relevant Rule is Rule 1528, first Paragraph:
+
+      Let there be a set of Nomic Entities known as Organizations.
+      Every individual Organization has associated with it a body of
+      text known as its Compact, a Player known as the Organization's
+      Administrator, a set of Players who are within the Jurisdiction
+      of the Organization's Compact, and a unique specific Name.
+
+
+So an Organization must have (1) a Compact, (2) an Administrator,
+(3) a Jurisdiction of the Compact, (4) a unique specific Name.
+
+As the Judgement on CFJ 818 showed, (3) is existent and necessarily empty for
+an Organization of undefined Class. (1) is, as far as I can see, no problem.
+
+When we get to (4) however, problems start. Rule 1533 says that an
+Organization is started when its Foundors send a certain message to the
+Notary. However, as it seems possible to have an empty set of Foundors,
+this could be done by noone sending it to the Notary. But the restriction
+that noone sends a message to the Notary is fulfilled trivially, so ANY
+possible Organization which has no Foundors DOES exist. But among those will
+be some (well, let's not be euphemistic infinitally many) with the same name!
+so this on itself would be enough to get a Judgement of UNDECIDABLE (not
+TRUE as, if we did not allow Organizations of undefined Class, there would
+be no problem with their existance, but if we do allow them, there are).
+
+I would almost say I am therefore lucky that there's (2) also, which makes
+'TRUE' the right Judgement. This is because Rule 1531 says, among
+other things:
+
+      The Administrator of an Organization must come from within the
+      Jurisdiction of the Organization's Compact unless otherwise
+      specified by the Rules governing its Class.
+
+So Rule 1528 says an Organization must have an Administrator, Rule 1531
+says it must be from within the Jurisdiction of the Compact, unless
+otherwise specified by the Rules governing its Class.
+
+So an Organization of undefined Class must have at least one Player in its
+Jurisdiction, namely its Administrator. However, as the Judgement on CFJ 818
+showed, an Organization of undefined Class cannot have anyone in its
+Jurisdiction. Reductio ad absurdum, ergo an Organization of undefined Class
+cannot exist. Quod erat demonstrandum.
+
+As the connection between my reasoning and Rule 1533 is only secondary
+I will not grant the Injunction.
+
+CotC, Andre
+
+======================================================================
+
+Decision & Reasoning Speaker:
+
+Judgement: TRUE
+
+Argument:  
+
+The statement is true because when a new Organisation is to be created
+R1533 tells us that the application for the Organisation's creation
+must contain the Class of the created Organisation.  It is my claim
+that it is impossible for any Player to specify a Class which is not
+defined within the rules. 
+
+Before investigating this further however, it is necessary to define
+what it is to be a Class.  One argument has it that an Organisation's
+Class is simply a set (of Organisations) to which it happens to
+belong.  If this were so, one would not necessarily need to name a
+Class that was specifically defined in the rules, one could merely
+define the relevant set.  This argument has two flaws however, one
+minor and one that is ultimately sufficient to sink it entirely. 
+
+The minor problem with this argument is that it is clear that Classes
+are not just any subset of the universal set of possible
+Organisations.  The language in the rules makes it clear that Classes
+partition the universal set, so that any one Organisation only has one
+class.  Thus the original claim that a Class is any subset is clearly
+too strong.  However, if one allows the argument that a Class is any
+equivalence class over Organisations, then one gets an argument that
+is quite similar to the original and is not subject to the original
+flaw. 
+
+In my opinion, this is still a very dubious argument because we do not
+have any way of knowing that every equivalence class is necessarily a
+Class, though the reverse does hold.  Therefore, it seems dubious to
+assume that the mere act of specifying an equivalence class
+necessarily corresponds to specifying an Organisation's Class.  The
+rules certainly don't explicitly support this view.  However, it is
+still possible to show that the creation of Organisations of undefined
+Class should be forbidden, even when conceding this strong claim. 
+
+Let us continue then.  To create an Organisation, it is necessary to
+specify the Class to which it belongs.  In the absence of something in
+the ruleset specifically defining the Class desired, one must specify
+the partition of the universal set of possible Organisations to which
+the new Organisation belongs.  In the example of the purported
+MouseTrap the class specified was 'non-Group non-Contract non-Contest
+class'.  Now this is a perfectly valid logical specification of a
+subset of all possible Organisations, but there remains an obligation
+to show that this set does in fact contain the supposed Organisation
+in question; for a start it needs to be shown that the set (and
+remember this set ranges over all possible Organisations) is not
+empty.
+
+To show that a set is not empty, one need only demonstrate the
+existence of a member of this set, but in this situation, this could
+only be done under the assumption that the purported Organisation was
+actually an Organisation, but given that this is what the argument is
+trying to establish, we see that there is a circularity. 
+
+In summary, the essence of my argument is that the creation of
+Organisations of Classes not defined in the rules is forbidden because
+no attempt to create such a Organisation can satisfy R1533's
+requirement that the application to create the Organisation should
+specify the Class to which the Organisation is to belong.
+
+Judgement ends
+
+Michael.
+
+
+
+====================================================================
+
+Decision & Reasoning : pro-Justiciar
+
+Decision: TRUE
+
+This is another special case following from my Judgement of CFJ 818 
+and the interpretation of Rule 116 that I set forth in it.
+
+The set of required Foundors is specified in 'the Rules defining the 
+particular Class of Organization', that is, Rule 116. Rule 116 does 
+not _specify_ a set of Foundors, therefore it is impossible to submit 
+such a set.
+
+Invoking Rule 116 recursively with the argument that if no Foundors 
+are required, then all Foundors are optional, is prohibited by my 
+interpretation of Rule 116.
+
+======================================================================
+
+
+
+Evidence:
+ * Rule 1533/0
+ * Rule 1530/0
+ * Rule 116/0
+ * Rule 1528/0 (added by CotC)
+ * Rule 1531/0 (added by CotC)
+
+----------------------------------------------------------------------
+
+
+Rule 1533/0 (Mutable, MI=1)
+Creation of Organizations, and Their Compacts
+
+      Organizations (and, simultaneously, their initial Compacts) are
+      created in the following manner:
+
+      A set of Players, known as the Foundors, sends a message to the
+      Notary containing the following information:
+
+         i) The Class of the created Organization.
+        ii) The Unique Name of the particular Organization being
+            created.
+       iii) The inital Compact for the proposed Orginization.
+        iv) Any information required by Rules governing that specific
+            Class of Organization.
+
+      The Organization is created and is in force once the Notary
+      receives the above information from all required Foundors.
+
+      The set of required Foundors is specified within the Rules
+      defining the particular Class of Organization, but they must be
+      from within the Jurisdiction of the new Organization's Compact.
+      Additional restrictions on the set of Foundors can be made by
+      those Rules.
+
+      This Rule defers when other Rules specifically claim precedence
+      over its requirements. Otherwise, these requirements take
+      precedence.
+
+History:
+Created by Proposal 1760, Oct. 21 1995
+
+----------------------------------------------------------------------
+
+Rule 1530/0 (Mutable, MI=1)
+Compacts: Jurisdiction
+
+      The Jurisdiction of an Organization's Compact is a subset of the
+      set of all Players. A Compact has no force to require, or
+      oblige, anything of Players who are not within its Jurisdiction.
+      (This does not absolve any Players of duties required of them by
+      the Rules.)
+
+      Within its Jurisdiction, a Compact's ability to dictate Players'
+      activity is limited to the extent permitted by the Rules.
+
+      A Compact can only have Jurisdiction over Players permitted to
+      it by the Rules governing its Class of Organization.
+
+      No Compact may have effect prior to its Creation, nor may it
+      have effect subsequent to its dissolution.
+
+      This Rule takes precedence over any other Rule governing
+      Compacts.
+
+History:
+Created by Proposal 1760, Oct. 21 1995
+
+----------------------------------------------------------------------
+
+Rule 116/0 (Semimutable, MI=3)
+Permissibility of the Unprohibited
+
+      Whatever is not prohibited or regulated by a Rule is permitted
+      and unregulated, with the sole exception of changing the Rules,
+      which is permitted only when a Rule or set of Rules explicitly or
+      implicitly permits it.
+
+History:
+Initial Immutable Rule 116, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1483, Mar. 15 1995
+
+----------------------------------------
+
+
+Rule 1528/0 (Mutable, MI=1)
+Organizations
+
+      Let there be a set of Nomic Entities known as Organizations.
+      Every individual Organization has associated with it a body of
+      text known as its Compact, a Player known as the Organization's
+      Administrator, a set of Players who are within the Jurisdiction
+      of the Organization's Compact, and a unique specific Name.
+
+      In addition, any Organization which possesses Treasuries has a
+      Player who is Executor of the Organization.  An Organization
+      only possess Treasuries if the Rules governing that Orginization
+      specify so.
+
+History:
+Created by Proposal 1760, Oct. 21 1995
+
+----------------------------------------
+
+Rule 1531/0 (Mutable, MI=1)
+Administrators and Their Duties
+
+      The Administrator of an Organization must keep an accurate copy
+      of its Compact and an accurate list of the Players within the
+      Compact's Jurisdiction.
+
+      E must record any and all changes to the Compact, and must, As
+      Soon As Possible after such changes, distribute an up-to-date
+      copy of the Compact to every Player within the Compact's
+      Jurisdiction.
+
+      E must also notify the Notary whenever the Executor (if any) of
+      eir Organization Changes.  When the Administrator of an
+      Organization changes, the new Administrator must inform the
+      Notary of this change.  These notifications must be made As Soon
+      As Possible.
+
+      The Administrator of an Organization must come from within the
+      Jurisdiction of the Organization's Compact unless otherwise
+      specified by the Rules governing its Class.
+
+History:
+Created by Proposal 1760, Oct. 21 1995

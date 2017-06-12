@@ -1,0 +1,94 @@
+==============================  CFJ 1550  ==============================
+
+    When a proposal is aborted, all votes cast on it are canceled.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+Appeal:                                 1550a
+Decision:                               SUSTAIN
+
+Appeal:                                 1550b
+Decision:                               REVERSE
+
+========================================================================
+
+History:
+
+Called by root:                         18 Apr 2005 04:22:42 GMT
+Assigned to OscarMeyr:                  18 Apr 2005 08:33:46 GMT
+Judged FALSE by OscarMeyr:              21 Apr 2005 01:26:15 GMT
+Appealed by Maud:                       25 Apr 2005 01:16:01 GMT
+Appealed by Taral:                      25 Apr 2005 14:44:25 GMT
+Appealed by Sherlock:                   26 Apr 2005 23:30:23 GMT
+Appealed by G.:                         26 Apr 2005 23:48:58 GMT
+Appeal 1550a:                           26 Apr 2005 23:48:58 GMT
+SUSTAINED on Appeal:                    03 Jun 2005 13:43:44 GMT
+Appealed by G.:                         03 Jun 2005 18:24:37 GMT
+Appealed by Maud:                       03 Jun 2005 18:27:31 GMT
+Appealed by Taral:                      03 Jun 2005 20:29:08 GMT
+Appeal 1550b:                           03 Jun 2005 20:29:08 GMT
+REVERSED on Appeal:                     19 Jun 2005 21:44:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2033 (Power=1) explicitly asserts that statements 1), 2), 3), and
+4) are true.
+
+Concerning statement 2):
+
+Rule 106 (Power=3) reads, in part, "all Proposals made and distributed
+in the proper way shall be voted upon."  Here, I interpret "voted upon"
+to mean the strong sense that votes on the issue are recorded and
+weighed, rather than the weaker sense that some player has cast a vote
+upon the issue, which may or may not still be valid.  This strongly
+suggests to me that the votes cast upon a proposal cannot be wholly
+swept aside as R2033 purports to do; otherwise, the Proposal has not
+been voted upon.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+I am swayed by the Caller's argument.  R106 prevents votes on
+an aborted Proposal from being canceled; accordingly, the votes made
+before the Proposal was aborted should be duly recorded and reported.
+(I do not intend for this ruling to be retroactive.)
+
+========================================================================
+
+Appellant Taral's Arguments:
+
+The phrase "made and distributed in the proper way" would indicate that
+R106 does not apply to aborted proposals. Even if it does apply, this
+would make R2033 wholly ineffective, preventing termination of the
+Voting Period.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+In CFJ 1550, caller root's arguments were:
+
+> "I interpret "voted upon" to mean the strong sense that votes on the issue
+are recorded and weighed,"
+
+
+However, Judge OscarMeyr provided the argument that:  "the votes made before
+the Proposal was aborted should be duly recorded and reported."  This is the
+phrasology which Justcie Manu specifically
+^^^^^^^^
+quoted in sustaining the argument.
+
+The issue at hand is not that of reporting, it is possible to report a vote as
+CANCELLED.  Therefore, neither Judge OscarMeyr nor Justice Manu provided any
+reasonable arguments as to whether a vote should be WEIGHED, that is,
+considered not cancelled, and that is vital for CFJ1550 to be found false.
+
+========================================================================

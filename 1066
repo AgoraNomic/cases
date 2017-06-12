@@ -1,0 +1,161 @@
+[ Elysion: This probably is actually CFJ #1066 ]
+
+====================================================================== 
+
+CFJ 1065
+
+"I (the caller of this CFJ) am my own Executor." 
+
+====================================================================== 
+
+Judge:       Kolja A. 
+
+Judgement:   FALSE 
+
+Eligible:    Andre, Calabresi, ChrisM, Chuck, Crito, elJefe, 
+             General Chaos, Harlequin, Kolja A., Michael, Murphy, 
+             Oerjan, Steve, Vir, Vlad
+
+Not eligible: 
+Caller:      Swann (not a Player) Barred: On request:  Vanyel On hold:     
+
+====================================================================== 
+
+History:
+  Called by Swann, 29 Oct 1997 19:16:18 -0500 (EST)
+  Assigned to Kolja A., 30 Oct 1997 14:55:02 +0100 (MET)
+  Kolja A. judges FALSE, 4 Nov 1997 14:17:58 +0100
+
+====================================================================== 
+
+Decision & Reasoning Judge: 
+
+I hereby judge the statement of CFJ 1065, 
+
+"I (the caller of this CFJ) am my own Executor.", 
+
+to be false. 
+
+Reasons and arguments:
+
+We are dealing with an interesting question of (real and potential) conflicts
+and various precedence regulations here. The rules concerned are 1738 and 1478
+(see evidence below).
+
+1. By rule number, 1478 takes precedence in case of a conflict. 
+
+2. 1738 states "This Rule takes precedence over any other Rule which would
+specify a different Executor for an entity in Probate." This precedence is
+based on a condition: it only applies to other rules that try to specify
+executors for an entity in probate. However, if this condition is met, the
+_whole_ rule 1738 has precedence over the other rule, not only the paragraph of
+1738 that allows the notary to assign executors in probate.
+
+3. 1478 states "Except when the Rules stipulate otherwise, a Player is eir own
+Executor." This explicitly defers to rules that define a player's executor to
+be someone else than the player emself. However, this precedence clause only
+concerns the one question of who is executor, not the rule 1478 as a whole.
+
+Swann has been assigned an executor in probate. Thus, 1738 "stipulates
+otherwise" than the default given in 1478 would; 1478 defers to the regulations
+of 1738, and Swann's executor in Probate is still eir executor. The statement
+of this CFJ is thus false.
+
+There remains the interesting question of what powers this executor in probate
+has. I mention this point here, because one _might_ argue as follows:
+
+--  
+
+1478 states 
+
+      The Executor of an entity is a Player who is empowered by the
+      Rules to act on behalf of that entity, as if e was that entity.
+                                             ^^^^^^^^^^^^^^^^^^^^^^^
+while 1738 limits the powers of an executor in Probate significantly:
+
+      The Executor in Probate of an entity is the Executor of that 
+      entity, and empowered only to submit Transfers Orders for that 
+      entity.     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+
+
+There are other things the EiP can do, but clearly 1738 allows less than 1478.
+Reading the sentence quoted from 1478 as a _definition_ of "Executor", the EiP
+described in 1738 (who has smaller powers) cannot be the player's executor. -- 
+
+However, I argue that the above argument (between the dashes, --) is false. The
+sentence quoted from 1478 is not a _definition_ of "Executor", but an
+assignment of certain powers to the executor. This assignment does conflict
+with the, much more restricted, assignment of 1738.
+
+We have seen above that 1478 does not define a different executor as 1738, so
+the precedence clause "This Rule takes precedence over any other Rule which
+would specify a different Executor for an entity in Probate." from 1738 does
+_not_ trigger, and the conflicting assignments of power to the executor are
+resolved in favor of the lower numbered rule, 1478.
+
+So an analysis of the argument enclosed in dashes (--) does not only show that
+this argument is false (this is why I'm talking about the issue in this
+Judgement), it also shows that the executor in probate does have the large
+powers given to executors in 1478. The latter point is not strictly relevant
+for this CFJ, but does confirm the way we've handled the situation so far.
+
+====================================================================== 
+
+Evidence (added by Judge): 
+
+1. Rule 1738/0 
+2. Rule 1478/0 
+
+
+--- 
+Rule 1738/0 (Power=1) Executors in Probate
+
+      Whenever there is an entity in Probate which does not have an
+      Executor in Probate, the Notary shall nominate a Player to be
+      that entity's Executor in Probate.  E shall announce this
+      appointment in the Public Forum.
+
+
+      The Executor in Probate of an entity is the Executor of that 
+      entity, and empowered only to submit Transfers Orders for that 
+      entity.  An Executor in Probate also has the power to execute 
+      and vacate certain Payment Orders, as specified by the Probate 
+      Code.  This Rule takes precedence over any other Rule which 
+      would specify a different Executor for an entity in Probate. 
+
+      The Executor in Probate of an entity shall, upon eir nomination,
+      arrange for the disposal of that entity's assets and debts,
+      according to the procedures specified in the Probate Code, and
+      shall do so in a timely manner.
+
+      The Executor in Probate of an entity ceases to be its Executor
+      in Probate when e announces, in accordance with the Probate
+      Code, that the entity is no longer in Probate, or when e
+      announces that e resigns as that entity's Executor in Probate.
+
+      The Notary shall keep a record of each entity in Probate, and 
+      the Executor in Probate of each entity in Probate. 
+
+
+--- 
+Rule 1478/2 (Power=1) Executors
+
+      The Executor of an entity is a Player who is empowered by the 
+      Rules to act on behalf of that entity, as if e was that entity. 
+
+      Except when the Rules stipulate otherwise, a Player is eir own
+      Executor.  Any other entity has an Executor only when the Rules
+      specify either a Player or a means to designate a Player to be
+      the Executor of that entity.
+
+      Whenever a Player is acting on behalf of some entity of which e
+      is the Executor other than emself, e must make it clear that e
+      is doing so.  If such a Player fails to clearly indicate that e
+      is acting as the Executor of some other entity, it shall be
+      presumed that e is acting on eir own behalf.
+
+      A Nomic Entity (other than a person who is not a Player) which 
+      has no Executor, or whose Executor is not a Player, may not 
+      perform any action except when required to do so by the Rules. 
+
+======================================================================

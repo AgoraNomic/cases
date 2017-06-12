@@ -1,0 +1,89 @@
+==============================  CFJ 2882  ==============================
+
+    The Herald's obligated action of selecting and announcing a random
+    integer is a single game action.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Machiavelli
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by Wooble:                       07 Oct 2010 19:59:12 GMT
+Assigned to Machiavelli:                17 Oct 2010 20:44:29 GMT
+Judged UNDETERMINED by Machiavelli:     20 Oct 2010 04:18:57 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, Oct 7, 2010 at 3:45 PM, ais523 <callforjudgement@yahoo.co.uk> wrote:
+> I intend to deputize for the Herald to select a random integer, but then
+> keep it secret, meaning that nobody else can resolve the rebellion
+> because the Herald's responsibility to select a random integer has
+> already been met so that deputization to do it is impossible.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+even using the dice server, it is not possible to select
+and announce simultaneously.  It would be interesting as a precedent
+to ask what sort of delays between selection and announcement make it
+still a random process; for example if the herald performs game-relevant
+actions between the selection and announcement, does it affect the
+process?  -G.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+This is relevant from CFJ 1460:
+   "What matters therefore is not that the outcome [of a random selection]
+   could in principle be known in advance, but that (a) in practice it is
+   not known in advance,and that (b) the process is known to have the right
+   statistical properties in the long run."
+A question is whether this "known in advance" is affected by delays
+sufficient to impart knowledge to a limited few versus the public
+announcement, or to allow others to respond between the selection and
+announcement (for example if there's an unofficial announcement of the
+selection well-before the official announcement).
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+I judge UNDETERMINED. "Game action" is not defined by the rules of
+Agora, so it simply means "action pertaining to the game". Selecting a
+random integer and announcing it are definitely actions pertaining to
+the game, and whether these two actions form a single super-action is
+simply subjective.
+
+Obviously, though, there's still more to be answered: whether ais523
+successfully deputized, and whether anyone else can resolve the
+rebellion.
+
+I don't recall what the CFJ is, but there was a ruling that declared
+that if an officer must perform an action in order to fulfill an
+obligation, a deputy is able to perform the action as well. (The
+specific case in the case was rotating the bench.) Since the Herald is
+required to announce a random integer, it follows that a Deputy Herald
+CAN select a random integer for the purpose of announcing it, even
+though Rule 2160 may say that the requirement to select a random
+integer is already fulfilled. So yes, it's still possible for someone
+else to resolve the rebellion.
+
+Even if that reasoning isn't to your liking, there's this. Rule 2270
+says, "the Herald SHALL select and announce a random integer between 1
+and the number of players in the game." To determine whether the
+deputization was successful, we can simply look at the syntax here. We
+can say that "SHALL x", for all x, is a single obligation to x; if
+this particular clause were two obligations, it would say "SHALL
+select and SHALL announce". Thus, ais523 didn't successfully deputize.
+
+========================================================================

@@ -1,0 +1,59 @@
+==============================  CFJ 2396  ==============================
+
+    A conditional vote which would be clearly identify an option as
+    defined by R2127 would clearly identify an option for the purposes
+    of satisfying Rule 683(c).
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           02 Mar 2009 18:33:12 GMT
+Assigned to Murphy:                     05 Mar 2009 07:07:11 GMT
+Judged TRUE by Murphy:                  12 Mar 2009 22:58:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Some history is needed here.  Conditional Votes, as implemented by
+Rule 2127 (power=1), did an end run around Rule 683 (power=3) by
+specifically defining "clearly identified" to include conditionals.
+At the time, the author of the current form of Rule 683 (Maud) noted
+that (IIRC) it was against common definition or common sense uses of
+"clearly identified" to include conditionals, and that e clearly did
+*not* intend to allow conditional voting when e wrote Rule 683 (the
+wording of which is essentially unchanged from that time).
+
+Now, Rule 754 has been specifically re-written to give higher-
+powered common definitions more credence then lower-powered rules
+definitions, specifically to prevent such end runs.  Also, there
+has been some more recent case precedents around "unambiguous" and
+"clear" (e.g. with respect to dependent actions) which seem to say
+that clear means very clear indeed.  So, currently, does the
+"guidance" provided by lower-powered R2127 successfully define
+a clear vote as including conditionals?
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+R2127's definition reasonably fits within the scope of the
+ordinary-language definition of "clear"; in particular, by the time the
+vote collector resolves the decision, a conditional vote clearly
+identifies an option (or else R2127 also rejects it).  R754(d) is
+intended to restrict sweeping re-definitions such as "to 'repeal' a
+rule is to paint it black", not things like R2127 that were previously
+generally accepted as working for a long time in a non-scam context.
+
+CFJs 1302 and 1307 differed in that IIRC there was no rule, not even a
+low-Power one, claiming that conditional actions were valid.
+
+========================================================================

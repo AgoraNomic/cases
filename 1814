@@ -1,0 +1,78 @@
+==============================  CFJ 1814  ==============================
+
+    The AFO won the game as a result of pikhq's message with Message-ID
+    <200711281949.16555.josiahw@gmail.com>.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         29 Nov 2007 22:01:26 GMT
+Assigned to G.:                         29 Nov 2007 22:10:14 GMT
+Judged FALSE by G.:                     06 Dec 2007 18:18:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+comex announced 104 (allegedly -- I haven't counted them myself)
+identical actions, each attempting to spend 0 VCs in order to decrease
+the AFO's VVLOP by -1.
+
+comex did not specify any colors for the 0 VCs e attempted to spend,
+but I argue that this does not matter, since the number of distinct
+colors in a set of 0 VCs must be 0.
+
+I argue that "spend 0 VCs" is a non sequitur; no VCs are spent, and so
+no action is performed.  I recall there being a precedent on this
+topic, but I've been unable to dig it up.
+
+I argue that "decrease by -1" is also a non sequitur; there is no way
+to modify an integer value such that it is decreased and such that the
+amount it is reduced by is -1.
+
+pikhq's announcement was similar, but each action read "decreate"
+rather than "decrease".  I argue that this difference is meaningless
+per Rule 754(i).
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+Oh, and I have one other gratuitous argument that I neglected to
+include when I initiated the case.  Rule 2134/1, which empowers the
+win, does not refer to VVLOP but rather to "voting limit on ordinary
+proposals".  Since there are three different kinds of "voting limit on
+ordinary proposals" (VVLOP, EVLOP, BVLOP), it is not clear which of
+those (or, perhaps, the sum of all three) is to be used in determining
+the win.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+More precisely, each action in pikhq's announcement read "decreate
+by 1" rather than "decrease by -1".  I argue that this difference
+is significant enough to make 1814 FALSE, even if 1813 is TRUE.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+"Decreate" is (most likely accidentally) a word and concept useable for assets
+(i.e. "destroy").  This creates enough reasonable ambiguity to invalidate this
+attempt.  I should also point out that intent plays a role here:  If a player
+attempts to perform an action through a loophole that is against the spirit
+but not the letter of the law (e.g. a "scam"), we should require that the scam
+pass all possible scrutiny and obey the precise letter of the law, as well.
+(If this was an error performed during the course of a common action which
+abides in both the letter and spirit, we might allow more leniency).  FALSE.
+
+========================================================================

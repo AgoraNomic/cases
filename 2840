@@ -1,0 +1,71 @@
+==============================  CFJ 2840  ==============================
+
+    A player's nickname is eir name.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       25 Aug 2010 18:44:38 GMT
+Assigned to omd:                        28 Aug 2010 00:01:24 GMT
+Judged TRUE by omd:                     04 Sep 2010 18:33:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Names are generally treated as unique, whereas nicknames
+are not.  In particular, Rule 2170 (still the only rule explicitly
+mentioning nicknames at all) does not state that nicknames *are*
+names, it only acknowledges that they can be compared to names.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Names for rule-defined entities are generally unique (meaning that
+each entity has at most one name, not that two entities can't have the
+same name, by the way: I don't see any restriction on a Team changing
+its name to be the same as another's), but game custom and common
+sense support non-uniqueness for other entities' names.
+
+Otherwise, suppose a player "Foo" announces that e is changing eir
+name to "Bar".  "Bar" immediately becomes a valid referent for em, if
+nobody else has been called that recently, but initially eir name
+remains "Foo", because the relevant recordkeepors haven't updated
+their records yet, and other players who haven't noticed the name
+change will still refer to em as "Foo".  "Bar" is just a nickname.  At
+some later time, eir name will become "Bar", and "Foo" will become
+just a nickname.  This will probably happen soon, as Agorans are quick
+to recognize name changes, but the exact time of the change is
+indeterminate!  If a rule (legitimately) referring to Foo is enacted
+in the meantime, even if the intent is completely clear, whether the
+reference succeeds depends on this indeterminate time.
+
+Or what if a player has two equally-weighted names?  This was the case
+for me to some extent when I changed my name to "c." but continued to
+have emails sent from "comex"; more recently, The Robot and I (mostly)
+used "The Robot" to refer to em, honoring eir attempted name change.
+IIRC the name change was reflected in most reports, but many players
+still referred to em as coppro.  Whether eir name now is "coppro" or
+"The Robot" is indeterminate.
+
+Perhaps all players lack names and only have nicknames, but we have
+never enforced the distinction between those terms in practice.
+
+Better solution: for non-rule-defined entities, name = nickname =
+whatever is in common use to refer to it.  Without the explicit legal
+fiction of "single name" created for other entities, the text in R1586
+about referring to entities by name simply means "fix the referent at
+the time of inclusion", it doesn't create a new artificial process for
+resolving references.
+
+========================================================================

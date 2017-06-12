@@ -1,0 +1,136 @@
+==============================  CFJ 3295  ==============================
+
+    I CAN nominate Tweedledee in the Herald election
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       28 Jan 2013 01:36:31 GMT
+Assigned to G.:                         09 Feb 2013 17:52:05 GMT
+Judged TRUE by G.:                      15 Feb 2013 18:12:06 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Only active players can be nominated. So is Tweedledee active
+or inactive? It's easy to prove that Tweedledee and Tweedledum have the
+same activity status (they become active and inactive in sync). I think
+it's paradoxical what that status is, though. There's an infinite
+regress of acting on behalf going on here. Previously this has been
+restricted due to the problems of sending infinitely long messages, or
+the rules preventing promises from cashing each other, but recent
+proposals make it possible to just send a message on behalf. The reason
+I created two promises to hold the text of the messages is to create
+something tracked by the rules that I can refer to without having to
+create an infinitely long message.
+
+(Note that there are no promises cashed in the loop itself, merely used
+to set them up.)
+
+========================================================================
+
+Caller's Evidence:
+
+I create two Slave Golems, Tweedledee and Tweedledum.
+
+I send the following message on behalf of Tweedledee:
+{{{
+I create a promise "Contrariwise", with the text "I perform the
+specified action", and the condition to not be destroyed when cashed
+"There is a rule with ID number 101", and transfer it to ais523.
+}}}
+
+I send the following message on behalf of Tweedledum:
+{{{
+I create a promise "Nohow", with the text "I perform the specified
+action", and the condition to not be destroyed when cashed "There is a
+rule with ID number 101", and transfer it to ais523.
+}}}
+
+I transfer Tweedledee to Tweedledum.
+I transfer Tweedledum to Tweedledee.
+
+I create a promise, "Text Repository X", with the following text:
+{{{
+I become inactive.
+I send the message "I become inactive" on behalf of Tweedledum.
+I send a message with the same text as the promise "Text Repository Y"
+on behalf of Tweedledum.
+}}}
+
+I create a promise, "Text Repository Y", with the following text:
+{{{
+I become active.
+I send the message "I become active" on behalf of Tweedledee.
+I send a message with the same text as the promise "Text Repository X"
+on behalf of Tweedledee.
+}}}
+
+I cash Contrariwise, specifying the action as causing Tweedledum to send
+a message with the same text as the promise "Text Repository Y".
+
+I initiate an election for Herald. (The office is currently vacant.) If
+I've miscalculated and the office isn't vacant, to avoid ambiguity, I
+spend 1 ruble to initiate an election for Herald.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+Activity is a switch. Per R2162, when a switch's value
+would become indeterminate, "the instance instead takes on its last
+determinate and possible value, if any, otherwise it takes on its default
+value". Since there's no reason to prefer to stop the infinite chain at any
+point, we can't find a "last determinate" value, but so we should use the
+default value, which is Active.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+By itself, "I cause X to send a message with the same text
+as Y" may be reasonable shorthand, but isn't there some precedent that
+we should take the global view and consider the shorthand unreasonable
+because it is being used to effectively send an infinitely long
+message?
+
+========================================================================
+
+Judge G.'s Arguments:
+
+On my first pass, I was convinced that this infinite loop might succeed
+(under the precedent of CFJ 3254) leaving the activity switch of
+Tweedledee in an indeterminate state for any time after ais523 cashed
+Contrariwise.
+
+However, re-examining omd's gratuitous arguments, I am focusing on the
+following phrase: 'I send a message with the same text as the promise
+"Text Repository X"'.  The Caller states that the notion of using this
+loop to "send a message" rather than perform an action is central to eir
+scam avoiding various other protections in place in the rules.
+
+However, "I send a message with the same text as..." is, as a standalone
+statement, an administrative ISID convenience, just like "I perform the
+above-quoted actions" or "me too".  In this case, though, the last part
+of the replacement (Text Repository X) is circularly replacing, and so it
+is uncertain, changing and/or ambiguous text in and of itself.  In other
+words, since the referent 'same text as' is ambiguous, the replacement
+fails.  Note that this 'text replacement' is a different situation than
+R2162, which involved circular cashing of promises with set, not
+changing, texts.
+
+Therefore, ais523's attempt to 'send a message with the same text as'
+fails, as it refers to something ambiguous, and no changes occurred in
+Tweedledee's activity at all.  Since e started out as Active, e could be
+nominated.  TRUE.
+
+========================================================================

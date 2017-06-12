@@ -1,0 +1,201 @@
+==============================  CFJ 2786  ==============================
+
+    /dev/null (formerly an Agoran contract) is an entity
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       22 Apr 2010 15:11:41 GMT
+Assigned to G.:                         25 Apr 2010 15:08:02 GMT
+Judged FALSE by G.:                     30 Apr 2010 20:16:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+/dev/null was a contract with no parties, and the following text:
+
+> This contract is a pledge, titled "/dev/null". The player known as
+> root CAN join this contract by announcement; no other person may do
+> so. Parties to this contract CAN leave it by announcement, and MUST
+> do so immediately.
+
+Arguments:
+CFJ 2769 found that the IBA, an agreement between many Agorans to trade
+assets in a defined manner, survived the repeal of Agoran contracts, and
+continued to exist as an entity beyond that (although, of course, it was
+no longer enforceable under Agoran law at that point, nor probably any
+other law either). Quoting Judge coppro's arguments:
+
+> Binding agreements not governed by the rules can and do exist, and are
+> therefore valid Agoran entities. By legal convention, a binding
+> agreement (I will avoid the term 'contract' when referring to real-world
+> agreements) needs no physical existence; it can exist without any
+> document behind it, such as when an agreement is formed at a grocery
+> store to purchase a box of donuts.
+
+There exists one curiosity not covered by this judgement, which could
+theoretically have an effect on play (although at the moment,
+unfortunately no non-fixed assets with no ownership restriction exist,
+so I can't demonstrate by trying to transfer one to it), which is the
+former contract /dev/null (see evidence). Its unusual feature was that
+it was a binding agreement between no people (which was possible due to
+a bug in the rules at the time). Now, it makes sense for an agreement
+between two or more people to persist after its legal basis is repealed;
+a promise made by one person can also be binding outside Agora, and
+likewise can continue on unregulated after the Agoran rules after the
+rules concerning contracts are repealed. However, an agreement between
+no people is a hard concept to express; arguably, it was purely a legal
+fiction before the repeal of contracts, rather than codifying something
+that existed in the real world. In such a case, it's entirely possible
+that it existed solely due to the contract rules, in which case their
+repeal would cause it to cease to exist.
+
+On the other hand, in a way /dev/null does still continue to exist; it's
+possible to discuss it and some of its properties, for instance. Even
+though it would take a very insane legal system for enforcing it to even
+make sense, it's pretty much undisputed what its text and membership
+would be if it existed, for instance; and it's possible to call CFJs
+about it (I doubt this CFJ will be ruled to be meaningless due to a lack
+of referent in its topic!) This sort of usage implies that the former
+contract does still exist in some sense, even though it isn't a sort of
+construct which has a name, or a real-life purpose.
+
+(A third possibility is that /dev/null never existed in the first place;
+the rules were never particularly clear on the matter of
+contract-as-legal-fiction vs. contract-as-codification-of-agreement, and
+in the case of /dev/null, that really showed. However, as far as I know,
+consensus was that it did exist; and two CFJs, 2159 (the original) and
+2161 (covering a hypothetical situation that actually happened
+
+<http://agora.qoid.us/rule/1742#562515>) found that the contract
+existed, and would continue/continued to exist despite the rule changes
+that fixed the original bug.)
+
+========================================================================
+
+Judge G.'s Arguments:
+
+When we ask, in a legal CFJ, "Does X exist?" the appropriate response
+will vary depending on the purported category of existence of the entity
+in question.  (Here, I am reading the question "X is an entity" as
+equivalent to "The entity X currently exists" as "is" strongly implies
+an existence question in this context).
+
+In particular, there are two categories of existence to distinguish:
+
+1.  The physical existence of a real entity.  Whether or not a purported
+entity acknowledged by the rules (e.g. a person) or not (e.g. the Moon),
+it is reasonable to base a judgement on a preponderance of evidence for
+the entity's existence (e.g. reasonable research by a judge would reveal
+that the Moon most likely exists, therefore leading to a "true").
+Standards for such entities ceasing to exist are based on common
+definitions for the entity, but, solipsism aside, determining existence
+is a fact-finding exercise.  In particular, this category of existence
+is *not* governed by Rule 1586.
+
+2.  The legal existence of a document-defined entity.  In this case, a
+document's contents describe an entity; if the document is given "legal
+force" than the described entity is said to exist.  Whether or not such
+an item  "exists in reality" is a matter for debate in mathematical and
+philosophical contexts since the time of Plato ("does a Line, as defined
+in the document Euclid's Elements, actually exist?"), but in legal and
+mathematical contexts it is also tautology; if you subscribe ("believe
+in", or "are a party to") to the legal document (system of axioms) in
+question, then a described entity exists for proofs (mathematical or
+legal) made within that system.  This type of existence *is* governed
+by R1586.
+
+The caller confounds the two types of existence in eir arguments.  The
+of a copy of said document, falls into the first category.  This sort of
+existence is trivially true for /dev/null (I can confirm a copy exists
+in a cache on my machine) and is the only sort of existence required for
+us to "discuss it and some of its properties".  However, our history of
+the use of "entities" and "existence" with respect to contracts implies
+the second type of existence is what's really in the caller's question;
+that is, does the entity defined in the /dev/null document exist?  So a
+trivial 'true' does not answer the CFJ, although it answers some of the
+caller's discussion.
+
+In the words of R1586:
+      If the documents defining an entity are repealed or amended such
+      that they no longer define that entity, then that entity and its
+      properties cease to exist.
+
+Now what's confusing is that there are two documents in question.  First
+is the /dev/null copy, but second is the Agoran Ruleset, in particular
+the (now-repealed) rules on contracts.  The most direct precedent to
+consider here is CFJ1517.  Here, a fully functioning Nomic
+(Claustronomic) also fit the Agoran definition of a Contest.  However,
+during the course of play, it lost the properties that made it an Agoran
+Contest.  CFJ1517 found that, even though there was clear evidence of
+its continued activity as a standalone nomic, it has ceased to exist in
+any defined category in Agora, and therefore it has "ceased to exist" as
+far as the Agoran legal process was concerned.
+
+At least, in that case, Claustronomic could objectively be said to have
+a real world existence (there were players that were actively "abiding
+by Claustronommic rules" both before and after that judgement), so
+perhaps this was controversial, or even wrong.  However, for /dev/null,
+in terms of any common-sense definitions, a contract with no members,
+activity, or other evidence of existence, in addition to not being
+currently defined in Agora, also does not pass a basic test for being a
+real-world document-defined entity, therefore it can't be said to pass
+any kind of reasonable test of independent existence.
+
+Thus, this court finds that for /dev/null, the primary document in
+question is clearly the Agoran ruleset.  If the Agoran rules do not
+define a category that /dev/null may reasonably fit into, then /dev/null
+has ceased to exist (if it ever existed).
+
+This judgement may seem at first to conflict with a few other past
+rulings that allowed independent entities to exist in an Agoran legal
+sense.  For example, CFJ 1328 found that a contract not formally brought
+into an Agoran category could be classed as having legal Agoran effects
+as an agreement, and CFJs 1622, 1623, 1684 and 1691 affirmed that an
+formally "unrecognized" entity (the Pineapple Partnership) did in fact
+constitute a person.  However, the key point is that, in all these
+cases, the question was whether the pre-existing entity in question fit
+into a category that the Agoran rules actually recognized, such as
+"agreements" and "persons".
+
+Currently, the rules preclude /dev/null from being a person, agreements
+are not defined (only roughly alluded to in R101).  /dev/null does not
+fit the definition of a nomic for foreign relations (these days, that
+would allow Claustronomic to be recognized).  Thus it is not an Agoran
+defined entity, and has no independent existence, either.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+Rule 1586/7 (Power=2)
+Definition and Continuity of Entities
+
+      If multiple rules (hereafter documents) attempt to define an
+      entity with the same name, then they refer to the same entity.
+      A document-defined entity's name CANNOT be changed to be the
+      same as another document-defined entity's name.
+
+      A document referring to an entity by name refers to the entity
+      that had that name when the document first came to include that
+      reference, even if the entity's name has since changed.
+
+      If the documents defining an entity are repealed or amended such
+      that they no longer define that entity, then that entity and its
+      properties cease to exist.
+
+      If the documents defining an entity are amended such that they
+      still define that entity but with different properties, then
+      that entity and its properties continue to exist to whatever
+      extent is possible under the new definitions.
+
+========================================================================

@@ -1,0 +1,131 @@
+==============================  CFJ 1899  ==============================
+
+    BobTHJ CAN register.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Zefram
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       03 Feb 2008 22:45:09 GMT
+Assigned to root:                       03 Feb 2008 22:52:26 GMT
+root recused:                           18 Feb 2008 18:41:47 GMT
+Assigned to G.:                         19 Feb 2008 01:00:08 GMT
+Judged FALSE by G.:                     22 Feb 2008 18:54:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+(I leave out "BobTHJ is a player" because comex already called for
+judgement on that statement.)
+
+BobTHJ had an overdue Vote Market obligation to deregister.  Zefram
+allegedly deputised to deregister BobTHJ.
+
+Rule 2169 (Deputisation) was recently generalised from "office" to
+"position", specifically with "vote collector" in mind; extending it
+to apply to "person subject to a contractual obligation" may or may
+not be too great a stretch.  In addition, unlike previous cases of
+deputisation, this one involves an action targeting the actor (though
+Zefram specified that e was deregistering BobTHJ, and that e was not
+in any way directly causing emself to be deregistered).
+
+If either "X is a player" statement is true, then the corresponding
+"X CAN register" statement is false; Rule 869 (How to Join and Leave
+Agora) defines ""to be registered" as applying only to non-players,
+and does not make an exception for "to register".  If either "X is a
+player" statement is false, then the corresponding "X CAN register"
+statement depends on how Rule 869's normal 30-day limit is affected
+by the unusual targeting situation.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+I am going to judge this case as if I was judging the statement "BobTHJ is a
+Player" (CFJ 1897), as the (possibly-) judge of that case has deferred the
+issue to me.  Did the following set of messages by Zefram successfully
+deregister BobTHJ?
+
+> I intend to deputise for BobTHJ to deregister em.  (E is required to
+> deregister emself by virtue of being BobTHJ, a party to the Vote Market
+> who has thereby contracted an obligation to deregister.  Eir week to
+> deregister has long expired.)
+
+> Deputising for BobTHJ, I hereby deregister BobTHJ.
+
+First, I offer this clarification.  It is not, strictly speaking, by virtue
+of "being BobTHJ" that Zefram is taken to deputize, as "being BobTHJ" is not
+a R2160 'position' (CFJ 1895).  I wholly accept that Zefram's messages convey
+reasonably sufficient intent to deputize for a R2160 'position' of being as
+close as legally possible to "being BobTHJ for the purposes of a fulfilling
+specific vote market obligation" without actually being BobTHJ.
+
+The question is, is the remaining distance between "BobTHJ" and "Zefram as
+BobTHJ's Vote Market position holder", when limited by CFJ 1895, "close
+enough"
+for Zefram to actually deputize and deregister BobTHJ?
+
+First of all, since the "position" in question is specific to fulfilling an
+obligation, the action in question is not merely to deregister BobTHJ, but to
+deregister BobTHJ in a manner that satisfies a given obligation.  The
+obligation
+was described in BobTHJ's vote ticket:
+
+"Action: If all five sell tickets posted in this message are filled, I will
+deregister."
+
+Judge Zefram wrote, in CFJ 1886:  "BobTHJ's obligation was specifically to
+deregister emself, not merely to be deregistered."  Since, by CFJ 1895, we
+can't extend a delegation of position to "being BobTHJ", a deputised
+deregistration does not satisfy the obligation to deregister emself as an
+act of will.  If the agent of Registrar (through Cantus Cygneus) doesn't
+satisfy, neither would the agent of a deputy.  Since the "requirement" of
+R2160a is (by CFJ 1886) not merely to be deregister but to self-deregister,
+and because by CFJ 1985, Zefram can't get close enough to be considered
+BobTHJ's "self", Zefram's attempted action of deregistering BobTHJ is actually
+a different action then the one BobTHJ's "position" was required to perform
+by R2160a.  Substituting one action for another may work in terms of equity,
+but it is not permissible under R2160 deputization.
+
+Secondly, there is mechanism.  The only applicable mechanism for
+deregistration is contained in R869, "A player CAN deregister [emself] by
+announcement."  Again, since we can't extend R2160d to allow Zefram to be
+BobTHJ, there is no mechanism by which Zefram can get "close enough" to
+BobTHJ to deregister em, even if they both hold or assume the position
+of 'player', they remain different players.
+
+END RESULT
+Zefram's attempted deputization failed.  BobTHJ is still a player.  By
+implication following this precedent, CFJ 1897 must be TRUE, and this court
+finds CFJ 1899 FALSE (if the CFJ 1897 doesn't match, that that one or this
+one must be appealed).
+
+Two matters remain.  One:  This court specifically does not touch whether
+Zefram "falling on eir own sword" and deregistering *emself* would have
+have satisfied the "self deregistration" requirement.  This Court believes
+that it would:  the active verb is "deregister", in the same way the verb
+"submit a report" or "assign a judge" is used in other obligations.  But
+here I do not press the issue as this is not what Zefram attempted.
+
+Second:  If the Deputization Rule were phrases as "forced executorship"
+rather than "becoming/holding the position", it would work perfectly well.
+This is a legislative issue though, while it may have been the original
+intent of the author, it may not have been for the voters (for example, this
+grew out of old Rules Maud and I wrote that only applied to Officers, on the
+face of it, during voting, I assumed that "R2160 position" was still limited
+to Officers and possibly judges).
+
+========================================================================

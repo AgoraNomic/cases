@@ -1,0 +1,79 @@
+==============================  CFJ 3289  ==============================
+
+    A Rule titled "The Dictionary" exists.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       24 Dec 2012 05:27:23 GMT
+Assigned to Machiavelli:                11 Jan 2013 22:35:03 GMT
+Machiavelli recused:                    12 Jan 2013 20:27:10 GMT
+Assigned to omd:                        09 Feb 2013 17:43:18 GMT
+omd recused:                            11 Mar 2013 18:42:48 GMT
+Assigned to G.:                         11 Mar 2013 18:45:05 GMT
+Judged TRUE by G.:                      11 Mar 2013 22:28:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Is "Enact a new power-0.5 rule" ineffective in creating a
+rule, or merely in specifying its power?
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2141 (Role and Attributes of Rules), relevant excerpt
+
+      Every rule has power between one and four inclusive.  It is
+      not possible for a rule to have a power outside this range.
+
+Rule 105 (Rule Changes), relevant excerpt
+
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
+
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
+          defaulting to one if the enacting instrument does not
+          specify, and the maximum power permitted by other rules.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+R105 reads:
+>       (a) enact a rule.  The new rule has power equal to the minimum
+>           of the power specified by the enacting instrument,
+>           defaulting to one if the enacting instrument does not
+>           specify, and the maximum power permitted by other rules.
+
+This is a bug.  The minimum of "the power specified by the enacting
+instrument" and "the maximum power permitted by the rules" is the
+minimum of (0.5, 4) which is 0.5.  The default of 1 is not triggered,
+as the enacting instrument does specify 0.5.   In other words, Rule 105
+does *not* defer the minimum end to what the rules otherwise specify,
+although it defers to the maximum end.
+
+Since R105 takes precedence over R2141, the result, in fact, is an
+existing Rule with a Power of 0.5.
+
+========================================================================

@@ -1,0 +1,170 @@
+==========================================================================
+                               CFJ 1124
+
+  Votes sent to the agora-discussion mailing list are neither "sent
+  publically" nor "sent privately", and so are not valid when voting is
+  Unrestricted.
+
+==========================================================================
+
+Called by:           Blob
+
+Judge:               Elysion
+Judgement:           TRUE
+
+Judge selection:
+
+Eligible:            Crito, Steve, Elysion, David
+                    
+Not eligible:
+Caller:              Blob
+Barred:              -
+Had their turn:      Ørjan, Blob, Murphy, Peekee, Vlad, Kolja A., 
+                     elJefe, Michael, Morendil
+Already served:      -
+Defaulted:           -
+By request:          -
+On Hold:             -
+
+==========================================================================
+
+History:
+
+  Called by Blob:                          Tue, 20 Apr 1999 13:11:20 +1000
+  Assigned to Elysion:                     Tue, 20 Apr 1999 18:59:24 +1000
+  Judged TRUE by Elysion:                  Sun, 25 Apr 1999 19:55:42 -0400
+
+==========================================================================
+Judge's arguments:
+
+I hereby judge CFJ 1124 to be TRUE.
+
+Reasons:
+
+Had "publically" and "privately" been capitalized in paragraph (d)(3) of rule 
+1764, they would have been obviously referring to the conditions set in the 
+previous two paragraphs. Though they are not capitalized, it still seems 
+reasonable that the definitions of Publically and Privately in the rule. Votes 
+sent to agora-discussion do not meet either criterium, and thus are not valid.
+
+==========================================================================
+Caller's Arguments:
+
+Rule 1764, "Modes of Voting", says in part:
+
+      (d)  (1) If the mode of voting is Public, then any other Rule to
+               the contrary notwithstanding, the casting of any votes,
+               or the declaration of Presence, by Voting Entities on
+               that Proposal, Election or Referendum, may only be
+               achieved by sending a message to the Public Forum.
+
+           (2) If the mode of voting is Private, then any other Rule
+               to the contrary notwithstanding, the casting of any
+               votes, or the declaration of Presence, by Voting
+               Entities on that Proposal, Election or Referendum, may
+               only be achieved by sending a message privately to the
+               Vote Collector.
+
+           (3) If the mode of voting is Unrestricted, then any other
+               Rule to the contrary notwithstanding, the casting of
+               any votes, or the declaration of Presence, by Voting
+               Entities on that Proposal, Election or Referendum, may
+               be achieved by sending a message either publically or
+               privately.
+
+The truth of the statement hinges on the interpretation of the words
+"publically" and "privately" in the previous paragraph. I argue that
+the preceding two paragraphs define the meanings of these words, albeit
+indirectly, by defining the meaning of "Public" and "Private" voting.
+
+>From the definition of Public voting, from paragraph (d)(1) a vote
+can only by made "publically", if it is sent to the Public Forum.
+It is well established that the agora-discussion mailing list is NOT
+a Public Forum. So votes sent to this list are not "sent publically".
+
+The definition of Private voting is less unambiguous, but states that
+a vote must be "sent privately to the Vote Collector". The term "sent
+privately" is not well-defined, but a common sense interpretation rules
+out agora-discussion as a private means of communication.
+
+Therefore, votes sent to agora-discussion are neither "sent publically"
+nor "sent privately", and so, by paragraph (d)(3), are not valid votes
+when the mode of voting is Unrestricted.
+
+==========================================================================
+Evidence attached by the Caller:
+
+Rule 1764/5 (Power=1)
+Modes of Voting
+
+      (a) There are three possible modes of voting on Proposals,
+          Elections and Referenda: Public, Private and Unrestricted.
+          The prevailing mode for each of each of Proposals, Elections
+          and Referenda is initially Public.
+
+      (b)  (1) The Assessor may change the prevailing mode of voting
+               for Proposals, with Support.
+
+           (2) The Registrar may change the prevailing mode of
+               voting for Elections, with Support.
+
+           (3) The prevailing mode of Referenda is always Public.
+
+      (c) When the Voting Period on a Proposal, Election or Referendum
+          begins, the mode of voting for that Proposal, Election or
+          Referendum is set to the prevailing mode for that kind of
+          vote.  Once set in this manner, the mode of voting cannot be
+          changed.
+
+      (d)  (1) If the mode of voting is Public, then any other Rule to
+               the contrary notwithstanding, the casting of any votes,
+               or the declaration of Presence, by Voting Entities on
+               that Proposal, Election or Referendum, may only be
+               achieved by sending a message to the Public Forum.
+
+           (2) If the mode of voting is Private, then any other Rule
+               to the contrary notwithstanding, the casting of any
+               votes, or the declaration of Presence, by Voting
+               Entities on that Proposal, Election or Referendum, may
+               only be achieved by sending a message privately to the
+               Vote Collector.
+
+           (3) If the mode of voting is Unrestricted, then any other
+               Rule to the contrary notwithstanding, the casting of
+               any votes, or the declaration of Presence, by Voting
+               Entities on that Proposal, Election or Referendum, may
+               be achieved by sending a message either publically or
+               privately.
+
+Rule 478/10 (Power=1)
+The Public Forum
+
+      Whether a given medium is a Public Forum or not is a Nomic
+      Property.  The Registrar is authorized to change whether a given
+      medium is a Public Forum or not Without Objection.  When such
+      a change is made, in order to be effective, the message
+      announcing the change must be sent to both a medium that was a
+      Public Forum before the change, and a medium that is a Public
+      Forum after the change.  (If a single medium is a Public Forum
+      both before and after the change, a single message to that
+      medium satisfies this requirement.)
+
+      It is the responsibility of each Active Player to ensure that e
+      is able to receive messages sent to every medium which the
+      Registrar has designated as a Public Forum.  The temporary
+      inability of a Player to receive a Public Forum does not deprive
+      that medium of any legal significance as a Public Forum.
+
+      Sending a message, by any medium or combination of media, to
+      every Active Player, is equivalent to sending it to the Public
+      Forum, provided that the message bears a clear indication that
+      it is intended to be a message to the Public Forum, and it is
+      verifiable that the message was in fact sent to every Active
+      Player.
+
+      Whenever the Rules call upon some Player to "announce", "post",
+      or "distribute" some communication or notification, this shall
+      be accomplished by posting the communication or notification to
+      the Public Forum, unless another rule specifies otherwise.
+
+==========================================================================

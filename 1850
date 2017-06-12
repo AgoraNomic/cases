@@ -1,0 +1,107 @@
+==============================  CFJ 1850  ==============================
+
+    pikhq won in Message-Id: <200712202153.34050.josiahw@gmail.com>
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 pikhq
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       22 Dec 2007 05:01:50 GMT
+Assigned to root:                       22 Dec 2007 09:31:09 GMT
+Judged FALSE by root:                   07 Jan 2008 17:39:09 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+pikhq claimed to create 100 points in eir possession, then claimed to
+win on points.  However, while Rule 2166 (Assets) generally allows the
+recordkeepor of an asset to create that asset, it does not explicitly
+allow em to determine the owner, nor to gain that asset, nor to award
+that asset to emself.
+
+If (e.g.) a contest defined beads as a currency, and explicitly
+allowed the contestmaster to create beads in a given entity's
+possession, then that would be backed up by Rule 2166's "subject to
+modification by its backing document" clause.  However, in the case
+of points, Rule 2179 (Points) is silent on the issue.
+
+If Rule 2166 is interpreted as not allowing the Scorekeepor to
+determine the owner, then it defaults the owner to the Bank, and so
+pikhq's claimed win was unsuccessful.
+
+========================================================================
+
+Judge root's Arguments:
+
+Initiator's Arguments:
+
+pikhq claimed to create 100 points in eir possession, then claimed to
+win on points.  However, while Rule 2166 (Assets) generally allows the
+recordkeepor of an asset to create that asset, it does not explicitly
+allow em to determine the owner, nor to gain that asset, nor to award
+that asset to emself.
+
+If (e.g.) a contest defined beads as a currency, and explicitly
+allowed the contestmaster to create beads in a given entity's
+possession, then that would be backed up by Rule 2166's "subject to
+modification by its backing document" clause.  However, in the case
+of points, Rule 2179 (Points) is silent on the issue.
+
+If Rule 2166 is interpreted as not allowing the Scorekeepor to
+determine the owner, then it defaults the owner to the Bank, and so
+pikhq's claimed win was unsuccessful.
+
+
+Goethe has offered the following counter-argument:
+
+Arggh!  I thought I waited and had consensus here.  FWIW, I think it's
+far-fetched, if one is "generally permitted" to create assets, and
+each asset has an owner, then one is "generally permitted" to create
+assets for arbitrary owners (or else one isn't generally permitted at
+all, which is self-contradictory).   -G.
+
+
+I do not believe that the usage of the word "generally" here
+authorizes the recordkeepor to arbitrarily specify the parameters of
+asset creation.  Rather, it appears to combine with the clause
+"subject to modification by its backing document", to indicate what
+the default authorization is where it is left unmodified.  The word
+"generally" is unnecessary in this interpretation, but this does not
+mean that we should necessarily read more into its usage.
+
+As Initiator Murphy has argued, if the recordkeepor cannot generally
+select an owner for the created assets, then they would come into
+existence with no owner, from which Rule 2166 tells us that the owner
+is the Bank.  So the recordkeepor is not prevented from creating
+assets by this interpretation, and I find both that this does not
+conflict with the "generally permitted" language, and that the rule is
+not self-contradictory.
+
+Additionally, I find it interesting that the authorization clause
+submits itself to arbitrary "modification" by the backing document,
+rather than to the safer possibility of simple restriction.  If the
+recordkeepor were generally permitted to create assets in any manner,
+this would be unnecessary, as any mechanism that a backing document
+might reasonably define would be included in the class of restrictions
+over the general permission.  Using Murphy's interpretation, however,
+"modification" is necessary in allowing recordkeepors to create assets
+in the possession of particular entities.
+
+Finally, because the sentence does allow for specialization of its
+mechanism, we should strive to interpret it as precisely as possible.
+Thus "An asset generally CAN be created by its recordkeepor by
+announcement..." should be taken to mean exactly that, with no extra
+qualifications.
+
+For all the reasons given above, I find CFJ 1850 to be FALSE.
+
+========================================================================

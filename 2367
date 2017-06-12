@@ -1,0 +1,106 @@
+==============================  CFJ 2367  ==============================
+
+    There is a rule with ID number 2105.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       05 Feb 2009 14:44:21 GMT
+Assigned to omd:                        10 Feb 2009 06:04:49 GMT
+Judged TRUE by omd:                     21 Feb 2009 19:54:32 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2141 says:
+{{{
+      A rule is a type of instrument with the capacity to govern
+      the game generally.  A rule's content takes the form of
+      a text, and is unlimited in scope.  In particular, a rule
+      may define in-game entities and regulate their behaviour,
+      make instantaneous changes to the state of in-game entities,
+      prescribe or proscribe certain player behaviour, modify the
+      rules or the application thereof, or do any of these things
+      in a conditional manner.
+}}}
+
+Rule 2105 is an ASCII art picture (therefore not text) that doesn't
+attempt to define, regulate, change or modify anything, even
+conditionally; so it doesn't seem to fit the definition of a rule in
+Rule 2141. Rule 1586 states:
+{{{
+      If the documents defining an entity are repealed or amended such
+      that they no longer define that entity, then that entity and its
+      properties cease to exist.
+}}}
+and rule 2141 was created in 2007, more recently than rule 2105 in 2005.
+So if rule 2105 were ever a rule, rule 1586 caused it to cease to exist
+when rule 2141 were created or amended. (Note that although the Ruleset
+has been ratified, most recently in September 2008, rule 2141 was most
+recently amended in January 2009.)
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+ais523 wrote:
+
+> Rule 2105 is an ASCII art picture (therefore not text)
+
+At least some ASCII art is also text, e.g.
+http://zenith.homelinux.net/cotc/viewcase.php?cfj=1267
+
+> that doesn't
+> attempt to define, regulate, change or modify anything, even
+> conditionally; so it doesn't seem to fit the definition of a rule in
+> Rule 2141.
+
+Rule 2141 says "a rule may", not "a rule must (one or more of)".
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+1. In many modern contexts ASCII *is* text (e.g. "text file").
+
+2. This particular art contains words and phrases.  It might
+   be non-operational, but there's probably at least some
+   "non-operational" text in the rules right now (e.g. unused
+   mechanisms) and at times there's certainly been a lot more.
+
+3. If another rule made this rule 'operational'; e.g. "any
+   player whose nickname is shown on the map wins by Cartography",
+   it would become a rule by your argument. That would imply
+   that an arbitrary rule could turn on and off another
+   arbitrary rule's rule-ness; clearly not for the good of the
+   game.  Better assumption is just that 'may' includes 'may not
+   do any of these'.
+
+========================================================================
+
+Judge omd's Arguments:
+
+There is no ambiguity like with apologies/contracts/proposals which
+are defined to have certain characteristics: the quoted rule clearly
+states that a rule is composed of an arbitrary text, which _may_
+define in-game entities, etc., etc., not that it must do so.  'may'
+can have multiple meanings, and the caller's arguments would be valid
+if the second definition below was used, but the most natural reading
+of 'may' in that context is using the first definition.  TRUE.
+
+1.  To be allowed or permitted to: May I take a swim? Yes, you may.
+2. Used to indicate a certain measure of likelihood or possibility: It
+may rain this afternoon.
+
+-- http://www.answers.com/may
+
+========================================================================

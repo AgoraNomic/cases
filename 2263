@@ -1,0 +1,48 @@
+==============================  CFJ 2263  ==============================
+
+    SDONATE(1VP - FOR) is a valid conditional vote.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        11 Nov 2008 14:15:14 GMT
+Assigned to Murphy:                     11 Nov 2008 18:57:48 GMT
+Judged TRUE by Murphy:                  11 Nov 2008 19:22:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Well, it's a bit complicated isn't it?
+
+========================================================================
+
+Caller's Evidence:
+
+On 10 Nov 2008, at 16:59, Roger Hicks wrote:
+> In all my future communications, a vote of SDONATE(x - y) should be
+> evaluated to be the posting of Sell Ticket with cost x and casting all
+> my valid votes endorsing the filler. If the ticket is not filled, the
+> vote should be evaluated as a DONATE(y) vote (per the PAC contract).
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+At the time this case was initiated, the only proposed definition of
+SDONATE was the one submitted as evidence, so anyone using it at that
+time would (explicitly if e were BobTHJ, implicitly otherwise) be
+agreeing to that definition.  According to that definition,
+SDONATE(1VP - FOR) is equivalent to SELL(1VP - DONATE(FOR)); this is not
+significantly more tedious for the Assessor than any other conditional
+vote, nor does it fall afoul of the PAC's definition of DONATE.
+
+========================================================================

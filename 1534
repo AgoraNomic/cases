@@ -1,0 +1,190 @@
+==============================  CFJ 1534  ==============================
+
+    Michael Norrish is the Speaker.
+
+========================================================================
+
+Caller:                                 Quazie
+
+Judge:                                  Taral
+Judgement:                              
+
+
+Judge:                                  Kolja
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       08 Mar 2005 06:36:25 GMT
+Assigned to Taral:                      13 Mar 2005 02:35:40 GMT
+Taral recused:                          20 Mar 2005 21:55:49 GMT
+Assigned to Kolja:                      20 Mar 2005 21:57:35 GMT
+Judged FALSE by Kolja:                  24 Mar 2005 17:35:08 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R104 states that Michael Norrish is the speaker for the first game.
+As there are no references to any other game being started nor is
+there any indication in the rules that this is not the first game,
+Micheal must be the speaker.  Also no rule defining the role of
+speaker or the transferring of speaker has a power of 3 or greater,
+therefor R104 coupled with R101 must rule.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 104/0 (Power=3)
+First Speaker
+
+      The Speaker for the first game shall be Michael Norrish.
+
+
+
+Rule 101/1 (Power=3)
+Obey the Rules
+
+      All Players must always abide by all the Rules currently in
+      effect, in the form in which they are currently in effect.
+      However, a Player besides the Speaker may always deregister
+      rather than continue to play.
+
+      Whatever is not prohibited or regulated by the Rules is
+      permitted and unregulated, with the sole exception of changing
+      the Rules, which is permitted only when the Rules explicitly or
+      implicitly permit it.  Any change to the game state which would
+      make it impossible to make arbitrary modifications to the Rules
+      by any combination of actions by Players does not occur, any
+      Rule to the contrary notwithstanding.
+
+      The Rules in the Initial Set are in effect at the beginning of
+      the first game.  The Initial Set consists of Rules 101-116
+      (Immutable) and 201-219 (Mutable).
+
+========================================================================
+
+Judge Kolja's Arguments:
+
+The consistent reading of 104 is that it is a historical remnant of
+the early days of Agora with no impact on today's playing
+practice. This is consistent with, e.g., the last paragraph of 101
+which contains a similar historical remnant.
+
+The term 'game' is currently not defined explicitly in the rules. If
+it is used at all (often in the context of "game state") it refers to
+Agora as an ongoing activity, because we currently do not have a
+concept of wins deviding things into separate "games". In particular,
+there is no concept in the rules of a series of enumerable (first,
+second etc) games, the concept (in 2075) of winning "the game"
+notwithstanding (note that even in this context there is no mentioning
+of an "end of game", "next game" or the like).
+
+The term "first" or "nth" game used to mean the activities in the
+nomic until the next win, as after a win a "new game" in some sense was
+started (see exhibit A below).
+
+There have been many wins since 104 defined the speaker, some of which
+triggered the start of new (second, third etc) games according to the
+rules valid at the time, and many changes of the speaker as defined at
+the time. These were legal and took place ok. If anyone wants to
+challenge this statement, you are welcome to appeal this judgement;
+until then I don't think it is necessary for me or someone else to dig
+out the detailed historical evidence supporting this statement.
+
+One may argue that 104 should have been abolished or changed along
+with the other changes that concerned the concept of 'games' as
+defined, countable periods between 'wins'. This argument could be
+continued to say that due to the continued presence and validity of
+104, and applying its text without regards to its history, we are now
+in the 'first game' of Agora.
+
+However, I feel that it is quite strongly in keeping with common
+sense, game custom unchallenged for many years and the best interest
+of the game as required of a judge by 217 no to go this way and claim
+that we have messed up the identity of the speaker for ages (as a
+judgement of TRUE would wreck Agora completely and declare most of its
+history illegal).
+
+========================================================================
+
+Judge Kolja's Evidence:
+
+Exhibit A: Rule 203 from the original ruleset (thanks to Michael for
+providing this one!):
+
+203.  The winner is the first Voter to achieve 100 (positive) points.
+      If more than one Voter achieves this condition simultaneously,
+      all such Voters win.
+      When a game ends in this manner:
+        -If there is only one winner, that Voter becomes the Speaker,
+         and the old Speaker becomes a Voter
+        -If there is more than one winner, the Speaker randomly
+         selects one of the winners, who becomes the new Speaker, and
+         the old Speaker becomes a Voter.
+        -All players' scores are reset to 0.
+        -A new game is begun.  All rules and proposed rule changes
+         retain the status they had at the end of the old game.
+
+Exhibit B: rule 101 with references to currently undefined concepts
+like 'mutable' and 'immutable'
+
+Rule 101/1 (Power=3)
+Obey the Rules
+
+      All Players must always abide by all the Rules currently in
+      effect, in the form in which they are currently in effect.
+      However, a Player besides the Speaker may always deregister
+      rather than continue to play.
+
+      Whatever is not prohibited or regulated by the Rules is
+      permitted and unregulated, with the sole exception of changing
+      the Rules, which is permitted only when the Rules explicitly or
+      implicitly permit it.  Any change to the game state which would
+      make it impossible to make arbitrary modifications to the Rules
+      by any combination of actions by Players does not occur, any
+      Rule to the contrary notwithstanding.
+
+      The Rules in the Initial Set are in effect at the beginning of
+      the first game.  The Initial Set consists of Rules 101-116
+      (Immutable) and 201-219 (Mutable).
+
+Exhibit C: rule 2075
+
+Rule 2075/1 (Power=1)
+Winning Hands
+
+      The Deckmastor's Budget shall contain between one and three
+      Winning Hands, each of which is a list of cards with a hand size
+      at least two greater than the Maximum Hand Size.
+
+      If a Gambler's Hand is identical to a winning hand at any
+      particular moment, any Gambler has 72 hours from that moment to
+      announce that a Gambler holds or has held a winning hand.
+
+      If the announcement is false, the Deckmastor shall, as soon as
+      possible, transfer 1 card at random from the announcing
+      Gambler's Hand to the Deck.
+
+      If the announcement is true, the holding Gambler Wins the Game,
+      and is awarded the boon of Pokerface and the defined regular
+      Patent Title Champion.
+
+      Exactly one week after a true announcement, the Flux of all
+      Gamblers except the Deck shall become frozen.  The Deckmastor
+      shall transfer random cards from the hands of each frozen
+      gambler to the deck, until each frozen gambler has either (a) a
+      hand size equal to or less than the Minimum hand size or (b) no
+      cards.  Then, the Deckmaster shall deal cards to the winner up
+      to the maximum hand size.  When these tasks have been peformed,
+      the Flux of every Gambler shall become free.
+
+      If no one has won the game in the last six months, then any
+      Gambler may announce a Skunk, which shall trigger the effects of
+      a true announcement of a win above, except that no boon shall be
+      awarded nor shall extra winner's cards be dealt.
+
+========================================================================

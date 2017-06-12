@@ -1,0 +1,92 @@
+==============================  CFJ 2559  ==============================
+
+    Test Subject is Yellow.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      01 Jun 2009 23:10:39 GMT
+Assigned to ais523:                     06 Jun 2009 06:39:17 GMT
+Judged FALSE by ais523:                 09 Jun 2009 09:19:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There are three possibilities here. The first is that the
+creation of the contract flips the switch by virtue of having it come to
+be a given value. In that case, both conditions are met, and Test
+Subject is Green and Yellow.
+
+The second is that the creation of the contract does not flip the
+switch, but that when the contract makes itself Public, this does
+constitute a flip, making it Red and Green.
+
+The third is that the switch always has one value and this is never
+changed, causing it to be Blue and Red.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following
+
+{This is a pledge entitled Test Subject. It can either be Blue or Green.
+It can either be Red or Yellow. It is initially Blue and Red. It's
+Disclosure is Public. When this contract's Disclosure is flipped, it
+becomes Green. When this contract's Sentiment is flipped, it becomes
+Yellow. Any player CAN terminate this contract by announcement.}
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+It seems that the only place in the Rules that would cause a switch that
+has never been flipped to have a value is R2162p2s3:
+
+      If an instance of a switch would otherwise fail to have a
+      possible value, it comes to have its default value.
+
+It seems, then, clear to me that both the Disclosure and Sentiment "come
+to have" their default values, rather than being platonically created
+with those values already in place.
+
+Further:
+
+      "To flip an instance of a switch" is to make it come to have a
+      given value.  "To become X" (where X is a possible value of
+      exactly one of the subject's switches) is to flip that switch to
+      X.
+
+This makes it clear that flipping is synonymous with coming to have a
+value, rather than a means of attaining as much. Thus, any event in
+which a switch "comes to have" a value -- in particular, when a newly
+created switch "comes to have" its default value -- is a flipping of
+that switch.
+
+I therefore believe that Test Subject is Green and Yellow, and that both
+CFJs should be ruled TRUE.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+What about its Sentiment? Test Subject doesn't purport to have any
+Sentiment in particular, so R2198 doesn't apply. As far as I can tell,
+no rule other than R2162 has set its Sentiment in this situation; and so
+R2162 fires, changing the switch from having no value to having a value
+(Equitable, the default). R2162 uses the wording "comes to have" rather
+than "is created with", or "has that value"; this fits in perfectly with
+the definition of flipping, and therefore R2162 platonically flipped
+Test Subject's Sentiment to Equitable on creation. The important part of
+this CFJ is that it was flipped; therefore, I judge CFJ 2559 FALSE.
+
+========================================================================

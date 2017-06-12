@@ -1,0 +1,36 @@
+==============================  CFJ 2171  ==============================
+
+    If a person who is bound by an equity agreement fails to fulfill eir
+    obligations to the agreement, and the judge attempts to act on eir
+    behalf, but there are 3 or more objections to the attempt, the
+    person who failed to fulfill eir obligations may be liable for a
+    criminal punishment other than discharge.
+
+========================================================================
+
+Caller:                                 Sgeo
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Sgeo:                         20 Sep 2008 22:51:50 GMT
+Assigned to ais523:                     28 Sep 2008 21:41:27 GMT
+Judged TRUE by ais523:                  28 Sep 2008 21:48:21 GMT
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Trivially TRUE, in general (there may be other reasons why it might
+not); and also, the judge could merely try again; failed intent to
+perform a dependent action does not cause the action to happen. (You're
+confusing "attempt" and "intend" to some extent here; an attempt to
+perform a dependent action fails if there was no intention or if the
+conditions for performing it weren't met, but this is FALSE whether you
+say "attempt" or "intend".)
+
+========================================================================

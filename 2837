@@ -1,0 +1,78 @@
+==============================  CFJ 2837  ==============================
+
+    On or about 00:00 August 19, Wooble was awarded a Leadership Token
+    due to the shuttle being destroyed.
+
+========================================================================
+
+Caller:                                 Tiger
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Tiger:                        19 Aug 2010 22:06:26 GMT
+Assigned to scshunt:                    22 Aug 2010 12:15:12 GMT
+Judged FALSE by scshunt:                26 Aug 2010 18:35:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Uh, yeah, the shuttle is in a wormhole right now. It has been warped
+and disappeared, but I think that was deemed to mean destroyed. So,
+yeah, wooble probably just won. We have omd to thank for firing the
+laser cannon whose recoil caused the shuttle to shoot backwards.
+
+========================================================================
+
+Caller's Evidence:
+
+Part of R2300:
+
+         Heavy Laser Cannon (1) - Causes 6 damage to the closest
+         object with a position between 1 and 9 greater than that of
+         the Shuttle. The player pushing this button may choose to
+         push it harder, which increses the Charge cost by 1, the
+         damage caused by 3, and causes the Shuttle to reduce its
+         position by one.  Doing this when it causes the ship to have
+         the same position as another object is the class-1 crime of
+         Hoisting One's Own Petard.
+
+Part of R2299
+
+      If the Shuttle reaches the end of the journey and is warped,
+      each player aboard the Shuttle is rewarded a farad. If the
+      Shuttle is destroyed, the Enemy is rewarded a Leadership Token
+      and can only initiate the next journey with three support
+      (anyone else still only needs notice).
+
+Part of R2297:
+
+An object's position must be
+      between 0 and the position of the second wormhole. Any object
+      that finds itself outside of this area or on a wormhole is
+      warped and disappears.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+R2299 says "If the Shuttle reaches the end of the journey and is
+warped." The definition of end here is very confusing, however, based on
+the use of "start of the journey" in the preceeding paragraph, it makes
+most sense to interpret it temporally, rather than spatially. Therefore,
+the statement should really be interpreted as "When the shuttle is
+warped, the journey ends", which is supported by CFJ 2832. The wormhole
+in which the shuttle is warped is irrelevant.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+I judge FALSE, per my own arguments.
+
+========================================================================

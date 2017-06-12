@@ -1,0 +1,265 @@
+From nomic-official-owner@teleport.com Tue Mar 28 01:53:06 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id BAA13772; Tue, 28 Mar 1995 01:53:02 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id XAA05874 for nomic-official-outgoing; Mon, 27 Mar 1995 23:58:16 -0800
+Received: from mizar.astro.indiana.edu (mizar.astro.indiana.edu [129.79.160.43]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id XAA05850 for <nomic-official@teleport.com>; Mon, 27 Mar 1995 23:58:10 -0800
+Received: from poverty by mizar.astro.indiana.edu with uucp
+	(Smail3.1.28.1 #7) id m0rtWA9-0001VAC; Tue, 28 Mar 95 02:58 EST
+Received: by poverty.bloomington.in.us (V1.17-beta/Amiga)
+	  id <2i75@poverty.bloomington.in.us>; Tue, 28 Mar 95 02:49:47 EST5
+Date: Tue, 28 Mar 95 02:49:47 EST5
+Message-Id: <9503280749.2i75@poverty.bloomington.in.us>
+From: kelly@poverty.bloomington.in.us (Kelly Martin)
+To: nomic-official@teleport.com
+Subject: OFF: Final Judgement of CFJ 755
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+		      FINAL JUDGEMENT OF CFJ 755
+	   (Rule 1442/0 must be interpreted such that,...)
+======================================================================
+
+  Final Judgement:  TRUE
+
+  Judgement of the Clerk of the Courts:  TRUE
+  Judgement of the Justiciar:            TRUE
+  Judgement of the pro-Speaker:		 FALSE
+
+  Clerk of the Courts:  Kelly
+  Justiciar:		Steve
+  Speaker:		elJefe	  Delegate:  TAL
+
+  Judgement:  FALSE
+
+  Judge:   Vlad
+
+  Eligible to Judge: 
+	Andre, Blob, Coren, Dave Bowen, Chuck, Elde, Einstein,
+	Jeffrey, KoJen, Michael, Oerjan, Pascal, Steve, Vanyel, Vlad,
+	TAL, Kelly, Swann
+
+  Caller:  JonRock
+
+  Barred:  elJefe
+
+  Scorekeepor:
+    Vlad receives 5 Points for speedy Judgement.
+    Steve receives 3 Points for timely Judgement
+    Kelly receives 3 Points for timely Judgement
+    elJefe receives 5 Points for speedy Judgement
+    Vlad must return 5 Points for being overturned
+
+----------------------------------------------------------------------
+
+History:
+  Called Tue, 21 Mar 1995 15:53:28 -0500 by JonRock
+  Assigned Tue, 21 Mar 1995 21:30 UTC to Vlad
+  Judged FALSE Wed, 22 Mar 1995 21:38:13 -0600 (CST) by Vlad
+  --> Vlad receives 5 Points 
+  Appealed Thu, 23 Mar 1995 00:55:19 -0500 by JonRock
+  Appealed Thu, 23 Mar 1995 00:31:36 -0600 (CST) by Vanyel
+  Appealed Thu, 23 Mar 1995 20:39:35 +1000 (EST) by Blob
+  Assigned Thu, 23 Mar 1995 11:30 UTC to Steve as Justiciar
+  Assigned Thu, 23 Mar 1995 11:30 UTC to Kelly as CotC
+  Assigned Sat, 25 Mar 1995 03:15 UTC to TAL as pro-Speaker
+  Judged TRUE Sun, 26 Mar 1995 01:27:37 +1100 (EST) by Steve as Justiciar
+  --> Steve receives 3 Points
+  Judged TRUE Mon, 27 Mar 95 06:09:44 EST5 by Kelly as CotC
+  --> Kelly receives 3 Points
+  Judged FALSE Mon, 27 Mar 95 16:59:35 SET by TAL as pro-Speaker
+  --> elJefe receives 5 Points
+  --> Vlad loses 5 Points
+
+======================================================================
+
+Statement:
+
+"Rule 1442/0 must be interpreted such that, provided a player does not
+already possess 5 Extra Votes, that player can gain Extra Votes up to
+the number of proposals voted on in a single vote message sent to the
+Speaker, by voting ABSTAIN on any or all of them."
+
+I bar elJefe from Judging this statement.
+
+----------------------------------------------------------------------
+
+Arguments:
+
+If the voting player does not have 5 EVs at the time of a message to the
+Speaker containing more than one vote, then it is certainly the case
+that for any single vote contained in that message that the player does
+not have 5 EVs at the time of the casting of that vote.  Thus any vote
+of ABSTAIN does satisfy the criterion for creation of an EV for that
+player, and that player will receive that EV when the results of the
+voting on that Proposal are published.  QED.
+
+----------------------------------------------------------------------
+
+References:
+
+Rule 1442/0 (Mutable, MI=1)
+Extra Votes
+
+      There is a Currency called Extra Votes. The Recordkeepor for
+      this Currency is the Speaker.  Possession of an Extra Vote
+      entitles a Player to cast an extra Vote on a Proposal of eir
+      choice. Extra Votes may be traded between Players, but they may
+      not be owned by Groups.
+
+      An Extra Vote is created for a Player whenever that Player casts 
+      a vote of ABSTAIN on any Proposal, and that Player does not
+      already possess 5 Extra Votes. However, the Player does not
+      receive the Extra Vote created for em by the casting of a vote
+      of ABSTAIN on a Proposal until the results of the voting on that
+      Proposal are published. An Extra Vote is destroyed whenever the
+      Player who possesses it uses it to cast a Vote on a Proposal.
+
+      Provided that they possess at least one Extra Vote, Players
+      may use a maximum of one Extra Vote per proposal to cast an
+      extra Vote on that Proposal. Extra Votes are cast in the same
+      manner as Votes, as described in other Rules.
+
+
+======================================================================
+
+Judgment: FALSE
+
+Arguments: It is unfortunate that JonRock phrased his CFJ the
+way he did, because I think his general argument is sound. 
+The problem is that a "single vote message" may contain votes
+on two batches of proposals distributed at different times. A
+perfect example would be the last two batches, which I voted on in a 
+single message. The first batch's Voting Period will end first, 
+possibly creating Extra Votes which would prevent the gaining of
+EV's from ABSTAIN Votes in the second batch. Thus JonRock's statement
+does not hold in all cases.
+
+Vlad
+
+======================================================================
+
+Judgement of the Justiciar:  TRUE
+
+I overturn Judge Vlad's ruling and Judge that the Statement is TRUE.
+
+Vlad's argument misreads JonRock's Statement. Given the wording of that
+Statement, the issue is not whether there is any possible case where
+a Player *cannot* gain EVs as JonRock suggests, but whether there is
+any possible case where e *can* gain them. The point is, as JonRock
+says and I feel sure the other Justices will agree, that EVs under
+Rule 1442/0 are created at the time of voting, but not distributed
+until the the time of publication. Hence, a Player like Michael, who
+did as a matter of fact abstain on all 35 of the Proposals 1499-1533,
+does in fact receive 35 EVs, since at the time he voted he did not
+possess any EVs at all.
+
+======================================================================
+
+Judgement of the Clerk of the Courts:  TRUE
+
+I judge this CFJ to be TRUE, overturning Vlad's original decision.
+
+Rule 1442/0 is clear in the matter of the timing of the creation and
+awarding of Extra Votes.  The Vote is created when the Vote is Cast,
+and it is Game Custom that a Vote is Cast at the moment the Vote is
+received by the Speaker.  However, the Extra Vote thus created is not
+given to the Player until the results are published, so a Player might
+have any number of Extra Votes in "abeyance" during the period between
+the moment e casts a Vote of ABSTAIN and the end of the Voting Period
+of that Proposal.  These Votes are _not_ in the possession of the
+Voter (it is unclear exactly what Nomic Entity _is_ in possession of
+them, but I do not believe that this issue is of importance here).
+Therefore, the simple act of casting a Vote of ABSTAIN does _not_
+immediately increase a Player's holding of Extra Votes, and therefore
+a Player is not limited in the number of such "virtual" Extra Votes e
+might accrue (as long as e does not have 5 or more actual Extra
+Votes).
+
+As an aside, I do not see how Judge Vlad's argument applies in any way
+whatsoever.  As long as the vote is cast prior to the receipt of any
+Extra Votes which would cause the Player to have 4 or more actual
+Extra Votes, the Player does accrue the Virtual Extra Votes to which e
+is entitled, even if e does vote upon Proposals with differing Voting
+Periods in a single message.
+
+Kelly Martin
+Clerk of the Courts
+
+======================================================================
+
+Judgement of the pro-Speaker: FALSE
+
+Arguments:
+
+It seems that it all comes down to the word `possess'. Can the Player
+for whom the Extra Vote is created when e casts eir vote, be
+considered to *possess* that Extra Vote as soon as the time of its
+creation?
+
+This delegate-Justice, not particularly known for his fluency in
+English, is of the opinion that the answer is yes.
+
+It is certain that the Extra Vote created, exists between the time
+the Player casts eir Vote and the time the Voting Results are
+published. If it is not the Player who owns this newly created
+Extra Vote, who does?
+
+The Extra Vote is a Currency and according to Rule 611
+`No non-player Nomic entity may own Currencies except as provided for
+in the Rules.' As the Rules are silent, I may exclude any other
+Nomic Entity as temporary possessor of the Extra Vote.
+
+Nevertheless, between the time of it's creation and the time of
+publication of the Voting Results the Recordkeepor of the EV is
+obliged to keep track of it, that is, attribute it to somebody?
+
+Logically, it is the Player which casted the Extra Vote, who possesses
+it.
+
+
+References:
+
+Rule 611/0 (Mutable, MI=1)
+Currencies: Who May Own Currencies
+
+      Players may own any type of Currency.  No non-player Nomic
+      entity may own Currencies except as provided for in the Rules.
+      The number of each type of Currency owned by each player or
+      other Nomic entity must be non-negative, and must be an integer.
+
+      This rule applies to Currencies in general, and thus defers to
+      rules for specific Currencies.
+
+Rule 1442/0 (Mutable, MI=1)
+Extra Votes
+
+      There is a Currency called Extra Votes. The Recordkeepor for
+      this Currency is the Speaker.  Possession of an Extra Vote
+      entitles a Player to cast an extra Vote on a Proposal of eir
+      choice. Extra Votes may be traded between Players, but they may
+      not be owned by Groups.
+
+      An Extra Vote is created for a Player whenever that Player casts
+      a vote of ABSTAIN on any Proposal, and that Player does not
+      already possess 5 Extra Votes. However, the Player does not
+      receive the Extra Vote created for em by the casting of a vote
+      of ABSTAIN on a Proposal until the results of the voting on that
+      Proposal are published. An Extra Vote is destroyed whenever the
+      Player who possesses it uses it to cast a Vote on a Proposal.
+
+      Provided that they possess at least one Extra Vote, Players
+      may use a maximum of one Extra Vote per proposal to cast an
+      extra Vote on that Proposal. Extra Votes are cast in the same
+      manner as Votes, as described in other Rules.
+
+======================================================================
+--
+kelly martin                                 <kelly@poverty.bloomington.in.us>
+
+       I have been told that when a large group of people believe in a
+     fantasy, it is called a culture.  When a small group believes, it is
+      called a cult.  When two people believe in a fantasy, it is called
+	 love; and when one person believes, it is called psychosis.

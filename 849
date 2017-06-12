@@ -1,0 +1,535 @@
+From owner-nomic-official@teleport.com  Fri Feb  9 05:12:09 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA23321 for <blahedo@quincy.edu>; Fri, 9 Feb 1996 05:12:08 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id BAA12382; Fri, 9 Feb 1996 01:58:09 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Fri, 9 Feb 1996 01:58:09 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id BAA12369 for nomic-official-outgoing; Fri, 9 Feb 1996 01:58:08 -0800
+Received: from wing1.wing.rug.nl (wing1.wing.rug.nl [129.125.21.1]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id BAA12350 for <nomic-official@teleport.com>; Fri, 9 Feb 1996 01:58:03 -0800
+Message-Id: <199602090958.BAA12350@desiree.teleport.com>
+Received: by wing1.wing.rug.nl
+	(1.37.109.8/16.2) id AA08738; Fri, 9 Feb 1996 10:57:01 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 849 Judgement: FALSE
+To: nomic-official@teleport.com
+Date: Fri, 9 Feb 96 10:57:00 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+----------------------------------------------------------------------
+
+TIA disclaimer: This message has no legal effect and makes no claim
+on truth whatsoever in any Gamestate in which I am not CotC
+
+----------------------------------------------------------------------
+
+======================================================================
+
+Judge:		Andre (defaulted)
+		Chuck
+Judgement:	FALSE
+
+Eligible:	Chuck, dcuman, favor, Jtael, Kelly, KoJen, Wes, 
+		Zefram
+
+Not Eligible:	
+Caller:		Steve
+Barred:		Morendil
+On Hold:	Blob, Dave Bowen, elJefe
+1005:		Michael, Murphy, Pascal, Swann, Vanyel, Vlad
+Defaulted:	Andre
+
+======================================================================
+
+History:
+  Called by Steve, 23 January 1996, 17:18 +1100 (EST)
+  Wrongly assigned to Steve, 23 January 1996, 12:57 MET
+  Wrongly assigned to Swann, 24 January 1996, timestamp lost
+  Assigned to Andre, 25 January 1996, 11:57 MET
+  Defaulted by Andre, 2 February 1996, 11:57 MET
+  Assigned to Chuck, 2 February 1996, 14:59 MET
+  Judged FALSE by Chuck, 8 February 1996, 16:41 -0600 (CST)
+
+======================================================================
+
+Statement:
+
+Rule 113 should be interpreted such that a Player may only avoid
+incurring a penalty by deregistering, if the penalty has not yet been
+incurred.
+
+======================================================================
+
+Reasons and Arguments:
+
+My argument is based on a simple but powerful premise: that it is
+impossible to change the past, and impossible to act in the past (at
+least without a time travel machine). Since it makes no sense to
+speak of someone's right to do the impossible, Rule 113 cannot
+guarantee such a right. Rule 113 can guarantee a right to do only
+that which it is possible to do, namely, to avoid penalties not
+yet incurred by means of deregistration. It cannot guarantee a
+Player's right to avoid penalties already incurred: one cannot
+speak sensibly of avoiding the past.
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+I Judge this statement to be FALSE.
+
+First, let me address Steve's argument: that the past cannot
+be changed.  While it is true that the past cannot be changed in Real Life,
+there is nothing in the Rules that prohibits the past from
+being changed (in the general case; Rule 108 prohibits it in
+some specific cases.)  And I can find no _ab initio_ reason
+why the past cannot be changed in Agora.  Thus, if the
+Rules allow it, the past can be changed in Agora.
+
+Now we turn to the specific case of Rule 113.  It seems to me
+that there are 3 possible interpretations:
+
+1.  A penalty may be avoided only by announcing one's deregistration
+    before the penalty occurs.
+2.  A penalty, which one considers worse than deregistration, is avoided
+    by deregistering before the penalty occurs, although the deregistration
+    may not be announced until later.
+3.  A penalty which has already taken place may be retroactively
+    avoided by deregistration.
+
+CFJ 847 rules out possibility #2, so we need not consider that.
+
+So is #1 or #3 the correct interpretation?  Let's look again at
+113:
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur 
+      it, may be imposed.
+
+Previous CFJs have rules that the second sentence does not stand
+alone, but rather must be interpreted in the light of the first
+sentence; that is, a Player cannot simply say, "That penalty
+is worse than deregistration, so it may not be imposed."
+A Player must actually deregister in order to avoid a penalty.
+
+Looking at the first sentence alone, it would seem that a penalty
+can only be avoided by deregistering before the penalty takes place.
+But this, in fact is exactly the opposite error made above!!  Just
+as the second sentence is not interpreted in a vacuum, but must
+be considered in the light of the first sentence, the first
+sentence cannot be considered alone (even though at least one
+Player has explicitly advocated doing so), but must be considered
+in light of the second.  We cannot simply ignore the sentence,
+"No penalty worse than deregistration, in the judgment of the
+Player to incur it, may be imposed."  Since a penalty may often
+be applied without the knowledge of the Player it is being imposed
+on, I find the only possible interpretation is #3 above:
+it is possible to avoid a penalty in the past by deregistering.
+
+Some people will object that this leads to unpalatable results:
+how far in the past may a Player avoid a penalty?  There seems
+to be no limit.  Can a Player avoid a penalty in June 1993?
+If so, it's certainly not practical to go back and recompute
+the game state from then!!  I reply that this is an
+unpleasant consequence; however, that is of no concern to
+this Judge, as it is the only reasonable interpretation.
+
+======================================================================
+
+Evidence:
+
+
+1. Rule 113
+2.  Rule 108 (added by Judge)
+3.  CFJ 847 (excerpts) (added by Judge)
+
+
+Rule 113/1 (Semimutable, MI=3)
+Players May Always Forfeit
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur
+      it, may be imposed.
+
+===2.  Rule 108
+
+Rule 108/0 (Semimutable, MI=3)
+When May Rule Changes Take Effect?
+
+      No Rule Change may take effect earlier than the moment of the
+      adoption of the Proposal in which it is contained, if it is a
+      proposed Rule Change, or the moment of the adoption of the
+      current form of the Rule which requires the Rule Change, if it
+      is a non-proposed Rule Change.
+
+      No Rule Change may have retroactive application.
+
+===3.  CFJ 847 (excerpts)
+
+       "The Rules should be interpreted that deregistration, by
+        definition, when inintiated by the deregistering Player, occurs
+        at the time the Player makes the request to deregister-- even
+        when Rule 113 is invoked upon deregistration."
+
+Judge:          Murphy (defaulted)
+                favor
+Judgement:      TRUE
+
+From owner-nomic-official@teleport.com  Mon Feb 19 05:34:27 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA14268 for <blahedo@quincy.edu>; Mon, 19 Feb 1996 05:34:26 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA09936; Mon, 19 Feb 1996 03:14:29 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Mon, 19 Feb 1996 03:14:29 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA09926 for nomic-official-outgoing; Mon, 19 Feb 1996 03:14:28 -0800
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA09920 for <nomic-official@teleport.com>; Mon, 19 Feb 1996 03:14:25 -0800
+Message-Id: <199602191114.DAA09920@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA18684; Mon, 19 Feb 1996 12:13:06 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 849 Final Judgement: TRUE
+To: nomic-official@teleport.com
+Date: Mon, 19 Feb 96 12:13:05 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+
+		CORRECTED ASSIGNMENT UPON APPEAL CFJ 849
+
+	"Rule 113 should be interpreted such that a Player may..."
+
+======================================================================
+
+Judge:		Andre (defaulted)
+		Chuck
+Judgement:	FALSE
+Speaker:	Kelly
+Judgement:	FALSE
+CotC:		Andre (must delegate eir duties)
+pro-CotC:	favor
+Judgement:	TRUE
+Justiciar:	Steve (must delegate eir duties)
+pro-Justiciar:	Michael
+Judgement:	TRUE
+Final Judgement:TRUE
+
+Eligible:	Coren, dcuman, Doug, elJefe, favor, 
+		Ghost, Jtael, Kelly, KoJen, Michael, Murphy,
+		Swann, Wes, Zefram
+
+Not Eligible:	
+Caller:		Steve
+Barred:		Morendil
+On Hold:	Blob, Dave Bowen
+1005:		Pascal, Vanyel, Vlad
+Defaulted:	Andre
+Judged already:	Chuck
+
+Effects:	Andre gains 3 Blots for defaulting
+		Chuck gains 3 Points for timely Judgement
+		Kelly gains 5 Points for speedy Judgement
+		favor gains 5 Points for speedy Judgement
+		Michael gains 3 Points for timely Judgement
+		Chuck loses 3 Points for being overturned
+
+======================================================================
+
+History:
+  Called by Steve, 23 January 1996, 17:18 +1100 (EST)
+  Wrongly assigned to Steve, 23 January 1996, 12:57 MET
+  Wrongly assigned to Swann, 24 January 1996, timestamp lost
+  Assigned to Andre, 25 January 1996, 11:57 MET
+  Defaulted by Andre, 2 February 1996, 11:57 MET
+  Assigned to Chuck, 2 February 1996, 14:59 MET
+  Judged FALSE by Chuck, 8 February 1996, 16:41 -0600 (CST)
+  Appealed by Steve, 10 February 1996, 02:27 +1100
+  Appealed by elJefe, 9 February 1996, 10:33 -0500
+  Appealed by Michael, 9 February 1996, 15:48 GMT
+  Delegated by Steve to Michael, 12 February 1996, timestamp lost
+  Assigned to Kelly as Speaker, 13 February 1996, 15:33 MET
+  Assigned to Andre as CotC, 13 February 1996, 15:33 MET
+  Assigned to Steve as Justiciar, 13 Febrary 1996, 15:33 MET
+  Judged FALSE by Kelly, 16 February 1996, 01:19 EST5
+  Delegated by Andre to favor, 16 February 1996, 16:08 MET
+  Judged TRUE by favor, 16 February 1996, 10:20 EST
+  Judged TRUE by Michael, 19 February 1996, 10:10 GMT
+
+======================================================================
+
+Statement:
+
+Rule 113 should be interpreted such that a Player may only avoid
+incurring a penalty by deregistering, if the penalty has not yet been
+incurred.
+
+======================================================================
+
+Reasons and Arguments:
+
+My argument is based on a simple but powerful premise: that it is
+impossible to change the past, and impossible to act in the past (at
+least without a time travel machine). Since it makes no sense to
+speak of someone's right to do the impossible, Rule 113 cannot
+guarantee such a right. Rule 113 can guarantee a right to do only
+that which it is possible to do, namely, to avoid penalties not
+yet incurred by means of deregistration. It cannot guarantee a
+Player's right to avoid penalties already incurred: one cannot
+speak sensibly of avoiding the past.
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+I Judge this statement to be FALSE.
+
+First, let me address Steve's argument: that the past cannot
+be changed.  While it is true that the past cannot be changed in Real Life,
+there is nothing in the Rules that prohibits the past from
+being changed (in the general case; Rule 108 prohibits it in
+some specific cases.)  And I can find no _ab initio_ reason
+why the past cannot be changed in Agora.  Thus, if the
+Rules allow it, the past can be changed in Agora.
+
+Now we turn to the specific case of Rule 113.  It seems to me
+that there are 3 possible interpretations:
+
+1.  A penalty may be avoided only by announcing one's deregistration
+    before the penalty occurs.
+2.  A penalty, which one considers worse than deregistration, is avoided
+    by deregistering before the penalty occurs, although the deregistration
+    may not be announced until later.
+3.  A penalty which has already taken place may be retroactively
+    avoided by deregistration.
+
+CFJ 847 rules out possibility #2, so we need not consider that.
+
+So is #1 or #3 the correct interpretation?  Let's look again at
+113:
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur 
+      it, may be imposed.
+
+Previous CFJs have rules that the second sentence does not stand
+alone, but rather must be interpreted in the light of the first
+sentence; that is, a Player cannot simply say, "That penalty
+is worse than deregistration, so it may not be imposed."
+A Player must actually deregister in order to avoid a penalty.
+
+Looking at the first sentence alone, it would seem that a penalty
+can only be avoided by deregistering before the penalty takes place.
+But this, in fact is exactly the opposite error made above!!  Just
+as the second sentence is not interpreted in a vacuum, but must
+be considered in the light of the first sentence, the first
+sentence cannot be considered alone (even though at least one
+Player has explicitly advocated doing so), but must be considered
+in light of the second.  We cannot simply ignore the sentence,
+"No penalty worse than deregistration, in the judgment of the
+Player to incur it, may be imposed."  Since a penalty may often
+be applied without the knowledge of the Player it is being imposed
+on, I find the only possible interpretation is #3 above:
+it is possible to avoid a penalty in the past by deregistering.
+
+Some people will object that this leads to unpalatable results:
+how far in the past may a Player avoid a penalty?  There seems
+to be no limit.  Can a Player avoid a penalty in June 1993?
+If so, it's certainly not practical to go back and recompute
+the game state from then!!  I reply that this is an
+unpleasant consequence; however, that is of no concern to
+this Judge, as it is the only reasonable interpretation.
+
+======================================================================
+
+Decision & Reasoning Speaker:
+
+The Statement of CFJ 849 is trivially false.  There are any of a
+number of ways in which a Player might avoid a penalty other than
+deregistering, even under the current Rules.  One such method would be
+to arrange for the Rules to have been amended such that the penalty is
+not able to be incurred at the time it would otherwise have been
+incurred.  This may not be possible in all circumstances, but it
+conceivably could be in some, and I cannot grant the truth of an
+unqualified statement if there exists even one possible circumstance
+under which it is not true.
+
+Rule 113 does not prohibit a Player from avoiding a Penalty without
+deregistering; it merely allows a Player to deregister to avoid a
+penalty.
+
+Since there exist (potential) means to avoid a penalty without
+deregistering, the Statement is FALSE.  I therefore uphold Chuck's
+Judgement.
+
+Kelly Martin,
+Speaker, Agora Nomic
+--
+
+======================================================================
+
+Judgement, Pro-CotC:
+  TRUE
+
+Reasons and Arguments, Pro-CotC:
+
+  First of all, I should make clear that I am interpreting the
+  Statement to mean
+
+     Rule 113 should be interpreted such that a Player may
+     (do X) only if (Y), where X is "avoid incurring a penalty
+     by deregistering", and Y is "the penalty has not yet been
+     incurred".
+
+  Under other parsings of the slightly-ambiguous statement, it
+  might have other truth-values.
+
+  Parts of the meaning of Rule 113 are uncontroversial.  The
+  question at issue here is whether or not it allows a Player
+  to deregister in order to avoid a penalty which has already
+  been imposed.  On the fact of it, this seems absurd: how could
+  *any* Rule allow someone to prevent something which has
+  already happened?  At first glance, the Statement therefore
+  seems TRUE.
+
+  But we must consider the arguments of Judge Chuck.  While it
+  may seem unusual to allow the past to be changed, he says,
+  if the Rules say that it can be, then it can be.  How convincing
+  is this?
+
+  First, does Rule 113 even attempt to do this, to make the
+  past malleable?  It's not entirely clear.  The origins of
+  Rule 113 were in face-to-face Nomic, where the question
+  would not ordinarily come up; it was assumed that one would
+  always have time to shout "Wait, I deregister, don't hit
+  me with the gourd again!".  In face-to-face Nomic, where
+  the action is closely tied to the Real World, it would
+  clearly be impossible for any Rule to allow one to change
+  the past.
+
+  Is Agora further from the Real World, far enough that we
+  can, within the framework of the Game, do the impossible?
+  Consider: what would be the implications of a Rule that
+  said "Concrete is lighter than air" or "Seven is not prime".
+  Would these Rules be functional?  Would concrete float once
+  they were passed?  Well, real-life concrete would remain
+  steadfastly fixed to the ground; we could define a Nomic
+  Entity called Concrete, of course, and do with it whatever
+  we liked.  But seven would remain prime, even within the
+  Game; no attempt to divide it into equal integers greater
+  than one and less than seven would succeed.  Is the
+  fixedness of the past more like the non-bouyancy of
+  concrete, or more like the primality of seven?
+
+  The Rules make no attempt to define a within-game notion
+  of time that is distinct from the real-world flow.  When
+  the Rules refer to times, they refer to real-world times.
+  A day is a day, a week is a week.  There is not even a
+  Rule that would temporarily decouple Game time to the
+  extent of allowing a Christmas pause; so many Rules
+  refer to real-world time that it would be difficult to
+  enact such a thing.  We can only conclude that Agoran
+  time is just real-world time.  The past of Agora is the
+  past of the real world.
+
+  The past of the real world cannot be changed.  Therefore
+  the past of Agora cannot be changed.  Once a penalty has
+  been imposed, it is too late to make it never have been
+  imposed.  It is too late to avoid it.  It is, of course,
+  *not* too late to adjust the *current* gamestate to look
+  the way it would have if the penalty had never been
+  imposed, but that's different.  It's also not too late
+  to discover that we were mistaken, and the penalty was
+  never in fact imposed.  But if the penalty *has* in
+  fact been incurred, that fact is fixed in the flow of time,
+  the flow that moves both Agora and the (rest of the) real
+  world.
+
+  The Statement is therefore TRUE.  To the extent that the
+  Rules allow me to do so, I instruct the Rulekeepor to
+  annotate Rule 113 accordingly (I'm not sufficiently
+  conversant with the Injunction Rules to know whether or
+  not this has legal force; my apologies).
+
+Respectfully submitted,
+
+Pro-CotC Favor
+
+======================================================================
+
+Decision & Reasoning Justiciar:
+
+Judgement: TRUE
+
+Argument:  Given our normal understanding of time, the only way in
+           which this statement could be false would be if Agora
+redefined the notion of time so that it was possible to change the
+past.  The original Judge felt compelled to conclude that this was
+indeed the case, but as my fellow Appeal Justice favor has pointed
+out, there is no reason to assume that Agora has redefined the nature
+of time in this way.  
+
+Agora does not exist in a vacuum, so without some clear indication in
+the rules that we are playing with a special Agora-time entity, we
+must conclude that the nature of time is such that the past can not be
+changed.  
+
+Nor can the original Judge's arguments be said to lead us to the
+conclusion that "Agora time" must be different from "real world time".
+Much is made in the original judgement of the second sentence of R113,
+"No penalty worse than deregistration, in the judgment of the Player
+to incur it, may be imposed."  The tenses of the verbs in this
+sentence make it clear that a penalty may not be imposed on a Player,
+if, before it is imposed, the Player decides that it is one worse than
+deregistration.  In particular, the sentence does not say "in the
+judgement of the Player who incurred it".
+
+-----
+
+Michael.
+
+======================================================================
+
+Evidence:
+
+
+1. Rule 113
+2.  Rule 108 (added by Judge)
+3.  CFJ 847 (excerpts) (added by Judge)
+
+
+Rule 113/1 (Semimutable, MI=3)
+Players May Always Forfeit
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur
+      it, may be imposed.
+
+===2.  Rule 108
+
+Rule 108/0 (Semimutable, MI=3)
+When May Rule Changes Take Effect?
+
+      No Rule Change may take effect earlier than the moment of the
+      adoption of the Proposal in which it is contained, if it is a
+      proposed Rule Change, or the moment of the adoption of the
+      current form of the Rule which requires the Rule Change, if it
+      is a non-proposed Rule Change.
+
+      No Rule Change may have retroactive application.
+
+===3.  CFJ 847 (excerpts)
+
+       "The Rules should be interpreted that deregistration, by
+        definition, when inintiated by the deregistering Player, occurs
+        at the time the Player makes the request to deregister-- even
+        when Rule 113 is invoked upon deregistration."
+
+Judge:          Murphy (defaulted)
+                favor
+Judgement:      TRUE

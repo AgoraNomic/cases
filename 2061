@@ -1,0 +1,112 @@
+==============================  CFJ 2061  ==============================
+
+    The Reformed Bank of Agora is a partnership.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         03 Jul 2008 20:27:00 GMT
+Assigned to Machiavelli:                04 Jul 2008 06:45:49 GMT
+Assigned to woggle:                     19 Jul 2008 00:48:11 GMT
+Machiavelli recused:                    19 Jul 2008 00:48:11 GMT
+woggle recused:                         19 Jul 2008 06:32:00 GMT
+Assigned to ais523:                     20 Jul 2008 07:12:27 GMT
+Judged TRUE by ais523:                  21 Jul 2008 16:08:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+By Rule 2145, a partnership must devolve its obligations onto its
+members.  This necessitates that the members be empowered to cause the
+partnership to meet its obligations.
+
+In the case of criminal apologies, Rule 1504 requires that the apology
+be submitted within 72 hours.  However, the only way for the members
+of the RBoA to cause it to submit an apology is to act on its behalf
+without three objections.  By Rule 1728, the minimum time-frame for
+performing an action without N objections is four days.  Thus, it is
+impossible (without advance warning) for the RBoA to meet an
+obligation to submit an apology.
+
+It follows that the members of the RBoA are not empowered to cause it
+to submit an apology within the time requirements for doing so.  I
+therefore claim that the RBoA does not satisfactorily devolve its
+obligations upon its members, and so it is not a partnership.
+
+========================================================================
+
+Caller's Evidence:
+
+Reformed Bank of Agora Contract
+
+1. The name of this contract is the Reformed Bank of Agora. This is a
+public contract and a partnership.
+
+2. Parties to this contract are known as Bankers. Any person who owns
+at least 10% of all Chits may become party to this agreement by
+announcement. If a Banker has not continuously owned at least 10% of
+all Chits for 7 days any Banker may cause them to cease to be party to
+this agreement by announcement. The Bankers shall act collectively to
+fulfill the obligations required of this contract.
+
+3. Chits are a currency. The Treasurer is the recordkeeper of Chits.
+Initially the Treasurer is BobTHJ.
+
+4. Each non-fixed currency defined by the rules of Agora or by a
+public contract may have an exchange rate. The list of current
+exchange rates shall be part of the Treasurer's weekly report. Any
+Banker may set the exchange rate of a currency to a specific integer
+value without three objections. Initially, the exchange rate for each
+currency shall be set to the deposit rate of the same currency in the
+most recently published Bank of Agora report, rounded down to the
+nearest integer.
+
+5. A person CAN transfer one instance of a currency with an exchange
+rate to the Reformed Bank of Agora by announcement. Upon doing so a
+number of Chits equal to that exchange rate are created in the
+possession of that person.
+
+6. A person CAN, by announcement, destroy a number of Chits in eir
+possession equal to the exchange rate of a currency times 1.1 (rounded
+up) as long as the Bank possesses at least one of that currency. Upon
+doing so one unit of that currency is transferred from the Reformed
+Bank of Agora to that person.
+
+7. Any Banker CAN amend this contract without three objections. Any
+Banker CAN act on behalf of the Reformed Bank of Agora without three
+objections.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+The partners can enable themselves to fulfill this obligation within
+the time limit amending the RBoA with agreement of all parties.
+
+The partners may be able to substantially postpone the obligation
+by appealing the sentence before the deadline for the apology is up.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+On CFJ 2061, I rule TRUE. woggle's gratuitous arguments are correct.
+
+========================================================================

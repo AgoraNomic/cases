@@ -1,0 +1,87 @@
+==============================  CFJ 1318  ==============================
+
+    Rule 1470 explicitly permits all transfers of Property from the
+    Bank, and therefore no transfer of Property from the Bank is
+    unauthorized for the purpose of Rule 1981.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  solublefish
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       12 Sep 2001 14:23:40 GMT
+Assigned to solublefish:                12 Sep 2001 17:01:36 GMT
+Judged TRUE by solublefish:             18 Sep 2001 15:29:05 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1470, excerpt
+
+      (a) There is an entity known as the Bank. The Bank has Mint
+          Authority.  The Bank is the Mintor of each Bank
+          Currency. The Bank is permitted to transfer Property in its
+          possession to other entities.
+
+Rule 1981, excerpt
+
+      (a) A transfer of Property from one entity to another entity
+          which is made without being explicitly required or permitted
+          by the Rules is unauthorized.
+
+========================================================================
+
+Judge solublefish's Arguments:
+
+    The decision to be made here is simple. We must only ascertain whether
+the last sentence of 1470 (a) 'explicitly requires or permits' a transfer.
+'.... is permitted ...' seems to grant explicit permission. Initially, then,
+I was inclined to rule the statement TRUE.
+
+    However, I am required to consider judicial precedent set in the
+judgement (Judge Steve) of CFJ 1288. That judgement states:
+"The second paragraph of R1470
+prohibits the Bank from transferring Stems except when it is
+*specifically* authorized to do so by the Rules. The first paragraph of
+the Rule does not provide this specific authorization"
+
+Steve gives a resonable argument as to why that is the correct
+interpretation of 1470. I won't repeat it, but it hinges on the existence of
+the second paragraph, which seems to imply that the authorization in the
+first paragraph was not intended to be 'explicit'. Please see the judgement
+of 1288 at http://www.escribe.com/games/agora-official/m1215.html
+
+Now I must answer the question of whether the ruling in 1288 applies to the
+case at hand.
+
+It seems to me that the ruling in 1288 no longer applies. The reason for
+this is that rule 1470 has changed significantly since the time of that
+judgement. In 1288, the clause being considered was:
+"Each Recordkeepor of each Bank Currency shall be a Limited Executor of the
+Bank, with the authority to execute transfers of units of that Currency,
+from and on behalf of the Bank."
+
+There, "authority" can be read as defining the scope of the Limited
+Executors mentioned. In the current version of 1470, the clause in question
+is:
+"The Bank is permitted to transfer Property in its possession to other
+entities.
+
+In the current world, it is the second paragraph (b) that deals with the
+Limited Executors, using much the same language as before. There seems to be
+no purpose for the clause in question except to explicitly allow the bank to
+make transfers. If fact, it's hard to imagine a more explicit authorization.
+Therefore, I conclude that the ruling in 1288 does not apply to this case. I
+therefore rule, based on the plain text of the rules, that "Rule 1470
+explicitly permits all transfers of Property from the Bank, and therefore no
+transfer of Property from the Bank is unauthorized for the purpose of Rule
+1981."
+
+========================================================================

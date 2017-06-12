@@ -1,0 +1,58 @@
+==============================  CFJ 1549  ==============================
+
+    When a proposal is aborted, its voting period immediately ends, if
+    it has not ended already.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  OscarMeyr
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         18 Apr 2005 04:22:42 GMT
+Assigned to OscarMeyr:                  18 Apr 2005 08:33:46 GMT
+Judged TRUE by OscarMeyr:               21 Apr 2005 01:26:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2033 (Power=1) explicitly asserts that statements 1), 2), 3), and
+4) are true.
+
+Concerning statement 1):
+
+Rule 693 (Power=2) states:
+
+      The Voting Period for a Proposal is seven days, beginning when
+      the Proposal is distributed.  Other Rules may specify other
+      lengths of Voting Periods for particular classes of Proposals.
+
+If R2033 is interpreted to specify a different length for a particular
+class of proposals, namely the class of aborted proposals, then the
+statement may be found to be true, and by the principle of exceptio
+probat regulam, this can be the only line of reasoning that leads to
+this conclusion except for a precedence argument, which does not apply
+here.
+
+Two arguments suggest against this possibility.  One is that R2033 does
+not specify a length for the Voting Period, but merely an ending time.
+The second is that, even if R2033 is found to specify a length, the
+wording of R106 suggests that the length must be uniform over the entire
+class of proposals; in the case of aborted proposals it clearly is not.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+I find that Rule 2033 changes the length of an aborted
+Proposal's Voting Period, specifically by changing the ending time.
+Rule 106 does not prevent the termination of an aborted Proposal's
+Voting Period.
+
+========================================================================

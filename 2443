@@ -1,0 +1,78 @@
+==============================  CFJ 2443  ==============================
+
+    CFJ 2423 is a tortoise.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Yally
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       07 Apr 2009 17:49:49 GMT
+Assigned to Yally:                      07 Apr 2009 21:45:48 GMT
+Judged FALSE by Yally:                  08 Apr 2009 01:38:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I'm not entirely sure if the CFJ in question counts as a tortoise or
+not; the question is to whether it's on "the possibility or legality of
+a rule-defined action", which I'm not sure about. (The CFJ was not,
+incidentally, intended as a paradox-win attempt.) The attempt to amend
+rule 2223 was, at the time, certainly a rule-defined action (defined in
+two rules, no less); the question is as to whether a question about
+which mechanism was used is a question about its possibility or
+legality. Also bear in mind that the question was about something that
+actually happened; it's certainly indirectly about the possibility or
+legality of an action, but I'm not sure if it's direct enough to count.
+
+========================================================================
+
+Caller's Evidence:
+
+CFJ 2423 has the text "Murphy's recent attempt to cause Rule 2223 to
+amend itself to read 'This rule intentionally left blank' was using the
+mechanism specified in rule 2223, rather than the mechanism specified in
+the rule created by proposal 6130.", and has had a judgement of
+UNDECIDABLE for over two weeks.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+No.  Whatever the outcome of CFJ 2423, nobody would have disputed the
+possibility or legality of the action on its account, only the success
+of the manner in which Murphy attempted it.  Since it therefore could
+not have provided any answers about the possibility or legality, I
+think it unreasonable to consider that to be the subject of the case.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+TRUE would certainly have implied that the action was legal;
+the current UNDECIDABLE does not, so the CFJ does have at least some
+impact on the success of the action (and therefore the possibility of
+performing that action with that phrasing). (Also note that I called the
+case as part of a linked group trying to establish whether Murphy's
+actions succeeded, and exactly in which way they succeeded if they did.)
+
+========================================================================
+
+Judge Yally's Arguments:
+
+FALSE; Rule 2110 states that:
+
+      A tortoise is an inquiry case on the possibility or legality of
+      a rule-defined action.
+
+However, CFJ 2423 has determined what has happened, not whether something is
+legal or whether something is possible to happen.
+
+========================================================================

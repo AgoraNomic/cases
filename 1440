@@ -1,0 +1,140 @@
+==============================  CFJ 1440  ==============================
+
+    Proposal 4453 had an Adoption Index of 1.
+
+========================================================================
+
+Caller:                                 Sherlock
+Barred:                                 Steve
+Barred:                                 Maud
+Barred:                                 root
+
+Judge:                                  Michael
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Sherlock:                     24 Feb 2003 16:23:29 GMT
+Assigned to Michael:                    02 Mar 2003 20:58:28 GMT
+Judged TRUE by Michael:                 09 Mar 2003 00:36:15 GMT
+Appealed by RedKnight:                  10 Mar 2003 20:50:50 GMT
+Appealed by OscarMeyr:                  11 Mar 2003 04:05:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There are two important issues here: timing and the term "the value
+requested".
+
+Firstly, timing.  While the AI is traditionally requested in the message
+submitting the Proposal, it is legal in R594 to do it at any time before
+the Voting Period ends.  However, it is only a "request" by the Proposer
+before the end of the Period -- the Assessor is the one who actually
+creates the AI, per the third paragraph of R594.  Also per R594, this is
+not done when the request is made, but is determined by the Assessor
+after the Voting Period ends.
+
+Therefore, when the Assessor attempted to process the requested AI
+for P4453, e would have been looking at two values: 3 and 1, per the
+respective requests submitted.
+
+Secondly, the phrase "the value requested".  "The" can only refer to one
+request.  Even if R594 did not say this (which it does), it would be
+nonsensical for a Proposal to have two different AI's, since a Rule
+can only have one Power.  The Assessor could only assign one AI to the
+Proposal.
+
+There are two different possible way to read R594, both of which would
+end up assigning an AI of 1 to Proposal 4453:
+
+1) If the intent of R594 is for the Assessor to determine the intent of
+   the Proposer towards the Proposal's AI and use that as "the" value,
+   the Proposer's intent in P4453 was clear -- submitting the second
+   AI request would supercede the first.  If the Proposer is only
+   allowed one AI request at the end of the Voting Period, then the
+   second message has to be read as having the intention to supplant the
+   first.
+
+2) However, if this argument is unconvincing, and the Assessor should not
+   attempt to guess at the intent of the Proposer, then it is impossible
+   that the Assessor could have used either AI -- there were two different
+   values submitted and there is no way either of them was "the value
+   requested."  Therefore, the requests were void and the default AI
+   of 1 should have been used.
+
+Either way, the Assessor should have used an AI of 1 for Proposal 4453.
+
+========================================================================
+
+Caller's Evidence:
+
+When I first submitted the Proposal "Teamwork":
+
+http://www.agoranomic.org/pipermail/agora-business/2003-February/000813.html
+
+I requested that it have an Adoption Index (herafter, AI) equal to 3.
+
+The Proposal was then distributed and approximately twenty minutes
+before the Voting Period ended I submitted this message:
+
+http://www.agoranomic.org/pipermail/agora-business/2003-February/000907.html
+
+with the text:
+
+  I request that Proposal 4453, "Teamwork", have an Adoption Index
+  equal to 1.
+
+========================================================================
+
+Judge Michael's Arguments:
+
+The key text in this case is this paragraph from rule 594:
+
+      The Adoption Index of a Proposal is the maximum of 1, the value
+      requested by its Proposer (if any), and the value required for
+      that Proposal by the Rules (if any).
+
+No other rule attempts to define the Adoption Index of a proposal.
+There are three possible values that we are required to consider.  It
+is clear that the Rules made no special requirement for this
+particular Proposal, so the third clause does not specify a value.
+
+Thus we must decide if "the value requested by its Proposer (if any)"
+denotes a value.  The Caller's argument is that two requests by the
+Proposer sufficiently muddies the waters, so that one can not
+meaningfully speak of "*the* value requested by the Proposer".
+
+There is some precedent elsewhere in the ruleset (and some general
+Agoran culture) to the effect that binding statements are made once
+and can't generally be retracted, but I see no reason (best interests
+of the game etc) to try to force a precedent of that nature in this
+case.  Rather, it is clear in this case that the rule in question is
+not well worded and should be revised.
+
+I agree with the Caller's Argument, and return a verdict of TRUE.
+
+========================================================================
+
+Appellant RedKnight's Arguments:
+
+As the H. Judge has pointed out, no other rule attempts to define the AI of
+a proposal.  However, the judge has failed to consider the value that Rule
+594 defines (and requires) for the proposal.  I believe that Rule 594 should
+be applied, in an almost recursive fassion, each time an AI is requested for
+a proposal.
+
+Consider this:  When the proposal is proposed, an AI of 3 is requested.
+Rule 594 then defines (and requires) the AI to be the mamimum of (1, 3[the
+value requested by the proposer], and N/A [the value required by the
+rules]), which is 3.  The second time an AI is requested for this proposal,
+Rule 594 defines (and requires) the AI to be the mamimum of (1, 1[the value
+requested by the proposer], and 3 [the value required by the rules]), which
+is still 3.
+
+Thus after each time an AI was requested for the proposal, the rules defined
+(and required) to be 3.
+
+========================================================================

@@ -1,0 +1,130 @@
+=============================  CFJ 3461  =============================
+
+      I voted PRESENT on proposal 7809.      
+
+======================================================================
+
+Caller:                     ais523
+
+Judge:                      Alexis
+Judgement:                  FALSE
+
+======================================================================
+
+History:
+
+Called by ais523:           15 Sep 2016
+assigned to Alexis:         15 Sep 2016
+Judged FALSE by Alexis:     17 Sep 2016
+
+======================================================================
+
+Caller's Arguments:
+
+As far as I can tell, the message I quoted above fulfils all the
+requirements to be a ballot:
+
+`) it was published;
+a) it was submitted during the voting period (which started on August
+20);
+b) I was a player;
+c) it clearly identifies an Agoran decision (i.e. a matter to be
+decided)
+d) it clearly identifies a valid option;
+e) I did not publicly retract it;
+f) I did not (as far as I'm aware) cast a ballot after it.
+
+Of course, it's missing an element that's been heavily included by game
+custom: it is /not/, either implicitly or explicitly, labelled as a
+ballot (and in fact, it is written as though it isn't a ballot).
+However, casting a ballot is, unlike most actions, not an action by
+announcement; in particular, it doesn't require me to state the action
+I'm performing. (I noticed this upon seeing an attempt by another
+player to cast votes without an "I vote as follows:" prefix. That works
+too, I think.)
+
+I had attempted to vote (and most likely, successfully-at-the-time
+voted) on the proposal earlier, but by rule 683f, the newly cast ballot
+would invalidate the old one.
+
+(Note that for most votes to be valid under this interpretation, we
+need to identify a fragment of a message as a ballot, but this would be
+consistent with common practice elsewhere, e.g. in ratifying reports.)
+
+======================================================================
+
+Caller's Evidence:
+
+On Tue, 2016-08-23 at 01:34 +0100, I wrote:
+> On the Agoran Decision on whether to adopt distributed proposal 7809,
+> PRESENT is a valid option.
+
+The text of rule 683/21 is:
+{{{
+Voting on Agoran Decisions
+
+      An entity submits a ballot on an Agoran decision by publishing a
+      notice satisfying the following conditions:
+
+      (a) The ballot is submitted during the voting period for the
+          decision.
+
+      (b) The entity casting the ballot (the voter) was, at the
+          initiation of the decision, a player.
+
+      (c) The ballot clearly identifies the matter to be decided.
+
+      (d) The ballot clearly identifies a valid vote, as determined by
+          the voting method.
+
+      (e) The voter has not publicly retracted the ballot during the
+          voting period.  ("Changing" a vote is equivalent to
+          retracting it and casting a vote with the new value.)
+
+      (f) It is the most recent of the voter's otherwise-valid
+          ballots.
+}}}
+
+======================================================================
+
+Judge's Arguments:
+
+I agree with the caller's arguments that eir message quoted satisfies
+each of the conditions listed in rule 683, and there appears to be no
+arguments made to the contrary. The only argument submitted that the
+ballot was ineffective was a vague reference to some precedent about
+announcements, but a ballot is not made by announcement, so I find it
+difficult to see how that would apply directly. Moreover, without a
+reference to the case and its reasoning, the precedent is not useful.
+
+The only remaining issue left unaddressed is whether the caller's
+purported ballot in fact constituted a notice, as required by 683. If
+it is not a notice, it cannot be a valid ballot.
+
+The term "notice" is only used in the rules regarding ballots,
+initiating Agoran Decisions, and dependent actions With Notice.
+Dependent actions clearly define "With Notice" to have specialized
+meaning that is clearly inapplicable in this case, so the only
+remaining comparison available is in rule 107, Initiating Agoran
+Decisions.
+
+Of particular note, Rule 107 requires that a notice initiating an
+Agoran decision "[set] forth the intent to initiate the decision."
+This explicit requirement to indicate intent is contrasted to Rule 683,
+which has no such requirement. It is a rule of interpretation that
+when something is mentioned explicitly in one place, its omission in
+another place means that it does not apply in the latter case. Thus,
+no explicit statement of intent is required for a Rule 683 notice.
+Without a more precise definition of "notice" available, and bearing
+in mind that no explicit statement of intent is required, I thus
+conclude that the caller's message indeed contained a notice for the
+purposes of Rule 683, and therefore the statement of the case is true.
+
+The final issue of the case is to assign a valid judgement to the CFJ.
+My options, per rule 591, are TRUE, FALSE, and DISMISS. DISMISS is not
+appropriate in the circumstances, based on the facts of the case at
+the time the CFJ was initiated and the text of rule 591, but the rules
+otherwise provide no guidance as to preferring TRUE over FALSE. Thus,
+I judge this CFJ FALSE.
+
+======================================================================

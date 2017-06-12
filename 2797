@@ -1,0 +1,55 @@
+==============================  CFJ 2797  ==============================
+
+    If the proposal entitled "Reassign the name" passed, it would
+    successfully null-amend a Rule with Power > 1.7.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          08 May 2010 18:14:28 GMT
+Assigned to scshunt:                    11 May 2010 05:27:15 GMT
+Judged FALSE by scshunt:                11 May 2010 06:02:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It is arguably possible for the proposal to null-amend
+rules with Power > 1.7, because a null-amendment doesn't really
+"affect the instrument's operation" (R2140), but it may require an
+annotation to that rule (see previous CFJ) which could hypothetically
+affect its operation.
+
+========================================================================
+
+Gratuitous Evidence by omd:
+
+On Sat, May 8, 2010 at 1:53 PM, Sean Hunt <rideau3@gmail.com> wrote:
+>> Proposal: Reassign the name (AI=1.7, II=1, Distributable)
+>> {{{
+>> Amend each rule in numerical order by replacing each instance of
+>> REASSIGN (case-sensitive) with REMIT.
+>> }}}
+>>
+>> -coppro
+>
+> I pay a fee to make this Distributable.
+>
+> I pay a fee to destroy one of my Rests.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Trivially FALSE; the proposal lacks the Power to amend a Rule of greater
+Power.
+
+========================================================================

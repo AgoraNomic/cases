@@ -1,0 +1,53 @@
+==============================  CFJ 1778  ==============================
+
+    Judging UNDECIDABLE is permissible.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         04 Nov 2007 20:03:25 GMT
+Assigned to Murphy:                     04 Nov 2007 21:51:11 GMT
+Judged FALSE by Murphy:                 10 Nov 2007 19:24:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First, the veracity of the statement is not irrelevant to the game, as
+the outcome of this case determines whether or not the Initiator wins
+the game; a judgement of IRRELEVANT is thus inappropriate to this
+case.
+
+Second, the statement of this case is deliberately vague; it does not
+specify the circumstances to which it applies, but an UNDECIDABLE
+judgement is permissible iff it is appropriate.  Therefore, a
+judgement of UNDECIDABLE is appropriate for this case per R591,
+whereas judgements of TRUE and FALSE clearly are not.
+
+Finally, because exactly one of (TRUE, FALSE, UNDECIDABLE) is clearly
+appropriate for this case, and the other two are clearly
+inappropriate, a judgement of UNDETERMINED is also inappropriate for
+this case.
+
+The Initiator therefore recommends a judgement of UNDECIDABLE for this
+case, it being the only appropriate possibility.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I interpret the statement of CFJ 1778 as "Judging UNDECIDABLE is
+permissible in all circumstances in which a judgement is to be
+rendered".  Judging UNDECIDABLE is permissible in some such
+circumstances, but not all of them.  Therefore, I judge CFJ 1778
+to be FALSE.
+
+========================================================================

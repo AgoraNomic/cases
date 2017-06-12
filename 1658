@@ -1,0 +1,115 @@
+==============================  CFJ 1658  ==============================
+
+    The term 'contract' as used in R2136 should be interpreted as
+    synonymous with 'binding agreement'.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Peter
+Judgement:                              
+
+
+Judge:                                  Zefram
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          11 May 2007 01:19:47 GMT
+Assigned to Peter:                      11 May 2007 06:38:06 GMT
+Peter recused:                          31 May 2007 02:56:20 GMT
+Assigned to Zefram:                     27 Jun 2007 21:32:51 GMT
+Judged TRUE by Zefram:                  28 Jun 2007 15:14:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The normal legal definition of 'contract' is most similar to Agoran binding
+agreements.
+
+The parts of rule 1742 under evidence seem to imply that 'contract' is
+synonymous with 'agreement'.  R2109 may imply the opposite, although it
+uses 'Contracts' as a proper noun.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1742/4 (Power=1)
+Agreements between Players
+...
+      A CFJ that alleges that a specific person (the Defendant) has
+      broken an agreement is a Civil CFJ, for which the Caller is the
+      Plaintiff.
+...
+      A Civil CFJ that specifies multiple defendants, or multiple
+      independent breaches of contract, is improperly made and shall
+      be dismissed.
+...
+Rule 2136/0 (Power=1)
+Contests
+
+      A contest is a contract that identifies itself as such, and
+      identifies exactly one party as its contestmaster; all other
+      parties are its contestants.
+
+      Points are a measure of a player's contentiousness.  The number
+      of points possessed by a player is eir score.  When a player
+      registers, eir score is set to zero.
+
+      A contestmaster may award a total of up to 10 points per month
+      to one or more contestants, unless e was contestmaster of a
+      different contest for at least 15 days of the previous month.
+
+      A player with 100 or more points may win the game by announcing
+      this fact.  Upon such an announcement, each player's score is
+      set to zero.
+
+Rule 2109/1 (Power=2)
+Agoran Contracts
+...
+      All Rules regulating Contracts that are inconsistent with this
+      Rule are superseded to the extent of such inconsistency.
+...
+
+History:
+Created by Proposal 4935 (Murphy), 29 April 2007
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+The term "contract" is normally used in a legal context, meaning
+"legally-enforceable binding agreement".  R754(3) therefore points towards
+interpreting it with that meaning.  The main question in these CFJs is
+whether rule 2109 constitutes an overriding definition of "contract".
+
+Rule 2109 purports to define the term "Agoran Contract", and never
+uses the word "contract" alone.  This does not look like a definition
+of the single word.  Aside from rule 2136, the subject of these CFJs,
+the only other rule that uses the word "contract" alone is rule 1742.
+In rule 1742 it is clear that "contract" is used as a synonym for "binding
+agreement": that rule regulates such agreements, without attempting to
+define words such as "contract" or "agreement".
+
+There is a useful parallel in the terms "decision" and "Agoran decision".
+The latter term clearly has a specialised meaning beyond the meaning
+of the word "decision".  The word alone is commonly used to refer to an
+Agoran decision, but in every case the rule has previously explicitly used
+the full term "Agoran decision", and uses the phrase "the decision" to
+identify an Agoran decision that is already under discussion.  No rule
+uses the term "decision" alone to refer to Agoran decisions as a class.
+Some rules use the word "decision" alone with a meaning that is definitely
+distinct from Agoran decisions: rules 591, 1365, and 911 use it as a
+synonym for "judgement".  So obviously "Agoran decision" and "decision"
+have distinct meanings.
+
+I find, therefore, that "contract" is not synonymous with "Agoran
+Contract", but by default has its standard English legal meaning.
+I therefore judge CFJ 1657 FALSE and CFJ 1658 TRUE.
+
+========================================================================

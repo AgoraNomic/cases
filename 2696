@@ -1,0 +1,287 @@
+==============================  CFJ 2696  ==============================
+
+    ais523 successfully amended Points Party in the message quoted in
+    evidence.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 ais523
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+Appeal:                                 2696a
+Decision:                               REASSIGN
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       19 Sep 2009 12:20:06 GMT
+Assigned to omd:                        23 Sep 2009 22:28:16 GMT
+omd recused:                            12 Oct 2009 23:41:14 GMT
+Assigned to scshunt:                    12 Oct 2009 23:56:15 GMT
+Judged FALSE by scshunt:                20 Oct 2009 00:12:05 GMT
+Appealed by ais523:                     20 Oct 2009 11:53:29 GMT
+Appealed by Tiger:                      20 Oct 2009 13:18:26 GMT
+Appealed by Walker:                     20 Oct 2009 15:59:27 GMT
+Appealed by omd:                        20 Oct 2009 17:18:17 GMT
+Appeal 2696a:                           20 Oct 2009 17:18:17 GMT
+REASSIGNED on Appeal:                   03 Nov 2009 21:10:23 GMT
+Assigned to G.:                         07 Nov 2009 19:17:46 GMT
+Judged FALSE by G.:                     08 Nov 2009 19:30:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+"with 4 days notice" is close enough to "With Notice" that
+it arguably counts as a synonym, in which case it failed because Rule
+1728 (a) requires specifying the method up front.
+
+========================================================================
+
+Caller's Evidence:
+
+ais523 wrote:
+
+> On Tue, 2009-09-15 at 09:49 +0100, ais523 wrote:
+>> For each public contract (see the list at
+>> <http://agora-notary.wikidot.com/system:page-tags/tag/public>), I
+>> intend, without objection; I intend, without member objection; and I
+>> intend, without 3 objections; to replace its entire text with the
+>> following:
+[scam text]
+> First, here's the scam that was basically guaranteed to work at least
+> partially, and it did. (The others can wait.)
+>
+> Points Party requires "4 days notice" for me to be able to amend it (not
+> With Notice, but rather the ordinary-language sense); I gave the notice,
+> and here's the amendment. As there have now been 4 days of notice (that
+> I intended to amend Points Party), I hereby amend Points Party to the
+> text shown within the {{{ }}} marks in the quote above.
+>
+> Some people managed to leave Points Party during the notice period
+> (which is possible); however, most people who were party to it didn't,
+> so I've still mousetrapped quite a number of people.
+>
+> I'll see about some of the higher-risk scams (that can affect other
+> contracts too) some time soon, probably. (I think /this/ one is pretty
+> clear-cut (see CFJ 2624; this one is even more obvious as it uses
+> plain-language notice rather than Agoran intent), but if anyone thinks
+> it doesn't work, let me know.)
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+With Notice didn't exist when the Points Party was created.
+See also the endless precedents about the First Speaker, and the strong
+implication of rule 1586; that using a rules-undefined term in a way
+that clearly indicates that it isn't meant to be a term in the rules
+doesn't cause it to become a use of a rules-defined term if a term
+that's vaguely similar is later defined in the rules. (Besides, nothing
+prevents the action taking place /even if/ it's defined to mean "With
+Notice", simply because although it can't be done dependently, the
+natural-language definition allows the action to be done independently.
+This is possibly a bug in the dependent action rules.)
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Rule 104 is Power 3, and also depends on the scope of "First" (which
+the rules defining the current Speaker never explicitly attempted to
+re-define).
+
+Rule 1586 clearly prevents hijacking of references to entities by name,
+but does not clearly extend to procedures.  And it's only Power 2.
+
+If the contract-defined method counts as With Notice, then Rule 2125(c)
+prevents it from being used independently.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+On Mon, Oct 12, 2009 at 7:47 PM, Pavitra <celestialcognition@gmail.com> wrote:
+> Ed Murphy wrote:
+>> I recuse Pavitra from CFJs 2704 and 2706 and make em supine.
+>
+> Sorry about that, everyone.
+>
+> I might as well post my incomplete attempt at working through 2706:
+
+Heh, here's mine:
+
+There is definitely something of a conflict of interest here.  On one
+hand, a judgement of TRUE means that I am mousetrapped, and
+"Punished", meaning that ais523 can act on my behalf by announcement;
+on the other, ais523 often works with me for the purpose of scams,
+and, voluntarily or not, I might be influenced in seeing things from
+his perspective, or the perspective of a scamster in general.
+
+I hope to avoid both conflicts.  My general opinion on judging scams
+is that-- as allowed and required by Rule 217-- there must be some
+reactionism in the name of the good of the game.  However, it must be
+limited: it is not in the good of the game that, having thought of a
+clever scam, a player is thwarted because the judge twists the
+language of the rules unreasonably just so the scam will fail.  ais523
+explicitly accused Agora in general of this, commenting that people
+would "turn around their arguments and start claiming it isn't a
+dependent action after all" when attempting to pull off a scam that
+the currently favored interpretation would allegedly enable.
+
+But scamsters, remember: while the judge has the tendency to rule
+unreasonably against a scam, the scamsters have the tendency to
+interpret the rules unreasonably in favor of the scam-- usually
+completely unconsciously, the belief in the scam genuine.  I have
+believed scams to have a high chance of success which were laughed at
+by the players-- for a recent example, look at the Ice Climbers scam--
+and, as a player, laughed at the serious scams of others.  Let all
+beware tunnel vision.
+
+Wording scams-- exploiting real or imagined bugs in rules based on an
+imprecision in the language-- are probably the easiest sort of scam to
+pull off, if only because they're much more common than genuine
+unambiguous loopholes.  However, I believe Agora doesn't provide a
+good playing field for them. [...]
+
+The facts:
+
+- The Points Party contract allowed itself to be amended "with four
+days notice".
+- ais523 posted (buried in a maze of other intents) the equivalent of
+the following: "I intend, without objection, to amend Points Party by
+replacing its entire text with [mousetrap]."
+- Several objections ensued, as predicted by all concerned.
+- Four days later, e purported to do so with four days notice.
+
+I believe the following questions need to be answered:
+1. Does "with four days notice" count as With Notice? (even though the
+contract was formed before the adoption of With Notice)
+2. If so, does it define one method or two? (i.e. does the text
+authorize a separate action in addition to matching the R1728
+template?)
+3. Does "I intend, without objection", count as ordinary-language
+notice for taking the action, using a mechanism other than without
+objection?
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+(note: I have good reasoning for this. I'm not explaining it because I
+want to see what will happen if I don't)
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+I intend, with 2 support, to appeal this. Without being able to see coppro's
+reasoning, I have no idea whether eir judgement is correct or not, and
+therefore no basis upon which to decide whether to appeal or not. The same
+applies to everyone else here. As a result, the judgement needs to be appealed
+in case it's setting an undesirable precedent. (In addition, this verdict
+could conflict with other verdicts that have not yet been made; the reasoning
+would be needed to determine that, too.)
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, to former-Judge coppro's gratuitous arguments:
+
+Before the Rules defined "With Notice" (definition added to the ruleset
+on 28-Aug-09) the Points Party, itself a legal document, contained the
+following definition (quoted from 7-Aug-09 Notary's report):
+
+      "ais523 can amend this contract with 4 days notice; any
+party to this contract can leave it during the notice period of a change
+(in order to avoid being bound by the change; parties to this contest
+are taken to consent to such a change if they do not leave during the
+notice period)."
+
+This clause not only defines a term that is different although similar
+in phrasing to the later-added "With Notice", it contains a reasonably
+clear (in common-language and common sense) description of what the term
+means and implies.  The combination of linguistic and procedural
+difference as defined in the contract is sufficient to maintain this as
+a distinct mechanism from the Rules-added With Notice procedure.  Its
+specificity within the contract, and secondarily its precedence in terms
+of timing, makes it a separate mechanism from the "With Notice" that was
+added to the ruleset.
+
+So, the question is, did the following posting:
+>> For each public contract (see the list at
+>> <http://agora-notary.wikidot.com/system:page-tags/tag/public>) [*], I
+>> intend, without objection; I intend, without member objection; and I
+>> intend, without 3 objections; to replace its entire text with the
+>> following:
+> [scam text]
+constitute a sufficient "common-sense" notice as described by the Points
+Party Contract?
+
+To give notice is to give "warning or intimation of something", and in
+this sense the best criteria to apply on whether warning or intimation
+was given is one in R101; did the posting contain sufficiently clear
+information that the parties had a "reasonable opportunity to review"
+the change? [**]
+
+Well, the posting did give warning that a change was in the offing for
+the contract.  HOWEVER, in common-sense terms, ais523 stated that e
+intended to make the change without a certain number of objections from
+members - e didn't list any other conditions.  In particular eir posting
+strongly implied (in common-laguage terms) that e would not change the
+contract if a member objected to the change.
+
+And e who lives by the common-sense definition, dies by the common sense
+definition.  By giving a common-sense notice with the phrase "without
+member objection", e implied fully that (if a member should object in
+the common-sense use of the term, say through publicly saying that e
+objected) that e would *not* make the change.  Therefore, the common-
+laguage notice was a QUALIFIED notice, and gave other members a
+"reasonable opportunity to review" the warning or intimation that ais523
+would make the change if objections[***] were NOT received, and NOT a
+reasonable opportunity to review the fact that e would make changes if
+objections WERE received.   So, wholly as a common-sense matter, notice
+to make a change where members objected to the change was not in fact
+given.
+
+I have found statements of objection from other members (Murphy and
+Tiger [see important caveat****]) and so Points Party members did *not*
+have (common-lauguage) warning that ais523 would be amending the
+contract under the circumstances that actually existed.
+
+This Court finds FALSE.
+
+[*] I'm assuming the web link above listed the Points Party at the time
+of the above announcement; I can't guarantee this fact but it doesn't
+seem to be in question.
+
+[**] By "reasonable opportunity" I am not talking about the timing --
+4 days is sufficient as the timeline was described and agreed to in the
+contract beforehand -- but on whether the notice was sufficiently
+descriptive and clear to be considered a notice that allows for review.
+
+[***] Since the common-lanugage notice process in the contract does not
+refer to R1728, neither do the objections.  R1728 only applies when the
+contract itself contains the dependent action language.
+
+[****] Membership list from 7-August-09 Notary's report.  I will assume
+that these members had not left the contract at the time the change was
+attempted - this might not be true.  If there are no such members who
+(1) objected and (2) were members when the change was attempted 4 or
+more days after the posting, this case should be remanded for a possible
+reversal.
+
+========================================================================

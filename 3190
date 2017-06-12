@@ -1,0 +1,121 @@
+=========================  Criminal Case 3190  =========================
+
+    omd violated Rule 2170 (Power=3) by selecting a confusing nickname
+    for eir golem previously named Mr. Incredible.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 omd
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by Murphy:                       20 Mar 2012 16:23:24 GMT
+Defendant omd informed:                 20 Mar 2012 16:23:24 GMT
+Assigned to scshunt:                    20 Mar 2012 16:25:55 GMT
+scshunt recused:                        06 May 2012 18:11:12 GMT
+Assigned to ais523:                     06 May 2012 18:13:25 GMT
+Judged NOT GUILTY by ais523:            11 May 2012 22:29:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+omd's nickname was confusing enough to trigger multiple CFJs (3180
+through 3183).  As omd points out, selecting a confusing nickname is
+not defined as a Crime, but it does violate a rule (R2170, R2152)
+and that's all that R1504 cares about; e may have been thinking of
+the converse, where a Crime is not explicitly defined as a rule
+violation (but CFJ 3126 found that it's implicitly defined).
+
+========================================================================
+
+Caller's Evidence:
+
+ omd wrote:
+ {I cause Mr. Incredible to change his name to '. I cause ' to
+deregister.  [thus destroying it; Rule 2361's first sentence arguably
+enforces that Slave Golems are always players, but both Rule 869 and
+the right to deregister take precedence] Now you can't get me because
+selecting a confusing nickname is not defined as a Crime, and you
+can't get em because e's been destroyed. Neener neener.}
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+I was referring to Rule 2361's "For all N,
+causing a Slave Golem to perform a Class-N Crime in this manner is the
+Class-N Crime of Not Doing Your Own Dirty Work", the antecedent of
+which I haven't satisfied.  I thought about the possibility that
+causing ' (née Mr. Incredible) to select a nickname would still count
+as me selecting a confusing nickname (for someone else), but I think
+common sense is that you can only "select" a nickname for yourself.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+There are multiple dimensions to this case, and multiple theories via
+which omd could be guilty. First off, causing another player to perform
+an illegal action is not illegal itself (CFJ 3115), and omd correctly
+points out that although there's a specific rule against causing a Golem
+to commit a Crime, the illegal action in question is not criminal.
+(Perhaps we could describe it as a tort.)
+
+The alternative theory is whether it is illegal to select a confusing
+nickname for someone else. Nicknames are not defined in the rules, so we
+typically use the regular definition, where a nickname is a name that a
+person is generally known by. In order to be able to select a nickname
+for someone, you have to be able to cause the name to catch on. In
+general, game custom in Agora is that if someone declares eir nickname
+to be something else, other players respect this choice. This can be
+subverted on occasion (I'd argue that Kerim Aydim's nickname is
+genuinely "G." rather than "Gravity Circumference Line Deja
+Vu Cardboard Duck e^(-kt).", and indeed, a search through my mail
+archives shows that the fully expanded name has not been used for over a
+year, by which time G. emself had forgotten the expansion, and the
+Registrar has been using the abbreviation consistently recently), but in
+general, announcements that you're changing your name are
+self-fulfilling.
+
+So can it be illegal to select a confusing nickname for someone else? It
+all depends on whether you're capable of making the change stick. Even
+if I were to start persistently referring to Murphy as "Rachel", for
+instance, it's unlikely that other people would follow suit; and even if
+they did, it would be unlikely to make its way to official reports
+unless Murphy emself consented to the change of name (in which case it
+would be em selecting it, not me). So in the case of first-class
+persons, selecting confusing nicknames, or any nicknames, is generally
+only possible with respect to yourself.
+
+On the other hand, with Slave Golems, being entirely the property of
+their owner and having no free will, a nickname selected by their owner
+is highly likely to catch on (and by their creator at creation, almost
+guaranteed to). As such, the violation described in the CFJ is possible;
+it would be possible to rename a Slave Golem by selecting a confusing
+nickname, and have it actually become that Golem's nickname.
+
+Did that actually happen here? No, because omd destroyed the Golem at
+the same instant that e selected the new name for it, and so there was
+no real chance for the golem to be commonly referred to by anything at
+all. (Arguably, it's possible that e could have broken the rule despite
+that if people actually continued referring to the now-historical Golem
+at ', but a quick perusal of the threads confirms that they aren't; I
+didn't think of using that name while writing the judgement until now,
+and most people are using less ambiguous terms to describe the Golem.)
+In this case, the attempt to select a nickname failed.
+
+I judge CFJ 3190 NOT GUILTY (1504(a)). Arguably, also (d), but (a) is
+more clearcut.
+
+========================================================================

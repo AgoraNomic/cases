@@ -1,0 +1,78 @@
+==============================  CFJ 2366  ==============================
+
+    Rule 2238's Power is over 9000.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          03 Feb 2009 16:18:07 GMT
+Assigned to Wooble:                     10 Feb 2009 06:03:44 GMT
+Judged FALSE by Wooble:                 10 Feb 2009 17:17:03 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Tue, Feb 3, 2009 at 11:14 AM, Alex Smith <ais523@bham.ac.uk> wrote:
+> On Tue, 2009-02-03 at 11:12 -0500, comex wrote:
+>> I intend, with support, to cause Rule 1728 to amend Rule 2141 by replacing:
+> I support.
+>> I intend, with support, to cause Rule 1728 to change the power of Rule
+>> 2238 to 9001.
+> I support.
+
+With support, I cause Rule 1728 to amend Rule 2141 by replacing:
+
+      Every rule has power between one and four inclusive.  It is
+      not possible for a rule to have a power outside this range.
+
+with:
+
+      It is not possible for a rule to have a power below one.
+
+With support, I cause Rule 1728 to change the power of Rule 2238 to 9001.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE, accepting Goethe's arguments, which are reproduced
+below as they don't seem to be included in the case history:
+
+>> The logic in favour is the CAN in the first sentence of rule 1728:
+>> {{{
+>>      A person (the performer) CAN perform an action dependently (a
+>>      dependent action) by announcement if and only if all of the
+>>      following are true:
+>> }}}
+>
+> Thanks, I was wondering why dependent actions and this isn't wholly
+> implausible.  However, I believe this runs afoul of the following from
+> R1728:
+>       a) The rules explicitly authorize the performer to perform the
+>          action by a set of one or more of the following methods (N
+>          is 1 if not otherwise specified)
+> The problem is, that R1728(a) requires the rules as a whole to authorize
+> the performer to perform the action, and doesn't in itself "add" to that
+> explicit authority (if it did "add" it would be self-referentially
+> meaningless).  So R2238 authorizes the dependent action, but it
+> conflicts with R2140, which forbids it (note that authorization must be
+> explicit; prohibition need not be - that tilt towards prohibition is a
+> "for the good of the game" argument).  Therefore the net sum of "the
+> rules" is that R2140 beats out R2238 due to power, and the action isn't
+> authorized by the rules, so the test of R1728(a) fails.
+>
+> I'm sure there have been other cases where one rule authorizes a
+> dependent action but another higher-power rule forbids it, and it's
+> that straightforward conflict that matters; R1728 doesn't "add" any
+> authority as a power-3 rule if the test from (a) isn't met.
+
+========================================================================

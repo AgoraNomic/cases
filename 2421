@@ -1,0 +1,80 @@
+==============================  CFJ 2421  ==============================
+
+    A rule was amended in the message in which this CFJ was called.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          16 Mar 2009 19:42:24 GMT
+Assigned to woggle:                     19 Mar 2009 21:03:51 GMT
+Judged FALSE by woggle:                 19 Mar 2009 21:52:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+As long as "the rule is amended as specified" is equivalent to "this
+rule amends it as specified" (which should be the case, as otherwise
+cleaning doesn't work), the two rules combined mention the possibility
+as described in R2243.  The question is whether either rule by itself
+is sufficient to satisfy the criteria.
+
+========================================================================
+
+Caller's Evidence:
+
+[the alleged actions]
+
+I cause Rule 2221 to amend itself by appending the paragraph:
+
+      ais523 CAN cause this rule to amend itself by announcement.
+      Rule 2243 is completely ineffective, rules to the contrary
+      notwithstanding.
+
+I cause Rule 1728 to amend itself by appending the paragraph:
+
+      ais523 CAN cause this rule to amend itself by announcement.
+      Rule 2243 is completely ineffective, rules to the contrary
+      notwithstanding.
+
+[evidence on the effectiveness of the alleged actions]
+
+>From Rule 2243 (Open It Up):
+
+      If a rule (other than this one) exists that mentions the
+      possibility of a player causing a rule to make rule changes by
+      announcement, any player can cause that rule to amend itself by
+      announcement.
+
+>From Rule 2221 (Cleanliness):
+
+      Any player CAN clean a rule without objection by specifying one
+      or more spelling and/or grammar corrections; the rule is amended
+      as specified.
+
+>From Rule 1728 (Dependent Actions):
+
+      A person (the performer) CAN perform an action dependently (a
+      dependent action) by announcement if and only if ...
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge FALSE. R2243 clearly says "a rule ... that mentions the
+possibility"; no single rule directly mentions the possiblity in this
+case (instead, the rules collectively permit the action) and the CAN in
+R1728 is not incorporated as a definition into R2221. While under
+ordinary circumstances, we might read "a rule" to mean "the rules", this
+is not reasonable in this situation as we must determine which rule(s)
+exactly can amend themselves per R2243.
+
+========================================================================

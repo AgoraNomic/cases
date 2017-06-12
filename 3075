@@ -1,0 +1,107 @@
+=========================  Criminal Case 3075  =========================
+
+    Yally violated Rule 2157 (Judicial Panels) by failing to act to
+    ensure that the judicial panel of scshunt, Yally and Pavitra
+    satisfied its obligations with regards to CFJs 3028a and 3029a.
+
+========================================================================
+
+Caller:                                 Walker
+Barred:                                 Yally
+
+Judge:                                  ais523
+Judgement:                              NOT GUILTY
+
+
+Judge:                                  ais523
+Judgement:                              GUILTY/DISCHARGE
+
+========================================================================
+
+History:
+
+Called by Walker:                       25 Jul 2011 20:36:06 GMT
+Defendant Yally informed:               25 Jul 2011 20:36:06 GMT
+Assigned to ais523:                     08 Aug 2011 15:46:51 GMT
+Judged NOT GUILTY by ais523:            12 Aug 2011 10:33:34 GMT
+Reconsideration requested by ais523:    14 Aug 2011 20:26:19 GMT
+Reconsideration requested by Murphy:    15 Aug 2011 03:24:46 GMT
+Reconsideration requested by scshunt:   15 Aug 2011 03:24:46 GMT
+Assigned to ais523:                     15 Aug 2011 03:24:46 GMT
+Judged GUILTY/DISCHARGE by ais523:      23 Aug 2011 06:00:59 GMT
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+Did the panel fail to satisfy its obligations? If not, surely this is
+NOT GUILTY.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The obligation is on the individual members ("each member of
+the panel SHALL"), and thus Yally violated rule 2341, not 2157.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5a4>:
+
+On Sun, 2011-08-14 at 15:20 -0500, Pavitra wrote:
+> On 08/14/2011 02:54 PM, ais523 wrote:
+> > Arguments: There is no obligation on a judicial panel to publish an
+> > opinion on an appeals case. No rule imposes one.
+>
+> R2158:
+>       When a judicial case is open and has a judge assigned to it, the
+>       judge CAN assign a valid judgement to it by announcement, and
+>       SHALL do so as soon as possible, unless e is recused from the
+>       case before the time limit for doing so has expired.
+>
+> R911:
+>       Appeal cases are a subclass of judicial cases.
+>
+> The judicial panel is the judge assigned to the appeal case.
+
+Aha, I missed that. I support Murphy's motion to reconsider.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5a4>:
+
+Just because Yally violated R2341 doesn't mean that e didn't also
+violate R2157 via the same inaction.
+
+Consider these hypothetical situations where the panel of Alice, Bob
+and Charlie is assigned to an appeal:
+
+  1) None of the panelists publish an opinion or otherwise cause the
+     panel to judge on time.  Each of them violates both R2341 and
+     R2157.
+
+  2) Only Alice publishes an opinion, not enough to trigger "the panel
+     acts" in R2341, and none of them otherwise cause the panel to
+     judge on time.  Bob and Charlie violate both R2341 and R2157;
+     Alice probably gets NOT GUILTY on R2157 due to R1504(e), especially
+     if she reminded the others before the time limit expired.
+
+  3) Alice and Bob publish matching opinions, Charlie doesn't publish
+     an opinion, and "the panel acts" in R2341 is triggered when the
+     time limit is reached.  (This is the situation at hand.)  Charlie
+     violates R2341, and may also violate R2157 because - even though
+     the panel acted - e didn't perform any action contributing to
+     causing it to do so.  (On the other hand, once Alice and Bob's
+     opinions were published, maybe R2157 no longer required Charlie
+     to perform any action because the panel was already set to act.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The other panelists (and, in fact, most appeals panels in recent memory) have
+violated the rule in question, and given the existence of separate panel
+opinions, it isn't really a sensible thing to punish for, and doesn't
+hurt the game if violated.
+
+========================================================================

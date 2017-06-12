@@ -1,0 +1,114 @@
+==============================  CFJ 3069  ==============================
+
+    Arkady English was a player throughout the entire day of 16 July
+    2011
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Pavitra
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       18 Jul 2011 21:01:42 GMT
+Assigned to Pavitra:                    24 Jul 2011 18:31:27 GMT
+Judged FALSE by Pavitra:                25 Jul 2011 02:32:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I'm still not entirely sure we've settled what happens with
+message timing when the lists are down; and the rules for registration
+are different, so I'm not sure if that has any effect on the timing.
+(Deregistration would have been even more interesting, but Wooble either
+hasn't been a player when the lists were down, or didn't think of it.)
+
+========================================================================
+
+Caller's Evidence:
+
+On Fri, 2011-07-15 at 23:14 +0100, Arkady English wrote:
+> Dear Agorans:
+>
+> I intend to join the game at this time in accordance with rule 869.
+>
+> Also, agoranomic.org seems to be down :-S
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+The most relevant precedent I've been able to find is CFJ 2779. The
+judge's arguments in that case suggest that questions of this kind must
+in general must be decided on a case-by-case basis, and that the first
+criterion should be the balance of various players' rights of
+participation in the fora.
+
+The precedent of 2779 was dealing with a more complicated situation,
+where different players had different degrees of access to the fora.
+That case concerns itself primarily with players' uncertainty regarding
+whether apparently-sent messages have in fact been sent.
+
+Applying that standard in this case, it seems relevant that the message
+in question included an acknowledgement that the site was down. Since
+the list addresses use the same domain name as the website, I believe
+that Arkady English could reasonably have suspected that eir message
+might not go through. In addition to this, e would have received a
+bounce notification soon after the attempted sending.
+
+Thus, it seems that the sender had considerably more opportunity to
+realize that eir attempt to send a message had failed than the rest of
+the players had to realize that e had made the attempt. Treating the
+message as effective would seriously interfere with the ability of the
+majority of players to participate in the fora, while treating the
+message as ineffective would present at most a moderate inconvenience
+(that of resending to a backup list) to only one player (for each such
+attempted message).
+
+Thus, it is unacceptable to treat the message as having taken effect
+upon its sending. However, it is nearly equally bad to treat an
+apparently-sent message as ineffective, and the message was eventually
+received by the players in general.
+
+I therefore find that Arkady English became a player upon the general
+receipt of the message by the players of Agora at large, on or about UTC
+20:53, 18 July 2011.
+
+========================================================================
+
+Judge Pavitra's Evidence:
+
+a lightly-edited excerpt from the headers of Arkady
+English's purported registration message as I received it.
+{
+Received: by 10.223.97.72 with SMTP id k8cs65164fan;
+        Mon, 18 Jul 2011 13:54:07 -0700 (PDT)
+Received: by 10.91.8.5 with SMTP id l5mr2091082agi.154.1311022444226;
+        Mon, 18 Jul 2011 13:54:04 -0700 (PDT)
+Received: from yzma.clarkk.net (blackbox.clarkk.net [66.93.216.11])
+        by mx.google.com with ESMTP id
+m5si3492780ann.37.2011.07.18.13.54.03;
+        Mon, 18 Jul 2011 13:54:04 -0700 (PDT)
+Received: from yzma.clarkk.net (localhost [127.0.0.1])
+        by yzma.clarkk.net (Postfix) with ESMTP
+        id 413B9811AF; Mon, 18 Jul 2011 15:54:02 -0500 (CDT)
+Received: from mail-iw0-f177.google.com (mail-iw0-f177.google.com
+[209.85.214.177])
+        by yzma.clarkk.net (Postfix) with ESMTP id 6239381179
+        for <agora-business@agoranomic.org>; Mon, 18 Jul 2011 15:53:25 -0500
+(CDT)
+Received: by iwn35 with SMTP id 35so4560004iwn.22
+        for <agora-business@agoranomic.org>; Mon, 18 Jul 2011 13:53:24
+-0700 (PDT)
+Received: by 10.42.23.200 with SMTP id t8mr4292577icb.198.1310768072622;
+Fri,
+ 15 Jul 2011 15:14:32 -0700 (PDT)
+Received: by 10.42.244.65 with HTTP; Fri, 15 Jul 2011 15:14:32 -0700 (PDT)
+}
+
+========================================================================

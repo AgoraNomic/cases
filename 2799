@@ -1,0 +1,213 @@
+==============================  CFJ 2799  ==============================
+
+    G. has published a Granulator's report containing the Fragment
+    submitted by comex on or about 4 May 2010.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           17 May 2010 20:18:12 GMT
+Assigned to ais523:                     22 May 2010 14:54:13 GMT
+Judged FALSE by ais523:                 23 May 2010 08:46:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+comex "submitted a fragment" indicating, in words and by envelope
+information, that it should be translated as an image (a .png image).  But
+it appeared in the archives as a body of text.  G. republished said body
+of text as part of the Granulator's report and there is (arguably?)
+sufficient information in the report to display it in multiple ways,
+including as text.  Has G. represented the fragment adequately to have it
+be considered an accurate report of the fragment?  At issue is the
+degree to which attachments must be translated or considered in any future
+actions.  This might be counterfactual if attachments are held not to be
+part of the body of an action/message (as with subject lines etc.) in
+which case comex said e submitted a fragment, but didn't within the "body"
+of the message.  This latter interpretation may be for the good of the
+game: allowing attachments to contain actions opens up a bit of a can of
+worms).
+
+========================================================================
+
+Caller's Evidence:
+
+It is worth viewing these through the archives to see the issue at hand:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2010-May/0255
+57.html
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2010-May/0077
+54.html
+
+Original message:
+
+--001485f9a616fbc41c0485cbe32d
+Content-Type: text/plain; charset=ISO-8859-1
+
+I submit the attached image as a Fragment.
+
+--001485f9a616fbc41c0485cbe32d
+Content-Type: image/png; name="awesome.png"
+Content-Disposition: attachment; filename="awesome.png"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_g8t9nqsp0
+
+iVBORw0KGgoAAAANSUhEUgAAAVAAAAFQCAYAAADp6CbZAAAABGdBTUEAALGPC/xhBQAAAAZiS0dE
+AP8A/wD/oL2nkwAAAAlwSFlzAAALDgAACw4BQL7hQQAAYJNJREFUeNrtXQd4FFXXnvTee0KAJKQQ
+khAIIRASSkIgQEJJDyIgAipFFAHpIE0QbKCgCAqKdARRuvTee5EaigooRQGRev57Jotf5Ifs7Mzs
+7szuOc/zPv/zf5Itd+9959xT3sNxZGTymQODN0NlhhiGBIYUhsYMzRiyGHozvM3wJcNshm0MBzW4
+wABa8FuZf7+R4VvNaw1h6Kp5D3yvdIZ6DDUZohkqMfgwONLPREZGZiyzYLBksGYIYGiuIcRPNGT2
+
+[multiple lines deleted by CFJ caller for space]
+
+MO7XnWEow2SuNB64jCutTf2FM26xP773BYbdDCsZvmCYyJXWX+Jnbq0hSnf6OcnIyIztsVppQgE+
+Gu8Na1MzGLIZOnClYyaGMEzSkNkSDTZypRJtiM1cqbL68adwQPPfnvy7TZq/xfbWz7lS8ZVhmvfA
+92qleW8UZgnnSqsRLMuAjEyy/R+DE2ESHP8eqwAAAABJRU5ErkJggg==
+--001485f9a616fbc41c0485cbe32d--
+
+
+Extract from report in question:
+
+I deputize for the Granulator to publish the following Report and assign
+ID numbers to fragments as follows:
+
+1.  comex   (4 May 2010 18:03:56 -0400)
+[see below for text of fragment]
+
+...
+
+[*text of 1 by comex]
+iVBORw0KGgoAAAANSUhEUgAAAVAAAAFQCAYAAADp6CbZAAAABGdBTUEAALGPC/xhBQAAAAZiS0dE
+AP8A/wD/oL2nkwAAAAlwSFlzAAALDgAACw4BQL7hQQAAYJNJREFUeNrtXQd4FFXXnvTee0KAJKQQ
+khAIIRASSkIgQEJJDyIgAipFFAHpIE0QbKCgCAqKdARRuvTee5EaigooRQGRev57Jotf5Ifs7Mzs
+7szuOc/zPv/zf5Itd+9959xT3sNxZGTymQODN0NlhhiGBIYUhsYMzRiyGHozvM3wJcNshm0MBzW4
+wABa8FuZf7+R4VvNaw1h6Kp5D3yvdIZ6DDUZohkqMfgwONLPREZGZiyzYLBksGYIYGiuIcRPNGT2
+
+[...same lines deleted...]
+
+MO7XnWEow2SuNB64jCutTf2FM26xP773BYbdDCsZvmCYyJXWX+Jnbq0hSnf6OcnIyIztsVppQgE+
+Gu8Na1MzGLIZOnClYyaGMEzSkNkSDTZypRJtiM1cqbL68adwQPPfnvy7TZq/xfbWz7lS8ZVhmvfA
+92qleW8UZgnnSqsRLMuAjEyy/R+DE2ESHP8eqwAAAABJRU5ErkJggg==
+--001485f9a616fbc41c0485cbe32d--
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Almost all email clients support this format; the archive,
+which does not, is not mentioned in the ruleset.  True, it is encoded
+as a body of text, but bodies of text are encoded as series of numeric
+bytes, and bytes are encoded with bits, and so on... and without an
+actual requirement in the ruleset that messages be plain text, I don't
+see why my image is not acceptable.  In fact, I'd say that I have the
+R101 right to post any type of content I want to the fora, within
+reasonable limits such as size.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Compare Rule 2291:
+
+      A Fragment SHOULD be a short
+      (possibly as small as a sentence) body of text intended to
+      become a portion of a Rule.
+
+with Rule 106:
+
+      When creating proposals, the person who creates them SHOULD
+      ensure that the proposal outlines[...]
+...
+      A player CAN create a proposal by publishing ("submitting") a
+      body of text[...]
+
+or Rule 2141:
+
+      A rule's content
+      takes the form of a text, and is unlimited in scope.
+
+In each of the latter cases, the entity is explicitly required to be
+text, and in Rule 106, there is then a SHOULD regarding its content;
+Rule 2291, however, only mentions text within the SHOULD.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+http://zenith.homelinux.net/cotc/image/awesome.png
+(result of rendering the alleged fragment as an image)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The key to this CFJ is, I feel, not "is that fragment an image", but
+"what information is needed to contain the whole of the fragment". Rule
+754 allows the use of synonyms or abbreviations in any form of
+communication; it fits both the spirit of the rule, and the letter at a
+stretch, to presume that a text representation of an image, and the
+image itself, are synonyms in a sense; they convey the same information
+in different formats, but they have the same meaning.
+
+comex sent eir Fragment to the public fora via email (considering that
+all the public fora currently are email-based mailing lists, this was
+not an implausible thing to do), using a relatively well-known encoding;
+it is not unreasonable to suppose that any player knows, or could find
+out, a way to convert the sequence of bytes that represented the
+Fragment in question to an image. The mailing list archives, instead,
+chose to convert that sequence of bytes to text; but this has the same
+meaning, as the image and text are synonyms to each other.
+
+Note that comex stated that "the attached image" was the Fragment; as a
+result, we need to look at which part of the message in question was the
+"attached image". Standard English usage, and the rules of email
+encoding, imply it was the section of the message between
+--001485f9a616fbc41c0485cbe32d and --001485f9a616fbc41c0485cbe32d, which
+was specifically flagged as an attachment by comex (or more likely eir
+email client, acting on eir instructions, but this has the same effect
+as if comex had done it by hand), by the instruction
+{{{Content-Disposition: attachment; filename="awesome.png"}}}. That
+instruction seems to be metadata that's part of the email, not part of
+the Fragment. There are other instructions there in that section too,
+though, which arguably are part of the Fragment: the lines
+{{{Content-Type: image/png; name="awesome.png"}}} and
+{{{Content-Transfer-Encoding: base64}}} together specify the mechanism
+of decoding the sequence of characters that follow into an image,
+together with its filename. These are an essential part of the
+Fragment's meaning; comex has effectively sent us a sequence of bytes
+that represent an encoded image, together with a key to decode them.
+
+Therefore, I conclude that G's report did /not/ contain the entire
+Fragment. E published the lines that contained the 'data part' of the
+Fragment, together with a separator line that was in the original
+message, but not part of the Fragment at all; but e did not publish the
+metadata that was also part of the same Fragment.
+
+Therefore, I rule CFJ 2799 FALSE. G.'s approach would have been
+sufficient to publish the Fragment in question, but e left parts of it
+out of eir report, and failed to publish it on that basis. Sufficient
+would have been to publish the following lines:
+{{{
+Content-Type: image/png; name="awesome.png"
+Content-Disposition: attachment; filename="awesome.png"
+}}}
+together with the large block of base64 that encoded the data of the
+image. Likewise sufficient would have been to publish any synonym of
+this, e.g. the block of base64 with a note saying "this is a
+base64-encoded PNG image named awesome.png", or an actual image
+(somehow), or the same image in another format (so long as all metadata
+was retained), etc. But in order to fulfil eir duty to publish the
+Fragment, e must publish the whole thing (in any format e chooses -
+text, image, or otherwise - so long as decoding it is not an
+unreasonable burden), rather than just publishing most of it.
+
+========================================================================

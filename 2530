@@ -1,0 +1,202 @@
+==============================  CFJ 2530  ==============================
+
+    ais523 published the NoVs which are the subject of CFJ 2480.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Quazie
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       18 May 2009 15:43:27 GMT
+Assigned to Quazie:                     18 May 2009 16:02:19 GMT
+Judged FALSE by Quazie:                 18 May 2009 17:08:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Sat, 2009-05-02 at 15:46 +0100, Alex Smith wrote:
+>   1) For each active player not a party to this contract, ais523
+>      publishes a Notice of Violation accusing that player of
+>      violating the Power=1 Rule 2215 (Truthfulness) by claiming
+>      that there are five lights.
+
+I've just noticed that the NoVs never existed in the first place, or at
+least were not published by me. Looking back at the text of what I
+agreed to with Murphy (to see exactly what was going on here), which is
+quoted above, Murphy didn't perform the action on my behalf that was
+specified in the contract. For one, e missed Pavitra out of the list,
+which means that e was trying to perform a /different/ action than the
+one I agreed to. Also, the text above was "accusing"; IMO, you can
+accuse someone of doing something without stating that they've actually
+done it. (False accusations have been rather common in history; and it's
+well known that an accusation is not proof.) Unfortunately, I was too
+distracted at the time to notice that Murphy had performed the wrong
+action.
+
+I /strongly/ now believe that act-on-behalf should not be allowed by
+private contracts, or at least contracts with unknown text; my
+preference has always been to publish such contracts (and preferably
+make them public) immediately before using them, so everyone knows what
+is going on.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+I confirm that the text labeled 1) is part of the contract that the
+scamsters in question agreed to.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Quazie wrote:
+
+> Please post entire text of private contract (or at least the relevant
+> parts) so that a judge can judge this will full information.
+
+The full text appears between {} below.  The opening (which doesn't
+allow me to fill in the missing parts later) plus 1) should lead to
+a trivial FALSE.
+
+{
+If ais523, comex, coppro, and Murphy are all parties to this contract,
+then Murphy CAN, and SHALL as soon as possible, act on behalf of the
+other parties to perform the following actions, in order, in a single
+public message:
+
+  1) For each active player not a party to this contract, ais523
+     publishes a Notice of Violation accusing that player of
+     violating the Power=1 Rule 2215 (Truthfulness) by claiming
+     that there are five lights.
+
+  2) For each Notice of Violation from step 1, comex contests it.
+
+  3) For each Notice of Violation from step 1, ais523 initiates a
+     criminal case pertaining to it.
+
+  4) For each criminal case from step 3, Murphy assigns it to coppro.
+
+  5) For each criminal case from step 3, coppro judges GUILTY / SILENCE.
+
+  6) comex, coppro, and Murphy become inactive.
+
+  7) ais523 announces that e Wins by Solitude, then becomes inactive.
+
+  8) comex becomes active, announces that e Wins by Solitude, then
+     becomes inactive.
+
+  9) coppro becomes active, announces that e Wins by Solitude, then
+     becomes inactive.
+
+ 10) Murphy becomes active and announces that e Wins by Solitude.
+
+ 11) ais523, comex, and coppro become active.
+
+ 12) For each criminal case from step 3, ais523 intends to appeal its
+     culpability, comex and Murphy support, and ais523 appeals it.
+
+ 13) For each appeal case from step 12, Murphy assigns it to the panel
+     of ais523, comex, and Murphy.
+
+ 14) For each appeal case from step 12, ais523, comex, and Murphy
+     opine OVERRULE / NOT GUILTY.
+
+ 15) ais523, comex, and Murphy agree to the panel destroying all Rests
+     created in step 5.
+}
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+For reference, here is the text Murphy used:
+
+ 1) For each of the following players, ais523 publishes a Notice of
+    Violation alleging that that player violated the Power=1 Rule 2215
+    (Truthfulness) by claiming that there are five lights:
+
+the difference is "accusing that player of violating"  versus
+"alleging that that player violated".  I'm not sure whether the
+difference is meaningful.
+
+========================================================================
+
+Judge Quazie's Arguments:
+
+The private contract stated that murphy may:
+
+>   1) For each active player not a party to this contract, ais523
+>      publishes a Notice of Violation accusing that player of
+>      violating the Power=1 Rule 2215 (Truthfulness) by claiming
+>      that there are five lights.
+>
+
+
+The action murphy performed was:
+
+ 1) For each of the following players, ais523 publishes a Notice of
+    Violation alleging that that player violated the Power=1 Rule 2215
+    (Truthfulness) by claiming that there are five lights:
+
+      Arnold Bros (est. 1905)
+      Ben Daniel
+      BobTHJ
+      C-walker
+      Dvorak Herring
+      Manu
+      modulus
+      Nameless
+      Quazie
+      Rodlen
+      root
+      Schrodinger's Cat
+      Sgeo
+      Siege
+      Spitemaster
+      Taral
+      Tiger
+      Tom
+      Wooble
+      Yally
+
+These are not the same.  Key differences include the fact that the
+performed action missed Pavitra, and that the performed action
+'alleged' and did not 'accuse'.
+
+Lets tackle the second point first.
+
+Merriam-webster.com defines allege as: To assert without proof.
+Merriam-webster.com defines accuse as: to charge with a fault or offense.
+
+These are fairly similar statements.  To allege is just a specific
+type of accusation, just one done without proof.  The point here is
+that the action is different, as the words are not synonyms.
+Regardless of the fact that the subset of people that the action was
+performed on was different, the action wasn't the action that was
+agreed upon.  As such Murphy could not perform the action on behalf of
+asi523.
+
+The other point, in which murphy did not perform the action on the
+full subset, leads to another potential failing in regards to this
+CFJ, because it did not fulfill the entirety of that clause in the
+private contract.  This would normally NOT be a porblem, but murphy
+was empowered to perform every action in order in a single message.
+As he did not perform every action in order in a single message, and
+that was the clause stipulating the Act on Behalf of, he wasn't
+empowered to perform any action.
+
+I judge FALSE ais523 did not submit the NOV's, based on both issues:
+Pavitra and alleging.
+
+I have no idea as to what actually happened as a result of the initial
+message, but murphy did not perform any action on behalf of anyone.
+
+========================================================================

@@ -1,0 +1,48 @@
+==============================  CFJ 2819  ==============================
+
+    comex has a Leadership Token.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          23 Jul 2010 17:00:21 GMT
+Assigned to ais523:                     24 Jul 2010 15:11:27 GMT
+Judged FALSE by ais523:                 24 Jul 2010 18:58:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguably "all objects In Space are destroyed" applies to the Shuttle;
+requesting a clarification as to whether a new Shuttle is created each
+time (as some parts of the Space Alert rule text seem to imply) or the
+same Shuttle makes repeated journeys (as others do).
+
+========================================================================
+
+Caller's Evidence:
+
+Having given notice, I initiate a new Journey.  I will start creating
+Threats in 24 hours, and post the map of this journey in a week.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Rule 2299 implies that starting a new journey destroys the Shuttle. Rule
+2298, by implying the existence of the Shuttle regardless of any other
+circumstances, implies that it cannot be destroyed. Rule 2298 takes
+precedence due to equal Power and a lower number, with no claims of
+precedence, thus I judge FALSE.
+
+(Yes, this is rather broken.)
+
+========================================================================

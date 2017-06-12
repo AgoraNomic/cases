@@ -1,0 +1,228 @@
+======================================================================
+                               CFJ 928
+
+"No Currency transfers occured as a result of the application of
+ Proposal 3482."
+
+======================================================================
+
+Judge:        Morendil
+
+Judgement:    TRUE
+
+Eligible:     Andre, Antimatter, Blob, Chuck, Crito, Elde, elJefe,
+              Harlequin, Michael, Morendil, Murphy, Oerjan, Swann,
+              Zefram
+
+Not eligible:
+Caller:       General Chaos
+Barred:       Steve
+Disqualified: Vanyel
+On hold:      -
+
+======================================================================
+
+History:
+  Called by General Chaos, Wed, 25 Jun 1997 00:51:39 -0500
+  Assigned to Morendil, Wed, 25 Jun 1997 09:38:17 +0100
+  Judged TRUE, Wed, 25 Jun 1997 10:43:35 +0200
+  Published, Thu, 26 Jun 1997 10:00:59 +0100
+  Concurring opinion attached, Wed, 2 Jul 1997 13:49:47 +1000 (EST)
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+I see nothing substantial to add to the Caller's arguments, which
+present not one, but two convincing reasons for finding thus, either
+of which would be sufficient.
+
+======================================================================
+
+Concurring Opinion:
+
+We agree with the Caller, General Chaos, and the Judge, Morendil, that
+Proposal 3482 did not cause any Currency Transfers to legally take
+place. This can be certainly concluded, and concluded alone, from the
+second of the arguments given by the Caller, namely, that the Proposal
+did not and could not meet the requirement in R1472(d) that some Rule
+specify a Player to detect and report the transfers it sought to
+effect. However, we would like it noted that the question of whether,
+in the absence of this requirement in R1472(d), the Currency Transfers
+in P3482 would still have been ineffective as the Caller alleged and
+the Judge accepted, or whether on the other hand, the authorization
+granted by R594 for Proposals to alter Nomic Properties is sufficient
+to count as specific authorization to cause Currency Transfers, is a
+question that has not been definitively settled in this CFJ.
+
+Signatures: Steve, Murphy, Eljefe, Michael, Crito
+
+======================================================================
+
+(Caller's) Arguments:
+
+Proposal 3482 sought to require several Currency transfers.  I argue
+that it is not permissible for an adopted Proposal to directly require
+Currency Transfers, for two reasons.
+
+First, Rule 1596 states:
+
+      The Rules have the power to require the transfer of Currencies;
+      no other Entity also has this power unless explicitly granted it
+      by the Rules, and then only to the extent granted by the Rules.
+
+An adopted Proposal is not a Rule.  It therefore only has the power to
+cause Currency transfers if explicitly granted it by the Rules.  No
+such grant exists.  The only Rule that grants any sort of power to
+adopted Proposals is Rule 594, and nowhere in this Rule is the power
+to require Currency transfers explicitly granted.  While it is true
+that Rule 594 defines the application of a Proposal as a legal
+procedure for changing Nomic Properties, Rule 594 also limits this
+ability to those changes which are permitted by the Rules.  A Proposal
+is still limited to doing only those things the Rules do not deny of
+it, and one of the things denied of a Proposal is the power to require
+a Currency Transfer, by Rule 1596.  A similar argument can be made
+showing that Rule 1472 also denies an adopted Proposal the power to
+require a Currency transfer.
+
+Furthermore, even if we grant that a Proposal can require a Currency
+Transfer, there is still a problem.  Rule 1472 requires that, for a
+transfer of Currency to occur, "[s]ome Rule must specify a Player
+whose duty it is to report the occurence of the transfer to the
+Recordkeepor of the Currency involved."  There is no Rule which
+specifies who is to report Currency transfers of the sort that
+Proposal 3482 sought to require.  The Proposal itself does specify
+that the Assessor is to do so, but, as I have already noted, an
+adopted Proposal is not a Rule.  Thus, the attempted transfer is
+prohibited by Rule 1472.
+
+Evidence:
+
+Rule 594/3 (Power=1)
+Proposals and Rule Changes
+
+      When a Proposal is adopted, its Power becomes equal to its
+      Adoption Index, and the provisions contained in the text of the
+      Proposal are implemented to the maximal extent permitted by the
+      Rules.  Provisions which are unclear, ambiguous, or inapplicable
+      are ignored.  In a Proposal containing more than one provision,
+      each provision is severable from the others, unless the Proposal
+      states otherwise.
+
+      For the purpose of the Rules, the application of an adopted
+      Proposal is a legal procedure for changing Nomic Properties.
+
+      The Adoption Index of a Proposal is the maximum of 1, the value
+      requested by its Proposer (if any), and the value required for
+      that Proposal by the Rules (if any).
+
+[CFJ 778: It is legal for a Proposal to contain zero Rule Changes.]
+
+History:
+Created by Proposal 594, Oct. 21 1994
+Amended(1) by Proposal 1323, Nov. 21 1994
+Amended(2) by Proposal 2399, Jan. 20 1996
+Amended(3) by Proposal 3445 (General Chaos), Mar 26 1997, substantial
+
+Authors: ..., General Chaos
+
+Rule 1472/3 (Power=1)
+Transfer of Currencies
+
+      Units of Currency are transferrable between Treasuries under the
+      following conditions:
+
+      a) The transfer shall be from exactly one Treasury to exactly
+         one other Treasury.
+      b) The transfer must be of a positive amount of exactly one
+         Currency, and that amount must be an exact integral multiple
+         of that Currency's MUQ.
+      c) Some Rule must authorize the transfer, either by requiring it
+         directly or by granting authority to require the transfer to
+         some other entity.
+      d) Some Rule must specify a Player whose duty it is to report
+         the occurence of the transfer to the Recordkeepor of the
+         Currency involved.
+
+      This Rule takes precedence over any Rule which would permit or
+      require a transfer prohibited by this Rule, and defers to any
+      Rule which prohibits a transfer permitted by this Rule.
+
+[CFJ 793: Notification may take place as part of an Official Report to
+ the Public Forum.]
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1649, Aug. 1 1995
+Amended(2) by Proposal 1702, Sep. 1 1995
+Amended(3) by Proposal 2493, Feb. 16 1996
+
+Rule 1596/1 (Power=1)
+Currency Transfers, generally
+
+      The Rules have the power to require the transfer of Currencies;
+      no other Entity also has this power unless explicitly granted it
+      by the Rules, and then only to the extent granted by the Rules.
+
+      No Entity other than the Rules themselves has the power to
+      require any transfer which would result in the Treasury being
+      transferred from containing a negative quantity of the Currency
+      transferred.
+
+      Whenever an Entity requires a transfer of Currencies to take
+      place, the transfer takes place as required, provided that the
+      Entity which is requiring the transfer is permitted by the Rules
+      to require that transfer, and provided that the transfer is
+      otherwise permitted by the Rules.
+
+      Such a transfer takes place at the time specified by the Entity
+      which requires the transfer, or, if no time is specified, at the
+      time when the Entity first begins to require the transfer.
+
+      This Rule takes precedence over any Rule which would permit or
+      require a transfer prohibited by this Rule.  When another Rule
+      would prohibit some transfer permitted by this Rule, this Rule
+      defers to that Rule with respect to that transfer.
+
+History:
+Created by Proposal 2493, Feb. 16 1996
+Amended(1) by Proposal 2626, Jun. 29 1996
+
+Proposal 3482 by Steve
+Restore Game Balance
+
+[Comment: In order for Voting Tokens to be interesting and valuable,
+they need to be at least slightly scarce. However, the taxless post-2817
+regime, and Crito's scam, have combined to massively increase the number
+of VTs in circulation. It is my view that a desirable figure for the
+total number of VTs in circulation is between 200 and 300. The question
+is: how to achieve this fairly? One principle I want to respect is that
+good play should be rewarded. Another principle is that a reasonable
+game balance should be maintained, with no Player having a wildly
+disproportionate share of the VTs in circulation. Hence the scheme
+below curbs the wilder excesses caused by Crito's scam, while more or
+less preserving relative VT wealth.]
+
+Be it hereby resolved that upon this Proposal's taking effect,
+all Voting Tokens held in Treasuries belonging to Contests
+shall be transferred to the Bank. These transfers are detected
+and reported by the Assessor.
+
+Be it hereby resolved that upon this Proposal's taking effect, each
+Treasury containing more than 200 Voting Tokens shall have transferred
+from it to the Bank all but 200 of the Voting Tokens in it. These
+transfers are detected and reported by the Assessor.
+
+[Comment: using the current VT Report as a guide, this takes about 5500
+VTs out of circulation, and leaves about 1950 VTs in circulation.]
+
+Be it further resolved that upon this Proposal's taking effect, seven
+eighths of the Voting Tokens in every Treasury except the Bank's shall
+be transferred to the Bank. These transfers are detected and reported
+by the Assessor.
+
+[Comment:...leaving about 250 VTs in circulation.]
+
+======================================================================

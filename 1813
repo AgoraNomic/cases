@@ -1,0 +1,156 @@
+==============================  CFJ 1813  ==============================
+
+    The AFO won the game as a result of comex's message with Message-ID
+    <6bf32280711281839g6adde4a4wdf21f00d231c776b@mail.gmail.com>.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         29 Nov 2007 22:01:26 GMT
+Assigned to G.:                         29 Nov 2007 22:10:14 GMT
+Judged FALSE by G.:                     06 Dec 2007 18:18:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+comex announced 104 (allegedly -- I haven't counted them myself)
+identical actions, each attempting to spend 0 VCs in order to decrease
+the AFO's VVLOP by -1.
+
+comex did not specify any colors for the 0 VCs e attempted to spend,
+but I argue that this does not matter, since the number of distinct
+colors in a set of 0 VCs must be 0.
+
+I argue that "spend 0 VCs" is a non sequitur; no VCs are spent, and so
+no action is performed.  I recall there being a precedent on this
+topic, but I've been unable to dig it up.
+
+I argue that "decrease by -1" is also a non sequitur; there is no way
+to modify an integer value such that it is decreased and such that the
+amount it is reduced by is -1.
+
+pikhq's announcement was similar, but each action read "decreate"
+rather than "decrease".  I argue that this difference is meaningless
+per Rule 754(i).
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+Oh, and I have one other gratuitous argument that I neglected to
+include when I initiated the case.  Rule 2134/1, which empowers the
+win, does not refer to VVLOP but rather to "voting limit on ordinary
+proposals".  Since there are three different kinds of "voting limit on
+ordinary proposals" (VVLOP, EVLOP, BVLOP), it is not clear which of
+those (or, perhaps, the sum of all three) is to be used in determining
+the win.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+CFJ 1813 judgement:
+
+The relevant portion of R2126 is:
+      c) A player may spend N+1 VCs of different colors to decrease
+         another player's VVLOP by N (to a minimum of zero).
+
+There is nothing limiting the choice of values for the letter N (or any other)
+in R2126(c).  However, the choice of N must result in an action that isn't
+otherwise forbidden.  For example, if the outcome results the transfer of a
+negative or fractional asset object, it can't be performed.
+
+By choosing an N of -1, there is an attempt to "spend 0 VCs" and "decrease
+VVLOP by -1".  Both of parts of this must be possible. Are they?
+
+In the old currency fee-based rules, fees were paid by transfers, and a
+transfer explicitly had to transfer "one or more" objects (R1598/12).  So
+attempts to transfer 0 weren't transfers, so 0 fees couldn't be paid.  This
+was true at the time of precedents in CFJs 1456-1459.  This is no longer true,
+so these precedents no longer apply.  In fact, the later Rule governing fees
+(R1941/2) explicitly allowed fees to be 0 by allowing any "non-negative" cost.
+So in terms of "spending 0 VCs", old rules support either interpretation, and
+current rules are silent. CFJ 1444 precedent (on dependent actions, which are
+regulated similarly and the only still-relevant precedent) implies this is
+possible.  Since it's not forbidden to spend 0 VCs, it's possible to perform
+an action in this manner.
+
+What about "decreasing by -1"? There is nothing restricting VLOPs to
+non-negative.  There is some implication that they should be real numbers in
+R2156.  There is a slight implication they should be non-negative in R683, but
+it is not compelling (the N in R683 could be 0 for any VLOP < 0). They are not
+assets, but rather "parameters" which are implied to have integral values but
+not restricted. Therefore, there is nothing forbidding specifying operations
+on VLOP using negative numbers.
+
+But the term "decrease" needs some interpretation.  Arguments have been
+supplied in discussion that it is meaningless to "decrease" something by a
+negative amount.  In fact, a googling of a linkage of "decrease" and negative
+terms only yields one context in which the terms are meaningful together.
+That occurs where an amount of something is decreased, but that something has
+a negative property. For example, a "decrease in negative ions" in a solution
+results in positive increase in charge, but that comes about through removing
+a positive number of negative ions.  Once the charge reach zero (there are no
+more negative ions), one can't raise the charge by removing more imaginary
+negative ions; at this point, one must add positive ions.  If we followed this
+model, we might allow players to "decrease the negativity" of VVLOP while the
+VVLOP itself was in negative territory, but not to increase it into positive
+territory.
+
+The complication is that VVLOP is a "parameter" which is implied to be a
+number.  As a pure mathematical quantity, it can be seen as a sum of an
+arbitrary set of +1's and -1's, and in fact, there is no reasonable reason not
+to allow this abstraction, we are encouraged by the Rules to use mathematical
+abstractions by R754(3), and in fact by defining VVLOP as a "parameter" and
+not an asset, the legislative intent is biased towards such mathematical
+abstractions. In this context, it is quite possible to remove ("decrease") a
+certain number of -1's from the equation, if such a thing is done by a
+mechanism specifically allowed by the Rules, such as in 2126(c). If VVLOP were
+defined as a type of asset, this would not be possible.  But as a parameter,
+it may even be considered the sum of a set, so it is possible.
+
+Let me state for possible appeals this is a judge's reasonable interpretation
+where the rules are unclear, and so hopefully should be sustainable even if an
+argument can be constructed for the other position.
+
+root wrote:
+> Oh, and I have one other gratuitous argument that I neglected to
+> include when I initiated the case.  Rule 2134/1, which empowers the
+> win, does not refer to VVLOP but rather to "voting limit on ordinary
+> proposals".  Since there are three different kinds of "voting limit on
+> ordinary proposals" (VVLOP, EVLOP, BVLOP), it is not clear which of
+> those (or, perhaps, the sum of all three) is to be used in determining
+> the win.
+
+R683 states:
+      Among the otherwise-valid votes on an Agoran decision, only the
+      first N submitted by each entity are valid, where N is the
+      entity's voting limit on that decision.
+which means that R2134 "voting limit" refers to the EVLOP, not the VVLOP.
+At the time of this CFJ, EVLOP of the AFO is not such that it allows a
+win, so the result is FALSE.  Note that since the message in question
+will "lead to" a win when EVLOP is set to VVLOP, the same CFJ statement
+called after the week ends at the end of December 2, 2007 will yield
+TRUE (unless the VVLOP in question changes in the meantime).
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I'll add in passing that if VVLOP was even defined as a "number" or "integer"
+or something, I'd forbid the action.  But defining it as a "parameter", where
+"parameter" is not rules-defined and very broad in its common and mathematical
+definitions, opens the door to all sorts of mathematical and semantic
+abstractions (e.g. sets) being performed on it, only limited by the context of
+the mechanisms allowing the changes.
+
+========================================================================

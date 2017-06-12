@@ -1,0 +1,180 @@
+==============================  CFJ 1436  ==============================
+
+    The Grand Warden of the Oligarchy is not empowered to remove from
+    the Oligarchy a player who is not ineligible to be an Oligarch.
+
+========================================================================
+
+Caller:                                 Steve
+Barred:                                 RedKnight
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Steve:                        11 Feb 2003 02:07:32 GMT
+Assigned to G.:                         14 Feb 2003 04:11:13 GMT
+Judged TRUE by G.:                      20 Feb 2003 21:02:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The Rules are quite specific about how an Oligarch is removed from the
+Oligarchy. The procedure is defined in R1963:
+
+      (a) A Player is ineligible to be an Oligarch if and only if any
+          of the following are true:
+
+          (1) e is not active;
+          (2) e has three or more Blots;
+          (3) e is the Speaker;
+          (4) e is the Electee to the Office of Speaker-Elect; or
+          (5) e is the Grand Warden of the Oligarchy.
+
+      (b) If an Oligarch becomes ineligible to be an Oligarch, the
+          GWotO shall remove that Player from the Oligarchy as soon as
+          possible.  The GWoTO removes a Player from the Oligarchy by
+          correctly announcing that at least one of the above
+          conditions is true for that Player.  The named Player ceases
+          to be an Oligarch as of the GWoTO's announcement.
+
+Note, "[t]he GWoTO removes a Player from the Oligarchy by correctly
+announcing that at least one of the above conditions is true for that
+Player." The conditions are the conditions for ineligibility. But if a
+player is not ineligible to be an Oligarch, ie if none of the five
+conditions apply to em, then the GWotO cannot correctly announce that
+one of five conditions applies to em. Therefore the GWotO cannot remove
+em under the provisions of R1963(b). No other procedure for removal of
+an Oligarch is defined by the Rules. I argue that it follows that the
+GWotO is not empowered to remove an eligible player from the Oligarchy.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First of all, the simple part.  I find it to be true, by virtue
+of the Caller's arguments, that the GWotO can't remove
+a Player from the oligarchy if they are not ineligible to be an
+Oligarch.  The only mechanism for removal is in Rule 1963 and
+removal requires a truthful announcement of ineligibility.
+
+But the tricky part is determining if this inability constitutes
+lack of 'empowerment'.
+
+At issue is the extremely powerful Rule 2039/0 (Power=3):
+      Other Rules to the contrary notwithstanding, the failure to
+      perform an action required by the Rules, where the person
+      required to act was not empowered to do so, shall never
+      constitute the commission of a Crime or Infraction.
+
+'Empowered' is an extremely difficult word to interpret in
+the Ruleset and is not directly defined.  The trouble can be seen
+by examining the following two assertations:
+
+Assertation 1:  The GWotO is empowered to remove ineligble
+Players from the Oligarcy.  Due to the game state, Redknight is not
+ineligible, so the GWotO can't remove em.  Therefore the GWotO is
+not currently empowered to remove Redknight, even if another Rule
+threatens penalty if e doesn't.  R2039 protect the GWotO.
+
+Assertation 2:  I am empowered to transfer currency to pay debt X.
+Due to the game state, I do not possess the required currency,
+therefor I can't pay debt X.  Therefore I am not currently empowered
+to pay debt X, even if another Rule threatens penalty if I don't.
+R2039 protects me.
+
+The trouble is, as evidenced by discussion, some legislators believe
+that Assertation #1 is true while Assertation #2 is false, at that
+somehow there is a reasonable "line" between #1 and #2 that makes #1 true
+and #2 false.  Some legislators, however, believe that both are true.
+[The 'intent' of R2039 won't help us, as the intent of the drafter
+ of the legislation may not be the intent of the legislative body that
+ voted for it].
+
+So can we find a principle to draw the line?
+
+'Empowerment' occurs in a very small number of places in the Ruleset.
+Perhaps it is empowerment only when the Rules say 'empowerment' for
+a very specific act.  Then Rule 2039 is extremely limited indeed,
+as it covers only the ability of an officer to determine budgets
+[R1957] and the ability of the Treasuror to transfer Bank currency
+[R1470].
+
+R1841 on Power of Attorney mentions empowerment but in an unhelpful
+circular way:  If A has PoA over B, A is empowered to do whatever B
+is empowered to do.
+
+The closest thing to a definition of empowerment is found in Rule1478
+(Executors and limited Executors), in part:
+
+      (a) An Executor of an entity is a Player who is empowered by the
+          Rules to act on behalf of that entity, who is called the
+          Executee. There may be more than one such Player. An
+          Executor of an Executee may perform on behalf of the
+          Executee all such actions as the Rules permit the Executee
+          to perform.
+
+      (b) A Limited Executor of an entity is a Player who is empowered
+          by the Rules to perform on behalf of that entity a subset of
+          the actions which the Rules permit the entity to perform. A
+          Limited Executor is permitted to perform on behalf of an
+          Executee only such actions as are explicitly permitted by
+          the Rules.
+
+      (c) A Player is always eir own Executor. Other entities have
+          Executors (or Limited Executors) only as and when the Rules
+          provide.
+
+(a) and (b) imply that an a Player is "empowered" to perform an action
+if the Rules explicitly name the Player to be the executor or the
+entity (or by (b), limited executor w.r.t. the action), and if the
+entity may perform the action.
+
+And this empowerment extends to "all such actions that the Rules permit
+the executee to perform".  (c) says that a Player is always eir own
+executor.
+
+Now the Rules don't state that "the GWotO is limited executor of
+the Oligarchy for the purposes of removing ineligible players" but the
+Rules don't generally make a distinction in permissions between an
+Office and the holder of that office.  Therefore, as the holder of the
+GWotO is eir own executor, e is empowered to perform whatever actions
+the Rules permit the GWotO.
+
+So the Rules do not permit em to remove not ineligible players from
+the Oligarchy.  However, these Rules permissions are still caught up with
+the game state.  Knowledge of the 'game state' outside the rules (but
+implied by the text of the Rules) is required to determine if a player
+is ineligible or not.  The GWotO is empowered to remove IF a player is
+ineligible.  (note: this is not direct, but implied by the requirement
+of posting the conditions of ineligibility).
+
+Similarly, a Player is empowered to pay eir debts IF e has the funds.
+But e is not able to pay if e has not the funds (again, not direct, but
+based on the assumption of funds as 'positive possessions).
+
+Do certain types of knowledge about the game state (ineligibility/
+eligibility) turn off empowerment, while others (lack of funds for
+debts) leave empowerment on?  This judge can find no basis for such
+a distiction.
+
+It is possible to argue that Rule 2039 protections don't apply when
+players are not "required to act."  In other words, if the Rules
+say "the GWotO shall X..." it's a requirement to act, but if the
+Rules state "a Player may X, and if e doesn't X e gets an
+infraction" is not a requirement but a choice.  This judge does
+not find that this distinction exists, either.  The Rules do not
+distinguish between breaking a "shall" clause or breaking a
+"may..or else" clause in that both are mapped to the same mechanisms
+for punishment.
+
+Therefore, this judge judges TRUE.
+
+But e notes that this breaks debts at least, if not a number of
+other intentions of the ruleset to apply punishment for inaction.
+
+========================================================================

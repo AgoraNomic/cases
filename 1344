@@ -1,0 +1,139 @@
+==============================  CFJ 1344  ==============================
+
+    Proposal 4243 was adopted.
+
+========================================================================
+
+Caller:                                 root
+Barred:                                 Murphy
+Barred:                                 Sir Toby
+Barred:                                 Crito
+
+Judge:                                  Steve
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         11 Feb 2002 22:08:39 GMT
+Assigned to Steve:                      14 Feb 2002 17:21:45 GMT
+Judged FALSE by Steve:                  14 Feb 2002 23:37:30 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+At 04:21 PM 2/11/02, Goethe wrote:
+>> Rule 955, in part:
+>>
+>>      If the Voting Index is greater than the Adoption Index for the
+>>      Proposal, or if both equal Unanimity, and there were at
+>>      least three votes in favor of the Proposal, then that Proposal
+>>      is adopted.  Otherwise, it fails.
+>
+>Denied.  I read this sentence about 55 times before noticing why, every
+>time, I read it naturally with the last two conditional clauses together.
+>The English construction spells it out.  Notice where the "if's"  occur
+>that match up with the final "then."  There are two Ifs, not three.  This
+>clearly maps out a precedence of:
+>
+>        If (A) or If (B and C) then X.
+>
+>and not
+>
+>        If (A) or If (B) and If (C) then X.
+>
+>and not the gramatically incorrect:
+>
+>        If (A or If B) and C then X.
+
+========================================================================
+
+Judge Steve's Arguments:
+
+Proposal 4243 was an Ordinary Proposal. Two Oligarchs voted FOR it and
+one abstained [1]. The question to be decided is whether the provisions
+of Rule 955 prevent the Proposal from being adopted in these
+circumstances.
+
+I confess I am not an expert on grammar: the technical arguments
+advanced by harvel and Goethe concerning reiterated conditionals, the
+placement of commas, etc. are over my head. I can rely only my own
+commonsense and feel for the language.
+
+It's my view that grammar alone in insufficient to resolve the question
+of how Rule 955 is to be interpreted.  It seems to me that the second
+paragraph of Rule 955 is just ambiguous. Goethe proposes that we read
+it as follows:
+
+  (1) If (VI > AI) or if (VI = AI = Unanimity and there were at least
+          3 votes FOR) then the Proposal is adopted.
+
+harvel proposes this reading:
+
+  (2) If ((VI > AI) or (VI = AI = Unanimity)) and there were at least
+          3 votes FOR, then the Proposal is adopted.
+
+Thus, on Goethe's reading, the '3 votes FOR' condition applies only
+in those very rare (historically, perhaps even non-existent) cases
+where the Adoption and Voting Indices of a Proposal are both equal to
+Unanimity. Since P4243 is not one of these cases, the Proposal would
+have passed, despite having only 2 votes FOR. On harvel's reading,
+however, the '3 votes FOR' condition would apply to all Proposals,
+and so P4243 would have failed.
+
+Two considerations tell in favour of harvel's reading. Firstly there
+is the amendment history of Rule 955. Prior to the adoption of
+Proposal 3721 on April 16, 1998, the second paragraph of Rule 955
+read as follows:
+
+      If the Voting Index is greater than the Adoption Index for the
+      given Proposal, or if both equal Unanimity, then that Proposal
+      is adopted.  Otherwise, it fails.
+
+As can be seen from the comments accompanying Proposal 3721 [2], the
+insertion into Rule 955 of the provision requiring at least 3 votes
+FOR was made in order to encourage the expenditure of Voting Tokens on
+casting votes on Proposals. (At the time, many Proposals were passing
+with only one vote cast FOR, Quorum being met by declarations of
+Presence, which were free of charge.) The clear intent of P3721 was
+that this requirement should apply to all Proposals, not just those
+where the Adoption and Voting Indices were both equal to Unanimity, a
+situation, as noted above, which in practice never or almost never
+arises.
+
+Of course, there is a long tradition in Agora that intent does not
+determine how a Rule is to be interpreted. In cases where Rules have
+clearly and unambiguously had effects contrary to the intent of those
+who wrote them, Agoran Judges have repeatedly affirmed their commitment
+to the text as it is, not the text as it was intended to be.  But in
+a case like this, where a Rule is ambiguous, I can see no harm, and
+some good, in inquiring into historical and contextual factors which
+may help make one of the proposed readings seem more natural and
+appropriate than the other.
+
+A second consideration that tells even more strongly in favour of
+harvel's reading of the Rule is the existence of a precedent very
+similar to the current case. Proposal 4067, like Proposal 4243, was an
+Ordinary Proposal. Two Oligarchs voted FOR it, and two abstained. [3]
+The Assessor held that R955 applied to the Proposal, which therefore
+failed. This determination was not challenged; the same considerations
+apply here.
+
+I therefore Judge that the Statement is FALSE.
+
+========================================================================
+
+Judge Steve's Evidence:
+
+[1] Assessor's Report of results for Proposals 4243-4245
+    http://www.escribe.com/games/agora-official/m2145.html
+
+[2] Proposal 3721
+    http://www.escribe.com/games/agora-discussion/m13379.html
+
+[3] Assessor's Report of results for Proposal 4067-4071
+    http://www.escribe.com/games/agora-official/m516.html
+
+========================================================================

@@ -1,0 +1,187 @@
+======================================================================
+                               CFJ 884
+
+"The effects of Proposal 2741 included amending Rule 1339."
+
+======================================================================
+
+Judge:       Oerjan
+
+Judgement:   TRUE
+
+Eligible:    Andre, Blob, Chuck, Coren, elJefe, favor, KoJen, Michael,
+             Murphy, Oerjan, Steve, Swann, Vanyel
+
+Not eligible:
+Caller:      Zefram
+Barred:      Morendil
+On hold:     -
+
+======================================================================
+
+History:
+  Called by Zefram, Sat, 9 Nov 1996 19:06:53 +0000 (GMT)
+  Assigned to Oerjan, Tue, 19 Nov 1996 11:04:31 +0000
+  Judged TRUE by Oerjan, Tue, 19 Nov 1996 20:06:09 +0100 (MET)
+  Judgement published, Wed, 20 Nov 1996 11:35:36 +0000
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+Central to this CFJ is the question of what it means for a conditional
+Rule Change to take effect. There are two different interpretations:
+
+1) A conditional Rule Change takes effect if the condition is
+satisfied, and the antecedent is applied. (Some actual effect is
+observed.)
+
+2) A conditional Rule Change takes effect if either the condition is
+not satisfied (so that there are no requirements imposed at all) or
+the antecedent is applied. (The conditional statement as a whole is
+satisfied.)
+
+Under interpretation 1, the Rule Change referred to in the CFJ cannot
+possibly take effect unless the AI=3, so by 594 that is the AI of the
+Proposal.
+
+Under interpretation 2, more questions appear. Namely, (a) is the AI
+of a Proposal decided at the time of distribution, or (b) is it only
+decided after the end of the Voting Period?
+
+2a implies that it is sufficient that _some_ Voting Result would allow
+the Rule Change to take effect. But with a Vote of 0 FOR, say, the
+condition is never satisfied and so the conditional statement is
+vacuously satisfied. Therefore, in this case AI=1.
+
+2b implies that the Voting Result determines the AI: If the Voting
+Index is <= 3, the AI is 1, if the VI is >3, the AI is 3. This is
+obviously what the Proposer intended.
+
+However, I feel that interpretation (2) is contrary to a common sense
+interpretation of the word "effect". I therefore support
+interpretation 1, giving an AI of 3 and making the Judgement TRUE.
+
+Note that this, while supporting the Statement, destroys the
+application intended in the Proposal, as it would have an AI=3 even
+with a lower Voting Index.
+
+Greetings,
+Oerjan.
+
+======================================================================
+
+Evidence:
+
+On Thu, 7 Nov 1996, Laurent Bossavit wrote:
+
+> Date: Thu, 7 Nov 1996 21:37:07 +0100
+> From: Laurent Bossavit <morendil@micronet.fr>
+> Reply-To: nomic-discussion@teleport.com
+> To: nomic-official@teleport.com
+> Subject: OFF: Assessor's Report: 2734-2744
+>
+> Assessor's Report on Proposals 2734-2744: 7 Nov 1996
+>
+>
+> ============================================================================
+> Voting Periods for 2734-2744 commenced at: Sat, 26 Nov 1996 16:57:30
+> Voting Periods for 2734-2744 concluded at: Tue, 05 Nov 1996 16:57:30
+>
+> At the commencement of the Voting Periods for Proposals 2734-2744
+> there were 15 Registered Players: 15 Active, 0 On Hold. Therefore
+> the quorum for these Proposals is 8 (Rule 879/3).
+>
+>
+> ============================================================================
+>
+>   Num.  Proposer   AI Title                                RESULT
+>
+> D 2734  Zefram     1  Rename the Powers                    FAILS 2-4 (2)
+> S 2735  favor      2  Repeal Rule 1640                     PASSES 7-0 (1)
+>   2736  Oerjan     1  Expansion of the Limbo concept       PASSES 5-2 (1)
+>   2737  Swann      1  The Frankenstein Monster v3.1        PASSES 6-3 (0)
+>   2738  Swann      1  Rule Attribution v3                  PASSES 6-1 (1)
+>   2739  Swann      1  Fix the Distributor v2               PASSES 5-0 (3)
+> D 2740  Andre      1  More logic in Shogun-title           PASSES 7-0 (1)
+>   2741  Zefram     1  Clean up the Logical Ruleset         PASSES 5-1 (2)
+>   2742  Swann      1  A D.N.Hist for Swann                 PASSES 6-2 (0)
+> D 2743  Zefram     3  Strengthen 114                       FAILS QUORUM
+> D 2744  Andre      1  More Acceptance of Silliness         FAILS QUORUM
+>
+>
+> ===========================================================================
+>
+>                2  2  2  2  2  2  2  2  2  2  2
+>                7  7  7  7  7  7  7  7  7  7  7
+>                3  3  3  3  3  3  4  4  4  4  4
+>                4  5  6  7  8  9  0  1  2  3  4
+>
+> Andre          A  -  F  A  F  F  F  -  A  F  F
+> Michael        -  F  F  F  F  -  F  F  F  F  A
+> Morendil       -  F  A  F  F  -  F  F  F  A  A
+> Oerjan         F  F  F  F  -  F  F  F  F  F  -
+> Scott          A  F  -  A  A  F  -  A  A
+> Steve          A  F  F  F  F  -  F  F  F  F  F
+> Swann          A  F  A 2F  F  F  F  - 3F  A  -
+> Zefram         F  F  F  A  F  F  F  F  F  F  A
+>
+> F-A           -2 +7 +3 +3 +5 +5 +7 +4 +4 +3 -1
+>
+> FOR            2  7  5  6  6  5  7  5  6  5  2
+> AGAINST        4  0  2  3  1  0  0  1  2  2  3
+> ABSTAIN        2  1  1  0  1  3  1  2  0  0  2
+>
+> A.I.           1  2  1  1  1  1  1  1  1  3  1
+> PASSES?        N  Y  Y  Y  Y  Y  Y  Y  Y  N  N
+
+[snip]
+
+> =====================================================================
+> Proposal 2741 by Zefram:
+> Clean up the Logical Ruleset
+
+[snip]
+
+> Be it further resolved that if this Proposal attained a Voting Index
+> greater than 3, Rule 1339 ("Rule Changes") shall be amended by deleting
+> the paragraph reading
+>
+>       Any Rule Change which creates a New Rule may specify the
+>       Category to which the New Rule will be assigned.  If the
+>       Category specified exists, the Rule shall be assigned to that
+>       Category.  If the Category specified does not exist, or no
+>       Category is specified, the Rulekeepor shall assign the Rule to
+>       an appropriate category of eir own choice.
+>
+> {Subsumed into Rule 1048 ("The Logical Ruleset").
+>
+> *v2.1* Added the messy conditional, so that the Proposal can have an AI
+> of 1 but still amend 1339 if it gets a sufficiently high VI.  The Rules
+> currently don't handle this sort of thing brilliantly, but it's legal.
+> Also listed the full paragraph to be deleted, for additional clarity.}
+
+===
+
+Rule 594/2 (Mutable, MI=1)
+Proposals and Rule Changes
+
+      A Proposal may contain one or more Rule Changes.  If a Proposal
+      containing Rule Changes is adopted, the Rule Changes contained
+      in the Proposal shall take effect in the order they appear in
+      the Proposal.
+
+      Unless another Rule states otherwise, the Adoption Index of a
+      Proposal shall be the minimum Adoption Index which would allow
+      all Rule Changes and Directives within the Proposal to take
+      effect, or 1, whichever is greater.
+
+      In no case may a Proposal have an Adoption Index of less than 1.
+
+======================================================================
+
+(Caller's) Arguments: (none)
+
+======================================================================

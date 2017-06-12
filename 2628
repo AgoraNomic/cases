@@ -1,0 +1,62 @@
+==============================  CFJ 2628  ==============================
+
+    My judicial rank is 4.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      07 Jul 2009 01:22:41 GMT
+Assigned to woggle:                     10 Jul 2009 05:58:19 GMT
+Judged FALSE by woggle:                 10 Jul 2009 08:05:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I flip my judicial rank to 4. There is a CFJ with II 4, therefore 4 is a
+possible interest index.
+
+I flip my judicial rank to 42. If Rule 2225 can still increase the II of
+a case beyond 3 after Murphy's proposal re definitions was adopted, then
+this is a theoretically possible value of II, therefore I should be able
+to select it as my judicial rank.
+
+Alternatively, the definition of judicial rank only considers the
+definition of II in Rule 2153, so my rank remains at 3.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge both of these FALSE. Though we may decide to make exceptions to
+the II range when ordinary tracked IIs would come to have an
+"impossible" II value, judicial rank is defined as a switch for which no
+such discretion exists; the rules define the procedure for us:
+
+Rule 2162/1 (Power=2)
+Switches
+[...]
+      b) One or more possible values for instances of that switch,
+         exactly one of which is designated as the default.  No other
+         values are possible for instances of that switch.
+[...]
+      If an instance of a switch would otherwise fail to have a
+      possible value, it comes to have its default value.
+[...]
+
+R2226's "with the same range and default as interest indices" is clearly
+a reference to R2153's definition, meaning that the possible values for
+the judicial rank switch are 0, 1, 2, and 3 and the default value is 1.
+
+Thus, plainly if coppro's judicial rank would have become 4 or 42 by the
+mechanism of R2226, it instead became 1 per R2162.
+
+========================================================================

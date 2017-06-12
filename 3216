@@ -1,0 +1,120 @@
+==============================  CFJ 3216  ==============================
+
+    Rule 2350 contains the text "A proposal is a type of entity"
+
+========================================================================
+
+Caller:                                 FKA441344
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by FKA441344:                    27 May 2012 13:14:46 GMT
+Assigned to omd:                        03 Jun 2012 17:41:25 GMT
+Judged TRUE by omd:                     18 Jun 2012 22:24:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Proposal 7216 purportedly added the second text and removed
+the first, but this leaves no way to add proposals to the Pool, which
+would make Agora ossified, so Rule 1698 (Agora Is A Nomic) should have
+cancelled it. However, the next published Full Logical Ruleset gives a
+version of Rule 2350 that contains both.
+
+========================================================================
+
+Caller's Evidence:
+
+ Short Logical Ruleset, May 3:
+ {
+  Rule 2350/1 (Power=3)
+  Proposals
+
+     A proposal is a fixed body of text which has been made into a
+     proposal using a process specifically described in the Rules.
+
+     A player CAN create a proposal by publishing ("submitting") a
+     body of text and an associated title with a clear indication
+     that it is intended to become a proposal, which places the
+     proposal in the Proposal Pool.  The author (syn. proposer) of a
+     proposal is the player who submitted it.  A player CAN remove
+     (syn. retract, withdraw) a proposal e authored from the Proposal
+     Pool by announcement.
+
+     A co-author of a proposal is a person (other than its author)
+     unambiguously identified as such by its author when it was
+     submitted.
+ }
+ Full Logical Ruleset, May 5:
+ {
+  Rule 2350/2 (Power=3)
+  Proposals
+
+     A proposal is a type of entity consisting of a body of text.  A
+     player CAN create a proposal by announcement, specifying its
+     text and optionally specifying the following attributes:
+
+     * An associated title.
+     * A list of co-authors (which must be persons other than the
+       author).
+     * An adoption index and Chamber.
+
+     Once a proposal is created, none of its attributes can be
+     changed.  The author (syn. proposer) of a proposal is the person
+     who submitted it.
+
+     A proposal is a fixed body of text which has been made into a
+     proposal using a process specifically described in the Rules.
+
+     A player CAN create a proposal by publishing ("submitting") a
+     body of text and an associated title with a clear indication
+     that it is intended to become a proposal, which places the
+     proposal in the Proposal Pool.  The author (syn. proposer) of a
+     proposal is the player who submitted it.  A player CAN remove
+     (syn. retract, withdraw) a proposal e authored from the Proposal
+     Pool by announcement.
+
+     A co-author of a proposal is a person (other than its author)
+     unambiguously identified as such by its author when it was
+     submitted.
+
+  History:
+  Created by Proposal 7083 (Walker), 4 July 2011
+  Amended(1) by Proposal 7086 (G., omd), 23 July 2011
+  Amended(2) by Proposal 7216 (omd), 4 May 2012
+ }
+ Short Logical Ruleset, May 10:
+ {
+  Rule 2350/2 (Power=3)
+  Proposals
+
+     A proposal is a type of entity consisting of a body of text.  A
+     player CAN create a proposal by announcement, specifying its
+     text and optionally specifying the following attributes:
+
+     * An associated title.
+     * A list of co-authors (which must be persons other than the
+       author).
+     * An adoption index and Chamber.
+
+     Once a proposal is created, none of its attributes can be
+     changed.  The author (syn. proposer) of a proposal is the person
+     who submitted it.
+ }
+
+========================================================================
+
+Judge omd's Arguments:
+
+I belatedly judge CFJs 3215-16 TRUE, because as I mentioned shortly
+after they were called, there are more unusual ways to introduce
+proposal or cause rule changes that would prevent Agora from being
+ossified in any case.
+
+========================================================================

@@ -1,0 +1,124 @@
+==============================  CFJ 1246  ==============================
+
+    Peekee has paid a Fee of 10 Stems since the 15th of September this
+    year.
+
+========================================================================
+
+Caller:                                 Peekee
+Barred:                                 Crito
+
+Judge:                                  t
+Judgement:                              
+
+
+Judge:                                  pTang
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Peekee:                       19 Sep 2000 00:00:00 GMT
+Assigned to t:                          27 Sep 2000 00:00:00 GMT
+t recused:                              28 Sep 2000 00:00:00 GMT
+Assigned to pTang:                      28 Sep 2000 16:06:45 GMT
+Judged FALSE by pTang:                  28 Sep 2000 19:36:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+[date approximate]
+
+The message sent clearly transfers 10 Stems for the purpose of Paying a Fee
+of that amount.
+
+Now,from Rule 1941 "Fees", "To Pay a Fee is to transfer the specified
+quantity of that particular Currency to the Bank if and only if that
+transfer is made solely for the purpose of Paying that particular instance
+of that Fee."
+
+Regardless of if the Fee existed at this point the Transfer would succeed if
+the Fee did exist.
+
+However since that time there has been reason for such a Fee to exist
+(either from the beginning of this message or from the quoted message) and
+even if the Transfer failed to Pay it when the Transfer was made I see no
+reason that it should not pay the Fee when the Fee does come into existence.
+
+If the Fee did not come into existence the question has to be asked when
+ever do the Fees come into existence.  Most messages to Pay Fee are of the
+for "I Transfer XXX to do YYY."  Though this is a lot more compact than what
+I did, I do not see as it is any different.  A Transfer is made and then (if
+in the same sentence) a demand/wish is given.
+
+========================================================================
+
+Caller's Evidence:
+
+>>
+*       From: Alan Riddell
+*       Date: Sat, 16 Sep 2000 14:44:17
+
+------------------------------------------------------------------------
+
+<snip>
+***
+I hereby transfer 10 Stems to the Bank for the purpose of Paying a Fee of 10
+Stems.
+***
+
+<snip>
+***
+I would like to inform the relevant Offices that I wish to obtain 10 IATs.
+***
+<snip>
+
+<<
+
+========================================================================
+
+Judge pTang's Arguments:
+
+The only Fee Peekee could possibly have Paid is the one
+defined in Rule 1912.
+
+Rule 1912 specifies a Fee of "an equal number of Stems"
+[equal to the number of ABCs the player wishes to obtain]
+
+By R1941, Peekee Paid that Fee iff all of the following are true:
+
+1) Peekee stated publicly a number of some ABC e wished to obtain
+2) Peekee transferred a equal number of Stems to the bank
+3) The transfer was made solely for the purpose of Paying an
+instance of the Fee defined in Rule 1912
+
+Conditions #1 and #2 are true.
+
+However, we have a sticking point on condition 3.
+
+Was the purpose of the transfer solely for the purpose of Paying
+an instance of the Fee defined in Rule 1912?
+
+This hinges on the ill-defined term "instance of a Fee."
+
+I find that the Rules do not speak adequately to this
+point, and will therefore use custom, commonsense etc.
+to guide my ruling.
+
+Commonsense and the best interests of the game dictate
+that Paying a Fee is an action that links a single payment
+to a single effect.  The single effect is enabled by the
+payment.
+
+My fully expanded interpretation of Condition #3 is therefore:
+
+3) The transfer was made solely for the purpose of enabling
+some single effect that the Rules specify is conditional upon
+transferring some amount of Currency to the Bank.
+
+This was NOT the sole purpose of the transfer, therefore
+Peekee did not Pay a Fee.
+
+========================================================================

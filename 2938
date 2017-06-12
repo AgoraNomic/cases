@@ -1,0 +1,78 @@
+==============================  CFJ 2938  ==============================
+
+    If A single appeal case (submitted to the CotC) had been assigned a
+    panel of three players, none of whom is or was the Justiciar; and
+    each of them opined for a different judgment within the time limit;
+    and did not subsequently change their judgments; and the Justiciar
+    had within the time limit published three Justiciar's Opinions on
+    that case, each indicating one of judgments opined by a panelist;
+    and the Justiciar published no other Justiciar's Opinions on that
+    case; and the identity of the Justiciar remained unchanged
+    throughout the entire hypothetical time period described in this
+    CFJ; then more than four days after the time limit, it would be
+    POSSIBLE for the Clerk of the Courts to act for the panel and
+    deliver a judgment.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      20 Dec 2010 04:06:48 GMT
+Assigned to G.:                         20 Dec 2010 07:15:22 GMT
+Judged TRUE by G.:                      20 Dec 2010 07:58:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First, this is not overly hypothecial in my opinion. I was about to
+publish multiple Justiciar's Opinions on omd's recent appeal of my
+criminal case against em before I noticed the bug and subsequently
+decided to call a CFJ. A substantially similar one could easily be
+created by a Justiciar in the normal course of things.
+
+Now, an explanation of the issue at hand - most of the CFJ is setting up
+the hypothetical and also wording it properly as a tortoise. The real
+crux of the issue is this, from Rule 911:
+
+       - if the Justiciar has published an opinion on the case
+         clearly marked as the Justiciar's Opinion and indicating a
+         valid judgement, and that judgement is the same as one given
+         by at least one panel member (other than the Justiciar), then
+         the panel delivers that judgement;
+
+The problem is that there is no exclusion against two or more unique
+Jusiciar's opinions. If multiple Justiciar's Opinions exist and they
+both are judgments given by other panelists, then this rule appears to
+click in for both of them. What's more, there is nowhere in the rules a
+clause causing this ambiguity to resolve in favor of no judgment - what
+is occurring here is a single clause is contradicting itself.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+"an opinion" can be reasonably interpreted as "exactly one
+opinion", leading to a straightforward judgement of TRUE.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+I find that marking a message as "the Justiciar's Opinion" as required
+for the rule overrides and replaces any previous Justiciar's Opinion
+on the case, provided the previous opinion wasn't already used to
+assign the judgement.  This natural replacing of "the" opinion functions
+in the same natural way as consent (if you cease to consent, you withdraw
+previous consent rather than existing in both states), or support
+and objections (not necessarily in terms of the official dependent
+mechanism, but in the natural sense of withdrawing support/objections).
+
+========================================================================

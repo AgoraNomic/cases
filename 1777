@@ -1,0 +1,141 @@
+==============================  CFJ 1777  ==============================
+
+    Partnership 1's Contest allowed any first-class player to become a
+    party
+
+========================================================================
+
+Caller:                                 Zefram
+Barred:                                 omd
+
+Judge:                                  Taral
+Judgement:                              FALSE
+
+Appeal:                                 1777a
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Called by Zefram:                       04 Nov 2007 15:52:50 GMT
+Assigned to Taral:                      04 Nov 2007 21:50:44 GMT
+Judged FALSE by Taral:                  11 Nov 2007 20:05:42 GMT
+Appealed by omd:                        11 Nov 2007 22:12:31 GMT
+Appealed by Murphy:                     11 Nov 2007 22:24:28 GMT
+Appealed by Levi:                       11 Nov 2007 22:45:53 GMT
+Appeal 1777a:                           12 Nov 2007 00:25:51 GMT
+AFFIRMED on Appeal:                     18 Nov 2007 02:25:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Partnership 1's Contest was announced in a message sent with a Date:
+timestamp of 28 Oct 2007 17:40:55.  Specifically, in that message
+Partnership 1 announced agreement to be bound by the contract, thus
+implicitly inviting players to become parties to it.  The contract
+was then formed when the AFO joined it.  However, in the same message
+in which the AFO joined the contract, Partnership 1 dissolved it.
+That message was sent with a Date: timestamp of 28 Oct 2007 17:41:02.
+
+I question whether this seven-second gap is in fact allowing any
+first-class player to become a party.  It appears to in practice exclude
+any player who was not aware in advance of what contract would be offered
+and when these messages would be posted.
+
+In fact, the timing is possibly even narrower than the authorship
+timestamps indicate.  The two messages were logged arriving at
+yzma.clarkk.net at 17:41:10 and 17:41:11.  This is arguably the time
+at which the messages were "received in the Public Forum" as CFJ 1112
+requires.  Other timestamps along the route from comex to the PF give
+varying gaps, the largest of 12 s.  If seems pretty clear that the second
+message was already in transit by the time the first one was distributed
+by the listserver, thus giving an unforewarned player no chance at all,
+no matter how fast eir reactions and typing, to join the contract before
+it was dissolved.
+
+========================================================================
+
+Caller's Evidence:
+
+Selected headers from message announcing Partnership 1's Contest:
+
+|Received: from yzma.clarkk.net (localhost [127.0.0.1])
+|        by yzma.clarkk.net (Postfix) with ESMTP
+|        id 3269A80723; Sun, 28 Oct 2007 11:41:11 -0600 (CST)
+|Delivered-To: agora-business@yzma.clarkk.net
+|Received: from kyoto.hostforweb.net (kyoto.hostforweb.net [205.234.253.9])
+|        by yzma.clarkk.net (Postfix) with ESMTP id 4CBDF8071F
+|        for <agora-business@agoranomic.org>; Sun, 28 Oct 2007 11:41:00 -0600
+(CST)
+|Received: from [69.124.51.62] (port=60246 helo=xemoc.no-ip.org)
+|        by kyoto.hostforweb.net with esmtpsa (TLSv1:AES128-SHA:128)
+|        (Exim 4.68)
+|        (envelope-from <comexk@gmail.com>)
+|        id 1ImC8F-0001ko-QS
+|        for agora-business@agoranomic.org; Sun, 28 Oct 2007 12:41:05 -0500
+|Received: by xemoc.no-ip.org (sSMTP sendmail emulation); Sun, 28 Oct 2007
+13:40:56 -0400
+|Subject: BUS: The first half
+|Date: Sun, 28 Oct 2007 13:40:55 -0400
+
+Selected headers from message dissolving Partnership 1's Contest:
+
+|Received: from yzma.clarkk.net (localhost [127.0.0.1])
+|        by yzma.clarkk.net (Postfix) with ESMTP
+|        id 8B8F88073E; Sun, 28 Oct 2007 11:42:05 -0600 (CST)
+|Delivered-To: agora-business@yzma.clarkk.net
+|Received: from kyoto.hostforweb.net (kyoto.hostforweb.net [205.234.253.9])
+|        by yzma.clarkk.net (Postfix) with ESMTP id AAA668073E
+|        for <agora-business@agoranomic.org>; Sun, 28 Oct 2007 11:41:11 -0600
+(CST)
+|Received: from [69.124.51.62] (port=60253 helo=xemoc.no-ip.org)
+|        by kyoto.hostforweb.net with esmtpsa (TLSv1:AES128-SHA:128)
+|        (Exim 4.68)
+|        (envelope-from <comexk@gmail.com>)
+|        id 1ImC8S-0001wC-ET
+|        for agora-business@agoranomic.org; Sun, 28 Oct 2007 12:41:17 -0500
+|Received: by xemoc.no-ip.org (sSMTP sendmail emulation); Sun, 28 Oct 2007
+13:41:06 -0400
+|Subject: BUS: The second half
+|Date: Sun, 28 Oct 2007 13:41:02 -0400
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Upon careful examination of the rules, I find only two interpretations
+of the Rules plausible:
+
+1. Contests are contracts and therefore require 2 parties to exist, or
+2. Contests are not binding.
+
+The crux of the question is whether R2136 contests are also R1742
+contracts. Based upon the form (parties and change of parties) and
+intent of R2136, I find that they are in fact R1742 contracts.
+
+Therefore, Partnership 1's Contest did not come into existence until
+the first contestant joined it. Since there was no time between that
+and the dissolution of the contest, this lends extra weight to the
+caller's arguments.
+
+The nature of "agreement" is somewhat nebulous -- even R1742 does not
+specifically define what constitutes an agreement. The caller argues
+that agreement is not just the text, but also the way in which the
+agreement is executed. Although this broadening is not specifically
+supported by the rules, it is also not contrary to the rules, and I
+believe it to be in the best interests of the game.
+
+Therefore I judge the statement FALSE.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend, with two supporters, to appeal this judgement, on the grounds
+that it is somewhat incoherent, barely deals with the actual situation,
+and fails to set any useful precedent whatsoever for the line between
+valid and invalid contests.
+
+========================================================================

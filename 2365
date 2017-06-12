@@ -1,0 +1,54 @@
+==============================  CFJ 2365  ==============================
+
+    Rule 2238 exists.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          03 Feb 2009 16:18:07 GMT
+Assigned to Wooble:                     10 Feb 2009 06:03:44 GMT
+Judged TRUE by Wooble:                  10 Feb 2009 17:17:03 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Tue, Feb 3, 2009 at 11:14 AM, Alex Smith <ais523@bham.ac.uk> wrote:
+> On Tue, 2009-02-03 at 11:12 -0500, comex wrote:
+>> I intend, with support, to cause Rule 1728 to amend Rule 2141 by replacing:
+> I support.
+>> I intend, with support, to cause Rule 1728 to change the power of Rule
+>> 2238 to 9001.
+> I support.
+
+With support, I cause Rule 1728 to amend Rule 2141 by replacing:
+
+      Every rule has power between one and four inclusive.  It is
+      not possible for a rule to have a power outside this range.
+
+with:
+
+      It is not possible for a rule to have a power below one.
+
+With support, I cause Rule 1728 to change the power of Rule 2238 to 9001.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+While I'm still, in my Strict Interpretation philosophy, convinced
+that the "is" in R2156 means "is" and not "starts at, subject to
+modification by spending Notes", and while language supporting the
+latter was added and subsequently removed from R2156 before the events
+in question here, I'll defer to CFJ2276(a) to avoid another appeal.  I
+judge TRUE.
+
+========================================================================

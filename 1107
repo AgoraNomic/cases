@@ -1,0 +1,49 @@
+======================================================================
+                               CFJ 1107
+
+ A Recordkeepor is not required to abide by a valid Transfer Order
+ under the condition that this transfer "would result in an entity
+ possessing a negative quantity of Currency" (R1817). However, as soon
+ as this condition ceases to be true, the Transfer Order in question
+ must be obeyed.
+
+======================================================================
+
+Judge:        Blob
+
+Judgement:
+
+Eligible:     Antimatter, Blob, Chuck, General Chaos, Harlequin,
+              Macross, Michael, Morendil, Murphy, Proglet, Steve
+
+Not eligible:
+Caller:       Kolja A.
+Barred:       Crito, Lee
+Disqualified: -
+On hold:      elJefe, Oerjan
+
+======================================================================
+
+History:
+  Called by Kolja A., Tue, 15 Sep 1998 14:17:40 +0200
+  Assigned to Blob, Wed, 16 Sep 1998 10:16:10 +0100
+
+======================================================================
+
+(Caller's) Arguments:
+
+While R1817 does not explicitly state when this condition is to be
+checked, it also says nothing about any change in a TO's status if
+this condition is true at some time or other.
+
+Therefore, as soon as the payor of the TO has sufficient funds to pay
+the TO, the situation is the same as in the standard case: there is a
+valid TO around, and there is no reason why the recordkeepor shouldn't
+be allowed and required to execute the TO.
+
+As an aside, I wonder whether there is anything that would stop a
+recordkeepor to make a transfer that leaves a player with a negative
+amount of currency? R1817 only says that in this case the recordkeepor
+is "not required to" make the transfer
+
+======================================================================

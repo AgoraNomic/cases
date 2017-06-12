@@ -1,0 +1,74 @@
+==============================  CFJ 3249  ==============================
+
+    I CAN destroy a promise with the text "CREAMPUFF!".
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by omd:                          07 Jul 2012 07:23:37 GMT
+Assigned to Murphy:                     25 Jul 2012 16:57:45 GMT
+Judged UNDECIDABLE by Murphy:           25 Jul 2012 17:24:09 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I create a promise:
+Text: { CREAMPUFF! }
+Condition for the promise not to be destroyed when cashed: This
+promise is destroyed when cashed.
+
+I cash the above promise.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Interpreting the promise's condition literally, the relevant clause in
+Rule 2338 parses as:
+
+      Cashing this promise destroys it, unless the condition "This
+      promise is destroyed when cashed." is true.
+
+If the condition is true, then the promise isn't destroyed, so the
+condition is false (contradiction).
+
+If the condition is false, then the promise is destroyed, so the
+condition is true (contradiction).
+
+If the condition is neither true nor false, then the promise is
+destroyed, so the condition is true (contradiction).
+
+In previous instances of "Condition for this promise not to be destroyed
+when cashed: This promise is not destroyed when cashed.", it was
+tempting to interpret the promise's condition figuratively, as a direct
+statement of overall outcome:  "hey, never mind exact wording; this
+describes something that can be accomplished in an obvious fashion,
+therefore it accomplishes that thing".  But this can no more bootstrap
+its own authority than "I say I do, therefore I do"; it only counts as
+obvious intent when resolving the literal interpretation (which is also
+circular but not self-contradictory):
+
+  If the condition is true, then the promise isn't destroyed, so the
+  condition is true (consistent and matching obvious intent).
+
+  If the condition is false, then the promise is destroyed, so the
+  condition is false (consistent but not matching obvious intent).
+
+  If the condition is neither true nor false, then the promise is
+  destroyed, so the condition is true (contradiction).
+
+In this instance, a similar figurative interpretation would be an even
+worse abuse of language.  The literal interpretation stands, and so the
+promise cannot be consistently interpreted as either destroyed or not
+destroyed.
+
+========================================================================

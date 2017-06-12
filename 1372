@@ -1,0 +1,191 @@
+==============================  CFJ 1372  ==============================
+
+    Craig's transfer of three HereYouGoKezomi to a bond was valid.
+
+========================================================================
+
+Caller:                                 teucer
+
+Judge:                                  Sir Toby
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by teucer:                       13 May 2002 11:16:19 GMT
+Assigned to Sir Toby:                   15 May 2002 22:11:00 GMT
+Judged TRUE by Sir Toby:                16 May 2002 16:31:01 GMT
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+Okay, for this CFJ, I focused on the validity of Craig's message
+transferring three HereYouGoKezomi to a bond, and whether or not a bond
+is an entity, and can hence receive property.
+
+For the first part, I submit as evidence Craig's report on the holdings
+of HereYouGoKezomi. I note that before the transfer to a bond, Craig
+created 9 units, transfered away 3 units, created 1 unit, and
+transferred away 1 unit before attempting to transfer 3 units to a bond.
+My calculations show that Craig owned 6 units of HereYouGoKezomi when
+attempting the transfer.
+
+When verifying the validity of the transfer against rule 1598, I account
+for the following: (a), Craig's message clearly set forth the intent to
+transfer one or more properties from one entity to another entity. The
+question of whether or not the bond mentioned is a valid entity is
+treated below.  (b(1)), all the properties being transferred were owned
+by the transferor. (b(2)), Craig was the executor of the transferror.
+(c), the recordkeepor received the message, since e also sent it.
+
+To determine if the Bond being transferred to is an entity, I look at
+Rule 1966, "Bonds are Property". I also look at Rule 1942, "A property
+is an entity which the rules permit to be possessed by another entity."
+If a Bond is Property, as specified by Rule 1966, it is also an entity,
+as specified by Rule 1942.
+
+The notice, and thus the transfer, appears valid.
+
+========================================================================
+
+Judge Sir Toby's Evidence:
+
+----------------------------------------------------------------------
+Craig's report on the holdings of HereYouGoKezomi.
+----------------------------------------------------------------------
+
+From raganok@intrex.net Thu May 16 07:20:31 2002
+Date: Wed, 8 May 2002 18:51:50 -0400
+From: Craig <raganok@intrex.net>
+Reply-To: agora-discussion@agoranomic.org
+To: agora-business@agoranomic.org
+Subject: RE: BUS: with Power comes Responsibility
+
+HOLDINGS of HereYouGoKezomi
+
+
+Entity        Previous  Change  Current
+------------  --------  ------  -------
+Craig           <n/a>     + 3        3
+
+Peter Suber     <n/a>     + 1        1
+
+Coca-Cola       <n/a>     + 2        2
+
+A Bond created  <n/a>     + 3        3
+and owned by Sir Toby, with a face value of 100 HereYouGoKezomi and a
+maturity date of 01 Jan 567890
+
+The SLR         <n/a>     + 1        1
+
+TRANSFERS of HereYouGoKezomi
+
+Date              From                 To                   Amount
+Successfull?
+----------------  ------------         ------------         ------  --------
+----
+Tue  7 May 23:08  <created>            Craig                9       yes
+Tue  7 May 23:08  Craig                Peter Suber          1       yes
+Tue  7 May 23:08  Craig                Coca-Cola            2       yes
+Wed  8 May 05:53  <created>            Craig                1       yes
+Wed  8 May 05:53  Craig                Michael's Pot-Plant  1       yes
+Wed  8 May 05:55  Craig                a Bond               3       yes
+Wed  8 May 06:26  Michael's Pot-Plant  The SLR              1       yes
+
+Because the HereYouGoKezom was created for the sheer CFJing pleasure, I am
+assuming for the time being that every transfer succeeds. This is not
+guaranteed to hold up in court.
+
+----------------------------------------------------------------------
+Craig's message detailing the transfer of 3 HereYouGoKezomi to one bond of
+species Toby001:
+----------------------------------------------------------------------
+
+From raganok@intrex.net Thu May 16 07:20:39 2002
+Date: Wed, 8 May 2002 05:53:23 -0400
+From: Craig <raganok@intrex.net>
+Reply-To: agora-discussion@agoranomic.org
+To: agora-business@agoranomic.org
+Subject: RE: DIS: RE: BUS: Currency Creation
+
+>> Fine. I hereby create a currency, the HereYouGoKezom, with myself as the
+>> Mintor and Recordkeepor. I mint the number of these that I had tried to
+mint
+>> previously, namely 9. I transfer one of these to Peter Suber, and two to
+the
+>> Coca-Cola corporation. When Sir Toby retries the bonds, one of them will
+get
+>> three. I offer three HereYouGoKezomi (which from now on is to be the only
+>> correct plural of HereYouGoKezom) to the piece of land at ( 2, -1 ) in
+>> exchange for one Vote "Sir Toby" for Speaker Elect Pamphlet.
+
+>       Well, I think it kind of loses its humor on the second go around,
+>but what the heck:
+
+>        I create 1000 bonds with a face value of 100 HereYouGoKezoms with
+>a maturity date of 01 Jan 567890. I transfer 10 stems to the bank to
+>satisfy the fee for creating those bonds.
+
+I transfer three HereYouGoKezomi to one of Sir Toby's recently created
+bonds.
+
+----------------------------------------------------------------------
+Rule 1598, in part:
+----------------------------------------------------------------------
+Rule 1598/12 (Power=1)
+Property Transfers
+
+      (a) A Notice of Transfer is a message which sets forth the
+          intent to transfer one or more Properties from one entity
+          (the "transferor") to some other entity (the "transferee").
+
+      (b) A valid Notice of Transfer must additionally:
+          (1) specify one or more Properties all of which are owned by
+              the transferor; and
+          (2) be sent by the Executor of the transferor, or by a
+              Limited Executor of the transferor with the authority to
+              execute transfers on behalf of that entity with respect
+              to all of the Properties involved.
+
+      (c) A transfer of a Property occurs only when its Recordkeepor
+          receives a valid Notice of Transfer.
+
+----------------------------------------------------------------------
+Rule 1942:
+----------------------------------------------------------------------
+
+Rule 1942/2 (Power=1)
+Property
+
+      A property is an entity which the rules permit to be possessed
+      by another entity.  The term "possess" refers to the legal
+      status of possessing a property; the terms "possessor" and
+      "owner" are synonyms, as are "possess" and "own".  Individual
+      properties may not be created or destroyed, or their ownership
+      changed, except in accordance with the rules.
+
+      Each property shall have a recordkeepor, which is a player
+      required to maintain a record of who owns that property.  The
+      Treasuror is the recordkeepor for each property that would
+      otherwise have no recordkeepor.
+
+      If one of the official duties of an officer is to be the
+      recordkeepor of a property, then eir Weekly Report shall include
+      this record and any changes thereto since the last posting of
+      eir Report.
+
+----------------------------------------------------------------------
+Rule 1966, in part:
+----------------------------------------------------------------------
+
+Rule 1966/0 (Power=1)
+Bonds
+
+      Bonds are Property.  Each Bond, in addition to being a Property,
+      has the following characteristics:
+
+----------------------------------------------------------------------
+
+========================================================================

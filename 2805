@@ -1,0 +1,133 @@
+==============================  CFJ 2805  ==============================
+
+    Tiger created a Fragment in the above-quoted message.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+Appeal:                                 2805a
+Decision:                               REMAND
+
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              
+
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       11 Jun 2010 16:21:54 GMT
+Assigned to scshunt:                    13 Jun 2010 20:37:22 GMT
+Judged TRUE by scshunt:                 13 Jun 2010 21:41:27 GMT
+Appealed by G.:                         15 Jun 2010 15:34:33 GMT
+Appealed by omd:                        15 Jun 2010 16:56:27 GMT
+Appealed by ais523:                     15 Jun 2010 17:04:51 GMT
+Appeal 2805a:                           15 Jun 2010 17:20:30 GMT
+REMANDED on Appeal:                     28 Jun 2010 19:02:40 GMT
+Assigned to scshunt:                    28 Jun 2010 19:02:40 GMT
+scshunt recused:                        14 Jul 2010 22:17:00 GMT
+Assigned to Wooble:                     14 Jul 2010 22:19:11 GMT
+Wooble recused:                         29 Jul 2010 02:13:50 GMT
+Assigned to Yally:                      29 Jul 2010 02:15:10 GMT
+Judged TRUE by Yally:                   29 Jul 2010 02:26:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It's unclear whether the alleged Fragment was delimited by
+[[[ and ]]] (which are plausible delimiters to use), or whether they are
+part of the Fragment itself (also plausible, due to the
+punctuation-heavy nature of the Fragment). Therefore, this may have
+failed due to ambiguity. (By the way, do we actually have a rule that
+allows actions to fail due to ambiguity?)
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, 2010-06-10 at 22:10 +0200, Jonatan Kilhamn wrote:
+> I create a Fragment with the following text:
+> [[[
+> @->---@
+> ]]]
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+As granulator it was pretty clear to me that the actual
+fragment was @->---@ due to line breaks and the common use of [[[]]]
+to denote framing.  -G.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Me too.  Was anyone actually confused about the intended
+content of the fragment?
+
+========================================================================
+
+Gratuitous Arguments by Tiger:
+
+If one kept track of the rest of the game at the time, I
+immediately before (or maybe after) sent a "proto of a D-proposal",
+thus intended to include fragments, including that fragment with
+[[[]]] counting as delimiters. Of course this might not be required,
+as it was a proto to a-d, but still.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Tiger's message clearly and unambiguously specifying that he was
+submitting a fragment with "the following text", immediately followed by
+three lines of text. Per Rules 217 and 478, he did submit a Fragment
+containing those three lines of text; tradition is irrelevant given the
+explicitness of the action. TRUE.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I intend to appeal this ruling with 2 support.  Many people have been
+equally explicit about submitting "the following proposal" which is also
+a "body of text" (R106) and Promotors (including the current judge) have
+not included the delimiters as part of the "text".  This ruling
+effectively removes the ability to us plain and obvious delimiters in
+all "text" submissions, which includes just about everything.  This is
+not for the good of the game.  -G.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+I also support. Appealing a judgement just because you don't like its
+implications is a bad idea, but I'm not certain that this judgement
+covers the bases thoroughly enough to set a precedent that people will
+follow, nor to convince me it's correct.
+
+========================================================================
+
+Judge Yally's Arguments:
+
+I agree that Tiger's action was suitably unambigous. [[[ ]]] and similar
+indicators have traditionally represented a framing of text. Were Tiger to
+want those characters to be a part of the fragment, he should have made it
+clear. As he did not, it appears (and everyone seems to agree) that his
+fragment unambiguously did not contain those characters. TRUE.
+
+========================================================================

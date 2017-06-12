@@ -1,0 +1,130 @@
+==============================  CFJ 1415  ==============================
+
+    A Frozen Player cannot be eir own Prime Executor.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Steve
+Barred:                                 Taral
+Barred:                                 RedKnight
+
+Judge:                                  Michael
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           10 Oct 2002 16:24:14 GMT
+Assigned to Michael:                    18 Oct 2002 16:07:59 GMT
+Judged FALSE by Michael:                25 Oct 2002 10:36:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1989 (Power of Only 1) states that:
+      (d) Unless otherwise specified by the Rules, each Player is eir
+          own Prime Executor.
+This, with the rest of 1989, is an explicit permission for a Player to
+perform all actions allowed to Prime Executors, in other words, to act as
+eir own prime executor.  According to Eris's judgement in CFJ 1413, such
+explicit permission is sufficient for Rule 1016 (Power-2) to forbid such
+acting to non-Frozen players.  Therefore, according to Rule 1016, acting
+as one's one Prime Executor is forbidden to Frozen Players, as Rule 1989
+specifically allows non-Frozen players to do so.
+
+Note that this causes a self-contradiction in Rule 1016.  Rule 1016 allows
+Frozen Players to deregister but forbids them from acting as their own
+Prime Executor, but only by acting as eir own Prime Executor may a Frozen
+Player deregister emself.
+
+Note, finally, that Rule 1989(a) denotes prime-executorship as those
+*required* to perform actions not *allowed* to perform actions, there may
+be some room for maneuver in this difference.  A stronger counterargument
+is that Rule 1989 regulates an AUTOMATIC STATE OF BEING for Players,
+rather than Actions for Players, thus Rule 1016 would tie the hands of
+Frozen Players without preventing them from being Prime Executors.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1016/13 (Power=2):
+Activity Levels
+
+      Each player has an activity level, which is always exactly one
+      of active, inactive, and frozen.  A player's activity level may
+      not be modified except by methods described explicitly in the
+      rules.
+
+      This rule takes precedence over each rule that regulates
+      activity levels and the powers or duties that a player may have
+      because of eir activity level.
+
+      An activity level of active is higher than any other activity
+      level.  An activity level of inactive is higher than an activity
+      level of frozen.
+
+      Whenever a player registers or reregisters, e becomes active.
+
+      A player may lower eir activity level by announcing that e does
+      so and indicating eir new activity level, unless the rules do
+      not permit that player to change to that activity level.  If the
+      player becomes inactive in this way, e may not become active
+      until at least 96 hours after e last become inactive.
+
+      An inactive player may become active by announcing that e does
+      so, unless the rules do not permit that player to become active.
+
+      A frozen player who has been frozen for at least 90 days may
+      increase eir activity level by announcing that e does so and
+      indicating eir new activity level, unless the rules do not
+      permit that player to change to that activity level.
+
+      "Off hold" and "on hold" are unambiguous synonyms for "active"
+      and "inactive", respectively.  "put in cold storage" is an
+      unambiguous synonym for "frozen".
+
+      Only an active player may vote, make proposals, hold office, or
+      be a Judge of a CFJ.  An inactive player may not be required by
+      the rules to perform any duty or action unless the rules
+      explicitly state that they can require inactive players to
+      perform that duty or action.  A frozen player may not be
+      required by the rules to perform any duty or action, and is not
+      permitted to perform any of the actions defined by the Rules
+      that non-frozen Players are explicitly permitted by the Rules to
+      perform, with the exception of changing eir activity level, and
+      deregistering.
+
+========================================================================
+
+Judge Michael's Arguments:
+
+At the time the CFJ was called, Rule 1016 said:
+
+      A frozen player may not be required by the rules to perform any
+      duty or action, and is not permitted to perform any of the
+      actions defined by the Rules that non-frozen Players are
+      explicitly permitted by the Rules to perform, with the exception
+      of changing eir activity level, and deregistering.
+
+When one writes that "X is the Prime Executor of Y" without specifying
+which actions this is with respect to, then Rule 1989(c) tells us that
+this is to mean that "X is the Prime Executor of Y" with respect to
+all actions that the entity is required to perform.
+
+Frozen Players can not be required to perform any actions, so the
+quantification in Rule 1989(c) is over an empty set.  Rule 1989(d)
+says that a Player is their own Prime Executor, and this provision
+doesn't contradict 1989(c) or 1016.
+
+I believe The Caller clouds the issue here with talk of "permission",
+but is in line with my thinking in putting Prime Executorship as "an
+automatic state of being".  In other words, Rule 1989 is a
+definitional rule.  The phrase "acting as one's [own] Prime Executor"
+is close to meaningless: either you are your own Prime Executor or
+not.
+
+========================================================================

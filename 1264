@@ -1,0 +1,82 @@
+==============================  CFJ 1264  ==============================
+
+    Clerk of the Courts Wes has failed to perform eir duty to distribute
+    CFJ 1263 in a timely manner.
+
+========================================================================
+
+Caller:                                 Wes
+
+Judge:                                  loh
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wes:                          05 Feb 2001 02:08:02 GMT
+Assigned to loh:                        05 Feb 2001 03:07:54 GMT
+Judged FALSE by loh:                    05 Feb 2001 06:18:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This CFJ will be trivially FALSE, as we selected a Judge and sent
+the test of the CFJ to the Public Forum within a matter of minutes
+of the CFJ hitting a Public Forum. However, we needed a target for
+our next CFJ so that we could address a somewhat more concrete
+example.
+
+========================================================================
+
+Judge loh's Arguments:
+
+I judge CFJ 1264 FALSE.
+
+
+Rule 991: the CotC shall distribute a CFJ not later than when e announces the
+assignment of a Judge.
+
+Rule 1868: the CotC shall assign and announce the Judge of a CFJ "as soon as
+possible".
+
+Rule 1023: "as soon as possible" is within a week.
+
+By Exhibit [1] and [2], the CFJ was assigned and distributed within minutes
+of being called. This falls well within the Rules cited above.
+
+========================================================================
+
+Judge loh's Evidence:
+
+Exhibit 1: selected headers from message in which Blob calls CFJ
+Exhibit 2: selected headers from message in which Wes distributes CFJ 1263
+
+----- BEGIN Exhibit 1 -----
+> Received: from fw.serc.rmit.edu.au (fw-in.serc.rmit.edu.au [131.170.42.1])
+>       by gecko.serc.rmit.edu.au (8.8.5/8.8.5) with ESMTP id BAA08752
+>       for <agora-business@gecko.serc.rmit.edu.au>; Mon, 5 Feb 2001 01:05:54
+GM
+T
+> Message-ID: <20010205120105.D24931@cse.unsw.edu.au>
+> From: Malcolm Ryan <malcolmr@cse.unsw.edu.au>
+> To: Agora Business <agora-business@gecko.serc.rmit.edu.au>
+> Subject: Re: BUS: one more re-registed
+> Date: Mon, 5 Feb 2001 12:01:05 +1100
+----- END Exhibit 1 -----
+
+----- BEGIN Exhibit 2 -----
+> Received: from fw.serc.rmit.edu.au (fw-in.serc.rmit.edu.au [131.170.42.1])
+>       by gecko.serc.rmit.edu.au (8.8.5/8.8.5) with ESMTP id BAA09136
+>       for <agora-official@gecko.serc.rmit.edu.au>; Mon, 5 Feb 2001 01:37:24
+GM
+T
+> Message-Id: <200102050211.SAA11068@fozzie.antitribu.com>
+> From: Wes Contreras <wesc@fozzie.antitribu.com>
+> To: agora-official@gecko.serc.rmit.edu.au (agora-off)
+> Subject: OFF: CFJ 1263 assigned to Steve
+> Date: Sun, 4 Feb 2001 18:11:05 -0800 (PST)
+----- END Exhibit 2 -----
+
+========================================================================

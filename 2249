@@ -1,0 +1,89 @@
+==============================  CFJ 2249  ==============================
+
+    There is an asset known as the Terre Haute
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  31 Oct 2008 02:01:35 GMT
+Assigned to ais523:                     08 Nov 2008 08:49:13 GMT
+Judged TRUE by ais523:                  14 Nov 2008 18:58:00 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following: {For the purposes of this contract, the
+Terre Haute is the name of the asset owned by Rochelle O'Shea, or
+Santa Claus if Rochelle O'Shea does not own exactly one asset. The
+Terre Haute is an asset whose owner defaults to the entity that last
+owned it. Anyone CAN award the Terre Haute to anything by
+announcement. Warrigal can terminate this pledge by announcement.}
+
+Since Rochelle O'Shea does not own any assets (she is a fictional
+character), the Terre Haute is Santa Claus, who does not exist, so the
+contract creates it as an asset. I award the Terre Haute to Rochelle
+O'Shea. This causes it to become "the Terre Haute", which does exist,
+causing it to cease to be an asset, causing Rochelle O'Shea to lose
+it, causing it to revert to Santa Claus, causing it to cease to exist
+independently, causing it to become an asset again, causing it to
+become "the Terre Haute", and so on forever.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+At least one real person named Rochelle O'Shea appears to exist (try a
+Google search), making the contract's reference ambiguous rather than
+nonexistent (as opposed to the criminal case against Hillary Rodham
+Clinton, where the intended target was reasonably obvious).
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+I did state that Rochelle O'Shea is a fictional
+character, and it is highly doubtful that there is any other fictional
+Rochelle O'Shea as well-known as that from Newshounds. It's likely
+that the fictional Rochelle O'Shea is more well-known than the real
+one.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Let's see what happened here. No Rochelle O'Shea owned at least one
+asset when the contract was created, so it defined "the Terre Haute" as
+"Santa Claus"; it also defines it as an asset. There is no contradiction
+yet, we have an asset called Santa Claus, also known as the Terre Haute,
+owned by the L&FD (as the contract's definition of its owner is
+self-referential).
+
+Then Warrigal awarded Santa Claus to Rochelle O'Shea. Santa Claus, that
+is the Terre Haute, is now the only asset owned by Rochelle O'Shea;
+therefore, the Terre Haute is still an abbreviation for Santa Claus,
+according to the first paragraph of the contract. So nothing's changed
+but Santa Claus's owner, and there is still no contradiction. (In
+particular, there is no infinite loop here; awarding Santa Claus to
+Rochelle O'Shea doesn't suddenly cause it to cease existing, especially
+as the former contract has a sustaining definition here. It's been
+called the Terre Haute all along, in addition to being Santa Claus; that
+doesn't cause it to cease being an asset when its owner changes. The
+definition of the Terre Haute is now Santa Claus if Rochelle O'Shea does
+not own exactly one asset, and her only asset (i.e. Santa Claus) if it
+does; no contradiction, no paradox, just a rather silly definition which
+comes to the same thing both ways.)
+
+So in other words, trivially TRUE at the time the CFJ was called. (The
+backing document has since ceased to exist, so the CFJ would have been
+false if it were called today.)
+
+========================================================================

@@ -1,0 +1,78 @@
+==============================  CFJ 3115  ==============================
+
+    It would be ILLEGAL for me to cash the above-quoted promise.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Pavitra
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       23 Oct 2011 22:12:31 GMT
+Assigned to Pavitra:                    24 Oct 2011 01:03:29 GMT
+Judged FALSE by Pavitra:                24 Oct 2011 02:28:47 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, 2011-10-23 at 15:02 -0700, Kerim Aydin wrote:
+> Ok, let's try:
+>
+> I create the following -- delimited promise and transfer it to ais523:
+>    --------------------------------------------------------------------
+>    I, the Herald, publish as part of my monthly report that BlogNomic
+>    holds the Patent Title Loserville.
+>    --------------------------------------------------------------------
+>
+> [Note: violates R2143p4 'SHALL NOT'.  To the criminal case that will
+> arise: The above, when cashed on its own without this disclaimer, is
+> purposefully (and knowingly) inaccurate.  I will CoE and correct.
+> I ask for leniency.]
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+R2143:
+      While performing weekly or monthly duties or publishing weekly
+      or monthly reports, officers SHALL NOT publish information that
+      is inaccurate or misleading.
+
+R478:
+      When a promise is cashed, the text of the promise is interpreted
+      as if it were published by its author as a standalone statement
+
+Cashing a promise does not in general cause the casher to take the
+actions described in the promise's text. The casher is typically the
+executor of any actions in the promise's text, but no rule makes it
+illegal to be the executor of an illegal action.
+
+However, there is one means by which cashing a promise may be illegal. R478:
+      if that statement requires additional context, that context MUST
+      be supplied within the body of the message indicating the
+      cashing.
+
+Does this message require additional context? It claims to be part of
+the Herald's monthly report. However, there is no requirement that a
+monthly report occur all in a single message.
+
+Further, the fragment of report published via the promise is fully
+capable of standing alone semantically: it does not need reference to
+the rest of the report in order to be interpreted correctly. Thus, the
+cashing of the promise is permitted in this respect also.
+
+(If the report fragment had instead reported, correctly, "the set of
+Patent Titles that BlogNomic holds is identical to the set of Patent
+Titles that Hillary Rodham Clinton holds", then cashing the promise
+would be illegal unless the casher specified in the cashing message that
+Hillary Rodham Clinton holds no Patent Titles.)
+
+In conclusion, promises are the responsibility of the author. FALSE.
+
+========================================================================

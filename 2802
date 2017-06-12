@@ -1,0 +1,75 @@
+==============================  CFJ 2802  ==============================
+
+    If Wooble had been Red when e attempted to vote on the decision
+    whether to adopt Proposal 6727, then eir vote would have been
+    ineffective as of the end of the voting period.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by Murphy:                       25 May 2010 17:05:55 GMT
+Assigned to scshunt:                    06 Jun 2010 21:01:19 GMT
+scshunt recused:                        20 Jun 2010 15:49:39 GMT
+Assigned to ais523:                     20 Jun 2010 15:52:30 GMT
+Judged UNDETERMINED by ais523:          20 Jun 2010 19:40:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This depends on whether Rule 2280 (Implicit Votes) measures voting
+limit at time of voting / end of voting period / time of resolution,
+and possibly whether Rule 1950 (Voting on Democratic Decisions)
+applies to the entire voting period of a period that becomes
+democratic during that period.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2280/0 (Power=3)
+Implicit Votes
+
+      When an eligible voter on an Agoran decision attempts to cast
+      ballots without explicitly specifying the number of ballots to
+      be cast (e.g. "FOR" instead of "FOR*1" or "FOR*3"), e casts a
+      number of ballots equal to eir voting limit on that decision.
+
+Rule 1950/20 (Power=3)
+Voting on Democratic Decisions
+
+      The eligible voters on a democratic decision are those entities
+      that were active first-class players at the start of its voting
+      period.  The voting limit of each eligible voter on a democratic
+      decision is one.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I see no reason to conclude that rule 2280 measures anything but voting
+limit at the time the vote is made; the plain language of the rule
+doesn't create a conditional vote that counts a different number of
+times (which is dubious anyway), but merely multiple votes. Rule 1950
+doesn't apply retroactively (because rule 2280 cares about the voting
+limit at the time the vote was made, it also cares about the
+ordinary/democraticness at the time the vote was made). Thus Wooble cast
+0 votes.
+
+I judge CFJ 2802 UNDETERMINED; "eir vote" would have no referent in such
+a situation, and I can't reasonably reason about whether a nonexistent
+vote is effective or not.
+
+========================================================================

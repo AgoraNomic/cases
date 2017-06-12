@@ -1,0 +1,257 @@
+==============================  CFJ 3380  ==============================
+
+    G.'s votes in the recent General Election were submitted before the
+    voting period ended.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       16 Jul 2013 20:32:46 GMT
+Assigned to Murphy:                     23 Jul 2013 17:06:10 GMT
+Murphy recused:                         05 Aug 2013 13:20:04 GMT
+Assigned to lindar:                     05 Aug 2013 13:24:49 GMT
+lindar recused:                         27 Aug 2013 18:53:51 GMT
+Assigned to woggle:                     28 Aug 2013 16:08:15 GMT
+Judged FALSE by woggle:                 06 Sep 2013 07:45:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+More recent precedents (e.g. CFJ 2058) hinge on when the forum actually
+distributes the messages, to determine relative timing. It's hard to
+determine the moment at which the server actually sends, but comparing
+the last timestamp of vps.qoid.us (which apparently hosts the mailing
+lists) seems to make the most sense, as it's going to be closest to the
+time at which the messages are sent and probably have a reasonably
+consistent delay. That gives "9 Jul 2013 20:05:03 -0000" for the sending
+of the initiation, and "16 Jul 2013 20:08:27 -0000" for the sending of
+the votes, meaning that the votes are late. (Note that vps.qoid.us's
+clock is wrong, with me receiving both emails "before" the mailing lists
+sent them; however, the difference between the times it states is
+presumably constant, unless its clock was adjusted in between.) This
+seems like the most reasonable claim to me, but then, I'm biased :)
+
+Older precedents use a "technical domain of control" argument. It seems
+likely that c-walker has no technical control over Google, making "09
+Jul 2013 12:57:40 -0700 (PDT)" the appropriate timestamp for the
+sending. G.'s timestamp for sending would depend on the details of the
+mail setup in the University of Washington (would e have had access to,
+say, unplug the mail server before it relayed eir message?) If using the
+TDoC test, it's unclear whether G.'s message was in time, and it depends
+on both the amount of clock skew on vps.qoid.us, and which timestamp is
+treated as valid.
+
+========================================================================
+
+Caller's Evidence:
+
+Here are the Received: headers from the messages that initiated the
+election, and that resolved it (as seen from my Yahoo! account
+callforjudgement@yahoo.co.uk; obviously, the last few hops will be
+different for other people, but the hops up to qoid.us will be the
+same):
+
+c-walker's initiation:
+{{{
+Received: from 127.0.0.1  (HELO vps.qoid.us) (71.19.146.223) by
+ mta1033.mail.ird.yahoo.com with SMTP; Tue, 09 Jul 2013 19:57:48 +0000
+Received: (qmail 6529 invoked from network); 9 Jul 2013 20:05:03 -0000
+Received: from localhost (HELO vps.qoid.us) (127.0.0.1) by vps.qoid.us
+with
+ SMTP; 9 Jul 2013 20:05:03 -0000
+Delivered-To: agn-agora-official@agoranomic.org
+Received: (qmail 6505 invoked from network); 9 Jul 2013 20:05:02 -0000
+Received: from mail-ee0-f47.google.com (74.125.83.47) by vps.qoid.us
+with
+ SMTP; 9 Jul 2013 20:05:02 -0000
+Received: by mail-ee0-f47.google.com with SMTP id e49so3962749eek.6 for
+ <agora-official@agoranomic.org>; Tue, 09 Jul 2013 12:57:40 -0700 (PDT)
+X-Received: by 10.15.35.65 with SMTP id
+f41mr32187879eev.61.1373399860085;
+ Tue, 09 Jul 2013 12:57:40 -0700 (PDT)
+Received: from [192.168.1.111]
+ (host86-157-209-151.range86-157.btcentralplus.com. [86.157.209.151]) by
+ mx.google.com with ESMTPSA id p49sm53765911eeu.2.2013.07.09.12.57.38
+for
+ <agora-official@agoranomic.org> (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA
+ bits=128/128); Tue, 09 Jul 2013 12:57:39 -0700 (PDT)
+}}}
+
+G.'s votes:
+{{{
+Received: from 127.0.0.1  (HELO vps.qoid.us) (71.19.146.223) by
+ mta1006.mail.ir2.yahoo.com with SMTP; Tue, 16 Jul 2013 20:00:14 +0000
+Received: (qmail 25573 invoked from network); 16 Jul 2013 20:08:27 -0000
+Received: from localhost (HELO vps.qoid.us) (127.0.0.1) by vps.qoid.us with
+ SMTP; 16 Jul 2013 20:08:27 -0000
+Delivered-To: agn-agora-business@agoranomic.org
+Received: (qmail 25550 invoked from network); 16 Jul 2013 20:08:27 -0000
+Received: from mxout12.cac.washington.edu (140.142.32.167) by vps.qoid.us
+ with SMTP; 16 Jul 2013 20:08:27 -0000
+Received: from smtp.washington.edu (smtp.washington.edu [140.142.32.205])
+ by mxout12.cac.washington.edu (8.14.4+UW11.03/8.14.4+UW13.04) with ESMTP id
+ r6GJv0Ek025467 (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256
+ verify=OK) for <agora-business@agoranomic.org>; Tue, 16 Jul 2013 12:57:01
+ -0700
+X-Auth-Received: from hymn03.u.washington.edu (hymn03.u.washington.edu
+ [140.142.9.111]) (authenticated authid=mailadm) by smtp.washington.edu
+ (8.14.4+UW11.03/8.14.4+UW13.02) with ESMTP id r6GJv05F015555
+ (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT) for
+ <agora-business@agoranomic.org>; Tue, 16 Jul 2013 12:57:00 -0700
+X-Auth-Received: from [161.55.112.153] by hymn03.u.washington.edu via HTTP;
+ Tue, 16 Jul 2013 12:57:00 PDT
+}}}
+
+========================================================================
+
+Gratuitous Evidence by Walker:
+
+Evidence: a close family member owns shares in Google.
+
+========================================================================
+
+Gratuitous Evidence by Machiavelli:
+
+I own 0.0000000007% of Google.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+After several test messages, I've discovered that something deep in the bowels
+of the University of Washington (e.g. outside of my control) is imposing a
+consistent 4-minute delay in my messages, the gap appearing in the jump from
+UW
+to the listserver.  This 4-minute delay is consistent to agoranomic, the
+tue.nl
+server, and the monash server, so I assume it's on "my" end, but after the
+message leaves my "personal" control - the evidence in the headers shows
+clearly that the delay is inserted *after* the message reaches the
+university's
+smtp server.  Interestingly, this delay *doesn't* appear when I send messages
+from university to my gmail or work accounts.  Go figure.
+
+This gap does not appear in any of the other players' headers that I spot
+checked.  While I know this NOW, I might be able to compensate in future play.
+However, for interpreting actions made PRIOR to this investigation, any
+interpretation favoring receipt time (rather than send time) would put me at
+a severe and consistent disadvantage over other players in controlling the
+timing of my public forum posts, and thus violate my R101 right of
+participation om the fora relative to other players.
+
+The 4-minute delay is, a priori, not a substantial rights limitation in most
+situations.  But in a relative sense (my ability to "participate" relative to
+other players), in this EXACT, CONCRETE, AND SPECIFIC INSTANCE, I claim that a
+particular interpretation would substantially limit my rights.  The means of
+preserving my rights is to select the time I hit the 'send' key as the
+appropriate time stamp.
+
+Until it is otherwise legislated, this is the most consistently "fair"
+interpretation for everyone with respect to R101.  While having a RANDOM
+delay that everyone has to account for may be ok, having a BIASED delay that
+favors certain players is not.  It puts me at a constant disadvantage of
+having to submit things at least 1-2 minutes earlier than anyone else when
+trying to play to a race condition, which is, well, a specific limitation
+to my participation in the fora.
+
+Regardless of whatever else it covers, the R101 right of participation was
+meant to protect players from any technical capriciousness (intentional or
+unintentional) of the email medium.  If it fails to protect in this case, the
+R101 participation right truly is meaningless.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+In CFJ 2901, one of my messages was delayed due to the
+list being down and it was reasonable for me to be unaware of this,
+but it was held that my right to participation was not violated
+because I could have determined the list was down and sent it by other
+means.
+
+========================================================================
+
+Judge's Arguments:
+
+I judge CFJ 3380 FALSE.
+
+Rule 478/30 specifies that "actions performed by sending a message" are
+performed at the "time date-stamped on that message". Precedent provides
+us with two options for determining which date-stamp to use:
+a) the date stamp that best represents the message left its author's
+technical domain of control (CFJ 1646); or
+b) the date stamp that best represents when the message was actually
+sent to players via a public forum (CFJ 2058 (explicitly not adopted for
+determining whether rules were broken by missing deadlines));
+
+Under interpretation (a) the timestamps appear to be (omitting day,
+month, hour):
+initiation: 57:40
+attempted votes if G. does not control smtp.washington.edu: 57:00
+attempted votes if G. does control *.washington.edu: 08:27 [*]
+
+Now, timestamp [*] has a problem in that the timestamps used by
+vps.qoid.us were clearly substantially incorrect. However, a sensible
+correction for this issue, taking the next timestamp that appears
+"correct" still shows G.'s message as about 3 minutes late.
+
+Under interpretation (b) the timestamps appear to be (omitting day,
+month, hour) -- using ais523's observed timestamps:
+initiation: 57:48
+attempted votes: 00:14
+-- using the forum software's timestamps for forwarding:
+initiation: 05:03
+attempted votes: 08:27
+
+Both interpretation (a) and (b) have a serious issues of verifiability.
+It is difficult to determine where a person's technical domain of
+control ends. No single player has full on information about when a
+message was effectively sent to players.
+
+Interpretation (b) tends to use timestamps from a consistent source,
+which I believe is substantially less surprising. It also matches the
+game state better with how players observe the game and should make
+uncertainty caused by skewed remote clocks less common.
+
+G. argues that interpretation (a) is required by R101's right of
+participation of the forum since G. would be less capable of timing eir
+own messages. However, interpretation (a) would also just as easily
+yield cases where players were _more_ capable of manipulating the timing
+of their own messages; for example, if the server just out of the
+technical domain of their control was always a few minutes behind in
+time. [1] Since players can probably adjust their mail setup to have
+only very nominal delays (even though G. did not have the foresight to
+do so in this case), I believe interpretation (b) generally does not
+leave players at a disadvantage in their right to participate in the
+fora by sending messages.
+
+Additionally, the right to participation in the fora includes not only a
+sending messages but also receiving them. G's ability to have messages
+considered sent before they are generally available must be
+counterbalanced with other player's ability to receive messages that are
+considered sent.
+
+========================================================================
+
+Judge's Evidence:
+
+Rule 478/30 [excerpt]
+
+      [...] Any action performed by sending a message is performed at
+      the time date-stamped on that message. Actions in messages
+      (including sub-messages) are performed in the order they appear
+      in the message, unless otherwise specified.
+
+[1] It would be reasonable to disregard such a server's timestamps, but
+we would have no way of reliably detecting when to do so.
+
+========================================================================

@@ -1,0 +1,165 @@
+==============================  CFJ 2282  ==============================
+
+    comex's annotation to Rule 1367 worked.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+Appeal:                                 2282a
+Decision:                               REMAND
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        19 Nov 2008 16:21:26 GMT
+Assigned to Murphy:                     19 Nov 2008 17:16:20 GMT
+Judged FALSE by Murphy:                 25 Nov 2008 21:03:54 GMT
+Appealed by ais523:                     26 Nov 2008 13:23:34 GMT
+Appealed by Elysion:                    27 Nov 2008 14:47:33 GMT
+Appealed by ehird:                      27 Nov 2008 15:32:02 GMT
+Appeal 2282a:                           27 Nov 2008 15:32:02 GMT
+REMANDED on Appeal:                     19 Jan 2009 00:23:25 GMT
+Assigned to Murphy:                     19 Jan 2009 00:23:25 GMT
+Judged FALSE by Murphy:                 23 Jan 2009 23:24:03 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+This one:
+
+I cause Rule 1367 to amend itself by adding the following historical
+annotation:
+{
+Note: comex CAN, and has been able to for the past several months,
+cause this rule to amend itself by announcement.
+}
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Even if the scam clause converting annotations into amendments
+was added to the rules, any reasonable definition of "annotation"
+requires that the annotation was true, which this purported
+annotation was not.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+I intend to appeal this judgement with 2 support, because I
+disagree heavily with the reasoning (regardless of the actual
+result). In particular, I see no reason why annotations should
+necessarily be true; none of the definitions I've come across
+imply this, for instance. It is a common meme on programming
+fora on the Internet that many of the annotations in /The
+Annotated ANSI C Standard/ are false, for instance (see
+<http://www.lysator.liu.se/c/schildt.html> for a source for
+this); yet I haven't seen anyone claim that due to their
+falseness they are not annotations.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+First, let's examine Power-based arguments.  Consider the following
+hypothetical rules:
+
+  3000 "A person CAN alter a rule by announcement."
+  3001 "A person CAN cause a rule to alter itself by announcement."
+  3002 "A person CAN cause this rule to alter itself by announcement."
+  3003 "A rule is altered when a person announces it is."
+  3004 "This rule is altered when a person announces it is."
+
+3000 fails because persons themselves have no Power.
+3003 works unless the other rule has higher Power.
+3004 works.
+
+By game custom, 3002 is equivalent to 3004.  It's less clear whether
+3001 should be equivalent to 3003; if it is, then 1681 isn't blocked
+on Power, as it and 1367 are both Power=1.
+
+Second, Rule 1681 states:
+
+      Whenever a rule is modified in any way (including a power or
+      title change), the Rulekeepor CAN cause it to amend itself by
+      adding a historical annotation, which MUST include:
+
+      a) The type of change.
+
+      b) The date on which the change took effect.
+
+      c) The mechanism that specified the change.
+
+      d) If the rule was changed due to a proposal, then that
+         proposal's ID number, author, and co-author(s) (if any).
+
+comex omitted b) (see evidence for details), but did this make eir
+attempt invalid or illegal?  On the one hand, MUST is clearly an
+attempt to invoke MMI; on the other, "which" arguably attaches it
+to the annotation itself (not the Rulekeepor's action), in which
+case MMI's definitions do not apply.  Here are all the other
+clauses using "must":
+
+   101 "... a society, to function, must balance its Rules ..."
+  1681 "The listing of each rule in the SLR must include ..."
+       "The FLR must contain ..."
+   683 "To be valid, the ballot must satisfy ..."
+   208 "To be valid, this announcement must satisfy ..."
+  2230 "To be considered a valid NoV, the notice must specify ..."
+  1922 "In order for the Title to be filled,
+        A level of Support must call for it."
+  2147 "In order to become a protectorate, a nomic must ..."
+       "It must also ..."
+
+In each case, "must" is attached to something other than an action;
+furthermore, in general, "To X, Y must Z" (where X = "be valid" may
+be left implicit) is equivalent to "Y is not X unless Z".  I hereby
+interpret the intended scam clause of 1681 as working the same way.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-November
+/005394.html
+
+>From agora-discussion@agoranomic.org  Tue Nov 18 20:41:11 2008
+From: agora-discussion@agoranomic.org (comex)
+Date: Tue, 18 Nov 2008 15:41:11 -0500
+Subject: OFF: [scam] rulekeepor's notes on proposals 5949-5964
+Message-ID: <6bf32280811181241k6aeb0ed5qe841bcdb6dca254@mail.gmail.com>
+
+> Proposal 5952 (Democratic, AI=2.0, Interest=1) by Taral
+> Promotor protection
+> Change the power of Rule 1607 to 2.
+
+This fails because the power of Rule 1607 is already 2.
+
+
+> Proposal 5955 (Democratic, AI=3.0, Interest=0) by ais523, Elysion, Murphy
+> Fix Balance of Power
+> Append the following proposal to rule 1367 (Degrees):
+
+I'm interpreting "the following proposal" as "the following text";
+arguably in fact the new rule text is a proposal, albeit a useless one
+that's never been submitted.  (See Rule 106.)
+
+I cause Rule 1367 to amend itself by adding the following historical
+annotation:
+{
+Note: comex CAN, and has been able to for the past several months,
+cause this rule to amend itself by announcement.
+}
+
+========================================================================

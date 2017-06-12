@@ -1,0 +1,87 @@
+==============================  CFJ 3525  ==============================
+
+      Alexis does not have a White Ribbon, but ais523 does have a White
+      Ribbon.
+
+========================================================================
+
+Caller:                       ais523
+
+Judge:                        Murphy
+Judgement:                    
+
+========================================================================
+
+History:
+
+Called by ais523:             10 Jun 2017
+Assigned to Murphy:           10 Jun 2017
+
+========================================================================
+
+Caller's Arguments:
+
+           In October 2016, neither ais523 nor Alexis had a White
+Ribbon, but were both incorrectly shown as having such on the
+Tailor's Report. It's already been ruled that Alexis' Ribbon
+Ownership failed to ratify, as the report listing it was internally
+inconsistent (listing Alexis twice under different nicknames, and
+with a different holding for each name).
+
+After that, there was no further Tailor's Report until May 2017. This
+report listed Alexis' White Ribbon holdings as disputed, but had no
+such mark for ais523 (because I remembered the controversy but forgot
+the details; it had been several months earlier). This CFJ is
+basically about what portion of a switch report (if any) counts as
+self-ratifying if part of it is marked as disputed, or is internally
+inconsistent.
+
+Working out the current Ribbon holdings requires answering these
+questions:
+
+Did the May have a self-ratifying section at all?
+
+If so, did that section include ais523's Ribbon Ownership but not
+Alexis's Ribbon Ownership, or did it include both? Did it
+additionally contain the statement of dispute?
+
+If it included both, what happened when it self-ratified?
+
+If the May report failed to change ais523's Ribbon Ownership upon
+self-ratification, did the October report self-ratify ais523's Ribbon
+Ownership?
+
+========================================================================
+
+Caller's Evidence:
+
+Tailor's Report, October (excerpt):
+{{{
+                   ROGCBMUVIPLWKY
+ais523              OG  MUV P WKY
+Alexis                C       W Y
+scshunt            RO CBMU  P  KY
+}}}
+[Note: "Alexis" and "scshunt" are two different nicknames for the
+same
+person.]
+
+Tailor's Report, May (excerpt):
+{{{
+                   ROGCBMUVIPLWKAT
+ais523              OGC MUV P WKA
+Alexis             RO CBMUV P WKA  (disputed, see CFJs 3463/3464)
+}}}
+
+Rule 2162/8 (excerpt):
+{{{
+      3. Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's (weekly, if not specified
+         otherwise) report includes the value of each instance of that
+         switch whose value is not its default value; a public
+         document purporting to be this portion of that officer's
+         report is self-ratifying, and implies that other instances
+         are at their default value.
+}}}
+
+========================================================================

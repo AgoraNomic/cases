@@ -1,0 +1,95 @@
+=============================  CFJ 3491  =============================
+
+      An Agency's Head is currently defined by the rules.
+
+======================================================================
+
+Caller:                      grok                                 
+
+Judge:                       ais523           
+Judgement:                   TRUE           
+
+======================================================================
+
+History:
+
+Called by grok:              19 May 2017
+Assigned to ais523:          19 May 2017
+Judged TRUE by ais523:       19 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+It appears that, according to Rule 2467, an Agency's Head is not
+selected in the Agency creation process--only a Director. I thought
+this strange. So I did some research and found this message in the
+archive:
+
+> I retract this proposal and resubmit it with the indicated typo
+> correction and with every instance of "Head" replaced by "Director".
+
+This retraction became an official announcement and proposal on 16
+Sept 2016. We don't end there, however.
+
+All previous versions of the Agencies proposal were retracted and
+re-submitted on 16 Oct 2016. This submission contained the full text
+rather than a "find and replace" as was done on 16 Sept, but the full
+text only replaced the first instance of "Head" with "Director." It
+fails to replace all subsequent instances of "Head," leaving three
+additional references to the "Agency's Head."
+
+This version was adopted as the Rule 2467 we know. Although this may
+have been a typographical error or clerical oversight, it is now
+written into law. Thus the questions, and my suspicions:
+
+I am led to believe that the Agency Head and Agency Director may not
+have the same powers.
+
+I also suspect that while there are powers granted to an Agency Head
+and maybe some contextual evidence of its existence, the specific
+designation of "Agency Head" may not be currently defined by the
+rules.
+
+======================================================================
+
+Judge's Arguments:
+
+The first issue to check here is whether Agencies even /have/ Heads.
+The answer to this is clearly "yes"; rule 2468 defines it as ruleset-
+tracked information (and thus rule 2125(c) defines any attempt to
+change the information as regulated). Rule 2467 gives a list of
+"properties" of an Agency (title, Agents, Powers), but rule 2468
+strongly implies (twice) that the identity of the Head of an Agency is
+not one of its properties (and rather, is separately tracked
+information). As far as I can tell, the only security on an Agency's
+head is rule 2125; rule 2467 defines restrictions on changing an
+Agency's properties, but that wouldn't apply to the Head.
+
+I see no reason why an Agency's Head and Director would necessarily be
+the same person; nothing in the ruleset states that they are, and the
+words aren't synonyms in standard English usage. The Director appears
+to have no gamestate relevance other than to identify the person who
+created the Agency.
+
+As such, the remaining question is simply to determine who an Agency's
+Head is. As far as I can tell, this is completely unspecified in the
+ruleset, meaning that we fall back to rule 217. Game custom is for the
+person who created an Agency to be the person who can be acted on
+behalf of. Common sense and the best interests of the game both imply,
+at least, that the Head of an Agency can't initially be a person /other
+than/ its Director; being able to create an Agency that could act on
+behalf of someone else is both ridiculous and obviously exploitable. I
+don't think there are any relevant past judgements.
+
+This means that I think the situation works as follows: An Agency has a
+Head, and a Director; the Head is /initially/ equal to the Director,
+but the two could theoretically diverge over time (in fact, we already
+have a rules-defined mechanism for changing an Agency's Head: manually
+ratifying the Superintendent's report). This makes the verdict of both
+CFJs TRUE.
+
+Nonetheless, the rules in question are clearly unclear and should be
+fixed.
+
+======================================================================

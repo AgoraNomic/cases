@@ -1,0 +1,191 @@
+======================================================================
+                               CFJ 914
+
+"If a Rule requires a Treasury to pay units of that currency to two
+ or more players at once, it pays the players sequentially, in
+ alphabetical order by Nickname."
+
+======================================================================
+
+Judge:       Chuck
+
+Judgement:   FALSE
+
+Eligible:    Andre, Antimatter, Blob, Chuck, Crito, elJefe, favor,
+             General Chaos, KoJen, Macross, Michael, Morendil, Murphy,
+             Steve, Swann, Vanyel, Zefram
+
+Not eligible:
+Caller:      Harlequin
+Barred:      -
+On hold:     Oerjan
+
+======================================================================
+
+History:
+  Called by Harlequin, Mon, 17 Mar 1997 21:08:31 -0500 (EST)
+  Assigned to Chuck, Mon, 24 Mar 1997 09:34:06 +0000
+  Judged FALSE, Mon, 24 Mar 1997 20:01:27 -0600 (CST)
+  Published, Wed, 26 Mar 1997 09:36:21 +0000
+
+======================================================================
+
+Judgement: FALSE
+
+Reasons and arguments:
+
+There is nothing in the Rules which suggests that if a Rule requires
+multiple payments "at once," then the payments do not actually happen
+all "at once."  If a Rule requires multiple transfers at the same
+time, the transfers all happen simultaneously.
+
+Caller Harlequin writes:
+
+> A treasury certainly can't pay all the players at once if it doesn't
+> have sufficient funds to do so.
+
+In fact, it can.  If a Rule requires more units of a currency to be
+transfered away from a Treasury than the Treasury possesses, then the
+Treasury goes negative.
+
+The only time when a required transfer fails because it would cause
+the Treasury to go negative is when the transfer is required, not by
+the Rules, but by some other Entity to which the Rules grant the
+authority to require transfers.  One might say that these too in a
+sense are required by the Rules; however, this is inconsistent with
+the use of "required" in Rules 1472 and 1596.  This CFJ mentions only
+transfers required by the Rules.
+
+I leave open the question of what happens when a non-Rule Entity,
+granted authority by the Rules, requires multiple transfers from a
+Treasury with insufficient funds at the same time.  Whether some of
+them take place (and if so, which ones), or none of them, is left to a
+future CFJ.  However, I would recommend to anyone composing such a CFJ
+not to phrase the statement in terms of sequence, but simply in terms
+of which transfers take place, if any.  For I would argue that those
+transfers which *do* take place (if any) in such a case still take
+place simultaneously.
+
+Caller Harlequin may have been inspired by Rule 1527, which places an
+order on multiple events in a single message by a player.  However,
+there is nothing in the Rules, nor game custom, nor commonsense [sic],
+nor past Judgements, nor the best interests of the game, which would
+support expanding that concept into some sort of meta-game principle
+by which all events which seem to take place simultaneously must
+actually happen in a certain order.
+
+======================================================================
+
+Evidence: (Rule 1472, Rule 1596, Rule 1527, Rule 217)
+
+Rule 1472/3 (MI=1)
+Transfer of Currencies
+
+      Units of Currency are transferrable between Treasuries under the
+      following conditions:
+
+      a) The transfer shall be from exactly one Treasury to exactly
+         one other Treasury.
+      b) The transfer must be of a positive amount of exactly one
+         Currency, and that amount must be an exact integral multiple
+         of that Currency's MUQ.
+      c) Some Rule must authorize the transfer, either by requiring it
+         directly or by granting authority to require the transfer to
+         some other entity.
+      d) Some Rule must specify a Player whose duty it is to report
+         the occurence of the transfer to the Recordkeepor of the
+         Currency involved.
+
+      This Rule takes precedence over any Rule which would permit or
+      require a transfer prohibited by this Rule, and defers to any
+      Rule which prohibits a transfer permitted by this Rule.
+
+[CFJ 793: Notification may take place as part of an Official Report to
+ the Public Forum.]
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1649, Aug. 1 1995
+Amended(2) by Proposal 1702, Sep. 1 1995
+Amended(3) by Proposal 2493, Feb. 16 1996
+
+Rule 1596/1 (MI=1)
+Currency Transfers, generally
+
+      The Rules have the power to require the transfer of Currencies;
+      no other Entity also has this power unless explicitly granted it
+      by the Rules, and then only to the extent granted by the Rules.
+
+      No Entity other than the Rules themselves has the power to
+      require any transfer which would result in the Treasury being
+      transferred from containing a negative quantity of the Currency
+      transferred.
+
+      Whenever an Entity requires a transfer of Currencies to take
+      place, the transfer takes place as required, provided that the
+      Entity which is requiring the transfer is permitted by the Rules
+      to require that transfer, and provided that the transfer is
+      otherwise permitted by the Rules.
+
+      Such a transfer takes place at the time specified by the Entity
+      which requires the transfer, or, if no time is specified, at the
+      time when the Entity first begins to require the transfer.
+
+      This Rule takes precedence over any Rule which would permit or
+      require a transfer prohibited by this Rule.  When another Rule
+      would prohibit some transfer permitted by this Rule, this Rule
+      defers to that Rule with respect to that transfer.
+
+History:
+Created by Proposal 2493, Feb. 16 1996
+Amended(1) by Proposal 2626, Jun. 29 1996
+
+Rule 1527/1 (MI=1)
+Timing of Multiple Events in One Message
+
+      Whenever a message contains more than one notification, report,
+      or other communication in which the Rules place some legal
+      significance, the communications in that message shall be taken
+      to have been sent sequentially, separated by infinitesimal
+      increments of time, in the order which they appear in the
+      message.
+
+      This Rule defers to all other Rules which do not contain this
+      sentence.
+
+History:
+Created by Proposal 1750, Oct. 21 1995
+Infected and Amended(1) by Rule 1454, Feb. 2 1997, substantial
+  (unattributed)
+
+Rule 217/3 (MI=1)
+Judgements Must Accord with the Rules
+
+      All Judgements must be in accordance with the Rules; however,
+      if the Rules are silent, inconsistent, or unclear on the
+      Statement to be Judged, then the Judge shall consider game
+      custom, commonsense, past Judgements, and the best interests of
+      the game before applying other standards.
+
+[CFJ 684: An Injunction on the interpretation of a Rule is part of
+ Game Custom.]
+
+History:
+Initial Mutable Rule 217, Jun. 30 1993
+Amended(1) by Proposal 1635, Jul. 25 1995
+Infected and amended(2) by Rule 1454, Aug. 7 1995
+Amended(3) by Proposal 2507, Mar. 3 1996
+
+Originator: Peter Suber
+Authors: Peter Suber, ...
+
+======================================================================
+
+(Caller's) Arguments:
+
+A treasury certainly can't pay all the players at once if it doesn't
+have sufficient funds to do so. So it must pay in some sort of
+sequential fashion. Alphabetical by nickname seems the most likely and
+easiest method of doing so.
+
+======================================================================

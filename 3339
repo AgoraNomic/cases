@@ -1,0 +1,188 @@
+==============================  CFJ 3339  ==============================
+
+    If the rules contained the statement "It is LEGAL to shout
+    'CREAMPUFF' if and only if it is ILLEGAL to shout 'CREAMPUFF'", and
+    this contradiction were not resolved, overridden, or otherwise
+    mitigated by another rule, and a CFJ were called on the statement
+    "It is LEGAL to shout 'CREAMPUFF' if and only if it is ILLEGAL to
+    shout 'CREAMPUFF'", then TRUE would be an appropriate judgement for
+    that CFJ, and FALSE would be an inappropriate judgement for that
+    CFJ.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  11 Jun 2013 19:13:45 GMT
+Assigned to woggle:                     18 Jun 2013 22:59:02 GMT
+Judged FALSE by woggle:                 23 Jun 2013 18:29:13 GMT
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+In my mind, the straightforward answer is FALSE, because the statement
+"It is LEGAL to shout 'CREAMPUFF' if and only if it is ILLEGAL to
+shout 'CREAMPUFF'" is a logical contradiction, and so it is false
+under all circumstances, and not true under any circumstances.
+
+It could be argued that if the rules contained a self-contradictory
+statement of this nature, then the entire ruleset would be effectively
+meaningless and unusable, because, by the principle of explosion, all
+statements would be both true and false. This view doesn't seem to be
+actually held by anyone in Agora, but if it were Agora's preferred
+interpretation, then the statement "It is LEGAL to shout 'CREAMPUFF'
+if and only if it is ILLEGAL to shout 'CREAMPUFF'" would be both true
+and false, and so under this view, the answer to the CFJ is FALSE.
+
+Nevertheless, it seems like the popular view in Agora is that the
+answer to my CFJ would be TRUE. The argument in favor of this view
+seems to go something like this:
+
+Agora is a game that is governed by its rules, and so, if one is to
+play Agora, one must generally interpret all statements in the rules
+as being true. Although it is sometimes permissible to interpret a
+statement in the rules as being false (in particular, if the rules
+also contain a contradictory statement that takes precedence over it),
+logical impossibility of a statement does not make it permissible to
+interpret the statement as being false. Instead, we must adopt a legal
+fiction that the statement is true without causing an "explosion";
+thus, some statements related to the logically contradictory statement
+may be (fictionally) both true and false, but this status would not
+extend to statements not related to the logically contradictory
+statement.
+
+Or, in short: if the rules contain a false statement, then the
+statement is equivalent to an instruction to behave as if the
+statement were true.
+
+I think this interpretation is undesirable, since it entails that
+classical logic cannot be used to reason about some parts of Agora; we
+must instead use some paraconsistent logic in at least some cases, or
+else just wing it.
+
+Furthermore, I think that if a statement in the rules is logically
+contradictory, we should indeed consider it permissible to interpret
+the statement as being false. This agrees with my intuition, but I
+have what seems to me like a good argument for this idea as well.
+
+The function of the rules is to regulate, or govern, the state of the
+game. Thus, the effect of a rule is generally determined by how it
+purports to regulate the state of the game. If a rule states that "a
+person CAN submit a CFJ by announcement", then that rule purports to
+cause a CFJ to be created whenever a person announces that e submits
+one. If a rule states that "this rule was placed to honor the spirit
+of the game", then that rule does not purport to do anything, and thus
+it contains no regulatory content, and so it is ineffective.
+
+What if a rule states that "it is LEGAL to shout 'CREAMPUFF' if and
+only if it is ILLEGAL to shout 'CREAMPUFF'"? That rule is
+*semantically* meaningful, because it has a truth value. But the rule
+is *regulatorily* meaningless, because there is no state of the game
+that satisfies it any better than any other state of the game. (It
+would be incorrect to say that the rule regulates the state of the
+game by making the action both legal and illegal, because that is
+simply impossible.) The rule does not specify an aspect of the game
+(although it attempts to), and thus it contains no meaningful
+regulatory content, and so it is ineffective.
+
+Now, I suppose you could argue that the statement "it is LEGAL to
+shout 'CREAMPUFF' if and only if it is ILLEGAL to shout 'CREAMPUFF'"
+regulates the game by simply deleting the concept of the legality of
+shouting "CREAMPUFF", making the statement "it is LEGAL to shout
+'CREAMPUFF'" meaningless. I don't think this argument holds water,
+since if the statement "it is LEGAL to shout 'CREAMPUFF'" were
+meaningless, then the statement "it is LEGAL to shout 'CREAMPUFF' if
+and only if it is ILLEGAL to shout 'CREAMPUFF'" would be meaningless,
+not true. Rules regulate the game by trying to make themselves true,
+not meaningless.
+
+Finally, there's one more way I can think of by which the answer to my
+CFJ could be true, which is the legal fiction argument. According to
+this argument, the statement "it is LEGAL to shout 'CREAMPUFF' if and
+only if it is ILLEGAL to shout 'CREAMPUFF'" actually does have
+meaningful regulatory content: rather than regulating the game by
+affecting the legality of shouting "CREAMPUFF", it regulates the game
+by instructing the players to interpret the rules as if the statement
+"it is LEGAL to shout 'CREAMPUFF' if and only if it is ILLEGAL to
+shout 'CREAMPUFF'" were true. If the statement were true, then TRUE
+would be an appropriate judgement for a CFJ about it, and FALSE would
+be an inappropriate judgement for a CFJ about it. Thus, because we're
+instructed to act as if the statement as true, this means that TRUE
+*is* an appropriate judgement for any CFJ about it, and FALSE *is* an
+inappropriate judgement.
+
+I don't have a counterargument to the legal fiction argument, other
+than to say that it seems kind of silly to instruct players to pretend
+that a logical contradiction is true.
+
+TL;DR: a self-contradictory statement in the rules, because it does
+not specify an aspect of the game, has no meaningful regulatory
+content, and thus is ineffective, unless you interpret the statement
+as an instruction to act as if the statement were true.
+
+========================================================================
+
+Gratuitous Arguments by Bucky:
+
+As far as I can tell, it would be de facto legal to shout 'CREAMPUFF'.  That
+rule is sufficiently confusing that a player might reasonably believe they can
+shout 'CREAMPUFF' without violating it.
+
+That would leave the hypothetical CfJ in a situation where the statement is
+factually true (so FALSE is an inappropriate judgment) and logically both true
+and false (by explosion). Therefore, since the statement would be logically
+and factually true, a judgment of TRUE is appropriate.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Anyone wanting to do this subject justice should consider the body of
+legal writings on the subject, without trying to re-derive it from first
+principles from logical traditions.  While we suffer a dearth of legal
+training (over algorithmic training) among current members, it keeps in
+the spirit of nomic.  A starting point is here:
+
+http://legacy.earlham.edu/~peters/writing/slfreflw.htm
+
+from which the following quote is taken:
+"If laws were simply rules, like software rules, then these situations
+would precipitate the legal equivalent of infinite loops. But because
+renvoi and circular lien problems are solved in finite time, in principled
+ways, lawfully, by human decisions which face the need to escape absurd
+literalism, they provide important clues to the sense in which laws are
+not simply rules, and law itself more a human enterprise than a formal
+system."
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3339 FALSE.
+
+Game custom generally considers statements that are not clearly true and not
+clearly false as a separate category, both when the rules provide
+contradictory information or and when they provide insufficient information.
+This is most clearly embodied by our long tradition of calling something a Win
+By Paradox instead of a Win By Incompleteness. It can also been seen our
+provision of a judgment of UNDECIDABLE that is separate from a judgment of
+TRUE or FALSE.
+
+It has been generally uncontroverisal to resolve conflicts in rules and
+similar documents not handled using the usual precedences as UNDECIDABLE, even
+though the judgment of UNDECIDABLE is not appropriate when true or false is.
+(e.g. direct conflict within a rule before R2240 existed in its present form
+was resolved as UNDECIDABLE in CFJ 2650; numerous cases involving
+self-referential statements concluded the self-contradictory statement was
+neither true nor false, even when it was part of a contract or foreign nomic
+ruleset being interpreted.)
+
+========================================================================

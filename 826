@@ -1,0 +1,363 @@
+>From nomic-official-owner@teleport.com  Wed Nov 15 08:43:25 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id IAA03090 for <blahedo@quincy.edu>; Wed, 15 Nov 1995 08:43:22 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id GAA03947 for nomic-official-outgoing; Wed, 15 Nov 1995 06:38:04 -0800
+Received: from wing1.wing.rug.nl (wing1.wing.rug.nl [129.125.21.1]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id GAA03911 for <nomic-official@teleport.com>; Wed, 15 Nov 1995 06:37:56 -0800
+Message-Id: <199511151437.GAA03911@desiree.teleport.com>
+Received: by wing1.wing.rug.nl
+	(1.37.109.8/16.2) id AA25582; Wed, 15 Nov 1995 15:36:36 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 826 Judgement: TRUE
+To: nomic-official@teleport.com
+Date: Wed, 15 Nov 95 15:36:35 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+
+			JUDGEMENT CFJ 826
+
+  Rule 113 should be interpreted such that, even if a Player considers
+  a penalty to be worse than deregistration, e is still subject to it
+  unless e actually deregisters or is deregistered.
+
+======================================================================
+
+Judge:		Oerjan
+Judgement:	TRUE
+
+Eligible:	Andre, Chuck, Coco, Dave Bowen, favor, KoJen, Michael, 
+		Morendil, Oerjan, SaltWater, Steve, Vanyel, Zefram
+
+Not Eligible:	
+Caller:		elJefe
+Barred:		
+On Hold:	
+
+Effects:	Oerjan gains 3 Points for speedy Judgement
+		Rule 113 must be annotated with the given statement
+
+======================================================================
+
+History:
+  Called by elJefe, 7 Nov 1995, 10:41 -0500
+  Assigned to Oerjan, 8 Nov 1995, as of this message
+  Judged TRUE by Oerjan, 14 Nov 1995, timestamp lost
+
+======================================================================
+
+Arguments:
+
+Observation:
+
+This is really what we've been assuming that CFJ 764 says, but I want
+it as an actual Ruleset annotation.
+
+Requested Injunction:
+
+I request that the Judge make an Injunction under Rule 789, requiring
+the Rulekeepor to annotate Rule 113 the Statement in the CFJ and the 
+list of relevant Rules.
+
+======================================================================
+
+I judge TRUE.
+
+I injunct that Rule 113 be annotated with the Statement:
+
+  Rule 113 should be interpreted such that, even if a Player considers
+  a penalty to be worse than deregistration, e is still subject to it
+  unless e actually deregisters or is deregistered.
+
+I quote:
+
+Rule 113/1 (Semimutable, MI=3)
+Players May Always Forfeit
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur 
+      it, may be imposed.
+
+The argument of the Judge on CFJ 764 hinges on the idea that the second 
+sentence of 113 is a consequence of the first.
+
+That is, the fact that a Player can always avoid a penalty worse than 
+deregistration, means that such a penalty is not actually imposed.
+
+I feel that this requires a clearer understanding of what "imposed" means.
+
+>From http://c.gp.cs.cmu.edu:5103/prog/webster?impose :
+
+im.pose \im-'po-z\ vb [MF imposer, fr. L imponere, lit., to put upon
+(perf. indic. imp] osui), fr. in- + ponere to put - more at POSITION 1a:
+to establish or apply as compulsory : LEVY {~ a tax} 1b: to make prevail
+by force {imposed himself as their leader} archaic
+
+(The other definitions don't seem to apply here. 1b is marked as archaic,
+I therefore assume that it doesn't apply either.)
+
+By 1a: Since the penalty is not compulsory (it can be avoided), it is not
+imposed. 
+
+I find that the argument is somewhat reasonable given the definition. 
+(Although not completely persuading.)
+
+Since the argument is necessary in order to make sense of CFJ 764 (I 
+_think_ I could legally ignore the argument if I could otherwise support 
+the conclusion) I shall have to admit it.
+
+As an aside, I will note that I do not accept Michael's final argument ad
+Ridiculum.
+
+Greetings,
+Oerjan.
+
+====
+
+======================================================================
+
+Evidence:
+
+Relevant Rules: 113
+
+Evidence (added by Judge):
+Judgement CFJ 764 (see below)
+
+======================================================================
+
+
+>From kelly@poverty.bloomington.in.usTue Nov 14 22:49:38 1995
+Date: Tue, 18 Apr 95 00:04:29 EST5
+>From: Kelly Martin <kelly@poverty.bloomington.in.us>
+Reply to: nomic-discussion@teleport.com
+To: nomic-official@teleport.com
+Subject: OFF: CFJ764: Judgement
+
+======================================================================
+			 JUDGEMENT OF CFJ 764
+	   (Rule 113 can only be interpreted such that...)
+======================================================================
+
+  Judgement:  FALSE
+
+  Judge:   Michael
+
+  Eligible to Judge:  Andre, Blob, Coren, Dave Bowen, Chuck, Elde,
+		      Jeffrey, Kelly, KoJen, Michael, Pascal, Steve,
+		      Swann, Vanyel, Xanadu
+
+  Caller:  TAL
+
+  Scorekeepor:
+    Michael receives 3 Points for timely Judgement
+
+----------------------------------------------------------------------
+
+History:
+  Called Wed, 12 Apr 95 00:19:28 SET by TAL
+  Assigned Wed, 12 Apr 1995 00:50 UTC to Michael
+  Judged FALSE Mon, 17 Apr 95 16:22:29 BST by Michael
+  --> Michael receives 3 Points
+
+======================================================================
+
+Statement:
+
+"Rule 113 can only be interpreted such that regulation 6 of ElJefe's
+`No More Contests' Contest is in conflict with it."
+
+Barred Players: ElJefe
+
+----------------------------------------------------------------------
+
+Arguments:
+
+Rule 113 states: "No penalty worse than deregistration [...] may be
+imposed.". Well, Regulation 6 of the NMC Contest imposes *two*
+penalties on recidivists. There is:
+   Anyone becoming Contestmaster via Reg. 5 must within one
+   hour both go On Hold, and transfer all eir currencies and
+   Points to the Contest Fund.  E may not come Off Hold until
+   this Contest is dissolved.
+and there is:
+   Anyone becoming Contestmaster for the second time via Reg. 5 must
+   immediately forfeit the game of Agora Nomic.
+
+Therefore, anyone becoming Contestmaster for the second time looses
+all eir Agoran possessions *and* must forfeit.
+
+Obviously, imposing forfeiture *and* confiscation is a penalty worse
+than imposing forfeiture alone.
+
+Hence Reg. 6 is in violation of 113 and by 1446 Contestants are not
+bound by it.
+
+Consequently the Contestmaster of the NMC Contest, i.e. TAL, is not
+bound by Regulation 6.
+
+----------------------------------------------------------------------
+
+References (two Rules and the NMC Regulations):
+
+Rule 113/1 (Semimutable, MI=3)
+Players May Always Forfeit
+
+      A Player may always deregister from the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse
+      than deregistration, in the judgment of the Player to incur
+      it, may be imposed.
+
+Rule 1446/0 (Mutable, MI=1)
+Contests
+
+      A contest is a subgame of Agora Nomic, having its own Name,
+      Entry Fee, Regulations, Contestmaster, and Contest Fund.
+
+      It is created when a Player posts to the Public Forum an
+      announcement of the contest, including the Name and Regulations.
+      Participants in the subgame are called Contestants of that
+      contest.  The player making the post becomes the Contestmaster.
+
+      The Contestmaster for a given Contest is a Player who has
+      responsibility for administering the subgame.  He reports all
+      score changes and currency transfers taking place under the
+      Regulations, administers the Contest Fund, and maintains the
+      Regulations.
+
+      The Contest Fund is an entity capable of owning, trading, and
+      spending Points or Currencies in the same manner as a Player,
+      but only as authorized by the Regulations.
+
+      The Regulations specify the operation of the Contest.  All
+      Contestants, and the Contestmaster, are bound by the Regulations
+      except where these conflict with the Rules.  They may also
+      specify:
+        - how the Contestmaster is replaced,
+        - how currencies and Points are transferred to or from the
+          Contest Fund,
+        - the amount of the Entry Fee for the Contest, which shall be
+          in Points,
+        - additional restrictions on Players to become Contestants,
+        - how the Regulations may be changed, and
+        - ways for the Contest to be dissolved.
+
+      A Player becomes a Contestant by notifying the Contestmaster and
+      paying the prescribed Entry Fee to the Contest Fund.  A
+      Contestant may quit a Contest at any time by so notifying the
+      Contestmaster, or by so posting to the Public Forum.
+
+      A contest is dissolved when there is no Contestmaster and no
+      provision for replacing em, or as otherwise provided in the
+      rules, or in the Regulations.  When this happens the Contest
+      Fund is distributed as provided in the Regulations; if no
+      provision is made the Fund is divided equally between the
+      Contestants.
+
+      If according to the Regulations the Contest Fund must transfer
+      Points and/or currency to a Contestant, and the Fund does not
+      have sufficient resources, then enough of the Contestmaster's
+      Points and/or currency are transferred to the Fund to cover the
+      transaction.
+
+      If e does not have sufficient Points or currency to accomplish
+      this, then each Contestant is given back eir entry fee, and the
+      Contestmaster loses the number of Points of the returned entry
+      fees. The Contest is then dissolved.
+
+      No Blots shall be assigned by this Rule.
+
+      This transfer is not taxable.  This Rule takes precedence over
+      all other Rules which determine which Point and Currency
+      transfers are legal and/or taxable, or which would assign Blots
+      to any Player.
+
+---------------------------------------------------------------------------
+                      ANNOUNCEMENT OF CONTEST
+---------------------------------------------------------------------------
+
+This announcement creates a contest, named "No More Contests", whose
+Regulations are as follows:
+
+  Reg. 1:  The contestmaster is elJefe.
+
+  Reg. 2:  Immediately after this Contest is created, elJefe is replaced
+           as Contestmaster by Troublemaker at Large.
+
+  Reg. 3:  The Contestmaster may not create any Contests. E must, if
+           possible, dissolve any other Contest in which e is Contestmaster.
+           E may not transfer any points to or from other Contest Funds.
+
+  Reg. 4:  If the Contestmaster is deregistered or forfeits from Agora
+           Nomic, the most recent Contestmaster still registered becomes
+           Contestmaster once again.
+
+  Reg. 5:  In case any player legally creates a Contest, that player
+           replaces the current Contestmaster, and becomes the new
+           Contestmaster.
+
+  Reg. 6:  Anyone becoming Contestmaster via Reg. 5 must within one
+           hour both go On Hold, and transfer all eir currencies and
+           Points to the Contest Fund.  E may not come Off Hold until
+           this Contest is dissolved.  Anyone becoming Contestmaster
+           for the second time via Reg. 5 must immediately forfeit the
+           game of Agora Nomic.
+
+  Reg. 7:  The Contest is dissolved when Player elJefe posts
+ 	   a message so announcing to the Public Forum.
+
+  Reg. 8:  If the Contest is dissolved, the Contest Fund is
+           distributed to the Wanderers Contest Fund.
+
+  Reg. 9:  The Entry fee is 1000 Points.
+
+======================================================================
+
+Judgement: FALSE
+
+The text of 113 admits a different interpretation from the one
+required of it by the statement of the CFJ.  In particular, it admits
+the following interpretation:
+
+   113 consists of two sentences. The first states that a player may
+   always forfeit rather than suffer a game penalty.  The second
+   states that no penalty worse than deregistration may be imposed.
+   The statement's error is to take the second sentence in isolation
+   from the first. 
+
+   In this Judge's interpretation, it is clear that the second
+   sentence of 113 is a consequence of the first; not independent.
+   The second sentence is simply reiterating that a Player may choose
+   to forfeit, thereby exempting them from the Game penalty.  The
+   second sentence is tautologically true, given the first. 
+
+Having demonstrated that there is another interpretation of 113, one
+which does not conflict with regulation 6 of ElJefe's `No More
+Contests' Contest, I am free to finish my Judgement (note the
+unfortunate use of the word "only" in the Statement).  However, I
+should like to point out that this matter has been debated before, and
+that the interpretation of 113 that the Statement calls for would lead
+to a ridiculous situation.
+
+The careful ellipsis of the words "in the judgement of the Player to
+incur it" from the Statement conceals the danger inherent in this
+interpretation.  If we were to allow the second sentence of 113
+independence from the first (in an entirely separate rule perhaps), a
+Player could simply claim that any penalty they might be about to
+incur was worse than deregistration, and thereby avoid it entirely
+(with the backing of an MI=3 Rule no less).
+
+Game custom and common sense make it clear that this interpretation
+was never intended by the author of the rule, and so it is clear that
+another interpretation (I provide one above) must govern. 
+
+======================================================================
+--
+kelly martin                                 <kelly@poverty.bloomington.in.us>
+
+       I have been told that when a large group of people believe in a
+     fantasy, it is called a culture.  When a small group believes, it is
+      called a cult.  When two people believe in a fantasy, it is called
+	 love; and when one person believes, it is called psychosis.

@@ -1,0 +1,127 @@
+==============================  CFJ 1389  ==============================
+
+    The Bank incurred a debt of 0.1 Papyri to Steve as a result of
+    Opposite Proposal 4332.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Steve
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         19 Jun 2002 04:56:17 GMT
+Assigned to Steve:                      19 Jun 2002 20:19:19 GMT
+Judged FALSE by Steve:                  24 Jun 2002 04:37:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1479 establishes that the Bank incurs a debt to an entity whenever
+a player is required by the Rules to "pay out" properties to that
+entity.  By Rule 1991, the Promotor "may" pay out 0.1 Papyri to emself
+as the result of distributing an opposite proposal, but no requirement
+is involved.  As a result, the "pay out" language of Rule 1991 fails to
+create a debt.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1479/3 (Power=1)
+Definition of "Pay Out" and "Bill"
+
+      Whenever a Rule requires a Player to pay out one or more
+      Properties to some entity, the Bank shall incur a debt to that
+      entity for those Properties, and the named Player shall, as
+      soon as possible, post a public notice of the debt.
+
+      Whenever a Rule requires a Player to bill an entity for one or
+      more Properties, that entity shall incur a debt to the Bank for
+      those Properties, and the named Player shall, as soon as
+      possible, post a public notice of the debt.
+
+
+Rule 1991/1 (Power=1)
+Opposite Proposals
+
+      Each time the Promotor distributes Proposals, e shall first
+      select at random a single distributable Proposal, to be known as
+      the Target. E may then distribute with these Proposals an
+      Opposite Proposal for the Target. If e does so, e may, Without 2
+      Objections, pay out 0.1 Papyri to emself.
+
+      An Opposite Proposal should be clearly marked as such.  It
+      should be substantially the opposite, in spirit or effect, of
+      its Target. An Opposite Proposal shall have the same status as
+      its Target, including AI, Sanity, Urgentness, Disinterestedness,
+      and Democraticity; except that, if the Target does not have an
+      AI of at least 2, the Opposite Proposal shall be neither
+      Democratic nor Sane.
+
+      The Promotor shall be considered to be the proposer of the
+      Opposite Proposal, but shall incur no penalties as a result of
+      being its proposer. This Rule takes precedence over all Rules
+      which would impose such penalties.
+
+
+Steve distributed Opposite Proposal 4332 in the following partially quoted
+message:
+
+Date: Mon, 10 Jun 2002 13:17:37 +1000 (EST)
+From: Steve Gardner <gardner@silas-1.cc.monash.edu.au>
+To: Agora Official <agora-official@agoranomic.org>
+Subject: OFF: [Promotor] Distribution of Proposals 4330-4332
+
+Agora Nomic
+Distribution of Proposals 4330-4332
+
+----------------------------------------------------------------------------
+
+No.    | Title                          | By           | AI | Date    | Flag
+       |                                |              |    |         |
+4330   | June Contested Proposal        | OscarMeyr    |  1 | 07Jun02 | CT
+4331   | Quick Economic Fix             | root         |  2 | 09Jun02 | CU
+4332   | Quick Economic Catastrophe     | Steve        |  2 | 10Jun02 | CUO
+
+D: Disinterested  C: demoCratic  U: Urgent  S: Sane  O: Opposite
+P: Parliamentary  T: conTested
+----------------------------------------------------------------------------
+[SNIP]
+
+
+Steve attempted to pay out 0.1 Papyri to emself per Rule 1991 in the
+following quoted message:
+
+Date: Mon, 17 Jun 2002 11:28:15 +1000 (EST)
+From: Steve Gardner <gardner@silas-1.cc.monash.edu.au>
+Subject: Re: BUS: Intent to pay out Papyri
+To: Agora Business <agora-business@agoranomic.org>
+
+On Mon, 10 Jun 2002, Steve Gardner wrote:
+
+>
+> Since I distributed an Opposite Proposal this Week, I announce my intent
+> to pay out 0.1 Papyri to myself, Without 2 Objections, in accordance
+> with the provisions of R1991.
+
+There having been no Objections, I pay out 0.1 Papyri to myself. The
+Bank therefore incurs a debt to me of 0.1 Papyri.
+
+I transfer 0.1 Papyri from the Bank to Steve to satisfy the above
+debt.
+
+Steve
+
+========================================================================
+
+Judge Steve's Arguments:
+
+I accept the Caller's argument as Judge that the Statement is FALSE.
+
+========================================================================

@@ -1,0 +1,72 @@
+==============================  CFJ 3243  ==============================
+
+    omd initiated a CFJ in the above-quoted message.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       05 Jul 2012 04:21:07 GMT
+Assigned to ais523:                     06 Jul 2012 13:43:52 GMT
+Judged FALSE by ais523:                 09 Jul 2012 23:32:26 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The underlying data (Thunderbird: View -> Message Source; presumably
+most other mail readers have something comparable) is
+=F0=9F=8C=9C=F0=9F=8F=81=F0=9F=95=97: =F0=9F=8E=A9=E2=9D=93
+
+Googling F09F8C9C, F09F8F81, F09F9597, F09F8Ea9, and (E29D93 Unicode)
+leads to (respectively)
+http://www.fileformat.info/info/unicode/char/1f31c/index.htm
+http://www.fileformat.info/info/unicode/char/1f3c1/index.htm
+http://www.fileformat.info/info/unicode/char/1f557/index.htm
+http://www.fileformat.info/info/unicode/char/1f3a9/index.htm
+http://www.fileformat.info/info/unicode/char/2753/index.htm
+which symbols bear a reasonable resemblance to
+"CFJ: <top hat>?"
+
+
+========================================================================
+
+Caller's Evidence:
+
+omd wrote:
+
+> On Wed, Jul 4, 2012 at 7:51 PM, Tanner Swett<swettt@mail.gvsu.edu> wrote:
+>> Diamonds. I ♦ Agora forever.
+>>
+>> —Machiavelli
+>
+> 🌜🏁🕗: 🎩❓
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+If this is judged TRUE, I will deregister.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Regardless of whether the message has the right form to initiate a CFJ
+or not (I think it might do, the effort required to decode it is not too
+extreme), it doesn't contain a statement (the characters that appear
+after the colon cannot reasonably be parsed as a statement).
+
+As such, I judge CFJ 3243 FALSE. CFJ 3242 doesn't exist, but just in
+case, I attempt to judge it MALFORMED (and note that it's impossible to
+actually correctly judge a CFJ MALFORMED, as all CFJs for which it's
+appropriate don't exist).
+
+========================================================================

@@ -1,0 +1,70 @@
+==============================  CFJ 3324  ==============================
+
+    Wes CAN transfer the DOA promise to emself.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Walker
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 May 2013 23:16:35 GMT
+Assigned to Walker:                     27 May 2013 22:31:15 GMT
+Judged FALSE by Walker:                 01 Jun 2013 14:18:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2338 reads "If a promise is possessed by the Tree, any
+player except the promise's author CAN transfer it to emself by
+announcement, if e cashes the promise in the same message in
+which e transfers it to emself."
+
+This is a classic retroactive conditional, to wit, the success
+of the first action (the transfer) is conditional on the success
+of the necessarily later action.
+
+Basically, Wes CAN transfer it to emself if e CAN cash it, which
+e CAN when e transfers it to emself, but then e CANNOT, so e
+doesn't transfer it to emself, upon which e CAN... etc.
+
+This differs from a couple of previous precedents:
+1.  This does not deal with the ownership, but rather the ability
+to cash, so this doesn't end up in the LF&D.
+2.  This part of R2338 does not apply:
+      If cashing a promise would lead, through its own actions or
+      actions directly caused by its cashing, to a value being
+      indeterminate an instant after the promise is cashed, then
+      (other provisions of this or other rules notwithstanding) it
+      CANNOT be cashed.
+as we're not talking about outright ability to cash (which is
+possible at the outset here), but rather the ability to transfer
+which leads up to cashing.
+
+========================================================================
+
+Caller's Evidence:
+
+I submit the following Promise, 'DOA', to the Tree:
+
+Text:  Hello, World.
+Conditions for Cashing:  There is a copy (i.e. fungible instance)
+of this Promise in possession of the tree.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+FALSE, because Rule 2339 does not say anything about whether the promise in
+question can be cashed while it is in the Tree's possession. The legality of a
+transfer is determined only by whether or not the promise is later cashed;
+thus, since it would be impossible for Wes to cash DOA while possessing it, it
+cascades and transferring DOA from the Tree is impossible.
+
+========================================================================

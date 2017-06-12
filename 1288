@@ -1,0 +1,344 @@
+==============================  CFJ 1288  ==============================
+
+    The Bank transfered 100 stems to me on April 3, 2001.
+
+========================================================================
+
+Caller:                                 Hooloovoo
+
+Judge:                                  Steve
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Hooloovoo:                    04 Apr 2001 00:02:42 GMT
+Assigned to Steve:                      07 Apr 2001 00:11:20 GMT
+Judged FALSE by Steve:                  13 Apr 2001 00:47:27 GMT
+Judgement distributed:                  13 Apr 2001 19:35:56 GMT
+
+========================================================================
+
+Judge Steve's Arguments:
+
+0. Acknowledgements
+
+I would like to acknowledge the valuable contributions made by Blob,
+Elysion, Crito, harvel, Kelly, Macross, Murphy and Ziggy to this
+Judgement.
+
+1. Facts in evidence, definitions, introductory remarks
+
+As ever, it is well to begin with the facts. Payroll Clerk lee's
+announcement contained the following statements (see the Evidence
+section), which I've numbered for convenience:
+
+(1)  The Bank owes Hooloovoo 50 Stems.
+(2)  The Bank owes Hooloovoo 50 Stems.
+
+(3)  The Bank satisfies the above debts.
+
+It will also be well to have the relevant definitions before us.
+
+Rule 1596 defines a 'debt' as follows:
+
+      A "debt" is an obligation arising under these Rules for one entity
+      (the "debtor") to make a transfer of one or more Properties to
+      some other entity (the "creditor").
+
+Rule 1598 defines a 'Notice of Transfer' as follows:
+
+      A Notice of Transfer is a message which sets forth the intent
+      to transfer one or more Properties from one entity (the
+      "transferor") to some other entity (the "transferee"). A valid
+      Notice of Transfer must additionally:
+
+      (1) specify one or more Properties all of which are owned by
+          the transferor;
+      (2) be sent by the Executor of the transferor, or by a Limited
+          Executor of the transferor with the authority to execute
+          transfers on behalf of that entity with respect to all of
+          the Properties involved; and
+      (3) describe a transfer which is not otherwise prohibited by
+          the Rules.
+
+      A transfer of a Property occurs only when its Recordkeepor
+      receives a valid Notice of Transfer.
+
+Two questions are raised by the CFJ: how many debts to Hooloovoo were
+there? And how many transfers to Hooloovoo did the Bank make as a result
+of lee's message?
+
+On the first question, there is a consensus among the participants in
+the discussion. Since a debt is an obligation arising under the Rules,
+one cannot create a debt by stating that one exists. In this case, the
+Bank's obligation to pay Hooloovoo 50 Stems arose under R1940, and there
+was only one such debt.
+
+Most of the discussion focussed on the answer to the second question.
+How many transfers to Hooloovoo were effected by lee's message? Three
+different positions emerged during the discussion. I shall discuss each
+in turn.
+
+2. The 'Zero Transfers' view
+
+This was the view I advanced in my proto-Judgement. The argument I gave
+there was that lee's statement (3), "The Bank satisfies the above
+debts." was insufficiently specific to meet the requirements for
+validity of a Notice of Transfer in R1598(1).
+
+The advantage of this view is that it sets a precedent which requires
+Recordkeepors to be absolutely clear and explicit about what transfers
+they are making. The disadvantage is that it overturns some two years of
+game custom which has seen the Payroll Clerk, and other Officers,
+satisfy Bank debts using such language.
+
+In any event, I was dissuaded from this view by the counterarguments
+advanced by Kelly and Crito. Two different considerations tell against
+the view. Firstly, anti-formalism. This principle has been articulated
+most recently in my Judgement of CFJ 1263:
+
+      As a general principle, it is a bad idea to be too nit-picky about
+      the precise forms of words used to effect game actions.
+
+At least in the case where the debt exists, there is no disagreement
+that a statement
+
+      S: "The Bank owes A 50 Stems. The Bank satisfies this debt."
+
+satisfies the requirements of R1598, even though the word "transfer" is
+not used. The intent to transfer is clear enough from context, as is the
+Property being transferred.
+
+Secondly, there is no principled reason to look only at (3) to discover
+the elements of a Notice of Transfer. lee's whole message should be
+considered. As can be seen from the above, (1) and (3) taken together
+have the same form as S, and so clearly satisfy all the requirements of
+R1598. So lee's message effected at least one transfer. (The question of
+whether (2) and (3) together effect another transfer is taken up below.)
+
+
+3. The 'One Transfer' view
+
+This view was advanced in the discussion by Macross and Murphy. The
+intuitive idea behind it is that the reference in (3) to "the above
+debts" is a reference to actual debts only. Since all agree that there
+was only one actual debt, lee's message only satisfied one debt. Hence,
+there was only one transfer.
+
+On this view, S counts as a Notice of Transfer only if there really is a
+debt from the Bank to A. If there is no debt, then the reference to
+"this debt" is empty and no transfer occurs.
+
+
+4. The 'Two Transfers' view
+
+This view was defended by Kelly and Crito. Their disagreement with
+Macross and Murphy is the crux of the argument as I see it. The idea
+behind the view is that S succeeds in transferring 50 Stems to A, even
+if it turns out that there is no debt from the Bank to A. The argument
+for this conclusion is that S sets out an intent to transfer, and is
+specific about what Property is being transferred. Hence it qualifies as
+a Notice of Transfer. Since (2) and (3) taken together have the form of
+S, lee's message actually contained two Notices of Transfer.
+
+Tempting as it is, however, this argument fails. It crucially fails to
+consider the effects of R1598(3):
+
+      A valid Notice of Transfer must additionally:
+
+      (3) describe a transfer which is not otherwise prohibited by
+          the Rules.
+
+If any other Rule prohibits the transfer, then S cannot be a valid
+Notice of Transfer.
+
+Is there such a Rule? Yes, there is: Rule 1470, which states that:
+
+      The Bank shall not transfer Currencies except when specifically
+      authorized to do so by the Rules.
+
+There is consensus that only one debt from the Bank to Hooloovoo
+existed. Any transfer of Stems to Hooloovoo beyond that needed to
+satisfy this debt is unauthorized by the Rules, and hence prohibited by
+R1470.
+
+In reply to this argument, Kelly has objected that the first paragraph
+of R1470 does authorize the Payroll Clerk, in eir capacity as
+Recordkeepor of Stems, to make transfers of Stems from the Bank, when it
+states that:
+
+      Each Recordkeepor of each Bank Currency shall be a Limited
+      Executor of the Bank, with the authority to execute transfers of
+      units of that Currency, from and on behalf of the Bank.
+
+I don't think this is sufficient, however. The second paragraph of R1470
+prohibits the Bank from transferring Stems except when it is
+*specifically* authorized to do so by the Rules. The first paragraph of
+the Rule does not provide this specific authorization. Rather, it
+provides only a *general* authorization. Specific authorization comes,
+for example, from the requirement to pay a debt, and is given later in
+the Rule.
+
+This is the best way to make sense of Rule 1470. If we read the
+authorizations granted in the first and second paragraphs as being of
+equal generality, then the prohibition in the second paragraph of the
+Rule makes no sense, for it comes out as "The Bank shall not transfer
+Currencies except when specifically authorized to do so by the Rules,
+which it is always is as per the above." Why qualify a prohibition with
+a condition which is always true?
+
+The general/specific distinction, by contrast, not only gives meaning
+and effect to the second paragraph of the Rule, but makes sense of the
+use of the word 'specifically', which otherwise would be serving no
+purpose in the Rule.
+
+
+5. General conclusion and Judgement
+
+The general conclusion is inescapable: A Notice of Transfer from the
+Bank, made for the purpose of satisfying a debt, is valid only if the
+debt exists. The Macross/Murphy view is therefore correct: lee's message
+contained only one valid Notice of Transfer from the Bank to Hooloovoo.
+
+The Statement is therefore FALSE.
+
+
+6. Concluding remarks and suggestions
+
+It appears that, notwithstanding our efforts so far to the contrary, we
+do not yet have a functioning pragmatic Currency system. The principles
+of such a system are:
+
+(1) Recordkeepors ought to be able to assume that Notices of Transfer
+    are prima facie valid.
+
+(2) Recordkeepors should not be required to check the validity of each
+    Notice of Transfer that is made before recording it.
+
+(3) If it is discovered that a transfer has been made in error, it
+    should be corrected by making a later, reversing transfer, and not
+    by assuming that the transfer never occurred.
+
+The inclusion of R1598(3) in the definition of a Notice of Transfer has
+smuggled platonism into the heart of our supposedly pragmatic Currency
+system. A Recordkeepor cannot assume that a Notice of Transfer is valid.
+E must search the Rules to determine that no Rule prohibits it. And if e
+makes a mistake in this determination, the effect is that no valid
+transfer ever occurred. We are familiar with the defects of such a
+system.
+
+I therefore make two suggestions: firstly, that the provisions of
+R1598(3) be deleted from that Rule. This will give us the pragmatic
+Currency system we desire. However, since this will also allow the
+Payroll Clerk and the Treasuror to make valid but unauthorized transfers
+of Stems from the Bank, my second suggestion is that we make the
+intentional and unauthorized transfer of Stems from the Bank a heavily
+penalized Crime. (The 'intentional' is important; otherwise, innocent
+mistakes such as lee's in this instance might attract the penalty.)
+
+========================================================================
+
+Judge Steve's Evidence:
+
+1. lee's announcement of Salaries and Gratuities
+
+http://www.escribe.com/games/agora-official/m1187.html
+
+------------------------------------------------------------------------
+
+Rules
+
+Rule 1470/4 (Power=1)
+The Bank
+
+      There shall exist an entity known as the Bank. The Executor of
+      the Bank shall be the Treasuror. Each Recordkeepor of each Bank
+      Currency shall be a Limited Executor of the Bank, with the
+      authority to execute transfers of units of that Currency, from
+      and on behalf of the Bank. The Bank has Mint Authority. The
+      Bank is the Mintor of every Bank Currency.
+
+      The Bank shall not transfer Currencies except when specifically
+      authorized to do so by the Rules.
+
+      Whenever the Bank incurs a debt to any other entity, the Bank
+      shall, as soon as possible and by its Executor or by one of its
+      Limited Executors, either satisfy that debt by transferring
+      appropriate Properties to the creditor, or dispute the debt by
+      whatever means are appropriate in the situation.
+
+      The authority to compromise or forgive a debt of the Bank rests
+      only in the Treasuror. This power may only be exercised only:
+      (1) pursuant to a properly-issued Order; or
+      (2) Without Objection, at the Treasuror's discretion.
+
+
+Rule 1596/5 (Power=1)
+Debt
+
+      A "debt" is an obligation arising under these Rules for one
+      entity (the "debtor") to make a transfer of one or more
+      Properties to some other entity (the "creditor").
+
+      No debt shall be enforceable unless a notice sufficient to
+      inform the debtor of the debt has been sent to the debtor. If a
+      Rule requires a public notice of a debt be posted, the debt is
+      not enforceable until and unless that notice is posted.
+
+      A debt is satisfied when the debtor has transferred (or is
+      deemed to have transferred) all the Properties named to the
+      creditor (either as a single transfer or as the aggregate of
+      multiple transfers).
+
+      A debt is forgiven when the creditor of a debt sends a notice
+      to the debtor that e is forgiving the debt. Forgiveness may be
+      for the entire debt or for any part thereof. The effect
+      forgiving a debt is as if the debtor had made a payment on the
+      debt for the portion forgiven, except that no transfer of
+      property takes place thereby.
+
+      When a Notice of Transfer indicates a purpose to make payments
+      upon debts owed to the transferee, but the Property transferred
+      does not correspond to any debt owed by the transferor to the
+      transferee, then the transferee shall either return that
+      Property to the transferor, or retain them as payment against
+      future debts, at the transferee's discretion.  Any Properties
+      thus retained shall be returned to the transferor upon demand,
+      and a demand for return made under this Rule causes the
+      transferee to incur a debt to the transferor for those
+      Properties (excluding any subset of those Properties properly
+      applied to subsequently incurred debts).
+
+
+Rule 1598/10 (Power=1)
+Property Transfers
+
+      A Notice of Transfer is a message which sets forth the intent
+      to transfer one or more Properties from one entity (the
+      "transferor") to some other entity (the "transferee"). A valid
+      Notice of Transfer must additionally:
+      (1) specify one or more Properties all of which are owned by
+          the transferor;
+      (2) be sent by the Executor of the transferor, or by a Limited
+          Executor of the transferor with the authority to execute
+          transfers on behalf of that entity with respect to all of
+          the Properties involved; and
+      (3) describe a transfer which is not otherwise prohibited by
+          the Rules.
+
+      A transfer of a Property occurs only when its Recordkeepor
+      receives a valid Notice of Transfer.
+
+      The effect of a transfer of Properties is to cause the
+      transferor to cease to possess the Properties transferred, and
+      simultaneously to cause the transferee to possess them.
+
+      The Recordkeepor of a Property shall maintain a record of all
+      transfers of that Property. E shall retain a record of each
+      Notice of Transfer which e receives (whether valid or not)
+      involving that Property. E shall retain this record of each
+      Notice of Transfer for at least four weeks after its receipt.
+
+========================================================================

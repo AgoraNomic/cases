@@ -1,0 +1,137 @@
+==============================  CFJ 1585  ==============================
+
+    The Deckmastor may legally deal a card to Goethe, thus satisfying a
+    pending draw, but e may not legally deal a card to Quazie.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Sherlock
+Judgement:                              
+
+
+Judge:                                  Michael
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           21 Mar 2006 07:02:11 GMT
+Assigned to Sherlock:                   03 Apr 2006 07:52:35 GMT
+Sherlock recused:                       07 Apr 2006 18:44:24 GMT
+Assigned to Michael:                    03 May 2006 02:38:47 GMT
+Michael recused:                        17 May 2006 02:38:47 GMT
+Assigned to OscarMeyr:                  05 Jun 2006 08:52:43 GMT
+Judged FALSE by OscarMeyr:              18 Jun 2006 14:21:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+"Pending draws" are mentioned, and in fact regulated, in several places in the
+current ruleset.  For example, there are specific mechanisms for gaining
+pending draws in Rule 2075.  Further, Rule 2074 puts a specific regulation in
+defining when a pending draw may not be satisfied, thus making pending draws,
+and their satisfaction, regulated quantities and actions (R101).  However, the
+exact definition of a "pending draw", in particular any link (except by
+inference) to card dealing is absent from the ruleset since proposal 4851 took
+effect.
+
+R1586p2 implies that the lack of explicit definition for pending draws means
+that pending draws no longer exist.  However, I would argue that:
+
+ (1) the existence of regulations for pending draws and their satisfaction,
+cited above, requires that they still exist and are regulated quantities;
+
+ (2) it is reasonable to use "pending draws" in the context of cards, in which
+ordinary language usage (R754) would lead a reasonable person to infer that
+these are outstanding promises that cards should be randomly dealt from the
+deck by the Deckmastor, as per the mechanism of dealing as defined by
+R2069(d); further, there is no other reasonable ordinary language usage which
+makes sense in the context of the current Rules; and
+
+(3) By R1586p3, as long as a definition for pending draw can be inferred and
+linked to cards, it is continuous with the former records of pending draws, of
+which (at the time proposal 4851 took effect and at the time of this CFJ)
+Goethe had at least 1 and Quazie had 0.  As Deckmastor I affirm this last
+point to the best of my knowledge.
+
+Hence, under the current ruleset, Goethe may be dealt a card legally, which
+would satisfy and lower eir number of pending draws, and Quazie may not.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+Pending draws are mentioned in the SLR of 27 March 2006 (the first
+published Ruleset after the CFJ was submitted) in several places --
+Rules 1677/14, 2074/1, 2075/8, 2083/2, 2121/0, and 2089/8.  However,
+none of these rules define a pending draw.  So under R754/5 (6), we must
+fall back on the normal meaning of a "pending draw."  I understand the
+term "pending draw" to be an unfulfilled request for a card to be dealt
+from a deck.  A more precise definition probably exists, but likely
+would amount to much the same thing for our purposes.
+
+Major premiss: R101/2 (c) says that an action is regulated if it would
+modify information for which we keep records.
+Minor premiss: R 2068/6 says that the Deckmastor is recordkeepor for
+cards.
+Conclusion, by syllogism:  All actions that affect card holdings are
+regulated.
+
+The SLR of 27 March 2006 regulates fulfilling pending draws, as dealing
+a card from the deck is an action that affects card holdings -- the card
+is transferred from the deck to a subject Gambler.  However, the SLR
+does not define any way to fulfill a pending draw; the most the SLR says
+(in R2074) is a case when a pending draw may NOT be satisfied.  Since
+the SLR regulates card deals, but does not specify even the slightest
+workings of dealing a card, dealing a card is not permitted.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Rule 101/2 (Power=3)
+Agora May I?
+
+      Any player is permitted to perform an action which is not
+      regulated.  An action is regulated if:
+
+      (a) the action is prohibited;
+
+      (b) the rules indicate that if certain conditions are satisfied,
+          then some player is permitted to perform the action;
+
+      (c) the action would, as part of its effect, modify information
+          for which some player is required to be a recordkeepor;
+
+      (d) the action would, as part of its effect, make it impossible
+          to make arbitrary modifications to the rules by any
+          combinations of actions by players; or
+
+      (e) the courts have held that the action is regulated, and this
+          finding has not been overturned.
+
+      A player besides the Speaker is always permitted to deregister
+      rather than continue to play.  Please treat Agora right good
+      forever.
+
+Rule 2068/6 (Power=1)
+The Deckmastor
+
+      The Deckmastor is an office; its holder is responsible for fair
+      play, shuffling, and dealing, and is the recordkeepor for cards
+      and chips.
+
+      The Deckmastor's weekly report shall contain a record of all
+      cards and chips in existence, recent card and chip actions, and
+      what entity holds each card and chip.  The Deckmastor need not
+      record or report transfers of cards to the table.
+
+========================================================================

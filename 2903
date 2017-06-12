@@ -1,0 +1,231 @@
+==============================  CFJ 2903  ==============================
+
+    pikhq is a player.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       16 Nov 2010 13:29:46 GMT
+Assigned to G.:                         20 Nov 2010 22:21:44 GMT
+Judged FALSE by G.:                     03 Dec 2010 23:45:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First, let me discuss the agreement generally known as (2009-06-15
+pikhq), a former Agoran private contract. At the time (CFJ 2586, CFJ
+2586a), there was much controversy (finishing with an appeals decision
+split 1:1 between AFFIRM and OVERRULE and decided by the Justiciar)
+about whether myndzi was really a party to the contract or not. (I still
+think myndzi did indeed end up registering, but I suspect that all the
+effects of the situation in question relevant under the current ruleset
+have since self-ratified away, thus averting another Annabel Crisis.)
+However, there was absolutely no doubt at the time that pikhq and I were
+parties to the contract, as we had both agreed to it voluntarily and
+without coercion. There's also no doubt about the intent of the
+agreement between pikhq and I; the agreement was obviously intended to
+allow any member to cause any other member to register. Up until
+contracts were repealed by proposal 6635, on 20 February 2010, there's
+little doubt that I could have acted on behalf of pikhq to cause em to
+register (act-on-behalf changed from informal to formalised during that
+time period, but it would have worked under either set of rules).
+
+The main obstacle to this action working is that contracts were repealed
+since the contract in question was made. However, I'm not convinced that
+that destroyed the agreement itself; it may have caused it to cease to
+be enforced under Agoran law, but there are several arguments that the
+agreement itself survived the repeal of contracts and continues to allow
+act-on-behalf:
+      * Private contracts, in particular, have always just been an
+        Agoran formalisation of an agreement that existed elsewhere. The
+        rules did not involve explicit contract creation actions for
+        private contracts; rather, if there was an agreement intended to
+        be binding that fulfilled certain conditions, it automatically
+        was considered a private contract. Ceasing to recognise an
+        agreement as a private contract would not, therefore, cause the
+        agreement to suddenly cease to exist; it would be ridiculous if
+        Agora could cancel an agreement merely by recognising it and
+        ceasing to recognise it again.
+      * Rule 101(iv) disallows changes to an agreement which its parties
+        do not have a chance to agree to; note that the rule says
+        "agreement", not "contract". Arguably, I didn't agree to
+        proposal 6635 changing the agreement (I voted PRESENT on the
+        proposal in question, but even if I'd voted AGAINST, it would
+        have passed 6:2); however, this is mostly irrelevant because
+        chances are very high that /pikhq/ was unaware of the proposal
+        in question, having not posted on an Agoran mailing list for
+        over 6 months at that point. (I would also be incredibly
+        surprised if myndzi had any idea that the proposal existed, but
+        that's a much weaker argument due to the uncertainty as to
+        whether myndzi was party to the agreement at all, as e was
+        effectively coerced into it.) Changing pikhq's agreement with me
+        would violate eir rule 101(iv) right. (Thanks to G. for
+        inspiring this line of thought in a private discussion.)
+      * The whole notion of act-on-behalf was originally not formalised
+        in the rules; it was for a while, but again no longer is.
+        Likewise, there is not a vast difference in the relevant rules
+        now, from when the precedents concerning act-on-behalf were
+        originally being thought out (major exception: rule 2150 now
+        bans the construction of entities similar to the Pineapple
+        Partnership by giving an explicit definition of persons,
+        although that's irrelevant to /this/ CFJ). In general, I see no
+        reason why the old precedents, that any wilful agreement between
+        persons is sufficient to allow the persons in question to act on
+        each other's behalf, would not apply under the current
+        contract-less and act-on-behalf-less ruleset.
+Therefore, I conclude that I can indeed act on pikhq's behalf like this,
+and as I just attempted to cause em to register, and e was not barred
+from registering, e is a player.
+
+========================================================================
+
+Caller's Evidence:
+
+I act on behalf of pikhq to cause em to register. (To be precise, I
+cause em to publish the following message: "I register.")
+
+(Naming explanation for players who weren't around in 2009: pikhq =
+Josiah Worcester, myndzi is someone else, neither are current players.)
+
+The formation of (2009-06-15 pikhq):
+On Tue, 2009-06-16 at 12:33 +0100, Alex Smith wrote:
+> On Mon, 2009-06-15 at 23:36 -0500, Josiah Worcester wrote:
+> > 23:35  * pikhq agrees to the following contract with myndzi: {{{Any party
+to this contract can act on behalf of another party to cause em to to
+register.}}}
+> > 23:35  * myndzi agrees to the following contract with pikhq: {{{Any party
+to this contract can act on behalf of another party to cause em to to
+register.}}}
+> >
+> > Myndzi registers.
+> >
+> I agree to the agreement mentioned above.
+
+pikhq's most recent message to the Agoran mailing lists:
+On Thu, 2009-06-18 at 23:52 -0500, Josiah Worcester wrote:
+> I come off hold.
+
+CFJ 2625 (the whole CFJ is relevant and I recommend the judge of this
+CFJ to read the whole thing, but here's a particularly relevant excerpt
+of the judgement):
+> There are no rules regulating the use of acting on behalf of another
+> person. Therefore, the use of the mechanism in contracts and as a matter
+> of custom must be examined.
+>
+> It has been a generally-held tenet that public contracts can allow
+> players to act on behalf of their parties (or the contracts themselves)
+> to an unlimited extent. This seems generally to be the case with private
+> contracts as well. In the recent question re whether myndzi was a
+> player, the question was whether or not e was party to (2009-06-15
+> pikhq) , not whether or not (2009-06-15 pikhq) could grant ais523/pikhq
+> the ability to register myndzi.
+
+CFJ 2322 ("It is possible for a private contract to create an ability of
+one party to act on behalf of another party"), judgement by Murphy:
+> Such an ability can be created by any willful agreement.
+
+Rule 101(iv):
+>         iv. Every person has the right to not be considered bound by
+>             an agreement, or an amendment to an agreement, or a Rule
+>             Change, which e has not had the reasonable opportunity to
+>             review.  For the purpose of protecting this right, a rule
+>             change which would otherwise take effect without its
+>             substance being subject to general player review through a
+>             reasonably public process is wholly prevented from taking
+>             effect.
+
+Although obviously I have no sensible way to prove this, pikhq has never
+contacted me asking to dissolve the agreement in question, and neither I
+nor pikhq have attempted to change or dissolve the agreement in any way,
+nor consented to any change in it.
+
+========================================================================
+
+Gratuitous Arguments by Bucky:
+
+Assuming that ais523 can legitimately act on behalf of pikhg to attempt to
+register, the attempt should fail because it does not clearly indicate that it
+is pikhg's intent to become a player.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Arguably, the entire point of the contract was an intent to
+someday be a player, with other members of the contract being able to
+choose /when/.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Point 1.  Contracts must have a considered jurisdiction.  In the absense
+of an explicit *Choice of Law Clause* within the contract, it should
+be assumed that the Agoran legal system is both the *lex causae* and the
+*lex fori* for the contract.  This goes against (to a certain extent)
+the caller's point that private contracts "are just an Agoran
+formalization of an agreement that existed elsewhere".  This is only
+true when the "elsewhere" is explicitly defined or can be determined.
+
+Point 2.  Contracts made under Agoran Law during the contract law era
+(roughly 2007-2009, including the contract here), in accepting the
+Agoran jurisdiction, accept both that the contract is an Entity under
+R1586 and that the jurisdiction itself is subject to change (R1698) and
+therefore, that these changes, if made in the proper way (i.e. Rule
+changes subject to review), can affect the operation of the contract
+without causing a conflict with R101.  Such contracts, in general, do
+not show evidence of existing under other bodies of law.
+
+Point 3:   Therefore, if a Contract Entity ceases to be defined in the
+Rules, it is not in violation of R101 to apply R1586, and state that the
+contract no longer has legal effect (is voided/has ceased to exist).
+In the explicit case of a party who was absent during the repeal, it is
+more in keeping with eir rights to assume that e is abiding by laws of
+the jurisdiction the time e left, whereby repeal would destroy the
+contract.
+
+Therefore, the question comes to this part of R1586:
+       If the documents defining an entity are amended such that they
+       still define that entity but with different properties, then
+       that entity and its properties continue to exist to whatever
+       extent is possible under the new definitions.
+and whether the repealing of Contracts caused contracts to cease to
+exist, or whether they were able to live on in the "new" (practically
+nonexistent) common definition of "agreement".
+
+My finding is that the complete removal of the definitions under which
+the Contract was made would lead to the reasonable expectation (on the
+part of anyone signing such a contract in the first place) that such
+repeals would cause the contract to cease to exist, rather than being
+continually binding in an undefined way, and therefore the repeal (not
+amendment) of these rules did in fact cause contract entities made in
+that era to cease to exist; and the fact that such a complete repeal
+would void contracts made under those rules was in fact a part of each
+contract (unless explicitly stated otherwise in the contract).
+
+Contracts made previous to this period, or contracts for which there
+is strong evidence that they had an existence in other jurisdictions may
+not themselves have been repealed; but this is not such a contract.
+
+FALSE.
+
+*starred* terms have reasonable summary of legal definition on
+Wikipedia.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+G.'s judgement of this case is in line with eir
+judgement of CFJ 2761.
+
+========================================================================

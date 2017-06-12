@@ -1,0 +1,46 @@
+==============================  CFJ 2818  ==============================
+
+    Yally is a candidate for Ship Computor.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       20 Jul 2010 15:59:47 GMT
+Assigned to scshunt:                    24 Jul 2010 15:10:54 GMT
+Judged FALSE by scshunt:                29 Jul 2010 03:06:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This is another CFJ on ordering of actions.  Both the
+initiation of the election and Yally becoming the holder of the office
+took place at Sun 18 Jul 23:16:02; however, the sentence indicating
+the assumption of the office comes later in the public message than
+the sentence initiating the election.  If Yally was "the current
+holder" of the office when the election was started, then e
+automatically become a candidate who accepted eir nomination.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Multiple actions in the same message occur in the order
+they were announced (usually unambiguous, and Yally's message was no
+exception).  FALSE.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Murphy's arguments are correct. FALSE.
+
+========================================================================

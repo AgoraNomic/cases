@@ -1,0 +1,111 @@
+==============================  CFJ 1572  ==============================
+
+    The phrase "no Votes were cast AGAINST it" in rule 2095 should be
+    interpreted as "any vote cast AGAINST it either was cancelled or at
+    the end of the voting period had a vote value besides AGAINST".
+
+========================================================================
+
+Caller:                                 Maud
+
+Judge:                                  Sherlock
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Maud:                         06 Jun 2005 20:12:49 GMT
+Assigned to Sherlock:                   12 Jun 2005 22:34:16 GMT
+Sherlock recused:                       15 Jun 2005 20:36:41 GMT
+Assigned to Murphy:                     19 Jun 2005 21:58:25 GMT
+Judged TRUE by Murphy:                  26 Jun 2005 21:41:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 683 is silent on whether when a player changes eir vote from
+AGAINST to ABSTAIN, it becomes the case that e cast eir vote ABSTAIN
+and ceases to be true that e cast eir vote AGAINST.  However, rule 955
+presupposes that changed votes work in exactly this way.  It is thus
+in the best interests of the game that rule 2095 be interpreted as
+specified in the statement.
+
+========================================================================
+
+Caller's Evidence:
+
+1.  Rule 2095/2 (as amended by proposal 4787)
+
+2.  Rule 683/11
+
+3.  Rule 955/8
+
+1.
+
+Rule 2095/2 (Power=1)
+The Assessor's Boon Duties
+
+      * If a Proposal passes, and that Proposal was submitted by a
+        Player within that Player's Grace Period, then the Assessor
+        shall award the Proposor the Boon of Prodigy, unless the
+        Proposor has already received five or more such awards.
+
+      * If an Democratic Proposal passes, and no Votes were cast
+        AGAINST it, then the Assessor shall award the Proposor the
+        Boon of Zeitgeist.
+
+      * If a proposal submitted on Guy Fawkes Day is adopted then the
+        Assessor shall award the proposer the boon of a penny.
+
+2.
+
+Rule 683/11 (Power=1)
+Voting on Proposals
+
+      A Voter authorised to cast votes on a particular Proposal may do
+      so only by informing the Assessor of the vote or votes e is
+      casting on that Proposal. A Voter may change or cancel eir vote
+      or votes during the Voting Period by informing the Assessor.
+
+      A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
+      (or an obvious synonym of one of these).  Something which is not
+      one of these is not a vote upon a Proposal.
+
+3.
+
+Rule 955/8 (Power=3)
+Votes Required to Adopt a Proposal
+
+      (a) When the Voting Period for a Proposal has ended, the
+          uncancelled votes which have been legally cast shall be
+          counted by the Assessor. The Proposal shall then be assigned
+          a Voting Index, as follows: if the Proposal received no
+          votes against, and at least one vote for, the Voting Index
+          shall be Unanimity; if there are no votes for, the Voting
+          Index shall be zero; in all other cases, the Voting Index
+          shall be the number of votes for divided by the number of
+          votes against.
+
+      (b) If the Voting Index is greater than one, and greater than or
+          equal to the Adoption Index for the Proposal, and if Quorum
+          for the Proposal is achieved, then that Proposal is adopted.
+          Otherwise, it fails.
+
+      (c) A Proposal may not have its Voting Index set except as
+          described in this Rule.  A Proposal cannot be adopted except
+          as described in this Rule.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the Caller's Arguments and judge TRUE.  However, I plan to
+propose legislative clarification of the issues implied by this CFJ.
+
+========================================================================

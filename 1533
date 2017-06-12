@@ -1,0 +1,222 @@
+==============================  CFJ 1533  ==============================
+
+    Rule 1561 cannot prevent an adopted Rule Change from taking effect.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Sir Toby
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+Appeal:                                 1533a
+Decision:                               REMAND
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+Appeal:                                 1533b
+Decision:                               REMAND
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           07 Mar 2005 06:24:05 GMT
+Assigned to Sir Toby:                   13 Mar 2005 02:35:25 GMT
+Sir Toby recused:                       20 Mar 2005 21:55:49 GMT
+Assigned to Murphy:                     20 Mar 2005 21:57:21 GMT
+Judged FALSE by Murphy:                 27 Mar 2005 05:41:44 GMT
+Appealed by G.:                         27 Mar 2005 15:21:54 GMT
+Appealed by Sherlock:                   29 Mar 2005 14:10:51 GMT
+Appealed by root:                       30 Mar 2005 21:52:43 GMT
+Appealed by Maud:                       31 Mar 2005 04:36:38 GMT
+Appeal 1533a:                           31 Mar 2005 04:36:38 GMT
+REMANDED on Appeal:                     06 Apr 2005 00:28:24 GMT
+Assigned to Murphy:                     09 Apr 2005 23:51:29 GMT
+Judged TRUE by Murphy:                  15 Apr 2005 07:47:24 GMT
+Appealed by Murphy:                     15 Apr 2005 08:18:24 GMT
+Appealed by Quazie:                     15 Apr 2005 10:47:41 GMT
+Appealed by root:                       15 Apr 2005 14:00:48 GMT
+Appealed by G.:                         15 Apr 2005 16:15:46 GMT
+Appeal 1533b:                           15 Apr 2005 16:15:46 GMT
+REMANDED on Appeal:                     17 Apr 2005 05:11:59 GMT
+Assigned to Murphy:                     17 Apr 2005 05:11:59 GMT
+Judged FALSE by Murphy:                 18 Apr 2005 08:26:39 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 107 (power-3), states "[Any Proposed Rule Change] if
+adopted, must guide play in the form in which it was voted on."
+
+While an adopted Rule Change may be delayed in taking effect
+and still guide game play (e.g. R376), any Rule which wholly
+prevents an adopted Rule Change from taking effect, and indeed
+prevents it from having "any" effect, prevents the Rule Change
+from guiding game play, and thus conflicts with R107.
+
+R1561 does so conflict.
+
+Rule 1561 (power-2) prevents any Proposal that bribes players
+from having any effect on game play, "even if adopted".
+Therefore, R1561 does not attempt to prevent proposals from
+being adopted.
+
+As for adopted proposals not having any effect, this may be
+enforceable for portions of Proposals which are not Rule Changes.
+
+But if a portion of a Proposal that is a Rule Change is interpreted
+not having any effect, the Rule Change would not guide game play,
+and thus R1561 would conflict with R107.
+
+While R1561's bribery clause is applied "any Rule to the contrary
+nonwithstanding", R107 has higher power than R1561, and thus,
+by R1482, R107 wins the conflict in spite of R1561's precedence
+clause.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 107/1 (Power=3)
+Rule Changes Must Be Written Down
+
+       Any proposed Rule Change must be written down (or otherwise
+       communicated in valid media) before it is voted on. If adopted,
+       it must guide play in the form in which it was voted on.  For
+       the purposes of this rule, print and electronic media, including
+       mailing lists, are valid media.
+
+
+Rule 1561/2 (Power=2)
+Illegality of Bonus Clauses
+
+       Any Proposal which offers a bribe to a Player or Players to
+       vote either FOR or AGAINST a Proposal (either itself or another
+       Proposal) shall be completely without effect, even if it is
+       adopted, any Rule to the contrary notwithstanding.
+
+       Proposing a card with an element of Grafty is not considered
+       bribery.
+
+
+Rule 1482/1 (Power=3)
+Precedence between Rules with Unequal Power
+
+       In a conflict between Rules with different Power, the Rule with
+       the higher Power takes precedence over the Rule with the lower
+       Power.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 107 requires adopted rule changes to guide play, but this is not
+the same as requiring them to determine play.  Instead, the combination
+of the adopted rule changes and the existing rules (including Rule 1561)
+determine play.
+
+This is similar to Rule 101 requiring players to obey the rules as a
+whole, but not requiring them to obey an individual rule in a situation
+where another rule takes precedence over it.
+
+Accordingly, I judge CFJ 1533 to be FALSE.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+Rule 1561 reads that certain adopted proposals
+will be COMPLETELY without effect on game play.
+I'm sorry, but I cannot think of any way that
+something can guide game play, as absolutely requred by R107, by having
+completely no effect
+on it.
+
+This is even if you accept a weak definition
+of "guiding" game play.
+
+The definitions are absolutely contradictory, and
+the R101 example the judge uses is specifically
+and ironically inaccurate: as we must obey the rules
+as a whole not individually, we must obey the
+precedence of 107 over 1561.  I can't see any way
+to play the game otherwise.
+
+========================================================================
+
+Appellant Maud's Arguments:
+
+The truth of the statement of CFJ 1533 depends in part on whether it is
+possible to guide play while having no effect.  The Caller purports to
+show that if something has absolutely no effect on play, then it is not
+guiding play either.  However, the Judge implicitly asserts that
+something can guide play but have no effect on play, giving no argument
+for the assertion.
+
+The statement of CFJ 1533 should be judged false if there is an explicit
+example of a hypothetical adopted rule change which could be prevented
+from taking effect by rule 1561 or less elegantly if there is a
+derivable contradiction from the assumption that the statement is true.
+In either case, more argumentation is required than was provided by the
+Judge.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 594 says that, when a proposal takes effect, its provisions "are
+are implemented to the maximal extent permitted by the Rules".  A similar
+principle applies to conflicts between two Rules:  one Rule takes precedence,
+and the provisions of the other Rule are implemented to the maximal extent
+permitted by the first Rule.
+
+For instance, Rule 1583 "takes precedence over all other Rules pertaining to
+penalties that are a direct result of voting", but it does not cause such
+Rules to be completely without effect; it does not cause their definitions
+of penalizable acts to be without effect; in fact, it does not cause their
+definitions of the penalty amounts to be *completely* without effect.  It
+*does* cause their definitions of the penalty amounts to be *incompletely*
+effective; specifically, the normal penalty amounts still function as inputs
+to Rule 1583's halving function.
+
+Similarly, Rule 107 takes precedence over Rule 1561, but it does not
+cause Rule 1561's "completely without effect" clause to be *completely*
+without effect.  Instead, here is what happens:
+
+  1) To satisfy Rule 107, the proposal and its text guide play.  They do
+     so by activating the various clauses in the Ruleset (in Rules 107,
+     1561, and some others) that determine the *further* effect of the
+     proposal.
+
+  2) Then, to satisfy Rule 1561, the proposal and its text are completely
+     without *further* effect.
+
+I judge CFJ 1533 to be TRUE.  Again.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+Aww, crap.
+
+Obviously the arguments indicate a re-judgement of FALSE, but since I
+made a thinko there at the end:
+
+I call for the appeal of CFJ 1533.  I request that two or more other
+players do likewise.  I furthermore request that the Board of Appeals
+vote to overturn and remand, so that I might deliver the intended
+judgement of FALSE.
+
+========================================================================

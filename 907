@@ -1,0 +1,84 @@
+======================================================================
+                               CFJ 907
+
+"Rule 114 should be interpreted such that if a Proposal contained
+ one Rule Change which, if it took effect, would make it impossible to
+ make arbitrary changes to the ruleset by some combination of player
+ actions, and that Proposal also contained other Rule Changes that, if
+ they took effect, would make unrelated changes, then if the Proposal
+ were adopted, of the Rule Changes in the Proposal only that one would
+ be prevented by Rule 114 from taking effect."
+
+======================================================================
+
+Judge:       Andre
+
+Judgement:   TRUE
+
+Eligible:    Andre, Antimatter, Blob, Chuck, Crito, elJefe, favor,
+             General Chaos, Harlequin, KoJen, Macross, Michael,
+             Morendil, Murphy, Oerjan, Steve, Swann, Vanyel
+
+Not eligible:
+Caller:      Zefram
+Barred:      -
+On hold:     -
+
+======================================================================
+
+History:
+  Called by Zefram, Fri, 7 Mar 1997 22:23:10 +0000 (GMT)
+  Assigned to Andre, Mon, 10 Mar 1997 10:32:58 +0000
+  Judged TRUE, Sun, 16 Mar 1997 18:50:39 +0100 (MET)
+  Published, Mon, 17 Mar 1997 12:29:01 +0000
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+Rule 114 says that the change that would cause the Ruleset to be in a
+type as is forbidden by 114, will not take place. Both Rule 594 and
+Game Custom specify that if a Proposal contains more than one Rule
+Change, each such a Rule Change is a separate change of the
+Rules. Therefore, Rule 114 possibly stops only a single Rule Change of
+a Proposal.
+
+======================================================================
+
+Injunction:
+
+I hereby make an Injunction as per Rule 789.
+
+Player(s) to whom it applies: the Rulekeepor
+
+Action(s) required: Annotate Rule 114 with the statement:
+ Rule 114 should be interpreted such that if a Proposal contained
+ one Rule Change which, if it took effect, would make it impossible to
+ make arbitrary changes to the ruleset by some combination of player
+ actions, and that Proposal also contained other Rule Changes that, if
+ they took effect, would make unrelated changes, then if the Proposal
+ were adopted, of the Rule Changes in the Proposal only that one would
+ be prevented by Rule 114 from taking effect.
+
+and a list of Rules consisting of Rule 114 and Rule 594.
+
+======================================================================
+
+(Caller's) Arguments:
+
+The Relevant Rules are 114 and 594.  Rule 594 states that "[i]f a
+Proposal containing Rule Changes is adopted, the Rule Changes
+contained in the Proposal shall take effect in the order in which they
+appear in the Proposal".  In the case of a Proposal containing more
+than one Rule Change, this clearly requires there to be a sequence of
+discrete changes to the gamestate, namely the sequence of Rule
+Changes.  In the scenario suggested by the Statement, only one of
+these changes to the gamestate would cause 114's condition to become
+false.  114 would thus prevent that one change to the gamestate from
+occurring, but it makes no claim to have any effect on the other Rule
+Changes.  Therefore, only that single Rule Change would be affected by
+Rule 114.
+
+======================================================================

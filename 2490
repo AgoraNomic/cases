@@ -1,0 +1,37 @@
+==============================  CFJ 2490  ==============================
+
+    root has a rest.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         04 May 2009 21:13:38 GMT
+Assigned to omd:                        04 May 2009 22:14:36 GMT
+Judged TRUE by omd:                     04 May 2009 22:37:06 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+root had no rests, then announced "I create a rest," but did not
+explicitly declare into whose possession the rest was created.
+
+========================================================================
+
+Judge omd's Arguments:
+
+TRUE: "I create a rest" is suitably unambiguous because root could
+only possibly have meant to create it in eir own possession: no other
+methods of creating rests by announcement are defined in the rules.
+However, "I spend C C to destroy a rest" would be ambiguous even if
+the intended target is fairly obvious.
+
+========================================================================

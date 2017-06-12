@@ -1,0 +1,73 @@
+==============================  CFJ 3140  ==============================
+
+    If, during a Holiday, the CotC assigns a judge to a judicial case
+    other than emself, the CotC has violated rule 1769.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  FKA441344
+Judgement:                              FALSE
+
+
+Judge:                                  FKA441344
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       02 Jan 2012 05:32:15 GMT
+Assigned to FKA441344:                  05 Feb 2012 21:14:38 GMT
+Judged FALSE by FKA441344:              06 Feb 2012 21:24:04 GMT
+Reconsideration requested by Murphy:    07 Feb 2012 05:50:38 GMT
+Reconsideration requested by Yally:     07 Feb 2012 06:06:11 GMT
+Reconsideration requested by ehird:     07 Feb 2012 14:24:09 GMT
+Assigned to FKA441344:                  07 Feb 2012 17:30:57 GMT
+Judged FALSE by FKA441344:              13 Feb 2012 22:50:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The relevant part of rule 1769 seems to apply the SHALL NOT
+to the judge, not to the player who does the assignment. This is
+probably buggy, and a little weird, but is the best testcase of this
+I've seen (rather better than attempting to submit players as evidence
+on a judicial case, or as proposals with the wrong II, or whatever).
+
+========================================================================
+
+Caller's Evidence:
+
+this excerpt from rule 1769: "judges SHALL NOT be assigned to
+any judicial case"
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+The rule does apply the "SHALL NOT" to the judge who "[is] assigned to
+any judicial case". I judge case 3140 FALSE and case 3141 TRUE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d844>:
+
+The literal reading behind these
+judgements blames the judge for something out of eir control; the
+less literal reading ("the assigner of judges SHALL NOT assign judges")
+avoids that problem, and is reasonably obvious to infer.
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+The new arguments do not seem to be relevant. There is no rule that
+prevents rules from making acts that the actor cannot control illegal,
+and rule 1504(e) suggests that this can happen and nullifies the
+problem of people being punished for acts they could not have avoided.
+I once again judge case 3140 FALSE and case 3141 TRUE.
+
+========================================================================

@@ -1,0 +1,96 @@
+==============================  CFJ 1690  ==============================
+
+    Prior to this CFJ, the results of Proposal 4977 were not challenged.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Zefram
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 Jun 2007 21:46:54 GMT
+Assigned to Zefram:                     27 Jun 2007 21:25:32 GMT
+Judged TRUE by Zefram:                  28 Jun 2007 16:08:11 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+CFJ 1684 was called by root:
+26 May 2007 03:10:06 GMT
+http://zenith.homelinux.net/cotc/viewcase.php?cfj=1684
+
+Voting report including Proposal 4977:
+30 May 2007 19:56:20 -0700
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2007-May/0030
+05.html
+
+Rule 2034/2 excerpt:
+      If the success of the resolution of an Agoran decision is not
+      challenged within one week from the time the vote collector
+      announces it, then the announced result is the true result of
+      that decision, even if it would otherwise be in error.
+
+========================================================================
+
+Caller's Arguments:
+
+The results of Proposal 4977 depended on the votes of a partnership
+to have been adopted.  These results were not formally challenged within
+one week of being posted.  By Rule 2034, these results should stand even
+if the votes of the partnership are invalidated.  A counterargument
+is that the ability of partnerships to vote in general were challenged
+prior to the results, by CFJ 1684 (which had been called at the time).
+However the court should reject this reasoning:  the strong need and intent
+for pragmatic adoption of proposals should prevent us from retroactively
+construing a challenge.  A challenge should be direct and specific to
+a proposal, or at least specific to the precise votes being challenged,
+to prevent the R2034 challenge limit clock from expiring.  It is not enough
+to challenge a deeper point of law which has an implied, but not
+explicitly stated or mentioned knock=on effect, otherwise the pragmatic
+nature of the proposal protection system in R2034 is broken.  I urge a
+judgment of TRUE.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+(pseudo-judged by Murphy to avoid some conflicts of interest)
+
+CFJ 1684 only questions the Pineapple Partnership's personhood
+at the moment it was called.  Interpreting this as a challenge
+to the resolution of Proposal 4977 relies on two separate chains
+of implications:
+
+  (1) PP is not a person
+        -> PP is not a player (Rule 869)
+        -> PP is not an eligible voter (Rule 106)
+        -> PP's voting limit is zero (Rule 1950)
+        -> PP's votes are invalid (Rule 1950)
+
+  (2) These things were true when the CFJ were called
+        -> These things were true at the start of Proposal 4977's
+             voting period (when Rule 1950 measures voting limits)
+
+I consider it in the best interests of the game to interpret that
+Rule 2034 should not be triggered by something this indirect.  Since
+no other challenges to the outcome of Proposal 4977 have been brought
+to my attention, I judge CFJ 1690 TRUE.
+
+I consider it sufficiently direct to identify an Agoran decision
+individually or as part of a set (e.g. "Proposals 6000-14", "all
+Proposals distributed during the past week").  I also consider any
+of the following types of claim to be sufficiently direct:
+
+  (a) "Proposal 6000 was rejected."
+  (b) "Joe's vote on Proposal 6000 was invalid."
+  (c) "Joe was ineligible to vote on Proposal 6000."
+  (d) "There was no decision to resolve Proposal 6000."
+  (e) "There was no Proposal 6000."
+
+========================================================================

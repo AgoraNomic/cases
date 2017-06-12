@@ -1,0 +1,94 @@
+==============================  CFJ 2932  ==============================
+
+    If Rule 2324 were amended as described in evidence, the adoption
+    index of each existing Agoran decision with an adoption index would
+    remain unchanged.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 omd
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       17 Dec 2010 02:44:55 GMT
+Assigned to G.:                         20 Dec 2010 07:08:58 GMT
+Judged TRUE by G.:                      20 Dec 2010 18:32:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2162 (Switches) does not explicitly state that defining a switch
+causes all instances to be have its default value; most cases rely on
+the "would otherwise fail to have a possible value" clause.
+
+(Rule 106 also secures changing a decision's adoption index, but with
+a power threshold of only 2; Rule 2162 has Power 2, so would not be
+blocked solely for that reason.)
+
+========================================================================
+
+Caller's Evidence:
+
+omd wrote:
+
+> On Thu, Dec 16, 2010 at 9:19 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+>> How does explicitly ruling out a fairly common value not count
+>> as "differing greatly"?
+>
+> As a property, it applies to the expected kinds of entities; it has
+> the same range of values that you'd assume (the rules only ever set AI
+> to a multiple of 0.1, but the name strongly implies that the range is
+> indices), except for that one value.  It's very different from, say,
+> defining "object" as "support" or any of the other ridiculous
+> definitions you could come up with.
+>
+> But, if you insist...
+>
+> I intend, With Notice, to cause Rule 2324 to amend itself by adding
+> the following paragraph:
+>
+>       Decision adoption index (referred to as "adoption index" in the
+>       context of Agoran decisions; not to be confused with the
+>       adoption index of a proposal) is a switch possessed by Agoran
+>       decisions, tracked by omd; the possible values for instances of
+>       the switch are the indices, plus the default value "none".
+
+Relevant rule excerpts:
+
+Rule 1586/7 (Power=2)
+Definition and Continuity of Entities
+
+      If multiple rules (hereafter documents) attempt to define an
+      entity with the same name, then they refer to the same entity.
+
+      If the documents defining an entity are amended such that they
+      still define that entity but with different properties, then
+      that entity and its properties continue to exist to whatever
+      extent is possible under the new definitions.
+
+Rule 106/29 (Power=3)
+Adopting Proposals
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      The adoption index of this decision is set to the adoption index
+      of the proposal at the initiation of the decision.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+When we implemented switches the second time (Proposal 5111), several
+properties - Activity, Publicity, Posture, Citizenship - were assumed,
+as far as I can recall without argument, keep their prior (non-default
+non-switch) values without explicit boot-up text.  If all those had been
+taken to be reset we would be playing a game with neither public fora
+nor Players.  TRUE.
+
+========================================================================

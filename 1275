@@ -1,0 +1,36 @@
+==============================  CFJ 1275  ==============================
+
+    An entity is a Player if the Rules cannot distinguish that entity
+    from a Player.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 Feb 2001 20:03:02 GMT
+Assigned to Murphy:                     25 Feb 2001 20:25:59 GMT
+Judged TRUE by Murphy:                  28 Feb 2001 10:59:45 GMT
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+If this "distinguishing" should take into account information other
+than the Rules themselves - for instance, the effectiveness of
+registration messages?
+
+If yes, then TRUE.  If no - if the Rules must stand in a vacuum - then
+FALSE; the Rules *by themselves* don't distinguish, say, Screaming
+Lord Sytch from a Player.
+
+I much prefer a yes on this question.  Judgement of TRUE is hereby
+entered.
+
+========================================================================

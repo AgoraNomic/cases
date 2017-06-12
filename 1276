@@ -1,0 +1,87 @@
+==============================  CFJ 1276  ==============================
+
+    An entity is a Player if, and only if, the Rules cannot distinguish
+    that entity from a Player.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Lindrum
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 Feb 2001 20:07:27 GMT
+Assigned to Lindrum:                    25 Feb 2001 20:26:00 GMT
+Judged FALSE by Lindrum:                04 Mar 2001 15:57:39 GMT
+
+========================================================================
+
+Judge Lindrum's Arguments:
+
+If it follows from the Rules that a particular entity is not a
+Player, then the Rules can certainly distinguish that entity from a Player.
+ But nothing much follows from the Rules themselves about who is, or is
+not, a Player.  For example: Rule 869 states that a non-Player person may
+become a Player by sending a message to a public forum, but Rule 869 by
+itself does not entail that any particular entity is or is not a Player.
+That Goethe is a Player, for example, doesn't follow from Rule 869.  It
+follows rather from the conjunction of Rule 869 with certain statements of
+fact that Rule 869 deems relevant; facts in this case about what has been
+posted in the public forum, and by whom.  So, in accordance with the
+interpretation adopted in Murphy's Judgement on CFJ 1275, I take the
+statement in CFJ 1276 on which I have been asked to Judge to amount to this:
+
+(*) An entity is a Player if and only if it doesn't follow from the Rules
+in conjunction with the relevant statements of fact, that that entity is
+not a player.
+
+This statement is the conjunction of two conditionals:
+
+(A)  If an entity is a Player, then it doesn't follow from the Rules in
+conjunction with the relevant statements of fact that that entity is not a
+Player.
+
+and
+
+(B)  If it doesn't follow from the Rules in conjunction with the relevant
+statements of fact that an entity is not a Player, then that entity is a
+Player.
+
+Statement (A) is clearly true, so the truth value of statement (*)
+coincides with the truth value of (B).
+
+Rule 869 describes one way that an entity may become a Player.  Rule 869
+does not say that this is the only way that an entity may become a Player.
+The Rules are silent on the question of whether any entities that are not
+persons are Players, and whether any persons who have never posted to a
+public forum requesting registration are Players.  For example: Bill
+Clinton has never posted to a public forum requesting registration.  Hence
+it doesn't follow from the Rules in conjunction with the relevant
+statements of fact that Bill Clinton is a Player. But neither does it
+follow from the Rules in conjunction with the relevant statements of fact
+that Bill Clinton is not a Player.
+
+The Rules are silent on the issue of whether or not (B) is true.  Rule 217
+states that in such circumstances "the Judge shall consider game custom,
+commonsense, past Judgements, and the best interests of the game before
+applying other standards".  These considerations make it clear that (B),
+and hence (*), should be judged FALSE.  There is clearly a well-established
+custom in the Game of Agora of taking Rule 869 to describe the only way
+becoming a Player, despite the fact that the Rules do not explicitly state
+that this is so.  It is, in other words, a well-established custom in the
+game that an entity does not count as a Player simply in virtue of the fact
+that the Rules are silent as to whether or not that entity is a Player.  So
+the statement on which I've been asked to judge is FALSE.
+
+This Judgement is also in accordance with commonsense and the best
+interests of the Game.  For if the statement on which I've been asked to
+Judge were judged TRUE, it would follow that Bill Clinton is a Player.  It
+would also follow that the Eiffel Tower and the square root of three are
+Players.  But such conclusions are an affront to commonsense and would lead
+to chaos. The statement is FALSE.
+
+========================================================================

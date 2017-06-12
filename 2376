@@ -1,0 +1,363 @@
+==============================  CFJ 2376  ==============================
+
+    It is possible for a Rule to change a proposal's text.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+Appeal:                                 2376a
+Decision:                               REASSIGN
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          11 Feb 2009 02:20:11 GMT
+Assigned to Murphy:                     14 Feb 2009 17:50:43 GMT
+Judged FALSE by Murphy:                 14 Feb 2009 18:31:10 GMT
+Appealed by omd:                        14 Feb 2009 21:07:32 GMT
+Appealed by ais523:                     14 Feb 2009 21:20:42 GMT
+Appealed by Taral:                      14 Feb 2009 22:05:25 GMT
+Appeal 2376a:                           14 Feb 2009 22:23:18 GMT
+REASSIGNED on Appeal:                   24 Feb 2009 00:07:36 GMT
+Assigned to G.:                         24 Feb 2009 19:32:32 GMT
+Judged TRUE by G.:                      24 Feb 2009 20:34:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Suber's rule in the subject is no longer in the Agoran ruleset, but I
+forsee arguments that this doesn't work because a proposal, as a 'document
+outlining changes to be made to Agora' (R106), is necessarily immutable
+(corresponding to the standard requirement that amendments to proposals
+must be performed by retraction and resubmission).  Although some types of
+documents (such as public documents and official documents) are immutable,
+I don't think 'document' implies immutability.  For example, Rule 754
+implies that a contract is a legal document; Rule 2166 refers to a rule or
+contract as a 'backing document'; and Rule 1586 temporarily defines
+'document' as 'rule or contract'; rules and contracts can be amended.
+Alternately, in ordinary language, amendable texts such as the United
+States Constitution are referred to as 'living documents'.  Therefore,
+there is nothing implicit in the definition of a proposal to prevent one
+from being amended; as the attributes of proposals are not secured, it is
+possible for a Rule to (grant permission to) amend them.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+A rule specifically allowing a proposal text to change is no more
+difficult to accept than one changing chamber, AI, etc.  But what's
+important is what is needed to actually *adopt* a Proposal.  That is
+defined under Agoran Decision rules, not proposal rules.
+
+Specifically, in R107 and elsewhere, an Agoran Decision is a decision on
+a "matter" to be decided on, which I argue could be defined as referring
+to a particular and specific version of a text, not a different version
+which later bears the same ID number.  The specific matter must be in the
+initiation notice for the decision[*].
+
+I fully admit that's a "for the good of the game" style argument relying
+on comparing a general definition of a "matter" against a general
+definition of "document", "text", etc. provided by comex.
+
+[*] Note that the example in R107(a) is shorthand as it doesn't include
+the full text of the proposal and thus doesn't show the "matter" -
+therefore it is an incomplete example - ID numbers themselves are not a
+"matter" but a handy method for referring to a "matter" as long as there
+is no reasonable ambiguity (the example in R107(a) predates ID numbers).
+It would be keeping with very long Agoran custom and English definitions
+to rule that a "matter" in R107a consists of an entire proposal text of
+a specific version published at the initiation of the decision.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+1.   The consideration of what an entity "is" (e.g. is it its text?
+its name?  its form?  the sum of its changing properties? ) is as
+unclear in ancient philosophy as it is in Agoran proposals (cf.
+Ship of Theseus) so there is considerable room for interpretation
+and debate for any particular type of entity.   I would argue that,
+unlike documents that report other values (e.g. a report identified
+by its changing currency holdings), or a "living" contract (that is
+identified by its parties and their fact of agreement as well as its
+text) that the caller cites, there is sufficient linguistic,
+customary, procedural, and Agoran specific and nomic-in-general
+historical evidence to strongly support (and perhaps make a "good of
+the game" argument) that a proposal *is*, by its very nature and
+definition, a precise text in a precise and immutable version, that
+other properties; AI, ID number, etc. are secondary, and that a
+different textual version is a different text and therefore a
+different proposal (or not a proposal).
+
+The Caller might argue that eir added text to R2238, "comex CAN
+modify any attribute of a proposal, including AI and text, by
+announcement" does indirectly define a proposal's text as mutable.
+However, at the time this definition is needed, R2238 is at power-1,
+and the current R754/9 [(2) and (4)] states that so long as the
+definitions (even implicit definitions with historical context) of
+immutability are contained or strongly supported in rules>1, R2238
+SHOULD be used for guidance, but "guidance" not strong enough to
+overrule the immutability.  (R754/9 makes the "guidance" of low-power
+rules purposefully weak; the expressed legislative purpose was to
+prevent low-power definitions, especially implicit ones, from
+overruling common usage or strong contextual definitions of terms
+contained in high-power rules, to prevent just this sort of scam).
+
+2. *If* the judge is to accept that one proposal can have two
+versions of its text and be the same proposal, the judge should
+first consider the impacts on the Agoran Decision process for
+adopting proposals as well as the definition of proposal itself,
+with specific consideration of what is meant by the "matter" to be
+decided.
+
+For example, in order to "clearly identify" a text with two versions
+(as required by R683 and R208 for voting and resolution), I would
+argue that, if two versions exist, the version must be identified at
+each vote (e.g. it is not enough to identify a "report" in general
+to ratify, one must identify a specific copy of the report).  This
+might lead to various parts of the process (but not all of it)
+breaking depending on how and when identifications are made, or it
+might simply reinforce the procedural evidence for accepting
+argument #1.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept Goethe's gratuitous arguments regarding Rule 754.  comex's
+scam legislation also fails to address the obvious and significant
+ramifications of its claim (particularly the impact on an in-process
+Agoran decision on whether to adopt the proposal), and is too low-power
+to impose brokenness rather than merely being ineffective (cf. Zefram's
+arguments against "the rules are a contract" at Power=1).
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend to appeal this with two support.  The judge did not address
+the debate about a proposal's document-ness in any way, but assumed
+that a proposal is immutable without addressing any of the arguments
+about the matter.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+I support. This judgement is completely missing the point. Goethe's arguments
+about rule 754 are about contracts, not proposals, and rather tangential to
+the point (they imply that proposals are either natural-language proposals
+per rule 754 or natural-language documents per rule 106); although Goethe's
+argument is relevant, it is only relevant in establishing what the judge must
+look at, not an argument for FALSE in itself! (Imagine the following
+hypothetical: CFJ "ais523 is a first-class person", gratuitous argument "a
+first-class person is a person of a biological nature", Judge "I accept the
+gratuitous argument, FALSE"; that would only be appropriate if it was very
+obvious as to my nature. This situation is similar; it is not at all obvious
+whether a natural-language proposal is modifiable in general, or Goethe and
+I wouldn't have been debating it for several days with neither of us ending
+up entirely sure at the end of it.)
+
+Also, why should comex's scam legislation address the ramifications of its
+claim? That's for a judge to do, not for the scam rule itself. (If the scam
+rule did state a judgement to be used in any CFJs regarding it, I rather
+suspect that would either be considered judicial corruption, or ignored,
+rather than something that the rule is required to do!) If a rule says, or
+implies, that a proposal can be modified, it is not ineffective merely
+because it does not consider every possible resulting corner case.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Wed, 2009-02-11 at 11:21 -0800, Kerim Aydin wrote:
+> On Wed, 11 Feb 2009, comex wrote:
+> > The only way around this is to argue that a proposal also includes its
+> > AI and II (which is dubious given a reading of the relevant rules);
+>
+> No, it's trivial.  Think databases.  The relation "One text per
+> proposal" does not imply "one proposal per text."  All you're raising
+> is that there's some ambiguity in referring to two proposals in the
+> latter case.  Various aspects (in particular ID numbers) make
+> referring to multiple proposals with the same text easier, but if
+> those all break down due to ambiguity, you can always refer to
+> "I vote for the proposal submitted with the following text in the
+> following message" as a trivial though annoying solution.  But
+> you're right, text alone is not enough.  See my last paragraph
+> below.
+I agree that there's only one text per proposal.
+{{{
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
+}}}
+It's pretty clear that a proposal can have an AI, II, title, etc, as per
+the rules. Text is a feature of a document, just as those other things
+are features of documents which happen to be proposals.
+>
+> You've made various analogies "proposals may be like contracts" or
+> "proposals may be like reports".  I wonder how you get around the
+> English definition we're required to use; e.g "proposals" (Agora)
+> are like "proposals" (dictionary):
+>
+> 1 an act of putting forward or stating something for consideration
+> 2 a: something proposed : suggestion
+>
+> By this definition, a proposal is tied to "something" proposed.  The
+> only "something" that a person is required to submit for our
+> proposals is published, marked block of text.  By common definition,
+> a different block of text would a different "something" put forward
+> and a different proposal.  Or are you saying that two different
+> texts are somehow the same "suggestion"?
+If I remember correctly, B Nomic used to allow players to amend
+proposals, before they were voted on. PerlNomic allows players to amend
+proposals even /after/ they've been voted on, if they had more abstain
+than no votes (which resets the vote count). Certain real-life legal
+systems also allow amendments of their equivalents to proposals; it is
+common for proposed laws to change several times in both the US and UK
+parliaments, for instance, before being adopted or rejected. Whether
+common-language suggestions can be modified without retracting or
+remaking them is, I suspect, normally irrelevant in conversation; I
+expect that altering a suggestion would be treated as an entirely
+possible action in real-life, and whether that is just an abbreviation
+for making a different similar suggestion is nearly always irrelevant,
+confined just to the outer realms of philosophical argument (and nomic,
+of course). That makes it not particularly helpful...
+>
+> Actually, by this definition, if a second person puts forward the
+> same text, it *is* the same proposal.  There used to be a specific
+> clause preventing that:
+>       The delivery of text identical to another Proposal which was
+>       Proposed less than three weeks previous does not create a
+>       new Proposal unless accompanied by a clear and explicit
+>       indication that the intent was to Propose a duplicate Proposal.
+> This is part of the historical record I was thinking of.  But I
+> wonder if its removal was a mistake?  That some of those case of
+> the same text were, by definition, the same proposal?
+That rule looks to me like it's an attempt to prevent duplicate
+proposals being submitted by mistake; an anti-typo rule, so to speak,
+rather than anything inherent in the nature of proposals. (Remember all
+the accidental double-distributions from the PNP? Presumably, something
+similar happened on a whole-Agora scale back then.)
+
+Actually, the PNP double-distributions are interesting, as I think we've
+ruled that they create two different proposals. Which one is the
+originally proposed one, I wonder?
+>
+> A way out of this is to say that text alone is not enough.
+> "Text submitted by a certain person in a certain message" is
+> needed to identify a proposal (R106). (evidence: what happens
+> when a copy/paste error is made by the distributor?  A new text
+> therefore a new proposal).  On the other hand, AI, etc do
+> not make a new proposal.
+I'd say a copy/paste error creates a new proposal because it could have
+been created. Clearly, typos shouldn't be capable of editing the text of
+a proposal! (Also, see CFJ 1669. That CFJ was back when attributes of
+proposals needed to have particular values for them to be distributed.)
+The important thing here is that the Promotor is assigning an ID number
+to the proposal, and so has to identify it by some means other than
+number. In this case, the text is used to identify the proposal. If the
+text is incorrect, therefore, the proposal isn't identified.
+
+However, given that the Promotor is entirely capable of creating a
+proposal on eir own accord, I expected that such a proposal would count
+as submitted by the Promotor if submitted. (See, however, CFJ 1780,
+which seems inconsistent with both of our views; I wonder what the
+result would be if it were made again nowadays?)
+
+Now, suppose the /Assessor/ makes a typo in the text of a proposal
+Assessing a proposal. Does that cause the assessment to be ineffective?
+No, because the the text of the proposal need not be published during
+the assessment of the proposal. The proposal is now being identified by
+ID number, and there can only be one proposal with any particular ID
+number (rule 2161). It's possible to amend the text of a proposal (a
+document), and the ID number continues to refer to the proposal, just as
+a rule (an instrument whose content takes the form of text) can be
+amended and keep the same ID number, and a contract (a binding
+agreement) can be amended and still keep the same ID number. (I wonder:
+if proposals didn't have ID numbers and had to be identified by their
+text during assessment, and the Assessor made a typo that fundamentally
+changed the meaning during assessment, would it adopt that proposal with
+a different text? Would it adopt a different, newly created, proposal
+with a different text?)
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, it is trivially TRUE that the Rules could be altered at high level
+to allow this.  However, in the spirit of dealing with the Rules at the
+time of the CFJ (rather than dealing with all hypothetical rulesets),
+I'll write the opinion towards a narrower question that I suspect was
+intended by the Caller:   "It is possible for a clause to be added to a
+Rule (and no other changes be made) that would allow a Rule to change a
+proposal's text."
+
+In the Ruleset at the time of the CFJ, the definition of a proposal and
+how it is to be submitted was contained in R106/15; the question is whether
+this definition or submission process makes the text inherently immutable.
+The previous arguments (gratuitous and otherwise) for this case and for
+Appeal 2376a have made it clear that in common or legislative processes,
+proposals can be mutable or immutable; in legislative processes in
+particular, mutability is defined by the existence of a mutation process.
+
+In a gratuitous argument, I stated:
+  - The process of R106, and of Agoran Decisions, does suggest, rather
+    strongly, immutability;
+- The history of the process also strongly suggests immutability;
+
+However, neither the general R106/15 description of what a proposal "is",
+nor the explicit submission process in R106, nor the historical context,
+contain explicit Rules-based definitions of immutability.  Therefore, using
+the guidance of R754/9(2), if a clause were added to a rule *of the same
+power as R106/15* that declared a proposal mutable, *or* contained an
+explicit process of mutability, it would define the mutability without
+contradicting R106.  This, again leads to TRUE.
+
+So what if a lower-powered rule defined a mutability process?  By
+Rule 754/9(4), "In determining the ordinary-language meaning of a term,
+definitions contained in lower-powered Rules, followed by definitions
+used in contracts or other Agoran legal documents, SHOULD be used for
+guidance."
+
+The question is, how strong is this guidance?  Rule 754 has been
+specifically re-written to allow common definitions of words in higher-
+powered rules (e.g. "proposal") to have higher authority than lower-
+powered definitions.  If common dictionaries clearly and directly linked
+"proposals" to "immutable text", that definition would win.  However,
+in this case, as discussed at length, the common definition of "proposal"
+does not forbid mutability and some legislative systems allow it.
+
+Further, while the "weak suggestions" and "historical context" do in
+fact suggest immutability, it is not at this point for the good of
+the game to disregard the guidance of the SHOULD in R754; rather, in
+the name of respecting process, a well-specified power-1 mechanism for
+altering a proposal should not be taken as conflicting with R106/15.
+Again, this leads to a judgement of TRUE.
+
+Therefore, with a finding of TRUE on any reading of the CFJ in question,
+this Court finds TRUE.  HOWEVER:  it is important to note that this
+decision does *not* address, nor is it meant to imply an opinion on, what
+happens to an Agoran Decision to *adopt* a proposal if the proposal
+text changes after the initiation of a Decision to adopt it.
+
+Also note, that if we accept that a Proposal text can be changed, it goes
+against the precedent that "any body of text (such as a rule) conforming
+to the first paragraph of R106 is a proposal" because this latter
+precedent coupled with mutability would imply that a proposal, when it
+changes it text, actually turns into a copy of a previously-existing
+platonic proposal and so is no longer its own proposal.  But that's
+another matter for philosophers to moot on another day.
+
+========================================================================

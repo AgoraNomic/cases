@@ -1,0 +1,90 @@
+==============================  CFJ 1560  ==============================
+
+    The Justiciar's report was not ratified in 2003.
+
+========================================================================
+
+Caller:                                 Sherlock
+
+Judge:                                  OscarMeyr
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Sherlock:                     27 Apr 2005 13:25:16 GMT
+Assigned to OscarMeyr:                  28 Apr 2005 06:14:09 GMT
+Judged TRUE by OscarMeyr:               05 May 2005 01:26:48 GMT
+Appealed by root:                       05 May 2005 03:43:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+    The issue here is whether the newly instituted Justiciar's report of
+    Organizations is the same report as the recently departed Notary's
+    report of Organizations.  I don't see how they could be, since the
+    way reports are differentiated in the ruleset is by which office they
+    relate to.  I could see an argument that the information inside a
+    report could inherit from a different report, but an individual report
+    seems to be distinct per office per R1686:
+
+      All information that is part of an Office's Official
+      Report shall be maintained by the corresponding officer.
+
+    Ratification occurs to a report, not the information inside it, so it
+    seems pretty clearly tied an office and would not carry over when the
+    recording of that information changes hands.
+
+    Additionally, the current Justiciar's report is closer in content to
+    the monthly Notary's report, not the weekly Notary's report.  The
+    monthly report was never ratified, so even if the Justiciar's report
+    and the old Notary's monthly report are the same thing, there would be
+    no ratification to be handed over.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+R1791(iii) explicitly connects ratification of a Report to the reporting
+Officer.  The ratification of the Notary's Report in 2003 does not carry
+over to the brand new Justiciar's Report, even though the reported
+information does carry over.  I find TRUE.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Rule 1791/0 (Power=1)
+Ratification Without Objection
+
+      Any Officer who holds an Office in Normal Fashion can Ratify an
+      Official Report Without Objection, provided the following
+      conditions hold;
+
+        i) The Report to be Ratified is one that is legally
+           permissible to Ratify.
+       ii) The Report to be Ratified was produced by the Player
+           holding the Office.
+      iii) The Report to be Ratified is one that is required to be
+           produced and maintained by the Officer.
+
+      A Speaker who is not Tainted is permitted to Ratify any Official
+      Report Without Objection provided that the Report is one legally
+      permissible to Ratify.
+
+      A COE on any Report undergoing this process shall be deemed by
+      the Rules to constitute an Objection.
+
+========================================================================
+
+Appellant root's Arguments:
+
+R1791(iii) only acts on the ratification process itself.  It doesn't
+say anything about whether a previously ratified report will remain
+ratified.  To say otherwise is akin to arguing that all previous
+votes on proposals are canceled if we change the rules describing
+what votes are permitted.
+
+========================================================================

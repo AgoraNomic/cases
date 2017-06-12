@@ -1,0 +1,65 @@
+==============================  CFJ 2098  ==============================
+
+    No matter what their contents, all public messages contain at least
+    one game-relevant action
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       18 Jul 2008 16:07:22 GMT
+Assigned to Wooble:                     19 Jul 2008 00:42:48 GMT
+Judged FALSE by Wooble:                 19 Jul 2008 02:30:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Consider a CFJ such as CFJ 2069, which asked if a particular message
+contained at least one game-relevant action.
+
+Either the contents of this message affect the outcome of a CFJ such as
+2069, or they don't. In the case that the contents do affect the
+outcome, this means that the publishing of the message itself was a
+game-relevant action, because it affected the outcome of the CFJ;
+therefore, whatever the contents of the message, the CFJ is going to be
+ruled FALSE (i.e. TRUE that there is a game-relevant action), and
+therefore the contents of the message do not affect the outcome of the
+CFJ, as it would have the same outcome whatever the contents of the
+message. This is a contradiction.
+
+If the contents of the message don't affect the outcome of the CFJ, this
+must be because the CFJ would always rule that there is a game-relevant
+action (because clearly it is possible to file a message with a
+game-relevant action in). In the case where there are no actions in the
+message other than its publication, this is also, obviously, a
+contradiction.
+
+Therefore, both TRUE and FALSE lead to a contradiction, thus this CFJ
+must be judged UNDECIDABLE. (Note that this does not lead to a Win by
+Paradox, as it isn't about the permissibility or legality of a
+rule-defined action.)
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE.  The publication of a message may itself be a
+game-relevant action, but a message so published doesn't necessarily
+"contain" any action.
+
+(For that matter, I'm not sure it makes sense to say a message
+"contains an action" at all; at best a message might contain an
+*announcement* that the publisher is performing some action. Whether
+these are equivalent is irrelevant to the outcome of this CFJ; a blank
+message contains nothing at all, whether the publication of that
+message constitutes a game-relevant action or not.)
+
+========================================================================

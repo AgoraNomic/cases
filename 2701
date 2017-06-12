@@ -1,0 +1,168 @@
+==============================  CFJ 2701  ==============================
+
+    The LNP is a player
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  ə
+Judgement:                              
+
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  Tiger
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Sep 2009 23:04:59 GMT
+Assigned to ə:                          23 Sep 2009 22:23:20 GMT
+ə recused:                              12 Oct 2009 23:41:14 GMT
+Assigned to BobTHJ:                     14 Oct 2009 18:03:45 GMT
+BobTHJ recused:                         21 Oct 2009 19:24:16 GMT
+Assigned to Yally:                      25 Oct 2009 16:23:40 GMT
+Yally recused:                          07 Nov 2009 19:16:37 GMT
+Assigned to Machiavelli:                07 Nov 2009 19:18:27 GMT
+Machiavelli recused:                    17 Nov 2009 11:44:41 GMT
+Assigned to Tiger:                      17 Nov 2009 11:45:40 GMT
+Tiger recused:                          22 Nov 2009 22:41:34 GMT
+Assigned to G.:                         28 Nov 2009 23:48:54 GMT
+Judged TRUE by G.:                      29 Nov 2009 07:14:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Thu, 2009-09-17 at 15:58 -0500, Pavitra wrote:
+> This may possibly save you, but I'm still not convinced that "to intend"
+> is a proper action, despite its grammatical status as a verb. In its
+> natural-language meaning, which I maintain that the Rules do not
+> overwrite, "I intend" is a description of a passive mental state, like
+> "I understand" or "I doubt". It's not an activity that can be either
+> effective or ineffective, like lifting a box or spending a coin.
+>
+> In short, I am arguing that intent is (1) like contracts, recognized
+> rather than defined by the Rules; and (2) a passive mental state, like
+> the state of a switch, rather than an action, like flipping the state of
+> a switch.
+
+If Pavitra's argument above is correct, then partnerships
+cannot intend to perform dependent actions (allegedly a non-action)
+without the text of a message that would let them do it being published.
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+If a contract provides an internal mechanism for accomplishing X, then
+beginning that formal, contract-defined process causes the contract to
+intend to do X.
+
+(This interpretation derives naturally from the proposition that formal
+systems and minds are largely the same thing, and that human minds are
+merely particularly complex systems. I grew up on Hofstadter and I'm
+proud of it.)
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+The issue here is about whether intent is an action (therefore, this
+ties in with the arguments about the Points Party). The LNP was picked
+here because it cannot act on its own; only via act-on-behalf. If intent
+is indeed an action, then everything worked just fine. If it isn't,
+however, the quoted part of R2263 prevented the intent from working, by
+preventing the LNP doing anything at all; (a) wasn't met, as no message
+was given, and (b) and (c) cannot be met unless an action is involved.
+So the LNP registered if and only if an intent is an action.
+
+========================================================================
+
+Gratuitous Evidence by ais523:
+
+The text of the LNP:
+{{{
+A Livenomicer CAN act on behalf of the LNP to cause it to intend,
+with Agoran Consent, to register, and to resolve this intent.
+}}}
+R2263:
+{{{
+      Rules to the contrary notwithstanding, acting on behalf of a
+      person is INVALID if not published. Such publication is INVALID
+      unless it specified the text of the simulated message by:
+      (a) clearly stating the text of a message;
+      (b) clearly specifying an action (the message states the grantor
+          performs the action); or
+      (c) performing by announcement an action defined in a public
+          contract's text to (clearly and unambiguously) include
+          causing the grantor to perform a specific action (the
+          message states the grantor performs the action)
+}}}
+
+========================================================================
+
+Judge G.'s Arguments:
+
+There are two possible uses of "intend" here:
+1.  A specific announcement of intent as per R1728, or a similar/
+    parallel formal legal "expression of intent" defined in a contract;
+2.  The "mind-state" of a conscious entity that has decided it plans
+    to perform some action: "the state of a person's mind that directs
+    his or her actions toward a specific object."
+
+An important point is that #2 is really irrelevant to this discussion.
+Insomuch as we still (vaguely and with reservations) accept the ca.2007
+assertion that a partnership might be some sort of "natural" albeit
+secondary type of person in the absence of legislation, there is no
+suggestion in written or natural law that this makes it a conscious
+entity with a mind that can be directed towards an object[*].  Thus, a
+contract can only "intend", or "express intent", in a manner formally
+recognized by its own charter or the rules governing its charter (in
+this case Agoran rules).  So if a contract, or its governing rules,
+explicitly define a process of "expressing intent" then it can do so;
+but beginning a formal process for a general action is not sufficient
+for saying that the contract "intends" to perform the action (this is
+a similar fallacy to searching for "original intent" among a group of
+lawmakers).
+
+I will also point out that, even for a conscious entity, arguably,
+posting an "announcement of intent" as per R1728 is a defined legal
+announcement, and does not necessarily express a natural "actual"
+intent (i.e. state of mind) of any kind!
+
+So "intent" (expressing, feeling, or having) isn't an action, but
+"posting an announcement of intent" is.  And I find that the LNP
+contract text "cause it to intend, with Agoran Consent" is a clear
+and obvious enough reference to R1728 that it empowers the indicated
+entities to "post an announcement of intent" as R1728 requires
+whether or not the poster (or the contract) naturally "intends" to
+complete the action.
+
+Therefore this worked.  TRUE.
+
+[*}Only when a contract is sufficiently complex that we may talk
+meaningfully about its free will or at least passing a Turing Test,
+may we accept that it might express or possess a "natural" intent.
+But once we accept that, we could no longer treat it as a second-
+class person, and questions about its invididuality with respect
+to its contract would be raised, to say the least.
+
+========================================================================

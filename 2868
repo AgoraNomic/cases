@@ -1,0 +1,71 @@
+==============================  CFJ 2868  ==============================
+
+    In the quoted message, Wooble published one or more judicial
+    declarations.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          23 Sep 2010 20:07:53 GMT
+Assigned to Machiavelli:                03 Oct 2010 17:51:59 GMT
+Machiavelli recused:                    17 Oct 2010 21:19:57 GMT
+Assigned to ais523:                     17 Oct 2010 21:21:46 GMT
+Judged FALSE by ais523:                 24 Oct 2010 05:59:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+E is assigned as judge of a pending CFJ, but didn't
+identify that CFJ in this message; is being a judge required?  What
+about being the judge of a closed CFJ?
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, Sep 23, 2010 at 3:48 PM, Geoffrey Spear <geoffspear@gmail.com> wrote:
+> I publish the following judicial declarations:
+
+(from ##nomic)
+<Wooble> I specifically didn't mention a case because of how broken
+declarations are.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2868 FALSE. "Judicial declaration" is not defined in the
+rules, they merely trigger on judicial declarations made in certain
+contexts. Whether this actually works is mostly irrelevant due to rule
+2212, which makes judicial declarations self-ratifying only if they are
+required and published in conjunction with the rules. There is one (and
+only one case) case where it does matter; rule 2314 allows for judicial
+declarations that a position on the list is ambiguous to be made and
+have effect separately, rather than via rule 2212. (If not for this, I'd
+have ruled IRRELEVANT.) There is no definition in the rules, but we can
+fall back on both a plausible legal meaning (via rule 754), where you'd
+expect judicial declarations to be made in the context of some case or
+similar legal proceedings; the precedent of CFJ 2865 ("a judicial
+declaration is some kind of declaration made in the context of a CFJ,
+presumably by the judge"; note that Judge Taral immediately assumed that
+the CFJ in question was more important than who made the declaration,
+demonstrating how the obvious meaning is that a CFJ must be specified);
+and game custom, whereby previous judicial declarations had always taken
+care to specify a CFJ (comex/omd's attempted judicial declaration scam
+deliberately specified a case, even though it had nothing to do with the
+scam otherwise). All these lines of argument point towards FALSE.
+
+========================================================================

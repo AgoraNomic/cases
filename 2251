@@ -1,0 +1,75 @@
+==============================  CFJ 2251  ==============================
+
+    At least one Annoyance exists.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Pavitra
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       02 Nov 2008 20:49:14 GMT
+Assigned to Wooble:                     08 Nov 2008 08:50:49 GMT
+Judged FALSE by Wooble:                 08 Nov 2008 14:35:03 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This would create an infinite number of
+Annoyances.  Also, the domain of all possible names is not
+well-defined (e.g. are non-ASCII Unicode characters allowed?).
+
+========================================================================
+
+Caller's Evidence:
+
+> I agree to the following pledge:
+> {
+> The name of this pledge is Troll.
+>
+> Pavitra CAN amend or terminate this pledge by announcement.
+>
+> Any person CAN transfer 10VP as defined by the Vote Market contract to
+> Pavitra to terminate this pledge.
+>
+> Annoyances are a class of liquid asset.
+>
+> Upon the creation of this pledge, for each name that is not the name
+> of any Rule-defined or contract-defined entity, an Annoyance with
+> that name is created in Pavitra's possession.
+> }
+>
+> I think this makes it impossible to create or rename named entities
+> such as lands and rules.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+Assets are contract-defined, not rules-defined,
+and so their names are not protected by R1586.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Trivially FALSE. Their backing document does not
+exist, as it has insufficient parties to be a private contract and is
+not marked public.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE.  The purported class of Annoyance assets lacked a valid
+backing document at the time of this CFJ and thus was not a class of
+assets.
+
+========================================================================

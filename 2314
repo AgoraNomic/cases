@@ -1,0 +1,95 @@
+==============================  CFJ 2314  ==============================
+
+    If a CFJ were called on X on December 20 this year, it would be
+    legal to judge FALSE on the CFJ, where X is defined as the following
+    string, followed by a quotation mark, followed by the same string,
+    followed by a quotation mark: "If a CFJ were called on X on December
+    20 this year, it would be legal to judge FALSE on the CFJ, where X
+    is defined as the following string, followed by a quotation mark,
+    followed by the same string, followed by a quotation mark: "
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  19 Dec 2008 02:12:35 GMT
+Assigned to BobTHJ:                     23 Dec 2008 00:44:26 GMT
+BobTHJ recused:                         15 Jan 2009 08:12:36 GMT
+Assigned to woggle:                     15 Jan 2009 08:27:26 GMT
+Judged FALSE by woggle:                 15 Jan 2009 17:33:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Thu, Dec 18, 2008 at 8:18 AM, Alex Smith <ais523@bham.ac.uk> wrote:
+> On Mon, 2008-12-15 at 22:32 -0500, Warrigal wrote:
+>> If a CFJ were called on X, it would be legal to judge FALSE on the
+>> CFJ, where X is defined as the following string, followed by a
+>> quotation mark, followed by the same string, followed by a quotation
+>> mark: "If a CFJ were called on X, it would be legal to judge FALSE on
+>> the CFJ, where X is defined as the following string, followed by a
+>> quotation mark, followed by the same string, followed by a quotation
+>> mark: "
+>
+> I believe it's a nice simple paradox, but not a game-winning one, as the
+> paradox arises as a result of the CFJ itself.
+
+I CFJ on the following statement, then:
+
+If a CFJ were called on X on December 20 this year, it would be legal
+to judge FALSE on the CFJ, where X is defined as the following string,
+followed by a quotation mark, followed by the same string, followed by
+a quotation mark: "If a CFJ were called on X on December 20 this year,
+it would be legal to judge FALSE on the CFJ, where X is defined as the
+following string, followed by a quotation mark, followed by the same
+string, followed by a quotation mark: "
+
+Obviously, this CFJ does not cause an identical CFJ to be called on
+December 20 this year; therefore, the rule-defined action does not
+arise from this CFJ.
+
+Now, as for the true-and-false chain thing:
+
+The truth of a statement does not depend on anything the statement
+doesn't mention. The only things that can change the truth value of
+"The sky is blue" are changing the sky and changing what it means to
+be blue; the only things that can change the truth value of "This
+statement is false" are changing the statement and changing what it
+means to be false.
+
+Besides, the statement I CFJ'd on is false under the same
+circumstances as those under which it's true; if it were "constantly
+alternating between false and true with infinite frequency", it would
+still be false when true and vice versa; if it is "half true, half
+false", UNDECIDABLE is appropriate.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Metaparadox: If we accept your arguments, UNDECIDABLE is the only
+appropriate judgement; therefore, it would not be legal to judge FALSE,
+and therefore FALSE is an appropriate judgement.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge FALSE. FALSE would not be an appropriate judgment (on a 20
+December CFJ with this statement, assuming that the statement was
+logically false would lead to a contradiction). Note that since this
+CFJ was not called on 20 December, it does not reference itself.
+
+========================================================================

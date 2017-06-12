@@ -1,0 +1,122 @@
+==============================  CFJ 1901  ==============================
+
+    Y is a contract.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Zefram
+Judgement:                              
+
+
+Judge:                                  Zefram
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          04 Feb 2008 16:01:45 GMT
+Assigned to Zefram:                     04 Feb 2008 18:29:24 GMT
+Zefram recused:                         04 Feb 2008 18:36:25 GMT
+Assigned to Zefram:                     04 Feb 2008 18:36:25 GMT
+Judged TRUE by Zefram:                  05 Feb 2008 13:29:14 GMT
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+CFJ 1892 covered contracts that claim to be non-binding, but contain
+obligations.  Contracts that claim (explicitly or implicitly) to be binding,
+but contain no obligations, are a different kettle of fish and I don't think
+they've been tested.  Perhaps it's simple: the agreement between parties
+that a binding contract exists should be taken, prima facie, as a binding
+obligation for both parties to acknowledge the existence of the contract.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+Y clearly does not impose any explicit obligations.  Its entire explicit
+content is a definition (of the name "Y").  Goethe proposes finding
+an implicit obligation, to acknowledge the existence of the contract.
+However, that is not supported by any rule or prior jurisprudence.
+Likewise for any other administrative obligation.  There are certain
+automatic obligations that result from the existence of a contract,
+such as the rule 2149 obligation to not publicly deny its existence.
+However, such rule-defined obligations are not qualitatively different
+from those that result from holding offices, voting, and other game
+activities that do not involve a general-purpose instrument of obligation.
+These obligations are imposed by the rules, not contracts.  So I find
+that Y does not impose any obligations.
+
+CFJ 1892 has found that an agreement that is not binding is not a
+contract.  It was concerned with an agreement that contained a clause,
+taking precedence over the others, which explicitly denied that the
+agreement was binding.  The judge also referred to a prior example
+where an agreement contained a clause explicitly denying that it was a
+contract.  In these cases the agreement was found to be self-nullifying:
+the disclaimer clause meant that the agreement was not binding, not
+a contract, and therefore was categorically incapable of imposing
+obligations.
+
+Three interesting properties of agreements have so far been considered.
+These properties are that an agreement may
+
+    P0: be binding
+    P1: impose obligations
+    P2: be a contract
+
+It is of the essence of our contract law that an agreement with properties
+P0 and P1 also has P2, and thus falls under the purview of the various
+rules governing contracts.  CFJ 1892 has found that an agreement that
+lacks P0 also lacks P1 and P2.  This leaves open the question of the
+contractness of an agreement with property P0 but not P1, and indeed
+whether there is any distinction between P0 and P1.  Having already found
+that Y lacks P1, if P0 and P1 are identical then Y would fall under the
+ruling of CFJ 1892 and also lack P2.  On the other hand, if P0 and P1
+are distinct, then Y might have P0 and might have P2.
+
+I find that being binding and imposing obligations are distinct
+properties.  They are different aspects of the contract nature.
+Being binding is a prerequisite for (effectively) imposing obligations,
+but it nevertheless makes sense for an agreement to be binding even if
+it doesn't (presently, or ever) use that power to bind the parties to
+any obligations.
+
+I also find that the appropriate definition of contract is "a binding
+agreement", as quoted by the judge in CFJ 1892 and inferrable from the
+first two sentences of rule 1742.  The rules have no explicit requirement
+that a contract impose obligations on its parties; they merely give it
+the power to do so.
+
+That is, an agreement has property P2 if and only if it has property P0,
+regardless of whether it has property P1.
+
+The question that remains is whether Y is binding (and so is a contract).
+The instrument of its formation shows clear intent that it be a contract,
+and so intent that it be binding.  At the time the CFJ was called,
+there had been no opportunity for the parties to agree to dissolve or
+amend it.  Having found the lack of imposed obligations irrelevant, I see
+no other reason why Y would fail to qualify as binding under the rules.
+I therefore judge CFJ 1901 TRUE.
+
+========================================================================
+
+Judge Zefram's Evidence:
+
+|Message-ID: <6bf32280802040801r93bb10do7281c247581983ef@mail.gmail.com>
+|From: comex <comexk@gmail.com>
+|To: agora-business@agoranomic.org
+|Subject: BUS: Hmm...
+|Date: Mon, 4 Feb 2008 11:01:45 -0500
+|
+|I create a contract with the AFO with the text:
+|{
+|1. The name of this contract is Y.
+|}
+|
+|I CFJ on the statement: Y is a contract.
+
+========================================================================

@@ -1,0 +1,112 @@
+==============================  CFJ 1515  ==============================
+
+    Murphy's Voting Potential is 1.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Sir Toby
+Judgement:                              
+
+
+Judge:                                  Elysion
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       04 Jul 2004 08:10:57 GMT
+Assigned to Sir Toby:                   05 Jul 2004 22:58:26 GMT
+Sir Toby recused:                       14 Jul 2004 14:48:50 GMT
+Assigned to Elysion:                    18 Jul 2004 21:50:09 GMT
+Judged FALSE by Elysion:                23 Jul 2004 00:35:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Murphy had 4 kudos and a Voting Potential of 0.  E announced
+that e increased eir Voting Potential by 1, and then increased
+it by 41.
+
+The fee for increases in Voting Potential is defined as the
+Political Charge times the amount of the increase.  However,
+the definition of Political Charge was repealed by Proposal
+4576; immediately prior to that, its value was 4.
+
+Its value now is either
+  * 4, in which case Murphy's first increase succeeded, eir
+    second one failed, (a) is false and (b) is true;
+  * 0, in which case Murphy's increases both succeeded, (a)
+    is true and (b) is false; or
+  * undefined, in which case the success of Murphy's increases
+    is unclear (the Rules do not define whether a Fee-based
+    action with an undefined Fee is successful).
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+* Judicial finding 1: Political Charge has no meaning under the rules other
+than the literal common language meaning of its constituent words.
+
+All definitions of "Political Charge" have been removed from the ruleset.
+(2052(b) refers to it, but does not define it.) Rule 1586 thus indicates
+that it ceases to exist. Rule 754(4) further requires that the phrase be
+interpreted by its everyday meaning; however, the phrase itself has no
+special everyday meaning beyond its constituent words. (Compare to "rat
+race", which has a meaning other than "a race where rats compete".)
+
+
+* Judicial finding 2: 2052(b) does not define a "fee-based action" as
+described by rule 1941
+
+The first paragraph of rule 1941 specifically requires that a fee-based
+action specify a "non-negative" cost (though not necessarily integral).
+Based on 754(5), "non-negative" implies the existence of a zero element and
+an ordering. The common language meaning of "Political Charge" does not
+reasonably admit any such element or ordering. Thus, the procedure described
+in 2052(b) is not a "fee-based action" as defined by the rules.
+
+
+* Judicial finding 3: raising voting potential via 2052(b) is permitted but
+impossible
+
+Rule 2052(b) defines a process for raising voting potential, and thus
+regulates it. (Although there is no rule specifically to this effect, there
+is a strong game custom that the "converse" of rule 101 holds: actions
+regulated by the rules are permitted to the extent the rules permit them.
+Whether this is implicit in the nature of a game with rules is beyond the
+scope of this discussion.)
+
+However, the procedure described by 2052(b) is not possible.
+
+Since 2052(b) is not describing a fee-based action, the common language
+interpretation applies. This is more or less the definition in 1941. Some
+pseudo-code may be helpful:
+
+if (player->paid_fee == true && fee->amount == N * Political_Charge)
+        player->voting_potential += N
+
+However, by rule 2047 kudos are measured in integer units. (Or possibly real
+units -- the question of rational or irrational amounts is not specifically
+addressed.) Political Charge is neither a number nor associated with any
+numeric quantity, and thus N times the Political Charge is not numeric -- or
+even well-defined.
+
+A real-life analogy is receiving a bill for sqrt(-1) dollars. Clearly such a
+bill is not payable by any ordinary definition of currency and payment.
+
+Thus, Murphy attempted to perform a permitted but impossible action. Both
+attempts failed, and we can therefore determine that eir Honor is
+unchanged.
+
+Thus I judge as follows:
+
+1514: FALSE
+1515: FALSE
+1516: FALSE
+
+========================================================================

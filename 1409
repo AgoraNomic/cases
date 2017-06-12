@@ -1,0 +1,315 @@
+==============================  CFJ 1409  ==============================
+
+    Sir Toby's COE in
+    http://www.escribe.com/games/agora-business/m7478.html was not a
+    valid Claim of Error.
+
+========================================================================
+
+Caller:                                 OscarMeyr
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Sir Toby
+Judgement:                              
+
+
+Judge:                                  Michael
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by OscarMeyr:                    12 Aug 2002 01:49:33 GMT
+Assigned to root:                       27 Aug 2002 17:32:54 GMT
+root recused:                           09 Sep 2002 05:36:40 GMT
+Assigned to Sir Toby:                   16 Sep 2002 04:53:10 GMT
+Sir Toby recused:                       18 Sep 2002 14:54:37 GMT
+Assigned to Michael:                    19 Sep 2002 18:57:34 GMT
+Judged FALSE by Michael:                20 Sep 2002 09:39:41 GMT
+Appealed by OscarMeyr:                  22 Sep 2002 21:52:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+A COE is a correction to a statement of the game state, and not a
+statement of the game state itself.  A correction to the correction (a
+meta-COE, if you will) attempts to resolve a disputed statement about
+the game state through a cumbersome method:  If the meta-COE is
+accepted, is the original COE withdrawn?  Can it be withdrawn?  Does it
+cease to exist?  And if it did, what was the meta-COE about?
+
+The Rules-defined handling of a COE is to post a Response to the COE.
+If the Response is further disputed, game custom, as I understand it, is
+to CFJ on the dispute, and let the Judgment system resolve the matter.
+
+========================================================================
+
+Caller's Evidence:
+
+(1) Sir Toby's COE
+(http://www.escribe.com/games/agora-business/m7478.html):
+
+Subject:           Re: BUS: Re: OFF: Scorekeepor's report of Aug. 8
+     Date:           Sat, 10 Aug 2002 08:55:14 -0700 (PDT)
+     From:           "Jeffrey J. Weston" <jjweston@kenny.sir-toby.com>
+ Reply-To:           agora-discussion@agoranomic.org
+       To:           agora-business@agoranomic.org
+
+On Fri, 9 Aug 2002, David Locke wrote:
+
+> On Thu, 08 Aug 2002 OscarMeyr Wrote:
+> >
+> >Scorekeepor's Report for August 8, 2002
+> >
+> >Time of last report
+> >-------------------
+> >
+> >  5 Aug 2002
+> >
+> >   - Goethe Awarded 20 Points - Life Contest Award
+>
+> COE: The Notice of Award was incorect.
+
+COE: The Notice of Award was quite correct, and Goethe did indeed gain 20
+Points.
+
+Only one rule speaks of a Notice of Award, Rule 1990. It reads as
+follows:
+
+Rule 1990/0 (Power=1)
+Points Contests
+
+      A Contest may be a Points Contest if its ACO specifically states
+      that it is a Points Contest.  A Player may not be the
+      Contestsmaster of more than one Points Contest in a single Nomic
+      month.
+
+      PWIN is the number of points required for a Player to achieve a
+      win condition, as defined elsewhere in the Rules.  PPP (Points
+      Per Player) is PWIN divided by twenty.
+
+      Once during each month that starts while the Contest exists, a
+      Points Contest's Contestmaster may post a single valid Notice of
+      Award to the Public Forum, listing any number of the Contest's
+      Contestants, and a listing a positive number of Points to be
+      awarded to each Contestant on the list.  Different Contestants
+      may be awarded different numbers of points in the same listing.
+      The posting must obey all regulations for such posting contained
+      in the Contest's SLC to be valid.
+
+      The total Points listed to be awarded to all Contestants in each
+      such monthly Notice may not exceed PPP times the number of
+      Players who were Contestants of the Contest at any time in the
+      14 days prior to the Notice.  If more points than this are
+      listed the Notice is invalid.
+
+      The total number of Points that a single Player may receive from
+      all Points Contests in a single month may not exceed PWIN
+      divided by five.  If a Points Contest Notice would bring a
+      Player's total to more points than this than the Notice is
+      invalid for that Player only.
+
+      The posting of such a Notice of Award, if valid, is an event
+      Awarding the listed Points to the listed Players.
+
+The Notice of Award, sent out by me, reads as follows:
+
+----------------------------------------------------------------------
+Date: Sun, 4 Aug 2002 23:14:35 -0700 (PDT)
+From: Jeffrey J. Weston <jjweston@kenny.sir-toby.com>
+Reply-To: agora-discussion@agoranomic.org
+To: agora-business@agoranomic.org
+Subject: BUS: Life Contest: Notice of Award
+
+The regulations of the Life Contest require me to publish the following
+Notice of Award:
+
+Goethe Controls the most Cells: 125. I note that PWIN is 100. PPP is 5.  I
+multiply PPP times the number of contestants, 6, and determine that Goethe
+needs to be awarded 30 Points. This award exceeds PWIN divided by 5.
+Goethe instead can only be awarded 20 Points.
+
+Life awards 20 Points to Goethe.
+
+--
+Jeff Weston (Sir Toby)
+----------------------------------------------------------------------
+
+This notice was sent once during a month that started when Life existed.  A
+contestant was awarded a positive value of Points. The notice obeyed all
+regulations of Life. The total points awarded did not exceed PPP times the
+number of contestants. Since the Notice of Award met all requirements for
+being valid, per Rule 1990, it is valid.
+
+Now I can imagine the next thing you will say: It didn't specify the Rule
+allowing the Award or Penalty, and thus Goethe did not gain any Points,
+even though the Notice of Award may have technically been valid. Well,
+you'd be right. The Notice of Award did not directly cause Goethe to gain
+any Points. As per Rule 1990, "The posting of such a Notice of Award, if
+valid, is an event Awarding the listed Points to the listed Players."
+However, now lets take a close look at Rule 1929, which reads as
+follows:
+
+Rule 1929/4 (Power=1)
+Points
+
+      A Player's Score is a measure of that Player's unloserliness,
+      measured in Points. The Score of each Player is at all times an
+      integer. A Player who has not been Awarded or Penalized since
+      the last Win has a Score of zero Points.
+
+      The Rules may specify that certain events may cause a certain
+      Player to be Awarded Points (causing eir Score to be increased)
+      or Penalized Points (causing eir Score to be decreased). If said
+      event occurs, then any Player may notify the Scorekeepor of the
+      Award or Penalty. The Scorekeepor shall then note the change in
+      the affected Player's Score.
+
+      Such a notification must meet the following requirements, else
+      it is ineffective:
+         -- It must be sent within 7 days of the event
+         -- It must unambiguously describe the event
+         -- It must indicate the Rule allowing the Award or Penalty
+         -- It must be the first such notification for that specific
+            event
+
+      Having a Score of 100 Points or more is a Win Condition. If at
+      any time a Player Wins the Game, all Player's Scores shall
+      instantly be set to zero.
+
+OscarMeyr saw the event that awarded points to Goethe, and went on to
+notify the Scorekeepor of the event in the following message:
+
+----------------------------------------------------------------------
+Date: Mon, 05 Aug 2002 21:55:44 -0400
+From: Benjamin Schultz <ke3om@earthlink.net>
+Reply-To: agora-discussion@agoranomic.org
+To: Agora Business <agora-business@agoranomic.org>
+Subject: Re: BUS: Life Contest: Notice of Award
+
+"Jeffrey J. Weston" wrote:
+
+> The regulations of the Life Contest require me to publish the following
+> Notice of Award:
+>
+> Goethe Controls the most Cells: 125. I note that PWIN is 100. PPP is 5.
+> I multiply PPP times the number of contestants, 6, and determine that
+> Goethe needs to be awarded 30 Points. This award exceeds PWIN divided by
+> 5. Goethe instead can only be awarded 20 Points.
+>
+> Life awards 20 Points to Goethe.
+
+... as per Rule 1990.
+--
+Benjamin Schultz, KE3OM
+OscarMeyr
+
+"You're the first person I know who's wanted to change
+their A to an F."  -- Goethe, on Agora-discussion
+----------------------------------------------------------------------
+
+OscarMeyr's notification was sent within 7 days of the event (the Life
+award). It unambiguously described the event by quoting the Notice of
+Award in its entirety. It indicated the Rule allowing the Award or
+Penalty. It was the first such notification for this event. Since all
+requirements for the notification were met, the notification is effective
+and Goethe is awarded eir Points.
+
+--
+Jeff Weston (Sir Toby)
+
+
+*********
+(2)
+Rule 1431/15 (Power=1)
+Claims of Error
+
+      A Claim of Error is a public message to the effect that a
+      specific public communication misrepresents the actual Game
+      State, and documenting the nature of the error.
+
+      A Response to a Claim of Error posting publicly either a denial
+      of the Claim or an admission of the Claim. If the Claim is
+      admitted, then the Player making the admission is required to
+      post a corrected version of the relevant portion of the message
+      which was in error, before one week passes from the time the
+      Claim of Error was made. A Player who admits a Claim but does
+      not publish a correction is deemed not to have Responded to that
+      Claim.
+
+      A Response must be provided by the Player who is required by the
+      Rules to publish the information subject to a Claim within one
+      week of the Claim being made, unless any of the following holds:
+       * a previous Claim was made concerning the same error
+       * the relevant message has been posted more than 21 days before
+       * another message by the same Player has corrected the error
+       * the Claim is in dispute
+
+      A Player who fails to post a Response within the allotted time
+      commits the Class 1 Infraction of Delayed COE Response, to be
+      reported by the Player who posted the Claim. A Player who
+      incorrectly issues a denial of a Claim commits the Crime of
+      Wrongful COE Denial, a Class 1 Crime, unless e then admits the
+      Claim within 72 hours after the incorrect denial.
+
+========================================================================
+
+Judge Michael's Arguments:
+
+To make a Claim of Error is to claim that "a specific public
+communication misrepresents the actual Game State, and documenting the
+nature of the error" (R1431).
+
+The communication history in this case is of the form
+
+  X produces document D.
+  Y claims document D is in error with a COE.
+  X replies with a COE, denying Y's claim.
+
+The only question that need concern us here is whether or not Y's
+message can be said to misrepresent the actual Game State.  The
+additional documentation supporting X's claim is present.  Nor need we
+look into the issue of who would need to reply to X's claim.
+
+Clearly, if Y claims that X's document D is incorrect, then Y is
+making a claim about the nature of the actual Game State.  Therefore,
+X is in a position to claim that Y's claim is incorrect.  In X's
+opinion, Y is misrepresenting the actual Game State.
+
+Therefore, I enter a judgement of FALSE.
+
+Notes:
+  * the first sentence of the second paragraph of Rule 1431 is
+    ungrammatical.
+  * as X was in this case required to produce the information subject
+    to the COE, X probably has to Respond to their own COE.
+
+========================================================================
+
+Appellant OscarMeyr's Arguments:
+
+Trial Judge Michael analyzed an incorrect situation in eir Arguments.
+Specifically, e said:
+
+"The communication history in this case is of the form
+
+"  X produces document D.
+"  Y claims document D is in error with a COE.
+"  X replies with a COE, denying Y's claim."
+
+The third line here is incorrect.  X did not reply to the COE with another COE
+-- instead, Z submitted the secondary COE.  Caller's Evidence #1 clearly shows
+this history.  To recap for the Appelate Judges:
+1.  OscarMeyr [me] published the Score Report of 8 Aug 2002.
+2.  RedKnight COE'd the report.
+3.  Sir Toby COE'd RedKnight's COE.
+
+Accordingly, I ask that the CFJ be reevaluated according to the situation
+under review.
+
+========================================================================

@@ -1,0 +1,78 @@
+======================================================================
+                               CFJ 890
+
+"Rule 1663 should be interpreted such that Player M would not
+ Win by its Provisions due to Proposals 5000, 5001 and 5003 in
+ this hypothetical series of Proposals:
+
+    Proposal
+     Number      Proposer     FOR     AGAINST     ABSTAIN
+    -----------------------------------------------------
+      5000       Player M      4         4           4
+      5001       Player M      4         4           4
+      5002       Player S      5         4           3
+      5003       Player M      4         4           4
+"
+
+======================================================================
+
+Judge:       Morendil
+
+Judgement:   FALSE
+
+Eligible:    Andre, Blob, Chuck, Coren, elJefe, favor, KoJen, Michael,
+             Morendil, Steve, Swann, Vanyel, Zefram
+
+Not eligible:
+Caller:      Murphy
+Barred:      -
+On hold:     Oerjan
+
+======================================================================
+
+History:
+  Called by Murphy, Wed, 11 Dec 1996 23:36:51 -800
+  Assigned to Morendil, Wed, 18 Dec 1996 10:01:20 +0000
+  Judged FALSE, Fri, 20 Dec 1996 23:56:20 +0100
+  Published, Sun, 29 Dec 1996 12:20:39 +0000
+
+======================================================================
+
+Judgement: FALSE
+
+Reasons and arguments:
+
+The Rule states, "three Proposals _submitted_ by [a Player] in a row"
+(my italics), that is, three Proposals submitted consecutively. This
+should not be taken to imply anything about the numbering of such
+Proposals as Distributed by the Promotor, and in particular about how
+the Rule's provisions would be applied in the Caller's example.
+
+In the general case, and there are few enough exceptions that I feel
+safe in returning a definite Judgement, Proposals 5000, 5001 and 5003
+in the Caller's hypothetical example would usually have been submitted
+consecutively, and thus fit the requirements of 1663.
+
+======================================================================
+
+(Caller's) Arguments:
+
+      This CFJ effectively asks whether R1663's "in a row" requires
+      that the three Proposals in question not be interspersed with
+      one or more Proposals submitted by other Players.
+
+      I have no idea what the intent of R1663's author was, and
+      Morendil's recent Win by R1663 indicates nothing about this
+      issue because the three Proposals in question were N, N+1 and
+      N+2.
+
+Evidence:
+
+Rule 1663/0:
+
+      A Player Wins the Game if three Proposals submitted by em in a
+      row receive exactly the same number of FOR, AGAINST and ABSTAIN
+      Votes. The Assessor is prohibited from Winning in this manner.
+
+
+======================================================================

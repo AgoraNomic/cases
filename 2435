@@ -1,0 +1,93 @@
+=========================  Criminal Case 2435  =========================
+
+    comex broke Power-2 Rule 1742 by failing to act in accordance the
+    PerlNomic Partnership contract by failing to ensure the PNP obeys
+    the rules of Agora to the maximum extent by causing the PNP to
+    publish that the proposal pool was empty when it was not.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 omd
+
+Judge:                                  Taral
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by ais523:                       26 Mar 2009 16:53:11 GMT
+Defendant omd informed:                 26 Mar 2009 16:53:11 GMT
+Assigned to Taral:                      28 Mar 2009 16:07:24 GMT
+Judged NOT GUILTY by Taral:             01 Apr 2009 00:46:02 GMT
+
+========================================================================
+
+Gratuitous Evidence by woggle:
+
+Evidence from PerlNomic's log.txt:
+
+Thu Mar 26 08:56:32 2009 - agora-propose.cgi: comex added proposal
+/var/www/sites/nomic.info/perlnomic/agora-proposals/undistributed.1 to the
+pool.
+Thu Mar 26 08:56:35 2009 - agora-distribute.cgi: Distributing Agoran proposal
+6167
+
+========================================================================
+
+Caller's Arguments:
+
+I suggest that the judge of that case apply the standard punishment, but
+(per rule 2145) apply it to comex, rather than to the partnership as a
+whole (a criminal case is needed to do that, an NoV isn't sufficient).
+
+In addition, and to shake matters up further, I think the PNP may
+actually be NOT GUILTY on this one. R2215 bans making a statement that
+is "intended to mislead others as to its truth"; the PNP, being a legal
+construct and not a natural person at all, cannot have intentions in the
+common-language sense (and this is clearly a different sense of intent
+to that used in R1728).
+
+========================================================================
+
+Gratuitous Arguments by Taral:
+
+On Mon, Mar 30, 2009 at 11:13 AM, Kerim Aydin <kerim@u.washington.edu> wrote:
+>
+> On Mon, 30 Mar 2009, comex wrote:
+>> On Mon, Mar 30, 2009 at 3:29 AM, Taral <taralx@gmail.com> wrote:
+>>> Did I miss something or do these arguments make no sense in a 1742
+>>> case against comex?
+>
+> And finally, the hypocrisy of partnerships is revealed here.  Proponents
+> claim that partnerships can't have intents, but the origination and
+> whole point of partnerships is that they can have things that persons
+> have (such as intent).  If "partnership=person" isn't a mockery,
+> partnerships should be judged to have whatever intent their legal
+> mechanisms allow their basis to express.
+
+But my intent wasn't to mislead, because I forgot about the statement.
+ Still, publishing inaccurate information like that ought to be
+against the rules-- it will be, in fact, once Murphy resolves my
+proposal-- but wasn't when I did it, for better or worse.  In fact, I
+pledge to create a Rest in my possession ASAP if I'm judged NOT GUILTY
+in this case.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+The question before the court is whether the PNP breached Rule 2215 by
+making a public statement intended to mislead. The only way for one to
+construe the intent of a partnership is by the intent of its partners.
+Based upon the known nature of the PNP and the statements made on
+these fora, the court finds that comex was the only active partner in
+the making of this particular statement. Additionally, the court finds
+that their only intent was the rapid distribution of the proposal
+contained in the message -- the (incorrect) statement about the
+proposal pool was incidental, not intentional.
+
+The court judges comex NOT GUILTY (innocent).
+
+========================================================================

@@ -1,0 +1,68 @@
+==============================  CFJ 2064  ==============================
+
+    The message quoted in the evidence section of this CFJ changed the
+    text of a public contract
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  Quazie
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       07 Jul 2008 16:59:00 GMT
+Assigned to BobTHJ:                     12 Jul 2008 15:19:00 GMT
+BobTHJ recused:                         14 Jul 2008 15:10:47 GMT
+Assigned to Quazie:                     17 Jul 2008 05:51:45 GMT
+Judged FALSE by Quazie:                 17 Jul 2008 06:11:03 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Is this sufficiently clear to consist of publishing a change to the
+public contract Flapjack? (Flapjack is a nomic, and tusho's message
+caused a rules change in that nomic which therefore caused a change to
+that contract's text, but changes to public contracts do not take effect
+until they are published.) I'm not entirely convinced that it is,
+especially as there is no reason that changes to Flapjack the nomic have
+to depend on publicly-known gamestate.
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, 2008-07-07 at 17:53 +0100, Elliott Hird wrote:
+> 2008/7/6 ihope <ihope127@gmail.com>:
+> > On Sun, Jul 6, 2008 at 1:32 PM, Elliott Hird
+> > <penguinofthegods@googlemail.com> wrote:
+> >> I vote FOR that proposal.
+> >
+> > Me too.
+> >
+> > --Ivan Hope CXXVII
+> >
+>
+> FLAPJACK: {{{I activate proposal 2.}}}
+>
+> tusho
+
+========================================================================
+
+Judge Quazie's Arguments:
+
+I judge FALSE.  Changes to a public contract must be published before
+they take effect by R2178.  The change itself was not published by the
+above message.  If it had included the text 'proposal 2', noting that
+those changes were being applied, then this CFJ would be TRUE, but
+this is not the case, so it is FALSE.
+
+========================================================================

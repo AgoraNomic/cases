@@ -1,0 +1,162 @@
+==============================  CFJ 1953  ==============================
+
+    A individual player may be found GUILTY in a criminal case for an
+    action performed by a judicial panel of which e is a member, if the
+    judicial panel performs the action as described in R2157.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 root
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           13 May 2008 16:52:52 GMT
+Assigned to ais523:                     16 May 2008 05:36:09 GMT
+Judged FALSE by ais523:                 16 May 2008 17:29:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I say "may" as I will ignore the case (for now) in which a panel member
+doesn't support an Action.  I'm arguing for a judgment of FALSE regardless
+of whether the player in question published the message containing the action
+on behalf of panel, was a supporter of the publication, or didn't support
+the publication.  R2157 reads:
+
+      A judicial panel is a structure whereby a group of two or more
+      persons (its members) act together
+
+and:
+
+      A judicial panel CAN send messages by means of any of its
+      members sending a message identified as being from the panel,
+      with the unanimous Support of the panel's other members, or (if
+      the CotC is not a member) with the Support of at least half the
+      other members and the Support of the CotC.
+
+This construct makes it clear that any message that a player sends on behalf
+of the panel, through this mechanism, is deemed as wholly and completely being
+sent by the panel, down to the level of actually sending the message ("panel
+CAN send messages").  It is the panel that CAN send the messages that actually
+perform actions, not any individual player.
+
+There is no mechanism for devolving this collective responsibility to
+individual players, for the purpose of criminal proceedings.  By R1504(a)
+and (c) a defendant and an action must be specified.  It would be possible
+to specify (a)The judicial panel and (c) the action or message in question,
+but this would punish "the panel", not individual players.  If one instead
+specified (a)one of the members of the judicial panel, then it would not
+match up with (c) the action and the member could not be found GUILTY
+because it was the panel that performed the action according to R2157.
+
+Quite specifically, there is no mechanism for whatsoever for criminalizing or
+devolving criminal responsibility for "the message which a player sent, and
+the act of supporting that message, which caused the judicial panel to send
+a message which caused the judicial panel to break the Rule via an action."
+This is a non-transitive property.  R2157 specifically halts this devolution
+of responsibility by stating that any actions taken through this message
+are *by the panel*, again down to the level of message sent.
+
+It has been stated, before, that all that (first-class) people actually do
+in this game is send messages.  If R2157 deems that, even at this base
+level, the "message" comes from the panel, there is no individual
+responsibility for panel actions left for an individual person to take.
+
+Therefore, I argue for FALSE.
+
+I don't claim, by the way, on whether this is a bug or a feature.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Rule 2157/4 (Power=1.7)
+Judicial Panels
+      A judicial panel can incur obligations.  The members of a panel
+      SHALL act collectively to ensure that the panel satisfies all of
+      its obligations.
+
+root's CFJ alleges that the members of the panel did not satisfy its
+obligations, explicitly invoking this mechanism.  TRUE.
+
+My CFJ is a bit more troublesome-- it alleges that you did something
+wrong "interpreting and applying the rules", which I argue is
+necessary in order to publish a set of arguments on the matter
+intended to become part of a judgement.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, the statement of the CFJ is slightly ambiguous, but I interpret
+the "may" here as meaning "may, under some circumstances,"; therefore,
+a judgement of TRUE here would imply only that there are some
+circumstances under which a member of a panel would be found guilty
+under a rule 2157 act.
+
+Rule 2157 states:
+{{{
+      A judicial panel can incur obligations.  The members of a panel
+      SHALL act collectively to ensure that the panel satisfies all of
+      its obligations.
+}}}
+
+To address the caller's arguments: they make a good case that it is in
+fact the panel which is sending the message, not any of the individual
+players in that panel. Likewise, the argument that no first-class
+person can be punished just because the panel itself broke a rule,
+with a criminal CFJ stating that rule, seems reasonable. (I state
+'first-class' here, because there is a reading of rule 2150 that would
+imply that a judicial panel was a person; it depends on whether the
+first sentence of rule 2150 causes a judicial panel to become a person.
+However, this is irrelevant to this CFJ itself.)
+
+However, there is one remaining argument, relevant to CFJs 1948, 1949,
+and 1950, which the caller's arguments do not address; comex makes this
+argument below, and I independently came to the same conclusion. There
+is one rule that can be breached by a player who causes a judicial panel
+to break its obligations, and that is rule 2157 itself. The SHALL there
+can clearly only be interpreted as binding the members of the panel to
+cause the panel to meet all its obligations. Therefore, it is clear that
+if an individual player causes a judicial panel to perform an action that
+causes it to fail to meet its obligations, that player is in breach of
+rule 2157; otherwise the second sentence of rule 2157 would have no
+meaning. The interpretation in which it does have a meaning seems far
+more sensible.
+
+So the judgement in this case comes down to a matter of semantics; is
+this particular eventuality covered by the literal statement of the CFJ?
+For the record, I state that it is possible to be found GUILTY in a
+criminal CFJ with the following statement, given certain hypothetical
+acts by the defendant:
+{{{
+Goethe breached Rule 2157 by failing to ensure that the panel met all
+of its obligations in appeal case 1932a. Specifically, the panel failed
+to meet its obligation to assign an appropriate judgement in that case.
+}}}
+(This is the statement of CFJ 1948. Therefore, this ruling implies that
+UNIMPUGNED would be inappropriate in that case, although it has no
+bearing on whether INNOCENT is appropriate.)
+
+Whether such a statement is the example needed to find this CFJ TRUE is
+an interesting semantic question, depending on what 'for' means in the
+CFJ statement. It is certainly true that the action performed by the
+panel can be strong evidence that a player caused the panel to perform
+that action. However, specifying no other rule breach but a breach by
+the panel does not in itself cause the panel's members to have broken a
+rule; strong evidence that Rule 2157 has been broken is not itself an
+allegation of a breach of Rule 2157. Therefore, I find that root's and
+comex's arguments are both substantially correct. Therefore, on a
+technicality in the original statement, I rule FALSE; however, neither
+this judgement nor the statement of this CFJ (nor root's arguments, for
+that matter) should be interpreted such that a CFJ similar to CFJ 1948
+should necessarily be judged UNIMPUGNED.
+
+========================================================================

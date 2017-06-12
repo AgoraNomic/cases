@@ -1,0 +1,206 @@
+======================================================================
+                               CFJ 1065
+
+"The Office of Speaker-Elect is not now being held in the normal fashion." 
+
+
+====================================================================== 
+
+
+
+Judge:       Vlad
+Judgement:   FALSE
+
+Justices:    Morendil (S), Steve (J), Kolja A. (pro-C)
+Decision:    Overturn and judge TRUE
+
+Eligible:    Andre, Blob, Calabresi, ChrisM, Chuck, Crito,
+	     General Chaos, Kolja A., Michael, Morendil, Murphy,
+	     Oerjan, Steve, Swann
+
+Ineligible:  Vlad (Judge)
+Caller:	     elJefe
+Barred:
+On request:  Vanyel
+On hold:     Harlequin, Vir
+
+====================================================================== 
+
+History:
+  Called by elJefe, 3 Nov 1997 08:02:34 +000
+  Assigned to Vlad, 6 Nov 1997 11:52:39 +0100
+  Judge FALSE, 12 Nov 1997 20:03:38 -0600
+  Appealed by elJefe, 13 Nov 1997 09:09:30 +0000
+  Appealed by Michael, 13 Nov 1997 09:27:24 +0000
+  Appealed by Gen Chaos, 13 Nov 1997 06:26:45 -0500
+  Assigned to Morendil, Steve, and Kolja A., 14 Nov 1997 07:32:55 +0000
+  Justice Kolja A.: Overturn and judge TRUE, 17 Nov 1997 14:29:43 +0100
+  Justice Morendil: Sustain, 20 Nov 1997 09:32:31 +0100
+  Justice Steve: Overturn and judge TRUE, 21 Nov 1997 14:08:39 +1100
+
+======================================================================
+(Caller's) Arguments:
+
+Rule 1006: An Office must be held by a Player. 
+Rule 790:  The Winner of the Election shall hold the Office.
+
+This is a conflict.  Rule 790 takes precedence, so Morendil (a non-Player) holds
+the Office of Speaker-Elect.
+
+Now: 
+
+Rule 1006: An Officer is a player holding an Office. 
+
+This is an explicit definition.  There is no conflict with any other Rule, so
+the Office of Speaker-Elect is held by someone who is not an Officer (Morendil).
+
+Rule 790:  An Office is held in the normal fashion only if held by an _Officer_
+who was elected to it (among other things).
+
+The Office of Speaker-Elect does not satisfy this requirement.  Therefore it is
+not being held in the normal fashion.
+
+======================================================================
+Judge's Arguments:
+
+Rule 1006 does clearly require an officer to be a Player. However, as has been
+pointed out, it is trumped in ths case by 760. It remains to be seen how this
+affects the readin of the rest of 760
+
+      An Office is "held in the normal fashion" if and only if the Officer
+      holding that Office was elected to that Office and has neither resigned
+      from it nor been retired or removed from it. An Office which is not held
+      in the normal fashion is said to be held temporarily.
+
+I must disagree that this directly requires an Office to be held by an Officer
+to be held "in the normal fashion" It seems transparent that this is simply an
+assumption made by the Rule, not aware of the possible ramifications of the rest
+of the Rule. To interpret this implicit assumption as imposing any sort of
+requirement is, in my opinion, strained, particularly as the Rule still makes
+sense if we read Officer in the sense of "person holding an Office" rather than
+in the specialized sense used by 760, and since it is 760 itself that,
+elsewhere, defeats the definition that 1006 attempts to impose. This
+interpretation does least violence to the Rule.
+
+Vlad
+
+======================================================================
+Decision of Justice Kolja A.:
+
+I disagree that there is s conflict between 1006 and 790 here, as the caller of
+this CFJ claims. As the original judge of this CFJ also based eir judgement on
+the existence of such a conflict, I'll try to start all over again.
+
+If 790 said "if the _person_ holding that office...", this CFJ would obviously
+have to be judged false, because the further conditions given in 790 are all
+true for Morendil: e "was elected to that Office and has neither resigned from
+it nor been retired or removed from it."
+
+If 790 said "if the _player_ holding that office..." it would have to be judged
+true, because Morendil was not a player at the time when this CFJ was called.
+
+However, 790 does say "if the _officer_ holding that office...". I _suspect_
+that the author of 790 is using "officer" as a simple synonym for "holder of an
+office" here, but this is not what counts for this judgement. What counts is
+that an officer is defined in 1006 as a _player_ holding an office.
+
+So at the time this CFJ was made there was no "officer" (in the sense of 1006)
+holding the office of speaker elect. Morendil was holding the office, but e was
+not a player and thus not an officer. Therefore, the first sentence of 790 was
+not true (although in a way the author of this rule probably never had in mind,
+but that is not the question here).
+
+Thus, the statement of this CFJ is true.
+
+I therefore judge to overturn the original judgement and deliver a new judgement
+of TRUE.
+
+======================================================================
+Decision of Speaker Morendil:
+
+To begin with, let me note that both Caller and Judge appear to be in agreement
+that a conflict between Rules 790 and 1006, with 790 having the higher
+precedence, results in a situation where a person who is not a Player may under
+some circumstances come to "hold an Office". Further, the Courts have not at
+this time been called upon to examine this issue, which I will therefore not
+adress.
+
+The Caller's opening remarks constitute, in my opinion, an unfortunate
+restatement of the two key provisions of Rule 1006, which I will therefore quote
+again :
+
+      An Office is a position of authority or responsibility 
+      established by the Rules and held by a Player, who is called an 
+      Officer. 
+
+      At any time, an Office is held by exactly one Player; if no 
+      other Rule directly or indirectly specifies which Player holds 
+      an Office, it shall be held by the Speaker. 
+
+Both of these provisions would in their own right prevent a person who is not a
+Player from acceding to the "position of authority or responsibility" that we
+know as an Office, or from being conferred "whatever duties, responsibilities,
+or privileges" the Rules assign to such a position.
+
+The Caller's restatement of the first of these provisions, as "An Officer is a
+Player holding an Office", is in my opinion unwarranted. It is logically
+equivalent to "All Officers are Players who hold an Office", whereas the actual
+wording is logically equivalent to "All Players who hold an Office are
+Officers", two statements which are definitely not equivalent to each other.
+
+The Caller would, in light of the foregoing, have us read Rule 790 in a manner
+slightly different from its actual wording; would have Rule 790 interpreted to
+mean
+
+      An Office is "held in the normal fashion" if and only if the 
+      Player holding that Office was elected to that Office (...) 
+
+I agree that this wording would require us to conclude that a person holding an
+Office could not be said to hold that Office "in the normal fashion".
+
+However, Rule 790 does state "if the Officer holding that Office", etc. In
+normal circumstances, we would look to Rule 1006 to determine which person this
+is referring to.
+
+However, while Rule 1006 does give a definition of the term "Officer" that is
+useful whenever the situation is such that an Office is held by a person who is
+a Player, that definition most certainly does not apply to non-Players.
+Therefore, and this is the crucial point,
+
+  Rule 1006 is silent as to whether persons who hold an Office and 
+  are not Players are "Officers". 
+
+The Caller's undue emphasis on the use of the word "Officer" in Rule 790 is thus
+misleading; the question at hand must be resolved by an appeal to Rule 1006, not
+790, and, that Rule being silent on the issue, by appeal to the standards listed
+in Rule 217.
+
+It is this Justice's opinion that "Officer" is an adequate, sensible label to
+refer to a person holding an Office, for want of a more appropriate label, and
+that its use in this context is consonant with the traditions of Agora. I
+therefore have no reason not to Sustain Judge Vlad's Judgement of FALSE.
+
+======================================================================
+Decision of Justice Steve:
+
+In the matter of the Appeal of the Judgement of CFJ 1065, I overturn Vlad's
+Judgement and find the Statement TRUE.
+
+Judge Vlad erred in law in asserting that R790 does not require that an Office
+be held by a Player in order that it be held in the normal fashion. The language
+of R790 is very strong: the construction used is 'if and only if', the language
+of necessity and sufficiency. An Office is held in the normal fashion if and
+only if the Officer holding that Office was elected to that Office. Since R1006
+defines an Officer as a Player, one is forced to the conclusion that a
+non-Player holding an Office cannot be an Officer. Since Morendil, a non-Player
+at the time this CFJ was called, was holding the Office in virtue of the high
+precedence of R790, I conclude that Morendil was not then an Officer.
+
+I also reject the Michael's suggestion that R790 implicitly defers to R1006 and
+so avoids conflict with it, and affirm with the Caller the conflict between
+these two Rules. This conflict arises almost inevitably from the hole left in
+the Rules concerning Candidates for Election, and the Winners of Elections,
+which does not prevent a non-Player from continuing as a Candidate in and
+Winning an Election.
+
+======================================================================

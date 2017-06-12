@@ -1,0 +1,35 @@
+==============================  CFJ 3261  ==============================
+
+    The bench needs a rotation.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 Aug 2012 20:45:19 GMT
+Assigned to Murphy:                     23 Aug 2012 15:35:25 GMT
+Judged FALSE by Murphy:                 23 Aug 2012 15:37:36 GMT
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Perhaps not wholly trivial here:  I think immediately before this was
+called, no rotation was necessary; immediately after it was.  So what
+is true at "the time of" a CFJ when the CFJ is the trigger between two
+states is not particularly well-defined.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+A rotation was not necessary until this CFJ was assigned.
+
+========================================================================

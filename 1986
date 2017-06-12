@@ -1,0 +1,58 @@
+==============================  CFJ 1986  ==============================
+
+    Ivan Hope CXXVII owns the oddball {2/3,3/4}
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  06 Jun 2008 23:34:02 GMT
+Assigned to omd:                        07 Jun 2008 07:17:03 GMT
+Judged FALSE by omd:                    13 Jun 2008 14:04:01 GMT
+
+========================================================================
+
+Judge omd's Arguments:
+
+So oddballs, like judicial panels, are implicitly defined?  Judicial
+panels are a Rules-defined entity of which an infinite number exists.
+Rule 2166 (Assets) does not make any distinction between instruments
+defining things and contracts defining things, so there is indeed an
+infinite number of oddballs owned by the Lost and Found Department.
+
+However, the contract makes it clear that an oddball can be referred
+to by its two numbers, i.e. every oddball with a certain set of
+numbers is unique.  Therefore it implicitly prevents the creation of
+oddballs, which counts as a "modification" to Rule 2166's permission
+for a recordkeeper to create assets.
+
+========================================================================
+
+Judge omd's Evidence:
+
+{This contract is a pledge. Oddballs defined as follows:
+
+1. {0,1} is an oddball.
+2. If {a,c} is an oddball and b is the rational number between a and c
+with the lowest denominator, {a,b} and {b,c} are oddballs.
+3. Nothing is an oddball unless the above conditions require it.
+4. Oddballs are assets.
+
+Ivan Hope CXXVII is the recordkeepor of oddballs.}
+
+Rule 2166/5 (Power=2)
+Assets
+...
+      An asset whose backing document is not a rule generally CAN be
+      created by its recordkeepor by announcement, subject to
+      modification by its backing document.
+
+
+========================================================================

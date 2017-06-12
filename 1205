@@ -1,0 +1,476 @@
+From - Sat Apr  1 10:17:18 2000
+Return-Path: <owner-agora-official@gecko.serc.rmit.edu.au>
+Received: from gecko.serc.rmit.edu.au ([131.170.42.16])
+	by mx8.mindspring.com (Mindspring Mail Service) with ESMTP id sec3gk.q3o.37kbi16
+	for <elysion@mindspring.com>; Sat, 1 Apr 2000 09:56:19 -0500 (EST)
+Received: (from majordomo@localhost)
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) id OAA22501
+	for agora-official-list; Sat, 1 Apr 2000 14:51:01 GMT
+Received: from fw.serc.rmit.edu.au (fw-in.serc.rmit.edu.au [131.170.42.1])
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) with ESMTP id OAA22494
+	for <agora-official@gecko.serc.rmit.edu.au>; Sat, 1 Apr 2000 14:50:59 GMT
+Received: (from mail@localhost)
+	by fw.serc.rmit.edu.au (8.9.3/8.9.1) id BAA19576
+	for <agora-official@gecko.serc.rmit.edu.au>; Sun, 2 Apr 2000 01:07:03 +1000 (EST)
+Received: from msuacad.morehead-st.edu(147.133.1.1) by fw.serc.rmit.edu.au via smap (V2.1)
+	id xma019574; Sun, 2 Apr 00 01:06:47 +1000
+Received: (from mpslon01@localhost) by msuacad.morehead-st.edu (8.7.1/8.7.1) id JAA16249 for agora-official@gecko.serc.rmit.edu.au; Sat, 1 Apr 2000 09:51:04 -0500 (EST)
+From: Michael Slone <mpslon01@msuacad.morehead-st.edu>
+Message-Id: <200004011451.JAA16249@msuacad.morehead-st.edu>
+Subject: OFF: CFJ 1205 Judged TRUE
+To: agora-official@gecko.serc.rmit.edu.au (agora-official)
+Date: Sat, 01 Apr 2000 9:51:04 EST
+X-Mailer: Elm [revision: 212.4]
+Sender: owner-agora-official@gecko.serc.rmit.edu.au
+Precedence: bulk
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+X-Mozilla-Status: 8001
+X-Mozilla-Status2: 00000000
+X-UIDL: sec3gk.q3o.37kbi16
+
+
+==============================  CFJ 1205  ==============================
+
+    Wes committed the Class 1 Crime of Promotor Misrepresentation
+    when he distributed Proposal 3988 (Harsher Blot Penalties), on
+    Thu, 16 Mar 2000 18:20:25 -0800.                                
+
+========================================================================
+
+Called by:                     Steve                                   
+
+Judge:                         elJefe                                  
+Judgement:                     TRUE                                    
+
+Judge selection:
+
+Eligible:                      Anthony, Blob, Chuck, Murphy, Peekee,
+                               Sherlock, elJefe, harvel                
+
+Not eligible:
+Caller:                        Steve                                   
+Barred:                        Wes                                     
+Had eir turn:                  Crito, Elysion, Palnatoke, Steve, lee, t
+Already served:                -                                       
+Defaulted:                     Harlequin                               
+By request:                    Michael                                 
+On Hold:                       Novalis, Palnatoke                      
+Zombie:                        Harlequin, Schneidster                  
+
+========================================================================
+
+History:
+
+Called by Steve                24 Mar 2000 13:23:07 +1100              
+Assigned to elJefe:            24 Mar 2000 17:35:59 -0500              
+Judged TRUE by elJefe:         31 Mar 2000 09:46:17 -0500              
+Judgement published:           As of this message                      
+
+========================================================================
+
+Caller's Motions:
+
+I Move that the Judge execute a Sentencing Order imposing on Wes a penalty
+of one Blot, in accordance with Rules 1770, 1503 and 1504, and requiring
+that Wes make an Official Apology in accordance with R908.
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1770 (Evidence 1) defines Promotor Misrepresentation as the
+"[d]istribution of a Proposal (or text purporting to be a Proposal) not in
+the Current Batch". R1770 also defines which Proposals should be in the
+Batch as follows:
+
+          * a set of Interested Proposals in the Proposal Queue
+            with the highest positive Priority the cardinality
+            of which is equal to the Batch Size.
+
+On Thu, 16 Mar 2000 18:20:25 -0800, Wes distributed Proposal 3988 (Harsher
+Blot Penalties) (Evidence 2). At that time, the Batch Size was 2. However,
+at that time, "Harsher Blot Penalties" was not one of the two Interested
+Proposals with the highest Priority, as Wes himself acknowledged a short
+time later when he withdrew P3988 and distributed in its place P3990 (Agora
+Abhors a Vacuum) (Evidence 3).
+
+Therefore, the distribution of Proposal 3988 was the distribution of a
+Proposal not in the Curent Batch, and thus constituted Promotor
+Misrepresentation.
+
+========================================================================
+
+Caller's Evidence:
+
+-----1. Rule 1770/10
+
+Rule 1770/10 (Power=1)
+Distributing Proposals
+
+      The Current Batch for a given Week is a subset of the Proposal
+      Queue.  Its contents shall be calculated at the beginning of
+      that Week.  It shall contain every Disinterested Proposal then
+      in the Proposal Queue, as well as:
+
+          * all Interested Proposals in the Proposal Queue with
+            Priority greater than zero, if their number is not
+            greater than the Batch Size; or
+
+          * a set of Interested Proposals in the Proposal Queue
+            with the highest positive Priority the cardinality
+            of which is equal to the Batch Size.  Ties for
+            highest Priority shall be broken in favor of those
+            Proposals which have been in the Queue the longest.
+
+      During a Week, the Promotor must distribute all and only
+      Proposals in that Week's Current Batch.  Failure to Distribute
+      all Proposals in that Current Batch during that Week is the
+      Class 0.5 Infraction of Promotor Tardiness.  All Players are
+      authorized to detect and report this Infraction.  Distribution
+      of a Proposal (or text purporting to be a Proposal) not in the
+      Current Batch is the Class 1 Crime of Promotor
+      Misrepresentation.  All Players are authorized to detect and
+      report this Crime.
+
+      A Player may make a Claim of Error stating that a distributed
+      Proposal was not in the Current Batch at the time it was
+      distributed.  If this is admitted, then:
+
+          * the Voting Period for that Proposal shall immediately
+            end;
+          * all Votes cast on that Proposal shall be cancelled;
+            and
+          * the Promotor shall add the Proposal to the Proposal
+            Queue.
+
+      Once a Proposal is distributed, it is removed from the Proposal
+      Queue.
+
+      The Promotor shall distribute each proposal in the batch to the
+      Public Forum, accompanied by its number, the identity of its
+      Proposing Entity, and an indication of whether the Proposal is
+      Ordinary or Democratic.
+
+      The failure of the Promotor to distribute any of the above
+      accompaniments with a Proposal does not deprive the
+      distribution of the Proposal of any legal effect.
+
+      A Proposal is only considered to be legally distributed if it
+      is explicitly marked as such. The Promotor is permitted to
+      publish the text of undistributed Proposals without necessarily
+      distributing them.
+
+      Immediately after all Proposals in the Current Batch have
+      been distributed the Promotor shall reduce the Priority of all
+      Proposals remaining in the Queue to half of their previous
+      values, rounding fractions down.
+
+-----2. Promotor Wes' distribution of P3988 (excerpts)
+
+>From magik-@aracnet.com Thu Mar 16 18:23:10 2000
+Subject: OFF: Proposals 3987-3989 Distributed
+To: agora-officia-@gecko.serc.rmit.edu.au (agora-off)
+Date: Thu, 16 Mar 2000 18:20:25 -0800 (PST)
+
+This Week's Current Batch, as set at the beginning of this Nomic Week, 
+consists of the following Proposals, which are hereby distributed:
+                   
+No.    Proposer   Priority   AI     Name
+3987   Peekee        8       1      Probate Fix 2.1 (#381)
+3988   Elysion       5       2      Harsher Blot Penalties (#378)
+3989   t             0       1      Quick Minting When It Is Needed (#376)
+
+Proposal 3989 is Disinterested.
+
+
+-----3. Promotor Wes' distribution of P3990
+
+>From magik-@aracnet.com Thu Mar 16 18:37:08 2000
+Subject: OFF: Proposal 3990 Distributed
+To: agora-officia-@gecko.serc.rmit.edu.au (agora-off)
+Date: Thu, 16 Mar 2000 18:34:11 -0800 (PST)
+
+
+This Week's Current Batch, as set at the beginning of this Nomic Week, 
+also consists of the following Proposal, which is hereby distributed:
+                   
+No.    Proposer   Priority   AI     Name
+3990   Murphy       10       2      Agora Abhors a Vacuum (#386)
+
+Proposal 3988 "Harsher Blot Penalties" by Elysion was Distributed 
+accidentally, due to our error, and thus the Voting Period for it 
+immediately ends, all Votes are canceled, and it is added back into 
+the Queue, retaining it's interal number of #378. We apologize for
+any inconvenience.
+
+========================================================================
+
+Judge elJefe's Arguments:
+
+As Wes has already admitted his guilt, I have little choice but to
+return a judgment of TRUE, which I hereby do.
+
+<dictum>It seems that this was a technical violation which was instantly
+corrected by Wes.  I don't quite see the point of making a CFJ.  If I
+could issue a judicial order against this kind of thing, I
+would.</dictum>
+
+========================================================================
+
+Judge elJefe's Evidence:
+
+<none>
+
+========================================================================
+
+Clerk of the Courts harvel
+--
+Michael Slone - http://vir.fclib.org/~harvel/
+My, my, but it looks as if Blob language is very difficult to pronounce!
+		-- Crito, in agora-discussion
+From - Sat Apr  1 11:08:58 2000
+Return-Path: <owner-agora-official@gecko.serc.rmit.edu.au>
+Received: from gecko.serc.rmit.edu.au ([131.170.42.16])
+	by mx6.mindspring.com (Mindspring Mail Service) with ESMTP id sec582.22j.37kbi14
+	for <elysion@mindspring.com>; Sat, 1 Apr 2000 10:25:53 -0500 (EST)
+Received: (from majordomo@localhost)
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) id PAA22982
+	for agora-official-list; Sat, 1 Apr 2000 15:14:32 GMT
+Received: from fw.serc.rmit.edu.au (fw-in.serc.rmit.edu.au [131.170.42.1])
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) with ESMTP id PAA22979
+	for <agora-official@gecko.serc.rmit.edu.au>; Sat, 1 Apr 2000 15:14:30 GMT
+Received: (from mail@localhost)
+	by fw.serc.rmit.edu.au (8.9.3/8.9.1) id BAA19646
+	for <agora-official@gecko.serc.rmit.edu.au>; Sun, 2 Apr 2000 01:30:33 +1000 (EST)
+Received: from msuacad.morehead-st.edu(147.133.1.1) by fw.serc.rmit.edu.au via smap (V2.1)
+	id xma019644; Sun, 2 Apr 00 01:30:10 +1000
+Received: (from mpslon01@localhost) by msuacad.morehead-st.edu (8.7.1/8.7.1) id KAA17047 for agora-official@gecko.serc.rmit.edu.au; Sat, 1 Apr 2000 10:14:27 -0500 (EST)
+From: Michael Slone <mpslon01@msuacad.morehead-st.edu>
+Message-Id: <200004011514.KAA17047@msuacad.morehead-st.edu>
+Subject: OFF: Motion 1205.1 Granted by harvel
+To: agora-official@gecko.serc.rmit.edu.au (agora-official)
+Date: Sat, 01 Apr 2000 10:14:27 EST
+X-Mailer: Elm [revision: 212.4]
+Sender: owner-agora-official@gecko.serc.rmit.edu.au
+Precedence: bulk
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+X-Mozilla-Status: 8001
+X-Mozilla-Status2: 00000000
+X-UIDL: sec582.22j.37kbi14
+
+
+==============================  CFJ 1205  ==============================
+
+    Wes committed the Class 1 Crime of Promotor Misrepresentation
+    when he distributed Proposal 3988 (Harsher Blot Penalties), on
+    Thu, 16 Mar 2000 18:20:25 -0800.                                
+
+========================================================================
+
+Called by:                     Steve                                   
+
+Judge:                         harvel                                  
+Judgement:                     Grant                                   
+
+Judge selection:
+
+Eligible:                      Anthony, Blob, Chuck, Murphy, Peekee,
+                               Sherlock, harvel                        
+
+Not eligible:
+Caller:                        Steve                                   
+Barred:                        Wes                                     
+Had eir turn:                  Crito, Elysion, Palnatoke, Steve, lee, t
+Already served:                elJefe                                  
+Defaulted:                     Harlequin                               
+By request:                    Michael                                 
+On Hold:                       Novalis, Palnatoke                      
+Zombie:                        Harlequin, Schneidster                  
+
+========================================================================
+
+History:
+
+Called by Steve                24 Mar 2000 13:23:07 +1100              
+Assigned to elJefe:            24 Mar 2000 17:35:59 -0500              
+Judged TRUE by elJefe:         31 Mar 2000 09:46:17 -0500              
+Judgement published:           01 Apr 2000 09:51:04 -0500              
+Reassigned to harvel:          01 Apr 2000 10:03:30 -0500              
+Motion 1205.1 Granted by       01 Apr 2000 10:03:30 -0500              
+  harvel:
+Judgement published:           As of this message                      
+
+========================================================================
+
+Caller's Motions (Granted by harvel):
+
+I Move that the Judge execute a Sentencing Order imposing on Wes a penalty
+of one Blot, in accordance with Rules 1770, 1503 and 1504, and requiring
+that Wes make an Official Apology in accordance with R908.
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1770 (Evidence 1) defines Promotor Misrepresentation as the
+"[d]istribution of a Proposal (or text purporting to be a Proposal) not in
+the Current Batch". R1770 also defines which Proposals should be in the
+Batch as follows:
+
+          * a set of Interested Proposals in the Proposal Queue
+            with the highest positive Priority the cardinality
+            of which is equal to the Batch Size.
+
+On Thu, 16 Mar 2000 18:20:25 -0800, Wes distributed Proposal 3988 (Harsher
+Blot Penalties) (Evidence 2). At that time, the Batch Size was 2. However,
+at that time, "Harsher Blot Penalties" was not one of the two Interested
+Proposals with the highest Priority, as Wes himself acknowledged a short
+time later when he withdrew P3988 and distributed in its place P3990 (Agora
+Abhors a Vacuum) (Evidence 3).
+
+Therefore, the distribution of Proposal 3988 was the distribution of a
+Proposal not in the Curent Batch, and thus constituted Promotor
+Misrepresentation.
+
+========================================================================
+
+Caller's Evidence:
+
+-----1. Rule 1770/10
+
+Rule 1770/10 (Power=1)
+Distributing Proposals
+
+      The Current Batch for a given Week is a subset of the Proposal
+      Queue.  Its contents shall be calculated at the beginning of
+      that Week.  It shall contain every Disinterested Proposal then
+      in the Proposal Queue, as well as:
+
+          * all Interested Proposals in the Proposal Queue with
+            Priority greater than zero, if their number is not
+            greater than the Batch Size; or
+
+          * a set of Interested Proposals in the Proposal Queue
+            with the highest positive Priority the cardinality
+            of which is equal to the Batch Size.  Ties for
+            highest Priority shall be broken in favor of those
+            Proposals which have been in the Queue the longest.
+
+      During a Week, the Promotor must distribute all and only
+      Proposals in that Week's Current Batch.  Failure to Distribute
+      all Proposals in that Current Batch during that Week is the
+      Class 0.5 Infraction of Promotor Tardiness.  All Players are
+      authorized to detect and report this Infraction.  Distribution
+      of a Proposal (or text purporting to be a Proposal) not in the
+      Current Batch is the Class 1 Crime of Promotor
+      Misrepresentation.  All Players are authorized to detect and
+      report this Crime.
+
+      A Player may make a Claim of Error stating that a distributed
+      Proposal was not in the Current Batch at the time it was
+      distributed.  If this is admitted, then:
+
+          * the Voting Period for that Proposal shall immediately
+            end;
+          * all Votes cast on that Proposal shall be cancelled;
+            and
+          * the Promotor shall add the Proposal to the Proposal
+            Queue.
+
+      Once a Proposal is distributed, it is removed from the Proposal
+      Queue.
+
+      The Promotor shall distribute each proposal in the batch to the
+      Public Forum, accompanied by its number, the identity of its
+      Proposing Entity, and an indication of whether the Proposal is
+      Ordinary or Democratic.
+
+      The failure of the Promotor to distribute any of the above
+      accompaniments with a Proposal does not deprive the
+      distribution of the Proposal of any legal effect.
+
+      A Proposal is only considered to be legally distributed if it
+      is explicitly marked as such. The Promotor is permitted to
+      publish the text of undistributed Proposals without necessarily
+      distributing them.
+
+      Immediately after all Proposals in the Current Batch have
+      been distributed the Promotor shall reduce the Priority of all
+      Proposals remaining in the Queue to half of their previous
+      values, rounding fractions down.
+
+-----2. Promotor Wes' distribution of P3988 (excerpts)
+
+>From magik-@aracnet.com Thu Mar 16 18:23:10 2000
+Subject: OFF: Proposals 3987-3989 Distributed
+To: agora-officia-@gecko.serc.rmit.edu.au (agora-off)
+Date: Thu, 16 Mar 2000 18:20:25 -0800 (PST)
+
+This Week's Current Batch, as set at the beginning of this Nomic Week, 
+consists of the following Proposals, which are hereby distributed:
+                   
+No.    Proposer   Priority   AI     Name
+3987   Peekee        8       1      Probate Fix 2.1 (#381)
+3988   Elysion       5       2      Harsher Blot Penalties (#378)
+3989   t             0       1      Quick Minting When It Is Needed (#376)
+
+Proposal 3989 is Disinterested.
+
+
+-----3. Promotor Wes' distribution of P3990
+
+>From magik-@aracnet.com Thu Mar 16 18:37:08 2000
+Subject: OFF: Proposal 3990 Distributed
+To: agora-officia-@gecko.serc.rmit.edu.au (agora-off)
+Date: Thu, 16 Mar 2000 18:34:11 -0800 (PST)
+
+
+This Week's Current Batch, as set at the beginning of this Nomic Week, 
+also consists of the following Proposal, which is hereby distributed:
+                   
+No.    Proposer   Priority   AI     Name
+3990   Murphy       10       2      Agora Abhors a Vacuum (#386)
+
+Proposal 3988 "Harsher Blot Penalties" by Elysion was Distributed 
+accidentally, due to our error, and thus the Voting Period for it 
+immediately ends, all Votes are canceled, and it is added back into 
+the Queue, retaining it's interal number of #378. We apologize for
+any inconvenience.
+
+========================================================================
+
+Judge elJefe's Arguments:
+
+As Wes has already admitted his guilt, I have little choice but to
+return a judgment of TRUE, which I hereby do.
+
+<dictum>It seems that this was a technical violation which was instantly
+corrected by Wes.  I don't quite see the point of making a CFJ.  If I
+could issue a judicial order against this kind of thing, I
+would.</dictum>
+
+========================================================================
+
+Judge elJefe's Evidence:
+
+<none>
+
+========================================================================
+
+Judge harvel's Arguments:
+
+<none>
+
+========================================================================
+
+Judge harvel's Evidence:
+
+<none>
+
+========================================================================
+
+Clerk of the Courts harvel
+--
+Michael Slone - http://vir.fclib.org/~harvel/
+Now feebly commence a sentence.
+		-- Gertrude Stein

@@ -1,0 +1,474 @@
+==============================  CFJ 2086  ==============================
+
+    I CFJ on the previous statement.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  avpx
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              UNDECIDABLE
+
+Appeal:                                 2086a
+Decision:                               REASSIGN
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+Appeal:                                 2086b
+Decision:                               REMAND
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ehird:                        15 Jul 2008 22:27:55 GMT
+Assigned to avpx:                       17 Jul 2008 06:15:06 GMT
+avpx recused:                           22 Jul 2008 03:09:17 GMT
+Assigned to G.:                         22 Jul 2008 04:36:49 GMT
+Judged UNDECIDABLE by G.:               22 Jul 2008 16:35:01 GMT
+Appealed by root:                       22 Jul 2008 19:46:50 GMT
+Appealed by G.:                         22 Jul 2008 20:02:09 GMT
+Appealed by Zefram:                     22 Jul 2008 20:54:47 GMT
+Appeal 2086a:                           22 Jul 2008 21:06:30 GMT
+REASSIGNED on Appeal:                   08 Sep 2008 22:48:05 GMT
+Assigned to ais523:                     14 Sep 2008 01:29:15 GMT
+Judged FALSE by ais523:                 16 Sep 2008 18:31:33 GMT
+Appealed by ehird:                      16 Sep 2008 18:47:38 GMT
+Appealed by root:                       16 Sep 2008 18:54:44 GMT
+Appealed by woggle:                     16 Sep 2008 19:01:49 GMT
+Appealed by G.:                         16 Sep 2008 19:10:36 GMT
+Appeal 2086b:                           16 Sep 2008 19:10:36 GMT
+REMANDED on Appeal:                     02 Oct 2008 15:45:33 GMT
+Assigned to ais523:                     02 Oct 2008 15:45:33 GMT
+Judged FALSE by ais523:                 03 Oct 2008 17:54:04 GMT
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Past precedents have held that these statements should be trivially
+true (the cross-reference is a trivial perturbation of previous cases).
+However, despite much discussion, past precedents have not considered
+the timing of speech acts.  So that must be considered, and there is
+no precedent on that issue whatsoever.
+
+The following things are correct:
+  1.  Immediately prior to a "speech act", a speech act is false
+  (it hasn't happened yet).
+  2.  Immediately after a successful "speech act", the speech act
+  is true (it has happened).
+
+But the rules are silent about the "instant" of the speech act.  That
+instant of time is the one in which the CFJ must be evaluated.  Approaching
+the jump from true to false as a limit case from either side shows us that
+there is a discontinuity at the "instant of action".  This discontinuity
+is not defined as either true or false in any literature, common defintion,
+or Agoran ideas that I can find.  It is, however, very in keeping with fine
+Agoran traditions to treat linguistic discontinuities by applying loose
+mathematical principles.  While the past precedents give the implication
+of that the limit case is approached from the "true" side, this is not
+actually supported, and in any case has not been carefully considered in
+those precedents (why not the false side?  No precedent has said).
+It would be possible to define the discontinuity as true or false in the
+rules, but we have not done so. So, quite literally, the truth value of
+the CFJ is that it is
+                                    "not capable of being accurately
+        described as either false or true, at the time the inquiry
+        case was initiated"
+
+and so I find UNDECIDABLE.
+
+Note that this judgement does not address the legality of an action, and
+it also does not make it undecidable whether an invalid action is a lie
+(that would be approaching the limit with a FALSE from both sides, so no
+discontinuity, though whether this leads to false at the instant of action
+isn't convered here), so I don't think this "type" of undecidable would
+lead to wins by paradox in the current system.
+
+========================================================================
+
+Appellant root's Arguments:
+
+The judge argues for a judgement of UNDECIDABLE on the basis that no
+prior precedent has examined the merits of either TRUE or FALSE in the
+light of eir mathematical analysis.  However, e also makes no attempt
+to examine the merits of either TRUE or FALSE and makes no effort to
+positively show that the statement is incapable of being accurately
+described as either true or false.
+
+Additionally, the judge's leading statement ("Ha, ha... My
+judgements...") leads me to believe that the judge either has lost eir
+marbles or intended this whole judgement as a joke.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+While I have expressed previous opinions on the truth value of speech
+acts, it was the looped timing of the cross-referenced CFJs here (within the
+instantaneous message) which led me to think hard about this timing of
+transition vs CFJ, and kept me from following the trivially assumed precedent
+of "true".  So to me, at least, it was a "fresh look".  Appeals court or new
+judge, please take a good hard look at the issue of the discontinuity and
+help me understand why it should go on one side or the other (besides the
+fact that "we've done it that way so far"...so far we haven't considered
+the issue while glossing over this timing issue, so to the extent that its
+part of custom it might be due to collective ignorance and bad assumptions
+as much as anything).
+
+I made it clear, and analyzed in the judgement, that (a) before the speech
+act is made, it is FALSE, and (b) after it is made, it is TRUE.  I tried
+(and failed) to find linguistic/logic evidence of what would be considered
+at the "moment of transition."  You can get as close as you like on either
+side with a true/false but not to the actual "time of action"!  I am not an
+expert in these fields so I relied on general mathematical consequences of
+undefined continuities, but literally, that in-between-moment *is* neither
+true nor false as far as I can tell, and so literally and precisely fits the
+definition of the given judgement.  So I look forward to becoming better-
+educated  (and not just opinied to "cause it's obvious because it's, um
+obvious") on why I am incorrect!
+
+========================================================================
+
+Appellant Zefram's Arguments:
+
+I support, and point to the analysis that I just gave in a message to a-d.
+
+[Said message is included below.]
+
+Kerim Aydin wrote:
+>The following things are correct:
+>  1.  Immediately prior to a "speech act", a speech act is false
+>  (it hasn't happened yet).
+>  2.  Immediately after a successful "speech act", the speech act
+>  is true (it has happened).
+
+No.  The statement of action is in the present tense (otherwise it
+wouldn't take effect as an action).  Prior to the time the statement
+is made, it is false, because the action is not happening (it has yet
+to occur).  After it has been made, it is *again* false, because the
+action is again not happening (it has already occured).  The statement
+is true at, and only at, the instant it is made.  (Well, it can also
+be true at times that similar actions are taken.  But in general, it is
+only true at this instant.)
+
+For the record, I am dubious about this interpretation of a statement
+being made, and action being taken, at a particular instant.  Making the
+statement is a process which takes non-zero time, and the statement's
+truth is evaluated (and any actions take effect) in the context of that
+process.  This context is not pinned to any particular instant in time,
+although we have historically assigned a particular instant for many
+legal purposes.  Some day this distinction will matter, but I think in
+this case the "instant" model is workable.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+According to rule 478,
+{{{
+Any action performed by sending a message is performed at the time
+date-stamped on that message.
+}}}
+
+Therefore, it is incontrovertible that, according to the rules, CFJs
+2086 and 2087 were filed simultaneously. (It's also worth pointing out
+that the Holiday rules interact with various timing rules, but I won't
+consider the interaction here because no Holidays are involved.)
+
+Rule 591 says, in part:
+{{{
+      * FALSE, appropriate if the statement was factually and
+        logically false at the time the inquiry case was initiated
+
+      * TRUE, appropriate if the statement was factually and logically
+        true at the time the inquiry case was initiated
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable or otherwise not capable of being accurately
+        described as either false or true, at the time the inquiry
+        case was initiated
+}}}
+
+This makes it clear that the statement's truth must be evaluated at the
+time that the CFJ is initiated. So therefore, CFJs 2086 and 2087 must
+have the same truth-value, which is the truth value of the statement "At
+the time CFJs 2086 and 2087 were initiated, they existed.". This seems
+to me to depend mostly on the definition of the word "initiate" that is
+used here; the word is not defined by the rules, so the standard English
+definition is meant here. My understanding of the meaning of that word
+in general (when used as a verb) is that either you initiate something
+that already exists to cause it to start in some way, or that you
+initiate something that doesn't exist to cause it to exist; the first
+meaning is more common, but does not seem to apply here (the CFJs
+clearly didn't exist /before/ they were initiated), so I take the
+second. My reading is that CFJs are initiated /at/ a moment in time when
+they do not exist, and come to exist as a result; therefore, the CFJs
+came into being because they were initiated, and did not exist at the
+moment at which they were initiated. (Goethe's argument that it is
+undecidable whether something exists at the moment it is initiated is
+interesting, but ultimately I think this is a matter of semantics, and
+the semantics of 'initiate' being unclear is not a reason to claim that
+they are undecidable. Maybe a rule that defined it explicitly would help
+to clear things up, here.)
+
+Arguably, IRRELEVANT is also appropriate, but I may as well clear this
+point up now to save the same arguments again once the CFJ does become
+relevant.
+
+Therefore: I judge CFJ 2086 FALSE, CFJ 2087 FALSE.
+
+========================================================================
+
+Appellant ehird's Arguments:
+
+See, "initiation" is the process by which something not existing is
+made to exist.
+
+{moment before initiation | doesn't exist}
+{moment of initiation | transitioning from not existing and existing}
+{moment after initiation | exists}
+
+If something is transitioning from A to B it is neither A or B.
+
+Therefore both neither exist or don't exist.
+
+Therefore they cannot be judged TRUE or FALSE.
+
+Therefore they should both be judged UNDECIDABLE.
+
+========================================================================
+
+Appellant root's Arguments:
+
+On Tue, Sep 16, 2008 at 12:50 PM, Ian Kelly <ian.g.kelly@gmail.com> wrote:
+> On Tue, Sep 16, 2008 at 12:47 PM, Elliott Hird
+> <penguinofthegods@googlemail.com> wrote:
+>> 2008/9/16 ais523 <ais523@bham.ac.uk>:
+>>> Therefore: I judge CFJ 2086 FALSE, CFJ 2087 FALSE.
+>>> --
+>>> ais523
+>>>
+>>
+>> With two support I intend to appeal this judgement.
+>>
+>> Arguments:
+>>
+>> See, "initiation" is the process by which something not existing is
+>> made to exist.
+>>
+>> {moment before initiation | doesn't exist}
+>> {moment of initiation | transitioning from not existing and existing}
+>> {moment after initiation | exists}
+>>
+>> If something is transitioning from A to B it is neither A or B.
+>>
+>> Therefore both neither exist or don't exist.
+>>
+>> Therefore they cannot be judged TRUE or FALSE.
+>>
+>> Therefore they should both be judged UNDECIDABLE.
+>
+> Why is your interpretation of the moment of initiation better than ais523's?
+
+Never mind, I thought of a good reason.  Often we assume that we can
+initiate a CFJ / submit a proposal / agree to a pledge / etc. and then
+further manipulate that newly created instance within the same
+message.  ais523's judgements imply that we can't, which is contrary
+to game custom.  On those grounds, I support tusho's appeal of CFJs
+2086-7.
+
+========================================================================
+
+Appellant woggle's Arguments:
+
+I also support the appeal of CFJ 2086-7. As root has stated,
+long-standing game custom allows the actions of a message to have some
+ordering in legal time even though they take effect at the same
+instant of physical time. (I do not believe that tusho's arguments
+have merit: although a light that is turning on may be neither off or
+on, it is one of on or not on.)
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I support this appeal and thus appeal it.  This should be considered
+as a fencepost problem; things that are considered "at the time of"
+are being considered in terms of continuous time (be it legal or real
+time).  Instants in time that border two periods of continuous time
+are in neither, except by arbitrary definition.  The arbitrary
+definition chosen should reflect game custom if it is not explicitly
+defined.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Some light can be thrown on this case by considering the history of the
+relevant part of rule 478.
+
+It first shows up in rule 478/11:
+{{{
+      If the Rules require a Player to publish certain information,
+      then e is considered to have satisfied that requirement at the
+      time e publicly sends a message containing the information e is
+      required to publish.
+}}}
+Rule 478/13 removed this paragraph again.
+The modern phrase was added in rule 478/15:
+{{{
+      Any action performed by sending a message is
+      performed at the time date-stamped on that message.
+}}}
+So before 6 August 2005, the rules were sufficiently different that the
+current situation wouldn't apply.
+
+There also used to be a rule 1527 which is very relevant to this
+discussion, so I provide its history here, even though the rule in
+question no longer exists.
+
+The earliest recorded version is either 1527/0 or 1527/1, and looks like
+this:
+{{{
+      Whenever a message contains more than one notification, report,
+      or other communication in which the Rules place some legal
+      significance, the communications in that message shall be taken
+      to have been sent sequentially, separated by infinitesimal
+      increments of time, in the order which they appear in the
+      message.
+}}}
+
+The last version, before it was repealed, was 1527/4:
+{{{
+      Whenever a message contains more than one note on which the
+      rules place some legal significance, the notes shall be taken to
+      have been sent sequentially in the order they appear in the
+      message.
+
+      A tangle is any set of two or more notes in a message, none of
+      which can be determined to appear in the message before the
+      others.  If a message containing a tangle does not provide an
+      order for the notes in that tangle, then the notes in that
+      tangle shall be considered ambiguous and without effect if the
+      effects of those notes on the gamestate would depend on the
+      order in which they take effect, discounting the mere fact of
+      their taking effect in a different order.
+}}}
+"Notes" seems not to have the present meaning; a comparison to 1527/3
+seems to imply that the meaning then was something like "action,
+notification, report, or other communication", although I can't be sure
+without investigating more of the ruleset. The rule was repealed on 27
+August 2006, relatively recently, by proposal 4866; until then, the CFJ
+would have been ambiguous.
+
+A copy of proposal 4866 is archived at
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2006-August/
+002683.html>. The proposal made radical changes to the ruleset, along with two
+others submitted at a similar time, and seemed to have been part of a large
+ruleset simplification. (Goethe was responsible; I invite em to shed more
+light on the circumstances.) Rule 478 was amended at the same time, but mostly
+to replace "Registrar" with "Herald", and the relevant parts of the rule did
+not substantively change.
+
+There are two arguments for what happened at this point. One is that the
+repeal of the in-order rule meant that from then on multiple actions in
+the same message happened simultaneously rather than in order. The other
+is that the rules before the change would imply actions in order, and
+even after the repeals this was still game custom. I have been trying to
+establish evidence as to which, but Agora went into a lull after the
+Repeals in question. I've looked through the a-b archives from then, and
+surprisingly the next message for which it matters was sent on 18
+December 2006, several months later (and is visible at
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2006-Decembe
+r/005977.html>. The situation was that Agora was going very slowly, and had
+slowed down even further due to players deregistering for the holidays (as
+going On Hold had been repealed back then). Goethe sparked off a flurry of
+activity by publishing a Writ of FAGE, and Murphy (then CotC) took multiple
+actions in a response a bit later, creating a CFJ, assigning it, rotating, and
+assigning CFJ 1594 all in the same message (and incidentally winning by
+paradox, due to a split gamestate in which each of the judges of CFJ 1594
+ruled that the other's gamestate was correct). It now seems apparent that
+Murphy's assignment was part of a scam, to get the CFJs assigned in just this
+fashion. There was sufficient controversy around other things (mostly around
+whether Writs of FAGE worked at all) that nobody questioned the use of
+multiple actions in a message at the time; most of the players active had been
+around since before the Repeals, which changed a lot, and it's likely that
+they merely assumed that the multiple-actions thing would work.
+
+There were many other breakages caused by such a large change to the
+ruleset, some of which were fixed by proposal; there is also evidence
+that many players around that time weren't really paying attention to
+the rules and assumed that they continued working the same way. So I
+would argue that, in late 2006 and early 2007, game custom was as if it
+would have been if rule 1527 has still existed.
+
+Since then, the game custom in question seems to have perpetuated via
+new players picking it up from old players; the custom of performing
+multiple actions one after another is an obvious habit for people to
+fall into. It's not clear if any of this was legal, but in passing I
+note that rule 1551 stood relatively intact through all this, so most of
+the things that might have been affected by this has since been
+ratified, and it seems unlikely that we need a massive gamestate
+calculation.
+
+There is already support in the ruleset for things happening
+simultaneously (as in 'at the same time') but ordered, in the resolution
+of proposals that cause multiple rules changes. Rule 105 says:
+{{{
+Rule changes always occur sequentially, never simultaneously.
+}}}
+
+Before proposal 4866, it was possible for actions to happen "at the same
+time" but in a sequence (rules 478 and 1527 co-existed happily for
+ages), and it seems that game custom that this is possible is relatively
+strong. (This is similar to root's and woggle's arguments on the case.)
+Things could have gone quite differently if back in 2006 someone had
+tried to scam the absence of rule 1527; but by now, it's reasonably
+established what game custom says the new ruleset means. I think that
+under the current ruleset, when multiple actions are given in a message,
+it is up to the author to specify which order they happen in to avoid
+ambiguity; but that there is a very strong presumption that they are
+intended to happen in the order given in the message, in the absence of
+evidence to the contrary. (This is the best interpretation I can make of
+a missing rule 1527; in the absence of a rule specifying ordering,
+people sending the message can choose.) When ehird filed the CFJs in
+question, there was no indication that any intention was meant other
+than the CFJs being filed one after the other.
+
+With that established, all that is needed is to look at the exact
+meaning of the statements ehird CFJd on, to determine the correct
+FALSE/TRUE/UNDECIDABLE status of the statements.
+
+The statement of CFJ 2086 is "I CFJ on the preceding statement". The
+preceding statement was "I CFJ on the following statement"; at the time
+CFJ 2086 was filed, ehird had not up to that point generally CFJ'd on
+that statement (and was in the process of CFJing on the statement "I CFJ
+on the preceding statement".) Therefore, CFJ 2086 is FALSE.
+
+The statement of CFJ 2087 is "I CFJ on the following statement". The
+following statement was "I CFJ on the preceding statement"; ehird had
+just CFJd on that statement, so at the time that CFJ was called it was
+true that ehird CFJd on that statement. (Note that the most natural
+interpretation of "I CFJ on the following statement" is as a speech
+action for the filing of the CFJ itself, but as a statement for the
+statement of the CFJ.) Therefore, CFJ 2087 is TRUE.
+
+I judge CFJ 2086 FALSE and CFJ 2087 TRUE.
+
+TLDR: Under the current ruleset, actions in one message do not happen
+simultaneously unless explicitly specified (and sometimes this is
+prevented by the rules anyway), and by default happen in the order given
+in the ruleset.
+
+========================================================================

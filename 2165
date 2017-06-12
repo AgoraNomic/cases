@@ -1,0 +1,64 @@
+==============================  CFJ 2165  ==============================
+
+    Attributes of a person such as whether e is biological, wearing a
+    hat, the same as another person, etc. can be ratified.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by omd:                          16 Sep 2008 21:47:40 GMT
+Assigned to G.:                         23 Sep 2008 08:28:08 GMT
+Judged UNDETERMINED by G.:              23 Sep 2008 14:50:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I'm arguing for FALSE, because they're not part of the
+gamestate, and that Rule 2170 would not prevent an Annabel situation.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Unfortunately the two examples given by the caller, wearing a hat and
+being another person, are very different, thus making this a "mixed"
+statement.
+
+There is nothing to stop the rules from making "wearing a hat" in actual
+physical fact some condition for earning points or somesuch, and make a
+recordkeepor to track that information, thus make some such property
+subject to ratification, creating the legal fiction that someone was
+wearing a hat at some time.  This argues for a trivial TRUE.
+
+However I think what the caller is getting at is that, in the current
+ruleset, if there was a recordkeepor who tracked points and wrote:
+Maud:    10 points
+Annabel: 10 points
+and then ratified the report, it would not ratify Maud and Annabel
+to be separate persons; if the "truth" were uncovered it would have
+ratified that Maud had 20 points at the time.  A more difficult case
+is for mutually exclusive conditions:
+Maud:    Leaning
+Annabel: Sitting
+This would "collapse" to whichever had happened later, and ratifying
+the above report would not ratify the impossibility that the single
+person was both Leaning and Sitting, so saying that ratifying this
+would ratify the existence of two entities would be FALSE.  So, the
+caller is correct to say that ratification would not prevent an Annabel
+crisis, pragmatically all we can do is make the punishment severe
+enough that it is a high barrier to attempts.
+
+In any case, in the statement examples, seeing as "wearing a hat"
+is TRUE and "being the same as another" is FALSE, the net effect is
+for the broader statement as written is UNDETERMINED.
+
+========================================================================

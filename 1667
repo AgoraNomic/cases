@@ -1,0 +1,80 @@
+==============================  CFJ 1667  ==============================
+
+    if there is a partnership agreement A, defining a partnership PA,
+    for which the partners are a partnership PB and one of PB's members
+    M, then PA is the same legal person as PB.
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  The Hanging Judge
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       14 May 2007 20:36:11 GMT
+Assigned to The Hanging Judge:          22 May 2007 01:00:42 GMT
+Judged FALSE by The Hanging Judge:      23 May 2007 20:11:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I refer to the argument I supplied for the previous CFJ, in which I
+expounded the legal theory that the personal identity of a partnership of
+natural persons is precisely the set of its members.  This CFJ extends
+the theory to the situation where the members of a partnership are not
+all natural persons.
+
+The legal identity of a partnership is, as I have argued, determined by
+who is the subject of its rights and duties.  In the situation of this
+CFJ, rights and duties of PA are (via A) rights and duties of PB and M,
+collectively.  But we cannot end analysis there, because this is only
+an acceptable subject of rights and duties if each of PB and M is also
+an acceptable subject of rights and duties.  So we must look at where
+rights and duties of PB go.  They are, via PB's defining agreement B,
+rights and duties of M and other members.  M now appears twice in our
+collection of underlying persons, but this matters not: M is simply
+bound by both A and B.
+
+M and the other members of PB may all be natural persons.  If so, our
+analysis is complete: rights and duties of PA are rights and duties of
+a set of natural persons that includes M.  M does not appear twice in
+this set: e is only a single person emself, although constrained by more
+than one agreement.  The set of natural persons on whom the rights and
+duties of PA fall is the same as the set for PB.  As it is these sets
+that constitute the personal identity of partnerships, PA and PB are the
+same legal person.  If the members of PB are not all natural persons then
+the analysis must continue to other levels, but the ultimate result is
+the same.  I therefore urge a judgement of TRUE.
+
+========================================================================
+
+Judge The Hanging Judge's Arguments:
+
+(pseudo-judged by Murphy due to a bug in the judge eligibility rule)
+
+I interpret a partnership's identity, not merely as the set of its
+members, but as the agreement defining that set.
+
+I pseudo-judge CFJs 1666 and 1667 false, as direct consequences of the
+above interpretation.
+
+I interpret the status of a partnership in the face of changes to the
+agreement's membership (and/or text, for that matter) as covered by
+Rule 1586 (Definition and Continuity of Entities), and thus pseudo-judge
+CFJ 1668 false.
+
+I have maintained these interpretations since before Quazie and I came
+up with the HPn scam, and continue to maintain them in the face of Yin
+and Yang's attempted proof of concept.
+
+I would support the adoption of legislation explicitly supporting these
+interpretations, but removing legal personhood to partnerships with less
+than two natural persons underlying them (after recursing through as
+many levels as necessary).
+
+========================================================================

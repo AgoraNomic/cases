@@ -1,0 +1,111 @@
+=========================  Criminal Case 2866  =========================
+
+    Keba violated Rule 2143 and committed the Class-2 Crime of Tardiness
+    by failing to publish the List of Succession in the week beginning
+    on September 6 of this year.
+
+========================================================================
+
+Caller:                                 scshunt
+Barred:                                 Keba
+
+Judge:                                  ais523
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by scshunt:                      17 Sep 2010 16:21:56 GMT
+Defendant Keba informed:                17 Sep 2010 16:21:56 GMT
+Assigned to ais523:                     22 Sep 2010 14:21:09 GMT
+Judged NOT GUILTY by ais523:            26 Sep 2010 15:27:28 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There are five conditions for being guilty.
+
+Now, conditions (b) and (c) are trivial and won't be discussed. (e) is
+true as Keba could have chosen not to assume Herald and therefore would
+have avoided the breach (and left G. to make the breach).
+
+Since the violation depends on a technicality (that I will describe)
+that Keba probably was not aware of, one could argue that (d) is not
+satisfied. However, CFJs 1857 and 1858, as well as convention, provide
+that ignorance of the law is not appropriate grounds for finding someone
+to not be guilty of a violation. This extends to the technicality; it
+was Keba's duty, assumed as Herald, to know the relevant rules in their
+completeness.
+
+Now, for the controversial bit. Rule 2315 says that "[the list published
+by the Herald to bootstrap] becomes the List of Succession." It does not
+say that the List of Succession becomes the same as the bootstrap list,
+it does not say that it is reordered to match. Rather, it says that
+/that specific list/ became the List of Succession.
+
+This has two main consequences:
+
+The first is that a legal fiction is created that the message containing
+the bootstrap list keeps changing.
+
+The second is that it is impossible to publish the List of Succession,
+as it would only be a copy.
+
+Therefore, the alleged List of Succession report in the aforementioned
+week was not actually a publication of the List of Succession, and thus
+a failure to perform duties.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+The interpretation suggested by the caller is absurd.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Gratuitous absurd consequence:  in which case, the original list was never
+sent,
+because the list which arrived on the server and the one in each of your
+inboxes/
+archives is merely a copy and sad reflection of the original ur-list that I
+typed.
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+On Fri, Sep 17, 2010 at 4:09 PM, omd <c.ome.xk@gmail.com> wrote:
+> On Fri, Sep 17, 2010 at 3:16 PM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+>> On 09/17/2010 01:05 PM, comexk@gmail.com wrote:
+>>>
+>>> Gratuitous: The interpretation suggested by the caller is absurd.
+>>
+>> Would you prefer the interpretation that the list published in the message
+>> was rearranged to match the List of Succession.
+>
+> The meaning of "A becomes B" can depend on context.  Although "A
+> becomes B" usually means "A is set to B", if A is naturally immutable
+> and B is naturally mutable, the obviously correct reading is "B is set
+> to A".
+>
+
+Gratuitous: If I say "omd becomes the Speaker", I don't mean that omd
+is now Keba.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2866 NOT GUILTY. As omd says, the interpretation suggested
+by the caller is absurd; for a criminal case, it's not necessary to
+judge whether it's actually correct or not, but merely if it's
+reasonable to assume that the interpretation is correct (because then
+the player can perform the action in question with a reasonable belief
+that it compiles with all relevant rules); and I rule that it is.
+
+========================================================================

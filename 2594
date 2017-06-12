@@ -1,0 +1,174 @@
+==============================  CFJ 2594  ==============================
+
+    The proposal entitled It's the Thought That Counts, if adopted,
+    would successfully cause the second Rule Change described in its
+    text.
+
+========================================================================
+
+Caller:                                 scshunt
+Barred:                                 Murphy
+
+Judge:                                  Pavitra
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      18 Jun 2009 02:32:59 GMT
+Assigned to Pavitra:                    21 Jun 2009 01:34:57 GMT
+Judged TRUE by Pavitra:                 21 Jun 2009 08:55:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+> It's the Thought That Counts, AI=1.5, II=0
+> {{{
+> Add a new bullet to Rule 1871 (The Standing Court), reading
+> {{
+>       * Kneeling. Kneeling players are unqualified to judge. Kneeling is
+>         a punishment levied on repetitively awful judges.
+> }}
+>
+> Add a new paragraph to Rule 1871 (The Standing Court), reading
+> {{
+>       Rules to the contrary notwithstanding, a player's posture CANNOT
+>       be flipped away from kneeling unless the flip is made by an
+>       instrument of sufficient power to perform arbitrary posture
+>       changes, or that player has been kneeling for at least 14 days.
+> }}
+>
+> Flip Rodlen's posture to kneeling.
+> }}}
+
+The first attempted change specifies to "Add a bullet". The bullet is
+the standard typographical method for an entry to a list. Therefore, it
+is easily interpreted that the bullet is to go on the list, rather as
+somewhere else, which would be ludicrous.
+
+In both instances, it's unclear if the text should be appended.
+According to wiktionary, "add" can mean:
+ 1. To give by way of increased possession (to any one); to bestow (on).
+ 2. To join or unite, as one thing to another, or as several
+particulars, so as to increase the number, augment the quantity, enlarge
+the magnitude, or so as to form into one aggregate. Hence: To sum up; to
+put together mentally; as, to add numbers; to add up a column.
+ 3. To append, as a statement; to say further.
+ 4. To make an addition. To add to, to augment; to increase; as, it adds
+to our anxiety.
+ 5. To perform the arithmetical operation of addition; as, he adds rapidly.
+
+Notably, definition 3 features "append", and makes no mention of
+insertion at an arbitrary location. Therefore it seems obvious that
+"add" should be taken to mean "append".
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+If the proposal read "insert" or "amend the list to include" rather than
+"append", then the change would almost certainly be ambiguous. The judge
+is requested to provide a general rubric for determining whether a given
+near-synonym for "append"/"insert" is ambiguous or unambiguous, and if
+possible to do so for potentially-ambiguous terminology in general.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+First, the case.
+
+Ambiguity exists if and only if there is more than one meaningfully
+different reasonable interpretation of the text. The definition cited in
+caller's arguments suggests that "add" can only mean "append". I disagree.
+
+The cited definition refers to a very specific, somewhat idiomatic
+usage: "That is a very interesting argument. I would like to add to that
+that coconuts are brown." "Oh, one more thing -- I would like to add
+that I rather liked the play." "And furthermore, let me add that there
+is mud on your boots!"
+
+All of these have in common that they are amending in realtime a
+discourse or remark given in realtime. Compare the following:
+"Interesting paper. You might add in there somewhere that coconuts are
+brown." "I'm not satisfied with the painting yet -- I'd like to add a
+splash of red to it somehow." "You should add something about the mud in
+your police report."
+
+In writing these examples, I have noticed something I did not expect to
+find. When "add" is used to mean "append", it is used with "to". When it
+means "insert", it is used with "in". To add foo to bar is to append foo
+to bar; to add foo in bar is to insert foo in bar.
+
+The Proposal under question uses "to".
+
+It might be argued that "add a new bullet to" and "add a new paragraph
+to" are by R754(1) sufficiently close to "add a new bullet in" and "add
+a new paragraph in" respectively. This argument would be wrong, because
+allowing those synonyms "would create an ambiguity in meaning."
+
+I judge Proposals 2593-4 TRUE.
+
+
+Now for my general rubric.
+
+I realize that an append/insert rubric is impossible. English is a
+messy, illogical language. I could, if I were so inclined, research
+every word that has ever been recorded as being used as a near-synonym
+for either of these words, and discover the usage patterns for each; but
+the result would be a dictionary, not a general pattern or rule. Also,
+some Agoran would immediately invent a new word or usage specifically to
+mess with the dictionary, because Agorans are like that.
+
+It may be possible to develop a more abstract rubric for ambiguity in
+general.
+
+The boundaries of ambiguity, pedantry, and forgiveness are defined in
+the general case (i.e., unless overridden by domain-specific rules like
+R105p3) by the interaction of Rules 217s1 and 754(1).
+
+217s1 calls for Rules to mean exactly what they say, and this is
+generally extended to all Agoran texts, such as announcements,
+Proposals, and Legalistic contracts. The exceptions, such as Equitable
+contracts and consent to contracts, are there because the Rules say so
+specifically.
+
+754(1) is more explicit in applying to "all forms of communication", but
+it is also explicitly limited: "as long as the difference does not
+create an ambiguity in meaning."
+
+The general rubric, then, is this: if a message would otherwise mean or
+do nothing useful, then 754(1) may be usable to give it a meaning. If it
+could reasonably have any of a set of two or more meanings, then 217s1
+may be usable to get rid of all but one meaning on various
+technicalities. If you can't do either, or if 754(1) gives multiple
+equally reasonable meanings, or if 217s1 gets rid of all meanings on
+equally reasonable technicalities, then Rule 217s2 takes effect, and we
+(finally) get to talk about the best interests of the game.
+
+In short:
+
+It's all about counting how many possible meanings a text has.
+ * If it has zero, you can use the "reasonable synonym" principle to
+   bring this up to one. However, the use of "reasonable synonym" can
+   never result in a text having two or more meanings.
+ * If it has two or more, you can be pedantic to get rid of some of
+   them, but you have to apply your technicalities consistently.
+ * If you can make it have exactly one, that's what it means.
+ * If you can't make it have more than zero, it doesn't mean anything.
+ * If you can't make it have fewer than two, you get to pick which one
+   you like based on "game custom, common sense, past judgements, and
+   consideration of the best interests of the game."
+ * If you can make it have exactly one meaning in two or more different
+   ways that give you different meanings, that counts as it having those
+   two or more meanings. See previous bullet.
+
+I think that, largely, the Agoran community was already aware of this.
+Still, it's nice to have it written out; in particular, to have
+often-abused concepts such as "reasonable synonym", "game custom", and
+"best interests of the game" laid out in concise relation to each other
+in one place.
+
+========================================================================

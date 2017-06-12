@@ -1,0 +1,142 @@
+==============================  CFJ 1564  ==============================
+
+    Goethe possesses a Not Your Turn card.
+
+========================================================================
+
+Caller:                                 Sherlock
+
+Judge:                                  Murphy
+Judgement:                              DISMISS
+
+========================================================================
+
+History:
+
+Called by Sherlock:                     05 May 2005 23:12:19 GMT
+Assigned to Murphy:                     08 May 2005 09:14:20 GMT
+Dismissed by Murphy:                    15 May 2005 20:20:18 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+http://www.agoranomic.org/pipermail/agora-business/2005-May/004614.html
+
+ --- Kerim Aydin <kerim@u.washington.edu> wrote:
+ >
+ >
+ > 1.  I play Discard Picking by naming Not Your Turn.
+ >
+ > 2.  I play Not Your Turn by specifying Goethe's recent
+ >      play of Discard Picking.
+ >
+ > Okay, now what?
+
+and:
+
+Rule 2076/0 (Power=1)
+Card cards
+
+       Caption:  Your Turn
+       Elements: Budgeted
+       Exploit:  A Player you name must play or discard a card in the
+                 next 72 hours, or commit the Class-1 Infraction of
+                 Delay of Game, reportable by you.
+
+       Caption:  Discard Picking
+       Elements: Budgeted, Delayed[4]
+       Exploit:  If a copy of a card was played or discarded in the
+                 past 72 hours, you may name it, and a copy of that
+                 card, if one is still in the deck, is automatically
+                 transferred from the Deck to your hand.
+
+and:
+
+http://www.agoranomic.org/pipermail/agora-official/2005-April/002112.html
+
+
+Proposal 4678 by Goethe, AI=1, Ordinary
+Taking over Takeovers
+
+
+Proposal: Taking over Takeovers
+
+Amend Rule 2070 [Card Powez] by inserting after this paragraph:
+       * Delayed[N]: You may not play this card if you have played a
+         copy of this card in the past N times 24 hours.
+the following paragraph:
+       * Asleep[N]: No one may play a copy of this card if anyone
+         has played a copy of this card in the past N times 24
+         hours.
+
+Amend Rule 2078 (Corporate Takeovers) to read:
+
+       Initiative is a stuck player switch, tracked by the Assessor,
+       with values Gote and Sente.
+
+       Mainsail is a stuck proposal switch, tracked by the Assessor,
+       with values Tyrannical and Piratical.  When a Proposal's
+       Mainsail is flipped to Piratical, it becomes democratic and
+       sane.
+
+       A Minimal Crew is defined as the number of active noisy
+       players divided by 3.
+
+       If a Proposal has a Piratical Mainsail at the end of its
+       voting period, and at that time specifies a set of Players
+       (the Raiders) in number neither less than a minimal crew nor
+       greater than twice a minimal crew, then:
+         (a) If the proposal is adopted, then all Raiders are
+             flipped to Sente, and all other players are flipped to
+             Gote.
+         (b) Otherwise, all Raiders are flipped to Gote, and all
+             other players are flipped to Sente.
+
+       The following cards are defined:
+          * Caption:  Hoist the Flag
+            Quota:    5
+            Elements: Asleep[30]
+            Exploit:  You may flip the Mainsail of any one Proposal
+                      to Piratical.
+
+          * Caption:  Royal Navy
+            Quota:    2
+            Elements: None
+            Exploit:  You may flip the Mainsail of any one Proposal
+                      to Tyrannical.
+
+          * Caption:  Cannon Fire
+            Quota:    3
+            Elements: None
+            Exploit:  You may abort a Piratical Proposal.  A copy of
+                      the Proposal is added to the Proposal Pool with
+                      its characteristics intact.
+
+          * Caption:  Dread Pirate Roberts
+            Quota:    3
+            Elements: None
+            Exploit:  You may flip the Mainsail of any Piratical
+                      Proposal to Tyrannical, and then flip the Mainsail
+                      of a different Tyrannical proposal to Piratical.
+
+
+Amend Rule 2076 [Card cards] by appending the following text:
+        Caption:  Not Your Turn
+        Elements: Budgeted, Delayed[2]
+        Exploit:  You may specify a card play that has occurred
+                  in the past 48 hours, and (1) that card shall
+                  be deemed to have not been played, and (2) the
+                  gambler who originally played that card may not
+                  play a copy of that card for the next 72 hours.
+
+The Budgeted quota for Not Your Turn is hereby set to 3.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I agree with the Judge's arguments in CFJ 1563, and thus dismiss CFJ 1564
+under R1565(ii).
+
+========================================================================

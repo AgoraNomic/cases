@@ -1,0 +1,129 @@
+==============================  CFJ 3363  ==============================
+
+    Did Machiavelli successfully attempt to to take an action in the
+    quoted message?
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        08 Jul 2013 04:27:20 GMT
+Assigned to woggle:                     08 Jul 2013 17:11:52 GMT
+Judged TRUE by woggle:                  13 Jul 2013 19:28:19 GMT
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Gratuitous: By the precedent of CFJ 2879-80, this is not scammable.
+By more recent precedent, it is.  I really need to reread the rules
+regularly.
+
+========================================================================
+
+Caller's Arguments:
+
+Machiavelli is required to choose an appropriate number of objections.  35
+[first-class player] objections is implausibly large, being more than twice
+the number of first-class players.  The number is therefore inappropriate.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2288: If a person CAN perform an action by announcement, e CAN perform
+it... without N objections... where N is a number appropriate for that form of
+dependent action.
+
+----- Original Message -----
+> From: Tanner Swett <swettt@mail.gvsu.edu>
+> To: agora-business@agoranomic.org
+> Cc:
+> Sent: Sunday, July 7, 2013 8:50 PM
+> Subject: BUS: YMRC
+>
+> I intend, without 35 objections, to destroy one yak, under the condition
+that I
+> CANNOT resolve this intent successfully.
+>
+> —Machiavelli
+>
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+"an appropriate number" presumably is meant to refer to Rule 1728's "a
+positive integer no greater than 8".  Of course, this leads to the
+same conclusion.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Further discussion on IRC has informed me that there is
+not necessarily a conflict between those precedents (the recent
+precedent I am referring to is CFJ 3339).  However, if not, there is a
+conflict between both of them and 3334, 3249, 3212, 2878, all the
+recent paradox wins, which are all (I believe) based on the concept
+that indirectly evaluating a statement does not provide a sufficient
+boundary between the actual and hypothetical logical systems - that
+while we can throw up hands and draw a boundary, in the form of Messy
+Statements or Determinism, of "try to evaluate this statement but
+abort if it would cause a paradox", simply asking for the truth value
+of a statement is not enough to do so.  Or, to be compatible with the
+concept that UNDECIDABLE (and only UNDECIDABLE) is appropriate for the
+CFJ, it *is* enough, but only from the perspective of an external
+observer: we assume that the statement is undecidable, therefore it is
+illegal to say it (in the case of 2878), therefore it is true, but
+true + undecidable => undecidable, the statement is still undecidable,
+therefore it is legal to stay it, true + false => undecidable, the
+legality is undecidable.  Paraconsistent logic.  Either option accepts
+that a statement can be neither true or false, but the 2879-80
+precedent says that a legal statement is not equivalent to a logical
+statement, while the paradox custom says that the statement is
+incorporated directly into the logical system but comes out to be
+neither true or false (but a concept of relevance stops the principle
+of explosion from making all statements in the game meaningless).
+
+Looking at it this way, the former may make more sense, and I think
+the reasoning in CFJ 3339 vaguely concurs with this.  However, it does
+not directly do so, and it is partially based on the existence of
+UNDECIDABLE and game custom regarding paradoxes, which, again, has the
+latter as precedent.  Not that we've ever been afraid to change
+precedent.  I'm not sure whether I would like to change it -
+sprinkling "determinate" like fairy dust isn't that fun, but it is
+required in any case, because one thing we have consistently held is
+that a statement is not indeterminate just because it's unknown, so
+allowing non-Determinate conditions allows unknown values to be
+specified, making gamestate UNDETERMINED - not eligible for a Win By
+Paradox, but still destructive.
+
+...at least the fact that quite a few players have looked at these
+situations and considered them paradoxical demonstrates that I was not
+completely unreasonable in setting precedent for the latter option in
+CFJ 2878.  But I am annoyed that I did not give the former proper
+consideration, and I believe a new case is required.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Actually, this goes back to CFJ 1787.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3363 (vacuously) TRUE. Making any public statement can be
+considered an action for the purposes of, e.g., specifying the alleged action
+in a criminal case.
+
+========================================================================

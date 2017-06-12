@@ -1,0 +1,154 @@
+==============================  CFJ 1592  ==============================
+
+    Evantine holds the patent title Fugitive.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Maud
+Judgement:                              
+
+
+Judge:                                  arkestra
+Judgement:                              
+
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           01 Dec 2006 17:38:12 GMT
+Assigned to Maud:                       10 Dec 2006 22:03:28 GMT
+Maud recused:                           13 Dec 2006 07:32:42 GMT
+Assigned to arkestra:                   18 Dec 2006 01:43:45 GMT
+arkestra recused:                       21 Feb 2007 18:10:52 GMT
+Assigned to Quazie:                     21 Feb 2007 18:10:52 GMT
+Quazie recused:                         23 Mar 2007 21:12:29 GMT
+Assigned to Murphy:                     23 Mar 2007 21:17:19 GMT
+Judged TRUE by Murphy:                  30 Mar 2007 14:13:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Evantine was a "Fugitive from Justice" according to the Herald's Report
+of August 13, 2006 (see Evidence).  At the time, "Fugitives from Justice"
+were defined by Rules 1437 ("Fugitives are non-players with stains") and 2017
+("stains == index counted in blots"), and Evantine had a blot.
+
+With the taking effect of Proposal 4867, the following things happened in
+sequence (within Proposal 4867):
+  (A) The Patent title fugitive was defined by amendment of R1505.
+  (B) A legislative order awarded all "fugitives" the patent title Fugitive.
+  (C) Rule 1505 was repealed, so fugitive was no longer a defined patent
+      title.
+  (D) Then the definition of Blots was repealed so "stain==index of blots"
+      was no longer defined.
+
+At the same time, Rule 1437 remained in force, so "fugitives from justice"
+remained a defined concept, albeit with the condition (having a "non-zero
+stain") being no longer defined.  At the same time, Rule 1437 suggests
+that a fugitive "keeps eir stain", so nothing has removed the stain, even
+though the stain is no longer an index.
+
+========================================================================
+
+Caller's Evidence:
+
+Herald's report of August 13, 2006:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2006-August/0
+02680.html
+
+Rule 1437/6 (Power=1) [currently in force, unchanged throughout]
+Fugitives from Justice
+
+      When a Player deregisters or is deregistered, e keeps eir Stain
+      (though it may be modified by other Rules).  A non-Player with a
+      non-zero Stain is known as a Fugitive from Justice.
+
+      At the beginning of the month, the Herald shall expunge half the
+      Blots of each Fugitive from Justice; however, no Fugitive from
+      Justice shall have eir Stain reduced to less than one by this
+      method.
+
+
+Rule 2017/1 (Power=1) [repealed by Proposal 4867].
+Blots
+
+      The stain of an entity is an index measuring how unclean that
+      entity is.  An entity is immaculate, or squeaky clean, if its
+      stain is zero.
+
+      If an entity gains, is assessed, or is penalised a given number
+      of Blots, then as soon as possible after the Herald is informed,
+      either by emself or by others, of the change, e shall record an
+      increase in that entity's stain of that amount (or half that
+      amount if the entity is an unready player at the time of the
+      change).
+
+      If some number of an entity's Blots are expunged, then as soon
+      as possible after the Herald is informed of the change, e shall
+      record a decrease of that amount in the entity's stain.  If this
+      would result in a negative stain, then it instead results in a
+      stain of zero.
+
+Excerpt from Proposal 4867:
+( full text on http://www.agoranomic.org/cgi-bin/mailman/private/agora-officia
+l/2006-August/002692.html
+)
+
+Amend Rule 1505 (Standard Classes of Crimes and Infractions) to be
+called "Dishonor Rolls" and amend it to read:
+
+       When the Herald is ordered to place someone in the Chokey, e
+       shall publically award em the patent title "In the Chokey".
+
+       This title shall be automatically revoked after a length of time
+       indicated by the sentencing order, and the Herald shall announce
+       the revokation.  If a sentencing order is executed against a
+       defendant who already holds this title, the length of time of
+       the new sentencing order shall be added to the time left on any
+       previous ones.
+
+       A person is considered to be In Disgrace while in the Chokey,
+       between the execution and satisfaction of any sentencing orders
+       binding em, or if deregistered for lawlessness.  A person who
+       leaves the game in disgrace shall be awarded the Patent Title
+       Fugitive by the Herald.  A Player may revoke the title Fugitive
+       from emself as long as e is no longer in Disgrace.  A non-player
+       may have this title revoked by Agoran Consent.
+
+       The rules may further specify actions prohibited to persons in
+       particular types of disgrace.
+
+       The Herald is encouraged to publish lists of those in disgrace
+       separate from patent titles of honor, to indicate the disgrace.
+
+When this Proposal takes effect, all persons who were fugitives when
+this proposal was adopted are hereby awarded the patent title
+Fugitive.
+
+[...]
+
+Repeal Rule 1505 (Standard Classes of Crimes and Infractions)
+Repeal Rule 2017 (Blots)
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+We have ample precedent that Patent Titles are borne until/unless
+explicitly revoked, even if they are no longer defined by a rule - or
+(as in the present case) were never defined by a rule, but rather were
+awarded by proposal.  Evantine held the Patent Title of Fugitive, and
+was a Fugitive, at the time in question.
+
+========================================================================

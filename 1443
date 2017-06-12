@@ -1,0 +1,49 @@
+==============================  CFJ 1443  ==============================
+
+    The rules regulate rubberstamping proposals.
+
+========================================================================
+
+Caller:                                 Maud
+Barred:                                 Cecilius
+
+Judge:                                  Peekee
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Maud:                         02 Mar 2003 04:26:27 GMT
+Assigned to Peekee:                     10 Mar 2003 06:41:48 GMT
+Judged TRUE by Peekee:                  10 Mar 2003 07:47:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Linked to CFJ 1442
+
+Rule 1986/5 (Role-Based Powers; Power=2) defines means to perform
+rubberstamping.  In particular, the rule states that a scribe may
+rubberstamp a proposal by paying a fee or with support of a certain
+computed number of scribes.  The computed number is a natural number
+and so is either 0 or a positive integer.  So according to rule
+1986, a scribe may rubberstamp a proposal by paying a fee,
+performing a dependent action, or with 0 support.
+
+Beyond defining the effects of rubberstamping, the rules do not
+otherwise mention rubberstamping.  Moreover, there is no natural
+way to rubberstamp a proposal.  Therefore, rubberstamping is
+regulated.
+
+========================================================================
+
+Judge Peekee's Arguments:
+
+Regardless of if the rules regulate the case with zero supporters, they do
+regulate for N supporters, where N is a positive integer. This partial
+regulation is enough for the statement to be true. As such I find the
+Statement TRUE.
+
+========================================================================

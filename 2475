@@ -1,0 +1,104 @@
+==============================  CFJ 2475  ==============================
+
+    Winning the game is a rule-defined action.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         27 Apr 2009 18:11:39 GMT
+Assigned to Yally:                      27 Apr 2009 23:45:23 GMT
+Yally recused:                          05 May 2009 02:59:28 GMT
+Assigned to Wooble:                     05 May 2009 03:13:12 GMT
+Judged TRUE by Wooble:                  07 May 2009 14:45:22 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Calling it on the statement "Winning the game by announcement is a
+rule-defined action" might be more interesting.
+
+Anyway, I submit rule 2223 as gratuitous arguments on that CFJ, because
+it certainly gives a situation in which the game can be won by
+announcement. I also submit the People's Bank of Agora as a gratuitous
+argument on that CFJ, even though it wasn't expecting it and it's rather
+out of place.
+
+Rule 2223/1 (Power=2)
+Win by Junta
+
+      Upon a win announcement that a rule states that one or more
+      persons CAN cause it to make arbitrary rule changes by
+      announcement, all those persons satisfy the Winning Condition of
+      Dictatorship.
+
+      Cleanup procedure:  Those persons SHALL as soon as possible
+      amend the rule so that it no longer states this, and SHOULD
+      amend the rules to prevent this condition from being achieved
+      again in essentially the same way.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+On Mon, Apr 27, 2009 at 12:15 PM, Alex Smith <ais523@bham.ac.uk> wrote:
+>> I call for judgement on the statement "Winning the game is a
+>> rule-defined action."
+>>
+> Calling it on the statement "Winning the game by announcement is a
+> rule-defined action" might be more interesting.
+
+That wouldn't make sense.  "By announcement" would be a possible
+mechanism for performing the action, not an attribute of the action
+itself.  Consider R478:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.
+
+> Anyway, I submit rule 2223 as gratuitous arguments on that CFJ, because
+> it certainly gives a situation in which the game can be won by
+> announcement.
+
+Gratuitous counter-arguments:  Rule 2223 defines an announcement that
+causes the game to be won, not a "win the game" action that is
+performed by announcement.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+The first paragraph of R2186 reads:
+      Winning Conditions and Losing Conditions are conditions defined
+      as such by the rules.  When one or more persons satisfy at least
+      one Winning Condition and do not satisfy any Losing Conditions,
+      all such persons win the game.  The game CANNOT be won in any
+      other way, rules to the contrary notwithstanding.
+
+This defines 'to win the game', so the question is whether this
+winning can be said to be an "action", as it's something that takes
+place Platonically rather than being something the player as an agent
+takes an active role in. Clearly it's a verb so as some level it's an
+action,  but is it an action as the term is used by the rules?
+
+R2152's usage may be instructive here:
+      1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
+         perform the described action are unsuccessful.
+
+R2186 uses "CANNOT"; we can infer that it must be describing an action
+to have meaning.  I judge TRUE.
+
+========================================================================

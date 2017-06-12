@@ -1,0 +1,50 @@
+==============================  CFJ 1259  ==============================
+
+    If this statement is true, Peekee is owed 100 Stems
+
+========================================================================
+
+Caller:                                 Peekee
+
+Judge:                                  Murphy
+Judgement:                              DISMISS
+
+========================================================================
+
+History:
+
+Called by Peekee:                       18 Jan 2001 22:06:33 GMT
+Assigned to Murphy:                     19 Jan 2001 01:28:03 GMT
+Dismissed by Murphy:                    28 Jan 2001 23:38:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Note: the statement is a material conditional.  For it to be false the
+antecdent "this statement is true" has to be true and the conclusion false.
+But clearly this is a contradiction, so the CFJ should be judged TRUE.
+
+If the above is objected becasue I am not owed 100 Stems consider the
+following.  Let theabove statement be S and Peekee is owed 100 Stems P.
+
+Clearly if S is true then P follows.  This depends only on the fact that S is
+true, so using Modus Ponendo Ponens we can deduce P only depending on the fact
+that S is true.  Then using conditional proof we get the statement  "If S is
+True, then P" which has no dependency (in other words is true).
+
+At this point it should be noted that the above statement says exactly what th
+origional does, thus we can deduce from it firstly that S is true and secondly
+that P also must be true.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I cannot find the Statement of CFJ 1259 to be TRUE, because that would
+imply the untrue statement "Peekee was owed 100 Stems when CFJ 1259 was
+called".  I cannot find the Statement of CFJ 1259 to be FALSE, because
+that would be self-contradictory.  Therefore, according to Rule 1563
+as well as clause ii) of Rule 1565, I dismiss CFJ 1259.
+
+========================================================================

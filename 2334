@@ -1,0 +1,63 @@
+==============================  CFJ 2334  ==============================
+
+    If a player gives consent for other players to act on eir behalf
+    without creating or modifying a contract for the purpose, such
+    consent actually does allow those players to act on eir behalf.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       08 Jan 2009 16:41:54 GMT
+Assigned to Murphy:                     15 Jan 2009 08:31:18 GMT
+Judged TRUE by Murphy:                  23 Jan 2009 23:24:03 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I don't think there's any precedent or rules basis for this, but I might
+be wrong.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+It should be considered that consenting to act-on-behalf-of amounts to a
+contract even without calling it a "contract", so it must be explicit not
+implicit [see CFJ 1921, assuming 'consent' and 'agree' are reasonable
+synonyms in this context].
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+CFJ 1719.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+That doesn't address whether Peekee's granting of those abilities amounted
+to a de-facto contract.  For example, it might be IMPOSSIBLE to make
+such an agreement without it being considered a contract of some kind
+(thus the CFJ statement is UNDETERMINED).
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I interpret precedent and game custom as implicitly allowing power of
+attorney based on the agreement of just one person (the grantor),
+whether the holder is a cron script (which cannot agree) or another
+person (who need not agree).  Accordingly, at least some cases (cron
+scripts) are neither pledges nor any other sort of contract.
+
+========================================================================

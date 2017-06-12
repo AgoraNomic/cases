@@ -1,0 +1,132 @@
+==============================  CFJ 2679  ==============================
+
+    ais523 owns a Dunce Cap card
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+Appeal:                                 2679a
+Decision:                               REMAND
+
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       09 Sep 2009 22:49:38 GMT
+Assigned to Pavitra:                    15 Sep 2009 07:33:36 GMT
+Transferred from Pavitra to scshunt:    16 Sep 2009 03:10:49 GMT
+Judged FALSE by scshunt:                16 Sep 2009 03:10:49 GMT
+Appealed by Murphy:                     16 Sep 2009 06:49:57 GMT
+Appealed by Tiger:                      16 Sep 2009 09:20:50 GMT
+Appealed by scshunt:                    16 Sep 2009 16:16:29 GMT
+Appeal 2679a:                           16 Sep 2009 16:16:29 GMT
+REMANDED on Appeal:                     26 Sep 2009 18:04:31 GMT
+Assigned to scshunt:                    26 Sep 2009 18:04:31 GMT
+Judged TRUE by scshunt:                 04 Oct 2009 00:46:51 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, 2009-09-09 at 17:41 -0500, pidgepot@gmail.com wrote:
+> {
+> ais523 is dealt the following card(s) from the deck of Justice:
+Absolv-o-Matic, Drop Your Weapon, Dunce Cap
+> }
+> Reason: Notary weekly salary
+
+I transfer the Dunce Cap to the Lost and Found Department. (This works
+because rule 2166:
+{{{
+      The Lost and Found department may own any asset, and have assets
+      transferred to and from it, regardless of the asset's backing
+      document or any Rule, Rules to the contrary notwithstanding.
+}}}
+claims explicit precedence over the equally-powered Dunce Cap (rule
+2262):
+{{{
+       * Dunce Cap        - (Effect) Holding this card is a Losing
+                            Condition.  The holder of this card CAN
+                            NOT voluntarily destroy it by
+                            announcement, and CAN NOT transfer it
+                            unless e has held it for at least one
+                            week.
+}}}
+)
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The caller argues that R2166 stipulates that the LFD can have assets
+transferred to and from it regardless of any rule, and this takes
+precedence over R2262, which stipulates that the holder CANNOT transfer
+it unless e has held it for at least one week.
+
+This is correct. Therefore, the question is whether the caller actually
+had an appropriate means.
+
+The caller purported to transfer eir Dunce Cap by announcement. The rule
+that would authorize em to do so is R2166 again, this time with the text
+"An asset generally CAN be transferred by its owner to another entity by
+announcement, subject to modification by its backing document." This
+text indicates that the backing document for Dunce Cap can modify this
+ability. R2262 is unambiguously the backing document for Dunce Cap, so
+the rule is appropriately modified by the backing document.
+
+It is clear that R2166 does not merely provide a general means of
+transfer that defers to the backing document because it is limited when
+the backing document is a rule of lower power or not a rule at all.
+Therefore, given the absence of evidence, the normaly method of transfer
+does not exist.
+
+The caller has also argued that since R2166 stipulates that the LFD can
+have assets "transferred to and from it, regardless of the asset's
+backing document or any Rule, Rules to the contrary notwithstanding.",
+and that this implies the existence of a means, and that this must make
+his action by announcement valid. My initial reaction to this was that
+it was not the case. Whether or not an action can be performed by
+announcement in the other specified methods seems uncertain. I think it
+is appropriate to say that whether naked CAN implies CAN by announcement
+depends on the context, both in the specific rule and the ruleset in
+general - for instance, R2164 only implies by announcement for judical
+transfer (by requiring the judgment be in the same announcement as the
+transfer), where R591 directly specifies no mechanism, but a requirement
+that it be in the initiating announcement. By contrast, R2160 clearly
+does not imply the ability to perform an action by announcement simply
+by virtue of it being deputised for. In particular, by announcement
+seems to be implied when there exists no other method, whereas it tends
+not to be when another method exists; it merely authorizes that method.
+
+I do not interpret R2166 as necessarily implying CAN by announcement,
+given that its purpose is primarily to override rules that would prevent
+transfer (specifically, to ensure a fixed asset can go to the LFD when
+it is owned by an entity outside its class of holders). As the final
+nail in the coffin, there does exist another method by which ais523 can
+transfer Dunce Cap to the LFD - by deregistering.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I intend, with 2 support, to appeal.  The arguments indicate that
+the transfer failed, but the statement is "ais523 owns a Dunce Cap
+card" which should have been judged TRUE.  I recommend REASSIGN,
+as coppro presumably just mis-remembered the statement as "ais523
+transferred a Dunce Cap card" or something similar.
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+I support and do so, as I misread the statement. I recommend REMAND.
+
+========================================================================

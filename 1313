@@ -1,0 +1,118 @@
+==============================  CFJ 1313  ==============================
+
+    If a Zombie Master emself becomes a Zombie, e loses Power of
+    Attorney over eir own Zombie.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Wes
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           14 Aug 2001 19:33:23 GMT
+Assigned to Murphy:                     15 Aug 2001 03:50:23 GMT
+Judged TRUE by Murphy:                  18 Aug 2001 05:34:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First of all, note that the above general statement (if found true,
+suitable for Rules annotation) is addressed to a specific case by the
+following implied Statement, which would be TRUE if the above is TRUE:
+"Wes has lost Power of Attorney over the Zombie Anthony".  Wes's case is
+used as an example as it aids the argument.  (But if for some reason Wes
+is not a Zombie at the time of this CFJ, the general case should still
+hold).
+
+Wes is a Zombie Master by the definition of Rule 1884, because e owns the
+Property that is the Zombie Anthony.  However, being a Zombie Master
+(owning a Zombie) doesn't necessarily mean holding PoA over that Zombie,
+as reflected by the second clause of Rule 1884: "Whenever the Master of a
+Zombie is a Player, e has Power of Attorney for that Zombie, unless the
+Rules withdraw it from em."
+
+Wes emself became a Zombie on or near August 3 2001, triggering, among
+other things, Rule 1755.  Rule 1755 states in part: "When a player becomes
+deregistered or a Zombie, e ceases to be a candidate, officer, judge, or
+in general to occupy any role or position to which a Rule assigns any
+duties or powers. No one who is not registered, or who is a Zombie, may
+occupy such a role or position.  This rule takes precedence over rules
+which would prevent em from ceasing to occupy such a role or position."
+
+Note that even without this final clause, Rule 1755 has numerical
+precedence over 1884.
+
+Power of Attorney is clearly one position of power referred to by the
+words "a position to which a Rule assigns both duties and powers":  If the
+use of the word 'Power' in the phrase 'Power of Attorney' isn't sufficient
+to permit this interpretation, the judge is respectfully referred to Rules
+1842 and 1989 that together give assigns PoA holders the specific Agoran
+duties and powers of a Prime Executor.
+
+I argue that it is unreasonable to interpret this differently; otherwise,
+a deregistered Player could keep PoA over a Zombie, and thus be an Agoran
+Entity's Rules-defined executor without emself being bound by the Rules
+of Agora in any way.
+
+Note that this Statement, if judged TRUE, merely implies (for this
+specific example) that Wes's PoA over Anthony ceased when Wes became
+a Zombie.  This CFJ Statement takes no position on:
+ (1) whether paying Upkeep is a duty, or whether Wes or eir executor
+     is required to transfer possession of the Property Anthony to any
+     other entity;
+ (2) whether Wes would regain PoA if e ceased to be a Zombie while
+     continuing to hold Anthony as Property;
+ (3) whether the most general case is true, that no zombie may hold any
+     PoA over any entity.  (This last is strongly implied, but there may
+     be other aspects of non-Zombie PoAs of which I am unaware).
+
+These are all questions worthy of investigation, but for another day.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1884/4 (Power=1)
+Zombie Masters
+
+      Zombies are Property.  The owner of a Zombie is called eir
+      Master.  Whenever a Player becomes a Zombie, eir Master is the
+      Bank.
+
+      Whenever the Master of a Zombie is a Player, e has Power of
+      Attorney for that Zombie, unless the Rules withdraw it from
+      em.
+
+      The Registrar is the Recordkeepor of each Zombie.
+
+
+Rule 1755/5 (Power=1)
+No Non-Player Responsibilities
+
+      When a player becomes deregistered or a Zombie, e ceases to be
+      a candidate, officer, judge, or in general to occupy any role or
+      position to which a Rule assigns any duties or powers.  No one
+      who is not registered, or who is a Zombie, may occupy such a
+      role or position.  This rule takes precedence over rules which
+      would prevent em from ceasing to occupy such a role or position.
+
+      The foregoing paragraph shall not apply to the Bearing of Patent
+      Titles, or any position which a Rule specifically says may be
+      held by a non-Player or Zombie, nor shall it act to prevent a
+      non-Player or Zombie from registering, calling CFJs, or doing
+      things that non-Players and Zombies are generally able to do.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The Caller's arguments appear to be correct in all aspects.
+
+========================================================================

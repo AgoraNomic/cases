@@ -1,0 +1,115 @@
+==============================  CFJ 3384  ==============================
+
+    The above-quoted resolution failed because the voting limits of
+    nonplayers and quorum were both stated incorrectly.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       03 Aug 2013 02:04:35 GMT
+Assigned to omd:                        05 Aug 2013 13:27:08 GMT
+Judged FALSE by omd:                    07 Aug 2013 19:24:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 683 sets the voting limit of an eligible voter on a
+decision to 2, except where rules say otherwise. Rule 2398 attempts to
+set the voting limit of eligible voters to their VVLOPs, but nonplayers
+do not have a VVLOP, and as such it fails to effectively set the voting
+limit, and rule 683 takes precedence. Rule 1950 makes it clear that the
+set of eligible voters does not change after the decision is created;
+and thus, even if there are nonplayers listed in the resolution above,
+they had a voting limit of 2, not 0.
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, 2013-07-29 at 16:26 -0400, Fool wrote:
+> I assume Assessor.
+>
+> Voting results for Proposals 7530-7547:
+>
+> [This notice resolves the Agoran decisions of whether to adopt the
+>   following proposals.  For each decision, the options available to
+>   Agora are ADOPTED (*), REJECTED (x), and FAILED QUORUM (!).]
+>
+> x7530 3   20 O ais523       More Interesting Timing Scams
+> x7531 3    0 O omd          Painfully explicit timing
+> x7532 3    0 O omd          Alternative: just ban last-minute actions
+>   ......                     in the first place
+> x7533 3    0 O omd          Referendum on date rewriting
+> x7534 3    0 O omd          Per woggle and scshunt
+> *7535 3    0 O omd          Down with bromides
+> *7536 2    0 O G., etc.     No work means no work
+> *7537 3    0 O Fool         SURRENDER DOROTHY
+> x7538 1    0 O Machiavelli  Fencing off
+> x7539 1    0 O Machiavelli  Tickets
+> *7540 2    0 O omd          No scam TIME OUTs
+> *7541 2    0 O Fool         What's a Voter?
+> *7542 2   25 O omd          Infraction cases
+> x7543 2   50 O omd          Fixed voting auctions
+> x7544 1    0 O Machiavelli  Public Displays
+> x7545 1    0 O Ienpw III    ? & Co.
+> *7546 2   40 O Walker       Lovely Salaries
+> x7547 2   30 O Walker       Stimulus
+>
+>
+>                7530  7531  7532  7533  7534  7535  7536  7537  7538  7539
+>
+> Fool          4A    4P    4P    4P    4P    4F    4F    4F    4A    4P
+> FSX           0P    0P    0F    0A    0A    0A    0A    0A    0P    0F
+> G.            0A    0A    0A    0A    0F    0A    0F    0A    0A    0P
+> Ienpw_III     0P    0P    0F    0A    0A    0A    0A    0A    0P    0F
+> Machiavelli   0P    0P    0P    0P    0A    0F    0F    0A    0F    0F
+> omd           0A    0F    0F    0F    0P    0F    0F    0A    0A    0A
+> Walker        0A    0A    0A    0A    0F    0A    0F    0A    0A    0P
+> woggle        0A    0F    0F    0P    0F    0A    0P    0A    0A    0P
+>
+> AI            3     3     3     3     3     3     2     3     1     1
+> VI            0     *N*   *N*   *N*   *N*   *U*   *U*   *U*   0     *N*
+> F/A           0/4   0/0   0/0   0/0   0/0   4/0   4/0   4/0   0/4   0/0
+>
+> Quorum        1     1     1     1     1     1     1     1     1     1
+> Voters        1     1     1     1     1     1     1     1     1     1
+>
+>
+>                7540  7541  7542  7543  7544  7545  7546  7547
+>
+> Fool          4F    4F    4F    4A    4P    4A    4F    4A
+> FSX           0F    0F    0F    0P    0F    0F    0F    0A
+> G.            0F    0F    0F    0F    0F    0A    0F    0F
+> Ienpw_III     0F    0F    0F    0P    0F    0F    0F    0A
+> Machiavelli   0F    0F    0F    0F    0F    0A    0F    0F
+> omd           0F    0P    0F    0F    0A    0A    0F    0P
+> Walker        0F    0F    0F    0F    0F    0A    0F    0F
+> woggle        0F    0F    0F    0P    0P    0A    0F    0A
+>
+> AI            2     2     2     2     1     1     2     2
+> VI            *U*   *U*   *U*   0     *N*   0     *U*   0
+> F/A           4/0   4/0   4/0   0/4   0/0   0/4   4/0   0/4
+>
+> Quorum        1     1     1     1     1     1     1     1
+> Voters        1     1     1     1     1     1     1     1
+>
+> (Above I include votes by non-players for reference only.)
+
+========================================================================
+
+Judge omd's Arguments:
+
+FALSE.  It failed, but not because of any incorrect statements about
+voting limits of nonplayers, because nobody was successfully
+deregistered.
+
+========================================================================

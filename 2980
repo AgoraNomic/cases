@@ -1,0 +1,142 @@
+==============================  CFJ 2980  ==============================
+
+    ais523 is a player.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+Appeal:                                 2980a
+Decision:                               REMAND
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       20 Mar 2011 20:28:32 GMT
+Assigned to omd:                        21 Mar 2011 01:59:19 GMT
+Judged FALSE by omd:                    21 Mar 2011 18:57:19 GMT
+Reconsideration requested by Wooble:    21 Mar 2011 19:04:55 GMT
+Reconsideration requested by omd:       21 Mar 2011 19:19:14 GMT
+Reconsideration requested by G.:        21 Mar 2011 20:34:34 GMT
+Assigned to omd:                        21 Mar 2011 20:34:34 GMT
+Judged TRUE by omd:                     23 Mar 2011 16:37:33 GMT
+Appealed by ais523:                     23 Mar 2011 16:57:28 GMT
+Appealed by Machiavelli:                23 Mar 2011 23:40:46 GMT
+Appealed by Murphy:                     30 Mar 2011 04:20:47 GMT
+Appeal 2980a:                           30 Mar 2011 04:20:47 GMT
+REMANDED on Appeal:                     01 Apr 2011 05:23:05 GMT
+Assigned to omd:                        01 Apr 2011 05:23:05 GMT
+Judged TRUE by omd:                     04 Apr 2011 01:34:41 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The message in question contained the following statements, labeled
+here for ease of reference:
+
+  a) I call for judgement on the statement "I register".
+  b) I do so.
+
+It seems clear that b) refers to "I register", not the entirety of
+a), and furthermore indicates clear intent to register (at some point
+in that message, even with a) alone being ambiguous as Wooble found
+in CFJ 2979).
+
+========================================================================
+
+Judge omd's Arguments:
+
+CFJ 2979 actually ruled on the entire message, not just the first statement:
+
+> The message in which this CFJ was initiated does not
+> indicate reasonably unambiguously that ais523 intended to become a
+> player at that time.
+
+I disagree, but I'll comply with the precedent.  FALSE.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5a4>:
+
+> CFJ 2979 actually ruled on the entire message, not just the first statement:
+>
+>> The message in which this CFJ was initiated does not
+>> indicate reasonably unambiguously that ais523 intended to become a
+>> player at that time.
+>
+> I disagree, but I'll comply with the precedent.  FALSE.
+>
+
+I disagree too; I completely missed the last line of the original
+message when rendering my judgment.
+
+========================================================================
+
+Gratuitous Arguments by Roujo:
+
+I support and do so, although I'm not sure how. =P
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+I intend to appeal this judgement with 2 support, on the basis that it doesn't
+have any arguments at all. In particular, was the referent of "I do so." too
+ambiguous to cause a registration? (Note that the message was in a thread
+about a /de/registration; also, if the CFJ calling was part of a quote, rather
+than in the message body itself, precedent would be that I would call a
+duplicate CFJ, rather than perform an action stated in the CFJ statement
+(which is clearly meant to be a statement of fact, rather than an action,
+precisely because it's a CFJ statement); the only actual actions there are the
+call of the CFJ, and a quote of a deregistration. "ais523 wrote: > I
+deregister. // I do so." would clearly be a deregistration. So why is the
+message in question so obviously a registration, that it can be judged TRUE
+even without arguments?
+
+========================================================================
+
+Judge omd's Arguments:
+
+Here is the entire message:
+
+> On Fri, 2011-02-04 at 14:37 +0000, Alex Smith wrote:
+>> I deregister.
+>
+> Murphy wrote:
+>> *6964 =C2=A01.0 =C2=A0Wooble =C2=A0 =C2=A0 =C2=A0I miss ais523
+>
+> I call for judgement on the statement "I register".
+>
+> I do so.
+>
+> --
+> ais523
+
+As far as I can see, only a moron in a hurry would fail to interpret
+"I do so." as referring to "I register."  If registration were
+performed by announcement, it would certainly be successful.
+
+However, of course, the actual registration criterion is that the
+message "indicates" that ais523 "intends to become a player at that
+time".  The message *unambiguously* indicates that ais523 intended to
+*ambiguously* register; e clearly intended that there would be some
+probability of em thus becoming a player, and some probability of em
+not.  Does that count as intending to become a player?
+
+By the precedent of CFJ 2972, it does.  TRUE.
+
+========================================================================

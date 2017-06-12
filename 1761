@@ -1,0 +1,63 @@
+==============================  CFJ 1761  ==============================
+
+    The AFO published the message with Message-id:
+    <46FFFFB9.4070306@socal.rr.com>
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       30 Sep 2007 23:09:08 GMT
+Assigned to root:                       01 Oct 2007 09:29:13 GMT
+root recused:                           04 Oct 2007 15:32:05 GMT
+Assigned to Zefram:                     05 Oct 2007 14:38:39 GMT
+Judged FALSE by Zefram:                 08 Oct 2007 16:24:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I suggest legislation clarifying how the general situation (person X
+causes non-first-class person Y != X to perform action Z by a method
+defined in Y's organizing document) works when
+
+  (a) action Z is publishing something
+  (b) X claims to simultaneously perform the action themselves
+  (c) both (a) and (b)
+  (d) causing Y to act depends on a conditional that evaluates to false
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+The AFO acts by means of its members making appropriate announcements.
+The only announcement so made regarding the AFO and this message was
+Murphy's opening statement within the message:
+
+|I cause the AFO to publish the following.  I also publish it
+|acting as myself.
+
+By means of this statement, the AFO published the information that
+followed this paragraph, which was an announcement of the voting results
+for proposals 5222-5223.  However, the voting results obviously do not
+constitute the entirety of message <46FFFFB9.4070306@socal.rr.com>.
+That message, in addition to the voting results, has the opening
+paragraph that sets context for the voting results, and headers that
+indicate authorship and other matters.
+
+I find that publishing the set of voting results is different from
+publishing message <46FFFFB9.4070306@socal.rr.com>.  The AFO did not do
+the latter, and so I judge CFJ 1761 FALSE.
+
+========================================================================

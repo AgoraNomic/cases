@@ -1,0 +1,234 @@
+======================================================================
+                               CFJ 911
+
+"A Currency directive of the form
+  'One Voting Token shall be placed in each Treasury for each 200
+   marks in that Treasury.'
+ shall, for a negative value of Marks (less than -200) in a treasury,
+ place a negative amount of Voting Tokens in that treasury (assuming
+ that Voting Tokens exist and are a currency)."
+
+======================================================================
+
+Judge:        KoJen
+Justices:     Michael (C), Andre (J), Steve (S)
+
+Judgement:    FALSE
+Appeal jdgmt: FALSE
+
+Eligible:     (Andre), Antimatter, Blob, Chuck, Crito, elJefe, favor,
+              General Chaos, Harlequin, KoJen, Macross, Michael,
+              Morendil, Murphy, Oerjan, Steve, (Vanyel), Zefram
+
+Not eligible:
+Caller:       Swann
+Barred:       -
+Disqualified: Vanyel
+On hold:      Andre
+
+======================================================================
+
+History:
+  Called by Swann, Mon, 17 Mar 1997 18:11:54 -0500 (EST)
+  Assigned to Vanyel, Thu, 20 Mar 1997 09:43:32 +0000
+  Vanyel defaults
+  Re-assigned to KoJen, Fri, 4 Apr 1997 09:27:59 +0100
+  Judged FALSE, Wed,  9 Apr 97 16:13:37 -0400
+  Published, Mon, 14 Apr 1997 09:30:39 +0100
+  Appealed by Oerjan, Mon, 14 Apr 1997 14:12:38 +0200 (MET DST)
+  Appealed by General Chaos, Mon, 14 Apr 1997 08:08:16 -0500
+  Appealed by Morendil, Mon, 14 Apr 1997 16:31:26 +0200
+  Appeals process begun, Thu, 17 Apr 1997 09:15:04 +0100
+  favor (J) appoints General Chaos, Fri, 18 Apr 97 10:02:03 EDT -0400
+  Steve SUSTAINS judgement, Wed, 23 Apr 1997 16:09:34 +1000 (EST)
+  Michael SUSTAINS judgement, Wed, 23 Apr 1997 12:00:00 +0100
+  General Chaos defaults
+  Andre appointed as Justice, Wed, 30 Apr 1997 09:28:10 +0100
+  Andre calls for REJUDGING, Fri, 2 May 1997 20:41:22 +0200 (MET DST)
+  Final verdict to SUSTAIN judgement of FALSE
+  Published, Tue, 6 May 1997 11:44:13 +0100
+
+======================================================================
+
+CotC's judgement: SUSTAIN
+
+The Judgement of the CFJ is incorrect because it neglects to address
+the fact that a Currency Directive does not (more correctly, did not;
+Currency Directives are now a thing of the past thanks to the "Power
+to the people" reforms) induce a change to the state of Treasuries
+directly.  Not all changes in Currency holdings need to be as a result
+of Currency creation or transfer.
+
+The relevant rule is that which specified the action of Currency
+Directives.  This states that a Currency Directive has "the effect of
+specifying the Currency holdings contained in an Entity or Entities'
+Treasury or Treasuries."
+
+There is no other restriction on the form of what a Currency
+Directive's specification of currency holdings might be.  Note that a
+Currency Directive might have even specified that a Treasury hold some
+irrational number of a Currency.  (The MUQ rule for Currencies would
+then round the holding to be a (possibly negative) multiple of the
+Currency's MUQ.)
+
+So, given our normal understanding of English, how do we interpret the
+specification "One Voting Token shall be placed in each Treasury for
+each 200 marks in that Treasury", given that the Rules do not
+constrain it in any way?
+
+I argue by analogy with the real world.  If one received a message
+from one's bank saying that one was to receive 1 FroBozz for every
+$200 in the account, then those people with negative balances would
+not expect to receive negative FroBozz.  This may seem loose and
+rather woolly, but we have no precedents in the game for this sort of
+wording.  Currency Directives allow a great deal of latitude to their
+proposers; indeed they seem quite a prescient foreshadowing of the
+ideal embodied in the 'Power to the people' reforms: proposals should
+take effect as they specify.
+
+In my opinion, if one wanted a Currency Directive to bring about
+postiive and negative totals of VTs, the correct wording would be:
+
+"Each Treasury's Marks are converted to VTs at a rate of 200:1."
+
+The MUQ rule would then ensure that VTs were held in multiples of
+their MUQ.
+
+----------------------------------------------------------------------
+
+Speaker's judgement: SUSTAIN
+
+In the matter of the Appeal of CFJ 911, my ruling is to SUSTAIN
+Kojen's Judgement.
+
+However, I do not support KoJen's reasoning for his Judgement.  I
+agree with Morendil's objection that Currency Directives are not bound
+by the Rules for transfers.  Hence Kojen's argument that the
+specification of a negative balance by a Currency Directive would have
+been impossible because it would have required a transfer smaller than
+the MUQ (because negative) is specious.  It is my view that a Currency
+Directive could in theory have specified a negative balance.  The
+question is whether the one in this CFJ would have succeeded in doing
+so.  My view is that it would not, for the reasons set out below.
+
+As a number of Players have remarked, we are in need of a clearer
+metaphysics of Currencies than we currently possess. Two views seem to
+me to be on offer, one which I call the Poker Chip view, and another
+which I call the Numbers on Paper view, which General Chaos calls the
+Bookkeeping view. These views are closely related, but they suggest
+slightly different ways of thinking about the questions raised by this
+CFJ.
+
+The Numbers on Paper view emphasizes the numerical nature of Mark
+balances. This makes it easier to see a balance of -200 Marks as a
+multiple of 200 Marks, because of our familiarity with arithmetic for
+negative numbers. This is a more abstract metaphor for thinking about
+the metaphysics of Marks, and it tends to support a Judgement of TRUE.
+
+However, my own preference (and it seems in this case that I have
+little else to guide me), is for the Poker Chip view, which
+understands a Mark, or any unit of Currency, on the metaphor of a
+poker chip.  This seem to me to be appropriate, especially considering
+Agora's origins as a face-to-face game, to be played around a table,
+just like Monopoly. In all such games where money is used, physical
+tokens are used to represent it. Now consider the situation of someone
+playing such a game who incurs a penalty greater than the money e has
+to pay it.  Some games have a 'can't go below zero' rule, some allow
+debts to be incurred. Michael's Judgement of CFJ 912 establishes that
+Agora is a game of latter kind, at least at the moment. So what
+happens then?  Probably, the player is issued with an IOU. This might
+take the form of a piece of paper with a number written on it, but
+that need not be the case. The IOU might just as well take the form of
+physical tokens similar to those being used to represent the money the
+game, only with a different colour, or shape. The crucial point is the
+IUO is a token of a different kind to that being used to represent
+money holdings of the other players.  On the Poker Chip view, debts
+are of a different nature to currency holdings, and should be treated
+as conceptually separate.
+
+Now we look at the Currency Directive in the CFJ. It states that "One
+Voting Token shall be placed in each Treasury for each 200 marks in
+that Treasury." On the Poker Chip view, Mark holdings will be viewed
+as being represented by a certain kind of physical token, while Mark
+debts will be viewed as being represented by another, different kind
+of physical token. The Directive, however, applies only to physical
+tokens of the first kind. It says nothing about tokens of the second
+kind. Indeed, on the Poker Chip view, negative Voting Tokens are
+viewed as being represented by physical tokens of a different kind to
+those used to represent Voting Tokens. In order to replace a Mark debt
+by a Voting Token debt, we should want to specify an additional
+process, that of replacing Mark-debt-tokens with Voting
+Token-debt-tokens, and the Directive does not say that this should
+take place.
+
+Therefore, it is my Judgement that the Currency Directive in the CFJ
+would not have the effect of placing negative Voting Tokens in
+Treasuries which previously had negative Marks. The Statement is
+therefore FALSE as Judge Kojen ruled, although for different reasons
+than the ones he gave.
+
+======================================================================
+
+Justiciar's decision (by substitute Andre):
+
+As the Appellants, as well as my fellow Justices, whose Judgement I
+(as well as the other Agorans) have already seen, have already said,
+the argument of the Judge was wrong, in that the given Directive could
+work directly, and did not need to include a Transfer.
+
+Basically I agree with the Judgement of CotC Michael. The placement in
+a Treasury of something for each 200 marks in that Treasury
+specifically only applies to positive amounts of marks. This might be
+argued from the common-sense meaning of 'for each' (which seems to be
+the route taken by Michael), but I think it is even more convincing to
+use the meaning of 'place': It seems very contrary to the meaning of
+'place' to place a negative number of things.
+
+Even though my opinion here come very close to that of the CotC (not
+so much that of the Speaker, to me the difference between the two
+situation is not a qualitative difference in the possession before the
+placement takes place, but one in the change of currency possessions
+itself), I will make a different Judgement. In my opinion, this kind
+of case, in which a point is of central importance that is mentioned
+by neither the Judge nor the Appelants the right route is to bring the
+subject back in the normal judicial process to be looked at again.
+Therefore I will judge REJUDGE, although I know that this Judgement
+will not be of consequence, as the majority of the Court of Appeal has
+already decided otherwise.
+
+Thus spoken on Friday the second of May,
+
+======================================================================
+
+Original Judgement: FALSE
+
+Reasons and arguments:
+
+The hypothetical directive says "One Voting Token shall be placed in
+each Treasury for each 200 marks in that Treasury."
+
+So, assuming that a treasury has -200 Marks in it, what does this seem
+to say?
+
+It seems to say that -1 VT is "placed" in that treasury. This at first
+appears to be OK, because R1600 stipulates the use of real numbers and
+"standard mathematics", where negative numbers are as valid as
+positive numbers.
+
+But where does this -1 VT (which is a Currency) come from? They have
+to come from somewhere, or they are created. Since the hypothetical
+directive does not specify where they come from, we can assume either
+that they came from the Mintor's Treasury, or they were created. But
+if created, they must first go to the Mintor's Treasury (R1471). So
+either way, the -1 VT was in the Mintor's Treasury before applying the
+Directive, and a transfer is required.
+
+However, R1477 says that the MUQ for an Extra Vote is 1. R1577 says
+that amounts less than the MUQ cannot be transferred. -1 is less than
+1. Therefore this transfer is impossible.
+
+======================================================================
+
+(Caller's) Arguments: (none)
+
+======================================================================

@@ -1,0 +1,71 @@
+==============================  CFJ 1523  ==============================
+
+    If It's A Surprise is played when the hand size is above the
+    maximum, the play wholly fails.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Kolja
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           26 Oct 2004 16:34:38 GMT
+Assigned to root:                       06 Nov 2004 18:49:09 GMT
+Judged TRUE by root:                    10 Nov 2004 02:30:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If #1 is true, it seems at first glance that a play of
+It's a surprise would fail if the player's hand size is
+above maximum, as a failed exploit results in the card not
+being played (CFJ 1510).
+
+However, he phrasing of the It's a Surprise Exploit:
+       Exploit: You may Draw two Cards without paying a Fee.
+does not automatically constitute drawing cards.
+
+This card simply confers the right ("you may draw") to draw two
+cards without fee, but the draws can occur later, for example
+when hand size is below maximum again.
+
+========================================================================
+
+Judge root's Arguments:
+
+To find the timing requirements for Card Plays, let us fall back on
+R2069 (Card Definitions).  R2069(II)(d) reads:
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule says otherwise, a Card is
+          automatically transferred to The Deck immediately after
+          being Played.
+
+>From this definition, it seems clear to me that the Exploit described by
+the card in this case is the act itself of drawing two cards without
+payment of a fee, and not some abstract action of "activating" the card.
+Also from this definition we see that Playing the Card involves actually
+performing the described action, i.e. drawing two cards without payment
+of the usual fee.  Therefore, until the two cards have been drawn, the
+It's a Surprise card has not been played.
+
+As a result, the antecedent of the implication in the statement is always
+false; It's a Surprise may not be played when the owner's hand size is
+above the maximum.  The truth table for implication therefore tells us
+that in all situations the statement is TRUE (and it would also be TRUE
+if it instead read "If It's A Surprise is played when the hand size is
+above the maximum, the play succeeds.")
+
+========================================================================

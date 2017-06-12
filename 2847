@@ -1,0 +1,72 @@
+==============================  CFJ 2847  ==============================
+
+    According to the current ruleset, "Robot" is a common-language
+    descriptor, not a name.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 scshunt
+
+Judge:                                  Wooble
+Judgement:                              
+
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           27 Aug 2010 14:33:57 GMT
+Assigned to Wooble:                     28 Aug 2010 00:07:30 GMT
+Assigned to Yally:                      10 Sep 2010 08:38:44 GMT
+Wooble recused:                         10 Sep 2010 08:38:44 GMT
+Yally recused:                          11 Sep 2010 15:14:33 GMT
+Assigned to Murphy:                     13 Sep 2010 21:27:30 GMT
+Judged TRUE by Murphy:                  13 Sep 2010 22:02:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The alternative to "The Robot" being a name is that it is simply a descriptor
+which, lacking a Rules definition, defaults to a common language definition
+of Robot.  Compare 'Politician' in CFJ 1500, which at the time was also a
+capitalized term with no rules definition.  Since then, the role of common
+definitions in R754 has been strengthened, arguably strengthening the CFJ
+1500 precedent.
+
+The counterargument, that the term "The" implies that there is one robot,
+does not prevent interpretations using common definitions for the term
+itself.
+
+Note that the strengthening of common definitions in R754 was precisely and
+directly meant to prevent low-powered rules from redefining terms in
+common use (for example, redefining "the" or other common language terms
+to refer to a person or alternate meaning), so the rule should directly
+apply to this particular situation, or at least logic for not applying R754
+and CFJ 1500 needs to be strongly and convincingly argued.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+coppro did change eir nickname to "The Robot" (CFJ 2851), and a
+player's nickname is eir name (CFJ 2840).  In particular, I
+interpret Rule 1586 as referring to entities whose existence is
+defined by the Rules; coppro is not such an entity (the Rules
+merely define eir status as a player), so it does not prevent
+em having the same name as any other entity.
+
+I accept the caller's arguments that "Robot" is a common-language
+descriptor.  "The Robot" is a name (because at least some entities
+have that name without being declared ineffective by the Rules),
+but "Robot" is not.
+
+========================================================================

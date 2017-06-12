@@ -1,0 +1,87 @@
+==============================  CFJ 2411  ==============================
+
+    If a rule requires a player to perform an action without making it
+    possible for em to do so, and there is a rule forbidding em from
+    doing so, e can take no action that is not in violation of a rule.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      13 Mar 2009 05:03:12 GMT
+Assigned to G.:                         13 Mar 2009 17:06:52 GMT
+Judged TRUE by G.:                      13 Mar 2009 17:18:41 GMT
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+Kerim Aydin wrote:
+> On Thu, 12 Mar 2009, Sean Hunt wrote:
+>> Since it seems
+>> unreasonable to add an obligation retroactively due to changing
+>> circumstances, it seems equally unreasonable to remove one.
+>>
+>> I judge case 2403 to be TRUE.
+>
+> I'm not sure about this one at all.  For example, let's say I'm required
+> to award a player something that only applies to players, but e deregisters
+> first (before the time limit even).  Does that mean I'm still obligated to
+> do so?
+>
+> -G.
+
+I personally think no. The difference between the two is that in the
+2403, if the obligation exists, then it is possible to fulfill by virtue
+of "CAN and SHALL", regardless of external circumstances (specifically,
+whether or not Wooble is presently a contestmaster), whereas in your
+example the action is illegal regardless of the obligation's existence.
+
+However, it is important to note that in the case of an obligation due
+to contract, the impossibility of performance does not remove the
+obligation. This may very well be the case. However, it may also be the
+case that the precedence of rules cause the obligation not to apply.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+TRUE.  This is known to be true and happens on occasion.  It's the
+reason why, in criminal cases (R1504/35), the accused is only considered
+GUILTY if among other things:
+
+       (e) the Accused could have reasonably avoided committing the
+           breach without committing a different breach of equal or
+           greater severity.
+
+(this used to be known as EXCUSED; i.e. you're EXCUSED from punishment
+if the rules said you were dammed if you did and dammed if you didn't).
+
+So in such a case, a player would satisfy R1504(a) if e committed
+(or failed to commit) an act and thus breached a rule, but be excused
+from GUILTY by R1504(e).
+
+However, this isn't true for breaking contracts (Equity Cases); if
+you put yourself in the position where one contract forbids you from
+doing something that another contract (or even the rules) require you
+to do, that's your own fault and you may be held liable; from R1742/17:
+
+      Parties to a contract SHALL act in accordance with that
+      contract.  This obligation is not impaired by contradiction
+      between the contract and any other contract, or between the
+      contract and the rules.
+
+(Note that since this is still a clause in a rule, you might still
+avoid criminal prosecution due to being EXCUSED if you have conflicting
+contracts, but you wouldn't avoid an unfavorable equity settlement
+which could spawn a criminal noncompliance of its own.  Not that
+this has been tested per se...)
+
+========================================================================

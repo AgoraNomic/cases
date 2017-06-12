@@ -1,0 +1,38 @@
+==============================  CFJ 2056  ==============================
+
+    A message containing one action sent to multiple fora is still only
+    one action.
+
+========================================================================
+
+Caller:                                 Taral
+Barred:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Taral:                        01 Jul 2008 02:36:02 GMT
+Assigned to Wooble:                     01 Jul 2008 21:52:03 GMT
+Judged TRUE by Wooble:                  09 Jul 2008 18:31:06 GMT
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge TRUE.  If the action is contained in a single message, it's a
+single action, whether it's sent to just one public forum, CC'ed to
+all of the public fora, or sent to a public forum and CC'ed to each
+player as well.  (In fact, it seems to be strong game custom that if
+*multiple* messages are sent via different fora that could reasonably
+interpreted to collectively represent just one attempt to perform an
+action that we should interpret them as just one action; without this
+custom the backup lists would be rather untenable in some situations.
+In light of this custom, I think interpreting a single message sent
+via multiple fora as one attempt to perform the actions contained
+therein is uncontroversial.)
+
+========================================================================

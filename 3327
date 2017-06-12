@@ -1,0 +1,115 @@
+==============================  CFJ 3327  ==============================
+
+    It was POSSIBLE for me to cash 'ZipZop Series G-002' when I
+    attempted to do so.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Ienpw III
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          21 May 2013 01:13:52 GMT
+Assigned to Ienpw III:                  27 May 2013 22:33:11 GMT
+Ienpw III recused:                      09 Jun 2013 18:20:49 GMT
+Assigned to woggle:                     09 Jun 2013 18:21:30 GMT
+Judged TRUE by woggle:                  15 Jun 2013 23:02:21 GMT
+Reconsideration requested by Murphy:    19 Jun 2013 17:05:18 GMT
+Reconsideration requested by Roujo:     19 Jun 2013 17:07:33 GMT
+Reconsideration requested by omd:       19 Jun 2013 19:03:58 GMT
+Assigned to woggle:                     19 Jun 2013 19:03:58 GMT
+Judged TRUE by woggle:                  23 Jun 2013 18:20:29 GMT
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+I intend (with 2 support) to request reconsideration, suggesting
+REMAND so we can get some arguments and/or evidence.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+I support.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+There is nothing out of the ordinary about this promise, but consider
+how the logic actually works.  The rules state that the transfer from
+the Tree succeeded if the cashing succeeded and that the cashing
+succeeded if the transfer succeeded (because otherwise it wouldn't be
+in my possession): c -> t ∧ t -> c.  Both "c = t = T" and "c = t = F"
+are consistent, and there is no actual guidance on which way the
+computation should be biased, so a priori the rules do not define c or
+t as either true or false.  That is, except for game custom and
+perhaps common sense as guidance: is that enough?
+
+Does the clause about indeterminacy caused by cashing come into play?
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+      If cashing a promise would lead, through its own actions or
+      actions directly caused by its cashing, to a value being
+      indeterminate an instant after the promise is cashed, then
+      (other provisions of this or other rules notwithstanding) it
+      CANNOT be cashed.
+
+      If a promise is possessed by the Tree, any player except the
+      promise's author CAN transfer it to emself by announcement, if e
+      cashes the promise in the same message in which e transfers it
+      to emself.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I rejudge CFJ 3327 TRUE.
+
+The relative ordering of actions in a message in Agora exists from game
+custom, where we generally evaluate the clauses/sentences/etc. of a message in
+the order they are written. This has been preferred to the strategy of
+treating all parts of a message as simultaneous, which can easily lead to
+indeterminate gamestate. The cashing promises rule (at the time this CFJ was
+called), however, was clearly written with the strategy of treating a message
+as a simultaneous multi-action. We can see that it prefers this interpretation
+because it references what would ordinarily be other actions in the same
+message. So, for the special case of interpreting these rules, we will use
+this usually unAgoran theory of message timing.
+
+Given the idea that the actions in a message are really one combined action,
+the requirement for C (cash) only if T (transfer) in same message and T only
+if C in same message can be read as creating a combined action of T+C for
+certain types of promises. This combined action is performed by announcing T
+and C somewhere in the same message (and runs into nasty issues if those
+announcements of T and C are conditional, etc.).
+
+Alternately, if we do not treat T+C as a single action, we should treat the
+combination as possible because the rule's "CAN ... if" clearly indicates that
+there should be some circumstances under which the cashing is possible. This
+preference tells us to prefer the "true" interpretation to the "false" one.
+Since the rule imagines that the message occurs simultaneously, there is no
+issue about what must be evaluated first.
+
+With the strategy for timing in mind, the rule's "CANNOT be cashed" clause is
+no issue, because the "instant" after the promise has been cashed does not
+occur until after the entire message is evaluated.
+
+========================================================================

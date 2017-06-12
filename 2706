@@ -1,0 +1,141 @@
+==============================  CFJ 2706  ==============================
+
+    A player that "hard deregisters" (totally dissociating themselves
+    from the game with eir R101(vii) right, as opposed to the action of
+    deregistering) is a person.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Pavitra
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by ehird:                        24 Sep 2009 13:08:17 GMT
+Assigned to Pavitra:                    26 Sep 2009 19:02:45 GMT
+Pavitra recused:                        12 Oct 2009 23:41:14 GMT
+Assigned to ais523:                     13 Oct 2009 00:07:24 GMT
+Judged UNDETERMINED by ais523:          14 Oct 2009 16:31:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The rule paints it as a dichotomy: either you can
+R101(vii)-deregister, or you can continue to play. As a person, it's
+perfectly possible to continue to play (mostly via contracts, but
+still in a way that affects the top-level gamestate) after
+regular-deregistering. So clearly, R101(vii)-deregistering also causes
+the player to cease to be a person.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I really don't know where this utter nonsense of a "R101(vii) hard
+deregister" came from.  I think a judge should stick a stake in it and
+call it done:
+
+1.  R101 uses the term "deregister".
+2.  The only natural language terms involve leaving a registration roll
+    (tracked by the regsistrar).  There's no other natural sense.
+3.  The rules define deregistration explicitly.
+
+These "hard deregistrations" ideas just seem to me, frankly, dimwitted
+and ignoring straightforward and explicit language that actually exists
+in the rules.
+
+You might infer that, if being a contract member is "playing", that R101
+conflicts with R1742, and when you deregister (a single process, well-
+defined!) you'd cease to be in a contract because R101 has precedence
+over R1742, but that IN NO WAY IMPLIES that the process of doing so is
+anything other than the rules-defined deregistration announcement.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Personhood is defined for those who have never played, and
+similarly defined for those who have R101(vii)-stopped playing.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+It's just convenient shorthand for "regular deregistration
+that R101 makes funky".
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+Irrelevant; the fact is that as a person you can continue
+to play, and if one has the right to perform an action in opposition
+to "continue to play", they must cease to be a person. ("You can
+simply not act" is irrelevant; you could do the same while s taying a
+player. (And the fact that you could be punished for inaction as a
+player is also irrelevant; contracts can apply their own punishment
+outside of the courts like destroying assets)).
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+Sorry about that, everyone.
+
+I might as well post my incomplete attempt at working through 2706:
+
+
+========================================================================
+
+I accept the arguments by ehird and G. to the effect that there is only
+one form of deregistration, and that the hard/soft distinction is an
+unfortunate judicial fiction with no basis in the rules.
+
+Murphy correctly points out that Rule 2150 expressly defines (most)
+former players as persons, at Power 3:
+
+      Any biological organism that is generally capable of
+      communicating by email in English (including via a translation
+      service) is a person.
+
+The question then is: does the text of Rule 101(vii) _conflict_ with the
+definition in Rule 2150, in the strong R1030 sense?
+
+The controversial text reads as follows:
+
+       vii. Every player has the right to deregister rather than
+            continue to play.
+
+The difficult points are the definitions of "rather than" and "play".
+
+========================================================================
+
+Judge ais523's Arguments:
+
+In CFJ 2706, ehird appears to be the only person seriously arguing for
+FALSE, so I will address eir argument for falsity. It contains a logical
+fallacy; despite the fact that a non-player person /can/ continue to
+play, they can also choose not to play. ehird's arguments might possibly
+indicate that after deregistering, a person cannot continue to play (per
+R101); but nothing there implies that the person ceases to be a person,
+just because persons can in general continue to play. (The argument is
+equivalent to claiming that a person ceases to be American upon
+deregistering due to R101, because it's possible for Americans to play
+Agora; although the possibility is indeed there, Americans don't have
+to.)
+
+Unfortunately, this CFJ suffers a wording problem, because not all
+players are necessarily persons. I therefore judge CFJ 2706 UNDETERMINED
+(but TRUE in nearly all the common cases; the exception is when a
+partnership player ceases to be a person before it's deregistered).
+
+========================================================================

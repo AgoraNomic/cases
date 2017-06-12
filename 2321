@@ -1,0 +1,152 @@
+==============================  CFJ 2321  ==============================
+
+    Rule 9842 exists.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+Appeal:                                 2321a
+Decision:                               REASSIGN
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           24 Dec 2008 00:00:59 GMT
+Assigned to Wooble:                     06 Jan 2009 05:39:54 GMT
+Judged FALSE by Wooble:                 07 Jan 2009 23:59:19 GMT
+Appealed by omd:                        08 Jan 2009 02:49:18 GMT
+Appealed by Taral:                      08 Jan 2009 02:54:51 GMT
+Appealed by woggle:                     08 Jan 2009 04:46:02 GMT
+Appealed by G.:                         08 Jan 2009 05:06:00 GMT
+Appeal 2321a:                           08 Jan 2009 05:06:00 GMT
+REASSIGNED on Appeal:                   15 Jan 2009 17:29:45 GMT
+Assigned to woggle:                     19 Jan 2009 09:24:35 GMT
+Judged FALSE by woggle:                 23 Jan 2009 05:19:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1769 reads in part:
+      If some Rule requires that an action be done prior to a given
+      time, and that given time falls during a Holiday, or within the
+      72-hour period immediately following that Holiday, then that
+      action need not be done until 72 hours after that Holiday ends.
+
+Rule 1728 reads in part:
+       b) A person (the initiator) announced intent to perform the
+          action, unambiguously and clearly specifying the action and
+          method(s) (including the value of N for each method), at
+          most fourteen days earlier, and (if the action depends on
+          objections) at least four days earlier.
+
+Now, "earlier" and "prior" are pretty clearly synonyms.  Therefore,
+R1728 specifies that Intent to perform an action must be posted
+prior to the given time of the performance of the action.  Therefore,
+the "given time" is the time an action is actually performed, and the
+action whose time limit is extended is the action of posting intent.
+
+Therefore, any w/o Objection action CAN be performed during a holiday,
+and it will be successful provided the actor posts intent to perform
+the action within 72 hours after the holiday ends!
+
+On the case in question, Goethe (argues that e) ratified the SLR
+(without Objection) during a holiday to contain Rule 9842, and
+immediately thereafter posted intent to so ratify.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+R1728 requires that the notice of intent be
+posted during an event comprising the time between 4 and 14 days
+before the action without objection is itself announced.  In this
+case, the time the intent was required to be published fell several
+days before the holiday began; the Holidays rule thus does not affect
+the timing as it only applies to events that are required to occur
+during the Holiday.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+This deserves a REASSIGN under the corruptive self-interest clause.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I support, with the recommendation of reassign due to the sheer cursory nature
+of the rejection which failed to address any of the points whatsoever, and
+having received the necessary support, thus initiate the appeal.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+ugh.  I'm now so convinced my scam didn't work I can't quite stand to
+not post the argument and see wrong ones.  Sorry if this spoils some
+fun, here's the argument, any refutations?
+
+The section of the Holiday rule in question is only triggered if a
+Rule "requires" something be done by a certain time limit.
+
+If a Rule says "you must do X before you CAN do Y", but you are not
+actually required to do Y, then doing X is not a requirement at all,
+even if the sequence is time-muddled.
+
+To see why, take the simple phrase "you must get a coin before you
+can spend it."  That doesn't mean getting a coin is a "requirement"
+otherwise I could just spend 1,000,000 coins and claim "I have until
+after the holiday to obtain them."  Or take the following reducio-ad-
+absurdum :
+
+"Before Goethe can win by Zotting, e is required to change the
+Rules so that e can win by Zotting."  This is trivially true, but
+it doesn't mean I could legally win by zotting (and have the win
+count) then later say, "oops, I broke a rule by not changing the
+Rules so I could win by zotting, but I still won".
+
+All this (and the intent-dependent action sequence) is messing with
+the order of "game physics", which is not what the Holiday rule speaks
+of for "requires": "requires" should be restricted to dealing with
+"SHALL before X" and not the time-reversal of "CAN after doing X."
+
+========================================================================
+
+Judge woggle's Arguments:
+
+> Rule 1728 reads in part:
+[inserting a fuller quote here]
+      A person (the performer) CAN perform an action dependently (a
+      dependent action) by announcement if and only if all of the
+      following are true:
+[...]
+>       b) A person (the initiator) announced intent to perform the
+>          action, unambiguously and clearly specifying the action and
+>          method(s) (including the value of N for each method), at
+>          most fourteen days earlier, and (if the action depends on
+>          objections) at least four days earlier
+[snip]
+Although the condition in R1728(b) is a necessary condition for
+performing a dependent action, being a necessary condition for
+something else to be done is not the same thing as being required to
+"be done". In this case, clearly no one was obliged to perform the
+dependent action in question, so no one was indirectly obliged to post
+a notice of intent either.
+
+Even if Goethe were so obliged, the "given time" that would been
+required and therefore extended by the Holiday rule was "at least four
+days prior", which did not fall during a Holiday or the 72-hour period
+immediately following.
+
+========================================================================

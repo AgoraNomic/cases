@@ -1,0 +1,62 @@
+==============================  CFJ 2939  ==============================
+
+    This CFJ's interest index is 100.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          20 Dec 2010 04:15:32 GMT
+Assigned to ais523:                     20 Dec 2010 07:24:07 GMT
+Judged FALSE by ais523:                 05 Jan 2011 23:22:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2225 takes precedence over Rule 2153.
+
+========================================================================
+
+Caller's Evidence:
+
+CFJ (II=100): This CFJ's interest index is 100.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+On Sat, Dec 25, 2010 at 12:28 PM, Alex Smith <ais523@bham.ac.uk> wrote:
+> I'll likely judge CFJ 2939 FALSE. The clearest argument, to me, that the
+> initiator of a CFJ cannot set its II to 100 is that the initiator of the
+> CFJ has power 0, and thus cannot override rule 2153, which specifies
+> legal values for interest indices. (Note that rule 2225 doesn't try to
+> set the II itself; it instead provides a mechanism for players to change
+> it in certain circumstances, and it can do that just fine because it
+> isn't secured.)
+
+And /this/ argument-- high power rule says you can do something, low
+power rule says you can't, you can't because you personally have lower
+power than the low power rule-- implies that a dictator can break the
+entire world at Power 1 by forbidding any action he chooses.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The clearest argument, to me, that the
+initiator of a CFJ cannot set its II to 100 is that the initiator of the
+CFJ has power 0, and thus cannot override rule 2153, which specifies
+legal values for interest indices. (Note that rule 2225 doesn't try to
+set the II itself; it instead provides a mechanism for players to change
+it in certain circumstances, and it can do that just fine because it
+isn't secured.)
+
+========================================================================

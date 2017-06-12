@@ -1,0 +1,295 @@
+==============================  CFJ 1498  ==============================
+
+    No two Rules may legally have the same Title.
+
+========================================================================
+
+Caller:                                 Wes
+
+Judge:                                  Sir Toby
+Judgement:                              FALSE
+
+Appeal:                                 1498a
+Decision:                               SUSTAIN
+
+========================================================================
+
+History:
+
+Called by Wes:                          12 Apr 2004 20:18:47 GMT
+Assigned to Sir Toby:                   18 Apr 2004 20:57:31 GMT
+Judged FALSE by Sir Toby:               21 Apr 2004 04:26:55 GMT
+Appealed by root:                       21 Apr 2004 08:20:17 GMT
+Appealed by Elysion:                    21 Apr 2004 19:35:59 GMT
+Appealed by Wes:                        21 Apr 2004 23:17:34 GMT
+Appeal 1498a:                           21 Apr 2004 23:17:34 GMT
+SUSTAINED on Appeal:                    30 Apr 2004 17:02:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Premise #1 - A Rule of Agora Nomic is a Rule-defined
+entity.
+
+Only an entity may have Properties [Rule 1011]. Power
+is a Nomic Property and is possessed by Rules [Rules
+1688 and 1274]. Ergo, a Rule is an entity.
+
+It appears to be trivially true that the Rules are
+themselves defined by the Rules [101, 1688, 1482,
+1030, 105, 115, etc.].
+
+Premise #2 - A Rule's Title is a name or nickname.
+
+A name is, per the American Heritage Dictionary, "A
+word or words by which an entity is designated and
+distinguished from others." This appears to suit the
+use of Rule Titles nicely.
+
+Of course, per Rule 1586, no two Rule-defined entities
+may have the same name or nickname.
+
+Therefore, no two Rules may have the same Title
+without being in violation of Rule 1586.
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+You'll get no argument from me that a Rule is indeed a Rule-defined
+entity. The question becomes, is the Title of a Rule a name or nickname of
+a Rule? Rule 1485 defines a Rule's Title as follows:
+
+      Each Rule has a Title, which is a single line of text
+      containing not more than 60 characters.  The Title must be
+      listed by the Rulekeepor along with the Rule.  However, the
+      Title is not part of the Rule itself and has no effect on the
+      meaning or application of the Rule, being merely a convenience
+      for the Players.
+
+The Rules do not explicitly require a name or nickname for a Rule. The
+Rules do explicitly require a name for some entities, such as the Nomic we
+are playing (Rule 1020), Organizations (Rules 1528 and 1614), and Teams
+(Rule 2041). There are some entities where the Rules do not explicitly
+require a name or nickname, but the Rules refer to the entity's name, such
+as Offices (Rule 1006) and Players (Rule 559 section i). Rule 1586 seems
+to imply that every Rules-defined entity has a name or nickname, as it
+requires that no two Rules-defined entities can share the same name. If an
+entity is not required to have a name, does it in essence have a NULL
+name? If so, if multiple entities are not named, would that violate Rule
+1586? The rules aren't clear on this matter.
+
+I don't feel it would be in the best interest of the game to say that
+every non-named entity is in violation of Rule 1586, as my search through
+the Rules reveals many Rules-defined entities that don't have names, such
+as Claims of Error, Holidays, Orders, and more. Requiring unique names for
+these entities when it clearly would be an organizational nightmare is not
+in the best interest of the game.
+
+Given the organizational nightmare with attempting to assign names or
+nicknames to entities that aren't required to have names or nicknames by
+the Rules, I am hesitant to set a precedent regarding what can be
+considered a name or nickname of an entity that isn't required to have a
+name or nickname by the Rules. The Rules do not require a name or nickname
+for a Rule. Therefore, Rules have no name or nickname. A Rule's Title is
+not a name or nickname for the Rule. I return a judgement of FALSE.
+
+========================================================================
+
+Judge Sir Toby's Evidence:
+
+Rule 1485/8 (Power=1)
+Titles for Rules
+
+      Each Rule has a Title, which is a single line of text
+      containing not more than 60 characters.  The Title must be
+      listed by the Rulekeepor along with the Rule.  However, the
+      Title is not part of the Rule itself and has no effect on the
+      meaning or application of the Rule, being merely a convenience
+      for the Players.
+
+      A Rule Change that Creates a new Rule may specify a Title for
+      the new Rule.  If it does not, the Rulekeepor shall choose the
+      new Rule's Title.
+
+      The Rulekeepor is authorized to change the Title of a Rule
+      Without Objection.
+
+
+Rule 1020/0 (Power=3)
+Name Is Agora
+
+      The Official Name of this Nomic shall be Agora.
+
+
+Rule 1528/7 (Power=1)
+Organizations
+
+      An Organization is an entity designated as such by the Rules.
+
+      Each Organization shall have the following properties:
+
+        a) A Name.
+        b) A Class.
+        c) A Charter.
+        d) An Administrator.
+        e) One or more Members.
+
+      Any of these properties may be changed by unanimous agreement of
+      all Members, except for Class which may never change.
+
+
+Rule 1614/7 (Power=1)
+Names of Organizations
+
+      Each Organization has a unique Name.  The Name of an
+      Organization may only change as specified by its Charter or by
+      the Rules.
+
+
+Rule 2041/1 (Power=1)
+Teams
+
+      All Players are grouped into units known as Teams.  No Player
+      may belong to more than one Team at any time.
+
+      Each Team shall have a Team Name by which it is known.  A Player
+      in a Team may change that Team's Team Name with the Support of
+      two other Players in the same Team.
+
+
+Rule 1006/9 (Power=1)
+Offices
+
+      The Rules may designate positions to be offices.  No office may
+      be held by more than one player.  Each office that would
+      otherwise not be held by any player shall be held by the
+      Speaker, unless it is not possible for the Speaker to hold that
+      office.
+
+      The holder of an office may be referred to by the name of the
+      office.
+
+
+Rule 559/21 (Power=1)
+The Registrar
+
+      The Registrar is an office; its holder is responsible for
+      maintaining the register of players.
+
+      The Registrar's Report shall include all of the following
+      information:
+
+         (i) a list of all registered players, with their nicknames,
+             if any, and listed email addresses;
+
+        (ii) a list of all Grace Periods in progress, including the
+             player subject to the Grace period, the time at which
+             it started, and the time at which it will end;
+
+       (iii) a list of all Unready players;
+
+        (iv) the most recent date on which each registered player
+             registered;
+
+         (v) each player's activity level, and the most recent date on
+             which that player's activity level changed;
+
+        (vi) each player's Noisy/Quiet/Silent status, and the most
+             recent date on which that player became Noisy, Quiet,
+             or Silent;
+
+       (vii) the identity of the Distributor; and
+
+      (viii) a list of players who are Monks.
+
+
+Rule 1586/2 (Power=2)
+Definition and Continuity of Entities
+
+      No two Rule-defined entities shall have the same name or
+      nickname.
+
+      If the Rules defining some entity are repealed or amended
+      such that they no longer define that entity, then that
+      entity along with all its properties shall cease to exist.
+
+      If the Rules defining an entity are amended such that they
+      still define that entity but with different properties,
+      that entity and its properties shall continue to exist to
+      whatever extent is possible under the new definitions.
+
+========================================================================
+
+Appellant root's Arguments:
+
+> You'll get no argument from me that a Rule is indeed a Rule-defined
+> entity. The question becomes, is the Title of a Rule a name or nickname of
+> a Rule? Rule 1485 defines a Rule's Title as follows:
+>
+>       Each Rule has a Title, which is a single line of text
+>       containing not more than 60 characters.  The Title must be
+>       listed by the Rulekeepor along with the Rule.  However, the
+>       Title is not part of the Rule itself and has no effect on the
+>       meaning or application of the Rule, being merely a convenience
+>       for the Players.
+
+I'm not following your argument that Title != Name; I don't see why it
+shouldn't be, and I don't see how R1485 contradicts that. In fact, since
+Title is explicitly defined by the Rules and Name is not, it follows from
+R754(4) that Name should be taken to have the same meaning as Title.
+Interestingly, this suggests that any name of any entity must be a single
+line of text containing not more than 60 characters, as directed by R1485.
+
+> The Rules do not explicitly require a name or nickname for a Rule. The
+> Rules do explicitly require a name for some entities, such as the Nomic we
+> are playing (Rule 1020), Organizations (Rules 1528 and 1614), and Teams
+> (Rule 2041). There are some entities where the Rules do not explicitly
+> require a name or nickname, but the Rules refer to the entity's name, such
+> as Offices (Rule 1006) and Players (Rule 559 section i). Rule 1586 seems
+> to imply that every Rules-defined entity has a name or nickname, as it
+> requires that no two Rules-defined entities can share the same name. If an
+> entity is not required to have a name, does it in essence have a NULL
+> name? If so, if multiple entities are not named, would that violate Rule
+> 1586? The rules aren't clear on this matter.
+
+The Ruleset is not a programming language, and the only entities that
+might be considered to have a NULL name in any sense are the hypothetical
+entities named "NULL" and "" (and I would have strong reservations about
+the latter).  Not having a name is different from having a NULL name,
+and it is quite clear (to me, anyway) that if two entities each have no
+name whatsoever, then there does not exist any name that is shared by
+both.
+
+> I don't feel it would be in the best interest of the game to say that
+> every non-named entity is in violation of Rule 1586, as my search through
+> the Rules reveals many Rules-defined entities that don't have names, such
+> as Claims of Error, Holidays, Orders, and more. Requiring unique names for
+> these entities when it clearly would be an organizational nightmare is not
+> in the best interest of the game.
+>
+> Given the organizational nightmare with attempting to assign names or
+> nicknames to entities that aren't required to have names or nicknames by
+> the Rules, I am hesitant to set a precedent regarding what can be
+> considered a name or nickname of an entity that isn't required to have a
+> name or nickname by the Rules. The Rules do not require a name or nickname
+> for a Rule. Therefore, Rules have no name or nickname. A Rule's Title is
+> not a name or nickname for the Rule. I return a judgement of FALSE.
+
+As above, R1586 doesn't concern itself with names that aren't held, only
+with names that are held, so unnamed entities are not in violation of it.
+Also, if you take the R754(4)-derived definition of Name, then Rules in
+fact are required to have names by R1485, and so judging that Titles are
+Names doesn't set any such precedent as described in the preceding
+paragraph.
+
+========================================================================
+
+Appellant Wes's Arguments:
+
+Not all entities have names, but a Title (as defined by the Rules) does
+serve the normal English definition of a "name," and thus should be
+considered to be one.
+
+========================================================================

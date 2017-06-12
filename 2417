@@ -1,0 +1,49 @@
+==============================  CFJ 2417  ==============================
+
+    Murphy destroyed at least one Rest in the same message in which e
+    initiated this CFJ.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       16 Mar 2009 00:10:36 GMT
+Assigned to Wooble:                     16 Mar 2009 21:04:42 GMT
+Judged FALSE by Wooble:                 17 Mar 2009 13:17:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I spend C F# in Sgeo's possession to destroy one Rest in Taral's
+possession.
+
+I spend D D in Taral's possession to destroy one Rest in Sgeo's
+possession.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+as the word 'spend' is not
+explicitly defined, we use the ordinary-language definition which
+strongly implies that you can only spend your own assets.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+To spend a Note is to destroy it (CFJ 2418, R2126).  Since spending a
+note modifies information the Conductor is required to keep,
+destroying Notes can only be done if the rules allow it (R2125(e)).
+No rule authorizes Murphy to destroy a Note in another player's
+possession, so eir attempt to do so was IMPOSSIBLE.  I judge FALSE.
+
+========================================================================

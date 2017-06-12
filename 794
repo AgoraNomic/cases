@@ -1,0 +1,143 @@
+>From nomic-official-owner@teleport.com  Sat Jul 22 16:08:52 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id QAA11762 for <blahedo@quincy.edu>; Sat, 22 Jul 1995 16:08:01 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id OAA20694 for nomic-official-outgoing; Sat, 22 Jul 1995 14:07:17 -0700
+Received: from audumla.students.wisc.edu (students.wisc.edu [144.92.104.66]) by desiree.teleport.com (8.6.10/8.6.9) with ESMTP id OAA20678 for <nomic-official@teleport.com>; Sat, 22 Jul 1995 14:07:13 -0700
+Received: by audumla.students.wisc.edu;
+          id QAA22560; 8.6.9W/42; Sat, 22 Jul 1995 16:07:12 -0500
+X-NUPop-Charset: English
+Date: Sat, 22 Jul 95 16:04:41 CDT  
+>From: "Charles E. Carroll" <ccarroll@students.wisc.edu>
+Message-Id: <57886.ccarroll@students.wisc.edu>
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 794
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Judgement of CFJ 794
+
+Xanadu receives 5 Points for speedy Judgement.
+
+============================================================
+
+CFJ 794
+
+Caller: Michael
+
+Statement: Rules 754/0 and 591/2 should be interpreted such that
+  the judgement Michael attempted to make as pro-Justiciar on appeal
+  of CFJ 784 was a valid Judgement.
+
+Barred: Andre
+Requested Injunction: none
+
+Judge: Xanadu
+  Judgement: FALSE (but see arguments of Judge and COTC's note)
+  Injunction: none
+
+Effects reported by COTC (* indicates new to this report):
+ *Xanadu receives 5 Points for speedy Judgement.
+
+============================================================
+
+============================================================
+
+History:
+  Called by Michael Fri, 21 Jul 95 10:27:26 BST
+  Assigned to Xanadu Fri, 21 Jul 1995 11:20:08 -0500
+  Judged FALSE by Xanadu Sat, 22 Jul 1995 18:01:13 +1000 (EST)
+  Judgement published {as of this message}
+
+============================================================
+
+Arguments of Judge (Xanadu):
+
+The point to be decided, as I see it, is whether or not a judgement of "if x 
+then FALSE else TRUE" is either TRUE, FALSE, UNDECIDABLE or UNKNOWN.
+
+First, I shall look at a judgement of "if (2 = 2) then FALSE else TRUE".
+
+Can Rule 754 be used in this case to say that this judgement is logically 
+equivalent to FALSE?  I believe that it can be so used, as it states
+"... the substitution of a word or phrase by a synonym or abbreviation... 
+[is] inconsequential...", and logically equivalent statements are clearly 
+synonyms.
+
+
+Now, Michael's "Judgement" was:
+
+let x = the truth of: 
+          "no actions became required of KoJen by 1023 between the
+   time of his announcment of the Tabulator vacancy and his
+   numbering of Proposal 1607"
+in
+    if x then FALSE else TRUE
+end
+
+Does a similar argument apply?
+In my opinion, Michael's message attempts to substitute the entire quoted 
+section for his judgement.  This is not the same as a judgement of:
+
+FALSE if x is TRUE, and TRUE otherwise, where x is the truth of "no
+actions became required of KoJen by 1023 between the time of his 
+announcment of the Tabulator vacancy and his numbering of Proposal 1607"
+
+which, IMO, is legal (provided that the truth of the statement "no 
+actions ... Proposal 1607" is well defined, which may not be the case).
+However, the legality of such a judgement is not entirely relevent to 
+this CFJ.
+
+I believe that a judgement of "let ... end" is not equivalent to "either 
+TRUE, FALSE, UNDECIDABLE or UNKNOWN" (Rule 591/2)
+
+And hence my Judgement is:
+  TRUE if Michael's "Judgement" on appeal of CFJ 784 was valid, and FALSE 
+otherwise
+
+==========================
+
+Note:  If it be decided that the phrase I have inserted above as Xanadu's
+Judgement on this CFJ is not a valid judgement, then Xanadu hearby Judges
+this CFJ FALSE.
+
+==========================
+
+Comments:  If I have angered anyone by Xanadu Judging in this way, then
+all I have to say is, "Hey, this is Nomic!  Don't take it so seriously."
+
+============================================================
+
+COTC's note:
+
+Rule 754 states in part:
+
+      ...the
+      substitution of a word or phrase by a synonym or abbreviation,
+      [is] inconsequential in all forms of Nomic communication, as long
+                                                                ^^^^^^^
+      as there is no ambiguity in meaning.
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+It is my interpretation that something like "if (2=2) then FALSE
+else TRUE" is a valid Judgement, as it is an *unambiguous* synonym
+for FALSE.  I do not believe Xanadu's first attempted Judgement of
+"TRUE if Michael's "Judgement" on appeal of CFJ 784 was valid, and FALSE
+otherwise" is valid, because, although it is a synonym for TRUE or
+FALSE, it is not an *unambiguous* synonym for either.
+
+Xanadu then goes on to state: "If it be decided that the phrase I have
+inserted above as Xanadu's Judgement on this CFJ is not a valid judgement,
+then Xanadu hearby Judges this CFJ FALSE."  E does not state how
+or by whom it must be decided that Xanadu's first Judgement is
+invalid for this Judgement to apply; thus any such decision is
+sufficient.  As I already stated above, I have decided that Xanadu's
+first attempted Judgement is invalid.  Thus, "If it be decided that the
+phrase I have inserted above as Xanadu's Judgement on this CFJ is not
+a valid judgement, then Xanadu hearby Judges this CFJ FALSE" is
+an unambiguous synonym for FALSE.
+
+============================================================
+
+End of CFJ 794
+
+============================================================

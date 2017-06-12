@@ -1,0 +1,90 @@
+======================================================================
+                               CFJ 931
+
+"A unit of the currency 'Payment Orders' is a Nomic Entity."
+
+======================================================================
+
+Judge:        Kolja A.
+
+Judgement:    FALSE
+
+Eligible:     Blob, Chuck, (Elde), (elJefe), General Chaos, Kolja A.,
+              Michael, Morendil, Murphy, Swann
+
+Not eligible:
+Caller:       Harlequin
+Barred:       Crito, Steve
+Disqualified: elJefe, Vanyel
+On hold:      Andre, Antimatter, Oerjan, Zefram
+
+======================================================================
+
+History:
+  Called by Harlequin, Wed, 16 Jul 1997 16:33:36 -0400
+  Assigned to elJefe, Thu, 17 Jul 1997 11:44:22 +0100
+  elJefe defaults
+  Assigned to Kolja A., Fri, 25 Jul 1997 17:59:28 +0100
+  Judged FALSE, Wed, 30 Jul 1997 12:40:20 +0200
+  Published, Wed, 30 Jul 1997 14:53:28 +0100
+
+======================================================================
+
+Judgement: FALSE
+
+Reasons and arguments:
+
+1586 defines a Nomic Entity (NE) as
+
+      A "Nomic Entity" is any entity which has no discernible
+      existence without the Rules, only existing by virtue of the
+      Rules defining it to exist.
+
+It does not matter whether the _creation_ of an entity depends on
+other factors than rules only (the creation of the currency "Payment
+Orders" depended on a message to the public forum by Morendil, in
+addition to the relevant rules).
+
+It does matter, however, whether the possible _destruction_ of an
+entity depends only on rules. The currency "Payment Orders" can be
+destroyed at any time at its mintor's whim (1722), and it will be
+automatically destroyed when the mintor ceases to exist or ceases to
+have mint authority (1579). So it is not true that the currency
+"Payment Orders" _only_ exists by virtue of the rules defining it to
+exist as required in the definition of an NE.
+
+To back up this interpretation of the NE definition I would like to
+point out that the rules call four entities "NEs" explicitly in the
+rule defining the entity: The Virus (1454), Theses (1369), the Bank
+(1470) and the Frankenstein Monster (1671). No rule contains explicit
+provisions for the destruction of these entities by any means. So the
+only way they can be destroyed is via repeal (or other sufficient
+changes of) the rules defining these NEs. This is what "only existing
+by virtue of the Rules defining it to exist" means.
+
+--
+Footnote, concerning an argument raised by the caller of this CFJ.
+
+This may seem to create a contradictory situation: "Currencies in
+general only exist because of rules defining them, thus they are
+NEs. Particular currencies not created by the rules, but by other
+entities with mint authority, are not NEs according to this
+judgement."
+
+I agree that there is a contradiction. In terms of entity classes this
+means that the overall class of "currencies" is an NE, while some
+members of this class (non-rule defined particular currencies) are not
+NEs and others (rule-defined currencies) are.
+
+However, I think this contradiction does not ivalidate my arguments;
+rather it shows another weakness of the current NE system that
+deserves attention in any future NE reform.
+
+======================================================================
+
+(Caller's) Arguments:
+
+I've given my arguments all over n-d, so I won't repeat any of them
+here.  The relevant Rules are: 1467, 1591, 1586.
+
+======================================================================

@@ -1,0 +1,123 @@
+==============================  CFJ 2522  ==============================
+
+    If the contestmaster of a contest is flipped to a person who is
+    already the contestmaster of another contest, that person thereby
+    becomes a contestmaster.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          11 May 2009 00:45:21 GMT
+Assigned to G.:                         11 May 2009 05:06:16 GMT
+Judged TRUE by G.:                      11 May 2009 16:18:41 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The wording is ambiguous.  In my opinion, the person is
+already a contestmaster and can't become one.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2136/29 (Power=1)
+Contests
+
+...
+
+        b) A member of that player's basis has already become a
+           contestmaster within the past seven days.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First of all, "contestmaster" is a switch regulated by Agora.  It's
+possible that the "contestmaster" defined in a contract may differ
+from the value of the switch, and changing the contestmaster switch
+is not a defined "contract change", so various rules on contract
+changes are not directly relevant -- a contract change may lead to
+a contract state which then permits the switch to be flipped (even
+automatically), but that's not a direct conflict between rules on
+contract changes and the contestmaster switch.
+
+*Within* Rule 2136, it is possible that the sentence "CAN be
+flipped... as specified by the contract" might be in conflict with
+the later sentence "CANNOT be flipped to a given player if any of
+the following are true..." but I find that it's natural, within
+a single paragraph, to infer a combined structure "CAN be flipped
+... unless any of the following are true" which does not lead to
+conflict.[*]
+
+Second, given the slight ambiguity in wording, I shall note the
+specific comments in proposal 6037 that introduced the wording:
+
+   [Multiple rapid contest-creation has been exploited.  This
+    change replaces the "only one contest per contestmaster"
+    with a slow-play limit, that allows more contests per
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+    contestmaster but slows scams].
+    ^^^^^^^^^^^^^
+
+While "legislative intent" is not always a good precedent to use to
+infer meaning that's not there at all, and each voter might have a
+different reading and intent when voting, in the case where the
+intent is directly, specifically, and clearly laid out, and the
+intent is in line with at least one reasonable reading of the
+rule in question, the intent is reasonable to use.
+
+I judge TRUE, as long as a contestmaster has not become (i.e.
+"been actively switched to being") a contestmaster in the last seven
+days, e can become a contestmaster of multiple contests.
+
+[*] If the "combined CAN/CANNOT within a paragraph doesn't seem
+reasonable, here's the alternate approach.  If you consider that
+the two sentences within the single rule conflict with each other,
+you might argue that R2240 leads us to drop the later CANNOT
+in favor of the CAN.  However, the CANNOT directly claims
+precedence while the CAN does not (thus implicitly deferring to
+an explicit claim), leading us (if we infer a conflict) to favor
+the CANNOT, with the same results described above.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+Proposal 6037 (Democratic, AI=2.0, Interest=1) by Goethe
+Contest Patch
+
+[Multiple rapid contest-creation has been exploited.  This
+change replaces the "only one contest per
+contestmaster" with a slow-play limit, that allows more contests
+per contestmaster but slows scams].
+
+Amend Rule 2136 (Contests) by replacing:
+      b) Doing so would cause a player to be contestmaster of more
+         than one contest.
+with:
+      b) Doing so would cause a player to be contestmaster when a
+         member of eir basis has already become a contestmaster
+         within the past seven days.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Arrgh!  By the phrasing of the CFJ, the seven-day qualifier should
+(strictly speaking) lead to UNDETERMINED based on whether the time
+limit has passed.   H. CotC Murphy, please append this comment as
+gratuitous; although I would understand a repeal/remand I'd like to
+suggest that it's sufficiently trivial an error with arguments laid
+out to not require it.
+
+========================================================================

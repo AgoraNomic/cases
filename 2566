@@ -1,0 +1,92 @@
+==============================  CFJ 2566  ==============================
+
+    Pavitra owns at least 1 crop.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  allispaul
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       03 Jun 2009 19:30:20 GMT
+Assigned to Yally:                      06 Jun 2009 06:55:33 GMT
+Yally recused:                          06 Jun 2009 16:19:41 GMT
+Assigned to Quazie:                     06 Jun 2009 16:47:10 GMT
+Quazie recused:                         17 Jun 2009 07:44:36 GMT
+Assigned to allispaul:                  17 Jun 2009 08:03:05 GMT
+Judged TRUE by allispaul:               24 Jun 2009 06:42:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+comex claims the deposit fails because e didn't specify an
+order for the deposits, but the AAA contract does not restrict
+transfers in this way. Did the crops transfer even though the Bank
+doesn't have a defined way to compensate em for the crops?  Should
+this be handled with an equity case involving the IBA?
+
+========================================================================
+
+Caller's Evidence:
+
+On Tue, Jun 2, 2009 at 11:43 PM, Benjamin Caplan
+<celestialcognition@gmail.com> wrote:
+> I join the IBA, deposit all my crops in it, and request subsidy.
+
+========================================================================
+
+Gratuitous Arguments by BobTHJ:
+
+Pavitra didn't say "I transfer all my crops to the IBA",
+instead e attempted to perform an action defined by the IBA contract
+(deposit) which if successful would result in the transfer of assets
+from Pavitra to the bank.
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+"A person CAN deposit an asset by transferring it to the IBA; e then
+gains the Effective Rate in zorkmids."
+
+Pavitra is a person, thus e CAN perform the action of depositing which
+is a synonym for transferring.  What happens after that (gaining the
+possibly undefined Effective Rate) is quite possibly not the SoA's
+business.
+
+========================================================================
+
+Judge allispaul's Arguments:
+
+R2166 (Assets) says "An asset generally CAN be transferred by its
+owner to another entity by announcement, subject to modification by
+its backing document."  Because the AAA does not modify the transfer
+of crops, this is not an issue.  Nor is the fact that depositing is a
+contract-defined action, as the IBA clearly defines it to be
+synonymous with "transfer."
+
+The real issue is with R478 (Fora): "...a person performs that action
+by unambiguously and clearly specifying the action and announcing that
+e performs it."  In this case, several actions could have been
+performed, but none was clearly specified.  Both the IBA and R2166
+only allow transfers of single assets, and transferring multiple
+assets is typically unambiguous shorthand for transferring each asset
+by announcement.  Here, the shorthand is ambiguous, and no transfer
+occurred.  TRUE (at the time of the CFJ; the crops have since been
+unambiguously deposited).
+
+========================================================================

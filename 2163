@@ -1,0 +1,32 @@
+==============================  CFJ 2163  ==============================
+
+    The text of a proposal cannot have any effect whatsoever on whether
+    the proposal takes effect, except by influencing votes on the
+    proposal, and as explictly stated by the Rules.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          14 Sep 2008 20:59:05 GMT
+Assigned to Murphy:                     23 Sep 2008 08:25:01 GMT
+Judged TRUE by Murphy:                  28 Sep 2008 23:37:01 GMT
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The only possible counterexample that comes to mind is "This
+proposal (has no effect | does not take effect) if <condition>";
+since a proposal cannot directly override Rule 106, I interpret
+this as instead being a gloss for "This proposal's specification
+of changes is conditional on the falsity of <condition>".
+
+========================================================================

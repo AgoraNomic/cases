@@ -1,0 +1,60 @@
+==============================  CFJ 1698  ==============================
+
+    The player with the email address emurphy42@socal.rr.com has
+    violated Rule 1586 by having the same nickname as me (the caller of
+    this CFJ).
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          09 Jul 2007 18:36:50 GMT
+Assigned to Zefram:                     23 Jul 2007 11:39:24 GMT
+Judged FALSE by Zefram:                 24 Jul 2007 10:01:44 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+"Person" and "player" are defined in rules 2150 and 869, respectively.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+"Nickname" is not explicitly defined by the rules, so by Rule 754 (d)
+ordinary language applies.
+
+According to ordinary language, X is Y's nickname only if Y is called X
+in some sort of sufficiently general fashion.  Wherever this line is
+drawn, the case at hand (X = "Murphy", Y = the caller of this CFJ)
+clearly falls short; Y had never been called X before the message in
+which this CFJ was called, and it was arguably unreasonable to expect
+that to change.
+
+In fact, it did not change - Y did not even continue to call emself X
+after that message - but Rule 217 does not allow the judge to base eir
+judgement directly on this, as it took place after the CFJ was called.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+CFJ 1703 has already established that comex, the caller of this CFJ,
+did not change eir nickname (to the extent that a player has exactly one
+nickname) to "Murphy".  Furthermore, even if we accept the possibility
+of a player having multiple nicknames, "Murphy" is not being used to
+refer to comex, and so is de facto not a nickname of comex.  I therefore
+find CFJ 1698 FALSE on the grounds that the two persons indicated do
+not share a nickname.  This conclusion is reached without needing to
+consider whether a violation of rule 1586 would result if two players
+did share a nickname in any sense.
+
+========================================================================

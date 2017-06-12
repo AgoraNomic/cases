@@ -1,0 +1,122 @@
+==============================  CFJ 3258  ==============================
+
+    The message in which this CFJ was initiated is the
+    Ambassador-At-Large's Weekly Report.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       30 Jul 2012 21:54:11 GMT
+Assigned to G.:                         23 Aug 2012 15:40:22 GMT
+Judged FALSE by G.:                     24 Aug 2012 19:46:06 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+At current, the amount of information required in the
+Ambassador-At-Large's report is zero, and thus, an Ambassador's Report
+can contain any information required. This message is sent to a-o and is
+in the usual format expected for a report, but has no actual
+report-related information at all, it's all about a CFJ. So do I fulfil
+my Ambassador duties by posting it?
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, 2012-07-30 at 05:48 +0100, ais523 wrote:
+> On Sun, 2012-07-29 at 21:21 -0700, omd wrote:
+> > On Sun, Jul 29, 2012 at 3:17 PM, Alex Smith <ais523@bham.ac.uk> wrote:
+> > > All Recognition switches are at their default values.
+> >
+> > You're not actually required to publish this:
+> >
+> >       c) Optionally, exactly one office whose holder tracks instances
+> >          of that switch.  That officer's report includes the value of
+> >          each instance of that switch whose value is not its default
+> >          value.
+>
+> People yelled at me last time I failed to publish a zero-length report,
+> even when I cunningly mixed it in with other messages.
+>
+> So I'm putting some not-strictly-required info into the report to give
+> it a positive length, and thus making it more clearly visible.
+
+(Note: this message contains a CFJ.)
+
+CFJ: The message in which this CFJ was initiated is the
+Ambassador-At-Large's Weekly Report.
+
+Arguments:
+At current, the amount of information required in the
+Ambassador-At-Large's report is zero, and thus, an Ambassador's Report
+can contain any information required. This message is sent to a-o and is
+in the usual format expected for a report, but has no actual
+report-related information at all, it's all about a CFJ. So do I fulfil
+my Ambassador duties by posting it?
+
+--
+ais523
+Ambassador-At-Large
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, the message in question was not, as the Caller contends, "the
+usual format expected for a report" (despite being sent to Agora-
+Official and with the [Ambassador] tag).  That's the usual format for
+some kind of official action or official announcement (e.g. announcing
+a successful Ambassadorial mission), or even a CFJ that revolves around
+clarifying one's official duties (which is what it actually was).  So
+that's not enough to make the message a report.  The subject line, in
+fact, implies that it *isn't* a report, but some other type of official
+action.
+
+Now, "Report" is not specifically defined in the Ruleset as a whole.
+R2143/15 defines that anything that is "part" of a report must be
+published with a certain frequency and that reports (as a whole) must
+be in plaintext, and Rule 2202/4 strongly implies that parts of reports
+are documents, which are part (or all) of a public message.
+So, with no definition, we go to common definitions and common sense,
+and find that a "report" is "an account or statement" or "formal
+record."
+
+This brings up a few points:
+
+1.  A null (empty) statement is not a report.  If we assumed otherwise,
+    we would have to treat every message posted as a report of
+    everything in the world that isn't.  Also, an empty set is not
+    plaintext (an empty set is not the same as a null string!).
+2.  Context (e.g. delimitation) is reasonable to expect to frame a
+    part of a document as a report or part of a report (to make it a
+    "formal record" one must be clear about where one is being formal).
+3.  The rules implicitly require some information be reported, in
+    addition to explicit requirements.  For example, in R2162/2:
+                         That officer's report includes the value of
+         each instance of that switch whose value is not its default
+         value.
+    Note, here, that only the "value" is listed, but not the entity for
+    each switch!  Taken directly and literally, a report might look like
+    this: "Inactive,Active,Inactive,Active,Active" or just "3xActive,
+    1xInactive".  Clearly, more information is required; that is, it is
+    reasonably implicit that the report must include the identity of
+    each switch that is being reported on (e.g. "G. Active; BobTHJ
+    Inactive").
+
+Therefore, it is reasonable to decide that if a "part of a report" that
+is required, but happens to be empty, the rules implicitly require that
+the report be explicitly delimited as containing all of the information
+required, or else state that "there is no required information for this
+part of the report" in order to fulfill reporting duties.  FALSE.
+
+========================================================================

@@ -1,0 +1,42 @@
+==============================  CFJ 2756  ==============================
+
+    Voting limits on an Agoran decision are measured when it is
+    resolved, rather than when its voting period ends.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  Walker
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       07 Dec 2009 17:12:53 GMT
+Assigned to Walker:                     14 Dec 2009 17:23:59 GMT
+Walker recused:                         03 Jan 2010 16:04:38 GMT
+Assigned to omd:                        08 Jan 2010 23:13:11 GMT
+Judged TRUE by omd:                     08 Jan 2010 23:52:45 GMT
+
+========================================================================
+
+Judge omd's Arguments:
+
+TRUE per CFJ 1675.  Although the rule in question is no longer worded
+as a set of instructions, it is still vague as to when the outcome is
+decided and the precedent ought to hold.  Also, the following text:
+
+          In case of a tie, the vote collector SHALL select one of the
+          leaders as the outcome.
+
+(which may or may not be broken due to MMI) implies that the outcome
+can change after the voting period is over.
+
+========================================================================

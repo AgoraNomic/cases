@@ -1,0 +1,138 @@
+==============================  CFJ 1301  ==============================
+
+    Rule 1479 should be interpreted such that an Order, which requires a
+    Player to pay out one or more Properties to some entity, and which
+    is valid and proper under the Rules, causes the Bank to incur one or
+    more debts to the named entity.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Syllepsis
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         07 Jun 2001 02:27:19 GMT
+Assigned to Syllepsis:                  09 Jun 2001 22:16:28 GMT
+Judged TRUE by Syllepsis:               13 Jun 2001 16:26:58 GMT
+Order(s) issued:                        15 Jun 2001 01:45:12 GMT
+
+========================================================================
+
+Judge Syllepsis's Arguments:
+
+Rule 1479 clearly states that if a Rule requires a player to "pay
+out" Properties, the Bank incurs a debt to the entity to which the
+Properties are to be given.
+
+Let there be a valid Order requiring a Player to "pay out" one or more
+Properties to some entity. Then if there exists a Rule requiring the
+Player to obey Orders, then by such a Rule the Player would be required to
+"pay out" Properties to some entity, thus invoking Rule 1479.
+
+Rule 1810 specifies that if a valid Order requires an action to be
+performed within a specified time, and this action is not performed, then
+the Player commits the Class 4 Crime of Contempt by Inaction. Thus by Rule
+1810, such a valid Order invokes Rule 1479 if it is required to be
+performed within a specific time frame.
+
+Rule 1795 insures that a Rule without a time specification or an invalid
+time specification automatically has the specification ASAP, thus invoking
+Rule 1810 and thus Rule 1479.
+
+Thus any valid Order has a time specification and thus invokes Rule 1810,
+stating that the Order must be carried out. If the Order is to pay out one
+or more Properties to some entity, then by Rule 1810 the Player is
+required to pay out one or more Properties to some entity. This triggers
+Rule 1479, so the Bank then incurs a debt.
+
+Therefore, I judge this CFJ to be TRUE.
+
+========================================================================
+
+Judge Syllepsis's Evidence:
+
+Rule 1810/3 (Power=1)
+Noncompliance with Orders
+
+      An Order requiring an entity to perform an action is satisfied
+      when that entity performs that action.  Other Rules may define
+      other ways for Orders to be satisfied.
+
+      If an Order requires an entity to perform an action prior to a
+      specified time, and the Order is not satisfied prior to that
+      time specified in the Order commits the Class 4 Crime of
+      Contempt by Inaction.
+
+      Except when otherwise specified, a single action can result in
+      the satisfaction of at most one Order.  If an action would
+      satisfy more than one Order, and no other specification is made,
+      the Action satisfies the oldest Order which it would satisfy.
+
+      This Rule shall have no application with respect to any Order
+      which has been adjudicated to be invalid, and the invalidity of
+      the Order is a complete defense to a Criminal accusation made
+      under this Rule.
+
+
+Rule 1479/3 (Power=1)
+Definition of "Pay Out" and "Bill"
+
+      Whenever a Rule requires a Player to pay out one or more
+      Properties to some entity, the Bank shall incur a debt to that
+      entity for those Properties, and the named Player shall, as
+      soon as possible, post a public notice of the debt.
+
+      Whenever a Rule requires a Player to bill an entity for one or
+      more Properties, that entity shall incur a debt to the Bank for
+      those Properties, and the named Player shall, as soon as
+      possible, post a public notice of the debt.
+
+
+Rule 1795/3 (Power=1)
+Timing Requirements of Orders
+
+      An Order which commands the performance of an action may specify
+      when that action is to be performed; if no specification is
+      given, or the specification given would require the
+      performance of the action at a time when the Order is without
+      effect, or if the specification given would allow less than
+      72 hours from the time when the Order takes effect to perform
+      the action, then the Order shall be taken to require the
+      performance of the action as soon as possible after the Order
+      takes effect.
+
+      If an Order which commands the performance of an action is
+      directed to an Office or other position of authority, and the
+      holder of that position of authority changes after the Order
+      takes effect, but before the Order is satisfied, and the
+      specification would require the performance of the action at a
+      time before the current holder of the position came to hold
+      that position, or would allow less than 72 hours from the time
+      the current holder of the position came to hold that position,
+      then the Order shall be taken to require the performance of the
+      action as soon as possible after the current holder of the
+      position came to hold that position.  However, this shall
+      not be taken to absolve the previous holder of the position
+      of any penalties e might otherwise incur.
+
+      Other Rules may establish other times by which Orders must be
+      performed.  The noncompliance of an Order with this Rule does
+      not deprive that Order of all effect, but instead modifies the
+      effect of that Order with respect to the time at which or by
+      which the actions it requires must be performed.
+
+========================================================================
+
+Judicial Order(s) by Syllepsis:
+
+H. Rulekeepor Michael,
+
+At the request of the populace, I Order that the statement of CFJ 1301 be
+Annotated to Rule 1479.
+
+========================================================================

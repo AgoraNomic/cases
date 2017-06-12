@@ -1,0 +1,174 @@
+==============================  CFJ 2655  ==============================
+
+    I am owed a draw from the Government deck.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+Appeal:                                 2655a
+Decision:                               REMAND
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      07 Aug 2009 19:54:52 GMT
+Assigned to Quazie:                     08 Aug 2009 16:13:50 GMT
+Quazie recused:                         16 Aug 2009 19:41:20 GMT
+Assigned to omd:                        16 Aug 2009 19:51:17 GMT
+Judged FALSE by omd:                    16 Aug 2009 22:17:34 GMT
+Appealed by BobTHJ:                     16 Aug 2009 22:26:07 GMT
+Appealed by Murphy:                     17 Aug 2009 07:30:15 GMT
+Appealed by omd:                        17 Aug 2009 16:56:15 GMT
+Appeal 2655a:                           17 Aug 2009 16:56:15 GMT
+REMANDED on Appeal:                     25 Aug 2009 23:27:20 GMT
+Assigned to omd:                        25 Aug 2009 23:27:20 GMT
+Judged FALSE by omd:                    01 Sep 2009 04:17:02 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Roger Hicks wrote:
+> On Fri, Aug 7, 2009 at 13:48, Sean Hunt<rideau3@gmail.com> wrote:
+>>>> I award myself a Roll call and a Debate-o-Matic for my performance as
+IADoP.
+>>> As I mentioned in another mail I believe you are still owed two salary
+>>> draws for Poobah.
+>> I did not publish a caste report.
+>>
+> but you did publish a DoG report, so you completed a non-empty set of
+duties.
+
+========================================================================
+
+Judge omd's Arguments:
+
+The terminology used by the Rules makes it clear that an office has at
+most one weekly report (see Rules 2162, 2166); although it is
+generally published in two messages, the Poobah has a single report
+which includes each person's caste and DoG card holdings.  E only
+published half of that report, so e did not earn a weekly salary.
+
+========================================================================
+
+Appellant BobTHJ's Arguments:
+
+I intend (with 2 support) to appeal this case. The relevant section of
+R2258 said nothing about weekly reports (at the time this CFJ was
+called):
+{
+At the beginning of each
+      week, each holder of a high-priority office who completed a non-
+      empty set of duties in the prior week earns a number of draws
+      from the deck indicated by the switch equal to the interest
+      index for the office.
+}
+
+By publishing a Deck of Government report, coppro completed a
+non-empty set of duties. I request a judgment of REMAND and ask that
+the judge consider the text of R2258.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I support, and ask that the judge explicitly address whether a report
+with multiple parts constitutes multiple duties, specifically in
+comparison with non-report duties currently defined by the rules
+and possible combinations of such duties.
+
+========================================================================
+
+Judge omd's Arguments:
+
+My apologies for not bothering to check the previous version of the rule.
+
+> Appellant BobTHJ's Arguments:
+> {
+> At the beginning of each
+>      week, each holder of a high-priority office who completed a non-
+>      empty set of duties in the prior week earns a number of draws
+>      from the deck indicated by the switch equal to the interest
+>      index for the office.
+> }
+>
+> By publishing a Deck of Government report, coppro completed a
+> non-empty set of duties. I request a judgment of REMAND and ask that
+> the judge consider the text of R2258.
+
+>From Rule 2258 (Decks, Draws, and Salaries):
+
+      The Deck of Government is a deck of cards tracked by the Grand
+      Poobah.
+
+>From Rule 2166 (Assets):
+
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
+
+>From Rule 2143 (Official Reports and Duties):
+
+      For each office:
+
+      a) If any task is defined by the rules as part of that office's
+         weekly duties, then the holder of that office SHALL perform
+         it at least once each week.  If any information is defined by
+         the rules as part of that office's weekly report, then the
+         holder of that office SHALL maintain all such information,
+         and the publication of all such information is part of that
+         office's weekly duties.
+
+So, each office has a set of duties.  There are two possible
+interpretations of "part of that office's weekly duties":
+-  "a weekly duty for that office" (one task = one duty)
+-  "a subset of that office's weekly duties" (one task can contain
+multiple duties)
+
+The wording "part of...duties" seems to imply a subset, rather than
+element of the set of duties.  In this case it would be:
+
+- officer's duties {
+-- task of publishing report ("all such information") {
+--- duty/subtask: publication of information A
+--- duty/subtask: publication of information B
+-- }
+- }
+
+however, that strikes me as unnecessarily complicated, and moreover,
+there is nothing in the Rules at all to suggest that A and B need be
+the two "reports" the Poobah generally publishes (from the point of
+view of the rules it is a single report published in two parts).  The
+line *could* be drawn there, considering the list of Government cards
+an atomic piece of information, but it could also be more a
+fine-grained distinction, considering each (card, owner) pair a
+separate factoid, or perhaps even half that is considered a piece of
+information because it tells us that at least one instance of the card
+exists, or . . .  Were coppro to publish only a tiny part of eir
+report during a week, we would have to decide whether it counts as a
+valid bit of information or not.  This is unnecessary unambiguity, and
+certainly goes against the spirit of the "nonempty set of duties"
+clause (e shouldn't be rewarded for publishing only half of a report
+in any case).
+
+Accordingly, I'm going with the simpler interpretation.  One task, one
+duty.  The caller failed to complete the duty of publishing all
+information defined as part of the report, so e did not complete a
+nonempty set of duties.  FALSE.
+
+========================================================================

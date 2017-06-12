@@ -1,0 +1,43 @@
+==============================  CFJ 1817  ==============================
+
+    Win 1-10 were contests.
+
+========================================================================
+
+Caller:                                 pikhq
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by pikhq:                        02 Dec 2007 23:39:06 GMT
+Assigned to root:                       03 Dec 2007 12:45:20 GMT
+Judged FALSE by root:                   05 Dec 2007 00:42:26 GMT
+
+========================================================================
+
+Judge root's Arguments:
+
+The statement in CFJ 1816 is not clear regarding the intended context
+for the referenced definition of "dependent contracts".  My initial
+assumption upon reading the statement was that the context is the
+ruleset, and so that's the interpretation I will use for this
+judgement.
+
+Apart from partnerships, the rules grant contracts the ability to
+assign binding requirements upon their members, nothing else.
+Contracts are free to use definitions from the rules in describing
+those requirements, but there is no indication that the rules do or
+should incorporate definitions that are managed by contracts.  I
+therefore find CFJ 1816 FALSE.
+
+Based on this, I find that pikhq succeeded in creating several
+contracts that e deems to be dependent, but not in creating any
+contracts that are dependent as required by Rule 2136.  These
+contracts therefore do not meet R2136's definition of contest, so CFJ
+1817 is FALSE as well.
+
+========================================================================

@@ -1,0 +1,254 @@
+==============================  CFJ 2437  ==============================
+
+    Goethe recently flipped the Caste of at least 2 players to Alpha.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+Appeal:                                 2437a
+Decision:                               REMAND
+
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       01 Apr 2009 14:20:17 GMT
+Assigned to scshunt:                    02 Apr 2009 02:53:34 GMT
+Judged TRUE by scshunt:                 02 Apr 2009 04:08:13 GMT
+Appealed by root:                       02 Apr 2009 05:23:30 GMT
+Appealed by omd:                        02 Apr 2009 10:39:25 GMT
+Appealed by Wooble:                     02 Apr 2009 12:00:49 GMT
+Appeal 2437a:                           02 Apr 2009 12:00:49 GMT
+REMANDED on Appeal:                     09 Apr 2009 17:00:01 GMT
+Assigned to scshunt:                    09 Apr 2009 17:00:01 GMT
+Judged FALSE by scshunt:                11 Apr 2009 06:42:51 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The obligation is assigned to the *office*, not to the
+player who holds it.  Now, a player who holds an office can violate
+R2143 by failing to perform the duties assigned to an office e holds,
+but the office's obligation to perform some action is satisfied when
+either the officer or a person deputising for the office (note: *not*
+for the officer, but for the office) performs the action.  R2211's
+wording strongly suggests that the office SHALL perform the caste
+flipping procedure only once (and if not, OscarMeyr may be subject to
+an infinite number of NoVs for not continuously performing the
+procedure, although the UNAWARE criterion for NOT GUILTY would
+obviously apply); once this is satisfied further attempts to deputise
+would fail (or, if done by the holder of the Grand Poobah office,
+would be ILLEGAL.)
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+1.  R2160 is very specific that the only thing done "as if" an office
+were held was the *action* itself.  Not fulfilling duties of the office,
+and certainly not actually holding the office.
+
+2.  If the obligation is assigned to an office as the caller argues,
+the only way it can be fulfilled is if the officer does the action.
+R1006 is specific that there can be at most one officer.  Therefore
+when a deputy deputizes for a held office, e cannot fulfill a duty
+assigned to the office.  (It could work when deputizing for a vacant
+office, but that would mean two inconsistent mechanisms for
+deputization depending on whether an office was vacant or not).  If
+the deputy gains the office momentarily and fulfills the obligation,
+what removes em and re-installs the original officer?
+
+3.  The caller's assertion that "the office's obligation to perform
+some action is satisfied when ... a person deputising for the office
+performs the action" is only weakly construed by possibly trivial
+grammatical distinctions in R2143.
+
+4.  R2211's implication is neither here nor there; the deputisation is
+a specific and direct legal loophole around this.
+
+Therefore, I think the most reasonable assertion is as follows from
+a previous discussion thread below, note the conclusion that the
+officer can perform the duty even *after* the deputy performs it, and
+the proposed legislative fix (that never happened):
+
+On Mon, 9 Mar 2009, Ed Murphy wrote:
+> Goethe wrote:
+>
+>> Ok, it may be more broken than that.  Recent CFJs have held that a breach
+>> of the rules related to missing a time limit occurs at the moment a time
+>> limit is passed.  Once that time limit is passed, if the officer does the
+>> job anyway (late), e still has broken the rule.
+>>
+>> Which means that, once the time limit is passed, the officer is no
+>> longer required to perform the action.  E is punishable for eir
+>> past failure to do, but since e breaks no more rules by continued
+>> failure, the rules are not requiring em to do it.
+>>
+>> Which means that R2160(a) and (b) can *never* be true simultaneously.
+>>
+>> Thoughts?
+>
+> Already judged as non-broken (CFJs 2120-21), unless the relevant
+> rules have changed sufficiently since then (August 2008) that this
+> interpretation no longer holds up.
+
+Ah, this helps.  It answers ais523's CFJ as well, perhaps.  Judge Woggle
+said that a "SHALL", once the time limit has passed, becomes an "open-ended
+obligation".  Which means that if (a) the Officer doesn't do it on time
+and (b) the Deputy does it then (c) the Officer is *still* required and
+able to do it (a second time after the deputy does).  Though the Officer
+has no time limit on doing so (and so can't be punished - therefore this
+new open-ended obligation doesn't violate R101vi).
+
+But this implies that said open-ended obligation is required to exist
+for the deputy to do it, and so if the officer does it after the time
+limit expires (but before the deputy), the open-ended obligation ends,
+and then the deputy is no longer able to do it as the rules no longer
+require it, as necessary for R2160(a).  Thus resulting in a FALSE for
+this CFJ.
+
+So I think CFJ 2120 implies that ais523's caller's arguments are
+incorrect, and everything works fine?  Except that this way, the Officer
+CAN still do something a second time after a deputy does it.  This one
+is easy to fix if we (and the court) agrees this is what's going on,
+by inserting a simple "if a deputy performs the action, the Officer is
+relieved of the requirement to perform it" in the Rule.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The obligation to perform an action must be tied to an office and not
+the holder, as the caller says. Otherwise, R2160(d) would block
+performance of a {CAN and SHALL} action in an empty office - tradition
+dictates that this is not the case.
+
+This case, however, allows the Poobah to adjust caste whenever,
+regardless of obligations. As such, R2160(d) is satisfied.
+
+R2160(b) and (c) are trivially satisfied.
+
+R2160(a) specifies {if the rules require the holder of the holder of
+that office, by virtue of holding that office, to perform the action}.
+The rules do require the Poobah to perform promotions and demotions,
+regardless of whether the obligation has been fulfilled. Therefore
+R2160(a) is satisfied.
+
+As such, I find that this case is TRUE.
+
+========================================================================
+
+Appellant root's Arguments:
+
+I intend to appeal the judgement in CFJ 2437 with 2 support.  I find
+this precedent rather disturbing, as I doubt that the rules make that
+same distinction.
+
+Case in point:  MMI happens to give us an actual working definition
+for (all-caps) "REQUIRED" as meaning "Failing to perform the described
+action violates the rule in question."  This definition isn't mandated
+for non-all-caps require, but it is strongly recommended.  So R2160a
+SHOULD be read in this case as "a player provisionally can deputise to
+perform the actions described by R2211 if the holder of the office of
+Grand Poobah would violate R2211 by failing to perform the same
+actions"; which is essentially Goethe's argument.
+
+It seems clear from this that what the rules view as requirement and
+what you view as obligation are the same thing.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I support.  This thread is confusing but for something to be made
+REQUIRED and ILLEGAL by the same clause...?
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The fundamental question here is whether or not R2160 was satisfied for
+the purposes of the actions Goethe performed.
+
+R2160 requires 4 conditions to be met to allow a player to perform the
+action, and I will evaluate each of these in reverse order.
+
+Condition (d) is trivially true; the Grand Poobah CAN make arbitrary
+changes to caste.
+
+Condition (c) is not relevant, the office was not at the time held by an
+active player.
+
+Condition (b) is satisfied by the office being vacant.
+
+Condition (a) is the only one to which debate can be raised. The
+question is whether or not the rules require the Grand Poobah to, after
+having possibly flipped BobTHJ's caste, flip a player's caste to Alpha?
+
+Now, a point of interpretation is important here. Condition (a) is
+worded in a way such that it is not clear as to whether or not the
+requirement is evaluated empirically or not - that is, without regards
+to changing circumstances. The Grand Poobah is required to, as soon as
+possible after the beginning of the month, make caste changes. Does this
+mean that a deputy, in performing the changes, discharges the obligation
+in such a way that Condition (a) is no longer satisfied?
+
+Agoran tradition is generally insufficient at providing a good ruling
+for this. In most cases, obligations for offices (and indeed,
+obligations generally) that authorize specific action authorize so as a
+part of the obligation - the ability to perform the action disappears as
+the obligation does. As such, condition (d) usually stops an attempt to
+deputize before condition (a) is tested. The Grand Poobah is a special
+case, as the action is always possible, but only to the holder of the
+office.
+
+There does, however, exist one useful bit of judicial precedent. In CFJ
+2120, Judge woggle ruled that an obligation with a fixed time period is,
+if violated, converted to an open-ended one to allow the officer or a
+deputy to complete the action. Since deputization functions in a
+situation where the obligation exists, but not through the rules, it
+suggests that the correct interpretation of condition (a) is that it is
+satisfied whenever an obligation exists for the officeholder to perform
+the action, not just when the rules would require such an action to be
+performed.
+
+This leads to another question: did such an obligation exist that
+Goethe, through deputization, could fulfill? Initially, there most
+certainly did, but it is possible that the promotion of BobTHJ to Alpha
+discharged the obligation. It is also possible that since the obligation
+is tied to the officeholder, and not the office, the obligation was not
+discharged and remained, allowing Goethe to repeatedly promote players
+to Alpha.
+
+I refer to my arguments used in the prior judgment of this case.
+Condition (d) of R2160 states that a deputization can be performed only
+if the player could perform the action for which e is deputizing if e
+held the office. Now, if the obligation is a CAN and SHALL obligation -
+that is, one that provides the sole mechanism by which the action can be
+performed, then with obligations tied to a specific officeholder, we
+would find that the deputy, if holding the office, would not have the
+obligation and thus ability to perform the desired action. Since Agoran
+tradition shows that deputies can indeed perform such actions, the
+obligations must therefore be placed upon the office itself and not upon
+any specific player holding the office.
+
+I also note that Goethe may possibly not have succeeded in promoting
+BobTHJ to Alpha if the Grand Poobah is required to fulfill the
+obligations as a whole and not as units. This is a minor point, and
+utterly irrelevant to the case at large, since if that was impossible,
+then every subsequent flip to Alpha was also most certainly impossible.
+
+Based on this logic, I find that Goethe did indeed discharge the Grand
+Poobah's obligation to promote a player to Alpha and that as such e
+could no longer deputize for the office. I judge FALSE
+
+========================================================================

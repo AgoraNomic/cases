@@ -1,0 +1,117 @@
+=========================  Criminal Case 2665  =========================
+
+    coppro violated power=2 rule R2259 by deputizing for the Anarchist
+    to deal emself cards before hand limits had been enforced for the
+    month.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by scshunt:                      16 Aug 2009 18:51:23 GMT
+Defendant scshunt informed:             16 Aug 2009 18:51:23 GMT
+Assigned to ais523:                     18 Aug 2009 23:31:14 GMT
+Judged NOT GUILTY by ais523:            24 Aug 2009 06:59:05 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Roger Hicks wrote:
+> coppro deputized for the Anarchist to deal emself cards from the deck
+> of change. This violated the SHALL NOT in R2259. I'm really not sure
+> if this should be called against coppro or allispaul.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+I cannot possibly have violated R2259. It is possible the deals
+platonically failed (and were subsequently ratified, which would leave
+me with outstanding deals), but not that they were illegal. The rules
+for deputisation do not, in my view, cause any other corollary
+obligations to be imposed on the deputy.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Rule 2259:
+{{{
+      The dealer SHALL NOT
+      deal any cards to any entity between the beginning of the month
+      and performing this duty for all entities.
+}}}
+Rule 2160:
+{{{
+      Any player (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if all of the
+      following are true:
+}}}
+
+coppro wrote (on 8 August):
+{{{
+I deputize for Anarchist to deal myself two Distrib-u-Matic cards and
+one Committee card.
+}}}
+
+coppro's arguments (not attached to this CFJ yet for some reason):
+{{{
+I cannot possibly have violated R2259. It is possible the deals
+platonically failed (and were subsequently ratified, which would leave
+me with outstanding deals), but not that they were illegal. The rules
+for deputisation do not, in my view, cause any other corollary
+obligations to be imposed on the deputy.
+}}}
+
+Nowhere in the deputisation rules does it suggest that it's impossible
+to deputise for an illegal action; they require the action to be
+possible, but not necessarily legal. Therefore, I don't think coppro's
+"cannot possibly have violated" is correct. So the only remaining
+questions are to whether the deals platonically failed (which would
+happen if the obligations had never been incurred), and to whether
+deputising for an illegal action is illegal.
+
+At the time, everyone was pretty sure that the cards were in fact owed;
+and in the absence to evidence in the contrary, I conclude that coppro
+was in fact owed three draws from the deck in question. (And also that
+the cards in question were chosen at random; this is impossible to
+verify, and leads to the cards platonically not having been created if
+they weren't, which is likely quite a large problem, but one that need
+not be considered here.) So the remaining question is, do rules apply
+that apply to officers also apply to deputies?
+
+The answer to this can only be that they do; deputisation is done as if
+one held the office, so for the purpose of working out the
+possibility /and legality/ of the deputisation, the rules must be
+calculated as if the deputy held the office. In this case, coppro dealt
+the cards, and coppro hadn't performed the duty in question for all
+entites before dealing the cards, so there's a pretty clear violation.
+There's also a bug here, though; suppose coppro had performed the duty
+in question; it would then be illegal for allispaul to deal the other
+people their remaining cards (due to it not having been em who performed
+the destruction duty!). Rule 2259 should probably make it illegal to
+deal cards before anyone has performed destruction, rather than before
+that player has performed destruction.
+
+So, the rule was violated; is it plausible to consider that coppro might
+reasonably have thought that the rule had not been violated? It's
+certainly plausible that coppro might have drastically misread a rule
+(it's happened in the past), so the matter remains as to whether it's
+reasonable. (It's also worth noting that coppro called the CFJ at II 2,
+implying that e thought there was some controversy involved.) Given that
+nobody contested the high II of the case, nor submitted arguments trying
+to refute coppro's, it seems that this view was generally held to be
+reasonable (or at least, nobody cared enough to claim it was
+unreasonable); therefore, I judge CFJ 2665 NOT GUILTY on the basis that
+coppro probably held a reasonable belief that e was not breaking the
+rule.
+
+========================================================================

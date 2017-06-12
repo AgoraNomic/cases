@@ -1,0 +1,97 @@
+==============================  CFJ 2330  ==============================
+
+    On or about December 28, 2008, ais523 achieved a Win by Points.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  harblcat
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       07 Jan 2009 00:16:46 GMT
+Assigned to harblcat:                   08 Jan 2009 06:56:39 GMT
+harblcat recused:                       15 Jan 2009 08:12:36 GMT
+Assigned to Wooble:                     15 Jan 2009 08:29:26 GMT
+Judged FALSE by Wooble:                 16 Jan 2009 15:12:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Up until now, I forgot that comex was in the chokey/had Rests (or did he
+buy them all off? I can't remember), thus was prevented from winning.
+I'm not entirely sure what difference that makes to the win, or to the
+win-by-points cleanup.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+comex purported to make a number of contracts contests with emself at
+the contestmaster 4 days after the start of the Holiday.  The issue at
+hand is whether R1769 is to be interpreted such that the intent to
+perform a dependent action without objection can be announced after
+the action has occurred during the holiday.
+
+The relevant section of R1728 says a person CAN perform an action
+dependently if, among other things:
+
+       b) A person (the initiator) announced intent to perform the
+          action, unambiguously and clearly specifying the action and
+          method(s) (including the value of N for each method), at
+          most fourteen days earlier, and (if the action depends on
+          objections) at least four days earlier.
+
+and the portion of R1769 pertaining to timing of actions says:
+
+      If some Rule requires that an action be done prior to a given
+      time, and that given time falls during a Holiday, or within the
+      72-hour period immediately following that Holiday, then that
+      action need not be done until 72 hours after that Holiday ends.
+
+      If some Rule bases the time of a future event (including the
+      time limit to perform an action) upon the time of another event,
+      and
+
+      a) that other event occurs during a Holiday, then the time at
+         which that Holiday ends shall be used instead for the purpose
+         of determining the time of the future event.
+
+      b) the future event would occur during a Holiday, then the
+         future event occurs 72 hours after the end of that Holiday
+         instead.
+
+      This Rule takes precedence over all Rules pertaining to the
+      timing of events, and over all Rules which require events to be
+      performed before a specified time.
+
+
+What does it mean for a Rule to require that an action be done prior
+to a given time?  R2152 stipulates that we SHOULD use it's definition
+of "required", which is that failing to perform the described action
+violates the rule in question.  Performing an action dependently
+without first announcing intent generally does not violate Rule 1728;
+rather it is IMPOSSIBLE to perform the action in question.  So the
+first R1769 paragraph quoted above does not apply.
+
+Now, does R1728 base the time of a future event upon the time of
+another event?  Arguably, yes.  When you announce your intent to
+perform a dependent action (the "other event"), we may say that the
+time limit to perform that action (the "future event") is based on the
+time the intent was announced.  (It could be argued that there is in
+fact no "time limit" created here since the person announcing the
+intent is not required to perform the action at all, but this is a
+shaky reading at best and won't be considered for the purposes of this
+ruling.)  In this case, the time limit would be 14 days after 28 Dec.,
+or 11 Jan., which falls outside the Holiday.
+
+========================================================================

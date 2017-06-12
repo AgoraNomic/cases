@@ -1,0 +1,110 @@
+==============================  CFJ 3208  ==============================
+
+    A rule-defined entity's name generally CAN be initialized to be the
+    same as another rule-defined entity's name.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          05 May 2012 02:16:06 GMT
+Assigned to ais523:                     26 May 2012 01:55:49 GMT
+Judged FALSE by ais523:                 01 Jun 2012 23:23:08 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This pair of annotations, which I just realized I forgot to
+upload when I wrote them a month ago:
+
+[CFJ 2981 (called 21 March 2011): An instrument is not "modified" when
+an initial value is set for an attribute.]
+
+[CFJ 2945 (called 22 December 2010): An instrument is "modified" when
+an attribute is removed.]
+
+I think the idea that initialization is not a "modification" or
+"change" is bogus.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+The annotations are not quite right (though, to be fair, my judgement in
+CFJ 2981 was also insufficiently clear).  Rule 2140 (c) doesn't talk
+about modifying an instrument, it talks about modifying an aspect of an
+instrument; and the idea behind CFJ 2981 was that you can't modify
+something that doesn't yet exist.  (Rule 2140 now says "set or modify",
+but "set" was added after CFJ 2981.)
+
+In the situation described in the statement of this case, if the second
+sentence of Rule 1586 doesn't apply, then the first sentence does, thus
+negating the "another" part in the process.  I'm not sure what judgement
+is appropriate for that.
+
+Incidentally, I could have judged CFJ 2981 the same way for a different
+reason, interpreting that the Rulekeepor assigns the ID number to be
+set but Rule 2141 actually sets it.  (This is now moot, as Rule 2141 now
+declares precedence over Rule 2140.)
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Erm, you're right, but that applies to both cases.  In 2945, G.
+said "more generally it's worth stating as a precedent that removing a
+property from an entity does in fact count as a "change" of the
+property for that entity".
+
+========================================================================
+
+Judge ais523's Arguments:
+
+To start with, there's plenty of precedent that modifying an attribute
+of something, and creating something in a particular state, are separate
+occurrences. The Threat Trombones scam (before the start of Murphy's CFJ
+archive so I can't easily give numbers) relied on this fact, although it
+failed for unrelated reasons. I had CFJ 2595 in particular in mind,
+although it doesn't seem quite directly relevant (because the rules in
+question had equal power, so the "changes are secured" phrase was
+irrelevant and so wasn't mentioned in the judgement). Likewise, the
+argument that creation is the same as modification could have been
+brought up in CFJ 1936 (and probably would have been if people thought
+it was viable, because it would have been a simple way to block a scam).
+As such, the clause of rule 1586 against changing a rule-defined entity
+to have the same name as another is irrelevant here.
+
+However, rule 1586 also holds that two attempts to define rules-defined
+entities with the same name define the same entity. Attempting to create
+a rules-defined entity with the same name as another (i.e.
+"initializing" its name to clash with the name of another entity)
+clearly triggers this cause, causing the rules to define the same entity
+rather than two different entities. As such, the "another" part of the
+statement cannot hold; trying to initialize a rules-defined entity's
+name to be the same as another rules-defined entity's name fails because
+the two resulting entities are, by definition, the same (and if their
+definitions contradict each other, then precedence between rules will
+come into play). (Possible exception: if a rule that takes precedence
+over 1586 insists on creating two different entities with the same name,
+it will of course succeed. But I don't think any rules are trying to do
+that at the moment.)
+
+So indeed, initialization is not modification, there's plenty of
+precedent for that. (You can create a player in a registered state
+without registering it, etc.; thus, the Registrar's reports of golems
+"registering" are a bit misleading, Golems can't register because they
+can't exist in a non-registered state.) But you can't create two
+rules-defined entities with the same name either.
+
+I judge CFJ 3208 FALSE, and intend, with 2 support, to make CFJ 3208
+Notable.
+
+========================================================================

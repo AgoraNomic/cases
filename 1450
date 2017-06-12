@@ -1,0 +1,129 @@
+==============================  CFJ 1450  ==============================
+
+    A fee may be paid by announcement.
+
+========================================================================
+
+Caller:                                 Maud
+
+Judge:                                  Sherlock
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Maud:                         05 Mar 2003 02:09:43 GMT
+Assigned to Sherlock:                   10 Mar 2003 06:48:15 GMT
+Judged TRUE by Sherlock:                12 Mar 2003 14:18:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1941/0 (Fees) states that a fee may be paid by transferring an
+appropriate quantity of currency to the bank for just that purpose.
+Rule 1598/12 (Property Transfers) states that submitting a document
+putting forth the intent to transfer (and specifying the properties
+to be transferred) is a notice of transfer. A message with the form
+
+      I pay 5 Snoggles in order to call for arbitration on CFJ 676.
+
+sets out the intent to transfer 5 Snoggles to the Bank, and thus it
+constitutes a notice of transfer if sent to the right recordkeepor.
+Hence by sending such a message, the sender accomplishes the action
+required to be performed to pay the fee; thus the fee is paid.  But
+there is nothing special about the particular case considered; thus
+it follows that paying any fee may be accomplished by announcement.
+
+========================================================================
+
+Caller's Evidence:
+
+1. Rule 1598/12 (Property Transfers; Power=1)
+2. Rule 1941/0 (Fees; Power=1)
+
+---------------------------------------------------------------------
+
+1.
+
+Rule 1598/12 (Power=1)
+Property Transfers
+
+      (a) A Notice of Transfer is a message which sets forth the
+          intent to transfer one or more Properties from one entity
+          (the "transferor") to some other entity (the "transferee").
+
+      (b) A valid Notice of Transfer must additionally:
+          (1) specify one or more Properties all of which are owned by
+              the transferor; and
+          (2) be sent by the Executor of the transferor, or by a
+              Limited Executor of the transferor with the authority to
+              execute transfers on behalf of that entity with respect
+              to all of the Properties involved.
+
+      (c) A transfer of a Property occurs only when its Recordkeepor
+          receives a valid Notice of Transfer.
+
+      (d) The effect of a transfer of Properties is to cause the
+          transferor to cease to possess the Properties transferred,
+          and simultaneously to cause the transferee to possess them.
+
+      (e) The Recordkeepor of a Property shall maintain a record of
+          all transfers of that Property. E shall retain a record of
+          each Notice of Transfer which e receives (whether valid or
+          not) involving that Property. E shall retain this record of
+          each Notice of Transfer for at least four weeks after its
+          receipt.
+
+      (f) If the transferor transfers Property to the transferee with
+          the purpose of satisfying a debt, or of paying the Fee
+          associated with performing an action, but the debt does not
+          exist, or the action is not successfully performed, then the
+          transferor may publicly demand the return of the Property.
+          The effect of such a demand is to cause the transferee to
+          incur a debt to the transferor for the Property transferred.
+
+---------------------------------------------------------------------
+
+2.
+
+
+Rule 1941/0 (Power=1)
+Fees
+
+      A Fee is a specific quantity of some particular Currency
+      explicitly designated as such by the Rules. To Pay a Fee is
+      to transfer the specified quantity of that particular Currency
+      to the Bank if and only if that transfer is made solely for
+      the purpose of Paying that particular instance of that Fee.
+
+      If the Rules specify that a particular action is associated
+      with a Fee, or that a Fee is required for a particular action,
+      then the entity performing the action shall Pay the Fee either
+      before performing said action (but not more than 72 hours
+      beforehand) or in the same email as the action is performed,
+      else the action shall not occur.
+
+========================================================================
+
+Judge Sherlock's Arguments:
+
+R754 states:
+
+      Differences in spelling, grammar, or dialect, or the
+      substitution of a word or phrase by a synonym or abbreviation,
+      are inconsequential in all forms of Nomic communication,
+
+This is important, as R1941 defines the action "Pay a Fee" as being a
+synonym for "to transfer the specified quantity of that particular
+Currency to the Bank".  Therefore, I see no difficulty in allowing the
+syntax the Caller uses: "I pay 5 Snoggles in order to...".  It should be
+obvious per R1940 what this action is -- a transfer of 5 Snoggles.   As
+long as the intent of the entity paying the fee is clear, I believe the
+Caller is correct, and the sender does not need to actually state that
+e transfers the currency.
+
+Therefore, I return a judgement of TRUE.
+
+========================================================================

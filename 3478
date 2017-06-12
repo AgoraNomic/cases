@@ -1,0 +1,151 @@
+=============================  CFJ 3478  =============================
+
+    蘭亭社's highest allowable budget for a single player is 50.
+
+======================================================================
+
+Caller:                      o
+
+Judge:                       ais523
+Barred:                      天火狐
+Judgement:                   DISMISS
+
+======================================================================
+
+History:
+
+Called by o:                 27 Apr 2017
+Assigned to ais523:          28 Apr 2017
+Judged DISMISS by ais523:    29 Apr 2017
+
+======================================================================
+
+Caller's Arguments:
+
+I present no arguments, largely out of spite.
+
+======================================================================
+
+Caller's Evidence:
+
+The following is my judgement on CFJ 3478. The sections inside {{{}}}
+quoting are evidence, and the rest is arguments, but it's likely most
+convenient to just copy the entirety of the rest of the post as is.
+
+Also as a note: I based this reasoning off the version of the relevant
+Charter in the most recent monthly Secretary's report. It's possible
+that this version is outdated, in which case some of the conclusions
+may be incorrect.
+
+The main confounding/confusing factor here is that the Charter is in
+Japanese, a language that was until recently not commonly used in
+Agora. There are some past precedents on the subject; CFJ 1439 held
+that taking game actions in non-English languages was possible, but CFJ
+1460 held that doing so is sufficiently unclear to make the action fail
+due to inclarity unless the audience of the action understands the
+message.
+
+So what test should we use here? The obvious test, to me, is to see if
+the Charter can be understood by a non-Japanese-speaker with ordinary
+effort. Knowing virtually no Japanese grammar or vocabulary myself, the
+easiest way to determine this was for me to attempt to deduce its
+meaning.
+
+The first thing that can be noted in the Charter is a long list of
+English phrases followed by Japanese phrases, which are clearly
+definitions. A machine translation of the heading gives us
+"1. In this charter, the terms on the same line below are equivalent.",
+which supports this view (and in fact is very clear for a machine
+translation; the sentence would have the desired effect even if it had
+been written directly). Despite my lack of understanding Japanese
+words, this makes it possible to copy-and-paste the definitions from
+the Charter, giving the following text for the remainder of the
+Charter:
+
+{{{
+2. 当Organizationの正式名称は「蘭亭Organization」で、「ランテイシャ」と読みます。
+3. 当OrganizationのメンバーならないAgoraPlayerは自分Budget
+Switchが１～５０にFlipことによって弊Organizationのメンバーになり得ます。
+4.
+当OrganizationはAgoraPlayerの一員です。当Organizationが滅びずに登録を解除することがIMPOSSIBLEです
+。
+5. このCharterに記載されていない弊Organizationに影響を及ぼす行為は全部相応しくないです。
+6.
+Appropriate修正箇条とは他のメンバーが日本語に反対していないでメンバーが４～１４日前AnnouncementしたCharterの修正
+箇条です。
+7. すべてメンバーは自分Budget Switchが低い値にFlipことがAppropriateです。
+8. 当OrganizationはメンバーがAnnouncementで賛成することによってスタンスを発表し得ます。賛成者Budget
+Switchより反対者Budget Switchのほうか多ければスタンスが撤廃します。
+9. メンバーの間で紛争はリーチ麻雀の東南戦によって解決されるべきであります。
+}}}
+
+It's possible to guess what some of these lines are likely to mean even
+without a machine translator; for example, line 2 and line 6 have a
+very familiar form to people aware of Organization conventions. Here's
+what a machine translation of the text in question looks like:
+{{{
+2. The official name of this Organization is "Orchido Organization" and
+reads as "Rantaisha".
+3. AgoraPlayer which is not a member of this Organization can be a
+member of our organization by Fliping your Budget Switch to 1 to 50.
+4. This Organization is a member of AgoraPlayer. It is IMPOSSIBLE that
+we cancel registration without destroying our Organization.
+5. All actions that affect our organization not listed in this Charter
+are not suitable.
+6. Appropriate correction clause is a correction clause of Charter who
+members announced 4 to 14 days ago without opposing Japanese.
+7. All members are Appropriate that their Budget Switch flips to a
+lower value.
+8. This Organization can announce the stance by members agreeing on
+Announcement. If you are more opponent Budget Switch than the proponent
+Budget Switch, the stance will be abolished.
+9. Conflict among members should be resolved by Reach Mahjong's
+Southeast Battle.
+}}}
+
+There are plenty of lines which are potentially ambiguous; for example,
+paragraph 5 machine-translates as "suitable", and uses the characters
+｢相応し｣ to represent the word (as opposed to ｢相応しい｣, which is defined to
+mean "Appropriate"). However, some experimentation shows that when the
+word is followed by ｢くない｣, the final ｢い｣ is dropped (both incorrect
+combinations are flagged up as a typo by the autocorrect on the machine
+translator I'm using, which is about as clear a message as a computer
+can give on the subject). As such, it seems most reasonable to
+interpret ｢相応しくない｣ as meaning "Inappropriate", even if this definition
+cannot be determined via a simple matching of character sequences in an
+editor. (It can also be observed that this ambiguity does not matter at
+all; actions relating to Organizations are Inappropriate by default,
+and thus it makes no difference whether paragraph 5 is interpreted as
+meaningful or meaningless; the same result would be obtained either
+way.)
+
+However, some lines are very clear. Line 3, for example, is a very
+clear statement of possibility for a Budget switch flip. Unfortunately,
+it does not use the word "Appropriate" anywhere, neither in its
+English form, nor anything resembling the specified Japanese
+translations 
+｢ふさわしい｣ or ｢相応しい｣. An Organization merely stating that something is
+possible has no effect; it needs to specify that the action is
+Appropriate. As such, I conclude that there's no actual way to join
+this Organization.
+
+Hopefully, this analysis resolves whatever the caller's question
+actually was. The question itself, though, is woefully unclear (besides
+the unclear meaning of "allowable", which is being determined in CFJ
+3477 at the moment and for which "meaninglessly ambiguous" is a
+plausible outcome, there's the issue that the maximum possible value to
+which the relevant Budget switch could be flipped is higher for 天火狐
+than it would be for anyone else, and unlike CFJ 3477, the question
+wasn't asked in the context of any particular player). Given that the
+underlying issue has (hopefully) been resolved, and that the question
+does not clearly admit a true-or-false answer, I assign the judgement
+DISMISS to CFJ 3477. (And let this be a reminder that CFJs are mostly
+valuable for the reasoning that goes into the judgement, not for the
+judgement itself.)
+
+(On an unrelated note, I point out that 蘭亭社's charter has an annoying
+mix of halfwidth and fullwidth spaces. I'm vaguely tempted to inquire
+as to whether that's tricked the Secretary into Making My Eyes Bleed by
+proxy.)
+
+======================================================================

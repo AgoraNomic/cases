@@ -1,0 +1,301 @@
+==============================  CFJ 1285  ==============================
+
+    Between the time of the creation of the "Enrich the Contestmaster"
+    Contest and this CFJ, Syllepsis, Ziggy, and Steve each successfully
+    lowered the number of Stems they possess by 50, thus paying the
+    Entry Fee for the Contest and successfully increasing the number of
+    Stems possessed by the "Enrich the Contestmaster" Contest (in the
+    Contest Fund) by 150 (total).
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 lee
+
+Judge:                                  Kelly
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           20 Mar 2001 01:23:01 GMT
+Assigned to Kelly:                      20 Mar 2001 02:47:16 GMT
+Judged FALSE by Kelly:                  22 Mar 2001 16:54:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1539 states
+     "The Regulations [of a Contest] can specify... The amount of
+     the Entry Fee for the Contest, in the form of units of any
+     specific Currency."
+
+and further that
+     "A Player becomes a Contestant by notifying the Contestmaster and
+     paying the prescribed Entry Fee to the Contest Fund."
+
+Clearly, Stems are one of the set delimited by "any specific Currency"
+as Stems are a specific Currency, and "any" means, well, "any".
+Therefore, looking at #1539 in isolation, the Entry Fee (distinct from
+a "Fee" defined in #1941, as it is not payed to the Bank)  may be in
+Stems, and is payed to the Contest Fund.
+
+The only reasonable interpretation for the effect of "paying an Entry
+Fee" to an entity is that the holdings of the payer (in units of the
+paid Currency)  are decreased by the indicated amount, and the
+holdings of the payee (in units of the paid Currency) are increased
+by the indicated amount. Anything else would require a radical
+redefinition of the idea of "paying". Regulation 102 of the "Enrich
+the Contestmaster" Contest is within the Rules when it decares this
+Entry Fee.
+
+But is such a payment allowed?  Rule 1910 states that:
+      "Transfers of Stems are permitted only if either the transferor
+      or the transferee is the Bank. All other transfers of Stems are
+      prohibited."
+
+Looking at #1539 and #1910 together, either
+ (a) "paying the prescribed Entry Fee to the Contest Fund" in 1539
+     is not a "Transfer" of Stems as per 1910, but a distinct type
+     of (permitted by the Rules) payment to the Contest Fund, or
+ (b) Rule 1539 ("Regulation and Membership of Contests") conflicts
+     with Rule 1910 ("Stems").  In this case, as both 1539 and 1910
+     have Power=1, 1539 has precedence over 1910 (by Rule 1030).
+
+So in EITHER case (a) or (b), Stems may be payed to a Contest Fund by
+a Contestant, if the Regulations of the Contest set Stems as an
+Entry Fee.
+
+In the Contest "Enrich the Contestmaster", the prescribed Entry Fee set
+forth by the Regulations is clearly 50 Stems.  Messages to the PF, in
+conjunctions with the Regulations of this Contest (see Caller's Evidence)
+clearly indicate that Syllepsis, Steve, and Ziggy, in the words of 1539,
+"payed the prescribed Entry Fee to the Contest Fund."  Thus, each of
+their Stems holdings should be decreased by 50, and the Stem holdings
+of the "Enrich the Contestmaster" Contest Fund should be increased by
+150 (total).  I present no arguments to judge whether or not this should
+be considered a "Transfer" as per 1910.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1539/1 (Power=1)
+Regulations and Membership of Contests
+
+      No Player within Jurisdiction of a Contest's Regulations is
+      bound to obey any Regulation or combination of Regulations that
+      conflict with the Rules.
+
+      The Regulations can specify the following:
+
+        i) How a Contestmaster is replaced. No person may become
+           Contestmaster without eir consent.  If left unspecified,
+           the Contestmaster cannot change while the Contest exists.
+       ii) How the Currencies in the Contest Fund shall be spent.  If
+           this is not specified, they may only be spent when the
+           Rules require it.
+      iii) The amount of the Entry Fee for the Contest, in the form of
+           units of any specific Currency.
+       iv) Additional restrictions on Players to become Contestants,
+           and conditions under which Contestants cease to be
+           Contestants.
+
+      A Player becomes a Contestant by notifying the Contestmaster and
+      paying the prescribed Entry Fee to the Contest Fund.  A
+      Contestant may quit a Contest at any time by so notifying the
+      Contestmaster.  A Contestmaster may resign at any time by
+      posting a message to that effect to the Public Forum, at which
+      time e ceases to be Contestmaster.
+
+
+Rule 1910/3 (Power=1)
+Stems
+
+      Stems are a Bank Currency. The MUQ of Stems is 1. The
+      Recordkeepor for Stems is the Payroll Clerk.
+
+      Transfers of Stems are permitted only if either the transferor
+      or the transferee is the Bank. All other transfers of Stems are
+      prohibited.
+
+      However, in the case that an Organization somehow obtains Stems,
+      it shall nevertheless be allowed to transfer those to Players,
+      as long as this is done within seven days of when the Stems are
+      obtained.
+
+Rule 1030/4 (Power=3)
+Precedence between Rules with Equal Power
+
+      If two or more Rules with the same Power conflict with one
+      another, then the Rule with the lower Number takes precedence.
+
+      If at least one of the Rules in conflict explicitly says of
+      itself that it defers to another Rule (or type of Rule) or
+      takes precedence over another Rule (or type of Rule), then such
+      provisions shall supercede the numerical method for determining
+      precedence.
+
+      If all of the Rules in conflict explicitly say that their
+      precedence relations are determined by some other Rule for
+      determining precedence relations, then the determinations of
+      the precedence determining Rule shall supercede the numerical
+      method for determining precedence.
+
+      If two or more Rules claim to take precedence over one another
+      or defer to one another, then the numerical method again
+      governs.
+
+The ACO for the "Enrich the Contestmaster" Contest:
+
+>From kerim@u.washington.edu Mon Mar 19 17:14:26 2001
+Date: Mon, 19 Mar 2001 12:15:10 -0800 (PST)
+From: Kerim Aydin <kerim@u.washington.edu>
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+To: agora-business@gecko.serc.rmit.edu.au
+Subject: BUS: ACO for a Contest (2 of 4)
+
+
+The following text is an Application to Create an Organization
+as per Rule 1533:
+
+i)    The class of the Organization is Contest.
+
+ii)   The Name of the Organization is "Enrich the Contestmaster".
+
+iii)  The SLC ("Regulations") of the Organization is as follows:
+
+      Regulations of "Enrich the Contestmaster" as suggested
+      by Rule 1539
+
+      101.  The initial Contestmaster is Goethe.  The Contestmaster
+            may be replaced by an annoucement by the
+            Contestmaster, to the PF, of a Potential Contestmaster,
+            followed by the acceptance, in the PF, of the announced
+            Potential Contestmaster.  The Potential Contestmaster
+            becomes the Contestmaster from the instant of eir
+            acceptance, provided eir acceptance occurs within
+            72 hours of the announcement.
+      102.  The amount of the Entry Fee for the Contest is 50 Stems.
+      103.  A Player becomes a Contestant by notifying the Contestmaster
+            and paying the prescribed Entry Fee to the Contest Fund.  A
+            Contestant may quit a Contest at any time by so notifying
+            the Contestmaster.
+      104.  Any Currencies in the Contest Fund shall be transferred to the
+            Contestmaster on the instant that e declares, in the PF, a
+            Contest Payday.
+      105.  When a Contest Payday is declared by the Contestmaster, all
+            Contestants cease to be Contestants.
+
+iv) Additional information possibly required in this ACO
+    (duplicated from the Regulations above):
+        -Goethe is the Contestmaster
+        -The Entry Fee is 50 Stems
+
+v)  I sign this Application.
+
+                       -Goethe
+
+
+
+E-mails announcing payment and entry of Syllepsis, Ziggy, and Steve:
+
+
+>From me@davidglasser.net Mon Mar 19 16:52:20 2001
+Date: Mon, 19 Mar 2001 18:21:46 -0500
+From: David Glasser <me@davidglasser.net>
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+To: agora-business@gecko.serc.rmit.edu.au
+Subject: BUS: Contest entry
+
+I pay an Entry Fee of 50 Stems to the "Enrich the Contestmaster" Contest
+Fund and become a Contestant in the "Enrich the Contestmaster" Contest.
+
+--Ziggy
+
+me@davidglasser.net
+
+
+
+>From gardner@silas.cc.monash.edu.au Mon Mar 19 16:52:29 2001
+Date: Tue, 20 Mar 2001 10:59:41 +1100 (EST)
+From: Steve Gardner <gardner@silas.cc.monash.edu.au>
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+To: Agora Nomic Business List <agora-business@gecko.serc.rmit.edu.au>
+Subject: Re: DIS: Re: BUS: ACO for a Contest (2 of 4)
+
+This time, to the PF:
+
+>H. Notary Peekee,
+>
+>I pay the Entry Fee of 50 Stems to the Enrich the Contestmaster Contest
+>to become a Contestant in that Contest.
+>
+>Steve
+
+
+--
+
+
+Steve Gardner                     |   Appearances to the contrary,
+Dept. of Philosophy, Monash Uni.  |  things are just what they seem.
+gardner@silas.cc.monash.edu.au    |
+
+>From syllepsis@oxford.gloop.org Mon Mar 19 16:52:46 2001
+Date: Mon, 19 Mar 2001 15:02:36 -0500 (EST)
+From: Eric Appelt <syllepsis@oxford.gloop.org>
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+To: agora-business@gecko.serc.rmit.edu.au
+Subject: BUS: Enrich the Contestmaster
+
+H. Notary Peekee,
+
+I too pay the entry fee of 50 Stems to the Contest "Enrich The
+Contestmaster" to become a Contestant in that Contest.
+
+        -Syllepsis
+
+. .:..:..://<GlooP FooD>\:..:..:. .  .
+_  .__.[http://web.gloop.org].__ ._
+     ___C.onve_R-sation..._____ __
+  .[IRC]raygun.oxford.gloop.org__.:.. .   .
+      .   . ..::.. . .:.. . .   .   .    ..EOF
+
+========================================================================
+
+Judge Kelly's Arguments:
+
+I find Taral's argument, that there is no conflict, to be quite
+compelling.  In my opinion, Rule 1539 does not authorize the payment
+of entry fees; it merely states a necessary condition to become a
+member of a Contest.  If other Rules make it impossible for that
+condition to befall, then the consequence is that no Player can join
+the Contest; such a conclusion is consistent with every Rule.  Players
+may abide by every Rule by refraining from joining the Contest; thus,
+no conflict exists.
+
+Nor does it seem reasonable to me to conclude that the term "pay" in
+Rule 1539 should be read as a "pseudotransfer" having all the effects
+of a Transfer but not actually being a Transfer.  The Rules
+consistently (as pointed out by Oerjan) use the term "pay" to refer to
+a transfer of Currency (or, in some cases, Property) from one entity
+to another.  Rule 1598 explicitly states that a Notice of Transfer is
+the only means by which property can be transferred.  I see nothing in
+Rule 1539 that creates a mechanism for payment exclusive of that
+described in Rule 1598 or which overrides the prohibition on Stem
+transfers other than to or from the Bank contained in Rule 1910.
+
+I conclude that none of Ziggy, Steve, and Syllepsis has successfully
+executed a Notice of Transfer for the amount of 50 Stems (on the
+grounds that each such Notice of Transfer failed to "describe a
+transfer which is not otherwise prohibited by the Rules" (Rule 1598),
+specifically, Rule 1910.  Since I conclude that no such transfers have
+taken place, I further conclude none of these Players has had eir
+balances reduced by the amounts alleged, nor has the balance of the
+Contest's Treasury been augmented as alleged.
+
+Judgement of FALSE is entered.
+
+========================================================================

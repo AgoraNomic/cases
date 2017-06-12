@@ -1,0 +1,57 @@
+==============================  CFJ 2413  ==============================
+
+    If a high-power rule states that a players SHOULD interpret a
+    definition in a particular way, and a low-power rule implies that
+    that particular definition is correct (or at least that all other
+    alternative definitions are wrong), an interpretation of the
+    definition other than the one suggested by the high-power rule can
+    be correct.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  woggle
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by ais523:                       14 Mar 2009 17:03:48 GMT
+Assigned to woggle:                     16 Mar 2009 21:03:05 GMT
+Judged UNDETERMINED by woggle:          19 Mar 2009 04:08:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I suspect FALSE on this, and believe it's the flaw in
+coppro's attempted scam. The high-powered rule is suggesting that
+interpretation A is correct (but interpreting it as B does not break
+that rule if you think carefully about it beforehand), the low-powered
+rule is flat-out stating that interpretation B is wrong, and they don't
+conflict, so both rules affect the situation.
+
+For an even more stark example of this (which may not be directly
+applicable), consider a power-3 rule saying "Players MAY A. Players MAY
+B.", and a power-1 rule saying "Players MAY NOT B." In this situation, I
+believe that B is illegal (although punishments for it would be for
+breaking a power-1 rule); Bing does not break the power-3 rule, but does
+break the power-1 rule, and the power-3 rule does not make it legal. The
+statement of the CfJ is about a more complicated situation with a mix of
+SHALLs and CANs.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+It depends on the context in which the definition is being used. If
+the definition is being used in a higher-power instrument than either
+of the rules in question, then TRUE. If the definition is being used
+in a third document alongside a disclaimer about how to interpret it,
+then possibly TRUE.
+
+This is FALSE in most practical cases, however.
+
+========================================================================

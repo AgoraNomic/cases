@@ -1,0 +1,66 @@
+==============================  CFJ 1721  ==============================
+
+    The Person known to Agora as Peekee recently sent a message to the
+    Public Forum containing the text "I did not send the message."
+
+========================================================================
+
+Caller:                                 Wooble
+Barred:                                 Peekee
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Zefram
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       13 Aug 2007 09:17:42 GMT
+Assigned to omd:                        13 Aug 2007 09:22:17 GMT
+omd recused:                            21 Aug 2007 00:58:38 GMT
+Assigned to Zefram:                     21 Aug 2007 06:08:29 GMT
+Judged TRUE by Zefram:                  21 Aug 2007 12:36:00 GMT
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+My mail records show a message containing the quoted text with headers
+(among others):
+
+|Received: from yzma.clarkk.net (localhost [127.0.0.1])
+|        by yzma.clarkk.net (Postfix) with ESMTP
+|        id F20C680681; Sun, 12 Aug 2007 07:20:03 -0500 (CDT)
+|Delivered-To: agora-business@yzma.clarkk.net
+|Received: from fripp.uk-noc.com (fripp.uk-noc.com [83.223.116.130])
+|        by yzma.clarkk.net (Postfix) with ESMTP id 40FAA8067E
+|        for <agora-business@agoranomic.org>; Sun, 12 Aug 2007 07:19:20 -0500
+(CDT)
+|Received: from cpanel by fripp.uk-noc.com with local (Exim 4.63)
+|        (envelope-from <agora@peekee.co.uk>)
+|        id 1IKCPe-0002UO-Ey
+|        for agora-business@agoranomic.org; Sun, 12 Aug 2007 13:19:18 +0100
+|Message-ID: <20070812131918.g5fxwiqw56680og4@orchardhostings6.co.uk>
+|From: Peekee <agora@peekee.co.uk>
+|To: agora-business@agoranomic.org
+|Date: Sun, 12 Aug 2007 13:19:18 +0100
+
+The timing certainly qualifies as "recently" from the point of view of
+the initiation of this CFJ.  The Received: and From: headers are both
+consistent with other messages sent by the person known as "Peekee".
+
+The mail headers are, furthermore, consistent specifically with messages
+allegedly initiated by Peekee personally, and not consistent with
+messages sent via Peekee's mail-sending HTTP interface.  The finding in
+CFJ 1719 makes this distinction irrelevant, but it has the effect that
+this judgement can stand even if CFJ 1719 is overturned.
+
+All the evidence is in favour of Peekee having sent a message as
+described.  As no reason to doubt this evidence has been supplied,
+I judge TRUE.
+
+========================================================================

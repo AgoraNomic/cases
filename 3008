@@ -1,0 +1,292 @@
+==============================  CFJ 3008  ==============================
+
+    The FLR published on 12 April 2011 is incomplete.
+
+========================================================================
+
+Caller:                                 Turiski
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+
+Judge:                                  G.
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by Turiski:                      23 Apr 2011 05:50:44 GMT
+Assigned to G.:                         24 Apr 2011 03:45:44 GMT
+Judged FALSE by G.:                     26 Apr 2011 01:00:40 GMT
+Reconsideration requested by Yally:     26 Apr 2011 01:05:38 GMT
+Reconsideration requested by scshunt:   26 Apr 2011 03:11:59 GMT
+Reconsideration requested by G.:        26 Apr 2011 03:18:05 GMT
+Assigned to G.:                         26 Apr 2011 03:18:05 GMT
+Judged IRRELEVANT by G.:                26 Apr 2011 03:18:05 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The rulekeepor’s responsibilities include placing all rules in the FLR.
+
+The wording of 2141, and the annotation of 1051, suggests that giving rules ID
+numbers is less of a requirement than a duty of the rulekeepor.
+
+ehird is therefore a rule (see below).
+
+Therefore, ehird’s exclusion constitutes an incompleteness in the FLR.
+
+
+
+
+First, a comment.
+
+The wording in 2141 is very broad; and one could argue that, for instance,
+ehird is not a rule since eir content is not infinite in scope. However, most
+rules that exist currently in the FLR, which are generally agreed to be rules,
+are not infinite in scope either. It is merely their capacity to be so that
+allows them to satisfy that condition. In that vein, I will use ALTASEAOR to
+mean "at least to a similar extent as other rules" when I feel this concept
+should be emphasized.
+
+With that in mind,
+
+Eir power is two; a rational between between one and four,
+E is an instrument, as e is an entity with non-zero power,
+E has the capacity to govern the game generally ALTASEAOR,
+E is always taking effect (or equivilently "producing the effects that eir
+text describes"), assuming he is active (current-FLR-style rules have a
+similar assumption);
+
+Eir content takes the form of a text
+(It need not actually be a text according to R2141; merely take the form of
+one. This is clearly the case for ehird, and persons generally, as all Agoran
+interactions are through a text-based medium. It may be argued that ehird then
+takes the form of multiple texts. As a counter-argument, I claim that “all” of
+those texts are actually a single text which he changes; most of these changes
+happen to be additions),
+Eir content is unlimited in scope ALTASEAOR;
+
+E may define in-game entities; in particular, proposals serve as the most
+significant example of this, but by no means the only one,
+E may regulate the behavior of those entities ALTASEAOR,
+E may make instantaneous changes to the state of in-game entities ALTASEAOR;
+
+E may prescribe player behavior (def: "to lay down as guide, direction, or
+rule of action"),
+E may proscribe player behavior (def: “to denounce or condemn”),
+E may modify the rules or the application thereof (through proposals); and
+
+E may do any of the above things in a conditional manner.
+
+E may not have a title, but "If a rule ever does not have a title" is very
+strong evidence that this is not a requirement for rule-ness. Alternatively, e
+may have the title "ehird" or "Elliot Herd"
+
+Thus, e satisfies all the R2141 conditions for being a rule except for having
+an ID number. As stated above, context implies this is not a requirement on
+the entity, but on the Rulekeepor.
+
+
+Further notes:
+This does not conflict with 105. Persons, not merely players, have power 2,
+and are therefore Instruments (however, they are not rules for many reasons -
+one being that they may not make instantaneous changes to in-game entities).
+But, by 105(a), Instruments generally can enact rules; specifically, a person
+might enact a rule (create a player) by registering. Thus, creating
+player-rules can be entirely defined under the mechanism in 105, and therefore
+satisfies the restrictive clause of 105.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2141: (in full)
+      A rule is a type of instrument with the capacity to govern the
+      game generally, and is always taking effect.  A rule's content
+      takes the form of a text, and is unlimited in scope.  In
+      particular, a rule may define in-game entities and regulate
+      their behaviour, make instantaneous changes to the state of
+      in-game entities, prescribe or proscribe certain player
+      behaviour, modify the rules or the application thereof, or do
+      any of these things in a conditional manner.
+
+      Every rule has power between one and four inclusive.  It is
+      not possible for a rule to have a power outside this range.
+
+      Rules have ID numbers, to be assigned by the rulekeepor.
+
+      Every rule shall have a title to aid in identification.  If a
+      rule ever does not have a title, the rulekeepor SHALL assign a
+      title to it by announcement as soon as possible.
+
+      For the purposes of rules governing modification of instruments,
+      the text, power, ID number, and title of a rule are all
+      substantive aspects of the rule.  However, rules to the contrary
+      notwithstanding, the rulekeepor CAN set rule aspects as
+      described elsewhere in this rule.
+
+
+Annotation for rule 1051: (in part)
+  [The] rulekeepor's duties are:
+  * manage ID numbers of rules (rule 2141) [...]
+  * report ruleset in two formats (rule 1051)
+
+
+Rule 2150: (in part)
+      A person is an entity defined as such by rules with power of at
+      least 2.  A person CAN generally be the subject of rights and
+      obligations under the rules.
+
+
+Definition of an Instrument (Rule 1688)
+      An Instrument is an entity with positive Power.
+
+
+Rule 105: (in part)
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
+
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
+          defaulting to one if the enacting instrument does not
+          specify, and the maximum power permitted by other rules.
+          The enacting instrument may specify a title for the new
+          rule, which if present shall prevail.  The ID number of the
+          new rule cannot be specified by the enacting instrument; any
+          attempt to so specify is null and void. [...]
+
+      This rule provides the only mechanism by which rules can be
+      created, modified, or destroyed, or by which an entity can
+      become a rule or cease to be a rule.
+
+========================================================================
+
+Gratuitous Arguments by Turiski:
+
+EDIT: Please change
+
+> The wording of 2141, and the annotation of 1051, suggests that giving rules
+ID numbers is less of a requirement than a duty of the rulekeepor.
+
+to
+
+The wording of 2141, and the annotation of 1051, suggests that entities
+purporting to be rules are not barred from being rules simply for lack of an
+ID number, since it is the task of the Rulekeepor to give one to them.
+
+Please also change the two uses of the word "infinite" to "unlimited" in the
+paragraph after "First, a comment."
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+This hinges on interpreting Rule 2150 as
+
+  "A person is an entity (defined as such by rules) with power of at
+   least 2."
+
+rather than the intended
+
+  "A person is an entity defined as such by (rules with power of at
+   least 2)."
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Even if ehird were once a rule, e was ratified out of
+ruleness last time the SLR was ratified, and none of the mechanisms for
+rule changes in the rules could possibly have made em a rule again.
+
+========================================================================
+
+Gratuitous Arguments by Turiski:
+
+Ratifications, by definition in 1551, make minimal possible changes to the
+game state. In particular it "cannot include a rule change unless the ratified
+document purports to include the text, title, and/or power of the rule being
+changed." Repealing a rule is a rule change, by definition. No SLR or FLR
+published (to my knowledge) has done this. So if ehird was a rule before, e is
+still a rule.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+If ehird is a rule, then thanks to Rule 105, e
+has not changed since 2007 in any way that affects eir operation.
+Luckily, eir mother narrowly escaped violating the rules by creating
+em, because rules were not explicitly defined at the time.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Agora is actually older than ehird is. However, I don't
+think anything in the ruleset at the moment ehird was born would be
+likely to imply e was a rule. (I don't think anything in the current
+ruleset does either.)
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Firstly, I am very confused; unless my email is missing something and
+I am poor at searching archives, I don't think there was an FLR
+published in April.  But assuming that there was and I missed it...
+
+This is fundamentally against the R101 recognition of rights to persons
+which are considered entities independent of Agora.  The error in the
+persons-have-power argument has been pointed out already, so I'll just
+add that Persons are considered non-copyable entities independent of
+text; they create text but they are not text.
+
+FALSE.
+
+If the FLR wasn't in fact published, I'd say that "the FLR published"
+was null/nonexistent, which is different than "incomplete" and thus
+still deserves a false.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+I intend, with two support, to file a Motion to Reconsider this because the
+lack of an FLR published on that date makes the claim vacuously true, not
+false.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+On 11-04-25 10:58 PM, Elliott Hird wrote:
+> Fair enough. But since we don't have an EXCEPTION judgement, it's
+> easier to argue that "The FLR published in April was incomplete" means
+> "forall x, is-an-FLR-published-in-April-plus-other-conditions-to-unambiguous
+ly-specify-zero-or-one-objects(x)
+> =>  incomplete(x)" as opposed to "exists x,
+> is-an-FLR-published-in-April-plus-other-conditions-to-unambiguously-specify-
+zero-or-one-objects(x)
+> /\ incomplete(x)". But that's just my opinion, one laden with
+> pseudo-formal-logic and ridiculously long predicate identifiers.
+I think that the actually correct answer is UNDECIDEABLE. The statement
+accepts as a premise that there was such an FLR. It is equivalent to
+asking "<UNDEFINED> has four members." Thus "otherwise not capable of
+being accurately described as true or false" is correct, I think.
+
+Given the controversy, I support the motion to reconsider.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Having confirmed that the FLR in question doesn't exist, I judge IRRELEVANT:
+"extrapolation of the game or its rules to conditions that don't actually
+exist."
+
+========================================================================

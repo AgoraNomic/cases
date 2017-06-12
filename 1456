@@ -1,0 +1,111 @@
+==============================  CFJ 1456  ==============================
+
+    If a Contest does not specify a quantity of some particular Currency
+    as an Entry Fee, then a player is not required to pay a Fee (as in
+    Rule 1941) to join that Contest.
+
+========================================================================
+
+Caller:                                 Peekee
+
+Judge:                                  OscarMeyr
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Peekee:                       17 Mar 2003 18:37:40 GMT
+Assigned to OscarMeyr:                  21 Mar 2003 00:10:32 GMT
+Judged TRUE by OscarMeyr:               28 Mar 2003 02:26:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+What happens if there is no prescribed Entry Fee?
+
+I guess the entire thing fails to be a Fee as it does not specify a
+"quantity of some particular Currency" as required. Then we are in a
+situation very similar to the 0-support CFJs, and as such IMO the
+non-rule-defined "Entry Fee" is not required to be paid, or is automatically
+paid without the need for a notice stating such. OTOH, it could be the case
+that as Paying the Entry Fee is not defined it is not possible to join the
+contest, or maybe it is just not possible to tell if someone has Paid the
+Entry Fee and so not possible to tell if they joined.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1941 "Fees",
+
+"A Fee is a specific quantity of some particular Currency explicitly
+designated as such by the Rules. To Pay a Fee is to transfer the specified
+quantity of that particular Currency to the Bank..."
+
+Rule 1598 "Property Transfers",
+
+      (c) A transfer of a Property occurs only when its Recordkeepor
+          receives a valid Notice of Transfer.
+
+This would imply that to pay a 0-Fee you would have to send notice to the
+Recordkeepor.  [Small question is 0 a quantity???] However, what I am really
+interested in is the following,
+
+Rule 1539 "Regulations and Membership of Contests"
+
+"A Player becomes a Contestant by notifying the Contestmaster and paying the
+prescribed Entry Fee to the Contest Fund."
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+R1539 states that a contest's Regulations CAN specify an entry fee
+(emphasis added).  A Contest is therefore not required to have an
+Entry Fee  If no entry fee is specified, then there is no prescribed
+entry fee to pay.  I see no need for a player to announce that
+they are paying an unimplemented entry fee.  I therefore judge TRUE.
+
+(I suggest that R1539 be clarified to address this point.)
+
+There is the slight nuance that R1941 defines a Fee as an amount to be
+paid to the Bank, while R1539 defines an Entry Fee as an amount to be
+paid to a contest.  Technically, R1941 does not apply to an Entry Fee.
+However, I believe the two can be treated sufficiently similar -- they
+are both an amount of currency that must be paid to a certain entity
+to permit a certain action.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Rule 1539/2 (Power=1)
+Regulations and Membership of Contests
+
+      No Player within Jurisdiction of a Contest's Regulations is
+      bound to obey any Regulation or combination of Regulations that
+      conflict with the Rules.
+
+      The Regulations can specify the following:
+
+        i) How a Contestmaster is replaced. No person may become
+           Contestmaster without eir consent.  If left unspecified,
+           the Contestmaster cannot change while the Contest exists.
+       ii) How the Currencies in the Contest Fund shall be spent.  If
+           this is not specified, they may only be spent when the
+           Rules require it.
+      iii) The amount of the Entry Fee for the Contest, in the form of
+           units of any specific Currency.
+       iv) Additional restrictions on Players to become Contestants,
+           and conditions under which Contestants cease to be
+           Contestants.
+
+      A Player becomes a Contestant by notifying the Contestmaster and
+      paying the prescribed Entry Fee to the Contest Fund.  A
+      Contestant may quit a Contest at any time by so notifying the
+      Contestmaster.  A Contestmaster may publicly resign at any time,
+      at which time e ceases to be Contestmaster.
+
+========================================================================

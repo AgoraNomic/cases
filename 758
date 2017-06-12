@@ -1,0 +1,220 @@
+From nomic-official-owner@teleport.com Mon Apr 10 22:09:49 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id WAA05703 for <blahedo@quincy.edu>; Mon, 10 Apr 1995 22:09:46 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id UAA08089 for nomic-official-outgoing; Mon, 10 Apr 1995 20:08:39 -0700
+Received: from mizar.astro.indiana.edu (mizar.astro.indiana.edu [129.79.160.43]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id UAA07984 for <nomic-official@teleport.com>; Mon, 10 Apr 1995 20:08:10 -0700
+Received: from poverty by mizar.astro.indiana.edu with uucp
+	(Smail3.1.28.1 #7) id m0ryWJ9-0001XgC; Mon, 10 Apr 95 22:08 EST
+Received: by poverty.bloomington.in.us (V1.17-beta/Amiga)
+	  id <2nta@poverty.bloomington.in.us>; Mon, 10 Apr 95 20:48:08 EST5
+Date: Mon, 10 Apr 95 20:48:08 EST5
+Message-Id: <9504110148.2nta@poverty.bloomington.in.us>
+From: kelly@poverty.bloomington.in.us (Kelly Martin)
+To: nomic-official@teleport.com
+Subject: OFF: CFJ758: Judgement
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+			 JUDGEMENT OF CFJ 758
+	 (Rule 833 and 1438 must be interpretated as such...)
+======================================================================
+
+  Judgement: FALSE
+
+  Judge:   elJefe
+
+  Eligible to Judge:  Blob, Coren, Dave Bowen, Chuck, Elde, elJefe,
+		      Jeffrey, Kelly, KoJen, Michael, Oerjan,
+		      Steve, Vlad, Pascal, Xanadu
+
+  Judge:   JonRock, defaulted
+
+  Eligible to Judge:  Blob, Coren, Dave Bowen, Chuck, Elde, elJefe,
+		      Jeffrey, JonRock, Kelly, KoJen, Michael, Oerjan,
+		      Steve, Vlad, Pascal, Xanadu
+
+  Caller:  TAL
+
+  Scorekeepor:  
+    JonRock loses 10 Points for defaulting
+    elJefe receives 3 Points for timely Judgement
+
+----------------------------------------------------------------------
+
+History:
+  Called Mon, 27 Mar 95 14:57:43 SET by TAL
+  Assigned Mon, 27 Mar 1995 14:05 UTC to JonRock
+  Defaulted Mon, 3 Mar 1995 14:05 UTC by JonRock
+  --> JonRock loses 10 Points
+  Reassigned Wed, 5 Apr 1995 07:48 UTC to elJefe
+  Judged TRUE Mon, 10 Apr 95 09:29:43 EDT by elJefe
+  --> elJefe receives 3 Points 
+
+======================================================================
+
+Statement:
+
+"Rule 833 and 1438 must be interpretated as such, that the F-A Points,
+that a Player gets, when the voting Period for a Proposal is over, are
+a punitive pointloss, in those cases where F-A turns out to be negative."
+
+Barred Players: Andre, Swann, Vanyel
+
+----------------------------------------------------------------------
+
+Arguments:
+
+1438 explicitly excludes pointlosses that are:
+"the direct result of submission of or Voting on a Proposal"
+as being Punitive.
+
+But a `direct result' is a result that stems immediately from a source,
+cause, or reason, which in the case of the F-A pointloss is not true.
+
+The F-A pointloss is the result of a number of causes, that act together:
+- the Player submitted the Proposal
+- the Proposal was distributed
+- the Proposal was voted upon
+- more Players voted AGAINST than voted FOR
+- the F-A points were not halved by virtue of Rule 1061
+- the Speaker/Assessor did not forget to report the Points, which
+would cancel the score change. This might be farfetched but is not.
+What happens if the score change is not reported? There will be a
+Claim of Error; the error will be corrected; but in that case the
+pointloss (now applied after all) has changed its nature, as an
+"Adjustments made as part of a correction in the Game State" can
+never be punitive (1438 again).
+
+An F-A Pointloss is therefore hardly the direct result of the
+submission or the vote in itself.
+
+Consequently, the Pointloss is punitive.
+
+Note:
+this CFJ envisages to counter Andre's bid for a Championship using
+Points earned in a previous Game and hibernated in the Reform Treasury.
+The failure of 1529 resulted in -7 F-A points, which (if considered
+Punitive) would result in a number of Blots.
+And one is enough....
+
+----------------------------------------------------------------------
+
+References:
+
+Rule 833/0 (Mutable, MI=1)
+Reward or Penalty for Proposing
+
+      When the voting period for a proposal is over, the proposer gets
+      F-A points, where F is the number of votes FOR, and A is the
+      number of votes AGAINST.  However, only the Votes of Voters
+      shall be counted for this determination.
+      (*Was: 544*)
+
+
+Rule 1061/0 (Mutable, MI=1)
+Bonus to New Players
+
+      For the first five consecutive Nomic Weeks following the
+      registration of a Player who has not played in this Nomic
+      previously, that Player shall receive 5 Points for each
+      week in which e submits one or more Proposals to the Speaker,
+      and any penalties which are the direct result of voting on
+      such Proposals are halved; all of these shall be reported to
+      the Scorekeepor by the Speaker.
+
+
+Rule 1438/1 (Mutable, MI=1)
+Blots Due to a Punititve Point Loss
+
+      A Punitive Point Loss is a point loss that results in gaining
+      Blots.
+
+      Whenever a Rule calls for a Punitive Point loss, the Player
+      losing Points will receive Blots equal to half the number of
+      Points lost, rounded down.
+
+      Punitive Point Losses are those losses *not* due to:
+
+         i) Voluntary transfers of Points to any other Player or any
+            other Nomic Entity.
+        ii) Voluntary destruction of a Player's own Points.
+       iii) the direct result of submission of or Voting on a Proposal
+        iv) Adjustments made as part of a correction in the Game
+            State.
+         v) The reset of scores due to the end of a Game.
+        vi) A score change that a Rule specifically designates as
+            Non-Punitive.
+       vii) Rules that also adjust the number of Blots a Player has.
+
+      Further, a Point Loss ceases to be Punitive when the Rule
+      mandating the Loss is amended to explicitly state either of the
+      following:
+
+         i) The Rule does not impose a Blot penalty.
+        ii) The Rule does impose a Blot penalty, the amount of the
+            Blot penalty, and the Player responsible for reporting
+            those Blots to the Tabulator.
+
+      Players Legally Responsible for reporting Punitive Point losses
+      to the Scorekeepor also have the Legal Responsibility to report
+      Blots due to those Punitive Point losses to the Tabulator.
+
+      This Rule shall remain in effect until there are no longer any
+      Punitive Point Losses defined in the Ruleset, at which point
+      this Rule will repeal itself.
+
+History:
+Created by Proposal 1459, Mar. 1 1995
+Amended(1) by Proposal 1495, Mar. 15 1995
+
+======================================================================
+
+Judgement:  FALSE
+
+Rule 1438 explicitly excludes point losses that are "the direct result 
+of submission of or Voting on a Proposal" as being Punitive.
+
+TAL's argument is that F-A point losses are not "directly" the result of 
+voting.  In support of this, he offered a variety of circumstances which
+must be present for F-A points to be lost, and others which might prevent 
+or modify the point loss.
+
+Under this interpretation, it is hard to see that _anything_ would count
+as being the "direct" result of voting.
+
+A more sensible interpretation is to say that a point loss is the 
+direct result of voting if there is a rule directing that a certain
+voting outcome results in the point loss.  That is:  if a Rule says 
+"if A, then X", X is the direct result of A.
+
+It would be "indirect" if the Rules specified some intermediate cause 
+between the voting and the point loss.  That is, if the rules instead
+say "if A, then B", and "if B, then X",  X is an indirect result of A.
+
+Nor is it necessary for "directness" that the voting be the sole cause 
+of the result.  If the Rule says "if A and B, then X", X is the direct
+result of A and B together, and can be thought of as a direct result
+of either.
+
+Thus a Proposal to award the Scamster Title, if adopted, would cause a 
+Punitive Point loss of 1 Point.  This is a result of the voting, but not 
+a "direct" result, since there is an intermediate cause:  the voting
+causes the adoption of the proposal and the award of the Scamster title,
+and the award of the title causes the point loss.
+
+Under this interpretation an F-A point loss is "the direct result of
+voting", by Rule 833.
+
+--ElJefe, Judge
+
+======================================================================
+--
+kelly martin                                 <kelly@poverty.bloomington.in.us>
+
+       I have been told that when a large group of people believe in a
+     fantasy, it is called a culture.  When a small group believes, it is
+      called a cult.  When two people believe in a fantasy, it is called
+	 love; and when one person believes, it is called psychosis.

@@ -1,0 +1,94 @@
+==============================  CFJ 1741  ==============================
+
+    Peekee is a player.
+
+========================================================================
+
+Caller:                                 Peekee
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Peekee:                       11 Sep 2007 09:54:20 GMT
+Assigned to root:                       11 Sep 2007 10:15:09 GMT
+Judged TRUE by root:                    18 Sep 2007 02:09:23 GMT
+
+========================================================================
+
+Gratuitous Arguments by Zefram:
+
+CFJ 1580 is a useful precedent here: it ruled that players cannot be
+expected to decode base64 on their own, so a message relying on such
+decoding might be ineffective for unclarity.  However, it also ruled
+that base64 is acceptable in the context of MIME, when signalled with
+appropriate message headers; decoding base64 in that situation is an
+ordinary part of mail reception, usuall automated.
+
+Peekee's message obscures its content principally by HTML entity encoding
+in an HTML message body.  The message has the header "Content-Type:
+text/html; charset=UTF-8" which indicates the HTML nature of the content,
+but it does *not* have the "MIME-Version:" header which is mandatory
+for a MIME message.  This situation is therefore pretty much an exact
+parallel of CFJ 1580.
+
+Had Peekee included the header, making the post a well-formed MIME
+message, we'd have a more interesting situation not so well covered by
+precedent.  In that case the question would be whether mail recipients
+can be expected to interpret text encoded in arbitrary media formats,
+and in HTML in particular.
+
+========================================================================
+
+Judge root's Arguments:
+
+Zefram makes the following gratuitous arguments:
+
+> CFJ 1580 is a useful precedent here: it ruled that players cannot be
+> expected to decode base64 on their own, so a message relying on such
+> decoding might be ineffective for unclarity.  However, it also ruled
+> that base64 is acceptable in the context of MIME, when signalled with
+> appropriate message headers; decoding base64 in that situation is an
+> ordinary part of mail reception, usuall automated.
+
+> Peekee's message obscures its content principally by HTML entity encoding
+> in an HTML message body.  The message has the header "Content-Type:
+> text/html; charset=UTF-8" which indicates the HTML nature of the content,
+> but it does *not* have the "MIME-Version:" header which is mandatory
+> for a MIME message.  This situation is therefore pretty much an exact
+> parallel of CFJ 1580.
+
+> Had Peekee included the header, making the post a well-formed MIME
+> message, we'd have a more interesting situation not so well covered by
+> precedent.  In that case the question would be whether mail recipients
+> can be expected to interpret text encoded in arbitrary media formats,
+> and in HTML in particular.
+
+In principle, I agree with Zefram.  However, base64 is a more obscure
+encoding than HTML, and so it may be that HTML is acceptable where
+base64 is not; and if not, it may be that the presence of the
+Content-Type header is sufficient to make up the difference despite the
+lack of the technically required MIME-Version header.  To learn more, I
+conducted a poll, with the following results:
+
+Gmail: renders the message correctly
+Mutt: renders the raw HTML by default; elinks view available
+kmail: renders the message correctly except with a non-default setting
+Thunderbird: renders the message correctly
+Unnamed web-based email reader: does not render the message correctly
+Evolution: renders the message correctly
+Apple Mail 2.1: renders the message acceptably
+
+The poll also indicated that those respondents for whom automatic
+rendering failed were reasonably able to read the message anyway.
+
+5 out of 7 email readers were capable of rendering the message despite
+the lack of the MIME-Version header.  In addition, there is no evidence
+that any player or watcher was unable to read the message with a
+reasonable amount of effort.  I therefore find that the encoding used
+was acceptable, and I enter a judgement of TRUE for CFJ 1741.
+
+========================================================================

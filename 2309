@@ -1,0 +1,99 @@
+==============================  CFJ 2309  ==============================
+
+    ehird is a party to the Vote Market
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        11 Dec 2008 20:51:42 GMT
+Assigned to omd:                        12 Dec 2008 23:52:53 GMT
+omd recused:                            23 Dec 2008 00:21:44 GMT
+Assigned to Wooble:                     23 Dec 2008 00:36:42 GMT
+Judged TRUE by Wooble:                  23 Dec 2008 16:02:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I recently abused the naming rules to define a contract
+defining VP as a currency that I can create by announcement, and used
+it to escape from the VM.
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+the new contract was not the backing document for VP, as
+they would continue to exist if the new contract didn't exist, thus it
+couldn't grant the power to create VP.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+The same could be said about the Vote Market at that time.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+R2166 reads, in part:
+     An asset is an entity defined as such by a rule or contract
+     (hereafter its backing document), and existing solely because
+     its backing document defines its existence.
+
+Two parts of this are relevant to this case. First, the rule uses the
+singular "a rule or contract"; an asset can have on a single backing
+document.  Second, an asset must exist solely because its backing
+document defines its existence.  This strengthens the first point; if
+two contracts define something, it would continue to be defined if
+either of the contracts ceased to exist and thus could not be an
+asset.
+
+Before the actions to which this case pertains, Vote Points
+unambiguously were defined only by the Vote Market agreement, which
+was their backing document. If ehird's pledge could also define Vote
+Points at the same time the Vote Market did so, Vote Points would
+cease to be an asset under Rule 2166.
+
+Rule 1586 says, in part:
+     If multiple rules or contracts (hereafter documents) attempt to
+     define an entity with the same name, then they refer to the same
+     entity.
+
+Thus, ehird's pledge's attempt to define Vote Points succeeding in
+doing so and referred to the same entity the Vote Market did.
+
+Now, the question is whether ehird's pledge makes it so e CAN create
+Vote-Points-the-non-asset-entity, and if so, whether those Vote Points
+became Vote-Points-the-Asset when the pledge was terminated.
+
+Since at the time the contract existed Vote Points were not an Asset,
+R2166's grant of the ability of a Recordkeepor to generally create
+assets does not apply.  No other rule specifically allows the creation
+of a Vote Point entity, so their creation is legal if and only if it's
+an unregulated action.  Rule 2125(e) says that an action that would,
+as part of its effect, modify information for which some player is
+required to be recordkeepor is impossible except as allowed by other
+rules.  While the instantaneous creation of contract state in ehird's
+contract of the existence of 1000 VP in eir possession does not, at
+the time it happens, create any recordkeeping obligation (since only
+recordkeepors of assets have such an obligation), the subsequent
+(otherwise legal) action of terminating the pledge CANNOT modify
+any information for which BobTHJ is required to act as recordkeepor.
+The continuity of the 1000 VPs granted by R1586 thus conflicts with
+R2125, and R2125 takes precedence by means of having a higher power.
+
+========================================================================

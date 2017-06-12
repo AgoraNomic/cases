@@ -1,0 +1,218 @@
+=========================  Criminal Case 2860  =========================
+
+    omd violated the power-3 rule 2201 by making an inappropriate Claim
+    of Error, because the nature of the doubt is a matter of legal
+    interpretation rather than of fact.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 omd
+
+Judge:                                  Taral
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by ais523:                       12 Sep 2010 19:30:29 GMT
+Defendant omd informed:                 12 Sep 2010 19:30:29 GMT
+Assigned to Taral:                      13 Sep 2010 21:30:39 GMT
+Judged NOT GUILTY by Taral:             19 Sep 2010 22:48:26 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Sun, 2010-09-12 at 12:21 -0700, Ed Murphy wrote:
+> ais523 wrote:
+>
+> > On Sun, 2010-09-12 at 14:46 -0400, omd wrote:
+> >> On Sun, Sep 12, 2010 at 2:30 PM, Alex Smith <ais523@bham.ac.uk> wrote:
+> >>> I pay a fee to make Distributed Proposal 6830 distributable.
+> >>
+> >> CoE: You don't have sufficient ergs to perform the action because
+> >> performing the action is impossible because it doesn't have an
+> >> instance of the Distributability switch.
+> >
+> > NoV: omd violated the power-3 rule 2201 by making an inappropriate Claim
+> > of Error, because the nature of the doubt is a matter of legal
+> > interpretation rather than of fact. (This NoV may fail on the basis that
+> > "inappropriate" != "illegal", but I can't think of any more sensible
+> > interpretation there; "impossible" seems rather implausible.)
+>
+> I contest this NoV, as "inappropriate" is not explicitly defined as
+> illegal, here or anywhere else.  It /is/ explicitly defined as
+>
+>   1) SHOULD NOT, for judgements.  (As long as the judge reasonably
+>      believed eir judgement was appropriate - which e pretty much always
+>      did - any criminal case would be NOT GUILTY by R1504(d) and/or (e)
+>      anyway, so allowing such cases at all was generally agreed to be
+>      more annoying than it was worth.)
+>
+>   2) CANNOT, in Rule 2288 (Induction), when allowing a player to
+>      voluntarily perform an action using a higher dependent-action
+>      threshold than required by the rules.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Mon, 2010-09-13 at 20:34 -0700, Taral wrote:
+> On Mon, Sep 13, 2010 at 2:30 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> > Detail: http://zenith.homelinux.net/cotc/viewcase.php?cfj=2860
+> >
+> > ==============  Criminal Case 2860 (Interest Index = 0)  ===============
+> >
+> >    omd violated the power-3 rule 2201 by making an inappropriate
+> >    Claim of Error, because the nature of the doubt is a matter of
+> >    legal interpretation rather than of fact.
+> >
+> > ========================================================================
+> H. Caller ais523, would you like to make any gratuitous arguments as
+> to why the Court should rule that the text in question ("appropriate
+> for...") is not merely advisory?
+
+Gratuitous arguments: There would be no need to include the text in the
+rule if it were merely advisory, because it's clear that using a CFJ
+only really makes sense for a dispute anyway. The closest parallel in
+the rules is probably the distinction between gratuitous arguments and
+evidence in the rules; IIRC that section was added to the rules in an
+attempt to force players to classify evidence/arguments correctly
+(although only at SHOULD level), because Murphy was fed up of em getting
+it wrong. Likewise, the text in 2201 seems intended to encourage players
+to use the right sort of challenge to a self-ratifying document, and it
+won't succeed well at doing that if it's unenforceable.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Defendant's arguments: By that argument, the appropriateness of
+judgements doesn't succeed well at doing anything, because the only
+thing depending on it is a SHOULD and the appropriateness of other
+(appeals) judgements.
+
+But the point is somewhat moot, because I believed that ais523 was
+referring to the proposal with ID number 6830, having forgotten of the
+existence of the other proposal e could be referring to, and thus that
+eir attempt failed based on a matter of fact.  I postulate that under
+the current rules, interpreting (type of entity possessing ID numbers)
+(number) as referring to the entity with the listed ID number is
+something a reasonable person could do-- unambiguous reference is,
+after all, the point of ID numbers.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+It is quite clear that there is a significant question of legal
+interpretation here. Given that there is no clear correct
+interpretation of rule 2201 and that there is an interpretation of
+rule 2201 such that omd did not violate it, it is entirely reasonable
+that omd would have thought e was not violating rule 2201.
+
+The question on culpability in CFJ 2860 is judged NOT GUILTY by 1504(d).
+
+As a note: despite omd's status as Pariah, the Court has no
+flexibility as to the question on culpability. Were omd GUILTY, Rule
+2132 might apply, but the Court declines to issue any opinion on that
+matter.
+
+========================================================================
+
+Judge Taral's Evidence:
+
+1. ais523's attempted action was a public document.
+2. That public document is not subject to self-ratification, as it is
+not a public document defined by the rules.
+3. omd's claim of error had no rules-defined effect other than to
+apply a SHOULD requirement on ais523.
+4. ais523's attempted action was ambiguous in its referent: it could
+refer either to the proposal with ID number 6830 ("We Don't Need No
+Stinkin' Voting") or the proposal with the name "Distributed Proposal
+6830".
+5. Both are entities existing in Agora.
+6. Only the latter entity has a distributability switch.
+7. At the time of this judgement, CFJ 2859 has found that "Distributed
+Proposal 6830" refers to the undistributed proposal with that name.
+8. At the time of this judgement, CFJ 2859 is under appeal, with the
+judge of that case supporting that appeal.
+9. omd is the Pariah, and Rule 2312 applies to all players, including judges.
+10. The Rules do not specify any SHOULD, SHALL, or other penalty
+specifically regarding an inappropriate claim of error.
+11. The Rules do specify a SHOULD specifically regarding inappropriate
+judgements in Rule 2158.
+
+Rule 1607/29 (Power=2) [excerpt]
+The Promotor
+
+      Distributability is switch possessed by proposals in the
+      proposal pool, tracked by the Promotor, with values
+      Undistributable (default) and Distributable.
+
+Rule 1551/13 (Power=3) [excerpt]
+Ratification
+
+      A public document is part (possibly all) of a public message.
+
+Rule 2201/4 (Power=3)
+Self-Ratification
+
+      A public document defined by the rules as self-ratifying is
+      ratified when it is continuously undoubted for one week.
+
+      A doubt is an explicit public challenge via one of the following
+      methods, identifying a document and explaining the scope and
+      nature of a perceived error in it:
+
+       a) An inquiry case, appropriate for questions of legal
+          interpretation.
+
+       b) A claim of error, appropriate for matters of fact.  The
+          publisher of the original document SHALL (if e was required
+          to publish that document) or SHOULD (otherwise) do one of
+          the following as soon as possible:
+
+              i) Deny the claim (causing it to cease to be a doubt).
+             ii) Publish a revision.
+            iii) Initiate an inquiry case regarding the truth of the
+                 claim (if the subject is actually a matter of law).
+
+Rule 2312/0 (Power=1.7) [excerpt]
+The Pariah
+
+      Players are ENCOURAGED to enforce penalties for rules breaches
+      against the Pariah, even really minor ones.
+
+Rule 2158/9 (Power=2) [excerpt]
+Judicial Questions
+
+     ...  A judge SHOULD NOT assign an
+      inappropriate judgement to any judicial question.  A judgement
+      is valid and/or appropriate only as defined by the rules.
+
+Rule 1504/47 (Power=2) [excerpt]
+Criminal Cases
+
+      * GUILTY, appropriate if the judge finds, beyond a reasonable
+        doubt, that ALL of the following are true:
+       (d) the Accused could not have reasonably believed that the
+           alleged act did not violate the specified rule;
+
+========================================================================
+
+Gratuitous Arguments by Taral:
+
+On Sun, Sep 19, 2010 at 5:35 PM, omd <c.ome.xk@gmail.com> wrote:
+> On Sun, Sep 19, 2010 at 6:48 PM, Taral <taralx@gmail.com> wrote:
+>> 9. omd is the Pariah, and Rule 2312 applies to all players, including
+judges.
+>
+> No I'm not.
+
+Oh? I was pretty sure I checked the records... things must have
+changed on me. Thankfully it's not germane to the judgement.
+
+========================================================================

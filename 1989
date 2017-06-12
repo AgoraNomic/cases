@@ -1,0 +1,162 @@
+==============================  CFJ 1989  ==============================
+
+    All actions are regulated.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Machiavelli
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         07 Jun 2008 19:26:27 GMT
+Assigned to Machiavelli:                08 Jun 2008 07:09:36 GMT
+Judged FALSE by Machiavelli:            13 Jun 2008 14:52:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R2125 reads, in part:
+
+      An action is regulated if:
+
+      [...]
+
+        d) The rules explicitly state that it MAY be performed while
+           certain conditions are satisfied.  Such an action MAY NOT
+           be performed except as allowed by the rules.
+
+R101 reads, in part:
+
+        ii. Every player has the right to perform an action which is
+            not regulated.
+
+Thus, R101 indicates that any action MAY be performed while the
+condition of the action not being regulated is satisfied.  This meets
+the criteria of R2125(d), which therefore defines the action as
+regulated.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2125 (Power=3)
+
+      An action is regulated if:
+
+        a) It is IMPOSSIBLE.
+
+        b) It is ILLEGAL.
+
+        c) The rules explicitly state that it CAN be performed while
+           certain conditions are satisfied.  Such an action CANNOT
+           be performed except as allowed by the rules.
+
+        d) The rules explicitly state that it MAY be performed while
+           certain conditions are satisfied.  Such an action MAY NOT
+           be performed except as allowed by the rules.
+
+        e) It would, as part of its effect, modify information for
+           which some player is required to be a recordkeepor.  Such
+           an action CANNOT modify that information except as allowed
+           by the rules.
+
+        f) A judicial finding has determined that it is regulated,
+           and has not been superseded by subsequent legislation.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+R101(ii) says that it 'may' be performed not that it 'MAY' be
+performed. This could be a material difference.
+
+The judge should also consider whether reading R2125(d) this way would
+be barred by R101(ii) taking precedence over R2125(d). (Can one read
+into R101(ii) that there must exist unregulated actions? Or even
+something stronger, like that the rules are inherently limited to
+controlling aspects relevant to the game?)
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+CFJ 1989 asks if:
+
+>    All actions are regulated.
+
+The caller provides the following evidence:
+
+> R2125 reads, in part:
+>
+>      An action is regulated if:
+>
+>      [...]
+>
+>        d) The rules explicitly state that it MAY be performed while
+>           certain conditions are satisfied.  Such an action MAY NOT
+>           be performed except as allowed by the rules.
+>
+> R101 reads, in part:
+>
+>        ii. Every player has the right to perform an action which is
+>            not regulated.
+>
+> Thus, R101 indicates that any action MAY be performed while the
+> condition of the action not being regulated is satisfied.
+
+Assuming it hasn't been changed recently (I don't remember any
+proposals to change it), the first paragraph of R101 states, "Be it
+hereby proclaimed that no binding agreement or interpretation of
+Agoran law may abridge, reduce, limit, or remove a person's defined
+rights." What it does not say is that every person MAY perform an
+action which e has the right to perform. An important phrase in
+R2125(d) is "explicitly state". R101 doesn't use the word "MAY" (it
+does use the word "may", but only in stating that no agreement or law
+"may" limit rights, not that persons "may" invoke them), so it doesn't
+explicitly state anything. Therefore, FALSE.
+
+In addition, R2125 mentions "that [an action] MAY be performed while
+certain conditions are satisfied". Interpreting "every player has the
+right to perform an action which is not regulated" as "any action MAY
+be performed while that action is not regulated" is a stretch,
+especially since "that action is not regulated" makes no sense outside
+the context of "any action MAY be performed"; a more natural
+interpretation would be simply "any action that is not regulated MAY
+be performed", which R2125 doesn't apply to at all.
+
+On the other hand, a statement such as "a player's posture MAY be
+flipped to Sitting while an Emergency Session is not in progress" (not
+that that statement appears in the rules anywhere) cannot be
+refactored so as not to include the "while", and "an Emergency Session
+is not in progress" does make sense outside of the context of this
+MAY. R2125 deals with cases like the latter, not like the former;
+therefore, FALSE.
+
+Now I mention woggle's arguments:
+
+> The judge should also consider whether reading R2125(d) this way would
+> be barred by R101(ii) taking precedence over R2125(d). (Can one read
+> into R101(ii) that there must exist unregulated actions? Or even
+> something stronger, like that the rules are inherently limited to
+> controlling aspects relevant to the game?)
+
+I don't see how "every player has the right to perform an action which
+is not regulated" could take precedence over "X is regulated" for any
+X, as the former doesn't state that any action is not regulated. There
+is the fact that there would be no reason to mention unregulated
+actions unless unregulated actions exist, but when that clause was
+added to R101, this case certainly hadn't been called and argued, so I
+consider this weak evidence of FALSE at best. That the rules are
+inherently limited to controlling aspects relevant to the game is what
+I'd say is not that good an interpretation of R101, but a plenty good
+statement of truth.
+
+All this given, I (intend to) judge FALSE.
+
+========================================================================

@@ -1,0 +1,113 @@
+==============================  CFJ 3300  ==============================
+
+    Rule 2361 is a Slave Golem.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Wes
+Judgement:                              
+
+
+Judge:                                  Walker
+Judgement:                              TRUE
+
+Appeal:                                 3300a
+Decision:                               REMIT
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      10 Apr 2013 05:19:50 GMT
+Assigned to Wes:                        14 Apr 2013 07:56:00 GMT
+Wes recused:                            27 Apr 2013 20:20:04 GMT
+Assigned to Walker:                     27 Apr 2013 20:21:22 GMT
+Judged TRUE by Walker:                  28 Apr 2013 19:52:34 GMT
+Appealed by woggle:                     28 Apr 2013 20:10:51 GMT
+Appealed by Machiavelli:                28 Apr 2013 20:14:51 GMT
+Appealed by scshunt:                    28 Apr 2013 20:40:57 GMT
+Appeal 3300a:                           28 Apr 2013 20:40:57 GMT
+REMITTED on Appeal:                     12 May 2013 22:01:05 GMT
+Assigned to Murphy:                     12 May 2013 22:14:43 GMT
+Judged FALSE by Murphy:                 12 May 2013 22:31:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The only reason I can think of that this would fail is if being a Golem or not
+being a Golem is a substantive aspect of the Rule. I'm torn as to whether or
+not this is the case. On the one hand, it does change the way that the Rule
+would work, but on the other hand, it does not actually alter the way that the
+Rule functions; it only alters the way that other Rules apply to it---and
+certainly, affecting how rules interact is not a direct aspect of power
+security, or else Agoran satisfaction would not work. Therefore, I submit that
+since golem-ness is not, directly, a part of the functioning of a Rule, it
+should not be considered a substantive aspect, and Rule 2361 is a Slave Golem.
+
+========================================================================
+
+Caller's Evidence:
+
+I cause Rule 2380 to cause Rule 2361 to become a Slave Golem.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+this fails due to rule 2150; a rule needs power at least 2 to
+define an entity as a person. Defining a rule as a golem is defining it
+to be a person, among other things.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+As I mentioned on IRC, clearly if a high-powered rule
+states that, say, Friendly nomics are persons, a lower-powered rule
+flipping a nomic to Friendly would not be defining it to be a person.
+Although I'm not sure whether "Golem-ness" can be changed like a
+switch, without any persistent rule enforcing the definition, in the
+first place, if it can, I don't see an essential difference that would
+affect whether or not the higher-powered rule is providing the agency
+for the definition.
+
+========================================================================
+
+Judge Walker's Arguments:
+
+I accept the caller and omd's arguments. TRUE.
+
+========================================================================
+
+Appellant woggle's Arguments:
+
+This decision would eviscerate Rule 2140 (Power Controls
+Mutability). Plainly making something subject to a large number of obligations
+and automatic destruction under the rules is modifying a "substantive" aspect
+of it for the purposes of the Agoran Game State. Moreover, the plain language
+of R2140 does not restrict its operation to aspects related to operation as a
+entities which require non-zero power, like Adopted Proposals and Rules, but
+applies even if the instrument's Power is unrelated to its operation.
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+I support and do so only for the reason that there is no existing appeal.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Causing a rule to become a Slave Golem would modify that rule, and
+would not fit within the mechanism of Rule 105 (Power=3), so Rule 105
+prevents it from occurring.  FALSE.
+
+========================================================================

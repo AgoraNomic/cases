@@ -1,0 +1,64 @@
+==============================  CFJ 1537  ==============================
+
+    Goethe has a Two Shares card.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Quazie
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         07 Apr 2005 19:51:02 GMT
+Assigned to Quazie:                     09 Apr 2005 23:57:37 GMT
+Judged TRUE by Quazie:                  11 Apr 2005 05:51:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In a public message dated Wed, 6 Apr 2005 15:53:53 -0700 (PDT), Goethe
+attempted to play Discard Picking, naming a Two Shares card.  If
+successful, the play had the effect of automatically transferring a
+Two Shares card from the Deck to Goethe.
+
+In order for Discard Picking to have been successful, a Two Shares card
+must have been played or discarded in the 72 hours previous.  In a
+message dated Wed, 6 Apr 2005 15:53:53 -0700 (PDT), Goethe played a
+Corporate Bankruptcy, which had the effect, among others, of "returning"
+Two Shares cards from Eris, Riail, and Manu to the Deck.
+
+The question is this:  Is there a significant distinction between a card
+"returned" to the Deck and a card "transferred" to the Deck?  If not,
+then the Two Shares cards are considered discarded, the Discard Picking
+play succeeded, and the statement is TRUE.  Otherwise, the Two Shares
+cards may have been neither played nor discarded, which would make the
+statement FALSE.
+
+========================================================================
+
+Judge Quazie's Arguments:
+
+The issue here involves how synonymous the words Return and Transfer are.
+
+R 2069 states
+
+       Discarding a Card is synonymous with transfering said Card
+       to The Deck.
+
+
+Note the fact that Stock cards are originally created in the deck, as
+they are not grafty.  Thus for them to return to the deck they must
+move from the players hand to the deck where they were created.  The
+first definition of the word "Transfer" that i found on dictionary.com
+was the following "To convey or cause to pass from one place, person,
+or thing to another.".  Now as players and the deck are both gamblers,
+I state that a return to the deck as noted in the exploit for
+Corporate Bankruptcy is an actual transfer thus the Two Shares card in
+question was discarded.
+
+========================================================================

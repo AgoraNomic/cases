@@ -1,0 +1,78 @@
+==============================  CFJ 2313  ==============================
+
+    If a CFJ were called on X, it would be legal to judge FALSE on the
+    CFJ, where X is defined as the following string, followed by a
+    quotation mark, followed by the same string, followed by a quotation
+    mark: "If a CFJ were called on X, it would be legal to judge FALSE
+    on the CFJ, where X is defined as the following string, followed by
+    a quotation mark, followed by the same string, followed by a
+    quotation mark: "
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  BobTHJ
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  16 Dec 2008 03:32:20 GMT
+Assigned to BobTHJ:                     19 Dec 2008 00:08:33 GMT
+Judged IRRELEVANT by BobTHJ:            22 Dec 2008 17:04:56 GMT
+Pre-trial phase ended:                  22 Dec 2008 23:51:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If FALSE is appropriate, the statement is false, meaning FALSE would
+not be appropriate on an identical case, meaning FALSE is not
+appropriate on this case.
+
+If TRUE is appropriate, the statement is true, meaning FALSE would be
+appropriate on an identical case, meaning FALSE is appropriate on this
+case, meaning the statement is false.
+
+IRRELEVANT is not appropriate because legality of an action that might
+be taken is quite relevant.
+
+UNDETERMINED is not appropriate because the statement makes sense,
+it's well-formed, and there's no relevant information that is not
+reasonably available to the judge.
+
+MALFORMED is not appropriate because the statement is indeed a statement.
+
+Since apparently neither FALSE nor TRUE is appropriate, UNDECIDABLE is
+appropriate.
+
+The only reasonable way I can see to resolve this paradox is by
+repealing Rule 2110.
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+I judge IRRELEVANT. Perhaps that is a bad judgment, but I find this
+endless attempt to write CFJs that are paradoxes rather boring and
+therefore unworthy of further consideration. Appeal if you wish.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Though we haven't
+really done this in the past in our traditions, it is in keeping with
+common legal definitions and judicial practice to consider overly
+hypothetical cases to be irrelevant to the courts.
+
+========================================================================
+
+Gratuitous Arguments by BobTHJ:
+
+I stand by my judgment (believing the answer to the consultation to
+indeed be IRRELEVANT) and stand tall as my sentence is delivered.
+
+========================================================================

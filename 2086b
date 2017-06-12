@@ -1,0 +1,64 @@
+============================  Appeal 2086b  ============================
+
+
+Panelist:                               woggle
+Decision:                               REMAND
+
+
+Panelist:                               root
+Decision:                               REMAND
+
+
+Panelist:                               Taral
+Decision:                               REMAND
+
+========================================================================
+
+History:
+
+Appeal initiated:                       16 Sep 2008 19:10:36 GMT
+Assigned to woggle (panelist):          20 Sep 2008 19:24:58 GMT
+Assigned to root (panelist):            20 Sep 2008 19:24:58 GMT
+Assigned to Taral (panelist):           20 Sep 2008 19:24:58 GMT
+root moves to REMAND:                   26 Sep 2008 21:30:37 GMT
+Taral moves to REMAND:                  27 Sep 2008 08:26:48 GMT
+woggle moves to REMAND:                 27 Sep 2008 08:48:02 GMT
+Final decision (REMAND):                02 Oct 2008 15:45:33 GMT
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+How about this interpretation, instead?
+
+There are an infinite number of instants between any two points in
+time (including two instants).  Every access and modification of the
+gamestate must be allocated to its own instant.  Therefore, the CFJ
+rules can only insert a new instant immediately before or after any
+other one (e.g. the initiation of the CFJ), but it cannot plop an
+access on top of an instant that's already being used to change the
+gamestate.  So the statement "<fact about the gamestate> at instant X"
+is undefined.  Statements like "I am doing X" are, however, defined,
+because whether I am doing X is not part of the gamestate.
+
+In other words, the actual process by which a CFJ comes into existence
+is undefined, and indeed may be simulated in a number of ways-- as a
+Python script simulating Agora that creates a new CFJ object in
+memory, or a human brain conceptualizing the creation of a CFJ.
+
+Annnnnnyyyway.
+I hope you're still reading this, because the above has absolutely
+nothing to do with the case.
+
+CFJs 2086-7 have nothing to do with a CFJ existing.  They have to do
+with the action of initiating being in progress, which is true only
+*while* it is being initiated.  Certainly the statement of the CFJ is
+false now, because ehird is not right this second CFJing on a
+statement.
+
+So the question is whether actions happen truly simultaneously (the
+actions are being done at the same time), in which case the statements
+would both be TRUE, or whether they can be separated in legal time, in
+which case both would be FALSE.  I support the latter.
+
+========================================================================

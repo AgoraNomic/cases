@@ -1,0 +1,130 @@
+==============================  CFJ 1255  ==============================
+
+    Rule 1586 should be interpreted such that the Rule created by
+    Proposal 4090 (Debt Conversion) has no effect, since any outstanding
+    debts and liabilities in Basic Currencies were canceled when Basic
+    Currencies were abolished from the Rules.
+
+========================================================================
+
+Caller:                                 Oerjan
+
+Judge:                                  Elysion
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Oerjan:                       08 Dec 2000 00:00:00 GMT
+Assigned to Elysion:                    07 Jan 2001 03:27:39 GMT
+Judged FALSE by Elysion:                13 Jan 2001 16:45:41 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+[date approximate]
+
+----------------------------------------------------------------------
+EXHIBIT A:  Rule 1586/2 (Power=2)
+            Definition and Continuity of Entities
+----------------------------------------------------------------------
+
+      No two Rule-defined entities shall have the same name or
+      nickname.
+
+      If the Rules defining some entity are repealed or amended
+      such that they no longer define that entity, then that
+      entity along with all its properties shall cease to exist.
+
+      If the Rules defining an entity are amended such that they
+      still define that entity but with different properties,
+      that entity and its properties shall continue to exist to
+      whatever extent is possible under the new definitions.
+
+----------------------------------------------------------------------
+EXHIBIT B:  Proposal #4090 by Steve, AI=2
+            Debt conversion
+            Adopted 8 Dec 2000
+----------------------------------------------------------------------
+
+Create a Rule entitled "Debt conversion" with Power = 2, with the
+following text:
+
+      Upon the creation of this Rule, all outstanding debts and
+      liabilities denominated in Voting Tokens, Indulgence Auction
+      Tokens, or Proposal Notes, are converted into debts for an equal
+      number of Stems.
+
+      Where the original debts or liabilities arose in connection with
+      the conduct of an Auction, satisfaction of the converted Stem
+      debts constitutes satisfaction of the debts arising from the
+      Auction.
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+    Rule 1586 should be interpreted such that the Rule created by
+    Proposal 4090 (Debt Conversion) has no effect, since any outstanding
+    debts and liabilities in Basic Currencies were canceled when Basic
+    Currencies were abolished from the Rules.
+
+This statement deals with both debts and liabilities. The latter term
+appears in only 3 rules (one of which is rule 1961, the rule created by
+proposal 4090). From rule 1853/6 (Levying Taxes):
+
+    Upon the announcement of a tax levy conforming with the above
+    requirements, each taxable entity becomes liable to the Bank
+    for a debt equal to the percentage stated in the announcement
+    of that entity's holdings in the taxed Currency at the time of
+    the announcement of the levy.
+
+>From rule 1887/7 (Default Procedure for Auctions):
+
+    Upon the announcement of the Auction Results, for each
+    winning Bid, the winning Bidder becomes liable to the Bank
+    for the amount of the winning Bid. Unless specified
+    otherwise, when one of these debts is satisfied, the
+    Auctioneer shall transfer one of the items under auction to
+    the debtor.
+
+Rule 1887 refers to "one of these debts," which this Judge interprets to
+refer to the liabilities caused by the previous sentence. In the context
+of the excerpt from rule 1853, it is reasonable to read "becomes liable"
+as "incurs a debt." This suggests that under the rules, a liability is
+equivalent to a debt. The definition of liability at www.m-w.com supports
+this:
+
+2 : something for which one is liable; especially : pecuniary obligation :
+DEBT -- usually used in plural
+
+(Definitions 1 and 3 were not relevant.)
+
+However, rule 1596/5 (Debt) defines Debt (although not capitalized in the
+rules, I capitalize it here for clarity) differently from the everyday
+English word debt. So are liabilities Debts or debts? And which does
+proposal 4090 refer to?
+
+In the rules, the word "debt" is actually Debt because 1596 gives the word
+"debt" in the rules a different meaning than the everyday meaning. Thus,
+the liabilities referred to by rules 1853 and 1887 are actually Debts. In
+eir judgment in CFJ 1257, Judge Kelly argues that Debts are liabilities for
+Property. Kelly's argument is consistent with this interpretation of rules
+1853 and 1887 because those liabilities involve Property. Furthermore,
+Kelly's argument is consistent with the definition of liability: debt, in
+its everyday meaning.
+
+Rule 1961 refers to both Debts and liabilities. Since Peekee incurred a
+liability for a non-Property, it is a liability and a debt but not a Debt.
+Thus, rule 1961 converted Peekee's liability. However, the statement is
+about the interpretation of rule 1586. Suppose, for a moment, that rule
+1586 did not exist. Peekee would still have a liability and this liability
+would still be converted by rule 1961. Thus, the statement as given is
+FALSE.
+
+I note that the intended statement "Proposal 4090 converted nothing" is
+also FALSE, but for a different reason.
+
+========================================================================

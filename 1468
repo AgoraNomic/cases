@@ -1,0 +1,29 @@
+==============================  CFJ 1468  ==============================
+
+    A player may perform multiple fee-based actions (e.g. extending eir
+    Oligarchic Term of Service by the Oligarchic Term twice) by
+    announcing the net effect of those actions.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Taral
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       05 Oct 2003 07:29:13 GMT
+Assigned to Taral:                      06 Oct 2003 00:05:56 GMT
+Judged FALSE by Taral:                  15 Oct 2003 08:11:14 GMT
+
+========================================================================
+
+Judge Taral's Arguments:
+
+    R1941 specifies that there must be one announcement for each Fee
+    paid.
+
+========================================================================

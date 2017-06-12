@@ -1,0 +1,60 @@
+==============================  CFJ 1501  ==============================
+
+    All Players who are Electee to one or more Offices are Politicians.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Maud
+Judgement:                              DISMISS
+
+========================================================================
+
+History:
+
+Called by Murphy:                       16 May 2004 06:57:52 GMT
+Assigned to Maud:                       22 May 2004 18:15:53 GMT
+Dismissed by Maud:                      28 May 2004 06:00:53 GMT
+
+========================================================================
+
+Judge Maud's Arguments:
+
+Until recently, the term ``politician'' refered either to a particular
+state of some switch, or to a player whose switch was in that particular
+state.  However, the rules defining the switch was repealed or amended
+such that they no longer defined the switch.  Therefore, by rule 1586,
+the switch no longer exists.  If we take ``politician'' to mean a player
+whose switch is in the politician state, then of course there are no
+such players.  But even that definition has been removed from the
+rules.
+
+The term ``politician'' is not primarily used in mathematical or legal
+contexts.  So by rule 754, we are obliged to interpret the term by its
+ordinary-language meaning.
+
+The judge of CFJ 1500 held that a poltician is "one who indulges in
+politics, often through elected office".  This characterization is
+reasonable but perhaps a bit too broad.  However, almost any definition
+of an ordinary-language term is either too broad or too specific, so
+we can use it as a rough guide.
+
+
+==============================  CFJ 1501  ==============================
+
+    All Players who are Electee to one or more Offices are
+    Politicians.
+
+========================================================================
+
+When applying the above characterization, one should be careful to note
+that ``elected office'' is an ordinary-language phrase.  The Agoran
+term ``Office'' refers to something besides an office, and the Agoran
+term ``Electee'' arguably refers to something besides an electee.  So
+there is not a necessary connection between being an (Agoran) Electee
+to (Agoran) Office and being a politician.
+
+Therefore, I dismiss CFJ 1501.
+
+========================================================================

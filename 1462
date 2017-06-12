@@ -1,0 +1,94 @@
+==============================  CFJ 1462  ==============================
+
+    The Oligarchy Charge Requirement, as defined by the Grand Warden of
+    the Oligarchy's Budget, is 6.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Blob
+Judgement:                              
+
+
+Judge:                                  Sir Toby
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         29 Sep 2003 01:14:26 GMT
+Assigned to Blob:                       03 Oct 2003 00:28:30 GMT
+Blob recused:                           12 Oct 2003 00:40:58 GMT
+Assigned to Sir Toby:                   12 Oct 2003 00:40:58 GMT
+Judged TRUE by Sir Toby:                17 Oct 2003 05:59:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1958(e) stipulates that the proto-budget of an election winner becomes
+the budget of that office "when the voting period ends".  Since OscarMeyr
+was the only candidate in the most recent GWotO election, that election had
+no voting period, and so OscarMeyr's proto-budget never became the GWotO's
+budget.
+
+Note: this language has been in Rule 1958 apparently since it was created
+in August 2000, so there are almost certainly other cases of incorrect
+budgets possibly dating back more than 3 years.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1958/1 (Power=1)
+Nominating with Budgets
+
+      (a) If an office has a budget, then a nomination in an election
+          for that office is not valid unless a valid proto-budget is
+          associated with it.
+
+      (b) A proto-budget submitted by a nominee during the nominating
+          period is associated with that nominee's nomination. A
+          proto-budget is valid if it would be valid as a budget.
+
+      (c) If a nominee for an Office fails to submit a valid
+          proto-budget during the nominating period, then by default
+          eir nomination is associated with a proto-budget identical
+          to the current budget for that Office.  If the current
+          budget is not valid, tough cookies.
+
+      (d) When the voting period begins, the vote collector shall
+          announce each candidate's last valid proto-budget.
+
+      (e) When the voting period ends, the winner's last valid
+          proto-budget becomes the budget of that office, and e shall
+          announce it as soon as possible. If the election ends
+          without a winner, then the existing Budget remains in
+          effect.
+
+
+Message in which the previous GWotO budget was last reported:
+http://www.agoranomic.org/pipermail/agora-official/2003-August/000768.html
+
+Message in which the beginning of the GWotO election was announced:
+http://www.agoranomic.org/pipermail/agora-official/2003-September/000800.html
+
+Message in which OscarMeyr nominated for GWotO:
+http://www.agoranomic.org/pipermail/agora-business/2003-September/001961.html
+
+Message in which OscarMeyr submitted eir proto-Budget for GWotO:
+http://www.agoranomic.org/pipermail/agora-business/2003-September/001970.html
+
+Message in which the end of the GWotO election was announced:
+http://www.agoranomic.org/pipermail/agora-official/2003-September/000819.html
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+There was no voting period in the election, therefore Rule 1958, paragraph
+(e) did not cause the budget to change.
+
+========================================================================

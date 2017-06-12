@@ -1,0 +1,125 @@
+==============================  CFJ 2264  ==============================
+
+    Contracts CAN be amended by a mechanism other than unanimous consent
+    of all parties.
+
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       11 Nov 2008 14:35:33 GMT
+Assigned to ais523:                     15 Nov 2008 16:47:27 GMT
+Judged TRUE by ais523:                  22 Nov 2008 13:11:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The ruling in CFJ 2246 strongly implies that any amendment
+process other than unanimous consent violates R101.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Other amendment processes don't necessarily 'violate' it in
+the sense of making it not counting as having agreed to the amendment
+either; for instance, without-objection, or without member objection, or
+any method that gives people a chance to leave the contract before it's
+resolved. I think pretty much all popular contracts at the moment have
+such an agreement-safe mechanism.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+When the "rights" clauses of R101 were written, there
+was wording in the Rules that the Rules themselves should be "treated
+as" a contract.  This was since removed and/or broken, but at
+the time there was the following passage (R1503/6):
+      The proposal, fora, and registration processes shall, prima
+      facie, be considered to be protective of a Player's rights and
+      privileges with respect to making and changing the agreement to
+      be bound by the rules.
+This strongly suggests that a Proposal-type process, though non-
+unanimous, was seen as reasonable model for constituting "reasonable
+opportunity to review" an amendment to a contract.  While that direct
+link between contracts and Rules is no more, the wording of that
+right has not substantially changed nor have those standards been
+strongly challenged by precedent to my knowledge, strongly suggesting
+that contracts containing non-unanimous processes with adequate
+distribution and decision-time requirements would not violate R101
+rights.
+
+[n.b. I haven't fully digested CFJ 2246 so don't have a specific
+opinion there as of yet].
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I think that this one is pretty trivially TRUE. However, whether the
+resulting amended contract is effective is an interesting question; R101
+might prevent its effectiveness. According to rule 101(iv), amendments
+to agreements are not considered binding if they have not been reviewed
+by the party to the agreement in question. However, there are certainly
+mechanisms other than unanimous consent which give the parties a chance
+to review, so although this is relevant here it doesn't affect the truth
+of the statement.
+
+The other reason that the contracts might not be binding is rule
+101(iii); however, that covers agreeing to contracts in the first place.
+Whether an amendment counts as a new contract is doubtful; amendments
+change the existing contract. However, there are other reasons why the
+resulting contract might not take effect; effects of a contract which
+rely on agreement to it (such as acting on behalf) won't work unless the
+players in question have actually agreed to it, and violations of
+amendments against the nature of the contract can't be punished by the
+criminal courts (due to TITE) or the equity courts (due to the
+punishment not going against the nature of the contract's original
+intention). In the case of a partnership, though, it's possible that the
+amendment might create obligations that can be punished criminally, but
+even then DISCHARGE might be the resulting punishment.
+
+So I judge CFJ 2264 trivially TRUE to the literal question asked, and
+TRUE to the spirit of the question, but with many caveats; the contract
+can be amended, but might not be enforceable.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Peter Suber's quote (thanks, Murphy!):
+
+"My rationale for requiring unanimous votes for amendment, initially, is
+ to create a kind of social contract in which no player can be overruled
+ until she consents to take the risk by switching to majority rule or
+ some other system."
+
+The splitting of R101(iii) and (iv) is meant to follow this rationale,
+and the fact that there are explicitly two separate standards in (iii)
+and (iv) should be taken to Mean Something.
+
+You have to give explicit consent to join something in the first place.
+But once you agree to join something with non-unanimous change mechanisms,
+or if you are in something with unanimous change mechanisms and you
+agree to make the mechanism non-unanimous, you accept the risk and
+must live with the consequences--no blanket protection once you consent
+to be in (the only caveat being no secret surprises due to (iv)'s review
+clause).  For TITE purposes, any contract that specifies a non-unanimous
+change mechanism has such change as part of its "original intention."
+
+Being inducted into a whole rules system whose jurisdiction you haven't
+agreed to be in is Mousetrapping.  But once you've agreed to step into
+a jurisdiction, if you're put in trouble but a non-unanimous change
+method you agreed to be a part of, that's not a Mousetrap, that's Nomic.
+
+========================================================================

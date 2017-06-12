@@ -1,0 +1,60 @@
+==============================  CFJ 2176  ==============================
+
+    Wolfram Blitzen is the owner of a Twin Sister.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  22 Sep 2008 20:22:21 GMT
+Assigned to G.:                         28 Sep 2008 21:50:20 GMT
+Judged TRUE by G.:                      29 Sep 2008 05:38:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I never specified which Twin
+Sister I was attempting to transfer; then again, there was no way I
+could have done so.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following: {This is a pledge. The Twin Sisters are
+non-fungible assets. There are exactly two Twin Sisters. Initially,
+both Twin Sisters belong to Ivan Hope CXXVII. Ivan Hope CXXVII can
+terminate this pledge by announcement.} If possible, I transfer a Twin
+Sister to Wolfram Blitzen.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+If the twin sisters of this self-contradictory pledge are distinguishable,
+they must at least be distinguishable by name (R1586).  But by design,
+they are not, nor due they differ by backing document, nor by any other
+possible salient features.  Since by design the the twin sisters are
+indistinguishable, they are fungible by the dictionary definition, despite
+the fact that the pledge calls them non-fungible (if the pledge calls a
+cow a duck, it is still a cow).  The Rule for Assets (R2166), while it says
+that all currencies are fungible, does *not* say that all non-currencies
+are non-fungible.
+
+Therefore, what we have here are two fungible (by definition) and therefore
+interchangeable assets that are not currencies; for an entity possessing
+both, it is not required to identify "which" one is transfered in order to
+make a transfer.  TRUE.
+
+[Note, there's a series of similar precedents with Bonds but I don't think
+it's worth looking those up right now].
+
+========================================================================

@@ -1,0 +1,178 @@
+=============================  CFJ 3454  =============================
+
+      Some Agoran Decisions have authors.
+
+======================================================================
+
+Caller:                      G.
+
+Judge:                       ais523
+Judgement:                   TRUE
+
+======================================================================
+
+History:
+
+Called by G.:                28 Sep 2015
+Assigned to aranea:          29 Nov 2015
+aranea recused:               9 Sep 2016
+Assigned to Walker:           9 Sep 2016
+Walker recused:               5 Jan 2017
+Assigned to ais523:           5 Jan 2017
+Judged TRUE by ais523:        6 Jan 2017
+    
+======================================================================
+
+Caller's Arguments:
+
+R1950/30 reads in part:
+An Agoran decision with an adoption index has the following
+essential parameters:
+
+a) Its adoption index.
+b) Its author (and co-authors, if any).
+
+But nothing in the Rules grant authorship to Decisions.  Assuming
+the author of a Proposal transfers to its decision has no basis
+in common definition, either: a Decision is what takes place by the
+Public *after* an author is done with it.
+
+Note that if a Decision with an AI has no Author, a Notice to
+Initiate it could be invalidated by anyone for lacking an Essential
+Parameter (R107(d)).
+
+======================================================================
+
+Judge's Arguments
+
+First off, it's fairly easy to confirm by inspecting the ruleset that
+the word "author" is rarely used in relation to Agoran Decisions;
+nearly every use in the text of the rules relates to the author of a
+proposal, a term that's explicitly defined (as the person who 
+submitted it). The problem, of course, is that an Agoran Decision can 
+be invalidated if its author is incorrectly identified, and thus, we
+need to determine who it is in order to be able to identify em.
+
+It's interesting to note that there are a few other uses of "author"
+in the FLR; the rule /annotations/ (which are of course not part of 
+the ruleset proper, as they can be changed by Rulekeepor fiat) often
+use it to mean, apparently, "the person who submitted a message". The 
+reason is, of course, that "author" is a standard English word, not a
+technical term. Although the rules define it explicitly in relation to
+proposals, this seems to be because it would otherwise be ambiguous in
+cases where multiple players had cooperated on writing the text of the
+proposal. Even so, though, the player who submitted a proposal is
+typically the best candidate according to normal English usage to be
+the author of the proposal /itself/ (as opposed to the author of the
+proposal's /text/, which is only a subset of the proposal); it's rare
+for people to collaborate on things like the title of a proposal, or
+the proposal's coauthor list.
+
+Now, we don't have an explicit definition of "author" in relation to
+Agoran Decisions, so there are three real possibilities:
+
+ a) The definition of "author" on proposals implies a similar
+    on Agoran Decisions too;
+ b) The word "author", when applied to Agoran Decisions, has its 
+    normal English meaning (and is not an Agoran-technical term);
+ c) The word "author" has no meaning in the context of Agoran
+    Decisions.
+
+In situations like this, in which it's unclear how the words in the
+rules are to be interpreted, we turn to the first paragraph of rule
+217, which sets out the appropriate test:
+{{{
+      When interpreting and applying the rules, the text of the rules
+      takes precedence.  Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense,
+      past judgements, and consideration of the best interests of the
+      game.
+}}}
+(Incidentally, someone once started a nomic with this as its only 
+rule; it's perhaps the only paragraph in the entire ruleset that's 
+capable of being a nomic by itself. That sounds like the sort of thing
+that might be worth trying again some time, if it's possible to get
+enough players together.)
+
+There used to be considerably more guidance in the rules, e.g. via
+specifying that legal and mathematical meanings of words were
+preferred, and that words had their normal English meaning unless
+defined otherwise, but that's all been repealed since. So we wouldn't
+expect that sort of definition to guide gameplay (especially as IIRC
+that was part of the reason for repealing it!), except inasmuch as 
+it's affected game custom. It /is/ reasonably clear, though, that the
+ruleset is going to use a number of words that it doesn't define; the
+game would be utterly unplayable if such words had no meaning
+(something which both rules 217 and 1698 go to a lot of effort to
+platonically prevent). So under the common-sense test and the best-
+interests-of-the-game test, I can only conclude that words mean what
+they normally mean unless the ruleset at least /implies/ otherwise
+(of course, outright /stating/ otherwise would immediately overrule
+any other considerations, but the ruleset is silent on what "author"
+means for Agoran Decisions). And in this case, the ruleset certainly
+doesn't imply that Agoran Decisions have no author; if it implies 
+anything on the subject, it's the opposite.
+
+In terms of past judgements, CFJ 1500's judge's arguments held that
+"In the absence of formal definition in the rules, we should take 
+words that appear in the Ruleset to have their usual meaning" (and 
+that case was fairly similar to this one; in that case, "Politician" 
+was being used as a marker/intentionally defined word, but the rule 
+defining it got repealed, and it was ruled that it reverted back to 
+the normal English definition, with G. being held to be a Politician 
+due to being active in the more political aspects of Agora). CFJ 1607 
+was similar, dealing with the accidental repeal of the definition of 
+the word "index" (note that AI stands for Adoption Index, one of 
+Agora's most fundamental concepts, and so damage there could have been
+bad); it found that there was no conflict between the standard English
+definition of "index" and the attempts in the rules to set it to a
+number, but importantly, assumed that the standard English definition
+applied. CFJ 1939 found that "regulated" has its common-language
+meaning, applying similar reasoning in reverse (the rules at the time
+gave a definition of what things were regulated; the CFJ held that
+the
+common English definition of "regulated" meant that this would have
+some effect even if the rules themselves didn't look at the
+definition).
+
+It's also worth considering the history of the (now-repealed) rule
+754, which was intentionally designed to prevent low-powered rules
+defining out words in higher-powered rules from beneath them (thus
+changing their meaning); it's currently unclear whether this trick
+works, or whether rule 2140c blocks it, but the mere fact that it was
+ruled out via preventing low-powered rules defining words in high-
+powered rules implies that there's a general assumption that words in
+high-powered rules have definitions that can be figured out via 
+common-sense, natural-language processes (otherwise this fix would be
+worse than useless, making most of our high-power rules meaningless).
+
+So in other words, I'm pretty clear that the author of an Agoran
+decision, as defined by the ruleset, is the author of the Agoran
+decision, as defined by a typical English dictionary. The one I
+checked described an author as a person who creates or originates
+something (typically but not exclusively a literary work); this would
+strongly imply that the author of an Agoran Decision on whether to 
+adopt a proposal is the Promotor. My personal understanding of what an
+"author" is is that it's the person who's responsible for the creative
+work behind something; again, all the creativity that goes into
+creating an Agoran Decision, apart from that in the proposal or other
+matter that the proposal's about, comes from the Initiator. (And 
+although Agoran Decisions themselves are pretty regimented, and for
+good reason, there's still often creativity that goes into the process
+of creating them, because that process requires sending messages, and
+the format and content of those messages is not fully specified.)
+
+I think there's scope to argue that there's sometimes ambiguity in who
+the author of an Agoran Decision is (ideally, the rules should be
+amended so that it doesn't matter, especially as the rules care that
+the author is correctly identified but not as to who the author
+actually is). However, equally, sometimes there isn't ambiguity. For
+example, a Silver Quill Ceremony is very much the work of the Herald,
+both in terms of its creation/initation, and in terms of the
+creativity behind it; the term "author" isn't even particularly 
+inappropriate for something like that. As such, the statement of the
+CFJ is definitely TRUE – there are some Agoran Decisions which
+unambiguously have authors – and I thus hereby assign that judgement
+to CFJ 3453.
+
+======================================================================

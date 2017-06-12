@@ -1,0 +1,42 @@
+==============================  CFJ 1643  ==============================
+
+    where a proposal specifies a single rule amendment in two parts, and
+    one of the parts is not possible, the whole attempted amendment
+    fails, even if the other part could have been applied if it stood
+    alone
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       29 Apr 2007 23:23:06 GMT
+Assigned to G.:                         29 Apr 2007 23:29:55 GMT
+Judged FALSE by G.:                     29 Apr 2007 23:35:45 GMT
+Appealed by Zefram:                     30 Apr 2007 19:50:36 GMT
+Appealed by Taral:                      30 Apr 2007 21:00:03 GMT
+
+========================================================================
+
+Judge G.'s Arguments:
+
+FALSE:  For example, if the Amendment states "Replace all occurences of
+A with B and of C with D" then if no occurences of A exist, but occurences
+of C do exist, C is successfully changed to D, even if there's no A to
+change to B.
+
+========================================================================
+
+Appellant Zefram's Arguments:
+
+I argue that replacing all occurrences of something that does not actually
+occur is a null action.  Hence in that example both parts are possible,
+so that's not an example of the situation that I described in the CFJ.
+
+========================================================================

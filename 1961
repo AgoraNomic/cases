@@ -1,0 +1,74 @@
+==============================  CFJ 1961  ==============================
+
+    Proposal A is distributed and is filibustered (and remains
+    filibustered) during emergency session; given no rule changes, a
+    week and a day later, a vote cast on it may be valid.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Pavitra
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           20 May 2008 11:13:01 GMT
+Assigned to Pavitra:                    22 May 2008 03:34:52 GMT
+Judged TRUE by Pavitra:                 26 May 2008 22:20:41 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R2168 and R2177 create a loop of voting period ended -> filibuster ->
+quorum high -> voting period didn't end -> quorum not high -> voting
+period ended -> ... making it undecidable whether any vote cast on it
+would be valid.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+That doesn't seem undecidable; when two rules contradict, one takes
+precedence. The contradiction here is not of the usual sort, but the
+fact that you've shown a loop means that a contradiction does exist.
+Contradictions should be broken in favour of the higher-power or
+lower-numbered rule; I don't think you've created a paradox here.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+R2168 requires only that the result "would be FAILED QUORUM" if the
+voting period actually ended at that time, not that the number of
+distinct voters who submitted valid ballots continues to be less than
+quorum after the voting period is extended.
+
+If the caller's logic were valid, we would have to consider that R2168
+was paradoxical in itself, without the filibuster rules, because by the
+same reasoning, period ended -> length doubled -> period not ended ->
+length not doubled -> period ended -> ... making it undecidable whether
+R2168 ever actually works at all.
+
+Fortunately, this is not the case; the wording "would end" and "would
+be FAILED QUORUM" create an insulating buffer of subjunctivity.
+
+========================================================================
+
+Judge Pavitra's Evidence:
+
+From R2177:
+      A proposal that ends its voting period in filibuster has a
+      quorum of the number of eligible voters plus 1, rules to the
+      contrary notwithstanding.
+
+From R2168:
+      Whenever the voting period of an Agoran decision would end, and
+      the result would be FAILED QUORUM, the length of the voting
+      period for that decision will immediately be doubled, provided
+      this has not already happened for the decision in question.
+
+========================================================================

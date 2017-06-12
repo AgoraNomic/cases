@@ -1,0 +1,114 @@
+==============================  CFJ 1955  ==============================
+
+    If Rule 101 gives me the right to perform an action in this game,
+    but the Rules do not define a mechanism for performing that action,
+    I can perform it by announcement.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          15 May 2008 22:46:54 GMT
+Assigned to G.:                         16 May 2008 05:37:28 GMT
+Judged FALSE by G.:                     16 May 2008 07:57:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+For example, if the Rules are changed so that CFJs are still defined
+but there is no way of initiating them, can I invoke R101 (iii.) to
+initiate a CFJ by announcement?
+
+========================================================================
+
+Judge G.'s Arguments:
+
+If a right is contained in R101, but there's no CAN in the Rules, can
+we infer a CAN?  And can we infer that the CAN is by announcement?  Let's
+look right-by-right and see where we get:
+
+        ii. Every player has the right to perform an action which is
+            not regulated.
+
+This right includes many things, some of which *can be explicitly defined*
+so as not to be performable by announcement.  For example, this currently
+gives players the right to whistle in bed, which by definition can't be
+"performed by announcement."  (Informing Agora that it was done, by
+announcement, isn't the same thing as doing it).  Based on this, FALSE.
+Having found a counterexample, I may stop there.  But this is fun--
+especially because there is a paradox ahead.  I shall continue.
+
+       iii. Every person has the right to initiate a formal process to
+            resolve matters of controversy, in the reasonable
+            expectation that the controversy will thereby be resolved.
+            Every person has the right to cause formal reconsideration
+            of any judicial determination that e should be punished.
+
+In order to initiate a formal process in the absence of another mechanism,
+this clause *must* allow a CAN to be inferred.  On its face, there is no
+reason to infer that "by announcement" is a necessary pathway.  In fact,
+in the old system, R991 read "Any person may request formal resolution of
+a dispute pertaining to this Nomic by submitting a Call for Judgement '(CFJ)
+to the Clerk of the Courts" and this submission could be done privately.
+Still, one thing we can say is that in order to initiate a formal process,
+you must submit proof that you did so to *somebody*, and by definition, an
+announcement submits it to everybody, so it must include the right person.
+For this right, the statement is TRUE.
+
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absence of a person's explicit,
+            willful consent shall be considered a refusal.
+
+This right itself contains a mechanism that is "not to make an announcement."
+Still, one can always make an announcement that refuses something.  TRUE.
+
+         v. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, which e has
+            not had the reasonable opportunity to review.
+
+This is a "negative right", in that it limits the abilities of others
+(and the law) to consider you bound to something.  N/A.
+
+        vi. Every player has the right of participation in the fora.
+
+To participate in a forum is to send messages to it.  Discussion fora
+are part of the system.  By definition, you can't participate in a
+discussion forum by announcement.  FALSE.  Though again by definition,
+you can always send a message to the public fora by announcement (I
+can't decide: is this trivial or impossibly recursive?)
+
+       vii. Every person has the right to not be penalized more than
+            once for any single action or inaction.
+
+Another negative right.  This is a right that prevents others from doing
+things to you, not a right to act yourself.  N/A.
+
+      viii. Every player has the right to deregister rather than
+            continue to play.
+
+Following the model for (iii), we must infer a CAN here.  That act of
+will, most reasonably, would include informing a recordkeepor for
+registration that you are taking your toys and going home.  This can be
+done by announcement.  TRUE.
+
+RESULT:  Of seven rights, two are not rights to perform an action (v and
+vii), three (iii, iv, and viii), *do* guarantee that the ability to perform
+the task by announcement, for one (ii) actions that are part of that right
+may be trivially defined so that it is impossible to perform the task by
+announcement, and for one (ironically, vi) it is not possible, and possibly
+paradoxical, by definition.
+
+Overall, then, there is no *general* rule that an action that is guaranteed
+by virtue of a right may be performed by announcement.
+
+Because I can, by announcement, I find this CFJ FALSE.
+
+========================================================================

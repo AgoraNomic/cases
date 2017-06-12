@@ -1,0 +1,98 @@
+==============================  CFJ 2294  ==============================
+
+    Warrigal has a Red Ribbon.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Elysion
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       29 Nov 2008 18:47:02 GMT
+Assigned to root:                       02 Dec 2008 07:40:52 GMT
+root recused:                           10 Dec 2008 22:47:41 GMT
+Assigned to Elysion:                    10 Dec 2008 23:57:43 GMT
+Judged FALSE by Elysion:                13 Dec 2008 21:01:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R2199:
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >= 3, its proposer gains a Red Ribbon.
+
+It's unclear to me whether up-mutating a rule with Power < 3 to Power
+3 counts as changing a rule with Power >= 3.
+
+========================================================================
+
+Caller's Evidence:
+
+On Sat, Nov 29, 2008 at 11:18 AM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> Proposal 5983 (Democratic, AI=3.0, Interest=1) by Warrigal
+> Stronger Depatation
+>
+> Set the power of Rule 2160 to 3.
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+Let us first dispense with the trivial case. The Tailor's Report [1], does not
+show Warrigal having earned a Red Ribbon from any activity other than
+(possibly) Proposal 5983. As this Judge is not aware of any other claims that
+Warrigal earned a Red Ribbon, this case revolves around whether Proposal 5983
+satisfies Rule 2199(+R).
+
+Rule 2199/2 (Ribbons) sets out the criterion for gaining a Red Ribbon as
+follows:
+
+      (+R) When an interested proposal is adopted and changes at least
+           one rule with Power >= 3, its proposer gains a Red Ribbon.
+
+Since Rule 2199/2 does not otherwise define "changes [to a] rule" this Judge
+finds that language to be equivalent to a "rule change" under 105/3.
+
+Proposal 5983 (AI=3) reads in its entirety [2]:
+
+    Set the power of Rule 2160 to 3.
+
+Rule 105/3 (Rule Changes) reads in part:
+
+      (e) change the power of a rule.
+
+      A rule change is any effect that falls into the above classes.
+
+Prior to the adoption of Proposal 5983, Rule 2160 had Power=1. Thus, by
+raising the Power of Rule 2160 from 1 to 3, Proposal 5863 did make a rule
+change. However, 2199/2(+R) also requires the change to be to a rule "with
+Power >= 3," which was not the case for Rule 2160 at the time of the change.
+Thus, Proposal 5983 does not satisfy 2199/2(+R), rendering the statement
+FALSE. (Note that since Rule 2160 is now Power=3, a Proposal to lower its
+Power would qualify under 2199/2(+R) using this interpretation.)
+
+This ruling interprets 2199/2(+R) as "interested proposal that changes at
+least one (rule with Power >= 3)." An alternative interpretation could be
+"interested proposal that changes (with Power >= 3) at least one rule."
+However, the most natural reading of the language interprets "with Power >= 3"
+as applying to the nearest antecedent that makes reasonable sense. Thus, the
+interpretation adopted by this ruling is the most reasonable reading of the
+language.
+
+[1] http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-Dece
+mber/005486.html
+
+[2] http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-Nove
+mber/005413.html
+
+========================================================================

@@ -1,0 +1,115 @@
+==============================  CFJ 2897  ==============================
+
+    ehird was a Rebel in the most recent Rebellion.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      09 Nov 2010 01:24:37 GMT
+Assigned to ais523:                     15 Nov 2010 00:17:03 GMT
+Judged TRUE by ais523:                  20 Nov 2010 22:25:03 GMT
+Reconsideration requested by Murphy:    22 Nov 2010 02:07:33 GMT
+Reconsideration requested by scshunt:   22 Nov 2010 02:40:03 GMT
+Reconsideration requested by Yally:     22 Nov 2010 02:49:40 GMT
+Assigned to ais523:                     22 Nov 2010 02:49:40 GMT
+Judged TRUE by ais523:                  23 Nov 2010 14:59:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ehird sent a message saying 'me too' to a-b in reply to my message, which
+contained only me declaring that I rebel and a signature.
+
+While it was not explicitly quoted, I think it was sufficiently
+unambiguous, given that the message was referred to in the headers and
+included only one action.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+CFJ 2777:  headers can be used as context *if* the body of the message
+somehow clearly refers to them.
+
+I'd say this reference is not entirely clear (though even Wooble knew
+what it referred to even if e thought it didn't work) so is right smack
+on the borderline of acceptable.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+[CotC: alleged judgement of TRUE involved similar subject-line ambiguity; if
+it was effective, then this alleged judgement wasn't]
+
+If I haven't already done so, I judge CFJ 2897 FALSE.
+
+Arguments: I think everyone can agree that this definitely gives the CFJ
+the correct judgement.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+There isn't much rules or precedence
+basis to rule this either way. However, as far as I can tell, a subject
+line is sent via the forum, and visible enough that it's not obscure or
+an attempt to sneak actions past other players. Quoting another message,
+especially on a case where many people will want to react to it, invites
+a search for looking elsewhere on the message (say, the subject line) to
+figure out what actions are being taken. (If there was a Re: in the
+subject line, or other lines that show it wasn't conciously meant to
+take an action, this line of reasoning wouldn't apply.)
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d924>:
+
+I intend (with 2 support) to file a Motion to Reconsider the question
+of veracity for CFJ 2897, requesting that the judge explicitly choose
+an interpretation the second time around.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I'm having problems with the CFJ in question. The problem is that game
+custom and past CFJs give a strong indication that ehird's attempt
+failed; but the rules, to me, give a weak indication that it succeeded,
+and they take precedence. (As far as I can tell, subject lines are sent
+via the fora along with the rest of the message, and the only thing that
+could cause that to /not/ take an action is if it's too ambiguous to
+succeed. Hidden email headers are one thing, where there's ambiguity
+caused by the fact that people might not see the header in question, but
+with a plainly visible header like the subject line, in a situation
+where the subject line is clearly deliberately changed to take a message
+(e.g. because it's a reply to another message and has been deliberately
+edited, like it was in ehird's case), I can't see a rules-based reason
+to disallow it.
+
+Additionally, I don't see why everyone's annoyed with me for not judging
+this sooner. For one thing, it's II 0 and thus, by definition,
+uninteresting and unimportant. For another thing, CFJ judgements are not
+definitive. A judgement in this matter is entirely useless if it turns
+out to be incorrect. Sure, I could just say TRUE or FALSE with some
+reasonable reasoning (which I did!), but that doesn't mean that the
+verdict is necessarily platonically correct. If you want certainty about
+the gamestate, I suggest you sort it out pragmatically, via urgent
+proposal or ratification or whatever; attempting to deduce the platonic
+gamestate in a situation as balanced as this is fraught with danger, due
+to the chance of getting the wrong result.
+
+========================================================================

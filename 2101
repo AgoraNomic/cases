@@ -1,0 +1,267 @@
+==============================  CFJ 2101  ==============================
+
+    Equity case judgements violate R101(iv).
+
+========================================================================
+
+Caller:                                 Sgeo
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+Appeal:                                 2101a
+Decision:                               REASSIGN
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Sgeo:                         20 Jul 2008 23:15:30 GMT
+Assigned to omd:                        25 Jul 2008 07:19:33 GMT
+Judged TRUE by omd:                     09 Aug 2008 18:14:19 GMT
+Appealed by Wooble:                     09 Aug 2008 18:49:35 GMT
+Appealed by G.:                         09 Aug 2008 19:06:14 GMT
+Appealed by Murphy:                     09 Aug 2008 20:46:49 GMT
+Appeal 2101a:                           09 Aug 2008 20:59:43 GMT
+REASSIGNED on Appeal:                   20 Sep 2008 18:52:34 GMT
+Assigned to ais523:                     20 Sep 2008 18:52:34 GMT
+Judged FALSE by ais523:                 20 Sep 2008 20:52:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absence of a person's explicit,
+            willful consent shall be considered a refusal.
+
+========================================================================
+
+Judge omd's Arguments:
+
+First, literally, this statement makes no sense.  Rules generally can
+only be violated by persons, or, at least, there is no way I know for
+a contract, equation, or any other kind of thing to violate a Rule.
+Furthermore, I am of the opinion that Rule 101 categorically cannot be
+violated, except perhaps for the last paragraph.  When a right or
+privilege applies, any Rule or action that purports to conflict with
+it is simply ineffective, not illegal.
+
+But obviously the caller is asking whether Rule 2169's "the judgement
+is in effect as a binding agreement between the parties" is in
+conflict with R101, so that the right to refuse to become party to a
+binding agreement can be applied.
+
+Rule 1742 says:
+      Contracts are binding agreements governed by the rules.  Any
+      agreement made by one or more persons with the intention that it
+      be binding on them and governed by the rules is a contract
+      (unless it would automatically terminate as a contract).
+
+Clearly, if a contract is made to be "governed" by the Rules, then the
+Rules can do whatever they want to it.  Contracts are not normal game
+objects: the precedent is that they are primordial things, and it
+would be entirely possible for Agora to recognize contracts
+"adjudicated through the Rules" or some such thing, in which case
+proposals and Rules would be ineffective at modifying them.
+
+But R1742 contracts are _governed_ by the Rules.  The Rules can create
+a new contract and assign some parties to it.  They can modify an
+existing contract, or paint it white.  The only question is whether
+there is a rights issue.
+
+To quote Rule 101:
+
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absence of a person's explicit,
+            willful consent shall be considered a refusal.
+
+         v. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, which e has
+            not had the reasonable opportunity to review.
+
+Since Rule 101 is intentionally vague, you might think that an
+amendment to a contract that adds new terms would also count as a
+"binding agreement", because it's effectively the same thing.  But
+Rule 101 (v) explicitly mentions amendments to agreements, so Rule 101
+(iv) should be interpreted such that only new agreements are covered.
+
+Therefore, one way for Rule 2169 to avoid the rights issue is to have
+equations come into effect as amendments to the original contract.
+
+The next question is whether Rule 101 (iv) applies at all with
+Rules-imposed contracts, i.e. do I have the right to refuse to become
+party to an equation?  The second sentence is irrelevant; it covers
+what happens if I neither consent nor refuse to become party.  So I
+think it's pretty simple.  Every person has the right to refuse to
+become a party to any binding agreement.  Equations are binding
+agreements.  Rule 101 is much more powerful than Rule 2169, so yeah,
+the right applies here.
+
+With respect to the second sentence, some would argue that posting this
+message:
+
+  I agree to this contract.
+
+implicitly constitutes willful consent to become party to any
+equations on the issue.  I think it does, but I will not opine on
+whether this is the case, because Rule 101 requires explicit consent.
+
+"I agree to this equation" is explicit consent.
+
+"I agree to all equations that may arise as a result of contracts I'm
+in" is explicit consent.
+
+"I agree to this original contract" is not explicit consent.
+
+Therefore, not only do people have the right to become party to
+equations, they are by default NOT party to them, and do not become
+such unless they explicitly agree.  CFJ 2101 is TRUE, although the
+aforementioned loophole could be exploited to avoid R101.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+> Therefore, not only do people have the right to become party to
+> equations,
+
+Refuse to become party, that is.
+
+========================================================================
+
+Appellant Wooble's Arguments:
+
+I intend, with 2 support, to appeal the judgment in CFJ 2101.  It's
+reasonable to think that 101(viii), 101(iv), and game custom in nomic,
+not just in Agora but going back to Suber's publication of The Paradox
+of Self Amendment, combine to create an implied ability to completely
+cease to be a participant in Agora by announcement, releasing a person
+of all obligations under Agoran rule and contracts given authority
+under that rule.  This ability would mean that a person's right to not
+be bound by an agreement is not violated by Equity judgments binding
+em as long as e chooses to participate in Agora either as a player or
+in the general sense. Any precedent to the contrary should be ignored
+as it doesn't take into account the history of nomic, the best
+interests of the game, and common sense which says that game-imposed
+obligations cannot, in general, be applied to non-participants by the
+definition of what it means to play a game.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I support this.  The equity case process, when coupled with appeals,
+means that any party has an opportunity to "review" an agreement amendment
+imposed by equity, thus not conflicting with R101(v).  (Note that R101v
+is written so that you don't have to agree to the amendment, just have
+to have a chance to review it.  For example, an amendment that you vote
+against in a majority voting process, or is imposed through equity, is
+still binding to those who vote against it as long as the process gave
+voters adequate time for review).  R101(iv) refers to becoming party to the
+initial agreement, not the equity result; agreeing to become party
+to the initial agreement as "binding" under these Rules means explicitly
+agreeing to a process in the Rules for enforcing the binding, and that
+is currently the equity process.  Otherwise the term "binding" has no
+meaning.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, this CFJ is moot for future equity judgements, as the relevant
+rules have been changed, yet it is still of interest to determine what
+happened with respect to past CFJs. Second, the case is obviously FALSE
+because as equity case judgements are sometimes (indeed usually) not
+partnerships, they are sometimes not persons, and thus incapable of
+violating rules. There is still a rules point to settle, though, which
+is whether equations made before the recent change in rules are
+binding.
+
+>From rule 101:
+{{{
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absence of a person's explicit,
+            willful consent shall be considered a refusal.
+}}}
+
+>From the version of rule 2169 in force at the time (which rule 101 took
+precedence over):
+{{{
+      When an applicable question on equation in an equity case has a
+      judgement, and has had that judgement continuously for the past
+      week (or all parties to the contract have approved that
+      judgement), the judgement is in effect as a binding agreement
+      between the parties.  In this role it is subject to modification
+      or termination by the usual processes governing binding
+      agreements.
+}}}
+
+The case of all parties to the contract approving that judgement clearly
+does not contradict rule 101(iv), as that would be tantamount to
+agreeing to the new agreement. However, the case of the judgement coming
+into force over time is more interesting. (In passing, I will note that
+101(v) is not relevant here as the week's waiting time is adequate
+chance to review the new agreement.)
+
+Wooble's appellant arguments are not convincing here; although game
+custom in nomic is important, it cannot override rule 101, due to being
+less powerful, and especially as comex started this CFJ as part of a
+minor scam; game custom is also that the literal meaning of rules are
+especially important when scams are involved. I'm also not convinced
+that in Agora in particular (unlike in some other nomics) buggy rules
+are held to act as if they weren't buggy; for instance, the Caste rule
+was buggy when first set up. The implied ability to completely vanish
+from Agora may well exist, but actively preventing an equation taking
+hold is quite different from passively not agreeing to it, and 101(iv)
+is clear that the second course of action is sufficient to avoid a
+contract, even if the first exists.
+
+Goethe's arguments are more interesting; e is certainly correct with
+respect to rule 101(v), and the discussion with respect to rule 101(iv)
+is, at its heart, whether agreeing to the initial contract is also
+agreement to any equations that may be produced with respect to that
+contract. The important point here seems to be whether, and in what
+form, rule 2169 existed at the time the players bound by the equity case
+agreed to the original contract. If there is a rule in the ruleset that
+implies that people can be potentially bound by an equation if they
+agree to a contract, it stands to reason that a player should be aware
+of this at the time that they agree to a contract, and thus are agreeing
+to be bound by any equations that may appear as a result of it as well.
+(The "explicit, wilful consent" required does exist here.) Again, if the
+rule in question does not exist, then it stands to reason that the
+player is not agreeing to equity judgements as a result, and therefore
+unless they explicitly agree the contract to become equationable, or
+explicitly agree to any equation, there seems to be no source of
+agreement to the equation to satisfy rule 101(iv). So in the case of a
+player agreeing to a contract, there are circumstances in which rule
+101(iv) overrides the then-existing form of rule 2169 and prevents the
+binding agreement binding them, and circumstances in which there is no
+conflict.
+
+The case of non-player participants in contracts being bound by
+equations is even more interesting, as for non-players the possibility
+that they are unaware of the implications of rule 2169 also exists. (I
+have heard that even some players do not read the Ruleset, but believe
+that there is a strong presumption that all players are aware of the
+Rules, and that ignorance of the rules is no excuse for defending a
+player against criminal charges; also there is strong and more-or-less
+binding game custom to this effect, and it is very hard for a scamster
+to prove that they have not read the ruleset, especially as most scams
+require a detailed knowledge of how it works.) As non-Agorans are not
+even necessarily subscribed to a public forum, it seems quite possible
+that a non-Agoran could join an Agoran contract yet be unaware of the
+equity system, and therefore would not be agreeing to be bound by
+equations created as a result of it. Thus I conclude that equations, by
+default, are not binding under non-players under the old form of rule
+2169.
+
+As for the actual CFJ, I judge FALSE on CFJ 2101: the statement most
+naturally reads as "All equity case judgements violate R101(iv)", and
+there are certainly cases in which they don't.
+
+========================================================================

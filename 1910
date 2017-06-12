@@ -1,0 +1,70 @@
+==============================  CFJ 1910  ==============================
+
+    One or more partnerships exist.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         10 Mar 2008 22:04:32 GMT
+Assigned to Murphy:                     11 Mar 2008 20:04:30 GMT
+Judged TRUE by Murphy:                  15 Mar 2008 03:47:44 GMT
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+This judgement hinges on the second paragraph of Rule 2166, whose
+clauses are numbered below for ease of reference:
+
+  1) Each asset has exactly one owner.
+
+  2) If an asset would otherwise lack an owner, it is owned by the Bank.
+
+  3) If an asset's backing document restricts its ownership to a class
+     of entities, then that asset CANNOT be gained by or transferred to
+     an entity outside that class,
+
+  4) and is destroyed if it is owned by an entity outside that class.
+
+The argument for the statement's falsehood is that the contract defining
+partnerships as assets triggered 2), then 4).  This raises three issues:
+
+  a) Does 3) apply?
+  b) If so, does 3) take precedence over 1) and 2)?
+  c) If so, does anything take precedence over 3)?
+
+Answers:
+
+  a) "gained by" does not apply; "gain" is explicitly defined (by the
+     fourth paragraph of Rule 2166) as applying only to newly created
+     assets.  "transferred to" is ambiguous; it is not explicitly
+     defined, and a quick check of dictionary.com turns up consistent
+     evidence that a transfer must have a source as well as a
+     destination; but the state of non-ownership can be interpreted as
+     a source (consider the analogy of a boat that travels from
+     international waters to a Portuguese harbor).
+
+  b) Also ambiguous.  3) conflicts with 1) and 2), but there are no
+     general rules for resolving conflicts within a rule.  The most
+     unambiguous guideline is that unopposed claims of precedence
+     succeed, but none of the clauses claims precedence.  A more
+     ambiguous guideline is that later clauses take precedence over
+     earlier ones.
+
+  c) No.  No other rule attempts to take precedence over 3).  4) does
+     not attempt to take precedence over 3), either; it simply states
+     what happens if something does take precedence over 3).
+
+In the interest of preserving the intent of the rule (and I should
+know, I wrote it), I interpret that 3) does apply, and does take
+precedence over 1) and 2).  Accordingly, I judge TRUE.
+
+========================================================================

@@ -1,0 +1,68 @@
+==============================  CFJ 3200  ==============================
+
+    The Executor of actions performed by announcement in a cashed
+    promise is generally the same as the Executor of the message in
+    which the promise was cashed.
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        09 Apr 2012 04:16:12 GMT
+Assigned to scshunt:                    09 Apr 2012 04:49:16 GMT
+Judged FALSE by scshunt:                09 Apr 2012 22:29:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Cashing a promise causes its text to be effectively published by its author;
+it doesn't actually cause them to send a message.  The person who most
+directly caused the message to be sent is the person who cashed the promise.
+Therefore, they are the Executor of any actions performed in that message,
+regardless of who performed them.
+
+========================================================================
+
+Caller's Evidence:
+
+The Executor of a public message is the first-class person who sends it, or
+who most directly and immediately causes it to be sent.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+The definition of "publish" and "announce" (as in "executor of
+the announcement") involves sending a message; it seems clear that
+cashing a promise creates a simulated message.
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+You're being silly; the CFJ is obviously TRUE. The whole point of
+executorhood is to cut through all the layers of simualation and
+indirection and get to the actual person who pushes the button.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The only sensible interpretation of the 'or' in Rule 2170 is that it
+presents a fallback provision, so the 'most directy' test is used only
+where the message is sent by a first-class player. But Rule 2338 says
+that the text inside a promise is interpreted as if published; the
+judge concurs with H. omd's arguments that it should be interpreted as
+creating a simulated message.
+
+As such, this CFJ is FALSE.
+
+========================================================================

@@ -1,0 +1,50 @@
+==============================  CFJ 3130  ==============================
+
+    ehird is a player.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       06 Dec 2011 05:18:02 GMT
+Assigned to ais523:                     06 Dec 2011 08:55:34 GMT
+Judged FALSE by ais523:                 07 Dec 2011 21:14:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Similar to CFJ 2980, but with the potential ambiguity
+of "I do so" replaced with the potential ambiguity of nested clauses.
+
+========================================================================
+
+Caller's Evidence:
+
+ehird wrote:
+
+> Do or did
+>
+> I register.
+>
+> ? (CFJ.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 3130 FALSE. Rule 754 defines difference in the type or
+amount of whitespace as completely irrelevant in all forms of
+communication for all purposes, so ehird's message can only be read as
+"Do or did I register. ? (CFJ.)", which can only reasonably be
+interpreted as a slightly typoed inquiry CFJ, rather than a registration
+statement.
+
+========================================================================

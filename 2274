@@ -1,0 +1,224 @@
+==============================  CFJ 2274  ==============================
+
+    The Agoran decisions of whether to adopt proposals 5956 and 5962 are
+    democratic.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+Appeal:                                 2274a
+Decision:                               REASSIGN
+
+
+Judge:                                  Elysion
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         17 Nov 2008 21:25:15 GMT
+Assigned to Machiavelli:                19 Nov 2008 02:50:35 GMT
+Judged TRUE by Machiavelli:             20 Nov 2008 22:57:29 GMT
+Appealed by omd:                        21 Nov 2008 01:33:54 GMT
+Appealed by ehird:                      21 Nov 2008 12:16:34 GMT
+Appealed by ais523:                     21 Nov 2008 14:21:46 GMT
+Appeal 2274a:                           21 Nov 2008 20:44:29 GMT
+REASSIGNED on Appeal:                   03 Dec 2008 17:15:28 GMT
+Assigned to Elysion:                    07 Dec 2008 05:11:10 GMT
+Judged TRUE by Elysion:                 13 Dec 2008 22:15:05 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+root attempted to make proposals 5956 and 5962 democratic,
+with the support of Murphy and Wooble.  This case revolves around
+whether this attempt is R754-synonymous with making the the decisions
+to adopt those proposals democratic.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+> On Mon, Nov 17, 2008 at 2:11 PM, comex <comexk@gmail.com> wrote:
+>> Since proposals have adoption indices
+>> in their own right (and it is reasonable to extrapolate
+>> ordinary/democratic-ness of a proposal from AI),
+
+That's a completely unreasonable extrapolation.  There is sufficiently
+strong custom and contextual usage here that the prior democratizing
+refers to the decisions.   Otherwise all the multitude of weaker
+extrapolations (e.g. currently contract-related conditional votes
+is an example that springs to mind) would be equally suspect.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+comex wrote:
+
+> On Mon, Nov 17, 2008 at 4:08 PM, Ian Kelly <ian.g.kelly@gmail.com> wrote:
+>> On Mon, Nov 17, 2008 at 2:06 PM, comex <comexk@gmail.com> wrote:
+>>> And just in case: (with quorum 8)
+>>>
+>>> The AFO publishes the following.
+>> CoE on this purported resolution as well: the proposals were made
+democratic.
+>
+> Denied.  It is not possible to make a proposal democratic (only the
+> decision to adopt a proposal).  Since proposals have adoption indices
+> in their own right (and it is reasonable to extrapolate
+> ordinary/democratic-ness of a proposal from AI), this is not a
+> reasonable synonym because the difference creates an ambiguity in
+> meaning.
+
+Counterargument:  The literal reading is impossible, so interpreting
+it as a gloss for "make the decisions on these proposals democratic"
+is reasonably unambiguous.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+As recently as February this year, Democratic-ness was defined
+relative to a proposal, not a decision.  At that time, "making a
+proposal Democratic" would have clearly referred to changing the
+proposal's adoption index: in fact, that's exactly what Support
+Democracy did until February.  Changing a proposal's adoption index
+and changing a decision's adoption index were two separate actions
+then and now: has it been so long since that text explicitly
+describing one action refers unambiguously to another?
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+Making a proposal democratic did not affect its adoption index prior
+to the February proposal; it only flipped its chamber switch to
+democratic.  The flawed version you're thinking of was only in effect
+May-September 2007.  Prior to that, the process was known as
+sanitization, and it did not change the proposal's AI.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+Making a proposal democratic is R754-synonymous with making the
+decision to adopt that proposal democratic.
+
+It is unreasonable to extrapolate the chamber of a proposal (as
+distinguished from its decision) from AI, as AI serves no purpose
+chamber-wise other than to determine the *initial* chamber of the
+decision; instead, chamber of a proposal is the same as chamber of the
+corresponding decision.
+
+There is no reasonable interpretation of "make a proposal democratic"
+except for "make the decision of whether to adopt a proposal
+democratic". Interpreting it as changing the proposal's AI is
+unreasonable both for the reason I stated above and because changing a
+proposal's AI is impossible.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend, with 2 support, to appeal this.  The chamber of a proposal
+(fairly recently) used to be defined based on its AI.  This could have
+been the referent, so the intention was ambiguous.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+I support. If someone says something not in the rules with an intent to
+perform an action, normally it is reasonable to presume they meant the
+correct version not the incorrect version (per R754); however, if the
+rules in question have recently changed, there is enough doubt to
+prevent the intention being clear (as is currently required for
+dependent actions).
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+As has been noted, proposals cannot be democratic -- only the Agoran decisions
+whether to adopt the proposal can be democratic. The question in this case is
+whether or not "I make Proposal X democratic" is sufficiently unambiguous in
+meaning to be considered the same as "I make the Agoran decision whether to
+adopt proposal X democratic."
+
+Although a proposal and its accompanying decision are closely tied, they are
+not the same thing. However, this judge finds that Agoran routinely fail to
+distinguish between the two in communications, and this has not been
+considered an ambiguity in meaning. For example, players cannot vote on
+proposals (they can only vote on the decisions whether to adopt the
+proposals). Common usage, though, equates the two. Here are some example
+excerpts from recent emails:
+
+
+Example 1
+
+    From: 0x44 <bnomic@indistinct.org>
+    To: Agora Business <agora-business@agoranomic.org>
+    Subject: BUS: Re: OFF: Distribution of proposals 6010-6013
+    Date: Sat, 06 Dec 2008 18:03:45 -0600
+
+    I vote FOR all of the above proposals.
+
+
+Example 2
+
+    From: "Dvorak Herring" <dvorak.herring@gmail.com>
+    To: agora-business@agoranomic.org
+    Subject: Re: BUS: DIS: Re: OFF: Distribution of proposals 6004-6009
+    Date: Sat, 6 Dec 2008 17:13:50 -0600
+
+    I retract my vote on proposal 6007 and vote FOR on proposal 6007.
+
+
+Example 3
+
+    From: "Geoffrey Spear" <geoffspear@gmail.com>
+    To: agora-business@agoranomic.org
+    Subject: BUS: Re: OFF: Voting results for Proposal 5961
+    Date: Sun, 16 Nov 2008 20:40:33 -0500
+
+    This is missing most of the votes that were cast on this proposal.
+
+
+In addition, the rules themselves often fail to distinguish between the two.
+
+Rule 2177/5 (The Senate) reads in part:
+
+      During emergency session, any Senator CAN declare a filibuster
+      on a proposal in its voting period, with 2 supporting Senators,
+      provided no filibuster has been declared on that proposal in the
+      past.  Any Senator CAN end a filibuster on a proposal with 4
+      supporting Senators.
+
+      A proposal that ends its voting period in filibuster has a
+      quorum of the number of eligible voters plus 1, rules to the
+      contrary notwithstanding.
+
+Rule 2019/20 (Prerogatives) reads in part:
+
+      e) Wielder of Extra Votes.  The Wielder of Extra Votes at the
+         start of an ordinary proposal's voting period has a voting
+         limit on that proposal of 1.4 times what it would be
+         otherwise (rounded to the nearest integer, breaking ties
+         toward odd integers), rules to the contrary notwithstanding.
+
+Proposals do not have voting periods -- only decisions whether to adopt
+proposals have voting periods.
+
+This judge sees no reason why the statement in question ("I make Proposal X
+democratic") should be considered ambiguous when similar statements about
+other aspects of proposals and their decisions have not been considered
+ambiguous. Thus, I judge the statement TRUE.
+
+========================================================================

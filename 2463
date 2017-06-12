@@ -1,0 +1,89 @@
+==============================  CFJ 2463  ==============================
+
+    It is possible for the Ambassador to flip the Recognition of Einos
+    (http://einos-nomic.blogspot.com/) to Friendly.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       24 Apr 2009 02:59:20 GMT
+Assigned to root:                       26 Apr 2009 20:39:38 GMT
+Judged TRUE by root:                    28 Apr 2009 07:22:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I think this is a pretty clear UNDECIDABLE. It's paradoxical whether
+Einos fulfils the conditions to still be a protectorate (it was once),
+and therefore whether it is currently a protectorate. The rules-defined
+action in the CFJ subject is possible only if it isn't.
+
+Maybe protectorisation should be pragmatised?
+
+========================================================================
+
+Caller's Evidence:
+
+>From Einos' ruleset:
+{{{
+Rule X. The Earth Is Nonetheless An Oblate Spheroid Nomic submits to
+Agora as its benevolent protector. Any protective decree of Agora that
+targets this nomic takes effect as specified by the rules of Agora, if
+and only if *the portion of this sentence in bold is false*.
+}}}
+
+(The portion of the sentences between the asterisks in this email is in
+bold in the actual Einos ruleset, without the asterisks.)
+
+Excerpt from rule 2147:
+{{{
+      In order to become a protectorate, a nomic must specify in its
+      ruleset that it submits to Agora as its benevolent protector.
+      It must also have rules or other gamestate arranged such that
+      any protective decree proclaimed by the ambassador will take
+      full effect upon proclamation.  Any restriction whatsoever on
+      the content of a protective decree disqualifies the nomic from
+      being a protectorate.
+
+      If the criteria specified in the preceding paragraph are met,
+      the ambassador may make the nomic a protectorate without three
+      objections.  If a protectorate ever does not meet these
+      criteria, it ceases to be a protectorate.
+}}}
+
+Excerpt from rule 2185:
+{{{
+      Recognition is a foreign nomic switch, tracked by the
+      Ambassador, with values Unknown (default), Protected, Friendly,
+      Neutral, Sanctioned, Hostile, and Abandoned.
+
+      When a foreign nomic becomes a Protectorate, its Recognition
+      becomes Protected.  When a foreign nomic ceases to be a
+      Protectorate, its Recognition becomes Unknown.  A foreign
+      nomic's Recognition CANNOT change to or from Protected in any
+      other way.
+
+      The Ambassador CAN, without objection, flip a foreign nomic's
+      Recognition to any value (subject to the above restriction).
+}}}
+
+
+========================================================================
+
+Judge root's Arguments:
+
+The bold clause is neither true nor false.  Since it is not false,
+protective decrees would not take effect.  As such, the recognition of
+Einos became Unknown when this change to its ruleset occurred.  I
+judge CFJ 2463 TRUE.
+
+========================================================================

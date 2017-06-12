@@ -1,0 +1,113 @@
+==============================  CFJ 2203  ==============================
+
+    root cast at least one unretracted vote of AGAINST on Proposal 5707.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+Appeal:                                 2203a
+Decision:                               OVERRULE/FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         01 Oct 2008 17:49:01 GMT
+Assigned to Wooble:                     02 Oct 2008 06:03:31 GMT
+Judged TRUE by Wooble:                  02 Oct 2008 12:38:15 GMT
+Appealed by ais523:                     02 Oct 2008 16:55:45 GMT
+Appealed by omd:                        02 Oct 2008 17:04:07 GMT
+Appealed by ehird:                      07 Oct 2008 20:59:46 GMT
+Appeal 2203a:                           07 Oct 2008 20:59:46 GMT
+OVERRULED to FALSE on Appeal:           29 Oct 2008 19:32:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The statement by which root attempted to vote on Proposal 5707 was "I
+vote SELL(5 VP - AGAINST) x 3."  Per section 13 of the vote market
+agreement, "A vote of SELL(X - Y) on an Agoran decision is equivalent
+to posting a Sell Ticket with a cost of X and voting to endorse the
+filler of that ticket, or in the case the ticket is not filled, voting
+Y."  Thus, a vote of SELL(5 VP - AGAINST) is equivalent to posting a
+Sell Ticket with a cost of 5 VP and voting to endorse the filler of
+that ticket.  By game custom, "SELL(5 VP - AGAINST) x 3" is therefore
+equivalent to posting 3 such Sell Tickets and voting to endorse the
+filler of each.  None of these tickets were filled, so the actual vote
+cast in each of these was the default vote of AGAINST.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+An excerpt from Rule 2172:
+{{{
+      The option selected shall be considered to be clearly identified
+      if and only if the truth or falsity of the specified
+      condition(s) can be reasonably determined, without circularity
+      or paradox, from information published within the voting period.
+}}}
+The text of the contract that defined the options was not published during the
+voting period, and rule 2172 does not make an allowance for text published
+/before/ the voting period.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+Tue, 23 Sep 2008 16:21:26 -0700  Voting period of Proposal 5707 begins
+Mon, 29 Sep 2008 13:13:41 -0600  Vote Market text published
+Tue, 30 Sep 2008 16:21:26 -0700  Voting period of Proposal 5707 ends
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge TRUE.  Recent game custom holds that we accept
+contract-defined "SELL" votes as having the meaning given to them by
+the Vote Market contract.  Since such a vote is defined neither by the
+rules nor by another public contract, and since the text of the Vote
+Market agreement is published on a regular basis where all of the
+players have a reasonable expectation of being aware of its content
+(and, in particular, the Assessor has demonstrated that e's aware of
+its content), a SELL vote unambiguously casts a vote conditionally
+endorsing the filler of the sell ticket created by the contract's
+mechanisms upon the vote being cast, and conditionally AGAINST in this
+case if the ticket is not filled.  In this case, root succeeded in
+casting 3 such conditional votes, at least one of which was valid
+regardless of whether P5707 was Democratic.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+The judgement looked
+reasonable at the time, but various doubts have come up since which I
+think need looking at. Rule 754 is probably the best argument as to what
+is allowed, because it sets it out explicitly: (1) typos, dialects, and
+abbreviations that do not cause ambiguity; (2) Rule-defined terms; (3)
+mathematical and legal terms; (4) standard English. Note, specifically,
+that this does not include contracts. The only clause of rule 754 that
+seems to allow a vote of SELL at all is part (1), which allows
+unambiguous abbreviations. SELL is certainly an abbreviation, but I
+seriously doubt that it is unambiguous (especially as Murphy, BobTHJ and
+me put one interpretation on what the vote meant, but root put another
+interpretation on it). Rule 754 specifically does not allow ambiguous
+abbreviations, so the vote failed.
+
+I agree with Wooble that SELL (5VP - AGAINST) probably works, due to it
+being an abbreviation whose expansion is well-known and repeatedly
+published. (Note, however, that it is not certain that the Assessor
+understood it correctly; Murphy recently admitted to treating unfilled
+tickets as no-vote rather than PRESENT.) However, "SELL (5VP - AGAINST)
+x 3" (I can't remember the exact spacing, but I think it was something
+like that) isn't explicitly contract-defined, and from discussions in
+a-d it is relatively clear that there is more than one plausible
+interpretation of it, thus it is an ambiguous abbreviation.
+
+========================================================================

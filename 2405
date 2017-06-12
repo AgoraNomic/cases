@@ -1,0 +1,182 @@
+=========================  Criminal Case 2405  =========================
+
+    Taral violated the power-2 rule 2234 by not awarding me points as
+    contestmaster of Enigma as soon as possible after the beginning of
+    March.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 Taral
+
+Judge:                                  ehird
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by ais523:                       09 Mar 2009 17:21:17 GMT
+Defendant Taral informed:               09 Mar 2009 17:21:17 GMT
+Assigned to ehird:                      12 Mar 2009 23:07:47 GMT
+ehird recused:                          25 Mar 2009 02:46:00 GMT
+Assigned to OscarMeyr:                  25 Mar 2009 02:46:50 GMT
+OscarMeyr recused:                      27 Mar 2009 01:48:09 GMT
+Assigned to omd:                        28 Mar 2009 16:05:46 GMT
+Judged NOT GUILTY by omd:               28 Mar 2009 18:19:51 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Mon, 2009-03-09 at 09:47 -0700, Kerim Aydin wrote:
+> On Mon, 9 Mar 2009, Alexander Smith wrote:\
+> > Taral wrote:
+> >> I award 20 points to Murphy as contestmaster of the FRC.
+> >> The AAA is no longer a contest. The reading of the rule is a bit
+> >> strange here, but I'm going to say Wooble doesn't care. No points.
+> >
+> >> I'm going to exercise a bit of prerogative with the other two. I
+> >> didn't see any substantive activity, so no awards. 50 points for
+> >> waiting for a rule change is not cool.
+> >
+> > I NoV against Taral for violating the power-2 rule 2234 by not awarding
+> > me points as contestmaster of Enigma as soon as possible after the
+> > beginning of March. Being late is OK, but not doing it at all?
+> >
+> > I intend to deputise for the Scorekeepor to award me points for
+> > contestmastering Enigma in February.
+> >
+> > I again state for the record that Enigma was designed for its contestants
+> > to submit puzzles; the contestmaster has no incentive for doing so.
+> > Nevertheless, I will submit a few as a public service (and to get the
+> > Champion's Contests thing going) in the near future. I note in passing
+> > that by submitting three or so puzzles, Taral could easily have got more
+> > than the 50 points in question emself...
+>
+> I contest the above NoV.  (Inactivity is inactivity; if the contestmaster
+does
+> not promote, and no puzzles are submitted, e has little work to do, so
+doesn't
+> deserve points for eir labors).
+>
+> I CFJ on the following statement:  If the scorekeepor announces that
+> a contestmaster is not to be awarded points for a particular month as e
+> did not perform duties for the contest, then the scorekeepor has performed
+> all duties required by Rule 2234 with respect to that contest.
+>
+> I bar ais523.
+>
+> Arguments:
+>
+> Rule 2234 contains a subjective condition for reward (whether or not
+> a contestmaster has performed contest-related duties in a timely manner)
+> and leaves the awarding as a duty for the scorekeepor.  The scorekeepor
+> should have some reasonable discretion as to whether a contests' duties
+> have been performed; if a particular scorekeepor feels they have not, that
+> decision, prima facie, should be respected by the courts, and the proper
+> redress for abuse should be electing a new scorekeepor.  If the courts
+> allow deputisation to override an officers' permitted subjective
+> decision prior to court review (but after the officer announces a decision),
+> we would invite abuse where players could override any such subjective
+> decision no matter how reasonable.
+
+Arguments: Whether contest-related duties have been performed in a
+timely manner is objective, if the text of the contract is accessible. I
+have been publishing a null string as required by the contract every
+week (cunningly disguised amongst other messages, I'll make it more
+explicit if people want), due to having been sent no puzzles. (If you
+like, I'll make it explicit from now on when there are no puzzles in a
+week.)
+
+I note in passing that Brainfuck Joust currently imposes no obligations
+on its contestmaster at all, and gives no way for other contestants to
+impose such obligations. In contrast, anybody could have created an
+obligation for me with respect to Enigma by submitting a puzzle; the
+fact that nobody did shouldn't cause me to suddenly count as derelicting
+my duties. (Likewise, the AAA sometimes has had off weeks where nobody
+has performed an action that required AAA-recordkeeping, as did the
+PRS.)
+
+I agree that in the rare cases that the rules allow a subjective
+decision (which IMO is probably a bad idea for core-rules things, which
+should either require an objective decision or else allow any decision
+at all even if blatantly wrong, to avoid this sort of argument), that
+deputisation to overrule it should fail. In the case of a Scorekeepor
+blatantly derelicting eir duties to award points based on an objective
+fact, though, should this happen? (As a comparison, I don't think the
+Conductor could have legally withheld Notes from the Grand Poobah if e
+didn't like the way in which e adjusted Castes, so long as e complied
+with eir duties.)
+
+Oh, and I initiate a criminal CFJ on the above-quoted NoV, barring
+Goethe. I submit this message (including the thread quoted at the top of
+it) as gratuitous arguments on that CFJ.
+
+There's another unrelated point to consider here, which might be invoked
+in this situation (which is almost certainly a scam and/or bug that
+needs fixing, but still needs CfJing on). I call for judgement on the
+statement "If an officer violates a time limit to perform a required
+action, then another player CAN perform that action as if e held that
+office via deputisation even if the officer in question performed the
+action after the time limit expired but before the deputisation, as long
+as it would be possible (but not necessarily mandatory) for the officer
+to perform the action in question a second time."
+
+Arguments on that CfJ: Rule 2160 appears to explicitly allow this;
+probably that's a bug. (The only part of Rule 2160 which appears to have
+a chance of preventing that is the "rules require" in part a, and that's
+rather vague.)
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The text of Rule 2234 is "performed duties related to the contest in a timely
+manner".  There are two ways to read this.  The first (which ais523 argues
+for) is that "if the contest currently mandates no duties, then the
+contestmaster performs them by doing nothing."   What I argue for is the
+interpretation   "If no or negligible duties have been performed, then the
+contestmaster has not in fact performed duties, as performing an empty set of
+duties is the same as not performing duties, even if that empty set is in
+keeping with the contract text".
+
+Why do I argue that "neglibible" duties as being the same (or suitably close)
+to no duties for these purposes?  Negligible with respect to what?
+
+Contests are contracts, which have a set of anticipated duties contained
+within the text.  Based on these anticipated duties, players grant contest
+status to contracts.   If the contest becomes inactive relative to these
+anticipated duties, the contract is not proceeding as envisioned, and
+duties are not being performed "as anticipated by the contest" in the sense
+of Equity.  The text of Rule 2234 is "performed duties related to the
+contest in a timely manner", and if those duties are suitably negligible
+relative to what the contest "envisioned" duties to be (when, for example,
+it became a contest or its text was last changed w/o 3 objections), the
+anticipated duties are not being performed, and the scorekeepor is
+correct and within eir duties and abilities to make this call.
+
+========================================================================
+
+Judge omd's Arguments:
+
+The Enigma contract reads:
+
+9) As soon as possible after the end of each week, the contestmaster
+SHALL publish a list of all puzzles submitted during that week.
+
+Publishing an empty list is different from publishing the null string.
+ In particular, the contestmaster should have explicitly mentioned
+that no puzzles had been submitted during that week.  ais523 violated
+that requirement, and Taral was correct to award em no points.  NOT
+GUILTY.
+
+========================================================================

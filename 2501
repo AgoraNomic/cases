@@ -1,0 +1,64 @@
+==============================  CFJ 2501  ==============================
+
+    "As soon as possible" means "within 168 hours".
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       05 May 2009 17:44:55 GMT
+Assigned to scshunt:                    05 May 2009 18:08:36 GMT
+Judged TRUE by scshunt:                 12 May 2009 22:17:46 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+R2177:
+      A Senator is any first-class player who has been registered
+      continuously for the immediately preceding sixty days.
+
+R1023:
+      (a) The phrases "in a timely fashion" and "as soon as possible"
+          mean "within seven days".
+[...]
+          (1) Agoran days begin at midnight UTC.
+
+========================================================================
+
+Caller's Arguments:
+
+The Registrar's reports, going back to at least November of 2007, list
+an exact time at which various players became or would become a
+Senator, this time being the second that occurs exactly 60*24 hours
+after the time each player registered.  However, Agoran days begin at
+midnight and R2177 requires that a player be continuously registered
+for the preceding 60 days.  This seems to imply to me that a player
+who registered at noon on 1 January would become a Senator at the
+beginning of 3 March rather than at noon on 2 March.
+
+Similarly, ASAP deadlines have been taken to expire at the same time
+they began 7 days later, but reading as within 7 Agoran days which
+begin at midnight, they'd expire at the end of the 7th day.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+TRUE. R1023 defines "As soon as possible" to mean "within 7 days". A
+day is commonly held to be precisely 24 hours in length, and the
+definition of "Agoran day" within that same rule should not be used
+interchangably with "day", as can be seen by the fact that the word
+"Agoran" is used in the definition - this would not be necessary if it
+meant to redefine the term "day", and the fact that another similar
+term, "Agoran consent", cannot be used interchangeably with or without
+the "Agoran", simple consent being a very different concept.
+
+========================================================================

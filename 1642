@@ -1,0 +1,30 @@
+==============================  CFJ 1642  ==============================
+
+    where a proposal contains the form of words "Amend rule NNNN by XXX.
+    Further amend rule NNNN by YYY.", where both XXX and YYY specify
+    text changes, this constitutes a single attempt at a rule change,
+    even though it is specified in two parts in separate sentences
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       29 Apr 2007 23:23:06 GMT
+Assigned to G.:                         29 Apr 2007 23:29:55 GMT
+Judged FALSE by G.:                     29 Apr 2007 23:35:45 GMT
+
+========================================================================
+
+Judge G.'s Arguments:
+
+FALSE.  As they can be separated (as in CFJ 1638), something can be
+slipped in-bewtween, regardless of the Further.
+
+========================================================================

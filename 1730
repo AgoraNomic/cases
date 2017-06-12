@@ -1,0 +1,159 @@
+==============================  CFJ 1730  ==============================
+
+    The player Goddess Eris assigned judgements to the CFJs 1716, 1710,
+    1711, 1724, and 1725.
+
+========================================================================
+
+Caller:                                 Pavitra
+Barred:                                 Taral
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  Zefram
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Pavitra:                      22 Aug 2007 16:54:10 GMT
+Assigned to BobTHJ:                     22 Aug 2007 22:31:24 GMT
+BobTHJ recused:                         30 Aug 2007 10:31:07 GMT
+Assigned to Zefram:                     30 Aug 2007 10:31:07 GMT
+Judged TRUE by Zefram:                  30 Aug 2007 11:41:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Upon the adoption of proposal 5140, Eris became a knave,
+and henceforth SHOULD NOT have published statements that e believed to
+be true. Eris being an experienced player, it is presumed that e would
+not have taken any action that the rules specified e SHOULD NOT have,
+without also providing some well-reasoned explanation as to why e
+chose to break with convention. E provided no acknowledgement of any
+kind that e was undertaking a DISCOURAGED action.
+It therefore stands to reason that eir published declarative sentences
+since the adoption of proposal 5140, such as "I judge UNDETERMINED for
+CFJs 1724 and 1725", were intended as false. Thus, Eris in fact did
+not so judge, and the CFJs upon which e falsely claimed to assign
+judgement are still open.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+Assigning judgement is an action that is taken by announcement (R2158).
+Rule 478 defines "by announcement" thus:
+
+      A player performs an action "by announcement" by announcing that
+      e performs it.
+
+Eris's statements in which e purported to assign judgements to the listed
+CFJs certainly look like such announcements.  For CFJ 1716:
+
+|The defendant has made an excellent set of arguments for a judgement
+|of UNIMPUGNED. I so judge.
+
+For CFJ 1710:
+
+|However, the sums in question do not include Wooble's votes. I find,
+|therefore, that the first notice was invalid, and judge CFJ 1710
+|FALSE.
+
+For CFJ 1711:
+
+|      Secondly, the fact that the message does not quote or even
+|include a date/message-ID for the message it is correcting runs
+|significantly counter to the rule's use of "to clearly identify". I
+|find, therefore, that the second "notice" was also invalid, and judge
+|CFJ 1711 FALSE.
+
+For CFJs 1724 and 1725:
+
+|I judge UNDETERMINED for CFJs 1724 and 1725.
+
+If Eris's statements are taken at face value then e certainly did assign
+judgements to these CFJs.  The only way e could be taken to have not
+done so is by the initiator's argument that these statements are not to
+be interpreted in the ordinary way.  Initiator Pavitra's argument can
+be read two ways.  I will analyse both.
+
+The more literal reading of Pavitra's argument is that Eris intended to
+make false statements, and that this intent robs eir announcements of any
+legal effect.  There is an unsupported leap in logic there.  The rules
+ascribe very little significance to the intent behind public messages.
+Rule 2149 speaks of belief, which is somewhat akin to intent, in making
+obligations and recommendations regarding truthfulness, but that is not
+the issue here.  Rule 478 is the critical one, and the definition of
+"by announcement" makes absolutely no mention of intent.  An appropriate
+announcement will accomplish an action even if its author believed the
+action was impossible (in which case e intended that the announcement
+would be a false statement).  So the intent argument does not change
+the analysis of the announcements.
+
+A related argument, which I suspect is what Pavitra really intended to
+put forth, is that we must interpret all of Eris's statements through
+a filter that inverts truth values.  We have a history of somewhat
+flexible interpretation of public messages, but this flexibility extends
+to implicitudes and variations in formatting and phrasing; we have no
+history of interpreting messages contrary to their explicit content.
+Of course, the present version of R2149 is quite new, so there's the
+possibility of it introducing new interpretive conventions.
+
+Hypothetically, how might we establish such a counter-literality filter?
+A rule could establish whatever interpretive conventions we desire,
+subject to rights issues, but we have no such rule.  Common usage
+could establish counter-literal interpretation of some phrases, but such
+interpretive conventions have always been applied to all persons equally.
+Here we require a filter that is applied only to a particular subclass of
+player (knaves).  We have no history of such differential interpretation.
+
+Perhaps we could establish a novel and discriminatory interpretive
+convention by explicit inter-player agreement.  It is likely that some
+players would object, preventing unanimous consent or even consensus,
+rendering the status of such a meta-game agreement dubious.  In fact there
+has been no explicit agreement of this nature.  Eris, in particular, has
+not proposed such a convention.  So the argument for counter-literality
+requires that this controversial, inherently confusing, convention of
+utterly novel form is established implicitly.  I find that this is too
+great a stretch: there cannot be such an agreement.
+
+I will also consider how such a counter-literality filter would operate,
+if it were established.  Suppose that it simply inverts the truth value of
+every statement made by a knave.  When a knave says "I judge UNDETERMINED
+for CFJs 1724 and 1725.", it is argued that we interpret it as really
+meaning "I do not judge UNDETERMINED for CFJs 1724 and 1725.", a statement
+that is not an announcement of action and so does perform an action.
+
+Of course, it's the rules' interpretation of the message that matters,
+not ours, so to be more precise the argument is that rule 478 ("by
+announcement") sees the message through this filter and determines that
+this is not an action announcement.  But then, rule 2149 should see the
+message through the same filter.  It would see a statement of non-action,
+which (due to rule 478 denying any action) is a true statement, and so the
+message offends R2149's SHOULD NOT.  So this filter, so applied, does not
+achieve its intended goal of letting a knave avoid a discouraged action.
+
+For the filter to work as argued, it would have to affect R478 and
+R2149 differently.  A statement would have to be inverted for its
+interpretation by R478 (for actions) and other rules requiring publication
+of information, but then seen by R2149 in its uninverted form.  There is
+no basis in the rules for a statement to be interpreted differently by
+different rules.  Also, if we were to have such a selective inversion,
+it would be more convenient to do it the other way round: invert the
+message for R2149, but not for the remaining rules.  That would amount
+to interpreting R2149's knave provision in the opposite sense in which
+it is written, nullifying its effect.  I see no basis to suppose that
+this selectivity is possible in any form.
+
+So, in summary: Eris facially did assign judgements to these CFJs; eir
+intent does not affect the interpretation of those statements; there is no
+counter-literality filter affecting the interpretation of Eris's messages;
+and a filter that would do the job proposed cannot exist in any case.
+I judge TRUE.
+
+========================================================================

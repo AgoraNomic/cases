@@ -1,0 +1,279 @@
+==============================  CFJ 1397  ==============================
+
+    A Provision of an adopted Proposal that does not change the Ruleset
+    may change a Player's Vote on a previous Proposal.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 root
+
+Judge:                                  OscarMeyr
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           01 Jul 2002 17:58:29 GMT
+Assigned to OscarMeyr:                  08 Jul 2002 01:52:42 GMT
+Judged TRUE by OscarMeyr:               15 Jul 2002 00:20:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This Caller is arguing for a judgement of FALSE in all of the
+of the above Statements.
+
+By the Rule 1011 definition, a Player's legal vote on a Proposal,
+and the existence of Stems and the possession of Stems by Players,
+are all Nomic Properties.
+
+Rule 594 (Power=3) reads in part:  "For the purpose of the Rules,
+the application of an adopted Proposal is a legal procedure for
+changing Nomic Properties."
+
+There is no suggestion in these two Rules that the changing of
+Properties by Proposal requires the adoption of a Proposal of
+a particular specified Power.  So what are the limits of a Proposal's
+Power in this regard?
+
+The conclusion that a Judge could reach is:
+   (A) All and any Properties may be changed by a Proposal
+       of any Power.
+   (B) No Properties may be changed by any Proposal of any
+       Power.
+   (C) Some Properties may be changed by some Proposals.
+
+This Caller argues that (A) should be rejected, specifically with
+respect to voting (hence the first CFJ).  If Votes may be changed by
+Proposal, then the following scam would allow a Power-4 Proposal to
+pass with an AI of 1:
+   Proposal X (AI-4): reads "The Oligarchs are Emperors" and
+       fails to pass (is voted down).
+   Proposal Y (AI-1): reads "All Votes cast on Proposal X are
+       deemed to have been votes FOR."
+If this is allowable, it contravenes all voting Rules that protect
+us from such manipulation.  Thus, the first CFJ above should be FALSE.
+In other words, A "legal" procedure (in R594) for changing a Property
+does not imply a "wholly valid and sufficient" procedure if other Rules
+disallow the change.
+
+There are enough Rules that specifically disallow changing votes to
+prevent this series of events from occurring---for brevity, these are
+not discussed, but if the Judge finds CFJ 1 to be True, these Rules are
+dangerously broken.  I further argue that these limiting Rules do not
+have to be of higher precedence than 594 to forbid the change:  Rule 594
+allows that some properties *may* be changed legally, while other Rules
+(even of lower power) may forbid specific changes without contradicting
+Rule 594.
+
+This Caller argues that (B) should be rejected as well, as it was by CFJ
+1377.  Debts (the subject of CFJ 1377) have no specific Regulation
+limiting their creation other than that they are "obligations arising
+under the Rules" (R1596).  CFJ 1377 held that the 594's "legal procedure
+for changing Properties" clause was sufficient to cause debts to "arise
+under the Rules" upon the adoption of a Proposal.
+
+If (A) and (B) are rejected, then (C) is true, and the remaining task
+is to decide how the line is drawn between Nomic Properties which may
+be changed by Proposals and which may not.
+
+Are Stems in themselves tightly-enough regulated to prevent their
+arbitrary creation and destruction by Proposal?  In specific,
+did Proposal 4331 succeed in creation and destruction in the
+following clauses:
+
+"Upon the adoption of this Proposal:
+ - All stems in existence are destroyed.
+ - 50000 Stems are created in the possession of the Bank.
+ - A quantity of stems equal to the New Player Award in Stems is
+   created in the possession of each Player."
+
+This caller argues that these provisions did not succeed, and thus
+CFJs 2 and 3, above, should be considered FALSE.  Stems are both
+Nomic Properties (R1011) and Property (R1942).  And according to
+Rule 1942 "Individual properties may not be created or destroyed,
+or their ownership changed, except in accordance with the rules."
+And Rule 1471 explicity allows creation and destruction under
+two circumstances only:
+
+    New units of a Currency are created when the Mintor of that
+    Currency transmits to the Recordkeepor of that Currency a notice
+    that e is creating new units of that Currency, specifying the
+    number of units that e is creating.  The newly created units are
+    added to the Mintor's possessions.
+
+    Units of Currency are destroyed when any entity which possesses
+    units of that Currency transmits to the Recordkeepor of that
+    Currency a notice that e is destroying units of that Currency,
+    specifying the number of units that e is destroying.  An entity
+    cannot destroy more units of a Currency than e possesses,
+    however.  The units destroyed are removed from the possession of
+    the entity performing the destruction.
+
+These events did not take place when Proposal 4331 passed, and therefore
+no Units of currency were created or destroyed.  Not only is the only
+mechanism for the creation of currencies Minting, but the Minting
+of Bank currencies is directly forbidden by Rule 1974, "The Bank may not
+otherwise Mint new units of a Bank Currency except through the mechanism
+set forth in this Rule."
+
+It is possible to interpret the provisions of Proposal 4331 as being
+Legislative Orders, ordering:
+        (1) Each Player to destroy their own stems;
+        (2) The Mintor (Bank) to create new Stems and give them
+            to players.
+CFJ 1377 rejected this interpretation for "billing", but in this case
+no entity was authorized to "bill."  However, in Proposal 4331, specific
+entities are authorized to create and destroy currencies, while the
+direct action of the Proposal is not (this is the opposite of CFJ 1381).
+However, this argument may be rather difficult to sustain given CFJ
+1377's argument that each order must be directed at a specific entity.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1011/4 (Power=2)
+Definition of Nomic Property
+
+      A Nomic Property is any property of any entity the value of
+      which is defined by the Rules.  Other Rules may define
+      procedures by which the value of a Nomic Property may be
+      changed.
+
+
+Rule 594/6 (Power=3)
+Power and Proposals
+
+      No Rule may have Power less than 1 or greater than 4.  Except as
+      described in this Rule, no entity can set the Power of another
+      entity to exceed the Power of the entity causing the Power to be
+      so set.  No entity may destroy or repeal an entity with Power
+      greater than its own.
+
+      When a Proposal takes effect, its Power shall be set equal to
+      its Adoption Index, and the provisions contained in the text of
+      the Proposal are implemented to the maximal extent permitted by
+      the Rules.
+
+      The Adoption Index of a Proposal is the maximum of 1, the value
+      requested by its Proposer (if any), and the value required for
+      that Proposal by the Rules (if any).
+
+      Provisions which are unclear, ambiguous, or inapplicable are
+      ignored.  In a Proposal containing more than one provision, each
+      provision is severable from the others, unless the Proposal
+      states otherwise.
+
+      For the purpose of the Rules, the application of an adopted
+      Proposal is a legal procedure for changing Nomic Properties.
+
+
+Rule 1942/2 (Power=1)
+Property
+
+      A property is an entity which the rules permit to be possessed
+      by another entity.  The term "possess" refers to the legal
+      status of possessing a property; the terms "possessor" and
+      "owner" are synonyms, as are "possess" and "own".  Individual
+      properties may not be created or destroyed, or their ownership
+      changed, except in accordance with the rules.
+
+      Each property shall have a recordkeepor, which is a player
+      required to maintain a record of who owns that property.  The
+      Treasuror is the recordkeepor for each property that would
+      otherwise have no recordkeepor.
+
+      If one of the official duties of an officer is to be the
+      recordkeepor of a property, then eir Weekly Report shall include
+      this record and any changes thereto since the last posting of
+      eir Report.
+
+
+Rule 1471/2 (Power=1)
+Creation and Destruction of Units of Currency
+
+      New units of a Currency are created when the Mintor of that
+      Currency transmits to the Recordkeepor of that Currency a notice
+      that e is creating new units of that Currency, specifying the
+      number of units that e is creating.  The newly created units are
+      added to the Mintor's possessions.
+
+      Units of Currency are destroyed when any entity which possesses
+      units of that Currency transmits to the Recordkeepor of that
+      Currency a notice that e is destroying units of that Currency,
+      specifying the number of units that e is destroying.  An entity
+      cannot destroy more units of a Currency than e possesses,
+      however.  The units destroyed are removed from the possession of
+      the entity performing the destruction.
+
+
+Rule 1974/1 (Power=1)
+Restriction on Minting of Bank Currencies by the Bank
+
+      The Bank, by the Treasuror, may Mint new units of a Bank
+      Currency only as follows:
+
+      (a) At any time, Without Objection, unless the Currency to be
+          Minted is Stems.
+
+      (b) In the event that the Voting Entitlement Surplus exceeds the
+          Bank's holdings of VEs, a number of VEs not to exceed the
+          difference between the Voting Entitlement Surplus and the
+          Bank's Holdings of VEs, with Two Supporters.
+
+      The Bank may not otherwise Mint new units of a Bank Currency
+      except through the mechanism set forth in this Rule.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+R683 defines the legal values of a vote.  Under R1011, a vote's value
+(hereafter considered identical with the vote) is therefore a Nomic
+Property.
+
+R1011 states that Rules may define procedures to change Nomic
+Properties.  This Rule therefore regulates, at an abstract level, the
+changing of Nomic Properties.  Since this action is regulated by the
+Rules, it must be done as the Rules permit or prohibit.
+
+R594 permits the use of an adopted Proposal for changing Nomic
+Properties in general.  If the Rules contain no prohibition against the
+use of Proposals for changing a particular Nomic Property (or class
+thereof), then a Proposal may be used to change the Nomic Property in
+question.  This is a broad case of conclusion (C) set forth by the
+Caller.
+
+In this particular case, the Nomic Property in question is a Player's
+Votes on a Proposal.  After reviewing the Rules and testing preliminary
+opinions on the discussion list, I have found no restriction in the
+Rules on the use of Proposals to change Proposal Votes.  There are Rules
+that prohibit or require the cancellation of a Vote, and R683 prohibits
+a Vote's caster from changing eir vote once cast -- but none of this
+prevents or modifies usage of the general procedure, the application of
+an adopted Proposal, for changing Votes.
+
+I therefore (reluctantly) return a decision of TRUE on CFJ 1397.
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Rule 683/10 (Power=1)
+Voting on Proposals
+
+      A Voter authorised to cast votes on a particular Proposal may do
+      so only by informing the Assessor of the vote or votes e is
+      casting on that Proposal. Once cast, a vote cannot be changed or
+      cancelled by the Voter which cast it, although it may be
+      cancelled as other Rules require.
+
+      A vote upon a Proposal must be one of FOR, AGAINST, or ABSTAIN
+      (or an obvious synonym of one of these).  Something which is not
+      one of these is not a vote upon a Proposal.
+
+========================================================================

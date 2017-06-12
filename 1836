@@ -1,0 +1,98 @@
+==============================  CFJ 1836  ==============================
+
+    Fookiemyartug is a player.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  pikhq
+Judgement:                              FALSE
+
+Appeal:                                 1836a
+Decision:                               REMAND
+
+
+Judge:                                  pikhq
+Judgement:                              FALSE
+
+Appeal:                                 1836b
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Called by omd:                          18 Dec 2007 22:08:48 GMT
+Assigned to pikhq:                      19 Dec 2007 22:54:10 GMT
+Judged FALSE by pikhq:                  20 Dec 2007 01:08:48 GMT
+Appealed by Murphy:                     20 Dec 2007 05:57:56 GMT
+Appealed by pikhq:                      20 Dec 2007 06:02:41 GMT
+Appealed by root:                       20 Dec 2007 06:03:52 GMT
+Appeal 1836a:                           20 Dec 2007 07:08:04 GMT
+REMANDED on Appeal:                     20 Dec 2007 17:22:21 GMT
+Assigned to pikhq:                      21 Dec 2007 14:17:55 GMT
+Judged FALSE by pikhq:                  22 Dec 2007 00:35:36 GMT
+Appealed by omd:                        22 Dec 2007 01:45:44 GMT
+Appealed by BobTHJ:                     22 Dec 2007 02:01:27 GMT
+Appealed by Murphy:                     22 Dec 2007 02:26:50 GMT
+Appeal 1836b:                           01 Jan 2008 01:37:25 GMT
+AFFIRMED on Appeal:                     07 Jan 2008 19:57:28 GMT
+
+========================================================================
+
+Judge pikhq's Arguments:
+
+I judge CFJ 1836 FALSE, noting that, when Fookiemyartug registered, its basis
+was a singleton set, and therefore could not have been a player. Moreover, it
+is ridiculous for a contract to claim to take effect retroactively. Such a
+thing should have no effect on the rules except where the rules explicitly
+state; to claim otherwise is to revolt against the best interests of the
+game.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+The judge has not addressed the possibility that Fookiemyartug
+became a player due to the ratification of the Assessor's report
+of December 8.  As this is a non-trivial issue, I recommend that
+the panel remand the matter for further consideration.
+
+========================================================================
+
+Judge pikhq's Arguments:
+
+Rule 1551/11 declares that ratification ratifies the official document, not
+the public document. An official document can be part of a public document. I
+note that the Assessor's report includes VLOPs, VCs, and Marks; thus, these
+figures are part of the Assessor's report. However, any declaration of
+playership is *not* a part of this. Therefore, the ratification of the
+Assessor's report ratified Fookiemyartug's VVLOP and its VC and Mark holding,
+but not playerhood.
+Therefore, I judge this FALSE once again.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend to appeal this with 2 support.  Although pikhq's result seems
+justified to me, it seems he got some things wrong, so his argument is
+in question.  Notably, an official document is (the entirety of) a
+public document (which can be part of a public message)  that *is
+purported* to be a report.
+
+========================================================================
+
+Appellant omd's Evidence:
+
+Rule 1551/11 (Power=3)
+Ratification
+
+      A public document is part (possibly all) of a public message.
+
+      An official document is a public document purported to be part
+      (possibly all) of an official report; this part is the
+      document's scope.
+
+========================================================================

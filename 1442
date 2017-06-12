@@ -1,0 +1,222 @@
+==============================  CFJ 1442  ==============================
+
+    Rubberstamping with 0 support is not a dependent action.
+
+========================================================================
+
+Caller:                                 Maud
+Barred:                                 Cecilius
+
+Judge:                                  Peekee
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Maud:                         02 Mar 2003 04:26:27 GMT
+Assigned to Peekee:                     10 Mar 2003 06:41:40 GMT
+Judged TRUE by Peekee:                  10 Mar 2003 07:44:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1728/10 (Dependent Actions; Power=2) states that an action is
+a dependent action only if it is an action with N support or an action
+without N objections, where N is a positive integer, and also permits
+rules to restrict eligibility of supporters or objectors.  Because
+0 is not a positive integer, rubberstamping with 0 support is not a
+dependent action.
+
+========================================================================
+
+Caller's Evidence:
+
+1.  Rule  101/ 1 (Obey the Rules; Power=3)
+2.  Rule 1728/10 (Dependent Actions; Power=2)
+3.  Rule 1986/ 5 (Role-Based Powers; Power=2)
+4.  Cecilius's first attempt in the current Agoran week to rubberstamp
+    a proposal (some headers elided)
+
+-----------------------------------------------------------------------
+1.
+
+Rule 101/1 (Power=3)
+Obey the Rules
+
+      All Players must always abide by all the Rules currently in
+      effect, in the form in which they are currently in effect.
+      However, a Player besides the Speaker may always deregister
+      rather than continue to play.
+
+      Whatever is not prohibited or regulated by the Rules is
+      permitted and unregulated, with the sole exception of changing
+      the Rules, which is permitted only when the Rules explicitly or
+      implicitly permit it.  Any change to the game state which would
+      make it impossible to make arbitrary modifications to the Rules
+      by any combination of actions by Players does not occur, any
+      Rule to the contrary notwithstanding.
+
+      The Rules in the Initial Set are in effect at the beginning of
+      the first game.  The Initial Set consists of Rules 101-116
+      (Immutable) and 201-219 (Mutable).
+
+-----------------------------------------------------------------------
+2.
+
+Rule 1728/10 (Power=2)
+Dependent Actions
+
+      An action is dependent, or may be performed dependently, if and
+      only if it is an Action Without N Objections or an Action With N
+      Supporters, where N is a positive integer.  The phrase "Without
+      Objection" is synonymous with "Without 1 Objection", and the
+      phrase "With Support" is synonymous with "With 1 Supporter".
+
+      A player may publicly announce eir intent to perform an
+      unambiguously described dependent action.  A player may perform
+      a previously unambiguously described dependent action if and
+      only if:
+
+      (a)  no more than fourteen days have passed since the
+           announcement of intent to perform the action;
+
+      (b)  if the action to be performed is an Action Without N
+           Objections, at least four days have passed since the
+           announcement made under (a) of this rule;
+
+      (c)  either the player who attempts to perform the action is the
+           player who made the announcement under (a) of this rule, or
+
+           (1)  the player who made the announcement under (a) of this
+                rule did so by a privilege or duty granted em by
+                virtue of holding a rules-defined position; and
+
+           (2)  the player who attempts to perform the action is the
+                holder of that position when e attempts to perform the
+                action;
+
+      (d)  the rules explicitly authorise the player to perform the
+           action dependently;
+
+      (e)  during the time between the announcement made under (a) of
+           this rule and the attempt to perform the action,
+
+           (1)  if the action is to be performed Without N Objections,
+                fewer than N players have publicly posted objections
+                to the performance of the action; or
+
+           (2)  if the action is to be performed With N Supporters, at
+                least N players other than the player who made the
+                announcement under (a) of this rule have publicly
+                posted support for the performance of the action;
+
+      (f)  the announcement made under (a) of this rule specifies
+           whether the action is to be performed Without N Objections
+           or With N Supporters, unless the rules either do not permit
+           the action to be performed Without N Objections or do not
+           permit the action to be performed With N Supporters; and
+
+      (g)  e announces that e performs the described action.
+
+      A dependent action is not performed until announced as in (g).
+
+      A player who posts an objection to the performance of an action
+      may publicly retract eir objection.  If e does so, e shall be
+      deemed not have posted an objection to the performance of that
+      action for the purposes of (e)(1) of this rule.
+
+      The specification in the rules that an action may be performed
+      dependently does not prohibit performing that action
+      independently if doing so would otherwise be permissible.
+
+      A rule authorising the performance of a dependent action may
+      restrict the eligibility of players to support or object to that
+      specific action.
+
+-----------------------------------------------------------------------
+3.
+
+Rule 1986/5 (Power=2)
+Role-Based Powers
+
+      A Scribe may Rubberstamp a Proposal by paying a Fee in Papyri,
+      or receiving the Support of a number of other Scribes, equal to
+      the number of Proposals that the Scribe has previously
+      Rubberstamped in the current Agoran Week (minimum zero).  A
+      Rubberstamped Proposal becomes Distributable: this does not
+      change its Distribution Fee.
+
+      An Acolyte may absolve (remove) 1 Blot from any Entity by paying
+      Fee in Indulgences, or receiving the Support of a number of
+      other Acolytes, equal to the number of such Absolutions the
+      Acolyte has previously performed in the current Agoran Week
+      (minimum zero).
+
+      An Acolyte may Exorcise a Dissolute Entity with the Support of
+      another Acolyte.  The effect of Exorcism is to instantly
+      transfer all of the Entity's Indulgences to the Bank.
+
+      An Acolyte with the Support of a Scribe, or a Scribe with the
+      Support of an Acolyte, may Bless an Undistributed Proposal.  A
+      moment after its Distribution, a Blessed Proposal becomes
+      Democratic if it is not already.
+
+      A Politician, with the Support of another Politician, may
+      Unbless an Undistributed Blessed Proposal.  An Unblessed
+      Proposal is no longer Blessed.
+
+-----------------------------------------------------------------------
+4.
+
+From: Cecilius <cecilius@vivace.homelinux.net>
+To: agora-business@agoranomic.org
+Message-ID: <Pine.LNX.4.44.0303011629090.3963-100000@vivace.homelinux.net>
+Subject: BUS: Let Me Auction Please
+Date: Sat, 1 Mar 2003 20:09:35 -0500 (EST)
+
+As I am preparing the calculations for the Indulgence Auction this month,
+it reminds me that I meant to propose a fix for a bug I see in R1712 which
+did not permit me to Auction any Indulgences in February, as the
+Indulgence Surplus was approximately 0.8.
+
+R1712(d) required me to round down the Indulgence Surplus to the nearest
+Integer to calculate the maximum number of Indulgences required to be
+auctioned.
+
+R1712(f) gives the Herald discretion to auction Indulgences, but only "if
+the Indulgence Surplus is zero or negative..."
+
+Therefore I submit the following Proposal, entitled "Full Discretion
+Fix", and announce my intent to Rubberstamp it, with 0 Support:
+
+     Amend Rule 1712 (Distribution of Indulgences) by replacing the words
+     "zero or negative" with the words "less than one".
+
+Having received the required Support of 0, I Rubberstamp "Full Discretion
+Fix."
+
+Cecilius
+-----------------------------------------------------------------------
+
+========================================================================
+
+Judge Peekee's Arguments:
+
+0 is not a positive integer as required in
+
+Rule 1728/10 (Power=2)
+Dependent Actions
+
+      An action is dependent, or may be performed dependently, if and
+      only if it is an Action Without N Objections or an Action With N
+      Supporters, where N is a positive integer.
+
+<snip>
+
+Importantly, this is an if and only if definition, there are no other
+definitions of a dependant action in the rules.  As such I find the
+statement TRUE.
+
+========================================================================

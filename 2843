@@ -1,0 +1,46 @@
+==============================  CFJ 2843  ==============================
+
+    The Robot refers to coppro
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       26 Aug 2010 22:32:41 GMT
+Assigned to Yally:                      28 Aug 2010 00:03:43 GMT
+Yally recused:                          10 Sep 2010 08:34:43 GMT
+Assigned to Wooble:                     10 Sep 2010 08:42:38 GMT
+Judged TRUE by Wooble:                  11 Sep 2010 13:03:39 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I call for judgement on the statement "The Robot refers to coppro",
+identifying the documents that are emails by coppro whose Date: header
+is the date given (as a time in the UTC+1 timezone) as ones where the
+truth of this statement affects whether those documents contain an
+error:
+(26.08.2010 23:21:29)
+(25.08.2010 01:31:30)
+(24.08.2010 05:37:02)
+(24.08.2010 02:36:48)
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge TRUE, deferring to the reasoning in CFJ 2840.
+
+========================================================================

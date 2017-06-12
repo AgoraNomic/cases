@@ -1,0 +1,51 @@
+==============================  CFJ 2825  ==============================
+
+    A player awarding emself a capacitor as defined by Rule 2289, counts
+    as an erg transaction as defined by Rule 2282.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Yally:                        02 Aug 2010 19:17:48 GMT
+Assigned to scshunt:                    04 Aug 2010 02:25:12 GMT
+Judged FALSE by scshunt:                04 Aug 2010 02:36:56 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2282/3
+Energy
+
+      The Power Station Manager (PSM) is an office and the
+      recordkeepor of ergs.  Eir weekly report shall include a list of
+      all erg transactions of the previous week.
+
+Rule 2289/0
+Capacitors
+
+       Capacitors are a class of fixed assets tracked by the PSM;
+       their ownership is restricted to players.
+
+       When an event is described as earning a player a number of
+       farads, e CAN, once per such event and in a timely fashion,
+       award emself an equal number of capacitors by announcement, but
+       only if e cites the specific event allowing em to do so in the
+       announcement.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Trivially FALSE. Capacitors don't involve ergs directly in any fashion,
+so their award cannot possibly be said to be erg transactions.
+
+========================================================================

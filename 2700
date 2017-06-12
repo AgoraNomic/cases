@@ -1,0 +1,99 @@
+==============================  CFJ 2700  ==============================
+
+    ais523 has amended the Fantasy Rules Contest contract within the
+    past 24 hours.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 ais523
+
+Judge:                                  ə
+Judgement:                              
+
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  Tiger
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       19 Sep 2009 21:59:11 GMT
+Assigned to ə:                          23 Sep 2009 22:32:33 GMT
+ə recused:                              12 Oct 2009 23:41:14 GMT
+Assigned to BobTHJ:                     13 Oct 2009 00:06:21 GMT
+BobTHJ recused:                         14 Oct 2009 03:18:00 GMT
+Assigned to Tiger:                      14 Oct 2009 17:58:57 GMT
+Judged FALSE by Tiger:                  15 Oct 2009 19:25:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ais523 wrote:
+
+> The argument basically goes like this: if "without member objection" is
+> a dependent action, then Agora is Satisfied with it, no matter how many
+> people purported to object. (It fulfils (1), (2), /and/ (3) of rule
+> 2124; because the action isn't without objections, with supporters, or
+> with Agoran consent, all three parts of the rules are met.) And
+> therefore, such a phrasing, clearly intended (according to the arguments
+> that people are pouring into a-b and a-d) to be a dependent action, is
+> (even though no rule says it is), and I can do it if Agora is satisfied.
+> Agora is satisified, therefore I can do it.
+>
+> (/me watches as people turn around their arguments and start claiming it
+> isn't a dependent action after all.)
+
+It /is/ a dependent action without objections, just with a restriction
+on who can object (per Rule 2124, paragraph 2, sentence 2, but currently
+ineffective because "as if the contract was a rule" was repealed).
+
+========================================================================
+
+Caller's Evidence:
+
+ais523 wrote:
+
+> On Tue, 2009-09-15 at 09:49 +0100, ais523 wrote:
+>> For each public contract (see the list at
+>> <http://agora-notary.wikidot.com/system:page-tags/tag/public>), I
+>> intend, without objection; I intend, without member objection; and I
+>> intend, without 3 objections; to replace its entire text with the
+>> following:
+>> {{{
+[scam text]
+>> }}}
+> Without member objection, I hereby amend the Fantasy Rules Context to
+> the text shown within the {{{ }}} marks in the quote above. (Note: if
+> the reasoning shown is incorrect, and I think it possibly is, this quite
+> possibly fails.)
+
+========================================================================
+
+Judge Tiger's Arguments:
+
+As the caller states, R2124 does allow "the document authorizing the
+dependent action" to modify who is eligible to object. It is
+reasonable to assume that "without member objection" is intended to
+mean "without objection from a member" which would in turn translate
+into the rules to "without objection (where the entities eligible to
+object are the members of this contract)". So far so good, now to
+determine if the contract actually "authorizes the dependent action".
+
+R2198 defines that contract changes CAN be performed by a mechanism
+specified by the contract. "Without member objection" is such a
+mechanism. R2198 authorizes the contract change, and authorizes
+players to perform them by the mechanism (that could be a dependent
+action), but it is the contract that authorizes the dependent action.
+So the contract is "the document authorizing the dependent action" and
+is thus permitted by R2124 to modify the set of eligible objectors. As
+ais523's intent recieved at least one member objection, eir amendment
+failed. FALSE.
+
+========================================================================

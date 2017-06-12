@@ -1,0 +1,73 @@
+==============================  CFJ 2751  ==============================
+
+    G.'s voting limit on the current decision to award coppro a thesis
+    is 15.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           30 Nov 2009 22:28:41 GMT
+Assigned to Murphy:                     06 Dec 2009 22:40:00 GMT
+Judged FALSE by Murphy:                 06 Dec 2009 22:53:50 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1367/13 reads in part:
+       - Each player's voting limit on the decision is thrice what
+         their voting limit would have been on an ordinary decision
+         initiated at the same time as this one, plus five for each
+         degree e held at that time
+However, this limit varies based on the chamber of the ordinary decision
+(Rules 2279/0 and 2156/15) so there is no Rules guidance on how to choose
+"an" ordinary decision as a reference.  The value 15 is for green ordinary
+decisions which are the R2156 default (G.'s base voting limit on green
+proposals is currently 5).
+
+========================================================================
+
+Caller's Evidence:
+
+> As Herald (vote collector), I initiate an Agoran Decision initiate to award
+> coppro a degree for eir thesis "The Propositional Nomic"
+> (http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2009-Novem
+ber/007387.html).  Eligible voters are current active players.  Options are:
+>      - Associate of Nomic                 (A.N.)
+>      - Bachelor of Nomic                  (B.N.)
+>      - Master of Nomic                    (M.N.)
+>      - Doctor of Nomic History            (D.N.Hist.)
+>      - Doctor of Nomic Science            (D.N.Sci.)
+>      - Doctor of Nomic Philosophy         (D.N.Phil.)
+>      - FAILING GRADE
+>
+> As G., I vote to my max. voting limit on this decision for B.N.
+> (a reasonable thought essay on a straightforward concept - worthy of
+> starting coppro on an appropriate progression through the education
+> system).
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 2222 sets a maximum of either 12 or 1, and no rule taking
+precedence over Rule 2222 claims otherwise, so it certainly
+can't be 15.
+
+For completeness, I believe that either
+  * Rule 1367 attempts to set it to some value >= 1
+  * Rule 2222 then reduces it to 1 (non-ordinary decision)
+or
+  * Rule 1367 fails to set it due to ambiguity
+  * Rule 683 then sets it to 1
+so, either way, eir voting limit is 1.
+
+========================================================================

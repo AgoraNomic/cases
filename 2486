@@ -1,0 +1,55 @@
+==============================  CFJ 2486  ==============================
+
+    A Rule and its text can have different power.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      03 May 2009 15:34:09 GMT
+Assigned to Wooble:                     04 May 2009 15:34:59 GMT
+Judged FALSE by Wooble:                 04 May 2009 17:51:03 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Well, one potentially worrying problem here; if a rule's text has a
+lower power than the rule itself (say 0), then the text cannot affect
+any aspect of the rule's operation. So how on earth does the rule know
+what it's enforcing?
+
+Arguably, the text is part of the rule, thus must have the same Power.
+(For instance, the first half of a passed proposal has the same Power as
+the proposal itself.)
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+The text can be duplicated in different context (e.g. as
+the text of a proposal or contract), but then arguably it isn't "its
+[the rule's] text" any more.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE.  From R2141, the content of a rule takes the form of a
+text.  That text is in essence the rule, and when considered as a
+separate entity it's not that rule's text.
+
+As Murphy points out, the text may be duplicated in a different
+context, and this duplicate text, as an entity with 0 power (assuming
+it's duplicated in a non-instrument), may be character-for-character
+equal as a string to the text of the rule, while missing the
+rule-nature that would allow us to call it "the same text".
+
+========================================================================

@@ -1,0 +1,86 @@
+==============================  CFJ 2871  ==============================
+
+    There is a rule with ID number 2307
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+Appeal:                                 2871a
+Decision:                               REMAND
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       26 Sep 2010 22:35:12 GMT
+Assigned to omd:                        03 Oct 2010 17:53:39 GMT
+Judged TRUE by omd:                     03 Oct 2010 19:59:57 GMT
+Appealed by Murphy:                     04 Oct 2010 00:52:23 GMT
+Appealed by omd:                        04 Oct 2010 03:55:55 GMT
+Appealed by Wooble:                     04 Oct 2010 12:51:56 GMT
+Appeal 2871a:                           04 Oct 2010 12:51:56 GMT
+REMANDED on Appeal:                     17 Oct 2010 21:01:36 GMT
+Assigned to omd:                        17 Oct 2010 21:01:36 GMT
+Judged FALSE by omd:                    17 Oct 2010 22:51:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I CFJ on the statement "There is a rule with ID number 2307", as it's
+unclear to me from the text of rule 2307 whether it self-repeals upon
+the resolution of the decision, or Taral actually updating the decision.
+
+========================================================================
+
+Caller's Evidence:
+
+the relevant paragraph of 2307:
+{{{
+      When the Agoran decision is resolved, if a Website Submission
+      was selected as the outcome, then its author is awarded two
+      Leadership Tokens and Taral SHOULD update http://agoranomic.org/
+      to reflect the winning Website Submission. Regardless of the
+      outcome, this rule then repeals itself.
+}}}
+
+========================================================================
+
+Judge omd's Arguments:
+
+Since the word "then" comes in a clause that applies "regardless of
+the outcome", it cannot be interpreted to refer to an action (Taral
+updating http://agoranomic.org/) that is only mentioned in the context
+of one sort of outcome; instead, it must refer to "when the Agoran
+decision is resolved".  I suppose it might be argued that "its author
+is awarded two Leadership Tokens and Taral SHOULD..." is part of a
+process (which is null if a Website Submission was not selected as the
+outcome), and "then" refers to the end of the process, but under that
+interpretation, the rule would be assuming that Taral would indeed
+update the website, which doesn't make sense when eir requirement to
+do so is just a SHOULD.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I intend, with 2 support, to appeal this judgement.  I request that
+the panel judge OVERRULE/FALSE without prejudice; omd's arguments
+are reasonable, but eir judgement does not match them, presumably
+due to a thinko.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I support, oops.
+
+========================================================================

@@ -1,0 +1,234 @@
+From owner-nomic-official@teleport.com  Thu Feb 29 15:32:58 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id PAA27145 for <blahedo@quincy.edu>; Thu, 29 Feb 1996 15:32:55 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id NAA29153; Thu, 29 Feb 1996 13:28:59 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Thu, 29 Feb 1996 13:28:57 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id NAA29125 for nomic-official-outgoing; Thu, 29 Feb 1996 13:28:56 -0800
+Received: from torii.triple-i.com (torii.triple-i.com [192.94.150.1]) by desiree.teleport.com (8.6.12/8.6.9) with ESMTP id NAA28964 for <nomic-official@teleport.com>; Thu, 29 Feb 1996 13:28:34 -0800
+Received: from siesta ([192.94.150.7]) by torii.triple-i.com (8.6.9/8.6.9) with SMTP id GAA11338 for <nomic-official@teleport.com>; Thu, 29 Feb 1996 06:39:22 -0800
+Received: from pak by siesta (4.1/SMI-4.1)
+	id AA14165; Thu, 29 Feb 96 06:38:39 PST
+Date: Thu, 29 Feb 96 06:38:39 PST
+From: jlc@triple-i.com (Jeff Caruso)
+Message-Id: <9602291438.AA14165@siesta>
+Received: by pak (4.1/SMI-4.1)
+	id AA09428; Thu, 29 Feb 96 06:38:38 PST
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 850:  FALSE
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+
+			JUDGEMENT OF CFJ 850
+
+"The Transfers mandated by Rule 1451 are either Class III or illegal"
+
+======================================================================
+
+Judge:		Zefram (defaulted)
+		Michael (defaulted)
+		Gecko
+
+Judgement:	FALSE
+
+Caller:		Morendil
+Barred:		Kelly, Steve, Swann
+On Hold:	Blob
+
+Eligible:	Andre, Chuck, Coren, dcuman, Doug, elJefe, favor, 
+		Gecko, Ghost, Greycell, Jtael, KoJen, Murphy, Vanyel
+
+Judge Gecko receives a judicial salary which will
+be reported after the end of the Nomic Week.
+
+======================================================================
+
+History:
+  Called by Morendil, 23 January 1996, 15:11 +0100
+  Assigned to Zefram, 2 February 1996, timestamp lost
+  Defaulted by Zefram, 9 February 1996
+  Assigned to Michael, 19 February 1996, 13:29 MET
+  Defaulted by Michael, 26 February 1996, 07:29 EST
+  Assigned to Gecko, 28 Feb 96 06:05:56 PST
+  Judged FALSE by Gecko, Wed, 28 Feb 1996 19:14:24 -0800 (PST)
+
+======================================================================
+
+Arguments :
+
+First off, I should note that part of this argument rests on the 
+possibility that Rule 1479 is self-contradictory, so it seems 
+necessary to recall Rule 101 at this point :
+
+Rule 101/0 (Semimutable, MI=3)
+Obey the Rules
+
+      All Players must always abide by all the Rules then in effect,
+      in the form in which they are then in effect.  The Rules in the
+      Initial Set are in effect at the beginning of the first game.
+
+>From this it should be obvious that our treatment of an inconsistent 
+Rule may not be arbitrary. It does not seem legal, for instance, to 
+ignore just part of a Rule; this would be tantamount to claiming that 
+a Rule can have effect in a different form than "the form in which 
+[it is] in effect". Either an inconsistent Rule is without legal 
+force, or it must be interpreted so that all of its requirements are 
+to be met.
+
+That said, let us consider the facts of the matter.
+
+Rule 1451 says that a Player disowning eir Proposal loses a 5-Point 
+fee (without specifying a time for this event to occur).
+
+Rule 1479 says that when a Player loses Points, e is required to 
+initiate a transfer of this amount of Points from eir Treasury to
+the Bank.. Unfortunately, it also states that this transfer, among
+the others that it specifies, is involuntary.
+
+Obviously, one cannot be "required" to effect an action "involuntarily", 
+on the face of it. Apparently, Rule 1479 is therefore inconsistent in 
+this respect, and from the above argument it would seem that it is 
+therefore without legal force.
+
+However, since the conclusion that an inconsistent Rule is such a 
+distasteful one, we might want to dig into the matter further, and 
+consider what "action" is required of a Player under 1479, namely, to 
+initiate a Transfer.
+
+Rule 1472 states that "Every transfer has an initiator, which is the
+Entity which causes the transfer to take place.". In view of this, it 
+does not seem unreasonable to claim that to initiate a transfer is to 
+cause it to take place. Being "the Entity which causes a transfer to 
+take place" can hardly be termed an _action_, and the semantic 
+problem, IMO, disappears.
+
+The last relevant Rule is therefore Rule 1472, which states that when 
+a Rule requires a Player to initiate a transfer, that transfer is of 
+Class III.
+
+If this is not sufficient, however, to avoid the conclusion that 1479 
+is irreparably inconsistent, and as such cannot be taken into 
+consideration at all, there remains only the statement in Rule 1451 
+that a Player "loses" eir fee of 5 Points.
+
+In this case, however, such a transfer is made illegal by Rule 1511, 
+which states that Points may only go to a Player from the Bank or 
+from a Player to the Bank. Thus these "lost" Points may only be 
+destroyed, *within* the Player's Treasury.
+
+However, Rule 1467 states that the Mintor of a Currency (in the case 
+of Points, the Mint) is the Entity authorized to create or destroy 
+units of a Currency. Rule 1470 states that "the Mint may never 
+transfer Currencies from it Treasury, or create or destroy any 
+Currencies of which it is the Mintor, except as *specifically* 
+authorized to do so in the Rules". Lastly, Rule 1011 states that 
+Nomic Entities may not be changed by any action other than
+those specified in the Rules.
+
+Conclusion : the Points "lost" under Rule 1451 can neither be 
+transferred or destroyed, and so the loss itself is illegal.
+
+---*-*-*---
+ Morendil
+
+======================================================================
+Decision of Judge Gecko:  FALSE
+
+We hereby return a Judgement of FALSE with the following Arguments: 
+
+ARGUMENTS: 
+
+     "A Player may Disown eir own Proposal if... by sending a statement 
+     Disowning it to the Public Forum... The Player so Disowning loses a 
+     flat fee of five Points, reported by the Assessor..."  [Rule 1451] 
+
+This quite clearly specifies that a transfer is to take place, but is it
+a legal transfer? 
+
+     "It shall be legal to transfer Currencies between Treasuries, provided
+     this is done in accordance with the Rules. Every transfer... shall be
+     transfered from Exactly one Treasury into exactly one other Treasury."
+     [Rule 1472] 
+
+This quite clearly specifies that a transfer must involve two
+Treasuries, while only one is specified in Rule 1451, which results in
+Rule 1451 attempting to perform an illegal transfer. However, another
+Rule addresses the issue which resolves the problem: 
+
+     "Whenever a Rule calls for a Player to lose a number of Points without
+     specifying where these Points shall be transfered to, the Player shall
+     be required to transfer that number of Points from eir own Treasury to
+     the Bank... All of these transfers are involuntary by nature." 
+     [Rule 1479] 
+
+Thus, the second Treasury involved is the Bank, making the transfer
+legal according to the quoted clause in Rule 1472. Morendil claims that
+Rule 1479 is self-contradictory in eir Arguments: 
+
+> Rule 1479 says that when a Player loses Points, e is required to 
+> initiate a transfer of this amount of Points from eir Treasury to
+> the Bank.. Unfortunately, it also states that this transfer, among
+> the others that it specifies, is involuntary.
+> 
+> Obviously, one cannot be "required" to effect an action "involuntarily", 
+> on the face of it. Apparently, Rule 1479 is therefore inconsistent in 
+> this respect, and from the above argument it would seem that it is 
+> therefore without legal force.
+
+However, Morendil seems to have mis-read the Rule in question. E claims
+that Rule 1479 requires a Player to "initiate" a transfer, which is not
+the case. It merely states that a Player "shall be required to transfer"
+Points to the Bank. 
+
+Rule 1472 states "It shall be legal to transfer Currencies..." making it
+legal to transfer Currencies. It goes on to state "Every transfer has an
+initiator, which is the Enitity which causes the transfer to take
+place." That phrase does *not* define who actually "performs" the
+transfer, but only defines the "initiator" as the Entity who creates the
+requirement that the Currency be transfered. With "initiator" having
+such a specific, defined meaning, it was incorrect of Morendil to insert
+that word into the paraphrased text of Rule 1479 since it does not
+necessarily apply. 
+
+In actuality, Rule 1479 states that if a Player "loses" Points, e
+involuntarily transfers those Points to the Bank, as allowed by Rule
+1472. The initiator of the transfer would actually be Rule 1479 since it
+is the Entity responsible for creating the requirement to transfer said
+Points. 
+
+     "A transfer which is explicitly and directly required to take place 
+     by a Rule is initiated by that Rule, and is called a Class I transfer." 
+     [Rule 1472] 
+
+     "A transfer which is not required to take place, and which is instead a
+     consequence of a Player's action, is initiated by that Player, and is
+     called a Class III transfer." [Rule 1472]
+
+The transfer caused by Disowning a Proposal is indeed the end result of
+an action performed by a Player, but only indirectly. It is explicitly
+and directly required to take place by Rule 1479 which states that the
+Player in question is required to transfer the Points. 
+
+The transfer is not allowed to be a Class III transfer due to the fact
+that the phrase "A trasnfer which is not required to take place" can
+be read to mean "A transfer which is not a Class I transfer," otherwise
+Rule 1472 would be considered to be self-contradictory. 
+
+
+In conclusion, Rule 1479 is not contradictory due to the fact that Rule
+1479 does not claim the Player as the initiator of the transfer, but is
+the initiator of the transfer itself. Therefore, Rule 1479 successfully
+requires the transfer Points due to Disowning Proposals, and thus the
+transfer (since it is required by a Rule) is a Class I transfer.
+
+The Assessor is therefore required to report (and thus presumably
+detect them, although that is another story) the transfer and it shall
+take place at the time it is required, i.e., at the time the Player
+Disowns the Proposals and thus incurs the penalty. 
+
+
+---
+Player Gecko                     
+gecko@magika.com                http//www.teleport.com/~magika/wespage.html

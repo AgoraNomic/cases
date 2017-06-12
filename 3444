@@ -1,0 +1,81 @@
+=============================  CFJ 3444  =============================
+
+      scshunt is a player.
+
+======================================================================
+
+Caller:                     omd            
+
+Judge:                      ais523            
+Judgement:                  TRUE            
+
+======================================================================
+
+History:
+
+Called by omd:              23 Apr 2015
+Assigned to ais523:         23 Apr 2015
+Judged TRUE by ais523:      26 Apr 2015
+            
+======================================================================
+
+Caller's Evidence:
+
+On Wed, Apr 22, 2015 at 11:11 PM, Sean Hunt <scshunt at csclub.uwaterloo.ca> wrote:
+I would like to become a player at this time, even though I cannot do so by
+announcement.
+
+
+Rule 869/37 (Power=3)
+How to Join and Leave Agora
+
+      Any organism that is generally capable of freely originating and
+      communicating independent thoughts and ideas is a person.  Rules
+      to the contrary notwithstanding, no other entities are persons.
+
+      Citizenship is a person switch with values Unregistered
+      (default) and Registered, tracked by the Registrar.  Changes to
+      citizenship are secured.  A registered person is a Player.
+
+      A person CAN (unless explicitly forbidden or prevented by the
+      rules) register by publishing a message that indicates
+      reasonably clearly and reasonably unambiguously that e intends
+      to become a player at that time.  A person, by registering,
+      agrees to abide by the Rules.  The Rules CANNOT otherwise bind a
+      person to abide by any agreement without that person's willful
+      consent.
+
+      A player CAN deregister (cease being a player) by announcement.
+      If e does so, e CANNOT register by announcement for 30 days.
+
+      The Rules CANNOT compel non-players to act, nor compel players
+      to unduly harass non-players.  A non-person CANNOT be a player,
+      rules to the contrary notwithstanding.
+
+======================================================================
+
+Judge's Arguments:
+
+So the important thing here is whether scshunt is registering by
+announcement:
+
+Rule 478/32 (Power=3)
+Fora
+
+[...]
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.
+
+Is the action specified clearly and unambiguously? I'd say yes. Is
+scshunt announcing that e performs it? No, the email is a statement of
+intention, rather than a speech action as we'd normally consider it.
+
+Thus, the timeout on registration doesn't apply to this particular
+message, as it's not of the forbidden form. I don't see any other reason
+why the registration would fail.
+
+I judge CFJ 3444 TRUE.
+
+======================================================================

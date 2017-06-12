@@ -1,0 +1,51 @@
+==============================  CFJ 2951  ==============================
+
+    The office of Assessor is vacant.
+
+========================================================================
+
+Caller:                                 Wooble
+Barred:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       26 Dec 2010 18:32:32 GMT
+Assigned to ais523:                     10 Jan 2011 01:13:39 GMT
+Judged TRUE by ais523:                  16 Jan 2011 14:52:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+scshunt purported to resign the office of Assessor using the power of
+the Grand Vizier, when e was not the holder of the office, thus
+causing the office to become vacant.
+
+Rule 2255 states that the Grand Vizier CAN perform actions than an
+officer can perform such an action "[i]f the rules specify that the
+officer CAN perform the action [...]".
+
+Rule 1006 does not "specify" that the Assessor CAN resign, in fact,
+it's not specific at all.  It allows *any* holder of an elected office
+to resign.  Therefore, resigning the office of Assessor is not an
+action that the Grand Vizier can perform by virtue of being the Grand
+Vizier.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The caller's
+arguments are incorrect, in that they misquote the rule in question;
+resigning an office is certainly something that you can do by virtue of
+holding it, and likewise is legal, which is enough to trigger the rule
+(the "specify" section is subordinate; to me, the obvious reading is "if
+the rules give CAN and MAY, then depending on whether the CAN is
+specified as an announcement or a dependent action, ...").
+
+========================================================================

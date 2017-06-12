@@ -1,0 +1,146 @@
+==============================  CFJ 1228  ==============================
+
+    The Treasuror's Salary is 0.2 times the Basic Officer's Salary.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  t
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       03 Jun 2000 20:42:44 GMT
+Assigned to t:                          05 Jun 2000 02:52:16 GMT
+Judged TRUE by t:                       10 Jun 2000 21:13:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On May 31, 2000, Treasuror lee changed the Budget by "setting the
+monthly officer salaries as follows", but e did not explicitly mention
+mention the Treasuror's Salary.  Prior to this change, the Treasuror's
+Salary was 0.2 times the BOS.  (E did not mention the Speaker-Elect's
+Salary either, but the Speaker-Elect's Salary was zero anyway.)
+
+If lee's change did not affect the Salary of any Office not explicitly
+mentioned, then the statement is TRUE.  If it changed such Salaries to
+zero, then the statement is FALSE.
+
+For what it's worth, lee clearly intended the Treasuror's Salary to
+remain at 0.2 times the BOS.  Doing so would maintain the average
+Compensation and average Officer's Salary both at 1.0 times the BOS
+(for which e has a stated preference).  Eir discussion of the change
+in a-d, and eir subsequent paying out of Salaries, also reflect eir
+belief in an unchanged Treasuror's Salary.
+
+========================================================================
+
+Caller's Evidence:
+
+Date: Wed, 31 May 2000 08:26:06 -0500
+Subject: OFF: Budget Change, Completed
+To: agora-official@gecko.serc.rmit.edu.au
+From: lee@schawk.com (_lee _kinkade)
+
+> >> I announce my intention to change the Budget, with support, by setting
+> >the
+> >> monthly officer salaries as follows:
+> >
+> >> Accountor   1.4
+> >> Assessor    1.2
+> >> CotC        1.2
+> >> Herald      1.2
+> >> Justiciar   0.2
+> >> Notary      0.6
+> >> Payroll     2.2
+> >> Priest      1.2
+> >> Promotor    1.5
+> >> Registrar   1.1
+> >> Rulekeepor  1.3
+> >> Scorekeepor 0.7
+>
+>
+>Having received the needed support, i hereby make the above listed changes
+>to the budget.
+
+
+Date: Tue, 02 May 2000 07:41:24 -0500
+Subject: OFF: Treasuror's Budget
+To: agora-official@gecko.serc.rmit.edu.au
+From: lee@schawk.com (_lee _kinkade)
+
+ > Officer Salaries:
+ >                                                In Stems
+ > Accountor                           1.6              64
+ > Assessor                            1.4              56
+ > Clerk of the Courts                   1              40
+ > Herald                              0.8              32
+ > Justiciar                           0.2               8
+ > Notary                              0.8              32
+ > Payroll Clerk                       1.6              64
+ > Priest                                1              40
+ > Promotor                            1.4              56
+ > Registrar                           1.4              56
+ > Rulekeepor                          1.6              64
+ > Scorekeepor                           1              40
+ > Speaker-Elect                         0               0
+ > Treasuror                           0.2               8
+ > Speaker's Gratuity                    1              40
+ > Judicial Salary                     0.5              20
+ > Minimum Income                      0.5              20
+ > Distributor's Gratuity                1              40
+ > New Player Award                      2              80
+ >
+ > Average Compensation                  1
+ > Average Officer's Salary              1
+
+
+Date: Tue, 30 May 2000 15:12:02 -0500
+Subject: DIS: Re: OFF: Budget Change
+To: agora-discussion@gecko.serc.rmit.edu.au
+From: lee@schawk.com (_lee _kinkade)
+
+ >     Office  Current Proto Proposed
+ >             Salary             Change
+ >     Account   1.6  1.3   1.4  -0.2
+ >     Assessor 1.4    1   1.2  -0.2
+ >     CotC        1   1.2   1.2   0.2
+ >     Herald    0.8   1.7   1.2   0.4
+ >     Justiciar 0.2   0.2   0.2     0
+ >     Notary    0.8   0.4   0.6  -0.2
+ >     Payroll   1.6   2.4   2.2   0.6
+ >     Priest      1   1.5   1.2   0.2
+ >     Promotor  1.4   1.6   1.5  0.1
+ >     Registrar 1.4   0.9   1.1  -0.3
+ >     Rulekpr.  1.6   1.2   1.3  -0.3
+ >     Scorekpr.   1   0.4   0.7  -0.3
+ >     Speaker     0    0    0    0
+ >     Treasuror 0.2   0.2   0.2     0
+ >
+ > I have taken into account the proposed budget by Taral, the suggestions
+ > made by Michael, and then tweaked the results to make an average of 1.
+
+
+Date: Wed, 31 May 2000 18:56:59 -0500
+Subject: OFF: Monthly Salaries
+To: agora-official@gecko.serc.rmit.edu.au
+From: lee@schawk.com (_lee _kinkade)
+
+ > I hereby order the Bank to pay the Treasuror, lee, 8 Stems.[PC00213]
+
+========================================================================
+
+Judge t's Arguments:
+
+When lee amended the budget, e did not mention the Treasuror's salary. As
+the amendment explicitly defined all changed salaries, it is the court's
+opinion that this was only a partial amendment of the budget, which did
+not modify any salaries which were not mentioned, therefore the
+Treasuror's salary retains its old value.
+
+========================================================================

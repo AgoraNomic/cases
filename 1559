@@ -1,0 +1,134 @@
+==============================  CFJ 1559  ==============================
+
+    Quazie successfully played Library Renewal on April 21st
+
+========================================================================
+
+Caller:                                 Quazie
+Barred:                                 root
+Barred:                                 Maud
+
+Judge:                                  Manu
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       23 Apr 2005 15:01:20 GMT
+Assigned to Manu:                       24 Apr 2005 05:55:48 GMT
+Judged FALSE by Manu:                   27 Apr 2005 18:11:04 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+      * Caption: Library Renewal
+        Elements: Budgeted
+        Exploit: Upon playing this card you may indicate a number
+                 1 through 5.  ASAP after you do this the speaker
+                 must randomly discard that many cards from the
+                 Library's hand that are not reserved.  If the
+                 Speaker has discarded all non reserved cards
+                 then e does not need to discard any more.
+
+      (d) An Exploit is an action that the Holder of that Card (and
+          only the Holder of that Card) may take if and only if e
+          meets the requirements and/or pays the costs outlined in
+          that Exploit. Any reference to "you," "your" or a similar
+          pronoun in the text of an Exploit refers to the Holder of
+          that Card. Taking an action described in an Exploit is known
+          as Playing the Card. Unless a Rule says otherwise, a Card is
+          automatically transferred to the Discard Pile immediately
+          after being Played.
+
+Quazie  agora-discussion@agoranomic.org
+Thu, 21 Apr 2005 17:34:57 -0400
+
+On 4/20/05, Ian Kelly <kellyia@udel.edu> wrote:
+
+>> I delegate the office of Deckmastor to Quazie for three weeks, starting
+>> immediately, pending eir consent.
+>>
+>> -root
+>>
+
+
+I accept this delegation, and gladly accept the office of Deckmastor.
+
+I think the title of this message is sufficient for roots transfer of
+a card to me.
+
+Now, I play Library Renewal and indicate 5 cards to be discarded.
+
+========================================================================
+
+Judge Manu's Arguments:
+
+PROLOGUE
+
+Quazie's action, "I play Library Renewal and indicate 5 cards to be
+discarded.", looks valid. The Card's Exploit explains that the Player
+must indicate a number between 1 and 5. Quazie indicated that number,
+even if he went a little bit ahead and mentioned the discarding of
+Cards, which is not part of the Exploit itself - just the indicating
+bit is. Still, the Card is played and a number is indicated. There is
+no problem with the sentence in itself.
+
+THE PROBLEM
+
+There may be a problem though if we look at how Exploits are defined.
+Rule 2069 mentions that "Taking an action described in an Exploit is
+known as Playing the Card." and the Card says that "Upon playing this
+card you may indicate a number 1 through 5."
+Trying to understand the relationship between the two sentences makes
+me thing of Escher's hands drawing/drawing hands loop. Taking an
+action described in an Exploit is Playing that Card but what if the
+Exploit IS Playing that Card? In the case of Library Renewal, the
+"Upon playing this card[...]" part is not an action, just a time
+requirement. BUT it comes BEFORE the actual R2069-wise "Playing the
+Card" (i.e. the action, the number indicating). I could resume the
+Exploit as "Upon X, you may X".
+
+Even going further, R2069 alone seems confusing to me. Let me quote
+two parts of R2069(d):
+    "(d) An Exploit is an action that[...]"
+    "Taking an action described in an Exploit is known as Playing the
+    Card."
+So an Exploit is an action but may also contain an action.
+Self-referencing, again. Reworking the previous formula, we could
+translate Library Renewal as "Upon taking an action, you may take an
+action", where the first "taking an action" is synonym with "An
+Exploit is an action" and the second ocurrance falls within "an action
+described in an Exploit". Hrm. Two different meaning for "action" in
+the same paragraph.
+
+But what could be considered "an action described in an Exploit",
+exactly? Is "indicating a number" an action? Is it the random
+discarding by the Speaker? The word action is appearing everywhere in
+the Ruleset and nearly everything a Player does is an action. And more
+importantly, an Exploit is an action, as proven earlier. So everything
+included in the Exploit is one single action, game-wise (especially
+regarding R1527). This adds nothing to my argument, only to the
+complexity of the case.
+
+PLEASE KILL ME
+
+Which came first, the Rule or the Card? Obviously, R2069. Since the
+Library came later, R2069 has a lower Rule number than Library Renewal
+(it doesn't appear in my copy of the Ruleset) and thus, has precedence
+over the Card (according to R1030). Therefore, one could say that
+"playing this card" appearing in the Card Exploit is overrided by the
+definition in R2069 and according to this fine Rule, playing the Card
+is "Taking an action described in an Exploit". So, retranslating the
+Card, we get "Upon taking an action described in this Exploit, you may
+indicate[...]". Does that make any more sense? Hardly.
+
+CHEWBACCA DOESN'T LIVE ON ENDOR
+
+Because of the mess caused by self-referencing and double-meaning, it
+is my understanding (or lack of) that the Library Renewal is an
+invalid Card, does not make sense and is unplayable until it is
+reworded. Therefore, I return a judgement of FALSE.
+
+========================================================================

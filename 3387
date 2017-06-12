@@ -1,0 +1,174 @@
+==============================  CFJ 3387  ==============================
+
+    Teucer CAN destroy the promise entitled "I've had the time of my
+    life" by announcement.
+
+========================================================================
+
+Caller:                                 teucer
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by teucer:                       06 Aug 2013 14:24:19 GMT
+Assigned to ais523:                     12 Aug 2013 18:52:55 GMT
+Judged FALSE by ais523:                 17 Aug 2013
+
+========================================================================
+
+Caller's Arguments:
+
+On Tue, Aug 6, 2013 at 1:30 AM, omd <c.ome.xk@gmail.com> wrote:
+> On Tue, Aug 6, 2013 at 1:02 AM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+>> Arguments:
+>
+> I'm not sure whether I agree with you or not.  I agree that
+>
+> 00:53 < tswett> If a rule were to say "if it is POSSIBLE to do X, then
+> it is POSSIBLE to do Y", I think we would treat
+>                 this as meaning something very different from "if it
+> is IMPOSSIBLE to do Y, then it is POSSIBLE to do
+>                 X".
+>
+> and that therefore, we should not treat Agora's ruleset as a set of
+> axioms.  However, I don't think this is actually divorced from logic
+> somehow - e.g. I think that a CFJ on whether Fool CAN deregister
+> everyone would have still been FALSE, and don't think that adding an
+> indirection in the form of a definition, which would seem to require
+> some form of logic (e.g. Fool uses Curry's paradox to establish that e
+> is a Yak Master, then creates some Yaks) would change anything.
+
+I'm going to go off on a tangent now from this, but I just realized
+something prompted by the above interpretation of if-then statements.
+
+Allow me to quote r217: "A term explicitly defined by the Rules, along
+with any of its ordinary-language synonyms not otherwise so defined,
+has that meaning when used in any Rule of equal or lesser power, or
+when used in a Rule of greater power that is clearly intended to
+comply with that meaning.  Otherwise, terms have their
+ordinary-language meanings; with definitions contained in
+lower-powered Rules providing non-binding guidance."
+
+In no instance is the word "if" defined in the rules. Therefore, it is
+clearly something which, in Agora, carries its ordinary rather than
+logical meaning. In everyday use, there simply is no formalization of
+the truth value of an if-then statement whose first part is false, but
+it is normal to expect (but not rely on) the second part being false
+also - rather more like a logician's iff than if, in fact - unless
+context suggests otherwise. "If you go to the store, bring home some
+eggs" is clearly an instruction that doesn't expect any eggs if you
+don't go to the store, though it doesn't forbid them. "If you pick any
+three of the numbers correctly in Powerball, you win seven dollars"
+should be understood as making it pretty clear that you *won't* win
+seven dollars if you only match two numbers, and you should also
+expect it means won't win seven dollars if you match four. (Matching
+two numbers has a payout of $0 or $4 depending on which two they are,
+while matching four will get you $100. Yes, that's right, I research
+my irrelevant examples!) But, crucially, it's not a promise that those
+things are true, merely an expectation. (The statement would not be
+rendered false by there being another $7 payout for something else.)
+
+This sounds a lot like it's asserting that "if" means logical if, but
+I think instead that if statements are often used to imply iff but in
+fact should be interpreted as asserting nothing of relevance to the
+world outside them unless the first half is satisfied. That is,
+putting something between "if" and "then" makes it a switch that, when
+not satisfied, screens the whole sentence off from the rest of the
+world.
+
+Suppose we treat the word "if" like lawyers rather than logicians,
+such that an if-then statement simply doesn't *do* anything unless the
+"if" part is satisfied. If we do that (and note, I'm asserting that
+this is not going to tell us anything useful at all unless we do!)
+then the following is true:
+ - thanks to the rule text Fool intended to press into service
+involving "if and only if", P1's destruction is clearly dependent on
+P2's in a logical sort of way.
+ - P2's destruction condition in a world where P1 CAN be destroyed is
+logically dependent on Fool's ability to deregister other players. In
+a world where P1 CANNOT be destroyed, P2 makes no particular
+assertions about its destruction condition and thus does not have one.
+
+This allows us to constructively figure out the destructibility of the
+promises in such a way that assuming a priori that Fool has no prior
+ability to deregister players doesn't create a paradox, nor does it
+bootstrap em into such an ability. Given that we initially assume no
+such ability, P2 CANNOT be destroyed if P1 CAN. (Had Fool specified
+what e clearly meant to, and what a logician would readily read into
+eir phrasing, that P2 CAN be destroyed if P1 CANNOT, then these
+promises would have created a paradox which could only be resolved by
+granting em the ability to deregister people. This does not
+unambiguously fail to do so, but it can alternately be interpreted as
+creating two statements which are effectively mutually
+self-referential and create an Epimenides paradox.) Since P1 CANNOT be
+destroyed if P2 CANNOT, and P2 has no destruction condition unless P1
+can be destroyed, the attempt thus resovles to an unambiguous and
+non-paradoxical state where P2 has no destruction condition and thus
+CANNOT be destroyed, and P1's condition cannot be satisfied and so it
+CANNOT be destroyed either.
+
+I thus see the following possible interpretations of the current
+status of these promises:
+
+1. Despite r217's claims to the contrary, "if" does not have its
+everyday meaning but its logical one (or it is felt that its everyday
+meaning is nearer to its logical one than I consider correct).
+Furthermore, Agora runs primarily on logical rather than legal
+reasoning. I reject both of those claims, and I think r217 is actually
+pretty good evidence that the latter is not the intent of the ruleset
+as well as nixing the former. But although I find this interpretation
+untenable, I include it for completeness. If this is the case, Fool's
+scam succeeds, and omd is not a player. This will be shown to be the
+only interpretation where this is so. It should be noted, by the way,
+that this is almost certainly the interpretation which would have been
+correct had this scam been attempted in any of the recent alleged eras
+of B Nomic, and should we ever get a revival, rescue, or sequel going
+for that fair game, Fool is encouraged to take part because e would do
+well there and enjoy emself.
+
+2. Agora still runs on logical rather than legal reasoning, but "if"
+has its everyday meaning and I'm right about what that is. In this
+case, Fool's scam fails for the reasons outlined above. But that's not
+because e attempted the impossible; eir scam was merely a buggy
+interpretation of a sound principle. I find this interpretation
+farfetched in the extreme, since in the case where Agora runs on
+logical reasoning "if" should probably be interpreted so as to make
+the scam succeed. This interpretation is not completely untenable,
+however, and for that reason you will find my counterscam below.
+
+3. Agora runs on legal reasoning, but "if" works in a logical manner
+anyway. Again, I don't buy this, but I think it's pretty reasonable.
+In this case, Fool's promises interact to create an Epimenides paradox
+from which one could easily generate a turtle.
+
+4. Agora runs on legal reasoning and my exegesis of "if" above is
+entirely correct. In this case, once again, Fool's promises were
+slightly buggy, but a better-phrased version would generate a paradox
+and allow turtle creation. I believe this to be the correct
+interpretation.
+
+In interpretation 1
+above, Fool's scam succeeded and I am thus unable to author proposals,
+so this is false. In interpretation 2, where Fool's scam is functional
+but buggy, there is no such promise anymore, so again, it's false. In
+interpretation 3, where Fool's scam creates a paradox, my clone of it
+creates the same paradox and this should be UNDECIDABLE; in
+interpretation 4, again, Fool's scam tried to create a paradox but
+failed to do so, and this one lacks its bugs and therefore is still
+UNDECIDABLE. (Note that an UNDECIDABLE judgement doesn't disambiguate
+between cases 3 and 4, but it would be useful for Agora to settle that
+question anyway through another CFJ.)
+
+========================================================================
+
+Judge's Arguments:
+
+I judge CFJ 3387 FALSE. I can't see a rule that would let you destroy a
+promise you don't own by announcement, given that there wasn't notice
+given at the appropriate time.
+
+========================================================================

@@ -1,0 +1,83 @@
+==============================  CFJ 1695  ==============================
+
+    BobTHJ can vote on behalf of Primo Corporation
+
+========================================================================
+
+Caller:                                 Levi
+Barred:                                 BobTHJ
+Barred:                                 Primo Corporation
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Levi:                         23 Jun 2007 02:41:39 GMT
+Assigned to root:                       27 Jun 2007 21:31:34 GMT
+Judged TRUE by root:                    13 Jul 2007 19:13:19 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+   Rule 683 states:
+
+     An eligible voter on a particular Agoran decision submits a
+     ballot to the vote collector by publishing a valid notice
+     indicating which one of the available options e selects.
+
+   I argue that this is interpreted such that a player's ballot is
+   only eligible if submitted by the voter emself.
+
+   I also argue that the presence of a binding agreement is not enough
+   to overrule this requirement.
+
+   As it is BobTHJ placing votes, not Primo Corporation, such ballots
+   are not valid.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 683/13 (Power=3)
+Voting on Agoran Decisions
+
+     An eligible voter on a particular Agoran decision submits a
+     ballot to the vote collector by publishing a valid notice
+     indicating which one of the available options e selects.  To be
+     valid, the ballot must satisfy the following conditions:
+
+     (a) The ballot is submitted during the voting period for the
+         decision, and the submitter is an eligible voter at the
+         time of submission.
+
+     (b) The ballot clearly identifies the matter to be decided.
+
+     (c) The ballot clearly identifies the option selected by the
+         voter.
+
+     (d) The voter has not publicly retracted the ballot during the
+         voting period.
+
+     The strength of an option is the number of valid ballots
+     selecting that option.
+
+     Other rules may place further constraints on the validity of
+     ballots.  This rule takes precedence over any rule that would
+     loosen the constraints specified by this rule.
+
+========================================================================
+
+Judge root's Arguments:
+
+By Rule 101(vi), "Every player has the right of participation in the
+fora."  To find that a player is categorically unable to perform a
+legal action on the public forum would be an abridgment of this R101
+right.  Therefore we must accept that section 11 of the Primo
+Corporation charter succeeds in creating a mechanism by which Primo
+Corporation can participate in the fora.
+
+========================================================================

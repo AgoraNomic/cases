@@ -1,0 +1,41 @@
+==============================  CFJ 2286  ==============================
+
+    As Rule 1023 defines the terms, a unit of text consisting entirely
+    of the string "CHAPTER I" is enumerated.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  24 Nov 2008 02:33:48 GMT
+Assigned to root:                       25 Nov 2008 20:22:05 GMT
+root recused:                           10 Dec 2008 22:47:41 GMT
+Assigned to Murphy:                     10 Dec 2008 23:57:03 GMT
+Judged TRUE by Murphy:                  11 Dec 2008 00:11:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I ask for a judgement of TRUE on both of these simply because that
+would be more convenient.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+R1023(b)(1) does not specify any particular form of enumeration, and
+the forms here are both enumerated in the ordinary-language sense.
+
+========================================================================

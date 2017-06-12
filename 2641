@@ -1,0 +1,38 @@
+=========================  Criminal Case 2641  =========================
+
+    BobTHJ violated R2143, a Power-1 rule, by publishing an Insulator's
+    report with incorrect information on 23 July by means of claiming
+    that C-walker had 0 rests.
+
+========================================================================
+
+Caller:                                 BobTHJ
+
+Judge:                                  ais523
+Judgement:                              NOT GUILTY
+
+========================================================================
+
+History:
+
+Called by BobTHJ:                       30 Jul 2009 16:54:35 GMT
+Defendant BobTHJ informed:              30 Jul 2009 16:54:35 GMT
+Assigned to ais523:                     31 Jul 2009 00:30:47 GMT
+Judged NOT GUILTY by ais523:            02 Aug 2009 13:39:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I did not notice that rest destruction was
+secured at a higher power than Absolv-o-Matic's exploit.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2641 NOT GUILTY; GUILTY is inappropriate per rule 1504(d)
+(it is reasonable that BobTHJ was aware that reports must be correct,
+but did not believe eir report was incorrect).
+
+========================================================================

@@ -1,0 +1,58 @@
+==============================  CFJ 3498  ==============================
+
+      Every statement is ambiguous.
+
+========================================================================
+
+Caller:                       天火狐
+
+Judge:                        Gaelan
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by 天火狐:             19 May 2017
+Assigned to Gaelan:           19 May 2017
+Judged FALSE by Gaelan:       26 May 2017
+
+========================================================================
+
+Caller's Arguments:
+
+   * Every statement is written in one language.
+   * Translation between any two languages is inherently ambiguous.
+   * Therefore, every statement is ambiguous at least in every language
+     the statement was not originally written in.
+   * Agora does not formally make preference to any one language, and
+     recognizes differences in dialect (CFJ 1439).
+   * Thus, every statement is ambiguous.
+
+========================================================================
+
+Judge's Arguments
+
+Rule 1698/4:
+      Agora is ossified if it is IMPOSSIBLE for any reasonable
+      combination of actions by players to cause arbitrary rule
+      changes to be made and/or arbitrary proposals to be adopted
+      within a four-week period.
+
+      If, but for this rule, the net effect of a proposal would cause
+      Agora to become ossified, or would cause Agora to cease to
+      exist, it cannot take effect, rules to the contrary
+      notwithstanding.  If any other single change to the gamestate
+      would cause Agora to become ossified, or would cause Agora to
+      cease to exist, it is cancelled and does not occur, rules to the
+      contrary notwithstanding.
+
+Judging this as TRUE would cause Agora to become ossified (proposals are
+created by announcement, announcements must be unambiguous). Therefore,
+it is IMPOSSIBLE to judge this CFJ as TRUE. Therefore, I judge as FALSE.
+
+Additional argument: ambiguous is a relative term, but it is clear from
+game precedent that in this context it means “reasonably unambiguous to
+the players of Agora."
+
+========================================================================

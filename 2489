@@ -1,0 +1,50 @@
+==============================  CFJ 2489  ==============================
+
+    root has won by Championship
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Tiger
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       04 May 2009 20:23:07 GMT
+Assigned to Tiger:                      04 May 2009 22:13:51 GMT
+Judged FALSE by Tiger:                  05 May 2009 16:37:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There's been a Win Announcement which was correct, and made
+root satisfy a Winning Condition. Is that satisfaction ongoing until the
+win actually happens, or a one-off?
+
+========================================================================
+
+Judge Tiger's Arguments:
+
+R2242:
+"Upon a win announcement that a specified non-contest player owns
+a Medal, that player satisfies the Winning Condition of
+Championship."
+The important word here to determine whether it is ongoing or a
+one-off is "upon". dictionary.com (please tell me if I should use
+another source for definitions) notes the following meanings for
+"upon" when used in the context of time:
+4.      immediately or very soon after: She went into mourning upon her
+husband's death.
+5.      on the occasion of: She was joyful upon seeing her child take his
+first steps.
+The most reasonable way to interpret this is as a one-off: if the game
+is not won by player owning the Medal the very instant e satisfies the
+winning condition, e ceases to satisfy it.
+( Note: since this CFJ was called root has in fact won by
+championship, but as of its calling e had not)
+
+========================================================================

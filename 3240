@@ -1,0 +1,49 @@
+==============================  CFJ 3240  ==============================
+
+    The statement "Ozymandias has won the game." and this one have the
+    same truth value.
+
+========================================================================
+
+Caller:                                 Ozymandias
+
+Judge:                                  Murphy
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by Ozymandias:                   28 Jun 2012 15:50:10 GMT
+Assigned to Murphy:                     03 Jul 2012 22:36:52 GMT
+Judged UNDECIDABLE by Murphy:           06 Jul 2012 14:00:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The statement is not IRRELEVANT because a judgment of TRUE or FALSE
+would logically imply that I win.  It is not MALFORMED because its
+easily parsed as a compound sentence.  It is precise and meaningful,
+and any difficulty in assigning judgment cannot come from a lack of
+information because there is no information relevant to the statement
+that's missing.  So it cannot be UNDETERMINED.
+
+This leaves only TRUE, FALSE, and UNDECIDABLE as possible judgments.
+As I would be satisfied with any of those three, I will end my
+argument here and leave further determination to the judge.
+
+========================================================================
+
+Caller's Evidence:
+
+Only the rules of logical deduction are needed for this case.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments.  Ozymandias has not won the game, so
+neither TRUE nor FALSE is appropriate.
+
+========================================================================

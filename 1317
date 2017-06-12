@@ -1,0 +1,81 @@
+==============================  CFJ 1317  ==============================
+
+    A Zombie cannot own another Zombie.
+
+========================================================================
+
+Caller:                                 root
+Barred:                                 Wes
+
+Judge:                                  Syllepsis
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         16 Aug 2001 03:46:00 GMT
+Assigned to Syllepsis:                  16 Aug 2001 03:51:55 GMT
+Judged FALSE by Syllepsis:              24 Aug 2001 21:26:41 GMT
+
+========================================================================
+
+Judge Syllepsis's Arguments:
+
+Rule 1884 States:
+
+      Zombies are Property.  The owner of a Zombie is called eir
+      Master.  Whenever a Player becomes a Zombie, eir Master is the
+      Bank.
+
+      Whenever the Master of a Zombie is a Player, e has Power of
+      Attorney for that Zombie, unless the Rules withdraw it from
+      em.
+
+Rule 1842 States:
+
+      In certain specified circumstances the Rules may grant one
+      Player, hereafter called the Holder, Power of Attorney for
+      another Player, hereafter called the Grantor.  Such a grant
+      shall only occur when specified by the Rules, and shall last
+      only as long as the Rules permit.
+
+      When the Holder is granted Power of Attorney for the Grantor,
+
+      that means that the Holder becomes the sole Executor for the
+      Grantor for as long as e has that Power of Attorney.
+
+      No Player is permitted to have Power of Attorney for more than
+      two other Players.
+
+Non-Players are permitted to hold property. Non-Players are NOT permitted
+to have PoA over Players.
+
+Rule 1755 States:
+
+      When a player becomes deregistered or a Zombie, e ceases to be
+      a candidate, officer, judge, or in general to occupy any role or
+      position to which a Rule assigns any duties or powers.  No one
+      who is not registered, or who is a Zombie, may occupy such a
+      role or position.  This rule takes precedence over rules which
+      would prevent em from ceasing to occupy such a role or position.
+
+      The foregoing paragraph shall not apply to the Bearing of Patent
+      Titles, or any position which a Rule specifically says may be
+      held by a non-Player or Zombie, nor shall it act to prevent a
+      non-Player or Zombie from registering, calling CFJs, or doing
+      things that non-Players and Zombies are generally able to do.
+
+Holding PoA over another Player is something that Non-Players may not do,
+nor does the inhibition of this power prevent a Zombie from doing things
+Non-Players and Zombies are able to do. Holding PoA grants powers, and so
+by Rule 1755, a Zombie may NOT hold PoA.
+
+Having a Zombie in ones Possession is something that Non-Players (i.e. the
+Bank) are allowed to do, and so a Zombie is not barred from doing so by
+Rule 1755.
+
+Then by Rule 1884, the rules have withdrawn PoA from the Zombie Master
+Zombie, but a Zombie may continue to be a Zombie Master and hold a Zombie.
+
+========================================================================

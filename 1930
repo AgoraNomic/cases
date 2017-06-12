@@ -1,0 +1,95 @@
+==============================  CFJ 1930  ==============================
+
+    It is impossible for a player to become Referee within the meaning
+    of the public contract that is the backing document for XP without
+    failing to do something that its paragraph 8 specifies that the
+    Referee SHALL do in that situation, under the current set of rules.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       28 Apr 2008 18:30:46 GMT
+Assigned to root:                       29 Apr 2008 00:14:34 GMT
+Judged TRUE by root:                    08 May 2008 21:48:26 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+My evidence that this should be judged TRUE:
+
+Rule 105/3 states that "This rule provides the only mechanism by which rules
+can be created, modified, or destroyed, or by which an entity can become a
+rule or cease to be a rule." Therefore, the only way by which the Referee can
+create a secret rule (and the set of all secret rules is necessarily a subset
+of the set of all rules, according to normal English usage) is by virtue of
+the methods provided in rule 105/3, or else by an instrument with sufficient
+power to take precedence over it; rule 105/3 has power 3, and the backing
+document for XP has a lower power (0). Rule 105/3 also implies that only rules
+may authorise changes to the rules, and the backing document for XP is not a
+rule.
+
+Rule 106/12 is the only other currently existing rule that allows rules
+changes (rule 105/3 permits it to make such changes), and it requires such
+changes to be made via a proposal. However, it states that all such proposals
+must be 'published', which would cause them to not be 'secret'.
+
+Therefore there is no way for a player to become Referee without failing to
+fulfil a SHALL requirement paragraph 8 of the backing document for XP.
+
+(I note in passing that the heading 'CONTEST RULES' in that backing document
+is wrong, as such 'rules' were never proposed.)
+
+========================================================================
+
+Judge root's Arguments:
+
+In CFJ 1659, it was found that a contract was necessarily bound to the
+definitions provided by the rules by the version of Rule 754 then in
+effect.  Since then, we have added the phrase "by default" to R754
+paragraph (2), but this does not necessarily mean that a contract is
+altogether free of rules-based definitions.  A contract must indicate
+in some way that an alternate definition is to be used, or else the
+definition from the rules applies.
+
+The contract does not explicitly indicate any alternate definition for
+"rule", so any such direction must be implicit, to be gleaned from
+context.  It certainly appears from context that the R2141 definition
+is not intended; perhaps the best indication of this is that the
+term's usage seems to fall more in line with the dictionary definition
+of "a prescribed mathematical method for performing a calculation or
+solving a problem."  But this is not a clear criterion, as there are
+instances of the word "rule" in the ruleset that might be interpreted
+the same way, for example in R2154 in the phrase "quorum is the lesser
+of three and the number of active players (other rules on quorum
+notwithstanding)".  Why should the Fight Arena's usage be granted
+non-default status, but not the usage in R2154?  Proceeding from here,
+I find that the Fight Arena contract is neither explicit nor clearly
+implicit in substituting a non-default meaning for the word "rule".
+
+Goethe has advanced the argument that a modified noun is not
+necessarily an instance of the class of objects described by the base
+noun, for which e references a prior case in which a "limited
+executor" was found not to be an "executor".  In that case, however,
+both terms were explicitly defined by the rules, so the phrase
+"limited executor" would be described more accurately as a compound
+noun than as the word "executor" with a modifier.  In general, I think
+Goethe is correct -- petrified wood is not wood, for example -- but I
+can see no reason in this case to view the word "secret" as anything
+other than a plain adjective.  Most tellingly, the same paragraph of
+the Fight Arena that requires the Referee to create a secret rule goes
+on to refer to it simply as a "rule".
+
+Accordingly, I find that the definition of the word "rule" in the
+Fight Arena contract is that provided by Rule 2141.  By the arguments
+provided by the caller, I therefore judge this CFJ to be TRUE.
+
+========================================================================

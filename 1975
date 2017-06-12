@@ -1,0 +1,176 @@
+==============================  CFJ 1975  ==============================
+
+    ais523 could, at the time this CFJ was called, leave The Gnarly
+    Contract by announcement
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Pavitra
+Judgement:                              TRUE
+
+Appeal:                                 1975a
+Decision:                               OVERRULE/FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       26 May 2008 16:50:26 GMT
+Assigned to Pavitra:                    27 May 2008 01:45:43 GMT
+Judged TRUE by Pavitra:                 27 May 2008 02:15:27 GMT
+Appealed by omd:                        27 May 2008 13:29:03 GMT
+Appealed by ais523:                     27 May 2008 14:10:23 GMT
+Appealed by Wooble:                     27 May 2008 14:53:34 GMT
+Appeal 1975a:                           27 May 2008 19:20:05 GMT
+OVERRULED to FALSE on Appeal:           13 Jun 2008 15:48:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Whether I can leave this contract by announcement depends on my gnarliness,
+which
+I don't know. Some time has elapsed since I flipped my gnarliness to twisty;
+in
+the meantime, it has been flipped by the contract automatically. (Some
+evidence
+that this is possible: rule 1504 reads, in part, "If an exiled entity is ever
+a
+player, e is deregistered.", which implies that the rules (and so presumably
+contracts) can cause things to happen automatically based on some trigger.)
+
+Either a ruling of TRUE or FALSE is inappropriate, because there is no way of
+knowing what my gnarliness is right now (and extra information would not help,
+because nobody tracks gnarliness, and so there is no way to determine its true
+value at the time the CFJ was called; ). IRRELEVANT is inappropriate, because
+it
+is certainly relevant to know whether or not I can leave the contract. So this
+leaves UNDETERMINED and UNDECIDABLE. The statement of the CFJ is not
+nonsensical,
+and is not vague (especially given the evidence section). It is probably
+possible
+to make a case that the evidence available to the judge is insufficient to
+tell
+between TRUE, FALSE, and UNDECIDABLE; however, there is no additional
+information
+that would help, other than information on how to apply the rules to trigger
+loops
+such as the one in the contract. (The fact that no trigger loops previously
+existed does not prevent their potential to exist; imagine, for instance, if
+there
+was a rule that said "If an exiled entity is ever not a player, e is
+registered.")
+Therefore, UNDETERMINED is also inappropriate. UNDECIDABLE is appropriate
+because
+as has already been explained, the statement of the CFJ is not capable of
+being
+accurately described as either true or false.
+
+========================================================================
+
+Caller's Evidence:
+
+ais523 wrote:
+> I agree to the following contract (named "The Gnarly Contract"), and
+join it as a party:
+> {{{
+> 1. This is a public contract.
+>
+> 2. This is a pledge.
+>
+> 3. Any player may join this contract by announcement.
+>
+> 4. There is a property associated with each party to this contract,
+known as eir
+> gnarliness; it acts much like a switch possessed by parties to this
+contract with
+> values in the set {slippy, spiky, twisty, mixy}, with slippy being the
+default.
+> (It is not a switch because it is not defined by the rules, and it is
+not tracked
+> by an officer.) A party's gnarliness CAN be flipped as described in
+this contract,
+> and by this contract, and CANNOT be flipped except as allowed by this
+contract.
+>
+> 5. Any party to this contract may flip eir gnarliness to either slippy
+or twisty
+> by announcement.
+>
+> 6. Whenever a party's gnarliness becomes twisty (including, but not
+limited to,
+> being flipped to twisty), it is flipped to mixy.
+>
+> 7. Whenever a party's gnarliness becomes mixy (including, but not
+limited to,
+> being flipped to mixy), it is flipped to spiky.
+>
+> 8. Whenever a party's gnarliness becomes spiky (including, but not
+limited to,
+> being flipped to spiky), it is flipped to twisty.
+>
+> 9. A party CAN leave this contract by announcement, but only if eir
+gnarliness
+> is mixy.
+>
+> 10. When this contract has been in existence for at least a week,
+paragraph 9
+> changes to "A part CAN leave this contract by announcement."
+> }}}
+>
+> I flip my gnarliness (as defined by The Gnarly Contract) to twisty.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+Because there is no time delay between gnarliness becoming a given
+value and it being automatically flipped to the next value, the waiting
+period for any non-slippy gnarliness to become mixy is zero.
+
+Thus, at any given moment, gnarliness is, if not slippy, effectively
+each of spiky, twisty, and mixy. It cycles through these in sequence,
+but that sequentiality passes perpendicularly to time rather than along
+it as a timed cycle would, so that although gnarliness passes through
+each value individually and distinctly, as if "one at a time", in
+practice all three values are "available" in any given chronological
+instant.
+
+Therefore, at the time the CFJ was called, ais523 was in fact mixy, as
+well as spiky and twisty, and thus could leave the Gnarly Contract by
+announcement.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+So... observation of the switch having any one value would collapse
+the wave function, and prevent any further attempt in that message
+that would assume gnarliness to be any other value?
+
+Well, that makes sense, but then again, not really.  Quantum mechanics
+confuses me.  And I'm not sure it's been established to exist in
+Agora.
+
+========================================================================
+
+Appellant Wooble's Arguments:
+
+This whole case is a great argument against Platonic gamestate that
+automatically changes and in favor of the Agoran tradition of
+pragmatism. I believe self ratification is really the only automatic
+gamestate change we've got right now, and preventing contracts that
+create bits of gamestate that automatically make changes to themselves
+would probably be a good thing (especially in cases, unlike this one,
+where someone is actually responsible for tracking those changes, and
+even moreso if those changes involved, say, changes to assets without
+a default recordkeepor).
+
+However, I don't think any of this matters here; I believe this case
+falls firmly under Rule 2197's "permissibility cannot be determined
+with certainty at the time it is attempted", which argues for FALSE.
+I support comex's intent to appeal.
+
+========================================================================

@@ -1,0 +1,61 @@
+==============================  CFJ 1395  ==============================
+
+    This is not a CFJ.
+
+========================================================================
+
+Caller:                                 teucer
+Barred:                                 G.
+Barred:                                 Maud
+Barred:                                 Michael
+
+Judge:                                  Sir Toby
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by teucer:                       05 Jul 2002 17:41:46 GMT
+Assigned to Sir Toby:                   05 Jul 2002 20:59:15 GMT
+Judged FALSE by Sir Toby:               08 Jul 2002 03:19:40 GMT
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+To determine if the self-referential statement in question is indeed a
+CFJ, I look to rule 991: "A CFJ should be a single clearly-labeled
+Statement whose truth or falsity can be determined using logical
+reasoning, assuming perfect knowledge."
+
+The sentence in question is a clearly-labeled Statement whose truth or
+falsity is being determined by this self-referential bit of logical
+reasoning. Since the sentence matches the definition of a CFJ, I conclude
+that it is a CFJ and that the statement then is false.
+
+========================================================================
+
+Judge Sir Toby's Evidence:
+
+Rule 991/5 (Power=2)
+Invoking Judgement
+
+      Any person may request formal resolution of a dispute pertaining
+      to this Nomic by submitting a Call for Judgement (CFJ) to the
+      Clerk of the Courts.  The submission of a CFJ constitutes proof
+      of the existence of such a dispute.
+
+      A CFJ should be a single clearly-labeled Statement whose truth
+      or falsity can be determined using logical reasoning, assuming
+      perfect knowledge.  A CFJ may be accompanied by Arguments,
+      Evidence, or other related material; the Judge is encouraged,
+      but not required, to take notice of these things.
+
+      The Clerk of the Courts shall publish the text of a CFJ, along
+      with any additional material submitted by the Caller (including
+      but not limited to Arguments and Evidence), no later than the
+      time e announces the identity of the first Judge assigned to
+      that CFJ.
+
+========================================================================

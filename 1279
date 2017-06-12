@@ -1,0 +1,110 @@
+==============================  CFJ 1279  ==============================
+
+    Proposal 4112 is Democratic.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  pTang
+Judgement:                              FALSE
+
+Appeal:                                 1279a
+Decision:                               REASSIGN
+
+
+Judge:                                  Ziggy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       21 Feb 2001 09:28:46 GMT
+Assigned to pTang:                      26 Feb 2001 08:29:56 GMT
+Judged FALSE by pTang:                  03 Mar 2001 05:03:10 GMT
+Judgement distributed:                  04 Mar 2001 01:09:43 GMT
+Appealed by Murphy:                     05 Mar 2001 01:16:14 GMT
+Appealed by Taral:                      05 Mar 2001 16:33:45 GMT
+Appealed by Elysion:                    05 Mar 2001 23:23:26 GMT
+Appeal 1279a:                           05 Mar 2001 23:23:26 GMT
+REASSIGNED on Appeal:                   05 May 2001 07:50:09 GMT
+Assigned to Ziggy:                      05 May 2001 07:50:09 GMT
+Judged TRUE by Ziggy:                   11 May 2001 02:29:32 GMT
+Judgement distributed:                  18 May 2001 21:06:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This assumes that the Assessor has announced the results of the voting
+on Proposal 4111, which is the subject of a previous CFJ.  If that CFJ
+is FALSE, then this one is trivially FALSE as well.  If that CFJ is
+true, though, then Proposal 4111 has created a Rule that does two
+things:
+
+  (a) Requires the Assessor to announce ASAP that an Ordinary Proposal
+      has failed quorum.  This clause's trigger (Proposal 4112 fails
+      quorum) occurred before Proposal 4111 took effect.  The Assessor
+      probably wasn't required by this Rule to announce the failing of
+      quorum (though Rule 208 establishes a similar requirement).
+
+  (b) Makes the Proposal Democratic when such an announcement is made.
+      This clause's trigger (Assessor announces that Proposal 4112
+      failed quorum) occurred after Proposal 4111 took effect.  The
+      Assessor's announcement probably triggered this clause and made
+      Proposal 4112 Democratic.
+
+      Note that, if an announcement is "such an announcement" only if
+      the Rule in question required the Assessor to make it, then this
+      may be FALSE.
+
+========================================================================
+
+Judge pTang's Arguments:
+
+The "such an announcement" is sufficient in my judgement.  There was no
+"such announcement" for P4112.
+
+========================================================================
+
+Judge Ziggy's Arguments:
+
+First, I'll note that I do not believe that t's summary switcheroo matters.
+Rule 376 reads:
+
+      A Proposal which is Adopted takes effect at the time date-
+      stamped on the first message sent by the Assessor to reach
+      the Public Forum announcing the results of the voting on that
+      Proposal.
+
+      If the message sent by the Assessor announcing the results of
+      the voting on a Proposal also contains the results of voting
+      upon other Proposals, all such Proposals shall take effect at
+      the same time, but in the order in which they were distributed.
+
+The second paragraph is somewhat vague.  It seems like it applies to all
+Proposals, not just adopted Proposals; I am interpreting it to mean that it
+does not matter in what order *any* voting result announcements are in a
+message, not just Adoption announcements.  Because of this, I believe that
+anything in t's message dealing with Proposal 4111 "took effect" before
+anything in the message dealing with Proposal 4112, and so the real
+question is not about timing but about the existence of an announcement.
+
+Having dismissed Steve's point 3, I turn to eir point 1.  Rule 1965 reads:
+
+      As soon as possible after an Ordinary Proposal fails quorum, the
+      Assessor shall announce that it has done so.  Upon such an
+      announcement, the Proposal becomes Democratic, its Voting period
+      is extended to end seven days after the announcement, and all
+      Votes previously cast on it are cancelled.
+
+It seems to me (and reading other parts of the Ruleset using "such" doesn't
+change this) that the "such an announcement" just means any announcement by
+the Assessor that an Ordinary Proposal has failed quorum.  4112 failed
+quorum at the end of its Voting Period, which was before t announced 4111's
+Adoption, so I do not believe that t was *required* to make the
+announcement for 4112.  However, since e did, the Proposal did indeed
+become Democratic.  I thus enter a verdict of TRUE for this CFJ.
+
+========================================================================

@@ -1,0 +1,66 @@
+==============================  CFJ 1580  ==============================
+
+    Maud performed a regulated action in this message: http://www.agoran
+    omic.org/cgi-bin/mailman/private/agora-business/2006-January/005510.
+    html
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Maud
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           12 Jan 2006 20:42:26 GMT
+Assigned to root:                       21 Jan 2006 21:25:48 GMT
+root recused:                           04 Feb 2006 21:25:48 GMT
+Assigned to Murphy:                     13 Feb 2006 08:46:21 GMT
+Judged FALSE by Murphy:                 13 Feb 2006 09:08:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Maud's message, cited in the CFJ, was as follows:
+T24gMS8xMS8wNiwgQmVuamFtaW4gU2NodWx0eiA8a2Uzb21AZWFydGhsaW5rLm5ldD4gd3JvdGU6
+Cj4gSSBub21pbmF0ZSBHb2V0aGUsIEVyaXMsIGFuZCBNYXVkIGZvciBBc3Nlc3Nvci4KCkkgZGVj
+bGluZSB0aGlzIG5vbWluYXRpb24uCgpJIGdvIG9uIGhvbGQuCgotLQpNaWNoYWVsIFNsb25lCg==
+
+This suggests it may decipherable into a plaintext action.  But it is not
+undersandable to a reasonable person without unreasonable effort. (I argue
+that decoding a message of this sort is "unreasonable effort".)  There is a
+precedent concerning the unreasonable effort standard in CFJ 1460:
+
+http://zenith.homelinux.net/cotc/viewcase.php?cfj=1460
+
+(and in 1451 and 1452 cited in that judgement).  For precedent's sake, this
+CFJ should be found FALSE even if Maud subsequently provides instructions or a
+key.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The referent of "this message" is
+
+(1) a URL, which is a metonymy for
+(2) the content returned when querying that URL, but /not/ a metonymy for
+(3) the e-mail message that led to the creation of that content.
+
+Contrast this with "Maud performed a regulated action in the message archived
+at <URL>".  In this case, the referent of "this message" is (3).
+
+While (3) contained a regulated action expressed in clear English, (2) does
+not.  By the precedent of CFJ 1460, (2) does not contain a regulated action
+at all.
+
+========================================================================

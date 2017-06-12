@@ -1,0 +1,54 @@
+==============================  CFJ 2662  ==============================
+
+    When a judge with judicial rank 1 has eir judgement overruled on
+    appeal, then it is decreased by 1 and e CANNOT increase it for 30
+    days afterward.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  Pavitra
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Yally:                        10 Aug 2009 22:26:36 GMT
+Assigned to Pavitra:                    18 Aug 2009 23:28:39 GMT
+Judged TRUE by Pavitra:                 19 Aug 2009 01:57:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The issue is with the wording of the rule in question. That is, does
+the text "the rest of this rule notwithstanding" cause "unless eir new
+rank is 0, in which case e CAN increase it to 1 at any time with 3
+support" to be withstanding?
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2226
+
+      When a judgement is overruled on appeal, if the prior judge's
+      rank is higher than 0, then it is decreased by 1, and e CANNOT
+      increase it for 30 days afterward (the rest of this rule
+      notwithstanding), unless eir new rank is 0, in which case e CAN
+      increase it to 1 at any time with 3 support.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+Either "unless" doesn't count as a claim of precedence, and
+"notwithstanding" overrides the entire unless clause, or else "unless"
+does count as a claim of precedence, in which case there is a direct
+contradiction between "unless" and "notwithstanding", so that by R2240
+the "unless" clause has no effect. In either case, the "unless" clause
+ends up getting squashed. TRUE.
+
+========================================================================

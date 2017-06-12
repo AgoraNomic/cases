@@ -1,0 +1,129 @@
+==============================  CFJ 1871  ==============================
+
+    If a judge makes the right judgement but for the wrong reasons, then
+    e has made an inappropriate judgement.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           15 Jan 2008 01:23:22 GMT
+Assigned to Zefram:                     15 Jan 2008 01:30:25 GMT
+Judged FALSE by Zefram:                 18 Jan 2008 16:43:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The language for appropriateness of judgements in R591 and R1504
+states in general that "Judgement X is appropriate if Y".  If Y is
+wrongly specified or unreasonable (as revealed by an appeal), but
+another "right and or reasonable" argument (Y2) would also lead to
+X, should X as initially delivered be described as appropriate,
+inappropriate, or is the question meaningless for that judgement?
+(I have no particular prejudice here).
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 591/23 (Power=1.7)
+Inquiry Cases
+
+      There is a subclass of judicial case known as an inquiry case.
+      An inquiry case's purpose is to determine the veracity of a
+      particular statement.  An inquiry case CAN be initiated by any
+      first-class person, by announcement which includes the statement
+      to be inquired into.
+
+      The initiator is unqualified to be assigned as judge of the
+      case, and in the initiating announcement e CAN disqualify one
+      person from assignment as judge of the case.
+
+      An inquiry case has a judicial question on veracity, which is
+      always applicable.  The valid judgements for this question are:
+
+      * FALSE, appropriate if the statement was factually and
+        logically false at the time the inquiry case was initiated
+
+      * TRUE, appropriate if the statement was factually and logically
+        true at the time the inquiry case was initiated
+
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable or otherwise not capable of being accurately
+        described as either false or true, at the time the inquiry
+        case was initiated
+
+      * IRRELEVANT, appropriate if the veracity of the statement at
+        the time the inquiry case was initiated is not relevant to the
+        game
+
+      * UNDETERMINED, appropriate if the statement is nonsensical or
+        too vague, or if the information available to the judge is
+        insufficient to determine which of the FALSE, TRUE, and
+        UNDECIDABLE judgements is appropriate; however, uncertainty as
+        to how to interpret or apply the rules cannot constitute
+        insufficiency of information for this purpose
+
+      The judgement of the question in an inquiry case, and the
+      reasoning by which it was reached, SHOULD guide future play
+      (including future judgements), but do not directly affect the
+      veracity of the statement.  The rulekeepor is ENCOURAGED to
+      annotate rules to draw attention to relevant inquiry case
+      judgements.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+The rules that define valid judgements for particular types of judicial
+question are clear that the judgements are such things as "FALSE",
+"SLIPPERY" and "CHOKEY for ten days".  That is, "FALSE" (for example) is
+the entirety of one of the possible judgements for questions on veracity.
+"FALSE" is appropriate in a specified set of circumstances, namely when
+"the statement was factually and logically false at the time the inquiry
+case was initiated" (rule 591).
+
+The reasoning that is used by a judge does not form part of the judgement.
+Constructively, there is no room for such additions in the definitions
+of valid judgements.  Furthermore, there are rules that make specific
+distinction between judgement and reasoning.  Rule 591's final paragraph
+begins "The judgement of the question in an inquiry case, and the
+reasoning by which it was reached, SHOULD guide ...".
+
+Thus appropriateness of a judgement is a feature of the judgement,
+not of the reasoning used to reach it.  The appropriateness criteria
+for judgements vary, but none of them makes any reference to the
+judge's reasoning.  In no case does the appropriateness of a judgement
+intensionally depend on the reasoning used by a judge in the case.
+(A specially-crafted CFJ whose subject matter circularly refers to
+the judge's reasoning could make the appropriateness of a judgement
+extensionally dependent on that reasoning, but I interpret the statement
+in this CFJ as referring only to intensional definition.)  I therefore
+judge CFJ 1871 FALSE.
+
+If a judge makes an appropriate judgement but with poor reasoning, this is
+an unsatisfactory situation that requires remedy.  The appropriate remedy
+is an appeal.  If the appeal judge is satisfied of the appropriateness of
+the judgement, then e is entitled to judge AFFIRM, with commentary that
+makes clear the inadequacy of the prior judge's reasoning.  Rule 911
+now makes formal provision for this situation with its concept of a
+concurring opinion.
+
+An appeal judge is not obliged to determine appropriateness of the
+prior judgement with finality.  Faulty reasoning of the prior judge is
+likely to result in serious doubt over the appropriateness of the prior
+judgement, regardless of whether that judgement was actually appropriate.
+Such doubt is grounds for an appeal judgement of REMAND or REASSIGN.
+Under the no-longer-extant VC system, the prior judge would in these
+cases be penalised, not necessarily for inappropriateness of judgement but
+for failure to make a sufficiently convincing case for appropriateness.
+
+========================================================================

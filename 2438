@@ -1,0 +1,51 @@
+==============================  CFJ 2438  ==============================
+
+    The contestmaster of a contest is a contestant in that contest.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         01 Apr 2009 19:40:14 GMT
+Assigned to ais523:                     02 Apr 2009 02:54:25 GMT
+ais523 recused:                         02 Apr 2009 02:56:38 GMT
+Assigned to woggle:                     02 Apr 2009 03:43:02 GMT
+Judged FALSE by woggle:                 04 Apr 2009 18:26:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I argue for a judgement of FALSE in both of these cases.  Rule 2199
+and Rule 2234 each refer to the "contestants" of a contest, a term
+which is not defined by the rules.  Standard definitions of
+"contestant" include "a person who takes part in a contest or
+competition" and "One taking part in a contest; a competitor".  By
+these definitions, I argue that the persons who are contestants in a
+contest are those parties who are eligible to be awarded points by the
+contest; i.e., the parties to the contest who are players, other than
+the contestmaster.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+The only non-bookkeeping/refereeing function of contests recognized by
+the rules is the ability to award and revoke points and to award medals
+to its non-contestmaster player parties. As such, the most sensible
+definition of 'contestant' (for the purposes of interpreting rule 2234,
+the only place as far as I know where the distinction is relevant) is
+based on the ability to the receive these awards or penalties.
+
+========================================================================

@@ -1,0 +1,71 @@
+==============================  CFJ 1841  ==============================
+
+    It is possible for a game action to take effect retroactively.
+
+========================================================================
+
+Caller:                                 WALRUS
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by WALRUS:                       20 Dec 2007 01:51:48 GMT
+Assigned to G.:                         20 Dec 2007 03:45:25 GMT
+Judged TRUE by G.:                      20 Dec 2007 05:41:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments against:
+The rules are silent on this issue. By rule 217/6, game custom, common sense,
+and the best interests of the game augment the rules where the rule text is
+silent.
+Common sense dictates that no action can take effect before it occurs.
+Game custom dictates that actions take effect at the time of announcement.
+The best interests of the game dictate that creating such a radically
+changeable game-state is horrid, and trashes the game.
+
+I note that, if these are not judged TRUE, Fookiemyartug is not and never has
+been a player, a person, or even a contract.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+I would argue that both are possible by means of a
+rule, proposal, or even ratification; but like most other things, a
+contract cannot make it so by saying so.
+
+This rule is currently in effect in B Nomic:
+
+  Rule 3-1: The Temporal Prime Directive
+
+  No rule or game action may require or force any retroactive changes to
+  the game state. It is, however, permissible, to create rules or
+  perform otherwise-legal game actions that simulate retroactive changes
+  to the game state.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+It is possible for a Proposal to make an action take effect retroactively,
+so there is a possible mechanism, which requires me to judge TRUE.  However,
+every action performed by sending a message (public or private) is performed
+as per R478.  "Any action performed by sending a message is performed at the
+time date-stamped on that message."  So the Rules are not silent on the issue.
+For a message-base action  to be permitted to be retroactive, it must be
+wholly governed by rules with higher precedence than this (power-3, low rule
+number) rule.  Contracts do not qualify.  Finally, for actions which are not
+performed by sending a message (I can't think of any, but still...), it is
+in the best interests of the game to have them be similarly governed by the
+guidelines of this rule.
+
+Still, by the "proposal" method alone, I judge TRUE.
+
+========================================================================

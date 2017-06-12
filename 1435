@@ -1,0 +1,204 @@
+==============================  CFJ 1435  ==============================
+
+    The method used by Goethe in the message with Message-ID
+    <Pine.LNX.4.43.0302031253250.32726@hymn01.u.washington.edu> is
+    reasonably close to the probability distribution required for the
+    action e attempted to perform in that message (i.e. determine the
+    Weather for February 2003).
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 G.
+
+Judge:                                  Steve
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       04 Feb 2003 05:45:45 GMT
+Assigned to Steve:                      05 Feb 2003 06:24:22 GMT
+Judged FALSE by Steve:                  10 Feb 2003 04:49:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I note that the Judge would do well to review Rule 1079 (Definition
+of "Random"), as well as the Nile Spice Black Bean Soup case, which
+went roughly as follows:
+
+* Method was "I need to choose randomly between Chuck and Steve.  I'll
+  count the ingredients on this can of NSBBS; odd = Chuck / even = Steve".
+
+* Judge's response was "if the number of ingredients was sufficiently
+  close to random, *or* the method of assigning odd = Chuck / even = Steve
+  was sufficiently close to random, then the whole method would be kosher;
+  but neither is SCTR, so the whole method is not SCTR either".
+
+I hereby quote the message identified in the statement.
+
+> From: <kerim@u.washington.edu>
+> To: "Agora Official" <agora-official@agoranomic.org>
+> Sent: Monday, February 03, 2003 12:53 PM
+> Subject: OFF: [Treasuror] Weather by Pi
+>
+> According to the Payroll Clerk, the Bank holds 495 Stems
+> while non-Bank entities hold 1214 Stems.
+>
+> By Rule 2011 (Stems Weather) and the weather budget, the
+> weather maps onto the following (0,1) probability
+> distribution:
+>
+>  0.00000...
+>    Foul
+>  0.19298...
+>    Plenty
+>  0.66627...
+>    Fair
+>  0.83313...
+>    Same (Foul)
+>  1.00000
+>
+> Starting with the decimal point, I will select base-10 digits
+> at random until the combined resultant number falls unambiguously
+> into one of the above ranges.
+>
+> To do so, I intend to select the 1,000,001th digit of pi
+> (following the decimal point) and read digits of pi in sequence.
+> I state that (at this moment) I have no knowledge of the digits in
+> at that point in the sequence.
+>
+> Selecting now...
+>
+> It is .3 (...3092756... to aid checking if desired) and falls
+> in the Plenty weather range.
+>
+> The Weather is Plenty.
+>
+> If the Bank had enough Stems, 950 would be destroyed and
+> 1425 created.  However, the Bank does not have enough Stems.
+> So:
+>
+> 495 Stems in the possession of the bank are destroyed;
+> 743 Stems are created in the possession of the bank.
+
+I further note that Goethe later said the following:
+
+> The above probabilities are incorrect due to a spreadsheet entry
+> error.  The following probabilities are correct:
+>
+>  0.00000...
+>    Foul
+>  0.47323...
+>    Plenty
+>  0.66666...
+>    Fair
+>  0.83333...
+>    Same (Foul)
+>  1.00000
+>
+> As such, my selection of 0.3 makes the weather Foul.
+> H. Payroll Clerk Steve, the following message is correct:
+>
+> 495 Stems are destroyed in possession of the Bank;
+> 248 Stems are created in possession of the Bank.
+
+but I do not believe that this changes the method itself, only its
+input values.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+A recent CFJ, judged by Judge Murphy I believe, found that
+pseudo-random sequences are sufficiently random for the
+purposes of the Rules (does someone have the #, with Eris'
+firewall up I can't find it).
+
+Best mathematical evidence on the randomness of base-10
+Pi digits can be found at :
+  http://www.lbl.gov/Science-Articles/Archive/pi-random.html
+
+Since pseudo-random deterministic sequences are as controllable
+by the user (through the seed) as selecting digits of pi with
+an arbitrary starting point, all it comes down to is trust
+that the selector does not have prior knowledge of the results.
+
+As dice are considered fair by the Rules, and dice have the same
+element of trust (there's no way to confirm that a player didn't
+reroll until getting the desired quantity), all of these methods
+should be acceptable.
+
+Of course, *someone* had to calculate more than a million digits
+of pi to call it random, but that someone was not me and the
+same is true for other pseudo-random methods.
+
+Judge Murphy wrote that pseudo-random sequences were acceptable
+because "no one here understands how they work" or similar
+wording.  If anyone here understand how pi "works" sufficiently
+to know a digit without calculating it, I'd like to talk to
+them: I'd like them to offer me two boxes, one with a million
+dollars in it.
+
+If Caller Murphy's arguments are due to the weighting of my
+choice to the proper non-Uniform weights required by the Rule
+Stems Weather, the math behind the weighting is left as an
+exercise to the Caller...
+
+========================================================================
+
+Judge Steve's Arguments:
+
+"The method used by Goethe" to generate a random number was to pick an
+arbitrary digit of pi (the millionth digit, in this case). Goethe
+claims, and  I believe him, that e did not know in advance what the
+millionth digit of pi was. This is equivalent to the use of any
+deterministic, pseudo-random method of generating random numbers, where
+the person making the selection does not know in advance what the
+outcome will be.
+
+As I see it, then, the question the Caller is trying to reach here is
+whether the use of deterministic, pseudo-randomly generated numbers is
+allowed by R1079, as long as the person making the selection does not
+know in advance what numbers will be generated. We already have the
+precedent of CFJ 1406 to guide us, but since the arguments were not
+treated in any detail there, it is worth setting them out briefly.
+
+Both common-sense and game custom would answer the question
+affirmatively. We don't need to rely on quantum-mechanical processes
+(assuming that these are at bottom non-deterministic). Rule 1079(d) also
+strongly suggests, and perhaps even implies, that deterministic pseudo-
+randomness is permissible: we are told that flipping a coin is a
+permissible physical process, and flipping a coin can be modelled as a
+deterministic, pseudo-random process.
+
+What matters therefore is not that the outcome could in principle be
+known in advance, but that (a) in practice it is not known in advance,
+and that (b) the process is known to have the right statistical
+properties in the long run.
+
+The digits of pi are known to have the right statistical properties -
+each digit is just as likely to appear as any other, and Goethe did not
+know in advance what sequence of digits would appear from the millionth
+digit of pi onwards.
+
+However, the CFJ refers to "the method used... [to] determine the
+Weather", and this includes not only the selection of a number but also
+the assigment of numbers to the possible outcomes. In the message quoted
+by the Caller, Treasuror Goethe used an assignment to the possible
+Weather outcomes that was incorrect. E later corrected this assignment
+(see <1>).
+
+The CFJ is therefore trivially FALSE.
+
+========================================================================
+
+Judge Steve's Evidence:
+
+<1> Goethe's COE and correction of the Weather
+    http://www.escribe.com/games/agora-official/m3358.html
+
+========================================================================

@@ -1,0 +1,117 @@
+==============================  CFJ 3009  ==============================
+
+    An entity poorly qualified to judge a case is necessarily  qualified
+    to judge that case.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Walker
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      24 Apr 2011 10:47:58 GMT
+Assigned to Walker:                     25 Apr 2011 03:01:44 GMT
+Walker recused:                         15 May 2011 22:35:41 GMT
+Assigned to Machiavelli:                15 May 2011 23:23:53 GMT
+Judged TRUE by Machiavelli:             16 May 2011 19:19:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The question is basically as to whether being poorly qualified is a
+subset of qualified, one of three options for qualification, or a status
+completely indepedent of qualification.
+
+The reason this is relevant is that a judicial panel containing myself
+was assigned to case 3004a despite the fact that I was sitting at the
+time and thus poorly qualified to judge it. However, poor qualification
+does not firectly affect the qualification of the judicial panel
+(R2277). I am not sure if such an assignment was legal, since it is not
+clear if, due to being poorly qualified, I was not qualified.
+
+By the English interpretation, poorly qualified is still qualified I
+think. However, that's unclear at best, and R1871 says
+       * Sitting.  Sitting players are poorly qualified to judge, but
+         will generally become qualified when the CotC rotates the
+         bench.
+
+which implies that poorly qualified entities are not qualified (and by
+R1868, qualified is the default for a first-class player such as myself).
+
+Additionally, however, R1871 says
+        a) no entity is well-qualified to be assigned to any of them;
+
+This is the only use of "well-qualified", possibly as an antonym of
+poorly qualified. This could reinforce the notion that poorly qualified
+is a subset of qualified and that well-qualified means "qualified but
+not poorly qualified", or well-qualified could just be synonymous with
+"qualified".
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+In several previous cases, adding a qualifier to a
+term has been found to create a wholly independent term (i.e.
+not a subsetted term) if both are explicitly defined by the
+ruleset: most recently for "announcement" and "by announcement".
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+I see three reasonable interpretations of the terms "qualified",
+"poorly qualified", and "unqualified". First, they could be a
+trichotomy, with an entity who is poorly qualified being neither
+qualified nor unqualified. Second, there could be a dichotomy between
+"qualified" and "unqualified", with "qualified" being further split
+into "well-qualified" and "poorly qualified". Third, the statement of
+CFJ 3010 suggests that "qualified" may be a single state, with
+"unqualified" divided into "poorly qualified" and (for lack of a
+better term) "fully unqualified".
+
+Rule 1868/17, "Judge Assignment Generally", paragraph 3, states that
+qualified entities CAN be assigned as judges. This implies that it is
+IMPOSSIBLE for non-qualified entities to be assigned as judges; I
+don't believe that there is any way for this to be done (besides
+proposals and such). Therefore, if it is POSSIBLE to assign an entity
+as a judge, then that entity must be qualified to judge.
+
+The same rule, in paragraph 5, states that it is ILLEGAL to assign a
+poorly-qualified entity as a judge. This implies that it is POSSIBLE
+to do so, since otherwise, there would be no point in proscribing it.
+Therefore, a poorly-qualified entity is also qualified, meaning the
+first interpretation above is the correct one.
+
+We might as well use all the information we have, though. The only
+other rule containing the phrase "poorly qualified" is Rule 1871.
+
+Rule 1871/28 states, "Leaning players are poorly qualified to judge,
+but are generally qualified to serve on appeal panels". Rule 911/40
+states that an appeal panel must consist of entities that are
+qualified to judge. Since Rule 1871 cannot override Rule 911, the
+statement that Rule 1871 makes must be interpreted as a clarification,
+implying that even though Leaning players are poorly qualified to
+judge, they are also qualified, making them able to serve on appeal
+panels.
+
+Finally, Rule 1871/28 and Rule 911/40 both use the phrase
+"well-qualified" (though with inconsistent punctuation). This phrase
+is only meaningful (other than as a synonym for "qualified") if the
+first interpretation above is the correct one.
+
+I find that all of this evidence outweighs the precedent that G.
+mentions, especially since the phrase "poorly qualified" is not
+explicitly defined by the rules.
+
+========================================================================

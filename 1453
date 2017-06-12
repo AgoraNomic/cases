@@ -1,0 +1,283 @@
+==============================  CFJ 1453  ==============================
+
+    As a result of the formation of root's Pay Out Scam Contest (rPOSC),
+    the Bank incurred a debt to root consisting of one or more
+    properties.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  t
+Judgement:                              
+
+
+Judge:                                  Sir Toby
+Judgement:                              TRUE
+
+Appeal:                                 1453a
+Decision:                               SUSTAIN
+
+========================================================================
+
+History:
+
+Called by root:                         05 Mar 2003 06:03:44 GMT
+Assigned to t:                          11 Mar 2003 02:06:03 GMT
+t recused:                              17 Mar 2003 20:09:21 GMT
+Assigned to Sir Toby:                   21 Mar 2003 00:16:56 GMT
+Judged TRUE by Sir Toby:                25 Mar 2003 03:01:52 GMT
+Appealed by root:                       16 Jun 2005 22:11:56 GMT
+Appealed by Maud:                       16 Jun 2005 22:57:57 GMT
+Appealed by G.:                         16 Jun 2005 23:28:35 GMT
+Appeal 1453a:                           16 Jun 2005 23:28:35 GMT
+SUSTAINED on Appeal:                    11 Aug 2005 02:39:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1479a reads, in part:
+
+          Whenever a Rule requires a Player to pay out one or more
+          Properties to some entity, the Bank shall incur a debt to
+          that entity for those Properties, and the named Player
+          shall, as soon as possible, post a public notice of the
+          debt.
+
+Since, by R1591, "A SLC has the power to constrain the actions of Players
+in the same manner as the Rules," the Regulations of rPOSC are authorized
+to require me to pay out currencies.
+
+Now, the Bank does not fall under the SLC's Jurisdiction, and as such the
+Regulations of rPOSC are not authorized to require anything of the Bank.
+However, I argue that this is irrelevant, because the Regulations of rPOSC
+in fact do not require the Bank to do anything; the requirement is only on
+me to pay out currencies.  The requirement on the Bank to pay arises not
+from the SLC, but rather from R1479a, which is activated by the SLC.
+
+A possible counter-argument is that R1479a specifies that it is only
+activated when the entity requiring the "pay out" action is a Rule, and
+since the Regulations of rPOSC are not Rules, they do not successfully
+trigger R1479a.
+
+However, Rule 1594 requires me to obey the Regulations of rPOSC; to do
+otherwise is a Class 1 Crime.  Therefore, Rule 1594 requires me to pay out
+the currencies, and so R1594 is in fact that entity that triggers the pay
+out clause of R1479.  This argument is supported by CFJ 1301, which found
+that orders to pay out properties successfully create debts via the agency
+of R1810, which requires orders to be obeyed.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1479/6 (Power=1)
+Definition of "Pay Out" and "Bill"
+
+      (a) Whenever a Rule requires a Player to pay out one or more
+          Properties to some entity, the Bank shall incur a debt to
+          that entity for those Properties, and the named Player
+          shall, as soon as possible, post a public notice of the
+          debt. The Player is relieved of this obligation if the debt
+          is satisfied before the public notice is posted.
+
+      (b) If a Rule explicitly permits a Player to pay out one or more
+          Properties to some entity, but does not require em to do so,
+          then the Bank shall incur a debt to that entity for those
+          Properties when the Player posts a public notice of the
+          debt.
+
+      (c) Whenever a Rule requires a Player to bill an entity for one
+          or more Properties, that entity shall incur a debt to the
+          Bank for those Properties, and the named Player shall, as
+          soon as possible, post a public notice of the debt. The
+          Player is relieved of this obligation if the bill is paid
+          before the public notice is posted.
+
+
+Rule 1591/0 (Power=1)
+Jurisdiction of SLCs
+
+      A SLC has the power to constrain the actions of Players in
+      the same manner as the Rules.  However, a SLC has power over
+      only those Players within its Jurisdiction, as defined in the
+      Rules authorizing that SLC.
+
+      The Jurisdiction of a SLC must be specified by the Rules,
+      either directly or indirectly.  If the Jurisdiction of a SLC
+      might vary over the course of the existence of the SLC, the
+      Rules must specify a Player who is required to maintain a record
+      of which Players are within the Jurisdiction of that SLC.
+
+
+Rule 1594/2 (Power=1)
+Violation of SLCs
+
+      While a Player remains within the Jurisdiction of a SLC, e is
+      required to abide by it, unless doing so would violate either
+      the Rules or another SLC with higher precedence.  Violation of
+      this requirement is the Class 1 Crime of Insubordination.
+
+
+CFJ 1301
+Judge Syllepsis's Arguments:
+
+Rule 1479 clearly states that if a Rule requires a player to "pay
+out" Properties, the Bank incurs a debt to the entity to which the
+Properties are to be given.
+
+Let there be a valid Order requiring a Player to "pay out" one or more
+Properties to some entity. Then if there exists a Rule requiring the
+Player to obey Orders, then by such a Rule the Player would be required to
+"pay out" Properties to some entity, thus invoking Rule 1479.
+
+Rule 1810 specifies that if a valid Order requires an action to be
+performed within a specified time, and this action is not performed, then
+the Player commits the Class 4 Crime of Contempt by Inaction. Thus by Rule
+1810, such a valid Order invokes Rule 1479 if it is required to be
+performed within a specific time frame.
+
+Rule 1795 insures that a Rule without a time specification or an invalid
+time specification automatically has the specification ASAP, thus invoking
+Rule 1810 and thus Rule 1479.
+
+Thus any valid Order has a time specification and thus invokes Rule 1810,
+stating that the Order must be carried out. If the Order is to pay out one
+or more Properties to some entity, then by Rule 1810 the Player is
+required to pay out one or more Properties to some entity. This triggers
+Rule 1479, so the Bank then incurs a debt.
+
+Therefore, I judge this CFJ to be TRUE.
+
+========================================================================
+
+Gratuitous Arguments by Steve:
+
+By way of counterargument, I bring to the Judge's attention R1592:
+
+      A SLC has the power to define the manner in which certain
+      properties of entities are changed.  This power shall be limited
+      to any property solely defined by that SLC and to any other
+      property to which the Rules grant that SLC this authority.
+
+If "being required to pay out Bank Currencies" is a property of an
+entity (namely, root), then R1592 appears to limit the power of SLCs to
+change that property.
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+The basic premise of the caller's argument is that the SLC of root's Pay
+Out Scam Contest required the Contestmaster (root) to pay out several
+properties to emself, thus incurring the debt referenced in the statement
+of this CFJ. The caller's argument goes on to state that the Rules require
+player's within the jurisdiction of a SLC must follow it, and thus root
+was required by the Rules to pay out the properties, thus creating the
+debt.
+
+While considering this CFJ, my first task was to determine if the SLC of
+root's Pay Out Scam Contest did indeed require that the Contestmaster pay
+out one or more properties to emself. The initial CFJ did not contain the
+SLC as evidence, so I was forced to look up the ACO for the contest. I
+have attached a portion of the message containing the ACO as evidence. The
+SLC contains the following regulation: "As soon as possible after the
+formation of this Contest, the Contestmaster shall pay out to emself 0.5
+VEs, 1 Indulgence, 1 Papyrus, and 10 Stems." The SLC of root's Pay Out
+Scam Contest very clearly requires the Contestmaster to pay out several
+properties to emself.
+
+My next consideration for this CFJ was the definition of Pay Out. Rule
+1479 contains the following "Whenever a Rule requires a Player to pay out
+one or more Properties to some entity, the Bank shall incur a debt to that
+entity for those Properties..." The debts due to a pay out occur
+automatically and do not rely on an announcement, thus the debts would be
+incurred as a result of the creation of root's Pay Out Scam Contest. I
+don't feel that the existence of a redundant ASAP clause in the SLC has
+any effect on this. However, the real question arises out of the fact that
+Rule 1479 seems to indicate that only the Rules can require a a player to
+pay out some property. Since the SLC of root's Pay Out Scam Contest is not
+a part of the Rules, I was tempted to return a judgement of FALSE since
+only Rules could require a pay out to occur.
+
+The caller argues that the rules require players within the jurisdiction
+of a SLC (as root was in this situation) to abide by it (Rule 1594). Since
+the Rules require root to abide by the SLC of root's Pay Out Scam Contest,
+the caller argues that the Rules required root to pay out the properties.
+I am not completely convinced by this argument and feel that there is
+enough ambiguity in the Rules to permit me to apply the standards
+prescribed in Rule 217: "game custom, commonsense, past Judgements, and
+the best interests of the game".
+
+The caller references a previous CFJ that dealt with a similar issue.
+Particularly, it was found that a properly issued Order could require a
+player to pay out one or more properties. While an Order is not a Rule
+(similar to how a SLC is not a Rule), it is something that players are
+forced to follow by the Rules (similar to how players are required to
+abide by a SLC). In my opinion, this sets a strong enough precedent to
+return a judgement of TRUE in this case.
+
+In response to Steve's gratuitous arguments, I add the following:
+
+Since root is within the jurisdiction of the SLC (Rule 1591), I would say
+that the Rules grant the SLC the power to change the "being required to
+pay out Bank Currencies" property of root. The power of SLCs to change
+properties is not limited to just those properties solely defined by the
+SLC. The Rules can also grant an SLC the authority for other properties.
+Rule 1591 does this.
+
+========================================================================
+
+Judge Sir Toby's Evidence:
+
+The portion of the message with the ACO for root's Pay Out Scam Contest:
+http://www.agoranomic.org/pipermail/agora-business/2003-March/001006.html
+----------------------------------------------------------------------
+Date: Wed, 5 Mar 2003 01:03:44 -0500 (EST)
+From: Ian Kelly <kellyia@earlham.edu>
+Reply-To: agora-discussion@agoranomic.org
+To: agora-business@agoranomic.org
+Subject: BUS: Pay out scam
+
+I submit the following ***-delimited ACO:
+
+***
+
+This Organization shall be a Contest titled "root's Pay Out Scam
+Contest". The Administrator, Foundor, and Contestmaster shall be root.
+The Regulations shall be as follows:
+
+1) As soon as possible after the formation of this Contest, the
+   Contestmaster shall pay out to emself 0.5 VEs, 1 Indulgence, 1
+   Papyrus, and 10 Stems.
+
+2) The contestmaster may change the regulations at any time by
+   announcement.
+
+3) The contestmaster may dissolve the contest at any time by
+   announcement.
+
+***
+
+I sign this ACO.
+
+[snip]
+----------------------------------------------------------------------
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+Subordinate codes and contract-like thingies don't automagically create
+empowerment the way they create constraints.
+
+This case is currently relevant, as, if cardbooks pass, they try VERY
+EXPLICITLY to empower sections of another document to define how
+Rules-regulated nomic properties may be modified.  Contract Rules, the
+inheritors of SLCs, may or may not so empower Contracts (that's the CFJ's
+subject) while Agreement Rules I would argue do not.  Some guidance on how
+explicit such empowerment should be would be useful for writing and
+interpreting future Rules.
+
+========================================================================

@@ -1,0 +1,96 @@
+==============================  CFJ 3035  ==============================
+
+    At least one vote of "FOR, FOR" on the decision to adopt Proposal
+    7077 is valid.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          17 Jun 2011 01:12:50 GMT
+Assigned to woggle:                     18 Jun 2011 03:34:52 GMT
+Judged TRUE by woggle:                  24 Jun 2011 04:40:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The mechanism for submitting multiple options which might
+be the same already existed: submitting multiple ballots.  A more
+reasonable reading of "which two of the available options" requires
+two different options, although Rule 683 clearly allowed/allows "FOR,
+PRESENT".
+
+========================================================================
+
+Judge woggle's Arguments:
+
+R683 (Voting on Agoran Decisions) specifies that an author "submits a
+ballot ... by publishing a valid notice indicating which two of the
+available options e selects" but also specifies that a ballot is valid
+only if "identifies *the* option selected by the voter" (emphasis added).
+
+Noting that the requirement for two options is on the "notice" and not
+the "ballot", I find the "two of the available options" restriction
+requires ballots to be submitted in pairs and "valid notice" is a notice
+containing one or more valid ballots.
+
+Then there are several issues to consider:
+  * whether the options need to be distinct. Based on Agora's preference
+for mathematical terms (R754), I rule that they do not;
+  * whether "FOR x FOR" is a vote of FOR twice. This seems like a clear
+attempt to specify voting for "FOR" more than once. Since "FOR" clearly
+isn't a number and R683 mentions the possibility of selecting two
+options, I rule that "x" clearly enough delimits two votes for P7077 in
+G.'s response to the distribution; and
+  * whether R2280 is sufficient for a vote of "FOR" to be a vote of
+"FOR, FOR":
+     If players can select non-distinct options, then they could specify
+reasonable short hands for two non-distinct options and still indicate
+which they are selecting. R2280 serves to provide this short-hand for
+all players, so I rule that "FOR" clearly specifies "FOR, FOR" (when the
+voting limit is 2 for the decision).
+
+========================================================================
+
+Judge woggle's Evidence:
+
+Attempted votes on P7077:
+G.: {{
+I vote:
+> 7077 3   omd       Fix "fixed" flexibility
+FOR x FOR
+}}
+Walker: {{
+> 7077 3   omd       Fix "fixed" flexibility
+FOR
+}}
+Tanner: {{
+I vote:
+> 7077 3   omd       Fix "fixed" flexibility
+FOR
+}}
+Murphy: {{
+> 7077 3   omd       Fix "fixed" flexibility
+FOR
+}}
+ehird: {{
+> 7077 3   omd       Fix "fixed" flexibility
+AGAINT
+[...]
+
+means FOR
+}}
+omd: {{
+> 7077 3   omd       Fix "fixed" flexibility
+AGAINST
+}}
+
+========================================================================

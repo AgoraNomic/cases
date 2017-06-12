@@ -1,0 +1,117 @@
+==============================  CFJ 1529  ==============================
+
+    Goethe was a Corporate Raider when Proposal 4639's voting period
+    ended.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Murphy
+Barred:                                 Taral
+Barred:                                 root
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           14 Feb 2005 05:10:53 GMT
+Assigned to OscarMeyr:                  20 Feb 2005 00:26:10 GMT
+Judged FALSE by OscarMeyr:              26 Feb 2005 02:00:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Goethe submitted a Proposal 'Is this a Takeover', which claimed to
+be a Takeover Proposal and stated "A set of consisting of every
+player holding a Coalition Card is specified."   However, the members
+of this set changed while the Proposal progressed.  What happened to
+the Proposal overall?
+
+The following sequence of events occurred (all times GMT):
+Wed,  2 Feb 12:44:04  At the time of submission, there were 11 Active
+                       Noisy Players, so the number of Corporate Raiders
+                       [R2078] must be between 3.67 and 5.5 for the
+                       Proposal to be a Takeover Proposal.
+                       At the time of submission, 5 Players held a
+                       Coalition card: Eris, Goethe, Maud, OscarMeyr,
+                       root.
+Sun,  6 Feb 22:07:18  'Is this a takeover' distributed as Proposal 4639.
+Sun,  6 Feb 21:51:02  Goethe discards Coalition which Murphy collects.
+Sun,  6 Feb 22:46:01  OscarMeyr plays Coalition Card to the deck.
+Sun, 13 Feb 17:22:42  Murphy discards Coalition Card.
+Sun, 13 Feb 22:07:18  The Voting Period for 'Is this a takeover' ends.
+                       At this time, 3 Players hold a Coalition Card:
+                       Eris, Maud, and root.
+
+By R2078, what happened?  The caller offers some possibilities:
+   1.  The Proposal was never a Takeover Proposal.
+   2.  The set of Corporate Raiders was set at the time of Proposal
+       submission and did not change (Eris, Goethe, Maud, OscarMeyr,
+       root).
+   3.  The Corporate Raiders when the voting period ended were
+       the holders of a Coalition Card at that particular time:
+       Eris, Maud, and root.
+   4.  As #3, but since this puts the number of Raiders below 3.67,
+       the Proposal was no longer a Takeover Proposal when its voting
+       period ended.
+
+The caller suggests that #4 best fits the 'Spirit of the Game' as it
+allows the most interesting game play.  Also, #3 or #4 may be the "most
+natural" interpretation, as the discussion forum suggests that several
+players automatically assumed that changing cards changed the set of
+Raiders.  Otherwise the caller offers no strong legal arguments to support
+this interpretation.
+
+========================================================================
+
+Caller's Evidence:
+
+Submission:
+http://www.agoranomic.org/pipermail/agora-business/2005-February/003532.html
+Distribution:
+http://www.agoranomic.org/pipermail/agora-official/2005-February/001943.html
+Goethe's to Murphy:
+http://www.agoranomic.org/pipermail/agora-business/2005-February/003543.html
+OscarMeyr's play:
+http://www.agoranomic.org/pipermail/agora-business/2005-February/003547.html
+Murphy's Discard
+http://www.agoranomic.org/pipermail/agora-business/2005-February/003562.html
+
+Rule 2078/0 (Power=2)
+Takeover Proposals
+
+       Initiative is a stuck player switch, tracked by the Assessor,
+       with values Gote and Sente.
+
+       A Takeover Proposal is a proposal meeting these requirements:
+
+         (a) It is labelled as a Takeover Proposal.
+         (b) No Takeover Proposal has been submitted earlier in the
+             same month.
+         (c) It specifies a set of players (hereafter the Corporate
+             Raiders) that is no larger than P/2 or smaller than P/3,
+             where P is the number of active noisy players at the time
+             of submission.
+
+       Rules to the Contrary nonwithstanding, a Takeover Proposal is
+       both Democratic and Sane.
+
+       At the beginning of a Takeover Proposal's voting period, all
+       players have their initiative flipped to Gote.  At the end of a
+       Takeover Proposal's voting period, all players have their
+       initiative flipped as follows:
+         (a) Adopted:  All Corporate Raiders gain Sente.
+         (b) Rejected:  All other players gain Sente.
+         (c) Failed quorum:  No one gains Sente.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+Because of my reasoning on CFJ 1528, CFJ 1529 is trivially FALSE.
+
+========================================================================

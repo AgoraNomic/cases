@@ -1,0 +1,282 @@
+==============================  CFJ 3282  ==============================
+
+    Proposal 7174 was enacted.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+Appeal:                                 3282a
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Called by omd:                          14 Oct 2012 03:33:07 GMT
+Assigned to G.:                         14 Oct 2012 04:13:27 GMT
+Judged FALSE by G.:                     01 Nov 2012 22:47:44 GMT
+Appealed by omd:                        01 Nov 2012 23:31:07 GMT
+Appealed by Kolja:                      05 Nov 2012 09:47:24 GMT
+Appealed by G.:                         05 Nov 2012 14:57:55 GMT
+Appeal 3282a:                           05 Nov 2012 14:57:55 GMT
+AFFIRMED on Appeal:                     15 Nov 2012 01:30:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Sat, Sep 29, 2012 at 10:37 PM, omd <c.ome.xk@gmail.com> wrote:
+> This removes the two instances of "take actions that are not otherwise
+> IMPOSSIBLE by announcement".  My attempted scam is to interpret that
+> as allowing taking actions normally permitted without objection by
+> announcement, which happens to be the exact scam that I tried 7 months
+> ago, and was ruled to fail in CFJ 3171.  (That was the one where G.
+> called my arguments "either purposefully or idiotically obtuse".)
+> However, some weeks later I noticed an argument that at least calls
+> the judgement into question.  To quote myself:
+>
+> On Fri, Mar 30, 2012 at 11:30 PM, omd <c.ome.xk@gmail.com> wrote:
+>> [The current mechanism has weird interactions with higher-powered
+>> Rules and actions that are performed by sending a message rather than
+>> by announcement, and I am skeptical that my recent scam failed in a
+>> way that is not patchable (unless Golems are generally unable to act).
+>>  In particular, even if the mechanism is part of the specification of
+>> an action, since Golems are *not* sending messages and no rule is
+>> pretending they are, it's equally valid to say "I cause my Golem to do
+>> X without objection" as "I cause my Golem to do X by announcement"
+>> (since "by announcement" is defined with reference to sending
+>> messages) - in both cases the purported mechanism is a lie.  I would
+>> have brought this up in CFJ 3171, but I wasn't thinking straight.
+>> Durr.]
+>
+> You could argue that "without objection" is a more complex mechanism
+> than "by announcement", but I think there's a decent chance that
+> either Golems and the President have never been able to take (most?)
+> actions, or the permission to "take actions that are not otherwise
+> IMPOSSIBLE by announcement" extends to the mechanism of
+> without-objection.
+
+On Tue, Oct 2, 2012 at 5:04 PM, omd <c.ome.xk@gmail.com> wrote:
+> [Proposal 7174]
+> was the proposal I submitted back in February and attempted to
+> distribute after causing a Golem to make everyone inactive.  I listed
+> myself as the only eligible voter in the distribution and this was
+> contested within a week, so the distribution was only effective if the
+> inactive-making was; since I then attempted to retract the proposal
+> (for simplicity), there was no purported resolution to self-ratify.
+> If it happens that the scam was effective after all (I'm not claiming
+> it necessarily was, but I may as well go all the way):
+
+========================================================================
+
+Caller's Evidence:
+
+"The owner of a Slave Golem CAN cause it to take actions that are not
+otherwise IMPOSSIBLE by announcement."
+
+http://zenith.homelinux.net/cotc/viewcase.php?cfj=3171
+
+Relevant messages from when 7174 was proposed:
+http://www.mail-archive.com/agora-business@agoranomic.org/msg23089.html
+http://www.mail-archive.com/agora-business@agoranomic.org/msg23112.html
+http://www.mail-archive.com/agora-business@agoranomic.org/msg23156.html
+The message in which I purported to resolve it (and shamefully lied
+about my non-laziness):
+http://www.mail-archive.com/agora-business@agoranomic.org/msg23943.html
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, as I was an earlier judge on the same subject, if this is to be re-
+examined, I request an Appeal (rather than a Motion to Reconsider) and I
+request that the Appeals Court come up with a joint uphold or overturn
+with some consensus, rather than a simple reassign.
+
+>From the Caller's arguments:
+>>  since Golems are *not* sending messages and no rule is
+>> pretending they are, it's equally valid to say "I cause my Golem to do
+>> X without objection" as "I cause my Golem to do X by announcement"
+>> (since "by announcement" is defined with reference to sending
+>> messages) - in both cases the purported mechanism is a lie.
+
+As the judge, I disagree with this critical core of the argument.
+The Fora rule allows any player to make an announcement by sending a message
+via a public forum.  It is a simple inference from slave golem mechanisms to
+say that the slave's Master is part of the sending mechanism, i.e., a slave
+sends a message "via" the mechanism of eir master, which is no more strange
+that saying it happens "via" wires or "via" an email client.
+
+This is similar in precedent to saying that a golem's R101 rights were not
+violated as e could deregister via eir master.  (before R101 was amended
+to exclude golems, of course, but the principle is part of precedent).
+
+This is not true of without objection, which require specific announcements
+by first-class players to work.  That is, there is no way that this
+mechanism can work "via" a master's single announcement alone.
+
+The Caller later added:
+> I don't think your [referring to the judge's arguments above] leap from a
+> rule with a condition (actions that are not otherwise IMPOSSIBLE) and a
+> mechanism (directly causing the Golem to take the action through a
+> rule effect) to a different mechanism (causing the Golem to send a
+> message) makes sense.  A rule saying you can cause the Golem to send a
+> message (like the Promises rule) would make (more) sense, but that's
+> not what this rule says.  Unless you're arguing that the "action" in
+> question is sending a message.
+
+to which I reply:  we have to make some such inferences
+that this is possible; for example, the only mechanism for deregistering
+is making announcements, and the previous precedent on R101 said that
+this had to be possible for a golem to avoid R101 being violated, so the
+strong R101 "no interpretation of Agoran law" kicks in there to strongly
+we should interpret thusly.  Not to mention the right to participation
+in the fora!!
+
+Thus, overall, I hold that including mechanism as a part of "where the rules
+permit" (i.e. requiring that the mechanism be followed, in accordance with
+earlier judgement) does not paralyze golems, as inferring their "announcement"
+ability is in keeping with the Rules on Fora, and also was required by R101.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+> From the Caller's arguments:
+>>>  since Golems are *not* sending messages and no rule is
+>>> pretending they are, it's equally valid to say "I cause my Golem to do
+>>> X without objection" as "I cause my Golem to do X by announcement"
+>>> (since "by announcement" is defined with reference to sending
+>>> messages) - in both cases the purported mechanism is a lie.
+>
+> As the judge, I disagree with this critical core of the argument.
+> The Fora rule allows any player to make an announcement by sending a message
+> [...]
+(This restates what I addressed in my later arguments.)
+> The Caller later added:
+>> I don't think your [referring to the judge's arguments above] leap from a
+>> rule with a condition (actions that are not otherwise IMPOSSIBLE) and a
+>> mechanism (directly causing the Golem to take the action through a
+>> rule effect) to a different mechanism (causing the Golem to send a
+>> message) makes sense.  A rule saying you can cause the Golem to send a
+>> message (like the Promises rule) would make (more) sense, but that's
+>> not what this rule says.  Unless you're arguing that the "action" in
+>> question is sending a message.
+>
+> to which I reply:  we have to make some such inferences
+> that this is possible; for example, the only mechanism for deregistering
+> is making announcements,
+
+Well, more precisely, "A player CAN deregister by announcement", which
+is the same form as any other announcement action.  My argument is
+that "CAN take actions that are not otherwise IMPOSSIBLE by
+announcement", for it to have any effect at all, must be interpreted
+as "if it would be possible for the Golem to take an action by
+activating some mechanism, this rule provides a separate announcement
+mechanism to take that action", so there is nothing preventing Golems
+from having their owner deregister them.
+
+[Historical note: Golems existed for only ten days before R101 was
+amended to remove Golems' rights, but multiple cases (3169, 3173)
+about those rights were called in the meantime.  3169 concluded, among
+other things, that giving the owner a mechanism to deregister the
+Golem was sufficient to satisfy its right to deregister, and 3173 that
+this was true even if the Golem publicly protested that e wished to
+deregister.]
+
+You said that you interpret the clause as "requiring that the
+mechanism be followed", but that can only mean that the clause is
+interpreted as "CAN take actions that are not otherwise IMPOSSIBLE,
+using a mechanism that is a combination of 'by announcement' and the
+mechanism that makes them POSSIBLE" (you said: "requiring that the
+mechanism be followed"), but aside from making the clause pretty
+useless, this poses a chicken and egg problem: the original mechanism
+is for the Golem to make an announcement, but although a player might
+generally be able to cause em to do so through an informal
+act-on-behalf agreement, the Golem would have to express its assent
+somehow; that requires publishing a message.  (And even if you take
+"sending a message" as the "action", which is clearly not the intent
+of the clause, doing it by announcement *still* requires faking the
+method, because the method for sending a message is (the Golem itself
+possibly or someone previously authorized to act on behalf of em)
+sending an email, turtles all the way down.)  Or else you're just
+turning "can act on behalf of X to perform actions" into "can send
+messages on behalf of X to attempt to perform actions", which I think
+is not precedented and too vaguely defined.
+
+Someone might argue that without any mechanism for causing a person to
+act, everything is "otherwise IMPOSSIBLE" for em to do, which would
+cause Golems to be paralyzed, but the interests of the game in
+avoiding paralyzation, never mind the R101 rights cited by G. suggest
+that we should consider this "POSSIBLE" as "something that's legally
+possible, regardless of the situation of the guy on the other end of
+the line" rather than "something that's practically possible for the
+person to do", just as it's not rules-IMPOSSIBLE for me to take some
+morally heinous action just because I could not bring myself to do it,
+and wasn't rules-IMPOSSIBLE for Bayes to submit a CFJ even though he
+had no code to do that.
+
+========================================================================
+
+Appellant Kolja's Arguments:
+
+I support the appeal, I think it's important to get maximum clarity and
+consensus on this topic.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+Agreed, it deserves more than myself and omd; I support and do so.
+
+Appeals argument, just to see if it puts the issue as clearly and neutrally
+as possible [omd please let me know if this captures it neutrally]:
+
+1.  The rule in question [Rule 2361/1] says "The owner of a Slave Golem
+     CAN cause it to take actions that are not otherwise IMPOSSIBLE by
+     announcement."
+
+2.  Let's say another rule says "Players can do X without objection".
+
+3.  The caller claims that it should be parsed "[Players CAN do X]
+     without objection", meaning that, since "Players CAN do X", the
+     owner can cause the golem to do X by the owner announcing that the
+     slave does X, ignoring the 'without objection' requirement.
+
+4.  The Judge's arguments state that it should be parsed "[Players
+     can do X without objection]", meaning that the owner can set up
+     for the golem to do X, but only via the golem using the without
+     objection mechanism, because it is "otherwise IMPOSSIBLE" without
+     using the without objection method.
+
+5.  The caller counters that, if the judge's arguments were correct,
+     that, since many actions are written "Players can do Y by
+     announcement", reading it "[Players can do Y by announcement]"
+     instead of "[Players can do Y] by announcement" makes it impossible
+     for the golem to do anything at all, because golems literally cannot
+     announce anything.
+
+6.  The judge counters that R478(Fora) sufficiently strongly implies
+     that golems CAN announce things 'via' their owner (i.e. the owner
+     is part of the mechanism, an extra step in the email client, in the
+     'via a public forum' clause).  The judge states that this is
+     (a) generally in keeping in past precedents on what 'acting on
+         behalf of' means; and
+     (b) at the time this case arose, R101 was protective of the R101
+         rights of golems;
+     so R101(v) (Participation in the fora) required us to infer the
+     ability of golems to send messages to fora and therefore announce
+     stuff.
+
+7.  Caller's appeal states that 6(a) and (b) are not enough at all
+     to infer that golems can announce anything, so we either have to
+     accept the caller's reading of "[Players can do X]" (the caller's
+     preferred argument) or accept that golems never could do anything
+     at all (rewinding months of gamestate, counter to just about
+     anyone's perceptions).
+
+========================================================================

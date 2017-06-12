@@ -1,0 +1,282 @@
+=========================  Criminal Case 2545  =========================
+
+    Yally violated Rule 2143, committing the Class-6 Crim of Making My
+    Eyes Bleed, by means of publishing eir most recent IADoP's report in
+    HTML.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 Yally
+
+Judge:                                  scshunt
+Judgement:                              GUILTY/SILENCE
+
+Appeal:                                 2545a
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Called by ais523:                       28 May 2009 03:11:41 GMT
+Defendant Yally informed:               28 May 2009 03:11:41 GMT
+Assigned to scshunt:                    29 May 2009 21:15:39 GMT
+Judged GUILTY/SILENCE by scshunt:       29 May 2009 23:36:58 GMT
+Appealed by Yally:                      29 May 2009 23:52:05 GMT
+Appeal 2545a:                           30 May 2009 02:44:32 GMT
+AFFIRMED on Appeal:                     08 Jun 2009 22:51:45 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+R101 allows players to participate in the fora. Email format
+is not plain text either, because it has headers.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+Those are officially RFC-defined email metadata, not part of the
+actual message as we speak of it.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+And boy, even if that's not a defense, here's one that shouldn't be
+class 6.  I mean, it shouldn't be better to publish no report at all
+instead of using HTML.  -G.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+does the message contain a plain-text version without
+artifacts?  (I can't check...) If so, it's absurd to punish Yally for
+including a monospaced HTML version.  In Gmail and on iPhone, a
+plaintext version would be displayed in variable width font (and it
+can't be toggled on the later). Thus the HTML copy enhances
+readability-- indeed, all officers should provide it.
+
+========================================================================
+
+Caller's Arguments:
+
+On Wed, 2009-05-27 at 21:09 -0600, Sean Hunt wrote:
+> I publish an NoV alleging that Yally violated Rule 2143, committing the
+> Class-6 Crim of Making My Eyes Bleed, by means of publishing eir most
+> recent IADoP's report in HTML.
+>
+> I contest this NoV.
+
+I CFJ on this; the issue of whether MIME messages containing both
+plaintext and HTML are legal is a rather important one, and I think it
+should go through the courts.
+
+========================================================================
+
+Gratuitous Arguments by Yally:
+
+Regardless of my guilt or innocence on the matter, I believe that if I am
+found guilty, it would be fundamentally unjust for any sentencing other than
+DISMISS as it is standard for gmail to use MIME and I cannot undo MIME and
+simultaneously submit reports in fixed width font.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+First, I will establish whether or not Yally is guilty.
+
+For a verdict of GUILTY, all of the conditions outlined in R1504 must be
+met.
+
+  (a) the Accused breached the specified rule via the specified act.
+
+In Yally's case, e published eir report, entitled [IADoP] Office Report,
+in both HTML and plain text through the use of a MIME multipart message.
+Rule 2143 states that
+      Reports SHALL be published in plain text.  Tabular data must
+      line up properly when viewed in a monospaced font.  Publishing
+      reports that deviate from these regulations is the Class 6 Crime
+      of Making My Eyes Bleed.
+In particular, it is not the failure to publish a plaintext report that
+is the crime; it is the publication of a non-plaintext report. The
+archives make it clear that Yally's message in fact included two
+separate reports: one in plaintext that conforms except in a trivial
+manner (in the Weekly reports section, the Promotor and Conductor lines
+are indented by one space), and one in HTML consisting of what is
+largely believed to be the same content, though I have not verified it.
+The second one is not readable plain text, which vilolates the
+regulations put forth in R2143 and thus constitues the Crime of Making
+My Eyes Bleed.
+
+As such, I find this condition satisfied.
+
+  (b) the breach occurred withing 90 days prior to the case being
+      initiated.
+
+I find this condition satisfied, no arguments necessary.
+
+  (c) judgement has not already been reached in another criminal case,
+      or punishment already applied through another uncontested notice
+      of violation, with the same Accused, the same rule, and
+      substantially the same alleged act.
+
+I find this condition satisfied, no arguments necessary.
+
+  (d) the Accused could not have reasonably believed that the alleged
+      act did not violate the specified rule.
+
+This could present a valid defense. Yally may not have been aware that
+his email client was publishing in HTML as well as plain text as the
+reports are largely indistinguishable. However, given that complaints
+had repeatedly been raised and instructions given to Yally regarding the
+delivery of emails in text form from eir specific mail client, and the
+ease by which the verification of content sent to the lists can be
+performed (see my recent test message to a-d), I find that it would have
+been reasonable for Yally to be aware that eir emails were being sent in
+multipart form.
+
+Furthermore, the fact that Yally may not have known that a multipart
+email violated the rules is immaterial. Ignorance of the law is not a
+defense except when it is genuinely unreasonable to expect the person to
+know the law - given that this rule is new, it is expected that every
+player would have read the Assessor's results posting, which includes
+the text of new rules.
+
+As such, I find this condition satisfied.
+
+  (e) the Accused could have reasonably avoided committing the breach
+      without committing a different breach of equal or greater
+      severity.
+
+The only possible more severe breach would be the Crime of Endorsing
+Forgery. There was no reason that ratification without objection needed
+to be related in the publication of any report - doubly so given that
+the most substantial part of the IADoP's report is self-ratifying.
+
+As such, I find this condition satisfied.
+
+Accordingly with my findings, I assign a judgment of GUILTY.
+
+Now, I shall assign a sentence. In considering the appropriate sentence,
+there are two vital factors to consider.
+
+The first is that Yally did not breach the spirit of the law but only
+the text. E did simultaneously publish a text-only report as specified
+by the rule, and the illegal HTML report did conform to the requirements
+specified by the rules.
+
+The second is that it would have been trivial for Yally to submit a
+report in plain text. As has been demonstrated by the numerous other
+reports, all published only in plain text (several of whom use GMail,
+though I do not know which officers, if any, normally submit messages
+through the GMail web interface); by the instructions given by root as
+to causing the GMail web interface to submit messages only in plain
+text; and by the test message to a-d I sent from the GMail web interface
+for the purpose of determining whether or not it was possible to send a
+message via that interface in plain text - the archives verify that it
+is - it is clear that it would not have been much extra effort for Yally
+to compose eir reports in plain text.
+
+As such, I feel that a compromise is warranted. While I feel that
+APOLOGY is too light a punishment for an easy-to-avoid act for which the
+ninny has repeatedly been reprimanded pending the new, legislation, 6
+Rests is far too harsh given the ninny's efforts toward conformance.
+
+As such, I set the fine for this case at 3 Rests (the minimum possible),
+having already received sufficient support, I judge SILENCE, and I spend
+C# to destroy one of Yally's Rests as 3 is still disproportionate.
+
+Court is adjourned.
+
+========================================================================
+
+Appellant Yally's Arguments:
+
+While I mostly accept Judge coppro's arguments, I do not agree entirely.
+
+
+     (d) the Accused could not have reasonably believed that the alleged
+         act did not violate the specified rule.
+
+     (e) the Accused could have reasonably avoided committing the breach
+         without committing a different breach of equal or greater
+         severity.
+
+
+At the time I submitted that report, I was fully aware of this rule but I also
+legitamately thought that I was not breaching it. From my point of view, I
+don't have very many options. There is a plaintext option in Gmail, but
+selecting this removes any capabilities to change fonts or fontspacing,
+meaning I am stuck with a variable width font. Even now I'm unsure how to
+satisfy both the plaintext and monospaced requirements and, without some help,
+I'll probably break this rule again.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+I support this appeal.
+
+But, Yally should read R1504:
+>       An appeal concerning any assignment of judgment in a criminal
+>       case within the past week CAN be initiated by the accused by
+>       announcement.
+Arguments for the appeal:
+I do not agree with Yally's arguments; however, I believe the appeals
+panel should consider Pavitra's objection:
+> Sean Hunt wrote:
+>
+>> >   (a) the Accused breached the specified rule via the specified act.
+>> >
+>> > In Yally's case, e published eir report, entitled [IADoP] Office Report,
+>> > in both HTML and plain text through the use of a MIME multipart message.
+>> > Rule 2143 states that
+>> >       Reports SHALL be published in plain text.  Tabular data must
+>> >       line up properly when viewed in a monospaced font.  Publishing
+>> >       reports that deviate from these regulations is the Class 6 Crime
+>> >       of Making My Eyes Bleed.
+>> > In particular, it is not the failure to publish a plaintext report that
+>> > is the crime; it is the publication of a non-plaintext report.
+>>
+> I don't see that that interpretation necessarily follows from that text,
+> and IIRC this very point of interpretation was one of the key
+> controversies of the case. Can you explain in more detail how you
+> arrived at your reasoning?
+>
+Yally's report was plainly published in plain text as coppro even
+states. Is this really arguing that Yally published two Registrar's
+reports by publishing a multipart/alternative message, and that one of
+these reports violated the rule by not being in plain text? If so, this
+does not seem a reasonable interpretation, as the MIME pretty clearly
+marks it as exactly one message, and we have traditionally been somewhat
+allowing with message formats (e.g. multipart documents spanning
+multiple emails). If they are the same report, published simulatenously
+in HTML and plain text, then this report was plainly published in a
+plain text so Yally is NOT GUILTY because the specified act did not
+violate the rule in this case, because e did publish this report in
+plain text as required by the rule.
+
+Perhaps Yally violated the rule by publishing eir report as a multipart
+MIME message instead of as plain text, but that is not what coppro
+appears to argue and would necessitate a verdict of NOT GUILTY because
+Yally did not perform the specified act ("publishing eir most recent
+IaDOP's report in HTML").
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+"Publishing reports that deviate from these regulations is the Class 6
+Crime of Making My Eyes Bleed." It's very specific that the act of
+publishing a deviating report is illegal (the prior text about "Reports
+SHALL be published in plain text." is misleading; the act of committing
+a crime is in itself a separate violation - see various other rules that
+provide Crimes without otherwise specifying that the Crime is a
+violation of the rule.
+
+========================================================================

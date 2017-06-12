@@ -1,0 +1,105 @@
+==============================  CFJ 2535  ==============================
+
+    root violated R2143 by failing to publish a Scorekeepor's report in
+    the week from 20-26 April.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          20 May 2009 12:59:27 GMT
+Assigned to ais523:                     22 May 2009 19:37:59 GMT
+Judged FALSE by ais523:                 28 May 2009 02:10:44 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Eir "Totally Correct Scoreboard" was the only Scoreboard e
+published that week.  Based on the above precedent, e did not publish
+a "list of all [Points] and their owners" [R2166], only an incorrect
+document purporting to be such a list, and thus failed to complete eir
+weekly duties.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+Due to the report's ratification, our current gamestate takes that
+report to have been accurate, so the act cannot have been illegal.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+this CFJ asks about the past gamestate, not a current
+gamestate which may or may not contain ratified elements.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, the ratification seems to be irrelevant here. Ratifying something
+incorrect works out what would have happened if it had been correct,
+then changes the gamestate accordingly. R1551 puts limits on what it can
+change, however (that is, what parts of the hypothetical gamestate the
+true gamestate is altered to match); and one of the things it doesn't
+change is the legality of actions. In other words, if you do something
+illegal, it stays illegal, even if it was for making a false statement
+that was later ratified.
+
+So the remaining question is, did root's Scoreboard count as eir
+Scorekeepor report for the week? It contained deliberately incorrect
+information, after all.
+
+Some relevant rule excerpts:
+2179:
+{{{
+The Scorekeepor is a office, and the recordkeepor of points.
+}}}
+2166:
+{{{
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document.  That
+      entity's report includes a list of all instances of that class
+      and their owners.  This portion of that entity's report is
+      self-ratifying.
+}}}
+The interesting fact here is that a recordkeepor of assets has to list
+all the assets that exist. In the case of the Scorekeepor, therefore,
+the report has to account for the whereabouts of every point in
+existence. The specific error in root's report was to claim some players
+had more points than they actually did; but notice that all the genuine
+points were accounted for (just some extra points were also placed on
+the report). Lying and stating that a player has too many points may
+violate rule 2215); it will violate the penultimate para of rule 2143
+(although that was accidentally repealed at the time of the scam in
+question, which is what made it possible); but it won't violate R2143(a)
+indirectly via R2166. (Stating that someone has too /few/ points,
+though, is a breach of a SHALL in R2143(a) because it does not account
+for the location of every point; this would not be punishable if it were
+a genuine mistake, due to the officer in question believing that they
+were complying with the rule, but would be punishable if it were
+deliberate.)
+
+I judge CFJ 2535 NOT GUILTY to the charge of violating the old version
+of R2143.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Fri, 2009-05-29 at 08:27 -0700, Ed Murphy wrote:
+> [I interpret ais523's judgement as implying FALSE sufficiently clearly.]
+
+Oh, I thought it was a crim. I judge CFJ 2535 FALSE, unless it already
+has that judgement.
+
+========================================================================

@@ -1,0 +1,89 @@
+==============================  CFJ 3291  ==============================
+
+    When Pavitra published eir 16-Jan-13 Victory  Announcement, e
+    satisfied the Victory Condition of Belligerence.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Pavitra
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           18 Jan 2013 21:24:51 GMT
+Assigned to Murphy:                     09 Feb 2013 17:47:50 GMT
+Judged FALSE by Murphy:                 09 Feb 2013 18:01:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Wed, 16 Jan 2013, Alex Smith wrote:
+> On Wed, 2013-01-16 at 15:03 -0600, Pavitra wrote:
+> > As each Slave Golem is an entity with zero Props, and zero is less than
+> > nine, each Slave Golem is a Marine under the last sentence of R2376.
+> >
+> >
+> > For each person other than myself (hereafter $PERSON), I do the following:
+> > {
+> >   I create 4*N Slave Golems in my possession named Soldier-$PERSON-1
+> >   through Soldier-$PERSON-N, where N is the number of units that
+> >   $PERSON owns.
+> >
+> >   For each of $PERSON's units, I cause four of SOLDIER-$PERSON-* to
+> >   attack that unit.
+> > }
+> >
+> > I destroy all Slave Golems created in this message.
+> >
+> > Victory Announcement: I satisfy the Victory Condition of Belligerence,
+> > by owning at least one SCV while no other person owns any SCVs or Marines.
+>
+> This fails. You created persons during the message, and thus the message
+> is either an infinitely long loop, or you didn't eliminate /all/ the
+> persons' units.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+"Belligerence" states that units only cease to exist when their health
+has been 0 for the past 48 hours. Pavitra's victory announcement was,
+therefore, at least premature.
+
+Also, some of Pavitra's attacks would attempt to decrease some units
+health below 0. This is an impossible value for the health switch and
+per R2162 would cause the health to reset to the default values.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+On 1/16/13 1:03 PM, Pavitra wrote:
+> As each Slave Golem is an entity with zero Props, and zero is less than
+> nine, each Slave Golem is a Marine under the last sentence of R2376.
+>
+>
+> For each person other than myself (hereafter $PERSON), I do the following:
+> {
+>   I create 4*N Slave Golems in my possession named Soldier-$PERSON-1
+>   through Soldier-$PERSON-N, where N is the number of units that
+>   $PERSON owns.
+
+This does not specify 4*N unique names.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Per CFJ 3290, the rule "Belligerence" fails to effectively define
+"marines".  (And even if that weren't the case, then woggle's arguments
+would still be correct, though G.'s wouldn't because the golems created
+for the scam would have N = 0.)
+
+========================================================================

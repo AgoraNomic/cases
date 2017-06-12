@@ -1,0 +1,60 @@
+==============================  CFJ 2763  ==============================
+
+    In an AI 4 proposal, "Change gamestate value X from 'Y' to 'Z'" has
+    the same meaning as "If gamestate value X is currently 'Y', change
+    it to 'Z'".
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Feb 2010 17:15:14 GMT
+Assigned to scshunt:                    21 Feb 2010 05:43:58 GMT
+scshunt recused:                        27 Feb 2010 00:31:00 GMT
+Assigned to Murphy:                     27 Feb 2010 16:58:03 GMT
+Judged TRUE by Murphy:                  06 Mar 2010 16:35:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+We've been playing as if this were true. However, an AI 4
+proposal is powerful enough to create a legal fiction that the old value
+of gamestate value X was in fact Y, and this seems to be the literal
+meaning of what was written. Where does the convention that changes fail
+if the old value was specified incorrectly come from?
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The convention is presumably generalized from "Amend rule X by replacing
+'Y' with 'Z'".
+
+Consider the similar things that such a proposal might be intended to
+do, and how each one would most naturally be worded to indicate that
+intent clearly:
+
+  1) Change the value of X to Z, regardless of its previous value
+       -> ""Change X to Z"
+
+  2) Change the value of X to Z, creating legal fiction that it was Y
+       -> "Ratify that X is Y, then change it to Z"
+
+  3) Change the value of X to Z, but only if it was Y
+       -> "Change X from Y to Z"
+
+The last of these matches the interpretation suggested by the statement.
+
+========================================================================

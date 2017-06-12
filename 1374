@@ -1,0 +1,42 @@
+==============================  CFJ 1374  ==============================
+
+    root's creation of a nameless currency was valid.
+
+========================================================================
+
+Caller:                                 teucer
+
+Judge:                                  Crito
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by teucer:                       13 May 2002 11:16:19 GMT
+Assigned to Crito:                      22 May 2002 01:17:29 GMT
+Judged TRUE by Crito:                   22 May 2002 14:39:00 GMT
+
+========================================================================
+
+Judge Crito's Arguments:
+
+R1722 states, "A new Currency is created when an entity
+which has Mint Authority publicly posts a message stating
+that e is doing so, provided that also e states in that
+message the values of all properties which the Rules
+require of Currencies."
+
+root's creation message states, "I create a nameless Currency,
+with MUQ 1. The Mintor and Recordkeepor are myself."
+
+The only value-assignable properties required by the Rules of
+Currencies that I can find are MUQ, Mintor and Recordkeepor.
+One might argue that the property of being a "Property" is also
+required by the Rules, but I think it a reasonable interpretation
+that R1722 refers to properties which have assignable values,
+not those which are required to have the value of TRUE.
+Therefore, since the Rules do not require Currencies to have
+a name, I judge this CFJ TRUE.
+
+========================================================================

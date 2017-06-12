@@ -1,0 +1,90 @@
+==============================  CFJ 2160  ==============================
+
+    The /dev/null contract has at least one party.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+Appeal:                                 2160a
+Decision:                               OVERRULE/FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         14 Sep 2008 05:58:44 GMT
+Assigned to Machiavelli:                20 Sep 2008 19:00:46 GMT
+Machiavelli recused:                    20 Sep 2008 21:21:31 GMT
+Assigned to Wooble:                     23 Sep 2008 08:23:59 GMT
+Judged TRUE by Wooble:                  23 Sep 2008 12:37:14 GMT
+Appealed by ais523:                     23 Sep 2008 13:01:00 GMT
+Appealed by Wooble:                     23 Sep 2008 14:31:26 GMT
+Appealed by Pavitra:                    23 Sep 2008 15:34:17 GMT
+Appeal 2160a:                           23 Sep 2008 15:34:17 GMT
+OVERRULED to FALSE on Appeal:           24 Sep 2008 20:37:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If the /dev/null contract has no parties, then R1742 would normally
+terminate it automatically.  However, contract termination is a
+contract change (R2197), contract changes are secured at power 2
+(R2198), and the power of R1742 is only 1.5; as a result, the
+auto-termination failed.  Furthermore, if R1742 is subsequently
+upmutated to power 2, the contract will not automatically terminate at
+that point, per the language of R1742: "...terminates WHEN it comes to
+have less than the required number of parties" (emphasis added).
+
+========================================================================
+
+Caller's Evidence:
+
+While I'm at it, I agree to the following:
+
+~~~~~
+This contract is a pledge, titled "/dev/null".  The player known as
+root CAN join this contract by announcement; no other person may do
+so.  Parties to this contract CAN leave it by announcement, and MUST
+do so immediately.
+~~~~~
+
+I leave the /dev/null pledge.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+To terminate existing contracts with fewer than the required number of
+parties, a proposal would need to also amend R1742 to make the
+termination occur instantaneously any time a contract doesn't have the
+required parties; I believe the language prior to the passage of P5663
+would have been sufficient to accomplish this (using 'if' instead of
+'when'), but in any case contract changes have only been secured since
+13 Sept. If the Notary's most recent monthly report is accurate, the
+/dev/null contract should be the only one affected by this ruling.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+I intend to appeal the judgement of CFJ 2160 with 2 support; the judge
+has judged TRUE yet eir arguments argue for FALSE (in that if /dev/null
+works, it has no parties rather than 1).
+
+========================================================================
+
+Appellant Wooble's Arguments:
+
+I support and argue for an appeals judgment of OVERRULE/FALSE assuming
+the panel accepts my published reasoning.
+
+========================================================================

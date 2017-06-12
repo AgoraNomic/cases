@@ -1,0 +1,587 @@
+==============================  CFJ 2456  ==============================
+
+    On April 1, 2009, Goethe legally flipped j to Beta.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      20 Apr 2009 03:34:56 GMT
+Assigned to root:                       20 Apr 2009 21:31:08 GMT
+Judged TRUE by root:                    27 Apr 2009 17:27:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Kerim Aydin wrote:
+> Why weren't each of the single promotions to beta, gamma and delta, I
+> performed legal?  They were surrounded by attempted, failed actions but that
+> didn't make them less legal or performable.  I did:
+>
+> I flip B.P. to alpha.
+>
+> (a bunch of failed attempted flips to alpha)
+>
+> I flip j to beta (e was gamma at the time, so fit the pattern).
+>
+> (a bunch of failed attempted flips to beta)
+>
+> I flip cmealerjr to gamma (e was delta at the time, so fit the pattern).
+>
+> (a bunch of failed attempted flips to gamma)
+>
+> I flip BobTHJ to delta (e was epsilon at the time, so fit the pattern).
+>
+> (a bunch of failed attempted flips to delta)
+>
+> So all of those four should have been put back, followed by demotions
+> taking into account these positions.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+"If you take the view that any caste flip that would have been illegal for
+the Grand Poobah was IMPOSSIBLE for me as a deputy, I still made several
+legal changes as part of a single "promotion procedure A" that I deputized
+to perform:
+
+Starting conditions:
+  Alpha:  [none]
+   Beta:  Billy Pilgrim
+  Gamma:  j, OscarMeyr, Pavitra, Taral, woggle, Wooble
+  Delta:  cmealerjr, Murphy, root
+Epsilon:  BobTHJ, comex, coppro, Craig, Dvorak Herring, ehird, Elysion,
+            harblcat, pikhq, Schrodinger's Cat, Sgeo, Siege, Sir Toby,
+            Spitemaster, Tiger, w1n5t0n, Warrigal, Yally; PNP, ais523,
+            Rodlen, Goethe
+ Savage:  Bayes, HP2, Normish, PBA
+
+Following that, this worked:
+> A.1.a:  I flip Billy Pilgrim's caste to Alpha.
+Then the rest of the flips-to-alpha failed, they were part of illegal
+therefore impossible-for-me-to-deputize-to-perform procedures.
+
+Then, in this list:
+> I flip each of the following players' castes to Beta: [list]
+the first occurrence of a gamma in the list would have worked to satisfy
+A.1.b, so j would have been flipped to beta (the rest failing).
+
+Then in this list:
+> I flip each of the following players' castes to Gamma: [list]
+the first occurrence of a delta in the list would have worked to satisfy
+A.1.c, so cmealerjr would have been flipped to gamma (the rest failing).
+
+Then finally in this list:
+> I flip each of the following players' castes to Delta: [list]
+the first occurrence of an epsilon in the list would have worked to satisfy
+A.1.d, so BobTHJ would have been flipped to delta.
+
+Everything else failed, as the next required step would be a demotion of
+too many gammas to deltas, and that didn't happen after the last promotion
+above.  So the end product would be that a set of promotions worked, but no
+demotions, leaving:
+
+  Alpha:  Billy Pilgrim
+   Beta:  j
+  Gamma:  OscarMeyr, Pavitra, Taral, woggle, Wooble, cmealerjr
+  Delta:  Murphy, root, BobTHJ
+Epsilon:  comex, coppro, Craig, Dvorak Herring, ehird, Elysion,
+            harblcat, pikhq, Schrodinger's Cat, Sgeo, Siege, Sir Toby,
+            Spitemaster, Tiger, w1n5t0n, Warrigal, Yally; PNP, ais523,
+            Rodlen, Goethe
+ Savage:  Bayes, HP2, Normish, PBA
+
+And a set of demotions due (but all April promotions completed)."
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Goethe did not successfully become Grand Poobah
+on April 1, although I don't know if that affects anything.
+
+========================================================================
+
+Judge root's Arguments:
+
+First, to dispense with comex's gratuitous arguments: the action in
+question was attempted by deputisation, prior to Goethe's attempt to
+become Grand Poobah.  That the latter attempt failed is not relevant
+here.
+
+Goethe's arguments here seem reasonable to me.  In opposition, it has
+been suggested that R2211 requires the sequence of actions it defines
+to be performed all at once, not split into separate messages or
+interleaved with other actions, successful or not.  However, R2211
+does not explicitly support this view, and to read it implicitly is, I
+think, against Agoran custom.
+
+As evidence for this custom, I offer a sequence of messages dating
+back to May 2005.  Rule 2083/1 defined an official 4-step procedure,
+not unlike the one in R2211, that the Deckmastor was required to use
+when it was necessary to enforce hand sizes.  In the messages in
+question, Deckmastor Goethe performed the first two steps in one
+message, shuffled the deck in a second message (necessary, but not
+part of the R2083 procedure), then finally performed the last two
+steps in a third message.  I can find no record that any challenge to
+this split performance of duties was made at the time.  The rule text
+and the messages are reproduced in the evidence section.
+
+In light of this, I see no convincing argument as to why Goethe's
+attempt to promote j to Beta might have failed.  I enter a judgement
+of TRUE in CFJ 2456.
+
+========================================================================
+
+Judge root's Evidence:
+
+Rule 2083/1
+
+      As soon as possible after any gambler's hand becomes frozen, the
+      Deckmastor shall perform the following actions in order:
+
+      1) Calculate and publicly announce the Card Tax for each frozen
+         gambler.  The Card Tax for a frozen gambler is equal to the
+         hand size of that gambler less the minimum hand size.  The
+         Card Tax shall be calculated as of the moment the gambler's
+         hand became frozen.
+
+      2) From every frozen gambler in turn, transfer cards selected at
+         random from that gambler's hand to the Deck until eir hand
+         size has been reduced by an amount not less than eir Card Tax
+         or e has no cards remaining.
+
+      3) If the hands were frozen because of a win, deal cards to the
+         winner until eir hand size has been increased by the maximum
+         hand size less the minimum hand size, calculated as of the
+         moment the winner's hand became frozen.
+
+      4) Publicly announce that the table is open for business.
+
+      Upon publication of an announcement as in 4), the Flux of every
+      gambler shall become free.  If the Deckmastor makes a public
+      announcement as in 4) when one or more gamblers are frozen but
+      steps 1), 2), and 3) have not been completed, then the
+      announcement is still valid, but the Deckmastor must complete
+      steps 1), 2), and 3) as soon as possible.  If the Deckmastor's
+      error is not made in good faith, then e commits the Class 4
+      Crime of Stacking the Deck.
+
+========================================================================
+
+X-Gmail-Received: 940d84d9bb8ab148056699c3fc96405d1d1dde74
+Delivered-To: ian.g.kelly@gmail.com
+Received: by 10.54.78.5 with SMTP id a5cs35854wrb;
+        Wed, 18 May 2005 12:34:11 -0700 (PDT)
+Received: by 10.38.9.80 with SMTP id 80mr583970rni;
+        Wed, 18 May 2005 12:34:10 -0700 (PDT)
+Return-Path: <agora-business-admin@agoranomic.org>
+Received: from md4.nss.udel.edu (md4.nss.udel.edu [128.175.1.14])
+        by mx.gmail.com with ESMTP id f3si243192rne.2005.05.18.12.34.10;
+        Wed, 18 May 2005 12:34:10 -0700 (PDT)
+Received-SPF: fail (gmail.com: domain of
+agora-business-admin@agoranomic.org does not designate 128.175.1.14 as
+permitted sender)
+Received: from ms1.nss.udel.edu (ms1.nss.udel.edu [128.175.1.21])
+        by md4.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id BAX22424;
+        Wed, 18 May 2005 15:34:08 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+        by ms1.nss.udel.edu (MOS 3.5.8-GR)
+        id AIA28885;
+        Wed, 18 May 2005 15:34:07 -0400 (EDT)
+Received: from md3.nss.udel.edu (md3.nss.udel.edu [128.175.1.13])
+        by ms1.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id AIA28882;
+        Wed, 18 May 2005 15:34:06 -0400 (EDT)
+Received: from yzma.clarkk.net (yzma.clarkk.net [66.219.50.42])
+        by md3.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id BAS19250;
+        Wed, 18 May 2005 15:34:04 -0400 (EDT)
+Received: from yzma.clarkk.net (localhost [127.0.0.1])
+        by yzma.clarkk.net (Postfix) with ESMTP
+        id 05E3D33B35; Wed, 18 May 2005 14:34:03 -0500 (CDT)
+Delivered-To: agora-business@agoranomic.org
+Received: from mxout4.cac.washington.edu (mxout4.cac.washington.edu
+[140.142.33.19])
+        by yzma.clarkk.net (Postfix) with ESMTP id 1D1A833B35
+        for <agora-business@agoranomic.org>; Wed, 18 May 2005 14:33:29 -0500
+(CDT)
+Received: from smtp.washington.edu (smtp.washington.edu [140.142.32.139])
+        by mxout4.cac.washington.edu (8.13.4+UW05.04/8.13.4+UW05.05) with
+ESMTP id j4IJXSXP021627
+        for <agora-business@agoranomic.org>; Wed, 18 May 2005 12:33:28 -0700
+Received: from homer06.u.washington.edu (homer06.u.washington.edu
+[140.142.15.40])
+        (authenticated authid=kerim)
+        by smtp.washington.edu (8.13.4+UW05.04/8.13.4+UW05.05) with ESMTP id
+j4IJXPrD013997
+        (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+        for <agora-business@agoranomic.org>; Wed, 18 May 2005 12:33:28 -0700
+From: Kerim Aydin <kerim@u.washington.edu>
+To: Agora Business <agora-business@agoranomic.org>
+Message-ID: <Pine.A41.4.61b.0505181200550.225848@homer06.u.washington.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII; format=flowed
+Subject: BUS: Throwing hands in
+Sender: agora-business-admin@agoranomic.org
+Errors-To: agora-business-admin@agoranomic.org
+X-BeenThere: agora-business@agoranomic.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: agora-discussion@agoranomic.org
+List-Help: <mailto:agora-business-request@agoranomic.org?subject=help>
+List-Post: <mailto:agora-business@agoranomic.org>
+List-Subscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=subscribe>
+List-Id: Agora Nomic public communications (PF)
+<agora-business.agoranomic.org>
+List-Unsubscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=unsubscribe>
+List-Archive: <http://www.agoranomic.org/pipermail/agora-business/>
+Date: Wed, 18 May 2005 12:33:25 -0700 (PDT)
+X-Junkmail-Status: score=10/50, host=ms1.nss.udel.edu
+X-Junkmail-SD-Raw: score=unknown,
+refid=0001.0A090202.428B9812.0019-A-, ip=66.219.50.42
+X-Mirapoint-Loop-Id: a256a3821bbfbf706543595d72827bf8
+
+
+By Rule 2083, I do the following as part of my official Deckmastor
+Duties:
+
+STEP 1
+The minimum hand size is 2.  The Card Tax for each frozen
+gambler is:
+
+Eris          7-2 = 5
+Goethe        2-2 = 0
+Kolja         7-2 = 5
+Maud          7-2 = 5
+Michael       7-2 = 5
+Murphy        2-2 = 0
+OscarMeyr    14-2 = 12
+RedKnight     5-2 = 3
+Riail         5-2 = 3
+root          6-2 = 4
+Sir Toby      3-2 = 1
+Manu          2-2 = 0
+Quazie        6-2 = 4
+The Library   7-2 = 5
+
+               STATE 1      STATE 2
+Sherlock      6-2 = 4  OR  5-2  = 3
+Discard Pile 52-2 = 50 OR  53-2 = 51
+
+
+STEP 2
+I transfer the following cards from the following gamblers to the
+Deck, in the sequence listed:
+
+FROM:  TO THE DECK I TRANSFER
+
+Eris:  Charity Brings Happiness, Procedure, It's a Surprise!,
+Debate-o-Matic
+
+Goethe:
+
+Kolja:  Discard Picking, Absolv-o-Matic, One Share, Rebel Rabble
+
+Maud:  Policy, Distrib-u-Matic, One Share, Charity Brings
+Happiness
+
+Michael:  Dud, Dud, Distrib-u-Matic, Dud, Thieves in the Night
+
+Murphy:
+
+OscarMeyr:  Policy, Library Card, Distrib-u-Matic, Absolv-o-Matic,
+Distrib-u-Matic, Distrib-u-Matic, Absolv-o-Matic, Debate-o-Matic,
+Absolv-o-Matic, Raffle Ticket, Three Shares
+
+RedKnight:  Dud, Your Turn, Rebel Rabble
+
+Riail:  Raffle Ticket, Debate-o-Matic, Coalition
+
+root:  Procedure, Procedure, Raffle Ticket
+
+Sir Toby: Distrib-u-Matic
+
+Manu:
+
+Quazie:  Thieves in the Night, Library Renewal, One Share
+
+The Library: Coalition, Thieves in the Night, Patronage,
+Distrib-u-Matic, Procedure
+
+Sherlock:  Two Shares
+
+I further tranfer One Share from Sherlock to the Deck.  This may
+or may not succeed depending on the gamestate.
+
+I transfer the following cards from the Discard Pile to the Deck:
+Two Shares, Instant Gratification, Two for One, Procedure, Div. or
+Conquer Your Stock, Thieves in the Night, Two Shares, Raffle
+Ticket, Enforced Charity, Policy, Absolv-o-Matic, Coalition, Your
+Turn, Instant Gratification, Coalition, Raffle Ticket, Police
+State, Player Stasis, Thieves in the Night, Enforced Charity, Your
+Turn, Discard and Draw, Not Your Turn, Two for One, Raffle Ticket,
+Absolv-o-Matic, Absolv-o-Matic, Thieves in the Night, Not Your
+Turn, Distrib-u-Matic, Presto!, Your Turn, Dud, Charity Brings
+Happiness, Discard Picking, Absolv-o-Matic, Charity Brings
+Happiness, Coalition, Distrib-u-Matic, Div. or Conquer Your Stock,
+Enforced Charity, Enforced Charity, Absolv-o-Matic, Library
+Renewal, Thieves in the Night, Reshuffle
+
+I further transfer a Patronage from the Discard Pile to the Deck.
+This may or may not succeed depending on the game state.
+
+STEPS 3 and 4 will occur once I have shuffled these cards back
+into the deck.
+
+  -Goethe
+
+========================================================================
+
+X-Gmail-Received: 1ac036f078627165780b95afebdd615ad690c25e
+Delivered-To: ian.g.kelly@gmail.com
+Received: by 10.54.78.5 with SMTP id a5cs5882wrb;
+        Wed, 18 May 2005 23:52:11 -0700 (PDT)
+Received: by 10.38.65.79 with SMTP id n79mr826615rna;
+        Wed, 18 May 2005 23:52:11 -0700 (PDT)
+Return-Path: <agora-business-admin@agoranomic.org>
+Received: from md3.nss.udel.edu (md3.nss.udel.edu [128.175.1.13])
+        by mx.gmail.com with ESMTP id a2si219691rnf.2005.05.18.23.52.11;
+        Wed, 18 May 2005 23:52:11 -0700 (PDT)
+Received-SPF: fail (gmail.com: domain of
+agora-business-admin@agoranomic.org does not designate 128.175.1.13 as
+permitted sender)
+Received: from ms1.nss.udel.edu (ms1.nss.udel.edu [128.175.1.21])
+        by md3.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id BAT30523;
+        Thu, 19 May 2005 02:52:08 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+        by ms1.nss.udel.edu (MOS 3.5.8-GR)
+        id AIB04828;
+        Thu, 19 May 2005 02:52:07 -0400 (EDT)
+Received: from md2.nss.udel.edu (md2.nss.udel.edu [128.175.1.12])
+        by ms1.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id AIB04826;
+        Thu, 19 May 2005 02:52:06 -0400 (EDT)
+Received: from yzma.clarkk.net (yzma.clarkk.net [66.219.50.42])
+        by md2.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id BBR01703;
+        Thu, 19 May 2005 02:52:04 -0400 (EDT)
+Received: from yzma.clarkk.net (localhost [127.0.0.1])
+        by yzma.clarkk.net (Postfix) with ESMTP
+        id 1CCFF33B35; Thu, 19 May 2005 01:52:04 -0500 (CDT)
+Delivered-To: agora-business@agoranomic.org
+Received: from mxout3.cac.washington.edu (mxout3.cac.washington.edu
+[140.142.32.166])
+        by yzma.clarkk.net (Postfix) with ESMTP id 624F933B35
+        for <agora-business@agoranomic.org>; Thu, 19 May 2005 01:51:42 -0500
+(CDT)
+Received: from smtp.washington.edu (smtp.washington.edu [140.142.32.139])
+        by mxout3.cac.washington.edu (8.13.4+UW05.04/8.13.4+UW05.05) with
+ESMTP id j4J6pf1M011405
+        for <agora-business@agoranomic.org>; Wed, 18 May 2005 23:51:41 -0700
+Received: from homer06.u.washington.edu (homer06.u.washington.edu
+[140.142.15.40])
+        (authenticated authid=kerim)
+        by smtp.washington.edu (8.13.4+UW05.04/8.13.4+UW05.05) with ESMTP id
+j4J6pc59031711
+        (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+        for <agora-business@agoranomic.org>; Wed, 18 May 2005 23:51:40 -0700
+From: Kerim Aydin <kerim@u.washington.edu>
+To: Agora Business <agora-business@agoranomic.org>
+Message-ID: <Pine.A41.4.61b.0505182310120.206024@homer06.u.washington.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII; format=flowed
+Subject: BUS: Discard Discard Discord
+Sender: agora-business-admin@agoranomic.org
+Errors-To: agora-business-admin@agoranomic.org
+X-BeenThere: agora-business@agoranomic.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: agora-discussion@agoranomic.org
+List-Help: <mailto:agora-business-request@agoranomic.org?subject=help>
+List-Post: <mailto:agora-business@agoranomic.org>
+List-Subscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=subscribe>
+List-Id: Agora Nomic public communications (PF)
+<agora-business.agoranomic.org>
+List-Unsubscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=unsubscribe>
+List-Archive: <http://www.agoranomic.org/pipermail/agora-business/>
+Date: Wed, 18 May 2005 23:51:38 -0700 (PDT)
+X-Junkmail-Status: score=10/50, host=ms1.nss.udel.edu
+X-Junkmail-SD-Raw: score=unknown,
+refid=0001.0A090201.428C36F8.001D-A-, ip=66.219.50.42
+X-Mirapoint-Loop-Id: f4e0ba900f195d974e726ce3b3406cf6
+
+
+I transfer the following cards from the Discard Pile to the Deck:
+
+Distrib-u-Matic, Your Turn, Police State, Thieves in the Night,
+Coalition, Presto!, Your Turn, Instant Gratification, Enforced
+Charity, Thieves in the Night, Enforced Charity, Dud, Not Your
+Turn, Reshuffle, Absolv-o-Matic, Instant Gratification, Patronage,
+Charity Brings Happiness, Coalition, Two for One, Two Shares,
+Thieves in the Night, Absolv-o-Matic, Two Shares, Enforced
+Charity, Raffle Ticket, Discard Picking, Thieves in the Night,
+Absolv-o-Matic, Library Renewal, Discard and Draw, Procedure,
+Raffle Ticket, Not Your Turn, Absolv-o-Matic, Charity Brings
+Happiness, Player Stasis, Coalition, Distrib-u-Matic, *Discard
+Picking*, Raffle Ticket, Two for One, Enforced Charity, Policy,
+Div. or Conquer Your Stock, Div. or Conquer Your Stock, Your Turn
+
+The starred Discard Picking may not be in the Discard Pile, so
+that transfer may have failed.  (Since it is fungible with the
+other Discard Picking, it is definitely that last one that may
+have failed).  Either way, the Discard Pile is down to two cards.
+
+The previous transfers from the Library to the Deck also failed,
+because they didn't take into account the Blueprints.  Since the
+Blueprints are destroyed, I now transfer the following cards from
+the Library to the Deck:
+
+Distrib-u-Matic, Patronage, Procedure, Policy, Coalition
+
+-Goethe
+
+========================================================================
+
+X-Gmail-Received: 7f9ca0495893ece6225dbd63b766b4fbc3bc4ec8
+Delivered-To: ian.g.kelly@gmail.com
+Received: by 10.54.78.5 with SMTP id a5cs36128wrb;
+        Fri, 20 May 2005 11:56:24 -0700 (PDT)
+Received: by 10.54.65.13 with SMTP id n13mr1302711wra;
+        Fri, 20 May 2005 11:56:24 -0700 (PDT)
+Return-Path: <agora-business-admin@agoranomic.org>
+Received: from md2.nss.udel.edu (md2.nss.udel.edu [128.175.1.12])
+        by mx.gmail.com with ESMTP id 11si496695wrl.2005.05.20.11.56.22;
+        Fri, 20 May 2005 11:56:24 -0700 (PDT)
+Received-SPF: fail (gmail.com: domain of
+agora-business-admin@agoranomic.org does not designate 128.175.1.12 as
+permitted sender)
+Received: from ms1.nss.udel.edu (ms1.nss.udel.edu [128.175.1.21])
+        by md2.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id BBX04256;
+        Fri, 20 May 2005 14:56:07 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+        by ms1.nss.udel.edu (MOS 3.5.8-GR)
+        id AID64163;
+        Fri, 20 May 2005 14:56:06 -0400 (EDT)
+Received: from md3.nss.udel.edu (md3.nss.udel.edu [128.175.1.13])
+        by ms1.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id AID64160;
+        Fri, 20 May 2005 14:56:05 -0400 (EDT)
+Received: from yzma.clarkk.net (yzma.clarkk.net [66.219.50.42])
+        by md3.nss.udel.edu (MOS 3.5.8-GR)
+        with ESMTP id BAZ06825;
+        Fri, 20 May 2005 14:56:04 -0400 (EDT)
+Received: from yzma.clarkk.net (localhost [127.0.0.1])
+        by yzma.clarkk.net (Postfix) with ESMTP
+        id 153DB33EB2; Fri, 20 May 2005 13:56:04 -0500 (CDT)
+Delivered-To: agora-business@agoranomic.org
+Received: from mxout1.cac.washington.edu (mxout1.cac.washington.edu
+[140.142.32.134])
+        by yzma.clarkk.net (Postfix) with ESMTP id 7EF9333CA7
+        for <agora-business@agoranomic.org>; Fri, 20 May 2005 13:55:05 -0500
+(CDT)
+Received: from smtp.washington.edu (smtp.washington.edu [140.142.33.9])
+        by mxout1.cac.washington.edu (8.13.4+UW05.04/8.13.4+UW05.05) with
+ESMTP id j4KIt4wu029242
+        for <agora-business@agoranomic.org>; Fri, 20 May 2005 11:55:04 -0700
+Received: from homer07.u.washington.edu (homer07.u.washington.edu
+[140.142.15.41])
+        (authenticated authid=kerim)
+        by smtp.washington.edu (8.13.4+UW05.04/8.13.4+UW05.05) with ESMTP id
+j4KIt1it006726
+        (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+        for <agora-business@agoranomic.org>; Fri, 20 May 2005 11:55:04 -0700
+From: Kerim Aydin <kerim@u.washington.edu>
+To: Agora Business <agora-business@agoranomic.org>
+Message-ID: <Pine.A41.4.61b.0505201144290.373890@homer07.u.washington.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII; format=flowed
+Subject: BUS: The mirror crack'd
+Sender: agora-business-admin@agoranomic.org
+Errors-To: agora-business-admin@agoranomic.org
+X-BeenThere: agora-business@agoranomic.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: agora-discussion@agoranomic.org
+List-Help: <mailto:agora-business-request@agoranomic.org?subject=help>
+List-Post: <mailto:agora-business@agoranomic.org>
+List-Subscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=subscribe>
+List-Id: Agora Nomic public communications (PF)
+<agora-business.agoranomic.org>
+List-Unsubscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=unsubscribe>
+List-Archive: <http://www.agoranomic.org/pipermail/agora-business/>
+Date: Fri, 20 May 2005 11:55:01 -0700 (PDT)
+X-Junkmail-Status: score=10/50, host=ms1.nss.udel.edu
+X-Junkmail-SD-Raw: score=unknown,
+refid=0001.0A090203.428E3219.006B-A-, ip=66.219.50.42
+X-Mirapoint-Loop-Id: 87e49e261fea33306dc0903ea4acc4b2
+
+
+I have no legal choice, really.  After pondering probabilities, I
+must do as follows.
+
+The following five deals are only legal deals in the gamestate in
+which Sherlock holds a Discard Picking card:
+
+I deal Dud to The Library
+I deal Divide or Conquer Your Stock to The Library
+I deal Divide or Conquer Your Stock to The Library
+I deal Coalition to The Library
+I deal Library Renewal to The Library
+
+The following five deals are only legal deals in the gamestate in
+which Sherlock holds a One Share card:
+
+I deal Distrib-u-Matic to The Library
+I deal Procedure to The Library
+I deal Debate-o-Matic to The Library
+I deal Raffle Ticket to The Libary
+I deal Divide or Conquer Your Stock to The Library
+
+THE TABLE is OPEN for BUSINESS (both gamestates).
+
+The following five deals are only legal deals in the gamestate in
+which Sherlock holds a Discard Picking card:
+
+I deal Instant Punishment to root.
+I deal Not Your Turn to Quazie.
+I deal Raffle Ticket to root.
+I deal Distrib-u-Matic to Quazie.
+I deal Divide or Conquer Your Stock to root.
+
+The following five deals are only legal deals in the gamestate in
+which Sherlock holds a One Share card:
+
+I deal Debate-o-Matic to root.
+I deal Discard Picking to Quazie.
+I deal Debate-o-Matic to root.
+I deal Absolve-o-matic to Quazie.
+I deal Thieves in the Night to root.
+
+-Goethe
+
+========================================================================

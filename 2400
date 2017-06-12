@@ -1,0 +1,75 @@
+==============================  CFJ 2400  ==============================
+
+    If a non-IADoP initiates an election decision via deputisation, e
+    CAN resolve the decision immediately after its voting period ends,
+    without announcing intent to deputise to resolve it.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           06 Mar 2009 16:50:06 GMT
+Assigned to omd:                        07 Mar 2009 03:30:08 GMT
+Judged FALSE by omd:                    13 Mar 2009 19:34:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 208/7 says "Each Agoran decision has exactly one vote collector,
+defaulting to the initiator of the decision.".
+
+Rule 2154/20 says "the IADoP SHALL initiate an Agoran decision to determine
+the new officeholder."
+
+Rule 2160/3 says "Any player (a deputy) CAN perform an action as if e held
+a particular office..."
+
+So if an Agoran election decision is initiated via a deputization of IADoP,
+is the "default" vote collector the officer defined as the specific Rules-
+defined initiator (and thus the rules-defined default vote collector) for the
+specific type of decision (the IADoP) or the actual initiator of the decision
+(the deputy, perhaps the default for the particular instance of the type)?
+
+========================================================================
+
+Judge omd's Arguments:
+
+On Fri, Mar 6, 2009 at 11:30 PM, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> Caller's Arguments:
+>
+> Rule 208/7 says "Each Agoran decision has exactly one vote collector,
+> defaulting to the initiator of the decision.".
+
+To complete the quote:
+
+      Each Agoran decision has exactly one vote collector, defaulting
+      to the initiator of the decision.  If the vote collector is
+      defined by reference to a position (or, in the default case, if
+      the initiator was so defined), then the vote collector is the
+      current holder of that position.
+
+> Rule 2154/20 says "the IADoP SHALL initiate an Agoran decision to determine
+> the new officeholder."
+
+This defines the initiator by reference to a position, fitting the
+parenthesized bit in Rule 208.
+
+> Rule 2160/3 says "Any player (a deputy) CAN perform an action as if e held
+> a particular office..."
+
+Therefore, the situation is the same as if the deputy momentarily
+gained the office of IADoP during deputisation, then immediately lost
+it.  R208 dictates that the vote collector changes to the new holder
+of the office-- nobody.  FALSE.  (If e waits a week then deputises to
+resolve the decision, e pseudo-gains the office again, so e becomes
+the vote collector and thus can resolve it.)
+
+========================================================================

@@ -1,0 +1,53 @@
+==============================  CFJ 2573  ==============================
+
+    I am the same person who held the office of IADoP for 12 months.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       06 Jun 2009 20:11:41 GMT
+Assigned to ais523:                     06 Jun 2009 21:44:55 GMT
+Judged TRUE by ais523:                  13 Jun 2009 21:32:22 GMT
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+Is a specification of identity by means of peripheral attributes the
+same as identity itself?
+
+Suppose a message purporting to exercise various powers of an office
+contained a signature falsely claiming that the message was sent by the
+current holder of that office (mentioning only the office name, not the
+player's nickname). Would the signature ratify that the actual sender
+held the office, or that the actual officeholder sent the message?
+
+Suppose a message purporting to exercise various powers of one office
+contained a signature falsely claiming that the message was sent by the
+current holder of another office (mentioning only the office name, not
+the player's nickname); and further suppose that in fact the two offices
+were held by the same player (who was not the message's true sender).
+What would ratify in this case?
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The problem here is that although the CFJ purports
+to be about identity, I can't figure out any way to parse "I am the same
+person who held the office of IADoP for 12 months" that causes it to
+have a different meaning from "I was IADoP for 12 months" (or possibly
+"I am a person, and I was IADoP for 12 months", or "Only one person has
+held the office of IADoP for 12 months, and it was me"). In any case,
+it's a factual statement, and I can't think of a decent way to interpret
+it otherwise.
+
+========================================================================

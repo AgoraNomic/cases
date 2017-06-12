@@ -1,0 +1,74 @@
+==============================  CFJ 1815  ==============================
+
+    The AFO is a player and a partnership.
+
+========================================================================
+
+Caller:                                 Association of Federated Organizations
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Association of Federated Organizations:
+                                        02 Dec 2007 23:00:25 GMT
+Assigned to omd:                        03 Dec 2007 12:31:13 GMT
+Judged TRUE by omd:                     03 Dec 2007 14:46:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments against: The AFO's contract sates that its members *may* act on
+behalf of the AFO to satisfy its obligations, not that they must. By rule
+2145, a partnership's members must satisfy its obligations.
+Arguments for: To judge this as FALSE would cause a lot of recalculation of
+game state.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2145 of Agora
+The AFO's contract:
+ > 1. This is a binding agreement governed by the Rules of Agora. Parties
+ > to this agreement are known as Partners.
+ >
+ > 2. The Partners shall jointly act as a partnership, in a manner
+ > governed by this agreement.  The ability of each Partner to act as an
+ > individual is not thereby impaired.  The partnership shall be known as
+ > the Association of Federated Organizations.
+ >
+ > 3. The AFO may incur obligations, rights, and privileges under the
+ > Rules of Agora.  The Partners may act on behalf of the AFO to satisfy
+ > such obligations and to exercise such rights and privileges, as
+ > permitted by this agreement.
+ >
+ > 4. Any Partner may act on behalf of the AFO by announcing the action
+ > and clearly indicating that it is performed by the AFO. This is the
+ > only mechanism by which the AFO can act.
+ >
+ > 5. The Partners shall ensure that the AFO obeys the Rules of Agora to
+ > the maximum possible extent.
+ >
+ > 6. This agreement may be amended by the unanimous consent of the
+ > Partners.
+ >
+ > 7. New Partners may be admitted to this agreement by the unanimous
+ > consent of the current Partners.  Partners may leave the agreement by
+ > giving notice to all other Partners.  If the number of Partners falls
+ > below two, then this agreement shall terminate and the AFO shall
+ > dissolve.
+
+The Partners are comex, Levi, Murphy, and I.
+
+========================================================================
+
+Judge omd's Arguments:
+
+TRUE; the initiator's arguments are dealt with by item 5; thanks for the VC.
+
+========================================================================

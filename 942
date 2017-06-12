@@ -1,0 +1,147 @@
+From owner-agora-officia-@gecko.serc.rmit.edu.au Tue Sep 16 06:43 EDT 1997
+Received: from gecko.serc.rmit.edu.au (majordom-@gecko.serc.rmit.edu.au [144.110.168.141]) by cs.brown.edu (8.8.5/8.7.1) with ESMTP id GAA04763 for dp-@cs.brown.edu; Tue, 16 Sep 1997 06:43:48 -0400 (EDT)
+Received: (from majordom-@localhost)
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) id TAA30022
+	for agora-official-list; Tue, 16 Sep 1997 19:47:27 +1000
+Received: from wsinfm15.win.tue.nl (wsinfm15.win.tue.nl [131.155.69.168])
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) with ESMTP id TAA30019
+	for agora-officia-@gecko.serc.rmit.edu.au; Tue, 16 Sep 1997 19:47:20 +1000
+Received: by wsinfm15.win.tue.nl (8.7.1/1.45)
+    id LAA29457; Tue, 16 Sep 1997 11:49:27 +0200 (MET DST)
+From: engel-@win.tue.nl (Andre Engels)
+Message-Id: 199709160949.laa2945-@wsinfm15.win.tue.nl
+Subject: OFF: CFJ 942 Judgement: FALSE
+To: agora-officia-@gecko.serc.rmit.edu.au (nomic-official list)
+Date: Tue, 16 Sep 1997 11:49:27 +0200 (MET DST)
+X-Mailer: ELM [version 2.4 PL23]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Sender: owner-agora-officia-@gecko.serc.rmit.edu.au
+Precedence: bulk
+Reply-To: agora-discussio-@gecko.serc.rmit.edu.au
+Content-Type: text/plain; charset=US-ASCII
+Content-Length: 5361
+Status: N
+
+======================================================================
+
+                               CFJ 942
+
+Rule 789 should be interpreted such that a document purporting to be
+a Call for Judgement alleging that a Rule should be interpreted in a
+certain way, but which does not include a list of Relevant Rules
+assembled by the Caller, which includes the Rule being interpreted, is
+not in fact a CFJ, and that therefore neither the Clerk of the Courts
+nor any other Player incur any obligations regarding it.
+
+======================================================================
+
+Judge:       ChrisM
+
+Judgement:   FALSE
+
+Eligible:    Andre, Blob, Calabresi, ChrisM, Chuck, Crito, Elde, 
+	     elJefe, General Chaos, Harlequin, Kolja A., Michael, 
+	     Morendil, Murphy, Oerjan, Vir, Vlad, Zefram
+
+Not eligible:
+Caller:      Steve
+Barred:
+On request:  Vanyel
+On hold:     Swann
+
+======================================================================
+
+History:
+  Called by Steve, 13 Sep 1997, 07:37
+  Wrongly assigned to General Chaos, 15 Sep 1997, 10:30 +0200 (MET DST)
+  Assigned to ChrisM, 15 Sep 1997 10:43 +0200 (MET DST)
+  Judged FALSe by ChrisM, 15 Sep 97 13:58:10 -0400
+
+======================================================================
+
+Relevant Rules: 789, 991
+
+======================================================================
+(Caller's) Arguments:
+I don't really have particularly strong feelings about this one way
+or the other, but it seems we need a decision, and this will set a
+precedent we can use in future cases, should any such arise. I have
+a mild tendency to think that the Statement is TRUE, for reasons which
+I outline below.
+
+There are reasonable arguments on both sides, which the Judge must
+choose between. These turn on how the word 'must' in R789 should be
+interpreted:
+
+      A CFJ alleging a Rule should be interpreted in a certain way
+      must be accompanied by a list of relevant Rules, assembled by
+      the Caller, which includes the Rule being interpreted.
+
+On the one hand, we could interpret this 'must' as imposing an obligation
+on a Caller to include a list of Relevant Rules, an obligation which, if
+the Caller fails to meet it, results in the Caller having violated R789.
+On this reading, there is no reason to think that the legality of the CFJ
+is brought into question by the Caller's having violated R789, and so the
+Statement would be FALSE.
+
+On the other hand, we could interpret this 'must' as imposing a condition
+on what it takes to be a CFJ. On this reading, it is partially definitive
+of being a CFJ (of the relevant kind) that it be accompanied by a list
+of Relevant Rules. This would bring R789 into conflict with R991, which
+offers an incompatible definition:
+
+      Any document submitted to the Clerk of the Courts and which is
+      clearly marked as a Call for Judgement is a Call for Judgement.
+
+Since R789 wins this conflict by virtue of its lower Number, we arrive
+at the conclusion that the Statement is TRUE.
+
+Two possible interpretations, both plausible. Is there any reason to
+favour one over the other? I think there is such a reason: the
+precise wording of R789, which states that "A CFJ...must...", and not
+"The Caller of a CFJ...must...". I think this gives us a reason to
+regard to R789 more plausibly as imposing a condition on what it
+takes to be a CFJ than as imposing a requirement on the Caller. It
+may not be a terribly powerful reason for preferring the second
+interpretation to the first, but in the absence of other compelling
+reasons to make one judgement rather than the other, it may prove
+decisive. At any rate, I offer it to the Judge for eir consideration.
+
+Requested Injunction:
+
+I request that the Judge issue an Injunction requiring the Rulekeepor
+to annotate R789 with the Statement, as e is permitted to do by R789.
+[Maybe at last I'll get my self-referential annotation of R789!]
+
+======================================================================
+
+Decision and Reasoning Judge:
+
+My judgement on CFJ 942:
+
+FALSE.
+
+But for a reason no one seems to have noticed. I was, at first, quite 
+inclined to agree with the Caller. In fact, I felt less equivocal about 
+it than he did. It seemed to me that, in the absence of clear wording 
+specifying that, without a list of Relevant Rules, the *Caller* had made 
+an error or committed a crime, the correct interpretation would be that 
+the CFJ was simply invalid without said list. The minimum requirement for 
+that list would simply be a notation that the rule in question was itself 
+relevant to the CFJ; after all, "a list of relevant rules" does not imply 
+a *complete* list. And as anyone with LISP or set theory experience 
+knows, a list with only one item is still a list.
+
+But then I came to the part in the Caller's argument related to Rule 991. 
+He noted that, under my interpretation of Rule 789, the two rules were in 
+conflict. He then stated that, because of rule 789's lower number, it 
+takes precedence. And that would be well and true except that Rule 991 
+has a Power of 2, while Rule 789 has a Power of 1. Under Rule 1482 
+(Power=3), Rule 991 thus takes precedence, and we are in a situation where
+
+      Any document submitted to the Clerk of the Courts and which is
+      clearly marked as a Call for Judgement is a Call for Judgement.
+      (991/3)
+
+Therefore the statement is FALSE.

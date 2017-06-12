@@ -1,0 +1,187 @@
+==============================  CFJ 1282  ==============================
+
+    Maximum Voting Power, as referenced in Rule 1953, is a different
+    quantity from an Entity's maximum Voting Power, as referenced in
+    Rule 1950.
+
+========================================================================
+
+Caller:                                 Syllepsis
+Barred:                                 Kelly
+
+Judge:                                  Stuart
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Syllepsis:                    06 Mar 2001 18:15:25 GMT
+Assigned to Stuart:                     08 Mar 2001 09:09:23 GMT
+Judged FALSE by Stuart:                 15 Mar 2001 12:04:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1953 states:
+
+
+      The Maximum Voting Power on a Sane Proposal is one for each
+      Player and zero for each non-Player entity. Any votes cast
+      over this limit shall be deemed invalid.
+
+
+so even though a player's "Voting Power" may be greater than 1, eir
+"Maximum Voting Power" on a Sane Proposal is 1, and so any second vote
+must be deemed invalid. Note that it is Agoran custom for capitalized
+words to mean something different than their standard meaning, and so
+"Maximum Voting Power", referenced only in rule 1953, is defined
+implicitly to be a limit for votes that are to be counted, not the highest
+possible Voting Power an entity can achieve.
+
+
+Note how the wording supports this, as the last statement indicates that
+additional votes may be cast. Rule 1950 states:
+
+
+      An entity may cast as many votes as e wishes on a Proposal, up
+      to the limit determined by that entity's Voting Power on
+      that Proposal, with the exception that no Player may vote on an
+      Ordinary Proposal unless e is an Oligarch at the time e casts
+      eir vote. An entity may cast its votes in any combination e
+      wishes.
+
+So the "Maximum Voting Power" is a limit on how many votes are to be
+counted, and the "Voting Power" is a limit on how many votes may be cast.
+
+If the "Maximum Voting Power" was taken to mean the maximum "Voting
+Power", than it would not be possible to cast votes over the "Maximum
+Voting Power" which would render the last statement of Rule 1953
+senseless.
+
+Thus a player may vote twice on a Sane Proposal if eir "Voting Power" is 2
+or greater, but by eir "Maximum Voting Power" of 1, the second vote would
+not be counted.
+
+Note also that Rule 754 states that differences in spelling, grammar,
+dialect, and synonymous substitution are inconsequential, but NOT
+capitalization, which is held by custom to differentiate words from their
+standard meanings.
+
+========================================================================
+
+Judge Stuart's Arguments:
+
+The caller argues that "it is Agoran custom for capitalized words to mean
+something different than their standard meaning".  I would tend to agree
+with this, and believe I have sufficient evidence to support the idea -
+but it is not relevant to my considerations, as I will demonstrate below.
+
+There are two interpretations we might apply to the phrase "Maximum Voting
+Power" in R1953.  It is either the maximal value of the quantity "Voting
+Power" defined in R1950, or a separate quantity (as Syllepsis claims).
+What definition could we give this separate quantity, to make R1953
+meaningful?
+
+The rule is quite clearly trying to restrict the number of valid votes an
+entity may cast on a Sane Proposal, by means of setting a limit called
+"Maximum Voting Power".  In order to achieve such a goal, we can either
+change the number of votes e may legally cast, or else reject some of
+those votes by another means.  But R955 insists that "the uncancelled
+votes that have been legally cast shall be counted".  Therefore R1953
+cannot simply throw out these votes - it must either cancel them, or deem
+them not legally cast.
+
+R683 says that a vote "may be cancelled as other Rules require".  Some
+Rules make specific provision to cancel votes (see R1965 "Complacent
+Oligarchy", R1717 "The Senate"), and say so explicitly.  R1953 does not
+explicitly speak of cancelling a vote.
+
+It seems then that the wording of R1953 - "shall be deemed invalid" -
+restricts the number of countable votes by deeming some to be not "legally
+cast", allowing them to be thrown out under R955.
+
+
+What are the differences between the two interpretations?  If we assume
+the Statement of the CFJ to be FALSE, the effect of R1953 is to re-set the
+upper bound on Voting Power that is otherwise set by R1950.  The number of
+votes an entity may cast is the same as the number to be counted, and the
+same as eir Voting Power.  A sensible and consistent arrangement.
+
+If, however, we take the statement to be TRUE, then an entity may cast
+votes up to eir Voting Power (R1950), but some of these will be
+irrelevant, since they will then be declared "not legally cast" (R1953).
+Thus the number of votes an entity may legally cast is now different from
+eir Voting Power.  The same effect is achieved, but an unnecessary
+inconsistency is introduced into the Ruleset.
+
+
+I can find nothing in the Rules nor in previous CFJs to force a decision
+either way.  I believe that Agoran custom allows capitalized words to take
+different meanings from uncapitalized words (eg see quoted material from
+CFJ2 1124 and 795 below). However, this does not help, since we can simply
+say that Maximum Voting Power is exactly that upper bound on Voting Power
+that R1950 defines (although R1950 does not explicitly name it).
+
+The decision, therefore, seems to rest on matters of common sense and the
+interests of the game.  With this in mind, I feel I must choose the
+interpretation that maintains simplicity and consistency in the Ruleset.
+I therefore judge the Statement to be FALSE.  The action of R1953 is to
+re-set the value of Maximum Voting Power defined in R1950.
+
+The matter of which rule takes precedence to decide an entity's actual
+Maximum Voting Power is outside the remit of this CFJ.  While the present
+Ruleset may make the current judgement somewhat irrelevant to the
+operation of the game, future amendments following the principle set down
+here will lead to a more sensible, simpler body of Rules than had the
+caller's suggestion been adopted.
+
+Finally, I would like to suggest an unofficial annotation to R1950, along
+the lines of:
+[CFJ 1282: The maximum values of Voting Power defined here may be re-set
+by other Rules.]
+
+========================================================================
+
+Judge Stuart's Evidence:
+
+Judge's Evidence I
+
+CFJ 1124:  Quoted from caller Blob's Argument (CFJ judged TRUE)
+
+  Votes sent to the agora-discussion mailing list are neither "sent
+  publically" nor "sent privately", and so are not valid when voting is
+  Unrestricted.
+
+The truth of the statement hinges on the interpretation of the words
+"publically" and "privately" in the previous paragraph. I argue that
+the preceding two paragraphs define the meanings of these words, albeit
+indirectly, by defining the meaning of "Public" and "Private" voting.
+
+>From the definition of Public voting, from paragraph (d)(1) a vote
+can only by made "publically", if it is sent to the Public Forum.
+It is well established that the agora-discussion mailing list is NOT
+a Public Forum. So votes sent to this list are not "sent publically".
+
+The definition of Private voting is less unambiguous, but states that
+a vote must be "sent privately to the Vote Collector". The term "sent
+privately" is not well-defined, but a common sense interpretation rules
+out agora-discussion as a private means of communication.
+
+Therefore, votes sent to agora-discussion are neither "sent publically"
+nor "sent privately", and so, by paragraph (d)(3), are not valid votes
+when the mode of voting is Unrestricted.
+
+==========================================================================
+
+Judge's Evidence II
+
+CFJ 795:  Quoted from Argument of pro-Justiciar Zefram
+
+"It is well established in Agora that capitalisation of a noun where it
+would not normally be capitalised impies that the word refers to a game
+Entity, often having little to do with the normal English meaning of the
+word."
+
+========================================================================

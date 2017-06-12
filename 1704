@@ -1,0 +1,82 @@
+==============================  CFJ 1704  ==============================
+
+    Primo Corporation is a protectorate.
+
+========================================================================
+
+Caller:                                 Zefram
+Barred:                                 BobTHJ
+Barred:                                 Primo Corporation
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       17 Jul 2007 18:23:06 GMT
+Assigned to Murphy:                     18 Jul 2007 21:20:01 GMT
+Judged TRUE by Murphy:                  19 Jul 2007 06:13:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Primo Corporation's charter contains the statement
+
+      This agreement submits to Agora as its benevolent protector,
+      and permits Agora to make changes to this Charter without prior
+      consent of the parties to this agreement.
+
+However, stating it doesn't make it so.  The charter contains no
+explicit provisions to amend the charter at Agora's behest, and none
+stating what constitutes Agora expressing a desire to modify the charter.
+The statement quoted above could be interpreted as implicitly implementing
+changes ordered by Agora if there were a definition of what constituted
+such an order, but in the absence of such a definition there is at the
+very least hopeless unclarity in any attempt to make the protectorate
+provision self-implementing.
+
+It might be possible to dispense with some of the explication that I
+promote if R2147 defined a concrete procedure for the modification of
+a protectorate's ruleset that a protectorate were required to interface
+with.  But R2147 is weak and handwavey, not actually specifying anything
+about the mechanism to use.  The obligation therefore falls on the
+protectorate to define the concrete mechanism.  Primo's charter utterly
+fails to do so.  It is equally weak and handwavey.
+
+There is nothing at all, in either Agora or Primo, specifying the
+mechanism by which Agora, in its role as protector of Primo, can
+make changes to Primo's ruleset/charter.  Waving one's hands is not
+a substitute for specific rule text.  The fact that R2147 and Primo
+section 1 wave their hands equally vigorously, and in exactly the same
+way, does not help them to interface.
+
+It is, of course, true that because the Primo charter is a binding
+agreement governed by Agoran law the rules of Agora could modify it
+arbitrarily.  This is true whatever the Primo charter says, even if the
+Primo charter specifically prohibits it, so this is certainly not the
+cooperative kind of process referenced by R2147's language "must *allow*
+Agora unrestricted access" (emphasis added).  Even if, hypothetically, the
+Primo charter were to define the direct action of Agoran instruments to be
+the mechanism by which Agora is "allowed" to make changes to the charter,
+I believe this would still not qualify under R2147, because the Primo
+charter lacks the capacity to allow or prohibit changes by this mechanism.
+That this mechanism is effective is due to Agora, not due to Primo.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+> There is nothing at all, in either Agora or Primo, specifying the
+> mechanism by which Agora, in its role as protector of Primo, can
+> make changes to Primo's ruleset/charter.
+
+Yes, there is.  If an Agoran proposal to change Primo's ruleset/charter
+is adopted, then Rule 106 says it takes effect (subject to restriction
+by other rules; Rule 2147 disqualifies proposals with AI < 2).  Primo's
+charter gives all Agoran mechanisms the same force of law from Primo's
+viewpoint that they have from Agora's viewpoint.
+
+========================================================================

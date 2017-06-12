@@ -1,0 +1,89 @@
+==============================  CFJ 1363  ==============================
+
+    Rule 1969 does not prohibit redeeming Bonds that have already been
+    redeemed.
+
+========================================================================
+
+Caller:                                 Sir Toby
+Barred:                                 Taral
+Barred:                                 root
+Barred:                                 Crito
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Sir Toby:                     08 May 2002 14:53:20 GMT
+Assigned to OscarMeyr:                  09 May 2002 23:51:07 GMT
+Judged FALSE by OscarMeyr:              16 May 2002 22:13:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The species of a Bond does not indicate whether or not a Bond has
+already been redeemed. Since all Bonds of the same species are fungible,
+it is impossible to treat Bonds that have been redeemed differently from
+Bonds that have not been redeemed. I argue that rule 1969 conflicts with
+rule 1966. Both rules are of the same power. Neither rule states that it
+defers to, or takes precedence over the other. I argue that rule 1966
+takes precedence over rule 1969, according to rule 1030, leaving various
+bits of rule 1969 without force.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1966, in part:
+
+----------------------------------------------------------------------
+A species of Bond consists of all Bonds with the same issuer, face value
+and maturity date.  All Bonds of a given species are fungible.  In any
+transaction involving Bonds, it is sufficient to identify the Bonds
+involved by species.
+----------------------------------------------------------------------
+
+Rule 1969:
+
+----------------------------------------------------------------------
+Rule 1969/0 (Power=1)
+Redemption of Bonds
+
+      Any entity which possesses an unredeemed, mature Bond may redeem
+      it by transferring the Bond to its Issuer, expressing in eir
+      Notice of Transfer the purpose of redeeming the Bond.
+
+      When the issuer of a Bond receives an unredeemed, mature Bond
+      from another entity where the transfer was executed for the
+      purpose of redemption, the Bond in question is thereby redeemed,
+      and the issuer incurs a debt to the transferor of that Bond for
+      the face value of the bond.
+
+      If the issuer of a Bond receives an unredeemed, immature Bond
+      from another entity where the transfer was executed for the
+      purpose of redemption, the issuer incurs a debt to the
+      transferor for that Bond; but if the Bond in question matures
+      while still in the possession of the issuer, this debt is
+      cancelled and the issuer incurs a debt to the transferor of that
+      Bond for the face value of the Bond, as if the transfer had been
+      made at the time the Bond matured.
+
+      Once redeemed, a Bond may not be further transferred.
+----------------------------------------------------------------------
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+CFJ 1362 establishes that the fungible nature of Bonds, per Rule 1966,
+makes Bonds interchangeable within a species but not indistinguishable.
+Therefore, Rule 1966 does not conflict with Rule 1969 in this matter.
+Rule 1969 clearly prohibits the transfer of redeemed Bonds, and permits
+only unredeemed Bonds to be transferred for redemption.  Therefore, the
+Court returns a judgment of FALSE.
+
+========================================================================

@@ -1,0 +1,191 @@
+=========================  Criminal Case 3226  =========================
+
+    I violated Rule 2143 by publishing inaccurate information in the
+    quoted report.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              GUILTY/COMMUNITY SERVICE
+
+========================================================================
+
+History:
+
+Called by omd:                          07 Jun 2012 19:52:08 GMT
+Defendant omd informed:                 07 Jun 2012 19:52:08 GMT
+Assigned to Murphy:                     12 Jun 2012 14:28:22 GMT
+Judged GUILTY/COMMUNITY SERVICE by Murphy:
+                                        12 Jun 2012 14:54:54 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, Jun 7, 2012 at 12:34 PM, omd <c.ome.xk@gmail.com> wrote:
+> THE SHORT LOGICAL RULESET
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+omd admitted to the error pointed out by Yally, which occurred
+while omd (then nicknamed c. / comex) was Rulekeepor, and did
+most of the legwork to search for any similar errors that would
+still have substantive effects.
+
+Community service:  Publish a corrected ruleset and attempt to
+ratify it.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+[Yally, Sat, 9 Jun 2012 01:06:56 -0400]
+
+So, I just realized the rules never took notice of proposal 6671,
+adopted on March 22, 2010 and affecting Rule 1367. This also means
+that parts of proposal 6717 were ineffective.
+
+[omd, Sun, 10 Jun 2012 16:47:31 -0700]
+
+The most recent ruleset ratification was on 2011-01-02.
+
+Here is a list of proposals which were listed as adopted since May
+2009 but do not appear anywhere in current_flr.txt,v.  As you can see,
+it's a bit of a mess, though as far as I can tell the only ruleset
+inaccuracies implied are a missing rule (which wasn't repealed when it
+should have been) and a missing amendment.
+
+(I'll deal with these, fix the history, and rulekeep the latest batch
+tomorrow or so.)
+
+Legend:
+nc: no rule changes
+np: text to replace not present
+ip: insufficient power
+
+6272 nc
+6287 nc
+6302 nc
+6303 nc
+6335 (I think I thought this was too vague to do anything - see CFJ 2548)
+6348 nc
+6375 np
+6405 (originally posted as adopted but actually rejected)
+6423 ip
+6443 np
+6451 nc
+6477 nc
+6503 np
+6514 np
+6545 nc
+6556 nc
+6568 np
+6587 (condition failed)
+6607 FAIL (2010-01-31) - This should have taken effect:
+
+Amend Rule 1769 by replacing
+    b) the future event would occur during a Holiday, then the
+       future event occurs 72 hours after the end of that Holiday
+       instead.
+with
+    b) the future event would occur during a Holiday or during the
+       72 hours immediately following a Holiday, then the future
+       event occurs 72 hours after the end of that Holiday instead.
+
+This was ratified away on 08-27, before the next Holiday.
+
+6612 (originally posted as adopted but actually rejected)
+6614 (originally posted as adopted but actually rejected)
+6645 np
+6661 FAIL (2010-03-10) - Should have removed an obsolete clause from
+Rule 2203.  The next amendment to that rule, a month later, replaced
+the entire rule.
+
+6671 FAIL (2010-03-22) - This is the one that started this
+investigation.  The rule text was ratified on 08-27; in the meantime,
+a decision to award ais523 a degree was initiated but, as far as I can
+tell, never resolved.  Since all but one of the votes on that decision
+were for FAILING GRADE, the change shouldn't have affected anything.
+But the ruleset should note that Proposal 6717 only made a power
+change, and the change by ratification.
+
+6680 nc
+6683 nc
+6684 nc
+6685 nc
+6711 (originally posted as adopted but actually rejected)
+6719 (bad wording)
+6720 (condition failed because proposals were enacted out of order)
+6738 (condition failed)
+6740 nc
+6745 nc
+6753 nc
+6756 nc
+6759 ip
+6770 np
+6783 nc
+6786 nc
+6795 nc
+6797 nc (actually amended a contest)
+6800 nc
+6806 FAIL (2010-08-27) - This included a ratification but also a power
+change to Rule 1551 (3 to 3.1) to fix ratification of rulesets.  The
+next (and last) ruleset ratification on 2011-01-02 took advantage of
+the fix, then promptly unfixed it.
+6843 np
+6858 (originally posted as adopted but actually rejected)
+6862 nc
+6883 np
+6884 (redundant rule repeal)
+6902 ip
+6912 (condition failed)
+6947 nc
+6966 nc
+6971 FAIL, but not mine? (2011-01-02) - Murphy tried to pay a fee to
+move emself in the List of Succession, referring to CFJ 2941, then
+made votes that, if invalid, would affect the outcome of 6918 and 6925
+(which would be rejected) and 6971 (which would be adopted).  I think
+that, the way CFJ 2941 came out, they were invalid... but neither
+Wooble (the actual Rulekeepor at the time) or I (not a player, but
+keeping track independently) changed the ruleset to refject it.  Does
+anyone remember if there's some context I'm missing?
+
+The voting results were disclaimered, so they didn't self-ratify.  If
+the votes were invalid, then rules 2177 and 2321 have different
+history, and we have this rule floating around:
+
+Rule 2142/5 (Power=2)
+Support Democracy
+
+      A player CAN, with 2 support, change an ordinary decision in its
+      voting period to be democratic.
+
+6971 itself had no effect.  The SLR ratification took effect an hour
+later, but the ratified document predated both.
+
+7016 nc
+7017 nc
+7019 FAIL (2011-05-05) - This should have taken effect:
+
+Amend Rule 1868 (Judge Assignment Generally) by replacing "second-class
+players" with "entities other than first-class players".
+
+This did not break the subsequent change.
+
+7037 ip
+7046 (missing framing text)
+7052 nc
+7089 np
+7094 nc
+7096 nc
+7111 (originally posted as adopted but actually rejected)
+7115 ip
+7129 nc
+7140 nc
+7144 ip
+
+========================================================================

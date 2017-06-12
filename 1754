@@ -1,0 +1,52 @@
+==============================  CFJ 1754  ==============================
+
+    message <46EE1408.50406@socal.rr.com> had the effect of resolving
+    the Agoran decisions on proposals 5222 and 5223
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  Taral
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       28 Sep 2007 20:44:37 GMT
+Assigned to Taral:                      28 Sep 2007 20:48:36 GMT
+Judged FALSE by Taral:                  29 Sep 2007 01:22:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The message in question included a section that purported to specify
+the option selected by Agora for each of those decisions:
+
+|[This notice resolves the Agoran decisions of whether to adopt the
+| following proposals.  For each decision, the options available to
+| Agora are ADOPTED (*), REJECTED, and FAILED QUORUM (!).]
+|
+| NUM   FL  AI   SUBMITTER   TITLE
+| 5222  O0  1    root        Consistent terminology, please
+| 5223  O1  1.7  root        Trial Simplification
+
+Since the indicator charater at the beginning of each proposal line is
+space, this indicates that the option selected in each case is REJECTED.
+However, the voting on both proposals was unanimously in favour, and
+both met quorum (of 3, due to rubberstamp), so a correct resolution of
+these decisions would indicate ADOPTED.
+
+I pointed out the error a few hours later, so the self-ratification
+instituted by R2034 does not occur.  I believe these Agoran decisions
+remain unresolved, and I recommend a ruling of FALSE.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Seems quite reasonable. I judge FALSE.
+
+========================================================================

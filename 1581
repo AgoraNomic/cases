@@ -1,0 +1,182 @@
+==============================  CFJ 1581  ==============================
+
+    Proposal 06-006, titled "Quick Conclave Fix" and submitted by root
+    on February 20, 2006, is democratic.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         20 Feb 2006 23:25:51 GMT
+Assigned to G.:                         27 Feb 2006 02:20:27 GMT
+Judged FALSE by G.:                     01 Mar 2006 16:27:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+By the first paragraph of Rule 1933/10 (and Rule 2040/4), the chamber
+of a proposal defaults to democratic if its adoption index is at least
+2, ordinary otherwise.  The proposal in question originally had an
+adoption index of 1, which was changed to 3 in a later message, as
+permitted by rule 1483/12.  What does this imply regarding the chamber
+of the proposal?
+
+There are two possibilities.  First, that the "default" value is
+simply a value selected for the proposal at the time of submission
+in the absence of any other indicated value.  Under this
+interpretation, the proposal would still be ordinary, as nothing
+would have acted to modify its chamber.
+
+The second possibility is that the "default" is the value that is
+carried when no other value has been set.  In this case, the proposal
+would now be democratic as well as AI-3, since the proposal's chamber
+has not yet been explicitly set.
+
+========================================================================
+
+Caller's Evidence:
+
+Archived copy of the submission of proposal 06-006:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2006-February
+/005614.html
+
+Archived copy of the message changing the AI of proposal 06-006:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2006-February
+/005615.html
+
+
+Rule 1933/10 (Power=2)
+A Proposal's Chamber
+
+      Chamber is a stuck proposal switch with values ordinary and
+      democratic.  The default chamber for a proposal with an adoption
+      index of at least 2 is democratic.
+
+      An ordinary proposal with an adoption index of two or greater is
+      stalled.  Rules to the contrary notwithstanding, a stalled
+      proposal is undistributable, and if a proposal is distributed
+      that was stalled at the time of distribution, its chamber shall
+      immediately and automatically be set to democratic.
+
+
+Rule 1483/12 (Power=1)
+Definition of Proposals
+
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
+
+      A legislator submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal.  As soon as
+      possible afterward, the Promotor shall add this proposal to the
+      Proposal Pool.
+
+      Before the Promotor distributes a proposal, its proposer may
+      modify its adoption index by announcement.  The default adoption
+      index of a proposal is one.
+
+      All players are legislators.
+
+
+Rule 2040/4 (Power=2)
+Switches
+
+      A switch is a set of states associated with a class of entities.
+      Each switch shall have a default state, which if not otherwise
+      specified shall be the first state mentioned in the rule
+      defining the switch.
+
+      The recordkeepor for a class of entities shall also maintain
+      records of any switches associated with that class, as well as
+      the current state of the switch for each entity of the class.
+      If the recordkeepor is required to publish a report, that report
+      shall include records of these switches.  The rules may require
+      a different player to maintain and report these records.
+
+      Whenever an entity is created in a class of entities associated
+      with a switch, it shall be in the state of the switch specified
+      by the order or provision creating it; if no state is specified,
+      it shall be in the default state of the switch.
+
+      Whenever an entity joins a class of entities associated with a
+      switch, the entity shall be in the default state of the switch.
+
+      Whenever an instrument indicates that a switch on an entity is
+      set or changed to some state, and the rules do not otherwise
+      forbid it, the entity shall come to be in that state and
+      simultaneously cease to be in any other state of the switch.
+
+      A player who may flip a switch on an entity to some state other
+      than the current state of the switch may do so by announcement.
+      In eir announcement, e must indicate the entity, switch, and new
+      state.  Upon this announcement, provided it is valid, the switch
+      is set to the named state.
+
+      A switch is loose unless the rules define it as stuck.
+
+      An executor of an entity may flip any of the loose switches on
+      that entity, unless the rules otherwise prohibit doing so.
+
+      The stuck switches on an entity can be flipped only when the
+      rules so indicate.
+
+      Whenever a switch is created, or becomes associated with a class
+      of entities, then each entity in the class that had previously
+      been in a state that is now a state of the switch shall continue
+      to be in that state; all other entities in the class shall be in
+      the default state of the switch.
+
+      Whenever a state ceases to be a state of a switch, all entities
+      in the class that had previously been in that state shall be in
+      the default state of the switch.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+I am swayed by Maud's argument that one switch exists for the "Proposal" class
+of entities, but it behaves differently for different subclasses.  R2040
+states that a switch by definition has one default, but R1933 states that the
+Chamber switch has two defaults (One for each subclass of AI<2 and AI>=2
+Proposals). R1933 has precedence over R2040 (R1482), so Chamber has two
+default states.
+
+When a Proposal is submitted it has a default AI of 1 (R1483), and the Chamber
+is set to the default for that subclass (R2040), which is Ordinary (R1933).
+But as subsequent events change the AI, they do not automatically change the
+Chamber to the default for the new subclass.
+
+Further, by Rule 1483p2, it is clear that a body of text becomes a Proposal by
+publication.  (R1483p2 speaks of intent to "become" a proposal, implying that
+the proposal is not a proposal until publication).  And the instant it becomes
+a Proposal, its AI defaults to 1 (R1483p3).
+
+It is not possible to perform actions on a proposal before it exists, so by
+necessity, ANY attempt to change AI by announcement (e.g., R1843p3) must occur
+*after* the proposal is published.
+
+So the typical sentence "I submit the following Proposal and request an AI of
+2", to be effective, must be construed as two sequential actions (R1527).
+Therefore, such a statement has the effect of first submitting the Proposal
+(which gains a default AI of 1 and a default Chamber of Ordinary), and then
+immediately after changing the AI to 2.  But this does not change the Chamber.
+
+(Aside:  The convenience of placing the body of the proposal after the whole
+sentence does not change the sequence, the first action is "to submit the
+following proposal" and the phrase "following proposal" contains enough
+context to substitute the body of the proposal as being the first action,
+provided the body is in the same message as the submission statement).
+
+So some recent proposals have been distributed while stalled. While they were
+switched to democratic when distributed (R1933p2) and therefore their results
+stand, their distribution was, in fact, in (unknowing) violation of the rules.
+
+========================================================================

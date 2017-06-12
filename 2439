@@ -1,0 +1,72 @@
+==============================  CFJ 2439  ==============================
+
+    A non-player who is a party to a contest is a contestant in that
+    contest.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         01 Apr 2009 19:40:14 GMT
+Assigned to ais523:                     02 Apr 2009 02:54:25 GMT
+ais523 recused:                         02 Apr 2009 02:56:38 GMT
+Assigned to woggle:                     02 Apr 2009 03:43:02 GMT
+Judged FALSE by woggle:                 04 Apr 2009 18:26:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I argue for a judgement of FALSE in both of these cases.  Rule 2199
+and Rule 2234 each refer to the "contestants" of a contest, a term
+which is not defined by the rules.  Standard definitions of
+"contestant" include "a person who takes part in a contest or
+competition" and "One taking part in a contest; a competitor".  By
+these definitions, I argue that the persons who are contestants in a
+contest are those parties who are eligible to be awarded points by the
+contest; i.e., the parties to the contest who are players, other than
+the contestmaster.
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+I'd argue for TRUE, although it may be technically IRRELEVANT; both
+R2234 (directly) and R2199 (indirectly, because you can't award points
+to a non-player) base their effects on the number of players who are
+contestants.  I'd argue that the ordinary language definition would
+include all parties who aren't the contestmaster, and R2234's "players
+who were contestants" might imply that there could be contestants who
+aren't players.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+It's not immediately relevant, but it's not irrelevant because, if one
+of the parties who was never a player during March were to register
+now, it would affect the number of points to be awarded.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+The only non-bookkeeping/refereeing function of contests recognized by
+the rules is the ability to award and revoke points and to award medals
+to its non-contestmaster player parties. As such, the most sensible
+definition of 'contestant' (for the purposes of interpreting rule 2234,
+the only place as far as I know where the distinction is relevant) is
+based on the ability to the receive these awards or penalties.
+
+========================================================================

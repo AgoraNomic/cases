@@ -1,0 +1,64 @@
+==============================  CFJ 3325  ==============================
+
+    Wes CAN cash The Unexpected Cashing 5.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Walker
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 May 2013 23:17:15 GMT
+Assigned to Walker:                     27 May 2013 22:31:15 GMT
+Judged FALSE by Walker:                 01 Jun 2013 14:18:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Let's say there is only one promise on the tree, the Unexpected Cashing 1.
+It clearly could not be cashed directly from the tree, because if it were
+transferred and cashed, the cashing condition would not be true.
+
+However, this also means that The Unexpected Cashing 2 could not be cashed,
+as The Unexpected Cashing 1 could not be.
+
+Etc.
+
+However, when we get to The Unexpected Cashing 5, there are plenty of
+qualifying cashable promises on the tree.  Right?
+
+========================================================================
+
+Caller's Evidence:
+
+I create the following 5 promises for each of [N] below equal to
+1,2,3,4,5. (specifying this as a single action is an administrative
+convenience, as they are non-fungible promises).
+
+Title:  The Unexpected Cashing [N].
+Text:  Hello world [N].
+Conditions for Cashing:  There are no promises owned by the tree entitled
+'The Unexpected Cashing [M]' where [M] is a number higher than [N], and
+there is at least one promise owned by the tree, that CAN be cashed via
+transfer and cashing from the tree, whose title is in part 'The Unexpected
+Cashing'.
+
+I transfer The Unexpected Cashing 1, The Unexpected Cashing 2,
+The Unexpected Cashing 3, and The Unexpected Cashing 4 to the Tree.
+
+I transfer The Unexpected Cashing 5 to Wes.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+Also FALSE, because there is no permutation of cashings which is ultimately
+legal. This is a finite process and can be totally evaluated.
+
+========================================================================

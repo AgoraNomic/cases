@@ -1,0 +1,77 @@
+==============================  CFJ 1568  ==============================
+
+    root is Noisy.
+
+========================================================================
+
+Caller:                                 OscarMeyr
+Barred:                                 root
+Barred:                                 Quazie
+
+Judge:                                  Michael
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by OscarMeyr:                    22 May 2005 14:30:30 GMT
+Assigned to Michael:                    25 May 2005 07:05:15 GMT
+Judged TRUE by Michael:                 25 May 2005 23:08:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+root posted to a Public Forum that e made emself Quiet.  However, a post
+to a Public Forum makes a player Noisy.  So root's attempt to make
+emself Quiet also made Noise.
+
+========================================================================
+
+Caller's Evidence:
+
+http://www.agoranomic.org/pipermail/agora-business/2005-May/004748.html
+
+Quazie wrote:
+
+>> I tell mysefl to be quiet and read things before i post.
+
+
+Did you just make yourself Quiet?  Huh.  I make myself Quiet.
+
+-root
+
+
+Rule 1042/20 (Power=1)
+Deregistration Due to Silence
+
+      Noisiness is a stuck player switch with values noisy, quiet, and
+      silent.
+
+      A non-noisy player becomes noisy whenever e posts to a public
+      forum.
+
+      A player may flip another player's noisiness from noisy to
+      quiet, unless e has done so for another player within the past
+      24 hours.
+
+      If a player has been quiet continuously for one month, or
+      inactive continuously for three months, e becomes silent.
+
+      Any player may publish a Notice of Abandonment, identifying
+      another player and alleging that that player has abandoned the
+      game. A Notice of Abandonment is or becomes invalid if the
+      player identified in it is not, or ceases to be, silent.
+
+========================================================================
+
+Judge Michael's Arguments:
+
+root is indeed noisy, having recently posted to the Public Forum at
+the time the CFJ was made.  He could not have made himself Quiet in
+that post (appearances to the contrary notwithstanding) because
+rule 1042 only allows a Player to change another Player's noisiness,
+not their own.
+
+========================================================================

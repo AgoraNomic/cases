@@ -1,0 +1,65 @@
+==============================  CFJ 3098  ==============================
+
+    CFJ 3072a has been judged.
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by woggle:                       17 Aug 2011 21:54:47 GMT
+Assigned to omd:                        10 Sep 2011 19:05:38 GMT
+Judged FALSE by omd:                    11 Sep 2011 04:31:09 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+OVERRULE/NOT GUILTY doesn't specify prejudice and therefore
+is not a valid judgment in this case. Therefore they are not "such
+published opinions" as required by R2341 to cause the panel to act:
+          As soon as possible after a judicial panel is assigned to a
+     case, each member of the panel SHALL publish an opinion
+     indicating a _valid judgement_ to assign to the case -- only the
+     _last such published opinion_ for each member is used to determine
+     the outcome.
+
+(emphasis added)
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+On 4 Sep 2010, Rule 911 was amended to legislate implicit prejudice
+(APPEAL or REMAND = without, REMIT or OVERRULE = with).
+
+On 16 May 2011, the relevant text was moved from Rule 911 to Rule 2341
+with some modifications, omitting the text on implicit prejudice.  Does
+it persist as game custom?
+
+========================================================================
+
+Judge omd's Arguments:
+
+We do implicitly accept shortcuts like "vote on a proposal" or "make a
+proposal Democratic"*, where, as in this case, the literal message
+parses syntactically but not semantically, but as far as I know, in
+all those cases there is only one possible action the player could
+have meant (which even a moron in a hurry would be able to figure
+out), and there is little benefit in forcing em to make it explicit.
+In this case, there are two-- e could have meant to judge with or
+without prejudice-- and in general it's possible that e might have
+forgotten to decide which one e wanted, so rejecting the message has
+the advantage that e could go ahead and decide.  Although game custom
+strongly suggests e meant to include prejudice, I'm skeptical that
+it's strong enough to remove the ambiguity.  FALSE.
+
+* much to my displeasure three years ago (has it really been that long?)
+
+========================================================================

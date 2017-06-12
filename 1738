@@ -1,0 +1,98 @@
+==============================  CFJ 1738  ==============================
+
+    rule 2149's obligation on a knave to not publish statements that e
+    believes are true is in conflict with the knave's right of
+    participation in the fora.
+
+========================================================================
+
+Caller:                                 Zefram
+Barred:                                 omd
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       29 Aug 2007 13:33:54 GMT
+Assigned to root:                       29 Aug 2007 13:38:42 GMT
+Judged TRUE by root:                    29 Aug 2007 16:18:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 101(vi) provides that
+
+      Every player has the right of participation in the fora.
+
+This is reinforced by rule 478's provision that
+
+      No Player shall be prohibited from participating in the Fora.
+
+Rule 2149, after defining "knave" as a subtype of player, says that
+
+      A knave SHALL NOT publish statements that e believes are true or
+      which e is reckless regarding the veracity of.
+
+R101 and R478 are not explicit on what constitutes "participation" in
+the fora.  Applying common sense, the general purpose of a forum is for
+people to send information and ideas to each other, which is naturally
+done by sending messages that the author believes are true.  The public
+forum, specifically, has the major purpose of sending information, and
+is also the place for many game actions which are taken by means of a
+statement saying that the action is being taken.
+
+R2149's prohibition obviously impacts the ordinary way to disseminate
+information in a forum.  It will no doubt be argued by some that a
+knave could disseminate information by means of false statements, if it
+is understood that e habitually does so, but this would be a confusing
+arrangement and seems an unreasonable imposition on a player.  It's also
+incompatible with the various situations where the rules require a player
+to publish certain information.  I also note in passing that if a player
+were classed as a FOOL, being both knight and knave, e would be denied
+this possible escape.
+
+The situation for game actions that are taken by announcement is worse.
+Rules that provide for action by announcement generally will trigger on
+statements such as "I hereby vote FOR proposal 5678.".  If the attempt
+at action is successful then the statement is true, and if the actor
+believed that the action would be successful then e believed that the
+statement would be true.  There is no provision whereby a person can
+take such actions by means of a false statement.  A statement such as "I
+do not hereby vote FOR proposal 5678." would not succeed in performing
+an action, because it does not claim to perform an action, and would
+be a true statement of fact.  Prohibiting a player from posting true
+statements thus denies em the right to take many game actions, which is
+a major aspect of participation in the public forum.
+
+R2149 thus generally prohibits a knave from participating in the public
+forum in any reasonable manner, and specifically prohibits em from those
+actions that are the main purpose of the public forum.  This is clearly
+at odds with eir R101 right.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+The last paragraph of 2149:
+      Merely quoting a statement does not constitute publishing it for
+      the purposes of this rule.  Any disclaimer, conditional clause,
+      or other qualifier attached to a statement constitutes part of
+      the statement for the purposes of this rule; the truth or
+      falsity of the whole is what is significant.
+actually makes it relatively easy (unfortunately) for a knave to
+perform game actions anyway, or otherwise publish true statements.
+For example, a TTttPF is generally accepted as performing actions even
+though the main body of the message is a quote, and therefore
+irrelevant to Rule 2149.
+
+========================================================================
+
+Judge root's Arguments:
+
+I concur with the Initiator's arguments and enter a judgement of TRUE.
+
+========================================================================

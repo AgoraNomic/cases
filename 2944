@@ -1,0 +1,71 @@
+==============================  CFJ 2944  ==============================
+
+    The power of Rule 2324 is 3.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 omd
+
+Judge:                                  Roujo
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       22 Dec 2010 06:58:31 GMT
+Assigned to Roujo:                      10 Jan 2011 01:02:25 GMT
+Roujo recused:                          10 Jan 2011 19:27:07 GMT
+Assigned to ais523:                     16 Jan 2011 22:08:01 GMT
+Judged FALSE by ais523:                 23 Jan 2011 18:21:57 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+omd wrote:
+
+> On Thu, Dec 16, 2010 at 12:45 PM, omd <c.ome.xk@gmail.com> wrote:
+>> Accordingly, I intend, With Notice, to cause Rule 2324 to amend Rule
+>> 2223 by appending the text: "Also, the power of Rule 2324 is set to
+>> 2."
+>
+> With notice, I do so.
+[snip]
+> The power of Rule 2324 is now 2, or 3 if the ratification scam already
+> set it to 3.  (In that case, the victory rule attempts to set it to 2
+> but fails due to power.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Two possible escalations to look at here.
+
+First, the ratification issue. The whole issue of "unless otherwise
+specified" is a tricky one; what counts as a sufficiently clear
+specification? We have two implied specifications in rule 2202 (the
+title, and the use of "without objection", which does not match a
+template in rule , rather than "without objections" or "without N
+objections" which would); and an explicit specification in the (at the
+time) lower-powered rule 2324. However, this is obviously irrelevant;
+the ruleset at the time states, at power 3 and taking precedence over
+all other rules of power <= 3, that ratification without objection
+cannot cause the mutation of a rule (and this presumably includes the
+mostly direct but slightly indirect method omd tried to use). Thus, even
+if the ratification happened (which is dubious), it wouldn't do
+anything.
+
+The other scam, an attempt to remove the AI of an Agoran Decision in
+order to make it a different type of decision and auto-adopt it, is more
+interesting. There's a timing issue here, though, in that as far as I
+can tell, CFJ 2944 was called before the escalation is supposed to have
+happened. Thus, although interesting, the escalation in question does
+not change the judgement of this CFJ.
+
+========================================================================

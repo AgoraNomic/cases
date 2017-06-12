@@ -1,0 +1,37 @@
+==============================  CFJ 1670  ==============================
+
+    where a proposal's distribution has a different text from the
+    proposal's submission, and the proposal is adopted, the version of
+    the proposal that takes effect is the distributed version
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  The Hanging Judge
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       16 May 2007 10:10:59 GMT
+Assigned to The Hanging Judge:          23 May 2007 20:11:11 GMT
+The Hanging Judge recused:              07 Jun 2007 21:06:19 GMT
+Assigned to Murphy:                     07 Jun 2007 21:06:19 GMT
+Judged TRUE by Murphy:                  08 Jun 2007 06:59:10 GMT
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The only way for a distribution to have different text and still be
+effective is if the difference does not create an ambiguity in
+meaning.  Thus, if the proposal is adopted, then both versions take
+effect (since they are equivalent to one another).
+
+========================================================================

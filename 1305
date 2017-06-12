@@ -1,0 +1,90 @@
+==============================  CFJ 1305  ==============================
+
+    A Player, while on Hold, may not be made silent by Rule 1042 until
+    two months after going on Hold.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Kelly
+Barred:                                 Taral
+
+Judge:                                  pTang
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           03 Jul 2001 05:28:39 GMT
+Assigned to pTang:                      03 Jul 2001 05:45:45 GMT
+Judged TRUE by pTang:                   05 Jul 2001 09:21:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1042/15 (Power=1), Zombification Due to Silence, reads in part:
+
+'If a Player has been Quiet continuously for two weeks, e becomes Silent.
+If a Player has been Inactive [on Hold] continuously for two months, e
+becomes Silent.'
+
+This presents two distinct waiting periods for being silenced:
+  (mechanism 1) being quiet for two weeks; or
+  (mechanism 2) being Inactive (on Hold) for two months.
+
+What if a Player is both Quiet and on Hold?  Which mechanism has
+precedence?  To that, we turn to Rule 1584, which at Power=2 has
+precedence over 1042:
+
+Rule 1584/0 (Power=2) Absolvement of Duty for On Hold Players
+
+      An On Hold Player is not permitted to Vote on Proposals, make
+      Proposals, or hold Office, and cannot be required by the Rules
+      to perform any duty or action, unless that Rule specifically
+                                                      ^^^^^^^^^^^^
+      states that it can require On Hold Players to perform actions.
+      ^^^^^^
+      This Rule takes precedence over every other Rule.
+
+Note that the mechanism (1) for becoming silent does not specifically
+state that it requires Players that are Quiet AND on Hold to post to avoid
+silence.  (The need to post to the PF to cease being Quiet is clearly a
+requirement in the Rule 1584 sense, as it is required to prevent the loss
+of PoA).
+
+If anything, mechanism (1) implicitly defers to mechanism (2) which
+requires a two month waiting period.  By 1584, then, the requirement for
+Quiet Players to post within two weeks to avoid silence is voided for on
+hold Players.  1584 and 1042's mechanism (2) together allow only one
+method for on-hold Players becoming silent, regardless of quietness, and
+that mechanism requires a two-month wait.
+
+========================================================================
+
+Judge pTang's Arguments:
+
+There are indeed two mechanisms for making a Player Silent:
+
+1) A player who is Quiet for two continuous weeks becomes Silent.
+2) A player who has been Inactive for two months becomes Silent.
+
+But there is no issue which mechanism "takes precedence."  Either one is
+sufficient cause for a player to become Silent.  Whenever a Player satisfies
+either condition, e becomes Silent.
+
+The only remaining issue is whether mechanism #1 making an Inactive Player
+Silent is proscribed by R1584.
+
+It is.
+
+The mechanism implicitly imposes a requirement (post) and a consequence of
+failing to follow through on that requirement (Player becomes Silent).
+
+It cannot do this to Inactive Players, since it does not explicitly state
+that the requirement operates on Inactive Players.
+
+The CFJ is TRUE.
+
+========================================================================

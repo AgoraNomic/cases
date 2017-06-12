@@ -1,0 +1,58 @@
+==============================  CFJ 2543  ==============================
+
+    The IADoP's report includes the date eir previous report was
+    submitted, not the date eir current report is being submitted.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  BobTHJ
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by Yally:                        26 May 2009 19:32:18 GMT
+Assigned to BobTHJ:                     29 May 2009 21:13:58 GMT
+Judged UNDECIDABLE by BobTHJ:           02 Jun 2009 04:33:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This essentially boils down to the timing of events. If the IADoP's report is
+considered to have been submitted prior to the data contained within, then the
+judgment should be FALSE. If the IADoP's report is considered to have been
+submitted after the data contained within, then the judgment should be TRUE.
+If they are considered to be submitted simultaenously, then the judgment
+should be UNDECIDABLE.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2138
+
+      The IADoP's report includes the following:
+
+      d) The date when that office's reports were last published.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+When I was IADoP a few years back, my list of
+dates-last-published routinely listed "(as of this message)"
+for the IADoP itself.
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+It seems to me (unless someone can provide better evidence) that the
+report is submitted at the same time as it is listed, therefore I
+judge UNDECIDABLE.
+
+========================================================================

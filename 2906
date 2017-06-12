@@ -1,0 +1,85 @@
+==============================  CFJ 2906  ==============================
+
+    It would be illegal for me to publish a public message consisting
+    only of the following text: "I publish the following Notice of
+    Violation: ais523 violated/is currently violating the power-2 rule
+    2230, committing the Class-4 Crime of Libel, by publishing this
+    NoV.".
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       22 Nov 2010 20:37:35 GMT
+Assigned to scshunt:                    25 Nov 2010 18:27:29 GMT
+scshunt recused:                        12 Dec 2010 22:41:45 GMT
+Assigned to G.:                         12 Dec 2010 23:04:07 GMT
+Judged FALSE by G.:                     13 Dec 2010 04:54:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2230 makes it illegal to knowingly issue an NoV with incorrect
+information. (This is not quite the same thing as issuing an NoV with
+knowingly incorrect information; you can know you've issued the NoV even
+without knowing whether the information is true or not.) An NoV is not a
+statement.
+
+Clearly, in the hypothetical inside the CFJ, the statement "ais523
+violated/is currently violating the power-2 rule 2230, committing the
+Class-4 Crime of Libel, by publishing this NoV." is messy, thus
+incorrect. Therefore, the NoV as a whole is correct, when analysed in a
+top-down fashion as rule 2319 requires (as it contains a correct
+allegation). Thus, in this hypothetical situation I haven't actually
+violated rule 2230, even though I can correctly NoV myself for having
+violated it! The only conclusion I can see here is that I've
+simultaneously violated and not violated rule 2230. (This sort of thing
+can be expected, given that rule 2319 attempts to defy the normal rules
+of logic.)
+
+Questions to consider here: does this count as being illegal? As
+violating a rule? Is there a difference in this situation? Does it count
+as both TRUE and FALSE, or neither? Would that cause the resulting CFJ
+to be undecidable?
+
+For bonus points, work out whether that hypothetical situation would
+violate rule 2215.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2319/0 (Power=3)
+Messy Statements
+
+      A statement is messy if its truth value cannot be evaluated in a
+      top-down fashion without encountering some form of infinite
+      regress, such as (but not limited to) self-reference.
+
+      For the purposes of the rules, messy statements are considered
+      inaccurate and incorrect regardless of their truth value.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+R2230/15 reads:
+       Knowingly issuing a NoV with incorrect information is ILLEGAL,
+       and the Class-4 Crime of Libel.
+To be considered libel and illegal, you must know the information is
+false.  Since the statement creates a paradox/undecidable loop, you
+can't know that the statement is false.  FALSE.
+
+========================================================================

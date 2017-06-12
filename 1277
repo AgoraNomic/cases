@@ -1,0 +1,224 @@
+==============================  CFJ 1277  ==============================
+
+    Lindrum's message
+    <http://www.escribe.com/games/agora-business/m2571.html> was sent
+    after the end of the Oligarch Auction announced in Murphy's message
+    <http://www.escribe.com/games/agora-business/m2530.html>.
+
+========================================================================
+
+Caller:                                 Ziggy
+
+Judge:                                  Grech
+Judgement:                              
+
+
+Judge:                                  pTang
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Ziggy:                        25 Feb 2001 22:42:29 GMT
+Assigned to Grech:                      26 Feb 2001 07:01:53 GMT
+Grech recused:                          18 Mar 2001 20:06:16 GMT
+Assigned to pTang:                      18 Mar 2001 20:06:16 GMT
+Judged TRUE by pTang:                   18 Mar 2001 21:28:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1887 states:
+      (i) End of Auction: If, one week after the Auction started,
+          there have been no Bids made, the Auction ends, and has no
+          winner. Otherwise the Auction ends when 72 hours have
+          passed without a valid Bid higher than the Nth-highest Bid
+          (at the time the Bid is made) having been made. The Auction
+          shall end 14 days after the Auction has started, if it has
+          not ended earlier.
+
+More than 72 hours passed between Goethe's Bid of 175 (which wasn't the
+high Bid, anyway) and Lindrum's message; under any interpretation of the
+Rule, the high Bid was certainly no later than Goethe's, as no Bids took
+place then, so the Auction ended before Lindrum's message.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1887/9 (Power=1)
+Default Procedure for Auctions
+
+      When an Auction is required and the procedure is not defined
+      elsewhere, the following standard Auction procedure shall be
+      used. Details specified herein are defaults which may be
+      modified by other Rules for specific situations.
+
+      (a) Auctioneer: The Auctioneer is responsible for collecting
+          bids and announcing the result of the Auction. Unless
+          otherwise specified, the Speaker shall be the Auctioneer.
+
+      (b) Bidders: Every Player not on Hold may Bid in an Auction. On
+          Hold status is measured at the time a Player sends eir Bid.
+
+      (c) Auction Currency: Each Auction is conducted in one
+          particular currency. The Rule requiring a particular
+          Auction must specify the currency to be used, or the
+          Auction cannot take place.
+
+      (d) Number of Items: Each Auction is conducted for 1 or more
+          identical items. Throughout this Rule, N indicates the
+          number of items up for bid in the Auction.
+
+      (e) Start of Auction: The Auction begins at the time the first
+          correct and legal announcement that an Auction is begun, as
+          defined in other Rules, is sent to the Public Forum,
+          together with the identity of the Auctioneer, the Auction
+          Currency, the number of items, and the value of the
+          Starting Bid.
+
+      (f) Starting Bid: The Starting Bid is the minimum possible
+          value of a bid. If not otherwise specified, the Starting
+          Bid is equal to the MUQ of the Auction Currency.
+
+      (g) Making Bids: Each Bidder may make as many Bids as e desires
+          during the Auction. A Bid is a message, sent to the Public
+          Forum, announcing that the sender is bidding in that
+          particular Auction, and the amount of eir Bid. A Bid is
+          only valid if it satisfies the following conditions:
+          (1) The Bid is not made before the start of the Auction, or
+              after its end.
+          (2) The amount Bid is a multiple of the MUQ of the Auction
+              Currency.
+          (3) The amount Bid is no less than the Starting Bid.
+
+      (h) Canceling Bids: A Bid may be cancelled by its Bidder by
+          posting such to the Public Forum, clearly identifying the
+          Bid to be cancelled, while the Auction is in progress.
+
+      (i) End of Auction: If, one week after the Auction started,
+          there have been no Bids made, the Auction ends, and has no
+          winner. Otherwise the Auction ends when 72 hours have
+          passed without a valid Bid higher than the Nth-highest Bid
+          (at the time the Bid is made) having been made. The Auction
+          shall end 14 days after the Auction has started, if it has
+          not ended earlier.
+
+      (j) Winning Bids: When the Auction ends, the winning Bids are
+          the N largest uncancelled valid Bids in that auction (or
+          all valid uncancelled Bids, if there were less than N valid
+          uncancelled Bids). Ties shall be broken in favor of earlier-
+          submitted bids.
+
+          The Final Auction Price is:
+          (1) The amount of the Nth highest Bid, if there were N or
+              more valid uncancelled Bids in the auction;
+          (2) The Starting Bid, if there were fewer than N valid
+              uncancelled Bids.
+
+          At the end of the Auction, each winner bidder incurs a debt
+          for each of eir winning bids. As soon as possible after the
+          end of the Auction, the Auctioneer shall announce the
+          winning Bids and issue to each winning Bidder a separate
+          bill for each of eir winning Bids.
+
+          Unless specified otherwise, the Auctioneer shall transfer an
+          Auctioned item to the winning Bidder as soon as possible
+          after the bill for that item is paid.
+-------------------
+Murphy's announcement:
+    From: "Ed Murphy" <ford@jps.net>
+    Subject: BUS: One Oligarch Auction ends, and another begins
+    Date: Thu, 22 Feb 2001 01:19:28 -0800
+    Message-ID: <006701c09cb1$55244a40$6ec4edd0@eddie>
+
+    Michael won the last Oligarch Auction.  I hereby bill em for eir winning
+    bid of 200 Stems.
+
+    An Auction for the other vacancy in the Oligarchy now begins.  The
+    Auctioneer is me, the Bidding Currency is Stems, the Starting Bid is
+    1 Stem, and the number of items is one.  Only Politicians may bid.
+
+
+    --
+    Ed Murphy <ford@jps.net>
+http://rivendell.fortunecity.com/meridian/309/
+               "Most of the time, it seemed sublimely unaware of its limbs,
+                though it was beginning to suspect it had hands."
+-------------------
+Ziggy's bid of 25:
+    Message-Id: <l03130302b6bb18148ee5@[63.121.116.158]>
+    Date: Thu, 22 Feb 2001 14:25:22 -0500
+    From: David Glasser <me@davidglasser.net>
+    Subject: BUS: Oligarchy Bid
+
+    I bid 25 Stems in the ongoing Oligarch Auction.
+
+    --Ziggy
+
+    me@davidglasser.net
+-------------------
+Ziggy's bid of 240:
+    Message-Id: <l03130303b6bb191acc74@[63.121.117.181]>
+    Date: Thu, 22 Feb 2001 14:30:04 -0500
+    From: David Glasser <me@davidglasser.net>
+    Subject: BUS: Oligarchy Bid
+
+    I bid 240 Stems in the ongoing Oligarchy auction.
+
+    --Ziggy
+
+    me@davidglasser.net
+-------------------
+Goethe's bid of 175:
+    Date: Thu, 22 Feb 2001 11:47:05 -0800 (PST)
+    From: Kerim Aydin <kerim@u.washington.edu>
+    Subject: BUS: Oligarchy Bidding
+    Message-ID:
+<Pine.A41.4.33.0102221145540.138048-100000@homer01.u.washington.edu>
+
+     I Bid 175 Stems in the Ongoing Oligarch Auction.
+
+     -Goethe.
+-------------------
+Goethe's cancellation:
+    Date: Thu, 22 Feb 2001 12:12:55 -0800 (PST)
+    From: Kerim Aydin <kerim@u.washington.edu>
+    Subject: Re: BUS: Oligarchy Bidding
+    Message-ID:
+<Pine.A41.4.33.0102221212310.138048-100000@homer01.u.washington.edu>
+
+     I Withdraw my bid of 175 Stems in the Ongoing Oligarch Auction.
+
+     -Goethe.
+-------------------
+Ziggy's 240 cancellation:
+    From: david@canterbury.epicverse.com
+    Date: Sun, 25 Feb 2001 14:28:02 -0500
+    Message-Id: <200102251928.OAA30085@canterbury.epicverse.com>
+    Subject: BUS: Auction
+
+    I cancel my bid of 240 Stems in the Oligarch Auction.
+
+    --Ziggy
+-------------------
+Lindrum's bid attempt:
+    Message-Id: <3.0.6.32.20010225155416.0092bdf0@pop.panix.com>
+    Date: Sun, 25 Feb 2001 15:54:16 -0500
+    From: Lindrum <lindrum@panix.com>
+    Subject: BUS: Oligarch Bid
+
+    I bid 26 stems in the current Oligarch Auction.
+
+    Lindrum
+
+========================================================================
+
+Judge pTang's Arguments:
+
+I find CFJ 1277 to be TRUE.  The caller's argument seems entirely
+correct.
+
+========================================================================

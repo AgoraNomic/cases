@@ -1,0 +1,198 @@
+=========================  Criminal Case 3318  =========================
+
+    Murphy violated Rule 2143 by failing to report on the PVN and on
+    Virtue last week.
+
+========================================================================
+
+Caller:                                 scshunt
+Barred:                                 Murphy
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  Wes
+Judgement:                              NOT GUILTY
+
+Appeal:                                 3318a
+Decision:                               REMAND
+
+
+Judge:                                  Wes
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              GUILTY/DISCHARGE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      06 May 2013 14:18:37 GMT
+Defendant Murphy informed:              06 May 2013 14:18:37 GMT
+Assigned to Machiavelli:                12 May 2013 22:02:34 GMT
+Machiavelli recused:                    13 May 2013 22:38:10 GMT
+Assigned to Wes:                        27 May 2013 22:27:57 GMT
+Judged NOT GUILTY by Wes:               29 May 2013 18:09:34 GMT
+Appealed by scshunt:                    29 May 2013 18:12:44 GMT
+Appealed by omd:                        29 May 2013 19:18:15 GMT
+Appealed by Walker:                     29 May 2013 20:51:43 GMT
+Appeal 3318a:                           29 May 2013 20:51:43 GMT
+REMANDED on Appeal:                     09 Jun 2013 18:02:47 GMT
+Assigned to Wes:                        09 Jun 2013 18:02:47 GMT
+Wes recused:                            22 Jun 2013 18:59:07 GMT
+Assigned to G.:                         22 Jun 2013 18:59:07 GMT
+Judged GUILTY/DISCHARGE by G.:          23 Jun 2013 17:46:07 GMT
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+1) To my knowledge, PVN is not required to be reported.
+
+2) To my knowledge, each player's Virtue is at its default value and is
+thus not required to be reported.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+Rule 2356:
+      The Police Vigilance Number (PVN) is an integer tracked by the
+      CotC.  Virtue is a person switch tracked by the CotC, with
+      values Virtuous (default) and Unvirtuous.
+
+Rule 2379:
+      If the rules define a report as including a list, then while
+      that list is empty, that report includes the fact that it is
+      empty.
+
+Ignorance of the rules is not a defence.
+
+========================================================================
+
+Gratuitous Arguments by Wes:
+
+This CFJ involves two allegations with subtle but important
+differences between them, and so we shall address each allegation
+separately.
+
+Rule 2356 defines the Police Vigilance Number (PVN) as "an integer
+tracked by the CotC." This clearly requires the CotC to be aware of
+the current value of the PVN, but we can find no Rules reference
+requiring that this value be reported in any way.
+
+An argument could be made that "track" is somehow synonymous with a
+requirement to include the information in a report. We contest this
+claim, noting that Rule 2162 addresses the reporting of Switch values
+which are tracked by an Office, while no Rule addresses the reporting
+of any values other than Switches which are tracked by an Office.
+Similarly, Patent Titles are tracked by the Herald without being a
+Switch, and Rule 649 explicitly defines the associated reporting
+requirements. This would appear to reinforce our conclusion that a
+requirement to track an entity must also include an explicit
+requirement to report on said entity, else such a requirement does not
+exist.
+
+Rule 2356 further defines Virtue as "a person switch tracked by the
+CotC, with values Virtuous (default) and Unvirtuous." As this is a
+Switch, Rule 2162 adds an associated reporting requirement: "That
+officer's report includes the value of each instance of that switch
+whose value is not its default value." Thus, the CotC is indeed
+required to report any Virtue Switches which are not Virtuous.
+Currently, there are no such Switches, and so there is no requirement
+to report any Virtue Switch values.
+
+The caller's argument is that these two Rules are equivalent to a
+requirement to publish a list, as defined in Rule 2379, which states
+"If the rules define a report as including a list, then while that
+list is empty, that report includes the fact that it is empty." We
+will note, however, that Rule 2139 ("a list of all Players"), Rule
+2166 ("a list of all instances of that class and their owners"), Rule
+2388 ("The Dictionary is a list of common terms and shorthands"), Rule
+2350 ("a list of co-authors"), Rule 1607 ("a list of all proposals in
+the Proposal Pool"), and Rule 649 ("a list of each Patent Title that
+at least one entity Bears") all explicitly define a series of values
+as a "list," while no Rule does the same for the value of this, or
+any, Switch.
+
+As such, we find that the Rules do not compel the CotC to include the
+PVN in eir report, nor do the Rules compel any reporting around Virtue
+Switch values until and unless one or more Virtue Switches have a
+non-default value. We would, however, encourage the CotC to include
+this data in eir report as a convenience to other Players.
+
+========================================================================
+
+Judge Wes's Arguments:
+
+Our verdict is therefore NOT GUILTY.
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+I intend, with two support, to appeal this judgment, as the judge did not
+consider precedent, common sense, or the good of the game in interpreting the
+word 'tracked'.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I support.  It is unreasonable to interpret "tracked by X" as a
+requirement that X personally keep track of something, as it is never
+the style of this ruleset to write a requirement that someone do
+something as a bare statement that e does it, and prima facie, we
+should assume that a given clause does not mean to govern unknowable
+matters such as a person's mental processes (although there are
+exceptions such as R1504 (d)).  That "tracking" something refers to
+reporting on it is solidified not only by its definition in the
+context of switches, but the use in multiple rules (1871, 2340) of the
+wording "tracked by <person> in <report>".  Rule 649's summary of the
+Herald's duty to track Patent Titles, which is then described in
+detail later on (that rule, for the record, is a fairly old piece of
+drafting) should be considered analogous to Rule 693's summary of the
+steps of an Agoran decision, which are described in other rules: the
+detailed explanation overrides the summary, but if the summary were to
+be present alone in the ruleset, we would still have to follow it as
+closely as possible.
+
+The argument about lists of things is more reasonable, but it should
+be noted that that clause was added specifically to address reports on
+switches whose instances were all at their default values.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, PVN and Virtue reporting are two separate things.  Along the
+lines of CFJ 3336 allowing separate acts to be bundled into a single
+criminal trial, I'll treat these as severable (i.e., not treat "PVN and
+Virtue reporting" as a single logical, which is not a defined duty).
+
+PVN And Virtue are different.  PVN is not a switch and is not a defined
+part of any report.  As I stated as an Appeals Justice, the reasonable
+standard for tracking is that the tracker be able to demonstrate within
+a reasonable time after a request that e is tracking it (a report is
+a very handy way to do this, but not required).  As this is generally
+new territory (first judicial decision on tracking things that aren't
+in reports), there's no reason Murphy should be expected to know this,
+so for PVN e would be not guilty due to R1504(d).
+
+Virtue is a switch, however, and thus part of a report.  Rule 2379
+makes it clear that the empty list must be reported, and Murphy, as an
+officer, should have been aware of this.  Therefore I find no defense
+that would mitigate GUILTY.
+
+In terms of punishment, there are a couple mitigating factors:
+(1) It is easy to miss without a reminder, and (2) Murphy has been
+specifically removed from holding postulated office for other lapses
+in service.  Therefore, I find e has seen sufficient punishment for
+recent lapses overall.
+
+Final decision:  GUILTY/DISCHARGE.
+
+========================================================================

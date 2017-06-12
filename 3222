@@ -1,0 +1,104 @@
+==============================  CFJ 3222  ==============================
+
+    There exist CFJs with ID numbers 3217 and 3218, and they are
+    assigned to ais523.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       03 Jun 2012 20:11:00 GMT
+Assigned to omd:                        12 Jun 2012 14:32:41 GMT
+omd recused:                            21 Jun 2012 12:54:31 GMT
+Assigned to Machiavelli:                21 Jun 2012 12:58:24 GMT
+Machiavelli recused:                    02 Jul 2012 19:36:36 GMT
+Assigned to scshunt:                    06 Jul 2012 13:38:09 GMT
+scshunt recused:                        25 Jul 2012 16:43:10 GMT
+Assigned to G.:                         25 Jul 2012 20:37:34 GMT
+Judged TRUE by G.:                      25 Jul 2012 23:30:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The record of the CFJs seem to be corrupted both on the CotC
+website and the email assigning them, so I'm not convinced it's
+identified the CFJs well enough to successfully assign an ID number or a
+judge. (And I'm not sure offhand what the CFJs refer to, or even if they
+are genuinely a criminal and inquiry case linked to each other, which is
+unusual.)
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, 2012-06-03 at 10:44 -0700, Ed Murphy wrote:
+> Detail: http://zenith.homelinux.net/cotc/viewcase.php?cfj=3217
+>
+> =========================  Criminal Case 3217  =========================
+>
+>      Sun, 27 May 2012 14:14:46 +0100
+>
+> ========================================================================
+[snip]
+> ==============================  CFJ 3218  ==============================
+>
+>      Sun, 27 May 2012 14:14:46 +0100
+>
+> ========================================================================
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+The CotC website has since been fixed.  (I sent a fix announcement, so
+3217-18 should exist and be assigned to ais523 now, even if they weren't
+at the time this case was initiated.)
+
+Looking up the timestamp in the a-b archive turns up exactly one
+message, written by FKA441344, including two CFJs (matching 3215-16) and
+a proposal and two more CFJs (matching 3217-18 except for the botched
+copy+paste of statements).  In context, while this effort shouldn't have
+been necessary, it doesn't seem unreasonable either.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The CotC is required to "assign" a case, but is not specifically required
+to publish it, so indirect references (e.g. "I assign the above quote
+this ID number and to this judge") would work for the CotC - we've gotten
+spoiled by the excellent and consistent database system.
+
+Still, the forensics described by Gratuitant Murphy are right on the
+border of what would be reasonable; as it requires cross-referencing not
+merely the time stamp but multiple messages (finding 3215-3216 case
+assignments to eliminate two of the four CFJ statements in the original
+message, as well as finding the message itself).
+
+I find that, as the reference was generally uniquely identifiable, the
+assignment did go as Murphy intended for the purpose of an Inquiry case
+about its existence and assignment; therefore, TRUE.   However, were a
+criminal case brought against ais523 for failure to judge, e would be
+(using a stricter standard of reasonable doubt) NOT GUILTY by R1504(d).
+
+========================================================================

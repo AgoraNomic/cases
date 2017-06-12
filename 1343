@@ -1,0 +1,93 @@
+==============================  CFJ 1343  ==============================
+
+    The Payroll Clerk may pay out 50 Stems to Neil for Neil's holding of
+    the Promoter Office in January 2002.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Crito
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           01 Feb 2002 18:30:30 GMT
+Assigned to Crito:                      07 Feb 2002 20:00:42 GMT
+Judged TRUE by Crito:                   13 Feb 2002 16:57:34 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+By the definition of "Pay Out" in Rule 1479, a debt from the Bank is
+created automatically when the Rules require that a Player Pay Out a
+quantity at a certain time.  This is hereafter known as a Pay Out Event.
+
+In January 2002, Neil held the Office of Promoter (and other Offices) for
+over 16 days, and is therefore due Periodic Compensations for the held
+Offices as per Rule 1940.  However, the timing of the Pay Out Event in
+Rule 1940 is not the beginning of the month, but "As soon as possible
+after the beginning of each month."  This is arguably an additional ASAP,
+over and above the ASAP mentioned in Rule 1479.
+
+At the beginning of February 2002 (Midnight GMT Feb 1), the Promoter's
+Salary in the Treasuror's Budget was 0 Stems.  If the Pay Out event
+occured at this moment, then this judgement should be FALSE, for the Event
+has already occured with a Salary of 0 Stems.
+(Budget shown in http://www.escribe.com/games/agora-official/m2086.html).
+
+However, later on Feb. 1 (after midnight GMT), the Treasuror's Budget was
+amended to be 50 Stems for the Promoter's Office.  If the Pay Out Event
+occurs "as soon as possible" after Feb. 1, then this judgement should be
+TRUE, for the event hasn't yet occured and won't until asap after Feb. 1.
+(In this case, the 'may' instead of 'shall' in the CFJ statement is to
+account for the possibility of the Budget changing again before the Pay
+Out Event).
+(Budget shown in http://www.escribe.com/games/agora-business/m6104.html).
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1940/3 (Power=1)
+Periodic Compensations
+
+      The Rules may designate certain compensations to be periodic
+      compensations.  As soon as possible after the beginning of each
+      month, each periodic compensation required to be paid out shall
+      be paid out by the Officer required to do so.
+
+      The Minimum Income, the Distributor's Gratuity, the Speaker's
+      Gratuity, and the Salary for each Office are periodic
+      compensations.
+
+      The Payroll Clerk shall pay out the Minimum Income to each
+      Player, and shall further pay out to each Player the designated
+      Salary for each Office that Player held for at least 16 days of
+      the previous month.
+
+
+Rule 1479/3 (Power=1) [excerpt]
+
+Definition of "Pay Out" and "Bill"
+
+      Whenever a Rule requires a Player to pay out one or more
+      Properties to some entity, the Bank shall incur a debt to that
+      entity for those Properties, and the named Player shall, as
+      soon as possible, post a public notice of the debt.
+
+========================================================================
+
+Judge Crito's Arguments:
+
+I find myself in agreement with the caller's argument. The Rules specify
+that the Salary is paid out ASAP after the first of the month and do not
+explicitly state from which time the "designated Salary" is determined.
+The reasonable conclusion is that "designated Salary" refers to the
+Salary listed in the Budget at the time of the payment. I therefore
+return a Judgement of TRUE.
+
+========================================================================

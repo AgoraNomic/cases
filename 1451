@@ -1,0 +1,82 @@
+==============================  CFJ 1451  ==============================
+
+    Peekee has published a message containing the text "MessageXX", in
+    emails with titles 1,2,3,4,5,6,7,8,9.
+
+========================================================================
+
+Caller:                                 Peekee
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Peekee:                       06 Mar 2003 20:31:22 GMT
+Assigned to root:                       10 Mar 2003 06:49:48 GMT
+Judged TRUE by root:                    18 Mar 2003 04:49:06 GMT
+
+========================================================================
+
+Judge root's Arguments:
+
+The Rules do not give any clear statement as to what constitutes a message.
+The American Heritage Dictionary gives the following definition:
+
+1. a. A usually short communication transmitted by words, signals, or other
+      means from one person, station, or group to another.
+   b. The substance of such a communication; the point or points conveyed:
+      gestured to a waiter, who got the message and brought the bill.
+
+Not much help there, although definition b suggests that a message may be
+defined by its contents rather than its framing.
+
+We could assume that "message" means "email message", but nothing in the
+Rules indicates that Agoran communication must be conducted over email.  In
+fact, R478 appears to have been specifically designed such that fora need
+not necessarily be mailing lists, a notion which I've always liked and have
+no desire to destroy here.
+
+Perhaps we should go with the identity given in Hofstadter's _Godel,
+Escher, Bach_*, which defines a message as having 1) a frame message, a set
+of signals that indicate to the message receiver that there is a message to
+be interpreted; 2) an outer message, a set of signals that indicate how the
+message is to be interpreted; and 3) an inner message, the ideas that are
+intended to be communicated.
+
+Applying this identity to Peekee's "MessageXX" and "This is a single
+message" emails, we might produce the following mappings:
+
+Frame message: In each case, a set of emails was received. Since we are
+accustomed to receiving email, and since we are accustomed to finding
+messages inside email (so long as the subject is not "Lose weight in the
+shower!"), it is reasonable to conclude that the frame message is the email
+medium itself.
+
+Outer message: Peekee's first of emails were sequentially numbered 1 to 9,
+and the second set were marked A and B.  They were also sequentially
+ordered by date and were very closely spaced in time.  I can say that I for
+one immediately began to piece the messages together when I saw this
+connection, and it seems likely that others did the same.  Therefore, it is
+not unreasonable to conclude that this ordering comprises an outer message
+suggesting that the individual emails should be pieced together to form a
+whole message.
+
+Inner message: Once the frame message and outer message have been found,
+the inner messages are clear: "MessageXX" and "This is a single message"
+are the two inner messages.
+
+Therefore, I find that Peekee did publish the messages "MessageXX" and
+"This is a single message", and I return judgements of TRUE in both CFJs
+1451 and 1452.  However, I note that both of these were exceedingly simple
+cases of non-standard messages. Messages that are more complex or less
+clear will require testing by CFJ and may be found to lack one or more
+components of Hofstadter's identity of messages.
+
+*I don't know off-hand whether the idea was Hofstadter's or somebody
+else's, and I don't have my copy with me to check, so I'll just cite
+Hofstadter here.
+
+========================================================================

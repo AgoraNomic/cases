@@ -1,0 +1,77 @@
+==============================  CFJ 3296  ==============================
+
+    At the time that I judged CFJ 3293 IRRELEVANT, the judgement of
+    IRRELEVANT was appropriate.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  11 Feb 2013 17:32:56 GMT
+Assigned to woggle:                     15 Feb 2013 22:04:38 GMT
+Judged TRUE by woggle:                  15 Feb 2013 23:00:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Sun, Feb 10, 2013 at 9:44 PM, Kerim Aydin <kerim@u.washington.edu> wrote:
+> On Sat, 9 Feb 2013, Tanner Swett wrote:
+>> On Sat, Feb 9, 2013 at 5:01 PM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+>> > Inquiries are judged based on the game state when they are called, this
+is
+>> > inappropriate.
+>>
+>> That is not entirely true. Rule 591 "Inquiry Cases" states that valid
+>> judgements are "based on the truth or falsity of the statement at the
+>> time the inquiry case was initiated". However, only the judgements of
+>> FALSE, TRUE, and UNDECIDABLE actually refer to the truth or falsity of
+>> the statement. The judgement of IRRELEVANT uses the present tense, so
+>> whether or not it is appropriate depends on the relevance of the
+>> statement at the present time, not at the time that the case was
+>> called. Therefore, IRRELEVANT is an appropriate judgement.
+>
+> The phrasing of the IRRELEVANT clause is in a subordinate clause to the
+> overreaching statement of timing in R591, so it is far more reasonable
+> to go with the actual wording than a minor grammatical inconsistency.
+> I support the request for reconsideration.  -G.
+
+As I see it, there is no inconsistency here. Truth values are
+evaluated at the time the inquiry case was initiated, and everything
+else is evaluated at the time the inquiry case is judged; that is what
+the rules say, and nothing in the rules contradicts this. In my
+opinion, common sense also agrees with this interpretation: the
+relevance of the statement at the time the case was initiated is less
+important than the relevance of the statement at the time the case is
+judged.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3296 TRUE. The truth of the statement in question at the time the
+case was initiated had ceased to be relevant due to the repeal of R2386.
+
+Although a judgment of IRRELEVANT was contrary to game custom, the R591's test
+of relevance is at the time of judgment and not at the time of the initiation
+of the case. The requirements to evaluate statements at the time of initiation
+is limited to their truth values.
+
+G. suggests that we should read these as also applying to the test of
+relevance, but the text of the rule is unambiguous, including, e.g.,
+consistent use of "was" when talking about truth values and "is" when talking
+about relevance or comprehensibility. Additionally, the option to apply
+IRRELEVANT in cases where a statement's veracity "can be trivially determined
+from the outcome of another (possibly still undecided) judicial case that was
+not itself judged IRRELEVANT" would be substantially less useful if it were
+limited to outcomes at the time of the initiation of the inquiry case.
+
+========================================================================

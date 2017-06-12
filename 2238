@@ -1,0 +1,96 @@
+==============================  CFJ 2238  ==============================
+
+    When a person performs an action that takes parameters, e must
+    unambiguously specify the parameters.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          22 Oct 2008 20:39:26 GMT
+Assigned to Wooble:                     27 Oct 2008 07:18:26 GMT
+Judged TRUE by Wooble:                  04 Nov 2008 19:33:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+That is, if the Rules said "comex CAN award a player a Bean by
+announcement", must I unambiguously specify which player, or merely
+identify the player?
+
+========================================================================
+
+Caller's Evidence:
+
+R478 (in part):
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      specifying the action and announcing that e performs it.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+See also CFJ 2065.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge TRUE.  When taking an action, the parameters must be
+specified in a way that is unambiguous.  However, the caller's example
+does not seem to rely on the statement, so I'll clarify.
+
+> That is, if the Rules said "comex CAN award a player a Bean by
+> announcement", must I unambiguously specify which player, or merely
+> identify the player?
+
+In this case, any announcement that "identifies the player",
+regardless of whether it does so by name, necessarily unambiguously
+specifies em; that the meaning of "identify".  I statement of the form
+"I award a Bean to Wooble" is equivalent to "I award a Bean to the
+player who first assigned a judgment to CFJ 2238" if the statement is
+made after this judgment is submitted; either one would successfully
+award a Bean to me.
+
+In CFJ 2065, the specification was ambiguous at the time the message
+of intent was sent because it referred to events that hadn't yet taken
+place and which couldn't be predicted in advance. When announcing
+intent to perform a dependent action, one must unambiguously identify
+the parameters of the action that will be taken dependently in the
+future, and they must be unambiguous at the time intent is announced.
+Thus, if the rules said "comex CAN award a player a Bean without
+objection", a statement by comex of "I intend, without objection, to
+award a Bean to the player who first assigned a judgment to CFJ 2238"
+would allow em to award me a bean without objection if e made the
+statement after this judgment is submitted, but would not allow em to
+award me a bean if e made that announcement earlier than the
+submission of this judgment.
+
+Similarly, in CFJ 1334, the problem was an issue of ambiguity,
+although in that case the ambiguity was absolute, and not dependent on
+time.  In that case root announced eir intent to "select a different
+Bank Currency", giving neither a specification by name nor any sort of
+attempt to unambiguously identify a currency.  This failed because the
+intent was ambiguous, as would an action-by-announcement of "I hereby
+select a different Bank Currency" with no attempt to announce which
+currency it was. Had e instead announced eir intent to select the Bank
+Currency e had the most of at the time e posted the intent, this would
+succeed if and only if e held more of one currency than of any of the
+others. A specification of this form could be unambiguous, and thus
+legal, even if at the time the intent was posted it was unclear to
+which currency this referred due to slow recordkeeping or pending CFJs
+that would potentially correct eir platonic holdings of each currency.
+ For practical reasons, such announcements SHOULD be avoided to
+prevent cascading of
+unknown-at-the-moment-but-platonically-unambiguous gamestate.
+
+========================================================================

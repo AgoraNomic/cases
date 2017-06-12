@@ -1,0 +1,63 @@
+==============================  CFJ 3439  ==============================
+
+      CFJ 3429 has exactly one judgement, TRUE.
+
+========================================================================
+
+Caller:                       G.
+
+Judge:                        omd
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                 26 Oct 2014
+Assigned to omd:              09 Nov 2014
+Judged FALSE by omd:          10 Nov 2014
+
+========================================================================
+
+Caller's Arguments:
+
+In addition to the Moot not being resolved in a timely manner, the
+Moot process never explicitly voids the standing judgement.  What's
+the result?
+
+========================================================================
+
+Judge's Arguments:
+
+Rule 991 states:
+
+      At any time, each CFJ is either open (default), or has exactly
+      one judgement.
+
+This requires us to interpret "assigning" a judgement to a case as
+setting the 'current judgement' to that one, superseding any previous
+judgement.
+
+CFJ 3429 was originally judged FALSE (I assume successfully).  After
+reconsideration, a second FALSE judgement was assigned, and then the
+case was entered into Moot - on 11 Oct 2014 16:43:04.  On 25 Oct 2014
+23:31:20 G. attempted to resolve the Moot with various options, but
+failed, because it was over 14 days later.  Accordingly, while DISMISS
+was apparently winning(?), it certainly was not validly assigned as a
+judgement (and I don't see any reason the case would have a judgement
+of TRUE, per one of the statements below).  The only question is
+whether CFJ 3429 still has the second FALSE judgement - whether the
+term "entering a judgement into Moot" implies de-assigning the
+judgement without the Rules actually saying so.
+
+The thing is, even though Rule 991 explicitly defines CFJ judgement as
+a switchlike entity, nobody is required to track it, either now or in
+any recent proposal.  In normal circumstances, we might want to take
+into account whether a judgement remains assigned to its case for the
+purpose of determining its precedential value, but regardless of
+whether "Moot" implies de-assigning the judgement, it definitely
+implies that the mooted judgement should have minimal such value.
+Therefore, whether the judgement is still assigned is not relevant to
+the game.
+
+========================================================================

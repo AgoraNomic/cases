@@ -1,0 +1,34 @@
+==============================  CFJ 2940  ==============================
+
+    If Agora had no players and no public fora, a person could become a
+    Player by sending a message, clearly labelled as a public message
+    and indicating eir wish to become a player, to the null device on a
+    unix-like machine.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       20 Dec 2010 19:36:46 GMT
+Assigned to Yally:                      10 Jan 2011 00:56:41 GMT
+Judged TRUE by Yally:                   11 Jan 2011 16:35:35 GMT
+
+========================================================================
+
+Judge Yally's Arguments:
+
+Rule 478 says "A public message is a message sent via a public forum,
+or sent to all players and containing a clear designation of intent to
+be public." If there are no players, then sending a message to anyone
+or anything, such as the null device on a unix-like machine, would
+constitute sending the message to all players. Therefore, I judge this
+case to be TRUE.
+
+========================================================================

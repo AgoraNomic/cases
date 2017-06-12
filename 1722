@@ -1,0 +1,163 @@
+==============================  CFJ 1722  ==============================
+
+    On or around August 15, 2007, root initiated an Agoran decision to
+    make bd_ inactive.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         15 Aug 2007 16:51:45 GMT
+Assigned to Zefram:                     15 Aug 2007 17:01:01 GMT
+Judged FALSE by Zefram:                 20 Aug 2007 10:39:39 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 107/5 states that a notice of intent to initiate a decision is
+invalid if it lacks certain information, and the lack is correctly
+identified within one week.  The necessary information is:
+
+      (a) The matter to be decided (for example, "the adoption of
+          proposal 4781").
+
+      (b) A description of the class of eligible voters sufficient to
+          enable public agreement on which persons are eligible.  In
+          particular, an explicit list of the eligible voters is
+          always sufficient for this purpose.
+
+      (c) The identity of the vote collector.
+
+      (d) Any additional information required by the rules for this
+          announcement.
+
+The phrasing of root's announcement does not explicitly include the
+information required in sections (a), (b), or (c).  As far as I am
+aware, there is no additional information required by (d) in this
+case.
+
+However, I contend that (a) is implicit in the phrase "...intend to
+make bd_ inactive, without objection..."; that (b) is implicit in the
+phrase "...without objection of any active first-class player"; and
+that (c) is implicit in the phrase "I intend...".
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+root's message read
+
+|I intend to make bd_ inactive, without objection of any active
+|first-class player.
+
+E purportedly initiated an Agoran decision under R107:
+
+      An Agoran decision is initiated when a person authorized to
+      initiate it publishes a valid notice which sets forth the intent
+      to initiate the decision.
+
+R107 also sets other conditions regarding information that must be
+supplied.  Eir authority apparently comes from R1728:
+
+      An announcement of intent to perform a dependent action,
+      unambiguously describing the action and method of dependent
+      action, initiates the Agoran decision of whether to approve the
+      action.
+
+and R2130:
+
+      A player may flip another player's activity to Inactive without
+      objection.
+
+So for root's message to initiate an Agoran decision, eir message must:
+
+    a. announce intent to perform a dependent action;
+    b. unambiguously describe the action to be performed;
+    c. unambiguously describe the method of dependent action;
+    d. set forth intent to initiate the Agoran decision;
+    e. meet R107's conditions regarding information to be supplied.
+
+Criteria a and b are clearly met by "I intend to make bd_ inactive".
+Criterion c, not discussed in the initiator's arguments, is trickier.
+root described the method of dependent action as "without objection of
+any active first-class player".  R2124 names the method as "Without
+Objection", and simply using this name (as R2130 does) would clearly
+be adequate to unambiguously describe it, but root does not do that.
+Taking R2124 and R1728 together, the method amounts to "without the
+explicit objection of anyone who was an active first-class player
+at the start of the voting period except for the vote collector".
+root's description certainly does not incorporate all of these elements.
+
+However, it is customary to be quite liberal about the form of such
+notices.  root's use of the words "without objection" is certainly
+sufficient to distinguish Without Objection from any other defined method
+of dependent action.  The "of ..." clause is imprecise, but approximates
+the true electorate, and so I find that "without objection of any active
+first-class player" is sufficiently close to be regarded as a synonym for
+"Without Objection".  Thus criterion c is met.
+
+Criterion d is not met by any explicit wording.  However, this aspect has
+already been addressed by CFJ 1650.  In that CFJ judge Murphy found that
+a message that said "distribution of proposals" followed by a list of
+proposals was sufficient to initiate the Agoran decisions on whether to
+adopt those proposals, via rule 1607, despite never explicitly mentioning
+Agoran decisions.  I therefore find that an announcement of intent to
+perform a dependent action implicitly sets forth the intent to initiate
+the Agoran decision of whether to approve the action, even if there is
+no explicit mention of Agoran decisions.
+
+Criterion e is the only one considered by the initiator's arguments.
+Of the items that R107 requires to be supplied, (a) is clearly identified
+by the announcement of intent to perform a dependent action.  (c) is
+implicit due to the mechanics of dependent actions, just as in CFJ 1650
+the identity of the vote collector was implicit due to the mechanics of
+proposal distribution and adoption.  The additional information for (d)
+is only the items required by R1728 which I have already discussed.
+
+I am only in doubt regarding item (b), a description of the class of
+eligible voters.  R107 is not clear on whether the description needs
+to be accurate for the entire voting period or only instantaneously
+correct at the time of announcement.  I believe the latter is the most
+natural interpretation (albeit the less useful), so I am not troubled
+by root's omission of the "at the start of the voting period" part of
+R1728's specification of the electorate.  However, eir description was
+clearly in error in that it failed to exclude the vote collector, who
+was an active first-class player.
+
+If root had not attempted to describe the electorate then, applying
+CFJ 1650's findings, it would be clear that the correct description
+was implicit.  So it remains to be determined whether the "of any active
+first-class player" clause is to be interpreted as a specification of
+the electorate, and (if so) whether that overrides the correct implicit
+specification.  Applying the customary liberalism in the formulation of
+notices, I find that "without objection of ..." is an acceptable way
+to explicitly specify the electorate.  I also find that this explicit
+specification does override the implicit specification, because it would
+be most unreasonable and greatly to the detriment of the game if things
+that remain unsaid took precedence over those which are said.
+
+So root's notice specified the electorate explicitly but incorrectly.
+I find that this constitutes lack of required information within the
+meaning of R107.  This particular error has not been pointed out until
+now, and if it were not pointed out at all then root's notice would be
+effective under R107.  However, this judgement correctly identifies the
+lack, and does so well within the week allowed by R107.  Therefore root's
+message did not succeed in initiating an Agoran decision.
+
+There is also some uncertainty regarding the interpretation of the
+statement of this CFJ, due to which CFJ 1723 was called.  I don't need
+to rule on whether the statement of this CFJ is sufficiently synonymous
+with that of CFJ 1723, nor on whether either is an accurate description
+of the nature of the Agoran decision that root attempted to initiate.
+root's message did not initiate any Agoran decision, so I must judge
+FALSE.
+
+========================================================================

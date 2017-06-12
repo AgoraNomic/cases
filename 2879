@@ -1,0 +1,185 @@
+==============================  CFJ 2879  ==============================
+
+    ehird can make emself the holder of IADoP by announcement
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       07 Oct 2010 13:17:50 GMT
+Assigned to G.:                         17 Oct 2010 20:42:28 GMT
+Judged TRUE by G.:                      18 Oct 2010 04:26:08 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments/evidence coming soon.
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, 2010-10-07 at 14:07 +0100, Elliott Hird wrote:
+> On 7 October 2010 13:46, Elliott Hird <penguinofthegods@googlemail.com>
+wrote:
+> > If I'm not active, I become active. I intend, with 1 support, and
+> > conditional on this condition not being met, to become inactive.
+>
+> With 1 support (from ais523), and conditional on the above condition, I do
+so.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+First, the statement of the CFJ is merely designed to get this into
+paradox form; as IADoP is vacant (Wooble resigned recently), ehird can
+assume it if, and only if, e's active at the time. (Yes, this is a
+paradox attempt, just to clear up any doubt about that...)
+
+This scam exploits a bug in rule 1728, quoted here:
+{{{
+      A rule which purports to allow a person (the performer) to
+      perform an action by a set of one or more of the following
+      methods (N is 1 unless otherwise specified):
+
+       1) Without N Objections, where N is a positive integer no
+          greater than 8.
+       2) With N Supporters, where N is a positive integer.
+       3) With N Agoran Consent, where N is an integer multiple of 0.1
+          with a minimum of 1.
+       4) With Notice.
+
+      thereby allows em to perform the action by announcement if all
+      of the following are true:
+
+       a) A person (the initiator) announced intent to perform the
+          action, unambiguously and clearly specifying the action and
+          method(s) (including the value of N for each method), at most
+          fourteen days earlier, and (if the action depends on
+          objections or notice) at least four days earlier.
+
+       b) At least one of the following is true:
+
+            1) The performer is the initiator.
+
+            2) The initiator was authorized to perform the action due
+               to holding a rule-defined position now held by the
+               performer.
+
+            3) The initiator is authorized to perform the action, the
+               action depends on support, the performer has supported
+               the intent, and the rule authorizing the performance
+               does not explicitly prohibit supporters from performing
+               it.
+
+       c) Agora is Satisfied with the announced intent, as defined by
+          other rules.
+
+       d) If a set of conditions for the performance of the action was
+          given in the announcement of intent to perform the action,
+          all those conditions are met.
+
+      The actor SHOULD publish a list of supporters if the action
+      depends on support, and a list of objectors if it depends on
+      objections.
+}}}
+
+Unlike most other parts of the rules that care about whether something
+is "unambiguously" true, etc., this simply cares about whether a
+condition is "met", and thus, about the exact truth value of the
+statement. (And unlike CFJs, it doesn't have an UNDECIDABLE state or
+anything of that nature.) It's clear that the other parts of the
+dependent action are met; it's POSSIBLE for an active player to become
+inactive with 1 support (rule 2288: "If a person CAN perform an action
+by announcement, e CAN perform it with N support, [...], where N is a
+number appropriate for that form of dependent action."), intent was
+given within the last 14 days, the support was given (I supported) thus
+making Agora satisfied, and the initiator was the (attempted) performer;
+the only sticking point here is 1728d, which requires any set of
+conditions given in the intent to be met. The condition in question,
+"conditional on this condition not being met", is clearly paradoxical;
+yet its truth is what governs the success or failure of ehird's attempt
+to become inactive. And with no clause requiring clarity, unambiguity,
+or really anything else to disassociate the success of the action from
+the truth of the condition, the only conclusion is that it's undecidable
+whether or not alise managed to become inactive; unlike, say,
+registration where there's a requirement to be reasonably unambiguous,
+there's no rule that specifies a default for paradoxical actions here.
+Thus, I recommend a judgement of UNDECIDABLE.
+
+========================================================================
+
+Gratuitous Evidence by ais523:
+
+On Thu, 2010-10-07 at 14:17 +0100, ais523 wrote:
+> On Thu, 2010-10-07 at 14:07 +0100, Elliott Hird wrote:
+> > On 7 October 2010 13:46, Elliott Hird <penguinofthegods@googlemail.com>
+wrote:
+> > > If I'm not active, I become active. I intend, with 1 support, and
+> > > conditional on this condition not being met, to become inactive.
+> >
+> > With 1 support (from ais523), and conditional on the above condition, I do
+so.
+>
+> I submit an inquiry CFJ on the statement "ehird can make emself the
+> holder of IADoP by announcement". Arguments/evidence coming soon.
+
+On Thu, 2010-10-07 at 13:56 +0100, ais523 wrote (in reference to the
+13:46 +0100 message by ehird):
+> I support.
+>
+
+========================================================================
+
+Gratuitous Arguments by Bucky:
+
+The caller's argument assumes that the phrase 'this conditional' is
+self-referential; however, it has a natural antecedent in "with 1 support".  I
+argue that ehrid failed to become inactive because he did so conditionally on
+not receiving support for that action and subsequently received support for
+it.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+1728d) defines what conditions means in this
+context. 1728c) would be redundant if your meaning was correct, and that
+would also not match up with what the typical interpretation of
+dependent actions is (although that isn't to say you're necessarily
+wrong).
+
+========================================================================
+
+Judge G.'s Arguments:
+
+When a conditional is paradoxical, it does not, in fact, have a truth
+value.  The conditional itself is undecidable, that is a fact.
+
+However, that doesn't mean that that truth value cascades to other
+dependencies on the truth value.
+
+You can say that the condition is NOT met, and NOT not met, where the
+capitalized NOT is evaluated one level up (e.g. a meta-evaluation) so
+that "NOT not" does not cancel out into "met".  This is consistent
+with many philosophies of "resolving" self-paradox, as being neither true
+nor false, and in retrospect I'm very surprised it has never been used
+as an argument here.  After all, there is nothing in the rules that
+forbids using a meta-evaluation on a conditional of this nature, or
+using the NOT met in the particular rule as a meta-evaluation and
+it certainly falls within both common sense and the spirit of the game.
+
+Since the condition is NOT met (and it doesn't matter if it's also
+NOT not met) the dependent action fails.  ehird remained active and
+CAN (or COULD) become IADoP by announcement.  TRUE.
+
+========================================================================

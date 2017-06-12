@@ -1,0 +1,44 @@
+==============================  CFJ 1551  ==============================
+
+    An aborted proposal necessarily fails.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  OscarMeyr
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         18 Apr 2005 04:22:42 GMT
+Assigned to OscarMeyr:                  18 Apr 2005 08:33:46 GMT
+Judged FALSE by OscarMeyr:              21 Apr 2005 01:26:15 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2033 (Power=1) explicitly asserts that statements 1), 2), 3), and
+4) are true.
+
+Concerning statement 3):
+
+The rest of Rule 106 reads, "a Proposal shall be adopted if and only if
+it receives the required number of votes and if Quorum is achieved."  If
+statement 2) is found to be false, then the votes cast upon the proposal
+are not canceled, and Rule 106 strongly requires that the adoption of
+the proposal rest solely on the number and values of the votes cast.
+Rule 2033's statement contradicts this and loses in precedence.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+Given my decision in CFJ 1550, the Caller's logic is sound.
+The votes on an aborted Proposal count for determining whether the
+Proposal was adopted.
+
+========================================================================

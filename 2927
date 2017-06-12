@@ -1,0 +1,49 @@
+==============================  CFJ 2927  ==============================
+
+    An announcement of intent to ratify the future state  of a document
+    is not sufficiently clear to satisfy R1728 intent specification.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           15 Dec 2010 20:26:16 GMT
+Assigned to Murphy:                     20 Dec 2010 07:01:07 GMT
+Judged FALSE by Murphy:                 09 Jan 2011 19:27:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+A statement/admission that such announcements are indeterminate:
+On Wed, 15 Dec 2010, omd wrote:
+> Arguments: Actually, I'm not sure the document is incorrect; rather,
+> its correctness is indeterminate, as it refers to future events.  If I
+> had been more specific about time frames (the document is meant to be
+> ratified before 6938 passes), it would have been correct despite the
+> future reference, as it's of the form "if X, then Y", where Y would
+> logically follow from X.  However, it cannot be considered incorrect
+> unless (X and not Y) actually occurs.
+
+And see CFJ 2316 for some (perhaps limited-in-application) guidance
+on what constitutes clarity for future state specification.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+In general, FALSE, due to e.g. "I intend to ratify the next
+Registrar's report that I publish".  In the specific case in question,
+while the document in question referred to future events, it was
+reasonably clear up front what was being attempted (what was unclear
+was whether it would work).
+
+========================================================================

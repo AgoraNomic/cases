@@ -1,0 +1,153 @@
+==============================  CFJ 1748  ==============================
+
+    The ratification of an announcement of the resolution of an Agoran
+    decision can change the decision's outcome.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+Appeal:                                 1748a
+Decision:                               REMAND
+
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         22 Sep 2007 17:18:15 GMT
+Assigned to Zefram:                     23 Sep 2007 18:34:05 GMT
+Judged FALSE by Zefram:                 29 Sep 2007 20:26:12 GMT
+Appealed by Association of Federated Organizations:
+                                        04 Oct 2007 07:03:48 GMT
+Appealed by omd:                        04 Oct 2007 15:01:23 GMT
+Appealed by root:                       04 Oct 2007 15:36:36 GMT
+Appeal 1748a:                           04 Oct 2007 16:03:45 GMT
+REMANDED on Appeal:                     21 Oct 2007 15:45:59 GMT
+Assigned to Zefram:                     21 Oct 2007 19:03:13 GMT
+Judged FALSE by Zefram:                 25 Oct 2007 11:10:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The self-ratification of the resolution of an Agoran decision is
+established by Rule 2034/3.  However, the same rule states that "Once
+an Agoran decision has been resolved, ... the outcome of the decision
+may not be changed in any way, any rule to the contrary
+notwithstanding.
+
+>From Rule 1551/9, "When a document is ratified, the gamestate is
+modified so that the ratified document was completely true and
+accurate at the time it was published."  In reference to the
+resolution of an Agoran decision, this may entail changing the outcome
+of the decision.  Rule 2034/3 claims precedence over Rule 1551/9 and
+forbids that change.
+
+I argue that the fact that R2034 itself establishes the
+self-ratification of the resolution of an Agoran decision is
+irrelevant, as it is R1551 and not R2034 that defines what
+self-ratification means.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+This case depends partly on which rule contains the claim that the
+outcome of an Agoran decision can be changed by ratification.  If we
+take the meaning of "self-ratifying" to be self-evident, and implying
+this ability to change the outcome, then rule 2034 might be seen to
+conflict with itself, and the resolution of this CFJ would be a matter
+of interpreting this self-inconsistent rule.  If, on the other hand,
+"self-ratifying" does not imply an ability to change the outcome,
+then it would be rule 1551 that attempts to institute such changes,
+in conflict with rule 2034 which takes precedence.
+
+I find that "self-ratifying" is not an opaque term.  The ordinary English
+meaning of "ratify" gives considerable clue as to the intent of the term.
+The Collaborative International Dictionary of English says "to make
+valid", among a list of similar meanings.  Furthermore, the history of
+the use of this word in the context of Agora ratifies this meaning, and
+augments it with the specific feature that ratification of a document
+can change parts of the game state.
+
+I think, therefore, it is clear that where a rule describes a document as
+"self-ratifying" the rule intends that in some reasonable circumstances
+(the details of which are not necessarily specified) that document could
+change the game state to conform to the information contained within it.
+
+However, rule 2034 doesn't do that.  What it describes as self-ratifying
+is not a document, but "[t]he resolution of an Agoran decision".
+The resolution of an Agoran decision is a process, governed by rule 208.
+Rule 2034's second paragraph explicitly distinguishes between this
+process and documents describing it, when it refers to "errors in
+reporting the resolution of an Agoran decision".  Clearly the report is
+not the resolution.
+
+So the final paragraph of rule 2034 does not attempt to make a document
+self-ratifying, but rather to make the resolution process self-ratifying.
+Per rule 208, an announcement that purports to resolve an Agoran decision
+but announces incorrect votes or results is not a valid resolution notice,
+and so does not resolve the decision.  The final paragraph of rule 2034
+therefore does not refer to such incorrect notices.  It only refers to a
+"resolution", which can only occur by a correct announcement of results.
+It is unclear what it means for a process that necessarily involves a
+correct document to be "self-ratifying".
+
+Having ruled out the possibility of rule 2034 itself instituting a
+ratification of the type envisioned in the statement, it only remains
+to consider the general case of a ratification from some other source.
+The only such source of ratification in the current rules is the second
+paragraph of rule 1551, ratification without objection.  As correctly
+noted by the initiator, rule 2034 takes precedence over rule 1551 (which
+is now both the source of ratification and the source of detailed
+definition) and prevents a change to the outcome.  A ratification
+could also presumably be initiated by a proposal, which would refer to
+rule 1551's definitions.  As rules categorically take precedence over
+proposals, rule 2034 would once again prevent a change to the outcome.
+
+A ratification initiated by a rule with Power>3, or which otherwise
+took precedence over rule 2034 would be a different, more complicated,
+situation.  However, the consideration of hypothetical rules that don't
+presently exist is out of scope for this inquiry.
+
+========================================================================
+
+Appellant Association of Federated Organizations's Arguments:
+
+It is reasonable to interpret the phrase in question as a metonym
+for "a document purporting to resolve an Agoran decision".
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+Try as I might, I can't convince myself that "the resolution of an Agoran
+decision" means "a document purporting to resolve an Agoran decision".
+I don't see precedent in the rules for such a transference of meaning.
+
+It is true that the literal interpretation renders part of the rule
+meaningless, whereas the proposed counter-literal interpretation
+would give the whole rule meaning.  Certainly, having every part of
+the rule make sense is a reasonable criterion when choosing between
+equally-plausible readings of part of a rule.  But this is not a case of
+ambiguity or unclarity.  The phrase in question is perfectly clear, and
+cannot be given a contradictory meaning by virtue of the meaninglessness
+of a different part of the rule.
+
+There is plenty of precedent for having rules, or parts thereof, that
+are nonsensical and therefore ineffective.  Most of the Frankenstein
+Rule fell into this category, of course, and we've had rules referring
+to non-existent entities for various reasons.  This situation is not
+particularly problematic, and so the aim of avoiding it does not merit
+the heroic efforts of reinterpretation that the appellant proposes.
+
+I therefore must judge CFJ 1748 FALSE once more.
+
+========================================================================

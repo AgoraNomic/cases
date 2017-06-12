@@ -1,0 +1,155 @@
+=========================  Criminal Case 2451  =========================
+
+    comex broke the power=3 rule 2125 six times by making the
+    announcement "I hereby announce that I performed duties related to
+    Enigma in a timely manner during this month." six times.
+
+========================================================================
+
+Caller:                                 Tiger
+Barred:                                 omd
+
+Judge:                                  Taral
+Judgement:                              GUILTY/SILENCE
+
+Appeal:                                 2451a
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Called by Tiger:                        17 Apr 2009 13:44:52 GMT
+Defendant omd informed:                 17 Apr 2009 13:44:52 GMT
+Assigned to Taral:                      19 Apr 2009 00:32:23 GMT
+Judged GUILTY/SILENCE by Taral:         24 Apr 2009 21:01:02 GMT
+Appealed by omd:                        26 Apr 2009 19:46:26 GMT
+Appeal 2451a:                           26 Apr 2009 19:46:26 GMT
+AFFIRMED on Appeal:                     03 May 2009 21:29:32 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+2009/4/17 comex <comexk@gmail.com>:
+> On Fri, Apr 17, 2009 at 8:39 AM, Jonatan Kilhamn
+> <jonatan.kilhamn@gmail.com> wrote:
+>> If you have been the contestmaster for at least 16 days, you MAY once,
+>> otherwise you MAY not, so all the statements are illegal. I'm not
+>> really sure about what the rest of 2234 does to this, if the
+>> statements are illegal but still counts as "such a statement" and thus
+>> awards you points, but at least you have broken a power=3 rule as
+>> well.
+>
+> Ah, I forgot about that rule.  That would definitely make repeated
+> such announcements by the contestmaster illegal, but I believe 'the
+> contestmaster MAY announce so-and-so' is the action and 'ASAP after
+> the end of the month, once' is the condition.  I contest the NoV as I
+> did not perform that action.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Setting aside questions of the form of this NoV, I will first attempt
+to address the intent of it.
+
+Rule 2125/4 (relevant excerpt):
+
+      d) The rules explicitly state that it MAY be performed while
+         certain conditions are satisfied.  Such an action MAY NOT be
+         performed except as allowed by the rules.
+
+Rule 2234/2 (relevant excerpt):
+
+      As soon as possible after the end of a month, for each contest,
+      the player (if any) who was its contestmaster for at least 16
+      days during that month MAY once announce that e performed duties
+      related to that contest in a timely manner during that month,
+      subject to other rules regarding truthfulness.
+
+Rule 1023/24 (relevant excerpt):
+
+      (a) The phrases "in a timely fashion" and "as soon as possible"
+          mean "within seven days".
+
+Rule 2125 wants us to split the Rule's mandate into an action A and a
+condition C such that the Rule can be read "if C, one MAY A". It then
+imposes "one MAY NOT A unless permitted by the rules". It is logically
+clear that where one draws the line between C and A can drastically
+affect the resulting injunction.
+
+One split would make A be "announce" and everything else be in C. This
+results in the injunction "one MAY NOT announce unless permitted by
+the rules." Absurd.
+
+Equally absurd it the other extreme: A is the entire mandate, and C is
+empty. The resulting injunction is useless, since it says "one MAY NOT
+(entire mandate) unless permitted by the rules", where (entire
+mandate) is obviously permitted by the rules.
+
+We are forced to rely on some common sense. One reasonably criterion
+for the separation of action and condition is whether the clause
+affects the content or the context of the action. The actual text or
+sentiment expressed in the announcement is content and is generally
+included as part of the action. Contextual requirements, like the
+person performing the announcement, are generally conditions.
+
+On top of all this, some parts of the mandate may include implicit or
+explicit quantifiers, which are neither conditions nor part of the
+action. These quantifiers affect placeholders in later clauses,
+resulting in a (usually infinite) set of mandates rather than a single
+one.
+
+The present question involves a mandate with the following clauses:
+(Placeholders are in parentheses)
+
+* As soon as possible after the end of (a month) - condition with
+implicit quantifier and associated placeholder
+* for each contest - quantifier
+* the player - actor quantifier
+* who was (its) contestmaster for at least 16 days during (that month)
+- condition with placeholders for quantified values
+* announce - action
+* (e) performed duties related to (that contest) in a timely manner
+during (that month) - action with placeholders for quantified values
+
+I have carefully split out the actor from the conditions so as to
+avoid introducing an ambiguity in the referent of "e" in the resulting
+injunction.
+
+Given the above categorization, we can assemble these pieces into an
+injunction:
+
+For each month, for each contest, a player MAY NOT announce that e
+performed duties related to that contest in a timely manner during
+that month, unless permitted by the rules.
+
+Comex did, 6 times, perform the enjoined action. The question remains
+whether it was permitted by the rules.
+
+Unfortunately for comex, e used the language "this month", i.e. the
+month of April. Since the end of April has not yet come, none of these
+statements could possibly have been made within 7 days of the end of
+April.
+
+Finally, there comes the question of the form of the NoV. The rules
+only anticipate an NoV being used for a single violation of a single
+rule by a single act. I am forced, therefore, to disregard the "six
+times" aspect of this NoV. Any future judges on this issue are advised
+to determine whether or not these 6 announcements constitute a single
+action or multiple actions before passing judgement.
+
+The Court find comex GUILTY and sentences em to SILENCE.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I already gained a Rest for the same action, the false
+contestmaster award claims, due to the NoV accusing me of violating
+truthfulness; this punishment may therefore be invalid due to R101.
+Note, however, that I did close the NoV myself, and see CFJ 1981 (but
+I think the situation is quite different here).
+
+========================================================================

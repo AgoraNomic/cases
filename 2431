@@ -1,0 +1,63 @@
+==============================  CFJ 2431  ==============================
+
+    At the instant the quoted call for judgment was called, The Shell
+    had an owner
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      24 Mar 2009 18:41:28 GMT
+Assigned to BobTHJ:                     25 Mar 2009 02:43:18 GMT
+BobTHJ recused:                         07 Apr 2009 20:55:22 GMT
+Assigned to Machiavelli:                07 Apr 2009 21:39:34 GMT
+Judged TRUE by Machiavelli:             07 Apr 2009 23:41:44 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1586 specifies that when an entity ceases to be defined, it ceases
+to exist. Since the Lost and Found Department is not defined anywhere,
+it does not exist. As a result, The Shell cannot be owned by it. But it
+must have some owner, by rule 2166. Since it cannot be owned by the Lost
+and Found Department (which doesn't exist), 2166 indicates it to be
+owned by the Lost and Found Department, which doesn't exist, etc. In
+addition, since the Lost and Found Department doesn't exist, it cannot
+have been destroyed due to being owned by an entity outside the class to
+which its ownership is restricted.
+
+========================================================================
+
+Caller's Evidence:
+
+Sean Hunt wrote:
+> I CFJ {At the instant this call for judgment was called, The Shell was
+> owned by the Lost and Found Department}.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+The Lost and Department was never defined anywhere in the first place;
+therefore, it did not cease to be defined; therefore, it did not cease
+to exist. Since Rule 2166 refers to it, the only consistent
+interpretation of the rules is that it does exist. Therefore, this
+objection is dismissed.
+
+Now, Rule 2166 says that each asset has exactly one owner, and no rule
+contradicts it. Therefore, The Shell did indeed have an owner; I judge
+TRUE.
+
+========================================================================

@@ -1,0 +1,51 @@
+==============================  CFJ 2592  ==============================
+
+    The declaration of a Skunk is part of a specific Win by High Score's
+    cleanup procedure, and does not affect any other Win by High Score's
+    cleanup procedure simultaneously in progress.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  ehird
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       18 Jun 2009 02:26:04 GMT
+Assigned to Yally:                      21 Jun 2009 01:19:57 GMT
+Yally recused:                          03 Jul 2009 21:21:46 GMT
+Assigned to Machiavelli:                03 Jul 2009 21:27:03 GMT
+Machiavelli recused:                    10 Jul 2009 06:32:39 GMT
+Assigned to ehird:                      10 Jul 2009 06:35:21 GMT
+ehird recused:                          10 Jul 2009 21:33:24 GMT
+Assigned to Wooble:                     16 Jul 2009 08:04:42 GMT
+Judged TRUE by Wooble:                  16 Jul 2009 13:39:07 GMT
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge TRUE. Either reading is plausible, but since skunk is not
+defined by the rules and the action of declaring one is spelling out
+in the cleanup procedure itself, it seems best to say that it is a
+specific win that is being declared a "skunk", and that the remainder
+of the cleanup procedure for that win only is what is canceled.
+
+========================================================================

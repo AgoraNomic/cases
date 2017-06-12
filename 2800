@@ -1,0 +1,122 @@
+==============================  CFJ 2800  ==============================
+
+    G. made two fee-based attempts to make proposal 6724 democratic.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           21 May 2010 19:43:32 GMT
+Assigned to Murphy:                     22 May 2010 14:56:26 GMT
+Judged FALSE by Murphy:                 22 May 2010 15:23:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The message was typed once (and the send button hit once) but it was sent
+to two public fora (agora-business and the yoyo backup list).  Was it one
+(attempted) action or two?  As far as I know no precedent has been set for
+this.
+
+One one hand it was a single typed message, on the other it was sent "via"
+a forum twice (once per forum).
+
+========================================================================
+
+Caller's Evidence:
+
+> Date: Fri, 21 May 2010 12:12:11 -0700 (PDT)
+> From: Kerim Aydin <kerim@u.washington.edu>
+> Reply-To: Agora Nomic Backup List <nomic@yoyo.its.monash.edu.au>
+> To: Agora Business <agora-business@agoranomic.org>,
+>     Agora Nomic Backup List <nomic@yoyo.its.monash.edu.au>
+> Subject: Re: BAK: BUS: Re: OFF: [Promotor] Distribution of Proposals
+6724-6727
+>
+>
+> On Fri, 21 May 2010, Sean Hunt wrote:
+> >>> 6724 1 3.0 Spitemaster Green Agora Should Stay A Nomic
+>
+> I spend a fee to make 6724 democratic.
+>
+> I support all efforts to make 6725, 6726 democratic.
+
+Rule 478/27 (Power=3)
+Fora [extract]
+
+      A public message is a message sent via a public forum, or sent
+      to all players and containing a clear designation of intent to
+      be public.  A person "publishes" or "announces" something by
+      sending a public message.
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.  Any action performed by sending a message is performed at
+      the time date-stamped on that message.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Despite being sent to and via two public fora, the message
+remained a single message, so the actions performed by it
+were not duplicated.  In particular (and suggesting more
+borderline cases that might be judged differently):
+
+  * e typed it only once and hit the send button only once
+
+  * both fora had the same To: header, which listed both fora
+
+  * both fora had the same Date: header
+
+  * both fora delivered the message without significant variance
+    in date-stamps, so by convention (precedent?) the Date: header
+    is used for the purpose of Rule 478
+
+  * the message did not express any explicit intent to act once
+    per forum
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+Excerpts of headers from Murphy's copy sent via yoyo:
+
+Received: ... Fri, 21 May 2010 19:16:52 +0000
+Received: ... Fri, 21 May 2010 19:16:52 +0000
+Received: ... Sat, 22 May 2010 05:16:49 +1000 (EST)
+Received: ... Sat, 22 May 2010 05:16:48 +1000 (EST)
+Received: ... Sat, 22 May 2010 05:16:48 +1000 (EST)
+Received: ... Sat, 22 May 2010 05:16:45 +1000
+Received: ... Sat, 22 May 2010 05:16:42 +1000
+Received: ... Sat, 22 May 2010 05:16:42 +1000 (EST)
+Received: ... Sat, 22 May 2010 05:16:42 +1000 (EST)
+Received: ... Sat, 22 May 2010 05:16:41 +1000 (EST)
+Received: ... Fri, 21 May 2010 12:12:12 -0700
+Date: Fri, 21 May 2010 12:12:11 -0700 (PDT)
+X-Auth-Received: ... Fri, 21 May 2010 12:12:11 -0700
+X-Auth-Received: ... Fri, 21 May 2010 12:12:11 PDT
+X-PMX-Version: .. Antispam-Data: 2010.5.21.190314
+
+Excerpts of headers from Murphy's copy sent via a-b:
+
+Received: ... Fri, 21 May 2010 19:17:06 +0000
+Received: ... Fri, 21 May 2010 19:17:06 +0000
+Received: ... Fri, 21 May 2010 14:17:02 -0500 (CDT)
+Received: ... Fri, 21 May 2010 14:16:28 -0500 (CDT)
+Received: ... Fri, 21 May 2010 12:12:12 -0700
+X-Auth-Received: ... Fri, 21 May 2010 12:12:11 -0700
+X-Auth-Received: ... Fri, 21 May 2010 12:12:11 PDT
+X-PMX-Version: ... Antispam-Data: 2010.5.21.190314
+Date: Fri, 21 May 2010 12:12:11 -0700 (PDT)
+
+========================================================================

@@ -1,0 +1,85 @@
+==============================  CFJ 3061  ==============================
+
+    ais523 has more than 50 points.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       05 Jul 2011 16:17:41 GMT
+Assigned to Machiavelli:                07 Jul 2011 02:13:36 GMT
+Machiavelli recused:                    24 Jul 2011 17:55:13 GMT
+Assigned to Yally:                      24 Jul 2011 18:27:39 GMT
+Yally recused:                          14 Aug 2011 17:19:09 GMT
+Assigned to woggle:                     14 Aug 2011 17:44:10 GMT
+Judged FALSE by woggle:                 20 Aug 2011 04:26:34 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I see no reason why the creation of the promise would fail;
+just because its text is a proposal would not prevent it being created.
+However, I suspect the scam attempted above has two major flaws; one is
+that the author of a promise's text needn't be the author of the promise
+itself, and the other is that although a coauthor, in common speak, is
+an author of something, the promises rule is worded as if to expect that
+a promise has only one author, and thus is probably too ambiguous as to
+who it is that transfers the points.
+
+========================================================================
+
+Caller's Evidence:
+
+I submit the following proposal, which is also a promise (title =
+Proposals and Promises are both text-bearing entities, coauthor =
+Murphy, AI = 1):
+{{{
+I transfer 250 points to ais523.
+}}}
+
+Then I cash the above proposal, then (if it still exists) I retract it.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+I'm pretty sure this fails because the rules explicitly define "co-author"
+for a proposal to have a secondary role different than the author (or set of
+equal co-authors, as in common language).  Proposals always has one author
+(the submitter) and co-authors are 'in addition', not 'instead of' (R106,
+R1950, R1681, R2330). So a co-author of a proposal is, by definition, not
+the author of that proposal.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+Promises are not documents; promises are abstract entities which have a
+property called their text, which may be a document. Proposals, on the
+other hand, are documents. ais523 may have succeeded at creating a
+promise whose text was also a proposal, but because e was the one who
+created the promise, per R2337, e is the promise's only author, even if
+e is not the only author of the promise's text.
+
+Additionally, even under the theory that Murphy was a co-author of the
+promise, the rule defining co-authors for promises states that "A
+co-author of a proposal is a person (*other than its author*)" (emphasis
+added) implying that the roles are mutually exclusive.
+
+========================================================================

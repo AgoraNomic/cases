@@ -1,0 +1,116 @@
+==============================  CFJ 1772  ==============================
+
+    comex initiated an equity case in eir message dated Mon, 22 Oct 2007
+    16:16:40 -0400
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Zefram
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          28 Oct 2007 17:21:56 GMT
+Assigned to Zefram:                     28 Oct 2007 17:33:14 GMT
+Judged FALSE by Zefram:                 28 Oct 2007 18:49:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There is a precedent (MMI before it got upmutated) that lower-power rules
+can define terms used in high-power rules, and I would not consider Rule
+2171 to actually be in conflict with 1742's definition of contract.  In
+fact, R1742 could be read as defining any binding agreement fitting the
+definition as a contract, and there is no question that 2171 can create
+such a binding agreement.
+
+The rules (notably R2169) also reference and try to impose things called
+binding agreements, but if they are not to be considered contracts, Rule
+1742 does not require that they be enforced.  Furthermore, rule 2169
+references otherwise-nonexistent "usual processes governing binding
+agreements".  Precedent and the intent of Rule 2171 also concur that the
+rules are to be treated as a contract.
+
+I recommend that the judge read the thread context, including:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2007-October/
+007732.html
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2007-Octobe
+r/010486.html
+
+========================================================================
+
+Caller's Evidence:
+
+On Monday 22 October 2007, comex wrote:
+> I initiate an equity case with the rules as contract, the players as the
+> parties to the contract, and Peekee's quoted violation of Rule 2149 as
+> the state of affairs whereby events have not proceeded as envisioned by
+> the contract.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+This case hinges on whether it is possible to initiate an equity case
+concerning the rules.  Rule 2169 speaks of the subject of an equity
+case being "a particular contract".  The word "contract" is defined by
+rule 1742:
+
+      Any group of two or more persons may make an agreement among
+      themselves with the intention that it be binding upon them and
+      be governed by the rules.  Such an agreement is known as a
+      contract.
+
+which then goes on to make several provisions governing contracts.
+Rule 1742's definition must be interpreted in the light of rule 101(iv):
+
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absence of a person's explicit,
+            willful consent shall be considered a refusal.
+
+We must consider whether the rules are compatible with this definition of
+"contract".  Per CFJ 1709, the rules are binding not only on those who
+have the rule-defined status of "player", but on all those who play
+the game in the broader sense.  Initiating a CFJ, for example, is a
+long-standing way in which non-players can play the game.  Of recent
+relevance is that a non-player can enter into a contract, as defined
+by rule 1742, and is then bound by rule 1742's obligation to abide by
+the contract.
+
+If the rules are to be regarded as a contract, then, the set of parties
+(the set of entities bound by the contract) is clearly the unenumerated
+set of people who take game actions, whether or not they are officially
+players.  However, taking game actions other than registration certainly
+does not constitute "explicit, willful consent" to be bound by the rules.
+It is questionable whether even registration as a player achieves this,
+but initiating a CFJ certainly does not.  On this point, the rules cannot
+be a contract as defined by rule 1742.
+
+Rule 2171 attempts to make the rules adjudicable as if they were a
+"binding agreement".  This is relevant to the interpretation of rule
+2169 if we accept "binding agreement" as a synonym for "contract".
+In this case rule 2171 is either attempting to make the rules be
+viewed as a rule 1742 contract, or attempting to modify the definition
+of "contract" for the purposes of rule 2169 to include the rules.
+Either way it conflicts with rule 1742, which has higher power.  If it
+were interpreted as attempting to change the meaning of a higher-power
+rule solely by redefining terms, then per CFJ 858 this can constitute
+a conflict, and I believe in this case it does.
+
+The rules are generally not written as a contract, and generally do not
+envision adjudication by means of an equity-like process.  The rules
+explicitly institute a criminal-style process for the adjudication
+of rule violations, and a process of declaratory judgement for the
+adjudication of uncertainty regarding the interpretation of the rules.
+The rules do not envision any restrictions on who they can bind, among
+those who take actions that are relevant to the rules.  Rule 2171 is
+completely incompatible with these pervasive aspects of the rules.
+If it had high power then rule 2171 would cause a lot of breakage.
+As it is, at power=1, it is simply ineffective due to conflicts.
+
+========================================================================

@@ -1,0 +1,52 @@
+==============================  CFJ 3023  ==============================
+
+    scshunt has cashed a promise created by omd.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  Walker
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       07 May 2011 05:47:33 GMT
+Assigned to Walker:                     19 May 2011 02:48:04 GMT
+Judged FALSE by Walker:                 19 May 2011 18:41:28 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Does a 2+ hour delay fall within the definition of
+"just assigned"?
+
+========================================================================
+
+Caller's Evidence:
+
+Message creating the promise in question:
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2011-April/02
+8207.html
+
+Timing of subsequent relevant actions (all UTC):
+
+Thu  5 May 18:36:30  scshunt judges CFJ 3007
+Thu  5 May 20:43:57  scshunt cashes the promise
+
+========================================================================
+
+Judge Walker's Arguments:
+
+The common language definition of 'just' obviously has to be used in
+this case, but the meaning of 'just' relies heavily on its context, so
+game custom could also have an influence on its interpretation. In the
+light of that, I would argue that 'just' actually means 'in the same
+message' here. FALSE.
+
+========================================================================

@@ -1,0 +1,45 @@
+==============================  CFJ 2115  ==============================
+
+    Immediately after a judge is assigned to this case, it will be legal
+    for that judge to judge FALSE on its question on veracity.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  28 Jul 2008 17:47:23 GMT
+Assigned to Quazie:                     02 Aug 2008 07:01:44 GMT
+Quazie recused:                         17 Aug 2008 23:37:52 GMT
+Assigned to woggle:                     18 Aug 2008 00:01:43 GMT
+Judged UNDECIDABLE by woggle:           18 Aug 2008 00:09:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If FALSE is appropriate, the statement is true, making
+FALSE inappropriate; therefore, FALSE is not appropriate. TRUE is
+appropriate only if FALSE is appropriate; it isn't. IRRELEVANT is
+certainly inappropriate, as a question of legality is relevant;
+UNDETERMINED is inappropriate, as I just showed that neither FALSE nor
+TRUE is appropriate. Therefore, UNDECIDABLE is the only appropriate
+judgement.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge UNDECIDABLE. See also the precedent of CFJ 1787.
+
+========================================================================

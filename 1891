@@ -1,0 +1,91 @@
+==============================  CFJ 1891  ==============================
+
+    If the Speaker fails to assign prerogatives for the upcoming month
+    in the seven days before the beginning of a month, e CAN assign
+    prerogatives (for that month) after the month has begun.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              TRUE
+
+Appeal:                                 1891a
+Decision:                               REMAND
+
+
+Judge:                                  OscarMeyr
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           02 Feb 2008 00:16:00 GMT
+Assigned to omd:                        02 Feb 2008 04:46:32 GMT
+omd recused:                            14 Feb 2008 22:29:35 GMT
+Assigned to OscarMeyr:                  15 Feb 2008 18:45:05 GMT
+Judged TRUE by OscarMeyr:               22 Feb 2008 01:37:07 GMT
+Appealed by omd:                        22 Feb 2008 06:00:10 GMT
+Appealed by root:                       22 Feb 2008 06:08:08 GMT
+Appealed by Zefram:                     22 Feb 2008 10:08:39 GMT
+Appeal 1891a:                           23 Feb 2008 06:06:39 GMT
+REMANDED on Appeal:                     19 Apr 2008 11:57:21 GMT
+Assigned to OscarMeyr:                  19 Apr 2008 11:57:21 GMT
+OscarMeyr recused:                      28 Apr 2008 06:00:33 GMT
+Assigned to Wooble:                     28 Apr 2008 06:02:58 GMT
+Judged FALSE by Wooble:                 01 May 2008 13:08:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2019 requires the Speaker to make assignments by using the
+term SHALL (R2152).  Question 1 comes down to whether SHALL empowers
+the act to be performed by announcement or any other method, or
+merely requires without empowering.  The time limit is specified by
+R1023(a) by "timely fashion".
+
+Question 2 (trivially FALSE if Question 1 is FALSE) is, if the
+Speaker is empowered to so assign "in a timely fashion before", does
+the SHALL continue to empower em after the time limit has expired?
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+In general, SHALL and CAN do not automatically imply a time
+constraint to the ability to perform the action in question; such a
+limitation must be produced by other language in the Rules.  R2019
+requires the action of assigning prerogatives to be performed within
+a specified time range, but does not prevent the assignment if it is
+made late.  I rule TRUE.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+See root's message in a-d, among other things.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+Rule 2019/13 provided no mechanism by which the Speaker could assign
+Prerogatives, and the court finds no precedent for taking SHALL to
+imply CAN when no mechanism is given in the Rules.  Additionally, an
+inspection of the use of SHALL in the current ruleset shows no other
+case where such an implication would be required to allow a player to
+take some action required by the rules; in every other case such a
+mechanism is explicitly provided if necessary.
+
+========================================================================

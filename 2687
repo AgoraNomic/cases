@@ -1,0 +1,72 @@
+==============================  CFJ 2687  ==============================
+
+    Murphy awarded at least one point on or about Tue, 15 Sep 2009
+    01:19:56 -0700.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       15 Sep 2009 08:36:20 GMT
+Assigned to Wooble:                     16 Sep 2009 07:06:40 GMT
+Judged FALSE by Wooble:                 17 Sep 2009 13:38:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2233 says "so long as the total number of points
+awarded or revoked on any axis do not exceed that contest's threshold
+index", but does not specify the scope of this total (the intent was
+weekly).  I argue that it may be as narrow as a single message, or
+even a single awarding action within a message, or on the other hand
+it may be as broad as the lifetime of the contest.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+R2233 reads, in part:
+
+      The contestmaster of a contest CAN and SHALL award and revoke
+      points as directed by that contract up so long as the total
+      number of points awarded or revoked on any axis do not exceed
+      that contest's threshold index.
+
+There are 3 possible readings of this as written:
+
+1. Each reward of points is limited by the rewarding contest's
+threshold, so a contestmaster can award infinite points as long as
+each awarding action is within the threshold.  I reject this reading
+because "total number of points" implies a sum of points awarded in a
+set of actions, and further because even if this is ambiguous,
+allowing infinite point grants wouldn't be in the best interests of
+the game.
+
+2. A contestmaster can only award points if the total number of points
+ever awarded on the axis on which e's awarding, by all contests
+combined, does not exceed the contest's threshold.  This is an
+attractive reading of this sentence taken by itself, but the remainder
+of the rule, particularly the clause making rewards or revocations
+that counteract other rewards or revocations not count against the
+limit, makes it clear that this is not a good interpretation.  This
+leaves us with 3:
+
+3. A contest can reward a total number of points equal to its
+threshold limit over the life of the contest.
+
+Since the contest in question, the Cookie Jar, has awarded more than
+20 points on each axis in its lifetime, any point rewards made after
+the passage of P6369 on 29 June were INVALID.  The other contests,
+with the exception of comex's scam contest, have all also exceeded
+their thresholds as far as I can tell; it's presently IMPOSSIBLE to
+award points.
+
+========================================================================

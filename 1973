@@ -1,0 +1,86 @@
+==============================  CFJ 1973  ==============================
+
+    Pavitra is a party to Kiwi.
+
+========================================================================
+
+Caller:                                 Pavitra
+Barred:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              UNDECIDABLE
+
+Appeal:                                 1973a
+Decision:                               OVERRULE/FALSE
+
+========================================================================
+
+History:
+
+Called by Pavitra:                      22 May 2008 23:12:54 GMT
+Assigned to Wooble:                     23 May 2008 13:48:38 GMT
+Judged UNDECIDABLE by Wooble:           23 May 2008 16:21:54 GMT
+Appealed by woggle:                     24 May 2008 03:39:43 GMT
+Appealed by ais523:                     24 May 2008 10:32:53 GMT
+Appealed by root:                       30 May 2008 08:10:38 GMT
+Appeal 1973a:                           31 May 2008 00:19:35 GMT
+OVERRULED to FALSE on Appeal:           02 Jul 2008 17:17:29 GMT
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I both CFJs 1972 and 1973, I judge UNDECIDABLE.  The message in which
+the two Contracts could have been joined contains a strange loop, in
+which each of two paragraphs claim to cause the other to have no
+effect.
+
+I should note that neither of these CFJs is an inquiry on the
+possibility or legality of a rule-defined action, and thus these CFJs
+were simply a waste of time, not a clever way to win by paradox.
+
+========================================================================
+
+Appellant woggle's Arguments:
+
+Some short possibilities that aren't UNDECIDED that the original
+judgement failed to consider:
+1. In deciding how to disambiguiate the message, following the Agoran
+practice that earlier rule by default take precedence, the earlier
+paragraph's command should win.
+2. Alternately, the message's ambiguity with respect to the contracts
+results in it failing to announce the creation of either.
+3. Alternately, the message's deliberate ambiguity makes it impossible
+for Pavitra to have consented to either contract as required by R101,
+so neither contract was joined.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+There really isn't a paradox here. The two paragraphs in the message
+contradict each other, but since when is a contradiction necessarily
+a paradox? If it is the case that it's impossible to determine which
+of the paragraphs Pavitra meant to apply, then either the CFJ should
+be ruled UNDETERMINED (as the message /looks/ as though Pavitra was
+trying to join exactly one contract, and didn't state which), or it
+should be ruled that neither contract was ruled because the message
+attempting to join them was to vague. However, I think it's possible
+that Pavitra was a member of both contracts; can bits of a public
+message request disregarding of other bits, and actually have an
+effect? (This is different from disclaimers; as far as I can tell, a
+disclaimer does not prevent the rest of a message necessarily having
+an effect, but disclaimers are special-cased by the truthfulness rule
+to have an effect even if they don't affect which game actions are
+taken.) So I think there's a possible argument for each of FALSE,
+TRUE, and UNDETERMINED, in each CFJ, but UNDECIDABLE seems
+inappropriate.
+
+========================================================================
+
+Appellant root's Arguments:
+
+I support these appeals, and I reference my judgement in CFJ 1979 as
+arguments.
+
+========================================================================

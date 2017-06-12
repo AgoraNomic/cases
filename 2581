@@ -1,0 +1,135 @@
+==============================  CFJ 2581  ==============================
+
+    Intents to perform multiple dependent actions were announced in the
+    first message in the Evidence section, and each intent was resolved
+    and made each Proposal in the Proposal Pool (at the time of
+    resolution) distributable.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 omd
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           14 Jun 2009 01:58:59 GMT
+Assigned to Yally:                      17 Jun 2009 07:41:48 GMT
+Judged TRUE by Yally:                   21 Jun 2009 04:13:32 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Making "each" proposal is not an action in itself, this requires multiple
+dependent actions.
+
+Dependent actions each must be specified "unamgibuously and clearly" which
+is a stronger standard than simply without general confusion.  For example,
+what if additional proposals entered the pool between the intent and the
+resolution?  That would have created support before one of the intents
+mapped to an actual action [see CFJ 2316].  CFJs 2238 is also relevant.
+[I also seem to recall a precedent that set standards for "unambiguous and
+clear" that are stronger than a mapping that "all" might apply to a changing
+set, but I am not finding it at the moment -- gratuitous  suggestions very
+welcome].
+
+Therefore the argument is that the specification fails the "unambiguously
+and clearly" test and thus the dependent action(s) failed, strongly
+suggesting a judgement of FALSE.
+
+========================================================================
+
+Caller's Evidence:
+
+comex wrote:
+> I intend, with 3 support, to make each Proposal in the Proposal Pool
+> distributable.
+
+ehird wrote:
+> I support. This is rather rubbish.
+
+coppro wrote:
+> I support.
+
+Paul VanKoughnett wrote:
+> I support and do so.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+In addition to R1728 requiring that an action be specified "unambiguously and
+clearly", R1670/20 required that the proposal in question be "specified", so
+that's a double layer of specification:
+      A player CAN flip a specified proposal to Distributable with 3
+      Support, or by spending 1 Note.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The specification for any given dependent action must be clear and
+unamibiguous. This does not mean that a dependent action taken as part
+of a larger set of actions is necessarily invalid due to ambiguity
+existing in the larger set. Compare and contrast with Rule Changes,
+which must be entirely unambiguous to take any effect. As a result, any
+dependent actions to make Proposals made after the intent may be
+ambiguous, but the ones before should not be.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+There was indeed at least one proposal that went into the pool between
+the announcement of intent and the attempted resolution.  Ironically, it
+was this one:
+
+   > On Tue, 9 Jun 2009, Aaron Goldfein wrote:
+   >> Proposal: No More Distributability (AI = 2, II = 2)
+
+========================================================================
+
+Gratuitous Arguments by Yally:
+
+CFJ 2517
+
+========================================================================
+
+Judge Yally's Arguments:
+
+Although it is true that each of these actions are performed
+separately, Agora has traditionally used shorthand to infer several
+obvious actions. For example, players will frequently spend four notes
+to destroy two rests they own. While technically this is not allowed
+(as players can only spend two notes to destroy one note they own), it
+is nevertheless accepted as performing the permitted action twice as
+its intent is clear, unambiguous, and not excessively taxing on any
+recordkeepors, etc. Following these guidelines, comex has followed a
+similar path in making each of those proposals distributable as it is
+clear which proposals e intends to make distributable and it is not
+particularly hard on the Promotor or anyone else. Although e can not
+technically do it, what e has done should be acceptable shorthand. I
+therefore judge this case TRUE.
+
+========================================================================
+
+Gratuitous Arguments by Yally:
+
+In response to the caller's arguments, all proposals in the
+pool were made distributable at the time of allispaul's action.
+Intents to perform actions can be announced early in this way, such
+that I could announce my intent to make a non-existant proposal
+distributable without objection, submit the proposal in the next four
+days, and then make it distributable (provided there were no
+objections). As such, "all proposals" in the sense that comex has used
+it unambiguously refers to every proposal that could possibly be made
+distributable, which includes those proposals submitted in the interim
+of the intent and the action. There is therefore no ambiguity in the
+statement.
+
+========================================================================

@@ -1,0 +1,85 @@
+==============================  CFJ 3014  ==============================
+
+    If the promise quoted in evidence with the alleged condition "This
+    promise is not destroyed upon being cashed" was cashed, then it
+    would not be destroyed.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       26 Apr 2011 00:07:56 GMT
+Assigned to Machiavelli:                26 Apr 2011 15:42:32 GMT
+Machiavelli recused:                    27 Apr 2011 19:05:14 GMT
+Assigned to ais523:                     28 Apr 2011 13:44:35 GMT
+Judged TRUE by ais523:                  28 Apr 2011 20:28:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+There are unambiguous ways to accomplish the intent (e.g.
+the condition "1 = 1" or any other tautology), but it seems too far a
+stretch to interpret this as equivalent to such a construction (which
+tautology should be chosen)?  The clause could be interpreted
+literally, in which case it has the same ambiguity of truth value as
+"This statement is true"; but the intent is obvious, so the ambiguity
+should be resolved in line with it.
+
+========================================================================
+
+Caller's Evidence:
+
+scshunt wrote:
+
+> On 11-04-25 05:31 PM, Sean Hunt wrote:
+>> I create a Promise with the text
+>>
+>> { Let N be the number of the specified proposal.
+>>
+>>   I retract any votes on the Proposal N and vote to ENDORSE the player
+>> cashing this promise.
+>> }
+>>
+>> and the conditions
+>>
+>> { The entity cashing this promise, in the same message as e cashes it,
+>> transfers me 10 points and either transfers me an additional 30 points
+>> and destroys this promise, or else transfers it to the Tree. }
+>>
+>> and then transfer that Promise to the Tree.
+>>
+>> -scshunt
+> Oops; I publish a promise identical except that has the additional
+> condition {This promise is not destroyed upon being cashed}.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I read the statement as a pretty clear "This statement is
+true" analogue. However, the situation is a bit more interesting than
+that. A promise cannot be cashed unless all its conditions are true.
+Thus, if the condition in question is false, it is vacuously true (as
+the condition cannot be cashed at all), leading to a contradiction; but
+if it's true, there's no contradiction. In such a case, being true is
+the most sensible truth value for the statement. The statement of 3014
+has a very clear conditional, which works much the same way but is even
+less ambiguous; if the promise can be cashed at all, it isn't destroyed.
+Thus, definitely TRUE. (As a side effect, it turns out that the
+condition in question doesn't restrict the promise in question from
+being cashed after all.)
+
+========================================================================

@@ -1,0 +1,105 @@
+=============================  CFJ 3445  =============================
+
+      A violation of R2446 has occurred this week.
+
+======================================================================
+
+Caller:                     G.                                
+
+Judge:                      omd            
+Judgement:                  TRUE            
+
+======================================================================
+
+History:
+
+Called by G.:               28 Apr 2015
+Assigned to omd:            17 May 2015
+Judged TRUE by omd:         23 May 2015 
+
+======================================================================
+
+Caller's Arguments:
+
+The Herald did not publish a newspaper during the week of Apr 20-26.
+This is a violation of R2446 that was technically triggered on the
+cusp between weeks.  So the issue at hand is the "this week" part.
+
+Rule 2426 (Cards) reads in part:
+The Referee SHALL issue at least one Card per week, unless no
+violations occurred that week.
+
+Since the violation occurred "between" weeks, not "within" a week,
+the question is whether the violation (or any weekly deadline) can be
+attributed to a specific week for the above clause.  This is
+relevant if someone tries to use the Referee's SHALL clause above to
+deputize for the office - it's the only actual requirement of the
+Referee office that can be deputized for.
+
+======================================================================
+
+Caller's Evidence:
+
+Rule 2446/0 (Power=1)
+The Agoran Newspaper
+[excerpt]
+
+      The Agoran Newspaper is a weekly publication describing
+      noteworthy recent events that occured in the public fora in the
+      past 7 days. The Herald SHALL write and publish The Agoran
+      Newspaper each week.
+
+======================================================================
+
+Judge's Arguments:
+
+In general, if you have a requirement to do something in a particular
+week, considering violations of that requirement to occur during that
+same week would be seriously problematic in connection with R2426.  If
+no rule violations occur for two weeks, but someone doesn't publish
+their weekly report the second week, then under this interpretation
+R2426 would require the Referee to issue a Card in the infinitesimal
+interval of time at the end of the week; we should be predisposed to
+interpretations that don't create impossible requirements.  Two
+counterpoints that come to mind are that (a) R2426 is already
+problematic without this interpretation, since the situation is just
+as impossible for the Referee if a violation occurs during, say, the
+last minute of the week (but such violations are probably
+significantly rarer than missing weekly duties); and (b) the history
+of weekly requirements is far, far older than R2426, so we should be
+reluctant to give the former a fundamental-seeming property based on
+the quirks of the latter (but I cannot find any past cases where the
+issue was relevant).
+
+Still, this interpretation just fundamentally seems icky to me.
+Another weird case would be if violating the rule somehow triggered
+the report to be published automatically, say under some partnerships
+law, causing a paradox; this is more of a stretch since it doesn't
+come up in current rules, but it doesn't seem unreasonable to want
+automatic actions to work at least somewhat sanely should they be
+introduced.
+
+Okay, so the next possibility is that it occurs in a 'witching hour'
+between weeks, as the caller suggests.  I fundamentally dislike this
+idea because it adds complexity to our treatment of time without any
+explicit support from rule text: we already need to deal with 'right
+before the week ends' and 'right after the week starts' (and if we
+actually cared to be all Magic: The Gathering and get the ordering of
+such actions well-defined, those two buckets would be quite sufficient
+to place just about any interesting effects in); we don't need a third
+time period in between the first two, which makes "current week" no
+longer a well-defined query.
+
+For this case in particular, making it impossible to deputise for the
+Referee, despite violations occurring, is also clearly undesirable.
+
+That leaves the possibility that the violation occurs right at the
+start of the next week.  I can't think of any particular downside to
+this except that it could possibly create ambiguous ordering with
+other start-of-week effects, but precise ordering of violations is
+unlikely to be important anytime soon.  So I'm going to go for this
+option.
+
+TRUE.
+
+======================================================================

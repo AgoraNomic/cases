@@ -1,0 +1,68 @@
+==============================  CFJ 2816  ==============================
+
+    In the above-quoted message, coppro submitted a CFJ.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       16 Jul 2010 17:35:50 GMT
+Assigned to G.:                         17 Jul 2010 00:07:29 GMT
+Judged FALSE by G.:                     17 Jul 2010 05:25:19 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It certainly looks like e was trying to, but the CFJ
+submission starts with an unmatched opening brace, making it unclear
+where, exactly, the CFJ ends. Is there an actual CFJ there, or does the
+ambiguity make it invalid?
+
+========================================================================
+
+Caller's Evidence:
+
+> >> I CFJ {I can
+> >>
+> >> Proposal: Heft in a Luff (II=0, AI=1.5, Distributable)
+> >> {{{
+> >> Ratify {Warrigal never held the Patent Title Left in a Huff}.
+> >> }}}
+> >>
+> >> Proposal: Unanimous Consent (II=0, AI=3, Distributable)
+> >> {{{
+> >> Amend Rule 2202 by replacing the first paragraph with:
+> >>        Any player CAN, without objection, ratify a
+> >>        public document, specifying its scope. If
+> >>        that document is an official report or a substantial portion
+> >>        thereof, until such a time as that report or portion is again
+> >>        ratified, the date and scope of the ratification become a part
+> >>        of the report.
+> >> }}}
+
+========================================================================
+
+Judge G.'s Arguments:
+
+It's very nice when a CFJ is a statement that can be answered or judged.
+R591 implies that it should be so.  So while it's no longer an explicit
+part of the Rules, a good standard to set might follow R1563/1: "a
+single clearly-labeled Statement which must be able to be determined by
+the means of logical reasoning" (see CFJ 1266).
+
+I won't claim that I can be so strict as to say that every CFJ statement
+must be shown to yield to logical reasoning before being accepted as a
+CFJ (that would launch a round of meta-CFJs on alleged CFJs). But
+yielding to basic, fundamental grammar would be nice.  In any case, the
+uncertainty of statement termination noted by the caller fails any of
+"clearly-labeled" or even "labeled".  FALSE.
+
+========================================================================

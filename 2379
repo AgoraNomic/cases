@@ -1,0 +1,68 @@
+==============================  CFJ 2379  ==============================
+
+    It is possible to change the contestmaster of a contest through a
+    contract-defined dependent action.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          13 Feb 2009 00:02:59 GMT
+Assigned to Murphy:                     14 Feb 2009 17:52:53 GMT
+Judged TRUE by Murphy:                  14 Feb 2009 18:31:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Although Rule 2136 authorizes an existing contest to change
+its contestmaster, Rule 1728 reads:
+
+      A person CAN perform a dependent action authorized by a contract
+      as if that contract were a rule, provided that the above
+      requirements are otherwise met, and that the effects of that
+      action are restricted to altering entities and/or attributes
+      whose existence depends on that contract.
+
+As the existence of the contestmaster attribute does not depend on the
+contract, dependent actions whose effects would include changing a
+contest's contestmaster are not possible.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+rule 2136 authorizes this to happen whether or
+not 1728 does.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+It allows the contestmaster to be changed when the mechanism (of a
+dependent action) succeeds; however, R1728 does not allow it to
+succeed.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The existence of a contract's contestmaster attribute does depend on
+that contract, specifically on its existence.  If R1728 said "whose
+existence depends on the text of that contract", then this argument
+would not hold.
+
+Furthermore, even in the absence of the last paragraph of R1728,
+R2136(b) (the one under "the contestmaster ... CAN be flipped") could
+be interpreted as validating the same intent, particularly if no party
+was actively arguing "that doesn't work because R1728 only allows rules
+to define dependent actions".
+
+========================================================================

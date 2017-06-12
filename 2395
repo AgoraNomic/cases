@@ -1,0 +1,91 @@
+==============================  CFJ 2395  ==============================
+
+    If a player is required by a rule to do something by a time limit,
+    and e deregisters before the time limit, then re-registers after the
+    time limit expires (and didn't do the action), e has broken the rule
+    either at, or immediately after, the time of eir  re-registration.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 ehird
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           01 Mar 2009 16:06:30 GMT
+Assigned to omd:                        01 Mar 2009 16:29:45 GMT
+omd recused:                            01 Mar 2009 20:23:47 GMT
+Assigned to Wooble:                     05 Mar 2009 07:06:22 GMT
+Judged FALSE by Wooble:                 05 Mar 2009 13:41:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I really don't know how to treat this case, which just happened.  A few
+possibilities:
+
+1.  E breaks the rule while e is deregistered, at the moment of the time
+limit, even though e is not a player (vaguely seems to go against R101,
+though in keeping with CFJ 2393).
+
+2.  The obligation vanishes upon deregistration and does not re-appear
+upon registration (though the fact is e didn't do the action).
+
+3.  The breakage happens upon eir registration, for that is the first
+moment of time in which e is both (a) bound to the rules; and (b)
+beyond the deadline.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE.  The violation of a rule by failing to perform a
+required action within a specified time limit occurs when the time
+limit expires.
+
+It should be noted that the courts do have the power to punish
+non-players who violate obligations under the rules, even though in
+practice this punishment is limited to forbidding the non-player in
+question to register for a time (currently by giving em Rests,
+previously by a sentence of EXILE).  Such punishments of non-players
+are probably only appropriate when the non-players are participating
+in the game in the larger sense, such as when they break an obligation
+they've willingly made under an Agoran contract.  While the scope of
+the rules is unlimited, clearly non-players who aren't participating
+in the larger sense would fall under the former UNAWARE judgement on
+culpability which has been absorbed into the NOT GUILTY judgement now.
+
+The question of how to punish former players who deregister to escape
+from rules-imposed obligations is a bit trickier, of course.  They're
+almost certainly aware that they're violating the rules, but the
+history of the right to deregister rather than to continue to play was
+linked, in Suber's initial ruleset, to the right not to be punished,
+in the judgement of the player, with a punishment worse than losing.
+Agora's current ruleset doesn't make this right explicit, but the
+R101(vii) right to deregister coupled by R869's prohibition on
+registering within 30 days of invoking this right seems to serve the
+same purpose in a game where "losing" isn't well-defined.  In
+traditional games, and probably in Suber's imagination of nomic, the
+game comes to an end after a period of time, after which some of the
+players are winners and some are losers.  Since Agora in envisioned as
+continuing indefinitely and it's possible for many players to "win"
+without the game ending and everyone else "losing", it can be said
+that Agora has replaced "no punishment worse than losing" with "no
+punishment worse than loss of citizenship for a period of no less than
+30 days." Whether it's appropriate to assign Rests to a player who has
+already voluntarily deregistered to increase eir exile beyond 30 days
+is a matter for the judges in individual cases to consider; my
+personal intuition is that for most offenses a 30 day exile is more
+than adequate.
+
+========================================================================

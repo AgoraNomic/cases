@@ -1,0 +1,103 @@
+==============================  CFJ 2717  ==============================
+
+    On or around Wed, 07 Oct 2009 20:37 the office of Grand Poobah
+    successfully audited ais523.
+
+========================================================================
+
+Caller:                                 BobTHJ
+Barred:                                 ais523
+
+Judge:                                  Tiger
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by BobTHJ:                       07 Oct 2009 20:59:51 GMT
+Assigned to Tiger:                      14 Oct 2009 22:42:37 GMT
+Judged FALSE by Tiger:                  15 Oct 2009 19:30:51 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+If you're planning to run a timing scam, it helps to actually
+get the timing right. If you're going to use an automated system to
+write your messages, it's your own fault if it ruins any scams you might
+plan to run. (Whatever happened to two actions that need to be
+uninterrupted for a scam being sent in the /same message/, like everyone
+else's timing scams are?)
+
+========================================================================
+
+Caller's Arguments:
+
+The rules require dealors to audit the player or players
+currently holding the most cards from the respective deck. At the time
+I initiated the audit via my web-interface the player currently
+holding the most Government cards was ais523. However, in the ~30
+seconds it took my script to process and spit out the automated e-mail
+to the list ais523 sent the above referenced message which appears to
+have reached the list first.
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Oct 7, 2009 at 14:35, ais523 <callforjudgement@yahoo.co.uk> wrote:
+> On Wed, 2009-10-07 at 14:32 -0600, Roger Hicks wrote:
+>> I'm doing this because:
+>>
+>> a) Murphy would be the target if I didn't, and I don't think e deserves it.
+>> b) There are only a handful of players with enough cards to come close
+>> to hitting the limit
+>> c) ais523 recently ran a scam that created rests a lot of rests and
+>> never cleaned those rests up when e was done
+>>
+>> I transfer Arm-Twist x8 and Roll Call x13 to ais523.
+>>
+>> I IBA-withdraw Roll Call x13 (for 260zm I believe)
+>>
+>> I transfer Roll Call x13 to ais523.
+>>
+>> Since the penalty for this will be rather severe (14 rests) I submit
+>> the following proposal and make it distributable:
+>
+> I transfer Arm-Twist x8 and Roll Call x26 to the L&FD.
+>
+Hmm....according to the list your message beat mine.
+
+========================================================================
+
+Gratuitous Arguments by BobTHJ:
+
+Admittedly, I botched this. I decided to split it into two mails so
+that my system could automatically process the audit and save me the
+hassle of entering it manually. I sent the first message and then
+clicked to auto-generate the second message only a few seconds later.
+However, apparently the server where I have my automation running was
+just finishing a re-start cycle and (due to the way ASP.NET works) it
+had to re-compile all my code and restart the application before the
+mail processed.
+
+That being the case, I'm not convinced that it invalidated the audit.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+In addition, this did indeed
+invalidate the audit as BobTHJ could have stopped his mail being sent
+after my mail had already been received (say by interrupting the
+compile); in fact, according to the headers my email was received at the
+lists before BobTHJ's even claims to have been sent.
+
+========================================================================
+
+Judge Tiger's Arguments:
+
+FALSE, deferring to ais523's arguments. The caller should work on eir timing.
+
+========================================================================

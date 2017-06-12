@@ -1,0 +1,91 @@
+=============================  CFJ 3448  =============================
+                          
+      It is POSSIBLE for a player to win by Raising a Banner and, if a
+      player wins the game, a new game begins.       
+
+======================================================================
+
+Caller:                      scshunt                   
+
+Judge:                       G.            
+Judgement:                   TRUE
+
+======================================================================
+
+History:
+
+Called by scshunt:           13 May 2015
+Assigned to G.:              17 May 2015
+Judged TRUE by G.:           22 May 2015
+
+======================================================================
+
+Caller's Arguments:
+
+I believe R101 now takes precedence over 1023.
+
+======================================================================
+
+Judge's Arguments:
+
+
+"Hey, I just bought a game of Cosmic Encounters".  "Really?  I'll come
+over and we'll play a game."  "Oh, do you know the game?"  "Yes."
+
+Here, in common language, "game" is used clearly in three contexts:
+(1) a physical copy; (2) an instance of play, and (3) a platonic
+set of rules that can be "known".  As shown, it's perfectly reasonable
+to have multiple definitions of this term even within a single
+exchange.  So supporting multiple definitions in a ruleset shouldn't
+be over-challenging, provided the context is clear in each particular
+use.
+
+R101 doesn't define "game" per se; rather, it defines Agora as an
+instance of the game of Nomic, then in clear context, states that
+Agora (i.e. "the game") may be won, but doesn't end:
+
+      Agora is a game of Nomic, wherein Persons, acting in accordance
+      with the Rules, communicate their game Actions and/or results of
+      these actions via Fora in order to play the game.  The game may
+      be won, but the game never ends. 
+
+This makes perfect sense if "Agora" is substituted for each instance
+of "the game".  The implication "doesn't end" means that whatever Agora
+is, we are talking about its ongoing present state.  Therefore, it's
+also reasonable to consider the undefined term "gamestate" as
+synonymous with "the game of Agora" described in R101.  This usage of
+"game" is fairly clear in R2141 and R217 ("game custom" and "good of
+the game" are clearly ongoing considerations - you can't have game
+custom without a game history), and the rules make perfect sense if
+you replace "gamestate" with "game Agora" in the rules.
+
+Conversely, R2141 defines "game" as a unit of time between wins, while
+qualifying that this term is used only in certain circumstances (time
+intervals).  Since the definition allows a unique temporal ordering of
+the games, this is what R104 refers to as the "first" game.
+
+So what happens when a player "wins the game"?  There is nothing
+contradictory in saying that BOTH (a) the records of the Gamestate
+reflect that the player "won Agora" on such and such a date; and (2)
+if a "becoming a winner" caused the Nth (time-unit) game to end and a
+new one to begin, that the winners also won that Nth game.
+
+And what does this mean for Raising the Banner?  Rule 2438/1 reads:
+
+      While a person owns all types of Ribbon, that person can Raise a
+      Banner by announcement. This causes that person to win the game
+      and a new game begins.
+
+Here, it's ambiguous what type of "game" is beginning.  But simply: 
+if it's referring to a time-unit game, it's a no-op; R2141 already
+covers moving from the Nth game to the N+1th game.   If it refers to a
+starting a "new Agora", that would be counter-intuitive.  R2438
+makes it clear that it's not changing the whole gamestate when games
+begin, which that fits clearly with the time-interval definition. 
+
+So in fact, it's possible to raise the banner and win the game.
+Reading the Caller's "game" in the CFJ as referring to the time
+interval (not the Game of Agora), it works, and Agora doesn't end.
+
+======================================================================
+

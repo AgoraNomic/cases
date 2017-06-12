@@ -1,0 +1,53 @@
+==============================  CFJ 2079  ==============================
+
+    I CFJ on this statement.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         15 Jul 2008 20:04:03 GMT
+Assigned to woggle:                     17 Jul 2008 06:12:58 GMT
+Judged TRUE by woggle:                  19 Jul 2008 04:24:42 GMT
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+The statement is not UNDECIDABLE, because it is capable of being
+accurately described as true.
+
+The statement is not IRRELEVANT, because its veracity determines the
+existence of the CFJ.
+
+The statement is obviously not FALSE.
+
+The statement is not vague or nonsensical, and there is no lack of
+information for the judge, so the statement is not UNDETERMINED.
+
+The only option left is TRUE.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I accept the caller's arguments on truth if this CFJ exists.
+
+The remaining quesiton is whether the announcement was sufficient to
+initiate a CFJ. R591 permits root to initiate an inquiry case "by
+announcement which includes the statement to be inquired into". The
+straightforward meaning of roots statement is certainly that e
+initates an inquiry (as CFJ is a firmly a verb meaning to "initate a
+CFJ" in Agoran jargon and CFJs on statements of this sort can only be
+inquiry cases), and it certainly does include statement being inquired
+into. I find that "this statement", in context, is also not ambiguous
+in a way that would cause problems with R2208.
+
+========================================================================

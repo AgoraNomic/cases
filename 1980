@@ -1,0 +1,175 @@
+==============================  CFJ 1980  ==============================
+
+    comex CAN initiate an equity case concerning the Gnarlier Contract
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by ais523:                       29 May 2008 17:12:48 GMT
+Assigned to omd:                        30 May 2008 07:35:17 GMT
+Judged UNDECIDABLE by omd:              03 Jun 2008 20:28:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See my arguments on CFJ 1975. That particular CFJ was
+judged FALSE due to rule 2197. However, whether a non-party can
+initiate an equity case depends on whether the contract is a pledge,
+and this depends on my gnarlierness, which I don't know; initiating
+an equity case is also not affected by rule 2197, as it is not a
+Contract Change. To repeat my arguments: TRUE and FALSE are both
+inappropriate, because my gnarlierness is unknown (and ehird's, being
+slippier, is definitely not mixier, so my gnarlierness is the only
+one that matters here), IRRELEVANT is inappropriate because for all I
+know, comex might want to initiate an equity case, and anyway whether
+e does or not the knowledge of whether e can is relevant to the game,
+and so only UNDETERMINED or UNDECIDABLE can be appropriate. I feel
+that UNDETERMINED is inappropriate because the lack of knowledge of
+my gnarlierness depends on the interpretation of the rules (for
+instance, if there were a rule "Whenever an exiled entity is ever
+not a player, e is registered", it would cause the same sort of
+trigger loop as this one, and interpretation of those rules would
+determine whether the entity in question were a party. UNDECIDABLE is
+appropriate, however; the statement is not capable of being accurately
+described as either true or false because it depends on unknown and
+unknowable information.
+
+========================================================================
+
+Caller's Evidence:
+
+the following message (heh, a legitimate reason to top-
+post):
+-----Original Message-----
+From: agora-business-admin@agoranomic.org on behalf of Alexander Smith
+Sent: Thu 29/05/2008 18:00
+To: agora-business@agoranomic.org
+Subject: BUS: RE: Salvaging the Gnarly Contract
+
+I hereby publish the text and membership of the Gnarlier Contract,
+a public contract:
+
+Text:
+{{{
+1. This is a public contract.
+
+2. This is a pledge if and only if the gnarlierness of any of its
+parties is mixier.
+
+3. Any player CAN join this contract by announcement.
+
+4. There is a property associated with each party to this contract,
+known as eir gnarlierness; it acts much like a switch possessed by
+parties to this contract with values in the set {slippier, spikier,
+twistier, mixier}, with slippier being the default. (It is not a
+switch because it is not defined by the rules, and it is not tracked
+by an officer.) A party's gnarlierness CAN be flipped as described
+in this contract, and by this contract, and CANNOT be flipped except
+as allowed by this contract.
+
+5. Any party to this contract may flip eir gnarlierness to either
+slippier or twistier by announcement.
+
+6. Whenever a party's gnarlierness becomes twistier (including, but
+not limited to, being flipped to twistier), it is flipped to mixier.
+
+7. Whenever a party's gnarlierness becomes mixier (including, but
+not limited to, being flipped to mixier), it is flipped to spikier.
+
+8. Whenever a party's gnarliness becomes spikier (including, but
+not limited to, being flipped to spikier), it is flipped to twistier.
+
+9. A party CAN leave this contract by announcement.
+}}}
+Membership: ais523, ehird.
+
+I flip my gnarlierness to twistier.
+
+========================================================================
+
+Judge omd's Arguments:
+
+The Gnarlier Contract does create a paradox that, were it in the
+rules, would definitely deserve a Win by Paradox.  The issue is
+whether the contract is, in fact, allowed to state something like:
+
+6. Whenever a party's gnarlierness becomes twistier (including, but
+not limited to, being flipped to twistier), it is flipped to mixier.
+
+and have that actually happen.
+
+Contracts certainly cannot take infinite game actions, by CFJ 1584.
+But flipping some internal gamestate is not a game action.
+
+By Justice Pavrita's arguments in the appeal of CFJ 1936, contracts
+are at heart a primordial thing that, while perhaps governed by the
+rules, are at some lowest level external to them.  The Rules could
+perhaps restrict the type of gamestates contracts can keep (although I
+don't support this), but without any specification of this, it should
+be assumed that contracts can keep whatever vague or ambiguous
+gamestate they like, just like a foreign nomic.  (Indeed, we have had
+instances of foreign nomics proposing rules which make them Agoran
+contracts.)
+
+I propose that, for the good of the game, contracts should keep that
+right (which I judge they do presently have) to have paradoxical or
+ambiguous gamestates.  Any Rule that depends upon a contract's
+gamestate (e.g. the Pledges rule, or allowing partnerships to take
+actions) should require that the gamestate be unambiguously in
+whatever state is required (i.e. claiming to be a pledge).  They
+presently do not, "escalating" a contract ambiguity into a Rules
+ambiguity.  It's not just that these paradoxes shouldn't become
+tortoises; they shouldn't be allowed to create a Rules ambiguity at
+all.
+
+Since tortoises have to remain such for two weeks, it is worth noting
+that (if passed) a prompt proposal could eliminate any Win by Paradox
+resulting from this case.
+
+Now, I don't agree with Judge Pavrita's quantum theory from eir
+judgement of CFJ 1936.  I don't think contracts should be allowed to
+force us to make such complicated and arbitrary interpretations of
+such concepts as time.  Instead, I think the Gnarlier Contract's
+switches are simply in an undefined state.  This makes UNDECIDABLE a
+clear-cut appropriate judgement.
+
+But from Rule 591:
+     * UNDETERMINED, appropriate if the statement is nonsensical or
+       too vague, or if the information available to the judge is
+       insufficient to determine which of the FALSE, TRUE, and
+       UNDECIDABLE judgements is appropriate; however, uncertainty as
+       to how to interpret or apply the rules cannot constitute
+       insufficiency of information for this purpose
+
+I am uncertain as to how to interpret and apply the Gnarlier Contract.
+ The statement about uncertainty as to how to interpret or apply the
+rules implies that uncertainty as to how to interpret and apply
+*something* COULD potentially be an insufficiency of information worth
+an UNDETERMINED judgement, as long as it is not the rules.  The
+Gnarlier Contract is not the rules, so UNDETERMINED is also
+appropriate.
+
+UNDECIDABLE or UNDETERMINED?
+
+The fact is that, as a bug in the Rules that must be patched with a
+Proposal, the ability of contracts to engineer Rules paradoxes is a
+valid scam.  The scamsters should not be deprived of their Win by
+Paradox.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Correction: the aforementioned "quantum theory" is from eir judgement
+of CFJs 1975-6.  My other reference to CFJ 1936 was correct.
+
+========================================================================

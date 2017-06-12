@@ -1,0 +1,204 @@
+======================================================================
+                               CFJ 885
+
+"The Adoption Index of Proposal 2741 was 3."
+
+======================================================================
+
+Judge:       Steve
+
+Judgement:   TRUE
+
+Eligible:    Blob, Chuck, Coren, elJefe, favor, Michael, Murphy,
+             Oerjan, Steve, Swann, Vanyel
+
+Not eligible:
+Caller:      Zefram
+Barred:      Morendil
+On hold:     Andre
+Defaulted:   KoJen
+
+======================================================================
+
+History:
+  Called by Zefram, Sat, 9 Nov 1996 19:06:53 +0000 (GMT)
+  Assigned to KoJen, Tue, 19 Nov 1996 11:06:09 +0000
+  KoJen defaults, Tue, 26 Nov 1996 11:06:09 +0000
+  Re-assigned to Steve, Sat, 30 Nov 1996 13:34:08 +0000
+  Judged TRUE, Fri, 6 Dec 1996 13:50:51 +1100 (EST)
+  Published, Fri, 6 Dec 1996 17:58:51 +0000
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+The relevant part of Proposal 2741 (see the Evidence section for the
+complete text) reads as follows:
+
+      Be it further resolved that if this Proposal attained a Voting
+      Index greater than 3, Rule 1339 ("Rule Changes") shall be
+      amended...
+
+Rule 594 defines the Adoption Index for Proposals. The relevant part
+of that Rule reads:
+
+      Unless another Rule states otherwise, the Adoption Index of a
+      Proposal shall be the minimum Adoption Index which would allow
+      all Rule Changes and Directives within the Proposal to take
+      effect, or 1, whichever is greater.
+
+The truth or falsity of the Statement therefore turns on the question
+of whether the proposed amendment of R1339 contained in P2741 really
+was a Rule Change or not. If it was a Rule Change, then the AI of
+P2741 was indeed 3 as the Statement alleges, since that would be the
+minimum AI the Proposal could have which would allow all the Rule
+Changes in it to take effect. If, for some reason, however, the
+proposed amendment to R1339 was not a Rule Change, then the other Rule
+Changes in the Proposal could all have been effective if the Proposal
+had an AI of only 1.
+
+However, I do not find convincing reasons to think that the proposed
+amendment to R1339 is not a Rule Change. True, it is a conditional
+Rule Change, but we have seen many of those before. It is also true
+that the nature of the condition imposed is an unusual one, in that it
+is tied to the Voting Index of the Proposal itself. But in order for
+me to rule that that this condition prevents the proposed amendment
+from being a Rule Change, I should have to read the Proposal as making
+the *existence* of the Rule Change conditional on the VI of the
+Proposal, rather than just its effectiveness - and this I am not
+prepared to do.
+
+It is my ruling that if a Proposal imposes a condition upon the
+adoption of some Rule Change, then that condition is to be read as
+limiting the circumstances under which the Rule Change can be
+effective. The condition should not be read as limiting the
+circumstances under which the Rule Change can be said to exist.  The
+Rule Change, conditional or not, is contained within the Proposal, and
+its existence is therefore not in question. On the basis of this
+principle, I judge the Statement TRUE.
+
+Relevant Rules: 594
+
+======================================================================
+
+Evidence:
+1. Proposal 2741 (complete text)
+2. Rule 594/2
+
+----------------------------------------------------------------------
+
+Proposal 2741 by Zefram:
+Clean up the Logical Ruleset
+
+###
+
+Be it therefore resolved that Rule 1051 ("The Office of the
+Rulekeepor") be amended to read
+
+      There shall exist the Office of Rulekeepor.  The Rulekeepor
+      shall receive a weekly Salary equal to 2 times the Basic Officer
+      Salary.
+
+      The Rulekeepor shall maintain a complete list of all Rules.  At
+      least once a week, the Rulekeepor shall post the Logical Ruleset
+      to the Public Forum.
+
+{Moved the mandate to use the Logical Ruleset here, where it belongs.}
+
+Be it further resolved that Rule 1048 ("The Logical Ruleset") be
+amended to read
+
+      There is a format of the Ruleset known as the Logical Ruleset.
+      In this format, each Rule is assigned to a Rule Category, and
+      the Rules are grouped according to their Category.  Within a
+      Category, the ordering of Rules is decided by the Rulekeepor.
+      All existing Rule Categories must be listed, along with a brief
+      description, even if no Rules are currently assigned to the
+      Category.
+
+      A Rule Change that Creates a new Rule may specify an existing
+      Category to which the new Rule will be assigned.  If it does
+      not, the Rulekeepor shall choose the new Rule's Category.  When
+      doing so, the Rulekeepor may create a new Rule Category and
+      assign the Rule to this new Category.
+
+      The Rulekeepor may remove an empty Rule Category as e sees fit.
+
+      If the Rulekeepor creates or removes a Category, e must announce
+      it in the Public Forum no later than the first subsequent
+      publication of the Logical Ruleset.
+
+{Most of the law concerning Categories is now here.  The Directives to
+Foobar a Category still exist as separate Rules -- I have another
+proto to remove them.}
+
+Be it further resolved that Rule 1452 ("Rulekeepor Maintains
+Categories") be repealed.
+
+Be it further resolved that if this Proposal attained a Voting Index
+greater than 3, Rule 1339 ("Rule Changes") shall be amended by
+deleting the paragraph reading
+
+      Any Rule Change which creates a New Rule may specify the
+      Category to which the New Rule will be assigned.  If the
+      Category specified exists, the Rule shall be assigned to that
+      Category.  If the Category specified does not exist, or no
+      Category is specified, the Rulekeepor shall assign the Rule to
+      an appropriate category of eir own choice.
+
+{Subsumed into Rule 1048 ("The Logical Ruleset").
+
+*v2.1* Added the messy conditional, so that the Proposal can have an
+AI of 1 but still amend 1339 if it gets a sufficiently high VI.  The
+Rules currently don't handle this sort of thing brilliantly, but it's
+legal.  Also listed the full paragraph to be deleted, for additional
+clarity.}
+
+Be it further resolved that Rule 1485 ("Titles For Rules") be amended
+to read
+
+      All Rules have a Title, which is a single line of text
+      containing not more than 60 characters.  The Title must be
+      listed by the Rulekeepor along with the Rule.  However, the
+      Title is not part of the Rule itself and has no effect on the
+      meaning or application of the Rule, being merely a convenience
+      for the Players.
+
+      A Rule Change that Creates a new Rule may specify a Title for
+      the new Rule.  If it does not, the Rulekeepor shall choose the
+      new Rule's Title.
+
+      To change the Title of an existing Rule:
+
+      A Rule's Title may be changed by a Directive.  The Directive
+      must unambiguously state the number of the Rule and the new
+      Title.
+
+{Removed a lot of now-redundant gunk.
+
+*v2.1* Oops, we do still need the Directive to change a Rule's Title.}
+
+----------------------------------------------------------------------
+
+Rule 594/2 (Mutable, MI=1)
+Proposals and Rule Changes
+
+      A Proposal may contain one or more Rule Changes.  If a Proposal
+      containing Rule Changes is adopted, the Rule Changes contained
+      in the Proposal shall take effect in the order they appear in
+      the Proposal.
+
+      Unless another Rule states otherwise, the Adoption Index of a
+      Proposal shall be the minimum Adoption Index which would allow
+      all Rule Changes and Directives within the Proposal to take
+      effect, or 1, whichever is greater.
+
+      In no case may a Proposal have an Adoption Index of less than 1.
+
+======================================================================
+
+(Caller's) Arguments: (none)
+
+======================================================================

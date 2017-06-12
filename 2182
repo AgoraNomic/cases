@@ -1,0 +1,125 @@
+==============================  CFJ 2182  ==============================
+
+    The message sent by "celestialcognition@gmail.com" on "Sat, 20 Sep
+    2008 22:21:09 -0500" (see evidence 1) was successful in initiating a
+    CFJ.
+
+========================================================================
+
+Caller:                                 Sir Toby
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Sir Toby:                     24 Sep 2008 04:59:29 GMT
+Assigned to omd:                        28 Sep 2008 22:03:47 GMT
+Judged FALSE by omd:                    28 Sep 2008 22:21:26 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I apologize for including the full headers of the
+email, but a game action was attempted in a header
+that is not normally displayed.
+
+<evidence id="1">
+Delivered-To: jjweston@gmail.com
+Received: by 10.150.147.4 with SMTP id u4cs189531ybd;
+        Sat, 20 Sep 2008 20:22:24 -0700 (PDT)
+Received: by 10.100.171.10 with SMTP id t10mr1694913ane.123.1221967341618;
+        Sat, 20 Sep 2008 20:22:21 -0700 (PDT)
+Return-Path: <agora-business-admin@agoranomic.org>
+Received: from yzma.clarkk.net (yzma.clarkk.net [66.219.50.42])
+        by mx.google.com with ESMTP id c39si5975824anc.29.2008.09.20.20.22.04;
+        Sat, 20 Sep 2008 20:22:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of agora-business-admin@agoranomic.org
+designates 66.219.50.42 as permitted sender) client-ip=66.219.50.42;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of
+agora-business-admin@agoranomic.org designates 66.219.50.42 as permitted
+sender) smtp.mail=agora-business-admin@agoranomic.org; dkim=hardfail (test
+mode) header.i=@gmail.com
+Received: from yzma.clarkk.net (localhost [127.0.0.1])
+        by yzma.clarkk.net (Postfix) with ESMTP
+        id F07D58079A; Sat, 20 Sep 2008 22:22:03 -0500 (CDT)
+Delivered-To: agora-business@yzma.clarkk.net
+Received: from mail-gx0-f18.google.com (mail-gx0-f18.google.com
+[209.85.217.18])
+        by yzma.clarkk.net (Postfix) with ESMTP id 4B8628077A
+        for <agora-business@agoranomic.org>; Sat, 20 Sep 2008 22:21:13 -0500
+(CDT)
+Received: by gxk11 with SMTP id 11so1977966gxk.4
+        for <agora-business@agoranomic.org>; Sat, 20 Sep 2008 20:21:12 -0700
+(PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:received:received:from:to:subject:date
+         :user-agent:mime-version:content-disposition:x-length:x-uid
+         :x-agora-game-action:content-type:content-transfer-encoding
+         :message-id;
+        bh=wE7NXSkgnx9PGiavN4OZhJztvkqPDlemV3OGuEnLwNo=;
+        b=dh10pHictzvUbgK2Qf8HCmhzhS7UtEhN5gu8k5+5DIh8bPmJaBxaPjOxJRRzy0IqeC
+         CGDIL+YTpLI9K0uXg/6UkIYbSaGYs6w66J+rPc2YHCO6apc5aSfX4P/+BlrrKH5MaqtN
+         b/lA39X0gFhW6M5ksFHwjGXKz32o1/Y6/RKVA=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=from:to:subject:date:user-agent:mime-version:content-disposition
+         :x-length:x-uid:x-agora-game-action:content-type
+         :content-transfer-encoding:message-id;
+        b=rYhnx0ZnQ6VUI1PCmTg0k9FUcCC3A1lwJsGCSOF81czLQAZ6y1FAXaf4klgvX/Q46A
+         D07WRcbwCP/JdKQLK8ekBRaWysg1uC4JCR/7k5p4GI9vBlgZ4AXE2x4ZXh5dR2eGfS4K
+         QM5A8yWNIwhpXiIbFi1fBoacsMPVBCUotcWeE=
+Received: by 10.150.12.10 with SMTP id 10mr5295145ybl.154.1221967272945;
+        Sat, 20 Sep 2008 20:21:12 -0700 (PDT)
+Received: from ginny.local ( [69.18.50.2])
+        by mx.google.com with ESMTPS id d25sm3907568elf.17.2008.09.20.20.21.11
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Sat, 20 Sep 2008 20:21:11 -0700 (PDT)
+From: Ben Caplan <celestialcognition@gmail.com>
+To: agora-business@agoranomic.org
+User-Agent: KMail/1.9.9
+MIME-Version: 1.0
+Content-Disposition: inline
+X-Length: 605
+X-UID: 1827
+X-Agora-Game-Action: I CFJ on this statement.
+Content-Type: text/plain;
+  charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Message-Id: <200809202221.09584.celestialcognition@gmail.com>
+Subject: BUS: test
+Sender: agora-business-admin@agoranomic.org
+Errors-To: agora-business-admin@agoranomic.org
+X-BeenThere: agora-business@agoranomic.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: agora-discussion@agoranomic.org
+List-Help: <mailto:agora-business-request@agoranomic.org?subject=help>
+List-Post: <mailto:agora-business@agoranomic.org>
+List-Subscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=subscribe>
+List-Id: Agora Nomic public communications (PF)
+<agora-business.agoranomic.org>
+List-Unsubscribe:
+<http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+        <mailto:agora-business-request@agoranomic.org?subject=unsubscribe>
+List-Archive:
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/>
+Date: Sat, 20 Sep 2008 22:21:09 -0500
+
+This is a test message.
+</evidence>
+
+========================================================================
+
+Judge omd's Arguments:
+
+By the precedent of CFJ 1631, the only relevant part of a public
+message is its body.  FALSE.
+
+========================================================================

@@ -1,0 +1,52 @@
+======================================================================
+                               CFJ 913
+
+"The Bank can have a negative number of a currency."
+
+======================================================================
+
+Judge:       Andre
+
+Judgement:   TRUE
+
+Eligible:    Andre, Antimatter, Blob, Chuck, Crito, elJefe, favor,
+             General Chaos, KoJen, Macross, Michael, Morendil, Murphy,
+             Steve, Swann, Vanyel, Zefram
+
+Not eligible:
+Caller:      Harlequin
+Barred:      -
+On hold:     Oerjan
+
+======================================================================
+
+History:
+  Called by Harlequin, Mon, 17 Mar 1997 21:08:31 -0500 (EST)
+  Assigned to Andre, Mon, 24 Mar 1997 09:29:25 +0000
+  Judged TRUE, Mon, 24 Mar 1997 17:43:57 +0100 (MET)
+  Published, Wed, 26 Mar 1997 09:34:23 +0000
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+The only Rule that forbids negative amounts of Currencies is Rule
+1596.  However that Rule only forbids Transfers that are not required
+by the Rules to cause a Treasury to contain a negative quantity of
+Currencies.  However, that only applies to transfers required by
+another Entity than the Rules themselves. However, there are Rules
+that require Currencies to be transfered from the Bank, and no Rule
+would stop those from happening, even if that would cause the Bank to
+hold a negative amount of the Treasury.
+
+======================================================================
+
+(Caller's) Arguments:
+
+Evidently negative amounts of a currency are permissible if caused by
+a rule and not by a player transfer. No rule prohibits the Bank from
+having negative amounts of a currency.
+
+======================================================================

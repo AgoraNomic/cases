@@ -1,0 +1,61 @@
+==============================  CFJ 2226  ==============================
+
+    People who do not control the bayes.py script CANNOT join Bayes.
+
+========================================================================
+
+Caller:                                 Taral
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Taral:                        14 Oct 2008 17:15:29 GMT
+Assigned to Murphy:                     16 Oct 2008 05:54:16 GMT
+Judged FALSE by Murphy:                 23 Oct 2008 09:37:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I find this to be a reasonable (and useful) interpretation of section
+3 of the contract, which otherwise does not appear to effect any
+limitations or obligations.
+
+========================================================================
+
+Caller's Evidence:
+
+Text of the Bayes contract:
+1. This is a public contract and a partnership.
+2. The name of this contract is Bayes.
+3. bayes.py is a script whose purpose is to act on behalf of Bayes in
+a generally autonomous way, controlled by the parties to this
+contract.
+4. bayes.py CAN cause Bayes to act by sending a message from
+bayes@eso-std.org.
+5. Any party to this contract CAN but generally SHOULD NOT act on
+behalf of Bayes by announcement with the consent of all other parties.
+6. Parties to this contract SHALL ensure that Bayes follows the Rules
+of Agora to the maximum possible extent.
+7. Because bayes.py is not finished, parties to this contract SHOULD
+modify it as appropriate to improve its behavior.  However, parties to
+this contract are ENCOURAGED to develop bayes.py to a point where
+intervention can be minimal, except to add new features.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+"controlled by the parties" does not mean "controlled by all the
+parties" (this came up in relation to B Nomic's latest emergency
+session), nor does it mean "controlled directly by all the parties"
+(e.g. I could theoretically make an agreement with ehird that e
+would control it on my behalf).  Nor does a judgement of FALSE
+render section 3 without purpose, as it still serves the purpose
+of being a clear referent of "bayes.py" in sections 4 and 7.
+
+========================================================================

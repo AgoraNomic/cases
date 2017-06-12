@@ -1,0 +1,63 @@
+==========================  Equity Case 2100  ==========================
+
+    upon Ivan Hope transferring to em all eir VPs, Sgeo did not, as soon
+    as possible, transfer all eir VPs to Ivan Hope.
+
+========================================================================
+
+Caller:                                 Wooble
+Barred:                                 Sgeo
+
+Judge:                                  Murphy
+Judgement:                              
+
+========================================================================
+
+History:
+
+Called by Wooble:                       20 Jul 2008 11:53:57 GMT
+Parties informed:                       22 Jul 2008 04:49:59 GMT
+Pre-trial phase ended:                  29 Jul 2008 04:49:59 GMT
+Assigned to Murphy:                     01 Aug 2008 08:50:48 GMT
+Judged  by Murphy:                      09 Aug 2008 21:18:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I initiate a new equity case.  The contract in question is Sgeo's pledge:
+{
+> I pledge to, upon a player giving me eir entire supply of a currency,
+> give said player all of my supply of that currency, including what
+> that player gave me, as soon as possible.
+> }
+
+the only party to the contract is Sgeo, and the state of affairs not
+envisioned by the contract is that, upon Ivan Hope transferring to em
+all eir VPs, Sgeo did not, as soon as possible, transfer all eir VPs
+to Ivan Hope.  I ask that the judge consider Sgeo's average VP
+holdings over the 7 days e had to make this transfer, and not that e
+did not successfully stash any VPs "as soon as possible".
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+According to the latest Vote Market report:
+
+  * On July 11, Ivan Hope transferred 49 VP to Sgeo.
+  * Neither of their VP holdings have changed since then.
+  * Ivan Hope now has 49 VP and Sgeo now has 80 VP.
+  * On July 22, Ivan Hope violated a requirement to have at least 50 VP.
+
+This case was initiated by Wooble on July 20, at which point Sgeo was
+indeed in violation of the ASAP requirement.  Sgeo could have scammed
+the contract by e.g. transferring all but 1 of eir VP to a confederate,
+then transferring 1 VP to Ivan Hope, but e did not bother to do so.
+
+I accept the initiator's request, and decide as follows:
+
+Sgeo SHALL transfer 80 VP to Ivan Hope as soon as possible, thus
+satisfying eir original requirement.
+
+========================================================================

@@ -1,0 +1,50 @@
+==============================  CFJ 2287  ==============================
+
+    Fookiemyartug is a party to the Vote Market contract.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       25 Nov 2008 13:42:34 GMT
+Assigned to omd:                        25 Nov 2008 20:22:56 GMT
+Judged FALSE by omd:                    26 Nov 2008 15:43:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+As far as I can tell, Fookiemyartug is not a public
+contract and thus not a person.  R1742 implies that parties to a
+contract must be persons ("Any agreement made by one or more
+persons[...]").
+
+========================================================================
+
+Judge omd's Arguments:
+
+If Rule 1742 had always held its current form, this would be TRUE, as
+parties to a contract are only required to be persons when a contract
+is formed.  However, when the public clause was enacted, Rule 1742
+read:
+
+      Contracts are binding agreements governed by the rules.  Any
+      agreement made by one or more persons with the intention that it
+      be binding on them and governed by the rules is a contract
+      (unless it would automatically terminate as a contract).
+
+Clearly "by"="between", i.e. the persons are the parties.  With this
+wording it would be inconsistent for a non-person to be party to a
+contract.  Therefore either Fookiemyartug is not a party, or the VM is
+not a contract.  Which is correct is up to ais523, but either
+interpretation leads to the same judgement in this case.  I judge
+FALSE.
+
+========================================================================

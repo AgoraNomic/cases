@@ -1,0 +1,121 @@
+==============================  CFJ 1400  ==============================
+
+    Only the Treasuror is empowered to forgive debts to the Bank
+    denominated in Bank Currencies.
+
+========================================================================
+
+Caller:                                 Steve
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Steve:                        09 Jul 2002 03:29:16 GMT
+Assigned to root:                       09 Jul 2002 21:51:02 GMT
+Judged FALSE by root:                   12 Jul 2002 03:17:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The occasion for this CFJ is my attempt, acting as GWotO, to forgive
+OscarMeyr's Oligarchy Upkeep debt for July (see <1>). But the question
+is a general one, hence the general form of the Statement.
+
+To show the truth of the Statment, I have to prove two things:
+
+(1) The Treasuror is empowered to forgive debts to the Bank denominated
+    in Bank Currencies.
+(2) No other Player is so empowered.
+
+The Rules define only one way in which a debt may be forgiven. R1596(d)
+states that:
+
+      (d) A debt is forgiven when the creditor of a debt sends a
+          notice to the debtor that e is forgiving the debt.
+
+When the creditor is the Bank, we must bear in mind R1478(e):
+
+      (e) Only persons may perform actions. Non-persons perform
+          actions only via the agency of persons, as specified by the
+          Rules.
+
+The Treasuror, as Executor of the Bank, is the only person empowered by
+the Rules to act in a general way on behalf of the Bank. The various
+Limited Executors of the Bank are empowered only to satisfy debts, not
+to forgive them (see R1470(b)). This shows that (2) is true.
+
+That (1) is also true is shown by R1470(e), which provides specifically
+for the case of forgiveness of debts owed to the Bank:
+
+      (e) The Bank is permitted to forgive debts owed to it, in whole
+          or in part:
+          (1) pursuant to a properly-issued Order; or
+          (2) Without Objection, at the Treasuror's discretion.
+
+========================================================================
+
+Caller's Evidence:
+
+<1> Steve's attempt to forgive OscarMeyr's Oligarchy Upkeep debt
+    http://www.escribe.com/games/agora-official/m2689.html
+
+========================================================================
+
+Judge root's Arguments:
+
+The caller's arguments that the Treasuror is the only Player empowered to
+forgive debts to the Bank denominated in Bank Currencies are persuasive,
+and I agree with them, having no arguments of my own to add to or detract
+from them.
+
+However, the statement of the CFJ does not refer exclusively to Players,
+and since debts are Nomic Properties by Rule 1011, Rule 594 allows them
+to be changed (or forgiven) by the application of an adopted proposal.
+Thus, adopted proposals are also empowered to forgive debts to the Bank
+denominated in Bank Currencies, so the statement is FALSE.
+
+========================================================================
+
+Judge root's Evidence:
+
+Rule 1011/4 (Power=2)
+Definition of Nomic Property
+
+      A Nomic Property is any property of any entity the value of
+      which is defined by the Rules.  Other Rules may define
+      procedures by which the value of a Nomic Property may be
+      changed.
+
+
+Rule 594/6 (Power=3)
+Power and Proposals
+
+      No Rule may have Power less than 1 or greater than 4.  Except as
+      described in this Rule, no entity can set the Power of another
+      entity to exceed the Power of the entity causing the Power to be
+      so set.  No entity may destroy or repeal an entity with Power
+      greater than its own.
+
+      When a Proposal takes effect, its Power shall be set equal to
+      its Adoption Index, and the provisions contained in the text of
+      the Proposal are implemented to the maximal extent permitted by
+      the Rules.
+
+      The Adoption Index of a Proposal is the maximum of 1, the value
+      requested by its Proposer (if any), and the value required for
+      that Proposal by the Rules (if any).
+
+      Provisions which are unclear, ambiguous, or inapplicable are
+      ignored.  In a Proposal containing more than one provision, each
+      provision is severable from the others, unless the Proposal
+      states otherwise.
+
+      For the purpose of the Rules, the application of an adopted
+      Proposal is a legal procedure for changing Nomic Properties.
+
+========================================================================

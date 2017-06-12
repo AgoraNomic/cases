@@ -1,0 +1,67 @@
+==============================  CFJ 2428  ==============================
+
+    If a proposal is caused to take effect without explicitly being
+    allowed to cause rule changes, it can cause rule changes
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      22 Mar 2009 21:25:00 GMT
+Assigned to G.:                         23 Mar 2009 19:24:29 GMT
+Judged FALSE by G.:                     25 Mar 2009 19:09:02 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+After some discussion in ##nomic, it isn't really
+clear whether 105 actually prevents something from taking effect, or
+whether it simply prevents the action caused by it taking effect.
+Noticeably, there is nothing in the rules actually letting proposals
+make rules changes; merely to cause them to take effect. This leads to
+some interesting conundrums.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+By the precedent of CFJ 2427, "causing a proposal to take effect"
+in the sense of R106/19 is the same as a Rule both (a) permitting the
+proposal to perform actions, and (b) providing a mechanism for
+performing the actions.
+
+This is because it is meaningless to say that a proposal, as a causal
+instrument, "takes effect" any more than it is correct to say that
+"Goethe took effect by delivering this judgement".  Rather, you would
+say "the proposal caused the provisions to take effect" just as you
+would say "Goethe caused the judgement to take effect".  This is a
+undesirable semantic inaccuracy introduced by the oddity of the R106/19
+language construction pointed out in CFJ 2427.
+
+Also, as an instrument "taking effect" is actually the sum of its
+actions taking effect, it is semantically impossible for a proposal
+to "take effect" when all of its provisions are impossible.  In other
+words, by CFJ 2427, for a proposal to "take effect but perform no
+actions" is the same as a proposal "not taking effect."  It is *not*
+correct to say that the proposal "took effect but performed no/null
+actions".
+
+R105/3 (first paragraph) permits an instrument to make rule changes
+actions ("CAN"), and R106/19 provides the mechanism (option is
+selected by Agora, requiring process, announcement, etc, leads to
+the proposal performing the actions (causing them to take effect).
+
+If a particular type of regulated action is not permitted or forbidden,
+it is IMPOSSIBLE to do it.  So if a rule change (regulated) is not an
+explicitly permitted action for an instrument (the proposal) it CANNOT
+happen.
+
+========================================================================

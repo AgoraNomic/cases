@@ -1,0 +1,48 @@
+==============================  CFJ 2810  ==============================
+
+    The Enemy has a weekly report.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       13 Jul 2010 13:29:58 GMT
+Assigned to ais523:                     14 Jul 2010 22:19:55 GMT
+Judged FALSE by ais523:                 15 Jul 2010 11:52:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+No report is explicitly defined for either the Enemy or the Ship
+Computor.  The rules that can create a report for an entity where one
+isn't otherwise assigned by the rules are:
+
+R2161: officers who assign ID numbers must report on them
+
+R2162: officers who track switches must report on them
+
+R2166: recordkeepors for a currency must report on holdings.
+
+The Enemy is (R2302) responsible for tracking threats "and their
+respective stats".  Threats are not defined by the rules as a
+currency, nor are their "stats" defined as switches.  Threats do not
+have ID numbers.  It appears that the rules have created an office
+that must track things but has no obligation whatsoever to tell the
+rest of us about those things.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2810 FALSE. I don't see anything wrong with the caller's
+reasoning.
+
+========================================================================

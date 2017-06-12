@@ -1,0 +1,119 @@
+==============================  CFJ 1558  ==============================
+
+    When gazebo_dude deregistered, Thieves in the Night was returned to
+    the deck
+
+========================================================================
+
+Caller:                                 Quazie
+
+Judge:                                  Maud
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       18 Apr 2005 17:20:16 GMT
+Assigned to Maud:                       19 Apr 2005 06:43:57 GMT
+Judged TRUE by Maud:                    24 Apr 2005 00:44:44 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R2069 states that if a card is not in possession of a gambler, it is
+returned to the deck.  gazebo_dude deregistered making em no longer a
+gambler, but I believe that the card never could be returned to the
+deck.  Return implies that the card ends up where it started, when in
+reality, as thieves in the night is a grafty card, the card started
+existing in gazebo_dudes hand.  Thus, the card can not be returned to
+a place it never was in the first place.
+
+========================================================================
+
+Caller's Evidence:
+
+Michael Brown  agora-discussion@agoranomic.org
+Mon, 11 Apr 2005 12:13:12 -0500
+
+I, gazebo_dude, deregister from Agora per rule 1043:
+
+
+>>Rule 1043/5 (Power=1)
+>>Deregistration
+>>
+>>     A Player other than the Speaker may deregister from Agora by
+>>     sending a public message announcing eir deregistration. A Player
+>>     who deregisters in this fashion ceases to be a Player effective
+>>     at the time date-stamped on that message, and any attempts by em
+>>     to reregister before thirty days have passed are without effect.
+>>     This Rule takes precedence over Rules which would cause em to be
+>>     reregistered before thirty days have passed after eir
+>>     deregistration.
+
+
+It was nice knowing everybody; good luck to you all.
+
+gazebo_dude
+
+Rule 2069/2 (Power=1)
+Card Definitions
+
+      I. Possession
+
+      Cards may be possessed by Gamblers. All Players are Gamblers.
+      If at any time a Card is not possessed by a Gambler, it
+      immediately and automatically returns to the possession of The
+      Deck.
+
+========================================================================
+
+Judge Maud's Arguments:
+
+On the face of it it would seem that this CFJ should be trivially TRUE,
+since nonplayer persons are not gamblers and rule 2069 says that when a
+card is not held by a gambler, it is returned to the deck.  However, the
+Caller argues that returning to the deck is not possible in this case,
+since the card was never in the deck's possession to begin with.
+
+I see two relevant issues.  First, there is the practical question: is
+Thieves in the Night in the deck, and if not, where is it?  Second,
+there is what I believe to be a more theoretical question: was Thieves
+in the Night returned to the deck?  Of course, the Statement only asks
+the second question, but I believe both should be considered for an
+accurate judgement.
+
+To answer the first question, I claim that the provision
+
+      If at any time a Card is not possessed by a Gambler, it
+      immediately and automatically returns to the possession of The
+      Deck.
+
+of rule 2069 should be interpreted as a requirement for the Deckmastor
+to note a transfer of that card to the deck.  The use of the word
+"returns" indicates a presupposition, in the Gricean sense, that the
+card was originally held by the deck.  That is, that proposition is not
+an implication but rather a background assumption of the provision in
+question.  To give a non-Agoran example, the order "Stop robbing banks!"
+directed to someone who has never robbed a bank can be followed by doing
+nothing.  It is not necessary for the person so ordered to rob a single
+bank to make quitting make more sense.  The order in such a case is
+indeed odd, but this is because the presupposition fails to hold, not
+because it is logically impossible to carry out the order.  In a similar
+manner, the rules presuppose that Thieves in the Night was originally
+held by the deck, but the actual content of the requirement is that the
+card be transferred to the deck.  Hence the answer to the first question
+is: yes, Thieves in the Night is in the deck.
+
+As for the second question, fungibility requires that cards with the
+same name be interchangeable, being legally distinguishable only by
+their current owner.  As it happens, a Thieves in the Night card was
+created in the possession of the deck, and another was created outside
+its possession.  But we cannot legally recognize any such distinction.
+Hence it must be the case that either any Thieves in the Night card
+can be returned to the deck, or none can.  I see no contradiction in the
+claim that a memoryless card can be returned to the deck, and I find
+nothing in the rules which prohibits it.
+
+========================================================================

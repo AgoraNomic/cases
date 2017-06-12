@@ -1,0 +1,78 @@
+==============================  CFJ 2156  ==============================
+
+    Sgeo may terminate the above-quoted pledge by announcement.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       09 Sep 2008 19:33:40 GMT
+Assigned to BobTHJ:                     14 Sep 2008 01:40:12 GMT
+BobTHJ recused:                         15 Sep 2008 17:41:05 GMT
+Assigned to root:                       20 Sep 2008 18:58:37 GMT
+root recused:                           02 Oct 2008 06:16:55 GMT
+Assigned to Wooble:                     08 Oct 2008 11:39:00 GMT
+Judged FALSE by Wooble:                 08 Oct 2008 13:53:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+What does "This pledge may be terminated at any time." mean?
+"Terminating this pledge does not violate this pledge, no matter when
+the termination happens" (the meaning capital MAY would imply)? "Any
+player may terminate this pledge at any time"? "Sgeo may terminate this
+pledge at any time"? To me, it's unclear whether that statement is in
+fact clear enough to enable the pledge to be terminated at all.
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, 2008-09-04 at 18:45 -0400, Sgeo wrote:
+> I make the following pledge
+> {This is a pledge, and a public contract. Sgeo SHALL attempt to get
+> Ivan Hope CXXVII to read Freefall on Tuesdays, Thursdays, and Sundays,
+> to the best of Sgeo's ability to convince em to do so. This pledge may
+> be terminated at any time.}
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE on both.  Rule 2198 enables a contract to authorize
+changes to itself only by specifying a mechanism by which the changes
+are made. This contract does not specify such a mechanism.  Since the
+minimum number of parties to this contract is not at least 2, changes
+to the contract CAN only be made without objection.
+
+Note that this ruling assumes that "X MAY Y by announcement" implies
+"X CAN Y by announcement", and that this can be carried over from
+rules to CFJ statements; I believe this interpretation was the
+caller's intent and is borne out by our common usage. The statement in
+the first CFJ asks if Sgeo "may" terminate the pledge by announcement.
+ Provided e first announces eir intent to do so and receives no
+objections, terminating the pledge by announcement violates neither
+the rules nor the contract itself; it's not the case that e "may not"
+terminate the pledge by announcement, but the statement that e may do
+so by announcement is FALSE on the basis of the implied ability to
+perform an action when a mechanism is specified. Similarly, no player
+"may not" terminate the pledge by announcement, although only the
+Notary or a party CAN do so without objection.
+
+========================================================================

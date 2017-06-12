@@ -1,0 +1,40 @@
+==============================  CFJ 3299  ==============================
+
+    It is possible for Rule 2380 to change the text of a proposal.
+
+========================================================================
+
+Caller:                                 woggle
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by woggle:                       09 Apr 2013 17:48:08 GMT
+Assigned to omd:                        14 Apr 2013 07:31:10 GMT
+Judged FALSE by omd:                    14 Apr 2013 15:45:13 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2350 (of both higher power and lower ID number) says "Once a proposal is
+created, none of its attributes can be changed." It also says that a proposal
+consists of "a body of text and *other* attributes" [emphasis added], so the
+text is clearly an attribute of the proposal.
+
+========================================================================
+
+Judge omd's Arguments:
+
+FALSE, as noted when the case was called.  "Once a proposal is
+created, none of its attributes can be changed" (at Power-3), and the
+text is an attribute per the first sentence of Rule 2350.  (And I'm
+pretty sure that Rule 2141 does not grant rules the power to affect
+the gamestate as an "action" rather than through its text, per past
+precedent.)
+
+========================================================================

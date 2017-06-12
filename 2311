@@ -1,0 +1,162 @@
+==============================  CFJ 2311  ==============================
+
+    I have some rests.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        15 Dec 2008 14:02:18 GMT
+Assigned to G.:                         19 Dec 2008 00:07:55 GMT
+Judged TRUE by G.:                      05 Jan 2009 18:46:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+         vi. Every person has the right to not be penalized more than
+             once for any single action or inaction.
+
+First I was punished by the chokey, and now (for, uh, not being able
+to predict the future of the punishment system?) I'm being punished
+by Rests by being unable to vote.
+
+Due to R101(vi), I believe the second was in fact ineffective.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+General finding 1:
+If a player is currently under the punishment of a continuing sentence
+defined by the rules, and a rule change or proposal clause directly and
+specifically transmutes the punishment into a different kind of punishment,
+then it is reasonable to assume, prima facie, that the punishment is an
+entity covered by R1586 (Definition and Continuity of Entities) and that
+the punishment continues to exist "to whatever extent is possible under the
+new definitions" and thus is not a wholly new second (i.e. "more than one")
+penalty for the purposes of R101(vi), and thus may continue to exist under
+the new definition.  This is in keeping with the generally permissive
+Agoran attitude of what constitutes an "entity".  Also, if a half-finished
+punishment's terms are changed mid-stream, a defendant has not served a
+single whole punishment, so the changed penalty does not necessarily add to
+"more than one" punishment.
+
+General finding 2:
+Given the importance of R101(vi), that prima facie assumption *might* be
+overruled if the new definition is shown to substantially increases the
+practical effect of the punishment from its initial application.  But what
+is the bar for "substantial increase"?  It is not straightforward to
+calculate an "exchange rate" for an equivalency in effective punishment.
+Even if it were, we must take into account that the change occurred through
+the fundamental legislative process (proposals) adjusting the "reality" of
+the game and not through the courts or through a re-judgement; the proposal
+mechanism can make relatively arbitrary changes to the gamestate that
+disadvantage some players over others without calling the change a
+"penalty" per se.  If a player, for example, "steals" currencies through
+a bug, and the theft had been punished through the criminal courts, and a
+later proposal attempts to reset the stolen currencies, is that proposal a
+second punishment?  Are all such changes to the game state via proposal to
+be considered "punishment" for R101(vi) purposes on the grounds that someone
+comes out the worse?  No.  That is part of the legislative process.  To
+overrule a proposal on R101(vi) grounds, then, the defendant has a high bar
+to show that the punishment is truly a new one (a higher bar, for example,
+than one would have to cross to show that a "punishment exchange" were
+merely inequitable under equity law).
+
+General finding 3:
+A fine levied against a poor person versus a rich person for the same crime
+would be substantially harder on the poor person as e has less to spare.
+However, while mercy might compel a lightening of the sentence for the poor,
+mercy is not necessarily the same as "equal treatment under Rule".  In
+other words, one must ask if the punishment *in general* is that much more
+onerous on any typical player, rather than specifically on an individual
+player; and it must be seen as more onerous to a reasonable player/judge in
+general, not just in the opinion of the defendant [see Judge BobTHJ's
+arguments in CFJ 1981 on the invalidity of using a defendant's opinion of
+judgement severity].
+
+With these general findings in mind, what of the current case?
+
+In this case, before the passage of Proposal 6010, ehird was due to
+exit the chokey on 19-Feb-09 according to the CotC's docket.  Chokey
+ceases to have relevant meaning upon the adoption of the proposal,
+replaced instead with Rests.  The direct "exchange rate" was set by
+Proposal 6010's clause:
+
+> For each person in the chokey immediately before this proposal was
+> adopted, create 1 Rest in eir possession for each week remaining in the
+> tariff of the sentence that causes em to be in the chokey, to a maximum
+> of 23 Rests for that person.
+
+As this proposal took effect on 13-Dec-2008, this would amount to 9 Rests
+in ehird's possesion.
+
+Are the practical effects of 9 rests substantially *more* of a punishment?
+We must look at the consequences if rests versus chokey to know.  They
+are as follows:
+
+A:
+Rule 2190/0 "Being in the chokey is a Losing Condition." is replaced with
+Rule 2229/0 "Owning one or more Rests is a Losing Condition.".  This is
+no net change, so not a new punishment.
+
+B:
+Rule 2156/10 "The initial voting limit of an eligible voter on an
+ordinary decision is eir caste at the start of its voting period, or
+half that (rounded up) if the voter was in the chokey at that time."
+is replaced with:
+Rule 2156/11 "The voting limit of an eligible voter on an ordinary
+decision is eir caste at the start of its voting period, reduced to
+the next lower caste (minimum Savage) for each positive multiple of 4
+Rests that the voter posesses at the start of the voting period."
+
+This is the trickiest one.
+
+In some specific circumstances, such as ehird's, this represented
+a lowering of voting power (increasing of punishment); however, it
+is not true for all castes, and not necessarily a tremendous change.
+The key consideration is that there is a wholly new addition as
+a recompense:
+
+Rule 2228/0  "A player CAN spend two Notes in order to destroy a Rest
+owned by a player e specifies."
+
+This raises the question: if your voting power has been lowered
+due to the change in punishment, but you can spend to get out early,
+have you gained or lost in punishment?  It will vary player-by-player,
+opinion-by-opinion, depending on circumstances and style of play.
+In general, though, it is not such an onerous and uniformly negative
+change that a judge should go against the legislative result that they
+are reasonably similar.
+
+C:
+R2229/0 "While a person owns at least 8 Rests, that person CANNOT
+spend Notes except to destroy Rests e owns.  This takes precedence
+over any other rule."
+
+Previously, there was no restriction on spending for those in the
+chokey.  This severely limits strategy; for example, a player with
+more than eight rests can't spend to increase caste to reduce the
+effects of punishment.  This, the court finds, *is* a wholly new
+punishment, and the claim of precedence does not work against R101.
+This does not invalidate Rests, it merely creates a conflict between
+this clause and R101, which R101 wins.
+
+Therefore, taking A-C together, this court finds that ehird DOES have
+Rests, that constitute a losing condition and reduce voting power
+as indicated by the Rules, without violating R101.  However, R101 takes
+precedence over the clause of R2229/0 that limits ehird's spending,
+thus e is not currently constrained by the "CANNOT spend Notes" clause
+of R2229/0 (if ehird goes below 8 rests but not down to zero, then goes
+up above 8 again, this might need to be readdressed depending on the
+exact circumstances).
+
+========================================================================

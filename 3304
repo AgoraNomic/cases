@@ -1,0 +1,57 @@
+==============================  CFJ 3304  ==============================
+
+    The office of Registrar is Postulated.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      12 Apr 2013 21:41:41 GMT
+Assigned to Machiavelli:                14 Apr 2013 07:57:38 GMT
+Judged TRUE by Machiavelli:             15 Apr 2013 19:06:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Per Rule 2276, "An active first-class player can make emself the holder of an
+elected office by announcement, provided that the office is either vacant or
+Assumed. Upon doing so, the office's Assumption is flipped to Assumed."
+
+If the first CFJ is TRUE, then the office was still Postulated when I assumed
+it. It was not until after I assumed it that it became Assumed. Then " If a
+player has held an Assumed office continuously since the last time it was
+Postulated, e can flip its Assumption to Postulated by announcement."
+
+========================================================================
+
+Caller's Evidence:
+
+I assume Registrar. I flip Registrar to Postulated.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+Given the result of CFJ 3303, I think CFJ 3304 seems straightforward. First,
+Registrar was vacant and Postulated. Next, scshunt made emself the holder of
+Registrar by announcement. Then, Rule 2276 flipped Registrar to Assumed. Thus,
+scshunt was the holder of Registrar when it was Postulated (albeit only for a
+single instant), and so he had "held an Assumed office continuously since the
+last time it was Postulated", allowing em to flip the office to Postulated. I
+judge TRUE.
+
+I don't actually like the TRUE/TRUE verdict here, because I don't think it
+makes sense to allow arbitrary active first-class players to assume an office
+and then make it Postulated (and I don't think it makes sense to distinguish
+between Assumed and Postulated vacant offices), but I feel like a FALSE/FALSE
+verdict would be worse, and I don't see any grounds for a TRUE/FALSE verdict.
+
+========================================================================

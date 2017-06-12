@@ -1,0 +1,145 @@
+==============================  CFJ 3256  ==============================
+
+    In the last few minutes, G. transferred exactly one ruble to ais523.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 Murphy
+
+Judge:                                  scshunt
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by ais523:                       18 Jul 2012 23:18:05 GMT
+Assigned to scshunt:                    25 Jul 2012 20:40:26 GMT
+Judged IRRELEVANT by scshunt:           01 Aug 2012 21:13:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+CFJs 3246-3248
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, 2012-07-18 at 16:10 -0700, Kerim Aydin wrote:
+> Meanwhile, I really *would* like a non-trivial opinion here, so:
+>
+> I create the following promise:
+>        Name: Ping2
+>        Text: I transfer one ruble to ais523 and cash the promise entitled
+'Pong2'.
+>        Conditions required to be true for this promise not to be destroyed
+when
+>        cashed: 1=1.
+>
+> I transfer this promise (Ping2) to ais523.
+>
+> I create the following promise, "CFJ2", with this text:
+>       I CFJ on the following statement, barring Murphy: ais523 CAN destroy
+>               a ruble.
+>       For arguments, see Callers' arguments in CFJs 3246-3248.
+>
+>   I transfer this promise (CFJ2) to ais523.
+
+This is just a clever way to get more rubles out of me, isn't it? ;)
+
+I transfer every ruble I own to G..
+
+I create the following promise:
+
+Name: Pong2
+Text: I transfer one ruble to G. and cash the promise entitled 'Ping2'.
+Conditions required to be true for this promise not to be destroyed when
+cashed: 1=1.
+
+I transfer Pong2 to G.
+
+Then I cash Ping2.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Based on the arguments to CFJs 3121 & 3122, it appears that the
+consensus among Agorans is that when an infinite rule-defined process
+occurs, it does indeed occur infinitely, but instantaneously, leaving
+the game in a single state afterwards. While the situation giving rise
+to 3122 failed on a technicality similar to that which plagued the
+original CFJs on this matter (see CFJ 3246), this one does not have
+the same issues.
+
+In eir arguments to CFJ 3122, H. Judge Murphy proposes that any such
+action would necessarily introduce ambiguity into the gamestate and
+fail, but I do not agree with this line of reasoning. I see nothing in
+the rules to indicate that an ambiguity causes an action to fail
+inherently; rather, it is the requirement of unamibiguousness written
+out in Rule 478 that prevents actions by announcement from being
+ambiguous. This does not prevent other ambiguity and, indeed,
+ambiguity has been held to exist in situations historically---there
+have been . There is, additionally, a poltiical aspect to it, as
+outlined by H. Judge Pavitra in CFJ 2650, which is a vital read for
+anyone wishing to settle this case.
+
+Therefore, the first question is to address the case as per Rule 217.
+Is the text of the rules "silent, inconsistent, or unclear"?
+
+As I have already mentioned, I do not find any reason to conclude that
+any of the actions related to pinging and ponging failed. In
+particular, we have a well-defined sequence of actions: the cashing of
+the Ping2 and Pong2 promises, and the transferring of a ruble (or
+various different rubles) back and forth. There is nothing in the
+rules to indicate that any of them fail, and explicit statements to
+the effect that they succeed. Therefore the actions succeeded. As
+indicated before, they all happened "instantaneously": ordered with
+respect to each other, but each coming before any subsequent action in
+that or any other message.
+
+The question, then, is what the resulting game state is. There was no
+final owner of the ruble, as for any action transferring it to an
+individual, there was an opposite action transferring it away. Since
+there are countable infinities of these actions, we can actually get
+fancy and say that G. transferred his ruble away twice as many times
+as he did receive it, or the like.
+
+This actually leads us to a nice analogy from mathematics, which is of
+a limit. The sequence of ais523's ruble ownership is 0, 1, 0, 1, 0 ,
+1, .... This sequence is non-convergent---that is, mathematics
+interprets this sequence as having no "value at infinity", whereas it
+might interpret a different sequence as having a different value. In
+this case, I think that the analogy is apt, and we can conclude that
+the owner at the end is simply undefined, and that is in fact crucial,
+because of Rule 2166: "If an asset would otherwise lack an owner, it
+is owned by the Lost and Found Department." I feel that this decision
+fits with the common sense and best interest of the game. Therefore,
+at any defineable time after the original cashing of Ping2, a ruble
+that was bounced back and forth was in fact owned by the LFD. Thus
+ais523 owned no rubles at the initiation of CFJs 3254 and 3255, so I
+judge them both FALSE.
+
+There is the question, then, of whether it was the same ruble over and
+over again or all of G's rubles. There is no particular indication of
+one over the other. However, Rule 2166 again comes to the rescue with
+"Instances of a currency with the same owner are fungible." This can,
+and in my view, should be interpreted as implying that the distinction
+between rubles of the same owner is irrelevant since they are always
+interchangeable, and that distinction is hence effectively
+non-existent. Common sense and good of the game then lead us to apply
+the simplest interpretation to the situation, which is that only one
+ruble's worth of ambiguity is created. As for CFJ 3256, it the rules
+simply do not allow for drawing this distinction with currencies.
+Moreover, by using the word "currency", it implies that, much like a
+real-life currency, in a situation like this, the actual details of
+the changing of hands are not important, hence I judge CFJ 3256 to be
+IRRELEVANT.
+
+As a result of these judgments, the question of strong vs. weak
+paradox does not come into play.
+
+========================================================================

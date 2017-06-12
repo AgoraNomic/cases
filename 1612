@@ -1,0 +1,96 @@
+==============================  CFJ 1612  ==============================
+
+    Rule 1871 should be interpreted such that it is possible to publish
+    a Notice of Rotation, and that such a Notice has the effect of
+    making all turned players unturned, even if there is no open CFJ
+    with no Trial Judge assigned to it
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  GreyKnight
+Judgement:                              DISMISS
+
+
+Judge:                                  Manu
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       31 Jan 2007 13:38:38 GMT
+Assigned to GreyKnight:                 31 Jan 2007 15:53:01 GMT
+Dismissed by GreyKnight:                31 Jan 2007 15:53:01 GMT
+Assigned to Manu:                       30 Mar 2007 20:02:15 GMT
+Manu recused:                           06 Apr 2007 23:02:58 GMT
+Assigned to Murphy:                     11 Apr 2007 05:03:24 GMT
+Judged TRUE by Murphy:                  11 Apr 2007 21:00:04 GMT
+
+========================================================================
+
+Judge GreyKnight's Arguments:
+
+In addition, Zefram having previously made five or more CFJs during the
+same Agoran Week, I dismiss CFJs 1610, 1611, and 1612 as Excess CFJs,
+by Rule 2024 (and with a particularly cheeky grin on my face).
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+At the time this CFJ was called, Rule 1871/8 (see evidence) was in
+effect.
+
+  * The closest thing to an explicit definition of "Notice of Rotation"
+    is "an announcement".  By game custom, this is interpreted as "an
+    announcement identifying itself as a Notice of Rotation".
+
+  * Based on the precedent set by the final judgement of CFJ 1594, the
+    definition of "Notice of Rotation" does not depend on the Clerk of
+    the Courts specifying an appropriate CFJ, or even on the existence
+    of such an appropriate CFJ.  In the first case, the Clerk of the
+    Courts violates Rule 1871 by inaction; in the second case, e
+    violates it by action; but in both cases, the announcement is still
+    a Notice of Rotation.  Such dependencies exist only if the Rule
+    explicitly says they do.
+
+  * Also based on the precedent set by the final judgement of CFJ 1594,
+    the effect of publishing a Notice of Rotation does not depend on the
+    Clerk of the Courts specifying an appropriate CFJ, or even on the
+    existence of such an appropriate CFJ.  Again, such dependencies
+    exist only if the Rule explicitly says they do.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+Rule 1871/8 (Power=1)
+Turns for All
+
+      Whenever a player is selected as Trial Judge of a CFJ, e becomes
+      turned.  Turned players are ineligible to be Trial Judge of any
+      future CFJs.  When a player registers, e is considered turned.
+
+      Whenever an open CFJ has no Trial Judge assigned to it, and
+      there are no players eligible to be assigned, the Clerk of the
+      Courts shall publish a Notice of Rotation, specifying at least
+      one such CFJ.  Upon such an announcement, all turned players
+      become unturned.
+
+      The CotC may turn a player e expects to judge CFJs slowly or not
+      at all, without 2 objections.
+
+      If the Clerk of the Courts errs in good faith by selecting a
+      Player to Judge a CFJ or Appeal who is not eligible to judge
+      that CFJ or Appeal solely because e is turned, then that
+      selection shall stand, unless the Clerk of the Courts points out
+      eir error and makes a new selection before the selected Player
+      returns Judgement.
+
+========================================================================

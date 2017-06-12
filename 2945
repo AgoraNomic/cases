@@ -1,0 +1,66 @@
+==============================  CFJ 2945  ==============================
+
+    Removing a decision's adoption index does not count as "changing" it
+    for the purpose of Rule 106, and thus cannot be done except by
+    taking precedence over Rule 106.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 omd
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  Roujo
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       22 Dec 2010 06:58:31 GMT
+Assigned to Yally:                      10 Jan 2011 01:03:03 GMT
+Yally recused:                          14 Jan 2011 19:28:30 GMT
+Assigned to Roujo:                      04 Feb 2011 22:13:15 GMT
+Roujo recused:                          05 Feb 2011 03:23:53 GMT
+Assigned to G.:                         27 Feb 2011 17:31:25 GMT
+Judged FALSE by G.:                     28 Feb 2011 05:18:49 GMT
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+If removing the adoption index does not count as
+"changing" it, I don't see how Rule 106 would block it.  The only
+other relevant text is:
+
+      The adoption index of this decision is set to the adoption index
+      of the proposal at the initiation of the decision.
+
+which clearly does not keep any authority over the AI after the
+initiation of the decision.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+If an Adoption Index is removed, all kinds of odd things happen.  For
+example, by R2196, it would no longer have any available options.
+It's not clear it's possible to do this, and the circumstances under
+which it might happen are sufficiently removed from the current ruleset
+such that it's tempting to say UNDETERMINED or IRRELEVANT.  However,
+semantically, it's most reasonable to state that setting an adoption index
+to null/no adoption index is in fact a change; and more generally it's
+worth stating as a precedent that removing a property from an entity does
+in fact count as a "change" of the property for that entity (it might
+be possible to make a vague case for this under the last paragraph of
+R1586, but it's tenuous so this is just a judgement call on my part,
+where the rules are silent).  FALSE.
+
+========================================================================

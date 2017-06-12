@@ -1,0 +1,31 @@
+==============================  CFJ 1465  ==============================
+
+    If a player attempts to spend N kudos to pay a fee, but the
+    fee-based action fails (e.g. the fee is larger than N), then the
+    kudos are still spent.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Taral
+Judgement:                              DISMISS
+
+========================================================================
+
+History:
+
+Called by Murphy:                       05 Oct 2003 07:29:13 GMT
+Assigned to Taral:                      06 Oct 2003 00:05:56 GMT
+Dismissed by Taral:                     15 Oct 2003 08:11:14 GMT
+
+========================================================================
+
+Judge Taral's Arguments:
+
+    My reading of R1941 is that the number of Kudos specified in the
+    message is irrelevant. It only requires that the player announce
+    that "there is a fee for that action". Therefore this CFJ specifies
+    an impossible antecedent and its truth is indeterminate. R1565(ii).
+
+========================================================================

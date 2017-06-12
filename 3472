@@ -1,0 +1,97 @@
+=============================  CFJ 3472  =============================
+
+      Josh T has voted PRESENT on the decision on Proposal 7837.
+
+======================================================================
+
+Caller:                    Murphy
+
+Judge:                     G.              
+Judgement:                 FALSE             
+
+======================================================================
+
+History:
+
+Called by Murphy:          17 Nov 2016
+Assigned to G.:            05 Jan 2017
+Judged FALSE by G.:        23 May 2017
+
+======================================================================
+
+Caller's Evidence:
+
+Josh T wrote: 
+> 以下の票を投ずる：
+> 
+>  > 7836+  ais523          1.0  Victory Elections
+> 反対
+> 
+>  > 7837*  ais523          1.0  Era Fix
+> 白票
+
+[Google Translate output for the above Japanese texts]
+"I will cast the following votes"
+"Opposite"
+"A white paper"
+
+======================================================================
+
+Judge's Arguments:
+
+For a considerable time, CFJ 1460 has been the guiding principle for non-
+English communications.  Essentially, it states that, for an action message
+to be effective, it cannot take unreasonable effort for a "typical Agoran"
+to interpret it.
+
+In the 14 years since that judgement, machine translation has become
+increasingly available and ubiquitous.  Therefore, as a first part, I find
+that it does *not* take unreasonable effort to take a provided string
+directed (without translation) at a single officer (e.g. a reply to a
+vote message), and paste it into an online translator, any more than it is
+unreasonable effort to look up a synonym in a dictionary.
+
+(If the context is entirely contained in the foreign language; e.g.
+"I vote XXX on proposal YYY" is written as its own message and not in reply
+to a thread, it *is* in fact unreasonable effort, as it requires each
+officer to determine out of context whether the message is directed at
+them or not.  That was the case in CFJ 1460, but not here).
+
+However, once placed in the translator, one must look at the exact text
+(in English, matching the language of the rules) and determine if it is
+clear and unambiguous.  Here, the standard is not "effort" but our
+standards of whether a statement (in English) is clear enough to cause
+an action, a frequent subject of court cases.
+
+This is the approach taken here.
+
+For both CFJ 3471 and 3472, the message in question was prefaces with:
+以下の票を投ずる
+
+Using google, this directly translates to "I will cast the following
+votes".  While the "will cast" is a little off in grammar, I find this
+clear enough.
+
+CFJ 3471: 反対 yields "opposite".  While this may be considered "against",
+it may also be read as "a different vote than someone else".  I think
+this is sufficiently unclear to fail.  I judge FALSE on 3471.
+
+CFJ 3472:  白票 yields "a white paper".  This is clearly not a valid vote.
+I judge 3472 FALSE.
+
+Now, it's possible that the above terms have some colloquial meaning or
+secondary synonym not shown by the machine translator that would map to
+valid votes on these proposals.  However, the standard must be that the
+officer (or other player) can interpret these unambiguously without said
+information, so supplying that context is outside the content of these
+messages.
+
+Addendum:  this portion of the argument is also proof against certain types
+of scams, e.g. submitting a message in a foreign language that attempts
+to do something bad Without Objection, in the hope it prevents people
+from objecting.  That would not clearly indicate the message contents beyond
+unreasonable effort (as it requires everyone interpret the message in order to
+understand the type of public message and response required).
+
+======================================================================
+

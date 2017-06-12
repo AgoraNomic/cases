@@ -1,0 +1,85 @@
+==============================  CFJ 1898  ==============================
+
+    Zefram is a player.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Zefram
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       03 Feb 2008 22:45:09 GMT
+Assigned to root:                       03 Feb 2008 22:52:26 GMT
+root recused:                           18 Feb 2008 18:41:47 GMT
+Assigned to G.:                         19 Feb 2008 01:00:08 GMT
+Judged TRUE by G.:                      21 Feb 2008 19:40:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+BobTHJ had an overdue Vote Market obligation to deregister.  Zefram
+allegedly deputised to deregister BobTHJ.
+
+Rule 2169 (Deputisation) was recently generalised from "office" to
+"position", specifically with "vote collector" in mind; extending it
+to apply to "person subject to a contractual obligation" may or may
+not be too great a stretch.  In addition, unlike previous cases of
+deputisation, this one involves an action targeting the actor (though
+Zefram specified that e was deregistering BobTHJ, and that e was not
+in any way directly causing emself to be deregistered).
+
+If either "X is a player" statement is true, then the corresponding
+"X CAN register" statement is false; Rule 869 (How to Join and Leave
+Agora) defines ""to be registered" as applying only to non-players,
+and does not make an exception for "to register".  If either "X is a
+player" statement is false, then the corresponding "X CAN register"
+statement depends on how Rule 869's normal 30-day limit is affected
+by the unusual targeting situation.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Zefram's message of intent read:
+
+> I intend to deputise for BobTHJ to deregister em.  (E is required to
+> deregister emself by virtue of being BobTHJ, a party to the Vote Market
+> who has thereby contracted an obligation to deregister.  Eir week to
+> deregister has long expired.)
+
+It is not, strictly speaking, by virtue of "being BobTHJ" that Zefram was
+permitted to deputize, it is by virtue of BobTHJ holding the position of
+"party to the Vote Market".  I find that while the first sentence of the
+intent was, strictly speaking semantically inaccurate, the parenthetical
+explanation provides enough clarity for a reasonable person to decide that
+the notice satisfies R2160(c) on the basis of BobTHJ holding a specified
+contractual position in the Vote Market (whether this succeeds or not is
+the subject of other CFJs).  The later notice of 3-Feb re-included this
+parenthetical explanation, so that:
+
+> Deputising for BobTHJ, I hereby deregister BobTHJ.
+
+again while semantically directed at the individual not the position, was
+reasonably clear.  Therefore, it either succeeded or failed as an attempt
+to deregister BobTHJ due to eir holding a position in the Vote Market, but
+in no case can be applied to deregister Zefram.
+
+Zefram's message clearly could not be taken to apply to emself.  Whether or
+not Zefram succeeded in deregistering BobTHJ, Zefram remains a player.
+Historically (for the past several years), the language and semantics of
+"acting on behalf of" has been sufficiently tricky to get "semantically
+perfect" that we should make reasonable allowances for intent.  This is a
+reasonable allowance.
+
+========================================================================

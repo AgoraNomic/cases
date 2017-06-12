@@ -1,0 +1,133 @@
+>From nomic-official-owner@teleport.com  Thu Nov 16 08:31:49 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id IAA27942 for <blahedo@quincy.edu>; Thu, 16 Nov 1995 08:31:46 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id GAA29157 for nomic-official-outgoing; Thu, 16 Nov 1995 06:26:29 -0800
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id GAA29121 for <nomic-official@teleport.com>; Thu, 16 Nov 1995 06:26:13 -0800
+Message-Id: <199511161426.GAA29121@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA18477; Thu, 16 Nov 1995 15:25:29 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 831: Concurring opinion
+To: nomic-official@teleport.com
+Date: Thu, 16 Nov 95 15:25:29 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+A Concurring Opinion has been received on CFJ 831. Here is the CFJ, complete
+with Concurring Opinion:
+
+======================================================================
+
+			JUDGMENT CFJ 831
+	Rule 1527 should be interpreted such that all events
+	contained in a message occur at the time of the Date: header,
+	even though they occur sequentially
+
+======================================================================
+
+Judge:		Zefram
+Judgement:	FALSE
+
+Eligible:	Andre, Chuck, Coco, Dave Bowen, elJefe, favor, KoJen, 
+		Michael, Morendil, Oerjan, Saltwater, Steve, Wes, 
+		Zefram
+
+Not Eligible:	
+Caller:		Vanyel
+Barred:		
+On Hold:	
+1005:		
+
+Effects:	Zefram gains 5 Points for speedy Judgement
+
+======================================================================
+
+History:
+  Called by Vanyel, 10 Nov 1995, 11:50 -0600 CST
+  Assigned to Zefram, 13 Nov 1995, 11:34 MET
+  Judged FALSE by Zefram, 15 Nov 1995, 16:33 +0000 (GMT)
+  Concurring Opinion issued by Andre, sponsored by Morendil and elJefe,
+	16 Nov 1995, 15:20 MET
+
+======================================================================
+
+Requested Injunction: I request that if this CFJ is Judged TRUE, Rule
+1527 be Annotated with the above Statement.
+
+Arguments: Well, they *do* occur at the same time, seperated only
+infinitesimally; I find this obvious, as a mathemetician, however this
+caused some confusion recently and should be clarified.
+
+======================================================================
+
+Reasoning of the Judge:
+
+I agree with the Caller's argument that such events occur at the same
+time, to the precision of an email timestamp (one second).  But I
+disagree with other aspects of the argument.
+
+The statement of the CFJ refers to the Date: header, which according to
+Game Custom is not necessarily the time of events contained within the
+message.  In particular, the Date: header is generally ignored when it
+is known to be significantly inaccurate.  The statement of this CFJ is
+therefore false on this point.
+
+Secondly, events separated by infinitesemal amounts of time do not
+occur at the same time.  It is a simple mathematical fact that
+infinitesemal numbers do not equal zero, and numbers with an
+infinitesemal difference are not equal.  It is also part of the meaning
+of the word "sequential", which is used in the Rule in question.  Only
+one such time can be exactly any specific time, with all the other
+times being infinitesemally different from it.  Thus if any event in an
+email message occurs at the time of its Date: header, only one of the
+events can.  The other events occur at infinitesemally different
+times.
+
+======================================================================
+
+Concurring Opinion:
+
+CONCURRING OPINION ON CFJ 831
+
+We do not agree with the second of the 2 Arguments given by the Judge. Events
+separated by infinitesimal amounts of time DO occur at the same time, although
+sequentially. However the first of the Judge's arguments (namely, that the
+Date: header is, according to Game Custom is not necessarily the time of
+events contained within the message), still forces us to agree with the
+final Judgement of FALSE.
+
+Issued by: Andre
+
+Sponsors: Morendil and elJefe
+
+
+======================================================================
+
+Injunction:
+
+The CFJ having been judged FALSE, I cannot make an Injunction.
+
+======================================================================
+
+Evidence added by the Judge:
+
+1. Rule 1527/0
+
+----------------------------------------
+
+Rule 1527/0 (Mutable, MI=1)
+Timing of Multiple Events in One Message
+
+      Whenever a message contains more than one notification, report,
+      or other communication in which the Rules place some legal
+      significance, the communications in that message shall be taken
+      to have been sent sequentially, separated by infinitesimal
+      increments of time, in the order which they appear in the
+      message.
+
+History:
+Created by Proposal 1750, Oct. 21 1995
+
+======================================================================

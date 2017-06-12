@@ -1,0 +1,71 @@
+======================================================================
+                               CFJ 1102
+
+  It is not possible to cast a Vote on a Proposal, Election or
+  Referendum by sending a message to the Public Forum.
+
+======================================================================
+
+Judge:        Crito
+
+Judgement:    TRUE
+
+Eligible:     Antimatter, Blob, Chuck, Crito, General Chaos,
+              Harlequin, Kolja A., lee, Michael, Morendil, Murphy
+
+Not eligible:
+Caller:       Macross
+Barred:       Steve
+Disqualified: -
+On hold:      elJefe, Oerjan, Swann
+
+----------------------------------------------------------------------
+Selection of second judge:
+  On Hold:  elJefe, Oerjan, Swann
+  Caller:   Macross
+  Barred:   Steve
+  ex-Judge: Antimatter
+
+Eligible:    Blob, Chuck, Crito, General Chaos, Harlequin, Kolja A.,
+             lee, Michael, Morendil, Murphy
+
+(Rolled a 2 on a 0-9 sided dice; selection is Crito)
+
+======================================================================
+
+History:
+  Called by Macross, Tue, 4 Aug 1998 00:09:08 -0400
+  Assigned to Antimatter, Wed, 5 Aug 1998 09:35:46 +0100
+  Antimatter defaults
+  Assigned to Crito, Wed, 19 Aug 1998 10:41:50 +0100
+  Judged TRUE, Fri, 21 Aug 1998 12:21:23 -0400
+  Published, Wed, 2 Sep 1998 10:27:43 +0100
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+I Judge this statement to be TRUE.  As the caller points out, the
+wording in R1859 is clear and unambiguous regarding the manner in
+which a vote may be cast, and the first clause is clearly a claim of
+precedence (without, I should note, using the explicit phrase "This
+rule takes precedence over...").
+
+======================================================================
+
+(Caller's) Arguments:
+
+From Rule 1859:
+      Any other Rule to the contrary notwithstanding, the casting of
+      any votes, or the declaration of Presence, by Voting Entities
+      on Proposals, Elections or Referenda, may only be achieved by
+      sending a message to the Vote Collector of the Proposal,
+      Election, or Referendum only. (Players are, however, permitted
+      to send or copy such messages to themselves.)
+
+This clearly prevents a message to the Public Forum from effecting a
+Vote.
+
+======================================================================

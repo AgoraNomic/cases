@@ -1,0 +1,164 @@
+==============================  CFJ 2500  ==============================
+
+    A player who does not deregister in the interval becomes a Senator
+    exactly 1440 (60 * 24) hours after e registers.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  ehird
+Judgement:                              FALSE
+
+Appeal:                                 2500a
+Decision:                               REASSIGN
+
+
+Judge:                                  Rodlen
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       05 May 2009 17:44:55 GMT
+Assigned to ehird:                      05 May 2009 18:08:04 GMT
+Judged FALSE by ehird:                  05 May 2009 18:22:25 GMT
+Appealed by omd:                        05 May 2009 18:33:14 GMT
+Appealed by G.:                         05 May 2009 18:43:05 GMT
+Appealed by Murphy:                     05 May 2009 18:52:21 GMT
+Appealed by Quazie:                     05 May 2009 18:55:53 GMT
+Appealed by ais523:                     05 May 2009 18:57:42 GMT
+Appeal 2500a:                           05 May 2009 18:57:42 GMT
+REASSIGNED on Appeal:                   14 May 2009 10:12:46 GMT
+Assigned to Rodlen:                     14 May 2009 12:12:57 GMT
+Judged FALSE by Rodlen:                 15 May 2009 01:07:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The Registrar's reports, going back to at least November of 2007, list
+an exact time at which various players became or would become a
+Senator, this time being the second that occurs exactly 60*24 hours
+after the time each player registered.  However, Agoran days begin at
+midnight and R2177 requires that a player be continuously registered
+for the preceding 60 days.  This seems to imply to me that a player
+who registered at noon on 1 January would become a Senator at the
+beginning of 3 March rather than at noon on 2 March.
+
+Similarly, ASAP deadlines have been taken to expire at the same time
+they began 7 days later, but reading as within 7 Agoran days which
+begin at midnight, they'd expire at the end of the 7th day.
+
+========================================================================
+
+Caller's Evidence:
+
+R2177:
+      A Senator is any first-class player who has been registered
+      continuously for the immediately preceding sixty days.
+
+R1023:
+      (a) The phrases "in a timely fashion" and "as soon as possible"
+          mean "within seven days".
+[...]
+          (1) Agoran days begin at midnight UTC.
+
+========================================================================
+
+Judge ehird's Arguments:
+
+FALSE; see caller's arguments
+
+========================================================================
+
+Appellant omd's Arguments:
+
+Intend to appeal, see judge's arguments
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I intend to call for appeal of this judgement with 2 support.
+
+It neglects that (for power-3 rules at least) the "natural" definition
+of a day's span has precedence over the power-2 "Agoran day" definition
+in R1023, as required by R754(2).
+
+Further, this judgement neglects a substantial history of the use of the
+term "day" when not written as "Agoran Days."  On this historical note,
+it was thought that the third paragraph of the following text was self-
+evident enough to be part of common definitions and be removed to be
+simply and easily defined as precedent or as part of common usage due
+to the ordinary-language interpretation of a span of time:
+
+Rule 459/5 (Power=1)
+Agoran Epochs
+
+      Days, weeks, months, quarters, and years are epochs.  The
+      corresponding Agoran epochs are Agoran days, Agoran weeks,
+      Agoran months, Agoran quarters, and Agoran years, respectively.
+
+      Agoran days begin at midnight GMT.  Agoran weeks begin at
+      midnight GMT on Monday.  Agoran months begin at midnight GMT on
+      the first day of each Gregorian month.  Agoran quarters begin
+      when the Agoran months of January, April, July, and October
+      begin.  Agoran years begin when the Agoran month of January
+      begins.  An Agoran epoch lasts until the next Agoran epoch of
+      the same type begins.
+
+      Except in this Rule, when the Rules refer to an epoch as an
+      independent entity (e.g. "each month"), they shall be
+      interpreted as referring to the corresponding Agoran epoch.
+      However, when the Rules refer to an epoch as a relative duration
+      (e.g. "one month after", "within one month", "for one month"),
+      they shall be interpreted as referring to the ordinary-language
+      meaning of that duration.
+
+      Automatic events that happen daily, weekly, monthly, quarterly,
+      or yearly happen at the beginning of the corresponding Agoran
+      epoch.  Any activity that must be performed daily, weekly,
+      monthly, quarterly, or yearly must be performed at least once
+      during each corresponding Agoran epoch.
+
+      Other Rules may explicitly define alternate schedules for events
+      or classes of events.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+[initiated without specifying whether it was based on comex's or
+Goethe's intent; if neither due to ambiguity, then Murphy initiated
+based on Goethe's intent at 19:06:23 UTC]
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+I'd argue for FALSE based on Goethe's evidence.
+The phrase "continuously for the immediately preceding sixty days"
+seems to refer to each day as an epochal entity, as distinct from
+"within 7 days" which reads more naturally as a time span consisting
+of 7 24 hour periods as measured from the specified event.  I believe
+referring to "days" vs. "Agoran days" is a red herring; certainly game
+custom is that a high priority officer doesn't violate the rules by
+publishing eir report on Monday of one week and then on Tuesday of the
+next week, even though there's a "week" in the non-epoch sense during
+which no report was published.
+
+========================================================================
+
+Judge Rodlen's Arguments:
+
+What Wooble said.
+
+Sheesh, we have to explicitly differentiate between days and days in Agora in
+Agora!?!
+
+Er...we have to explicitly differentiate between days and Agoran days in the
+ruleset of Agora!?!  Wow.  Just...wow.
+
+========================================================================

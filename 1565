@@ -1,0 +1,273 @@
+==============================  CFJ 1565  ==============================
+
+    The holder of power of attorney for a player who is not the speaker
+    may deregister that player.
+
+========================================================================
+
+Caller:                                 Maud
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Maud:                         12 May 2005 04:19:39 GMT
+Assigned to Quazie:                     15 May 2005 20:17:38 GMT
+Quazie recused:                         29 May 2005 20:17:38 GMT
+Assigned to G.:                         03 Jun 2005 08:14:55 GMT
+Judged FALSE by G.:                     13 Jun 2005 16:19:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+A player who holds power of attorney for another player may generally
+perform actions on behalf of that player.  Provision (f) of rule 1841
+(Granting Power of Attorney) attempts to prevent the holder from
+deregistering the grantor.  However, rule 101, the power of which
+exceeds that of rule 1841, explicitly states that a player may always
+deregister.
+
+========================================================================
+
+Caller's Evidence:
+
+1.  Rule 101/1 (Obey the Rules)
+2.  Rule 1841/6 (Granting Power of Attorney)
+
+1.
+
+Rule 101/1 (Power=3)
+Obey the Rules
+
+      All Players must always abide by all the Rules currently in
+      effect, in the form in which they are currently in effect.
+      However, a Player besides the Speaker may always deregister
+      rather than continue to play.
+
+      Whatever is not prohibited or regulated by the Rules is
+      permitted and unregulated, with the sole exception of changing
+      the Rules, which is permitted only when the Rules explicitly or
+      implicitly permit it.  Any change to the game state which would
+      make it impossible to make arbitrary modifications to the Rules
+      by any combination of actions by Players does not occur, any
+      Rule to the contrary notwithstanding.
+
+      The Rules in the Initial Set are in effect at the beginning of
+      the first game.  The Initial Set consists of Rules 101-116
+      (Immutable) and 201-219 (Mutable).
+
+2.
+
+Rule 1841/6 (Power=1)
+Granting Power of Attorney
+
+      (a) A Player (the Grantor) who has been continuously registered
+          for more than two months is empowered to give eir Power of
+          Attorney (PoA) to another Player (the Holder), as specified
+          in this Rule.
+
+      (b) The Holder holds the Grantor's PoA if all of the following
+          conditions are met:
+          (1) the Grantor has announced that e grants eir PoA to the
+              Holder;
+          (2) the Holder has, in the week immediately preceding or
+              immediately following the Grantor's announcement,
+              publically consented to hold the Grantor's PoA;
+          (3) the Holder is Active; and
+          (4) the grant of PoA has not been withdrawn for any of the
+              reasons listed in (d).
+
+      (c) The grant of PoA commences at the time the Grantor grants
+          eir PoA to the Holder, or at the time the Holder consents to
+          the grant, or at the time specified by the Grantor,
+          whichever is latest. If the Grantor specifies a time at
+          which the grant of PoA is to commence, it must be a time no
+          more than seven days from the Grantor's announcement. Later
+          specifications are without effect for the purposes of this
+          Rule.
+
+      (d) The grant of PoA is withdrawn if:
+          (1) the period of the grant specified by the Grantor
+              expires;
+          (2) the Grantor publically withdraws the grant;
+          (3) the Grantor is deregistered;
+          (4) the Holder ceases to be active or is deregistered; or
+          (5) the Holder has held the PoA continuously for three
+              months.
+
+      (e) Nothing in this Rule shall be construed as preventing other
+          Rules from granting and withdrawing PoA by other means.
+
+      (f) Other Rules to the contrary notwithstanding, no Player who
+          has granted PoA to another Player as described in this rule
+          shall be deregistered while the grant of PoA is in effect.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+R1841.f states "Other Rules to the contrary notwithstanding, no
+Player who has granted PoA to another Player as described in this rule shall
+be deregistered while the grant of PoA is in effect."
+
+Firstly, this Court finds that the above clause conflicts with a Grantor's
+R101 (Power-3) privilege to deregister, and as R101 has higher precedence, the
+Grantor may always deregister emself while a grant of PoA is in effect
+[R1482].
+
+Secondly, this Court finds that R1841.f WOULD prevent "externally" induced
+deregistration mandated by other power-1 Rules, e.g. lawlessness, as R1841.f
+successfully claims precedence over other power-1 Rules on the subject of
+deregistration [R1030].
+
+But does a Holder of a PoA's attempt to deregister the Grantor fall into the
+first or the second case above?  Does granting PoA transfer the R101 privilege
+of deregistration, or does R1841.f prevent this grant?
+
+The definition of PoA (R1842) states that the Holder is the Prime Executor of
+the Grantor, and the definition of Prime Executor (R1989) states that by
+default, a Prime Executor is the executor of an entity for all actions, and
+this would include the R101 deregistration privilege.  But R1989 specifically
+qualifies Prime Executorship as follows:
+
+      (c) If the Rules designate a Player to be the Prime Executor of
+          an entity, without specifying particular actions that the
+          Prime Executor is responsible for performing, then that
+          Player is the Prime Executor of that entity with respect to
+          all actions that the entity is required to perform.
+
+This Court finds it implicit in R1989.c that the rules can specify actions
+that a Prime Executor is NOT responsible for; that is, the Rules may
+successfully state "The Holder is the Prime Executor for the Grantor with
+respect to all actions execept X", or Rule A may state "The Holder is the
+Prime Executor for the Grantor [with respect to all actions]" and Rule B may
+state "but not for action X".  In this latter case, Rule B would be a
+successful limitation if it had precedence over Rule A.
+
+Since R1841.f has a higher precedence than either the definition of PoA or the
+definitions of Prime Executors (R1842, R1989), it is consistent with the above
+argument that R1841.f succeeds in refusing the Holder the grant of Prime
+Executorship for the purpose of deregistrating the Grantor.
+
+This Court finds FALSE, the holder of a PoA may not deregister the grantor.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+Rule 1482/1 (Power=3)
+Precedence between Rules with Unequal Power
+
+      In a conflict between Rules with different Power, the Rule with
+      the higher Power takes precedence over the Rule with the lower
+      Power.
+
+
+Rule 1030/4 (Power=3)
+Precedence between Rules with Equal Power
+
+      If two or more Rules with the same Power conflict with one
+      another, then the Rule with the lower Number takes precedence.
+
+      If at least one of the Rules in conflict explicitly says of
+      itself that it defers to another Rule (or type of Rule) or
+      takes precedence over another Rule (or type of Rule), then such
+      provisions shall supercede the numerical method for determining
+      precedence.
+
+      If all of the Rules in conflict explicitly say that their
+      precedence relations are determined by some other Rule for
+      determining precedence relations, then the determinations of
+      the precedence determining Rule shall supercede the numerical
+      method for determining precedence.
+
+      If two or more Rules claim to take precedence over one another
+      or defer to one another, then the numerical method again
+      governs.
+
+
+Rule 1841/6 (Power=1)
+Granting Power of Attorney
+
+      (a) A Player (the Grantor) who has been continuously registered
+          for more than two months is empowered to give eir Power of
+          Attorney (PoA) to another Player (the Holder), as specified
+          in this Rule.
+
+      (b) The Holder holds the Grantor's PoA if all of the following
+          conditions are met:
+          (1) the Grantor has announced that e grants eir PoA to the
+              Holder;
+          (2) the Holder has, in the week immediately preceding or
+              immediately following the Grantor's announcement,
+              publically consented to hold the Grantor's PoA;
+          (3) the Holder is Active; and
+          (4) the grant of PoA has not been withdrawn for any of the
+              reasons listed in (d).
+
+      (c) The grant of PoA commences at the time the Grantor grants
+          eir PoA to the Holder, or at the time the Holder consents to
+          the grant, or at the time specified by the Grantor,
+          whichever is latest. If the Grantor specifies a time at
+          which the grant of PoA is to commence, it must be a time no
+          more than seven days from the Grantor's announcement. Later
+          specifications are without effect for the purposes of this
+          Rule.
+
+      (d) The grant of PoA is withdrawn if:
+          (1) the period of the grant specified by the Grantor
+              expires;
+          (2) the Grantor publically withdraws the grant;
+          (3) the Grantor is deregistered;
+          (4) the Holder ceases to be active or is deregistered; or
+          (5) the Holder has held the PoA continuously for three
+              months.
+
+      (e) Nothing in this Rule shall be construed as preventing other
+          Rules from granting and withdrawing PoA by other means.
+
+      (f) Other Rules to the contrary notwithstanding, no Player who
+          has granted PoA to another Player as described in this rule
+          shall be deregistered while the grant of PoA is in effect.
+
+
+Rule 1989/1 (Power=1)
+Prime Executors
+
+      (a) The Prime Executor of an entity with respect to a certain
+          action is the Player who is responsible for performing that
+          action. For each action that an entity is required to
+          perform, there shall be at most one Prime Executor of that
+          entity with respect to that action. Any penalty incurred due
+          to an entity's failure to perform as required by the Rules
+          is incurred by the Prime Executor of that entity.
+
+      (b) Any other Rule to the contrary notwithstanding, the Prime
+          Executor of an entity with respect to a certain action must
+          be an Executor of that entity, or a Limited Executor of that
+          entity who is permitted to perform that action on behalf of
+          that entity.
+
+      (c) If the Rules designate a Player to be the Prime Executor of
+          an entity, without specifying particular actions that the
+          Prime Executor is responsible for performing, then that
+          Player is the Prime Executor of that entity with respect to
+          all actions that the entity is required to perform.
+
+      (d) Unless otherwise specified by the Rules, each Player is eir
+          own Prime Executor.
+
+      (e) If a Player is the sole Executor of an entity, then e is the
+          Prime Executor of that entity. This provision does not apply
+          to a Player who is the sole Limited Executor, but not the
+          Executor, of an entity.
+
+========================================================================

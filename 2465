@@ -1,0 +1,49 @@
+==============================  CFJ 2465  ==============================
+
+    If two players satisfy the Winning Condition of High Score, and
+    exactly one of them has a Rest, the score of the player with the
+    Rest is set to 0.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      26 Apr 2009 00:09:15 GMT
+Assigned to ais523:                     26 Apr 2009 20:40:48 GMT
+Judged TRUE by ais523:                  27 Apr 2009 15:13:39 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I believe so, as the Cleanup Procedure for the Winning Condition of High
+Score reads {All those players have eir scores set to 0.}. {Those
+players} refers, I believe, to all players satisfying the Winning
+Condition of High Score, and not all players winning the game. As such,
+if a player satisfies a Losing Condition when a player wins the game due
+to High Score, eir points will be set to 0.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge this trivially TRUE.
+{{{
+      Each Winning Condition should (if needed) specify a cleanup
+      procedure to prevent an arbitrary number of wins arising from
+      essentially the same conditions.  When one or more persons win
+      the game, for each Winning Condition satisfied by at least one
+      of those persons, its cleanup procedure occurs.
+}}}
+The Winning Condition in question has been satisfied by someone who wins
+(regardless of other context involved); so the cleanup happens; so all
+the players with product score over 2500 have their scores zeroed.
+
+========================================================================

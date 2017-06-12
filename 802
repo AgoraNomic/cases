@@ -1,0 +1,156 @@
+>From nomic-official-owner@teleport.com  Wed Aug  9 21:09:57 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id VAA06527 for <blahedo@quincy.edu>; Wed, 9 Aug 1995 21:09:55 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id TAA06593 for nomic-official-outgoing; Wed, 9 Aug 1995 19:08:36 -0700
+Received: from timbuk.cray.com (root@timbuk.cray.com [128.162.19.7]) by desiree.teleport.com (8.6.10/8.6.9) with ESMTP id TAA06564 for <nomic-official@teleport.com>; Wed, 9 Aug 1995 19:08:32 -0700
+Received: from sdiv.cray.com (root@ironwood-fddi.cray.com [128.162.21.36]) by timbuk.cray.com (8.6.12/CRI-8-1.16) with SMTP id VAA02518 for <nomic-official@teleport.com>; Wed, 9 Aug 1995 21:08:29 -0500
+Received: from birch111 by sdiv.cray.com (5.x/CRI-5.15.b.orgabbr Sdiv)
+	id AA05785; Wed, 9 Aug 1995 21:08:28 -0500
+Message-Id: <9508100208.AA05785@sdiv.cray.com>
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 802
+Date: Wed, 09 Aug 1995 21:08:27 -0500
+>From: David Bowen <dmb@birch111.cray.com>
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+============================================================
+
+CFJ 802
+
+Caller: Zefram
+
+Statement: The rules should be interpreted such that the Treasury
+  belonging to the Contest known as "Jeff's Piggy Bank" still exists.
+
+Barred: none
+Requested Injunction: none
+
+Judge: Swann
+ Judgement FALSE
+
+Effects reported by COTC: (* indicates new to this report)
+   Kelly looses 2 points for declining judgeship.
+   Dave B receives 1 point as compensation.
+  *Swann receives 5 points for speedy judgement.
+
+============================================================
+
+History:
+  Called by Zefram Fri, 4 Aug 1995 02:19:35 +0100 (BST)
+  Assigned to Kelly Fri, 4 Aug 95 01:06:24 CDT
+  Declined by Kelly Fri, 4 Aug 95 02:09:32 EST
+  Assigned to Swann Tue, 08 Aug 1995 19:47:21 -0500
+  Judged FALSE by Swann Wed, 9 Aug 1995 00:40:14 -0400
+
+============================================================
+
+Arguments of Caller (Zefram):
+
+When Jeff's Piggy Bank was created on 25th July 1995, a Treasury was
+created for it in accordance with Rule 1469/0.  When Jeff's Piggy Bank
+was dissolved on 26th July, its (empty) Treasury was emptied *but not
+destroyed* by Rule 1469/0,  As there is no Rule that allows the
+destruction of Treasuries, it still exists.
+
+This applies to all Treasuries whose owners ceased to exist after
+Currency Reform.  There are several such empty Treasuries, which it is
+still possible to transfer Currencies into.
+
+============================================================
+
+Argument of the Judge (Swann)
+
+The general thrust of this CFJ is the determination of A) if the Rules
+provide, implicitly or explicitly, for the destruction of a Treasury,
+and B) if such a provision exists, does such apply to the specific case
+of Jeff's Piggy Bank?
+
+The Caller is correct in that 1469/0 does not provide for the
+destruction of any Treasury.  If the matter was only that of 1469/0
+alone, the Caller's Statement would be valid.  It is valid, in fact,
+to say that there is no Rule that explicitly provides for the
+destruction of a Treasury.
+
+Is there a Rule that implicitly does so?
+
+According to Rule 1468/0:
+
+     "The possession of Treasuries may never be changed, once created."
+
+This is the crux of the matter.  If the Entity possessing a Treasury
+ceases to exist, it cannot change ownership of the Treasury, even to
+the extent of creating an "ownerless" Treasury.  The Entty only has
+the option of retaining the Treasury into its nonexistence.  This 
+clause of 1468/0 makes a Treasury and its owner an indivisible
+single Entity.  1468/0 enforces such an interpretation by saying:
+
+     "Whenever an Entity ossesses only one Treasury, it shall be a
+      permissible and unambiguous abbreviation to state that the
+      Entity possesses the Currencies within its Treasury."
+
+In other words, Jeff's Piggy Bank owned the currencies within its
+Treasury, and in effect, the Treasury was a *part* of Jeff's Piggy Bank
+and ceased to exist along with it.
+
+
+Additional Evidence:
+----------------------------------------
+
+Rule 1468/0 (Mutable, MI=1)
+Definition of a Treasury
+
+      A Treasury is a repository for holding Currencies.  Currencies
+      may exist only within a Treasury.  A Treasury may contain a
+      positive, negative, or zero quantity of a given Currency, unless
+      otherwise prohibited by the Rules.  Currencies may be
+      transferred between Treasuries only as specified in the Rules.
+
+      Only those Nomic Entities which are authorized by the Rules to
+      possess Treasuries may possess Treasuries.  No Treasury may be
+      possessed by more than one Nomic Entity.  The possession of
+      Treasuries may never be changed, once created.
+
+      Each Player and each Group has a Treasury of its own.
+
+      Whenever an Entity possesses only one Treasury, it shall be a
+      permissible and unambiguous abbreviation to state that the
+      Entity possesses the Currencies within its Treasury.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+
+----------------------------------------
+============================================================
+
+Evidence provided by Caller (Zefram):
+
+1. Rule 1469/0: Creation and Destruction of Treasuries
+
+----------------------------------------
+
+Rule 1469/0 (Mutable, MI=1)
+Creation and Destruction of Treasuries
+
+      Whenever an Entity which is permitted to possess a Treasury is
+      created, or an existing Entity is granted the permission to
+      possess a Treasury, a Treasury is created for that Entity.  Such
+      a new Treasury shall initially contain no Currencies, unless
+      otherwise specified in the Rules.
+
+      Whenever an Entity which possesses a Treasury ceases to exist or
+      ceases to be permitted to possess a Treasury, all Currencies
+      within are immediately transferred to the Treasuries of the
+      Mintors of the respective Currencies.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+
+----------------------------------------
+
+============================================================
+
+End of CFJ 802
+
+============================================================

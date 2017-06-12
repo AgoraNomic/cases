@@ -1,0 +1,88 @@
+==============================  CFJ 1958  ==============================
+
+    There exists at least one rule with Power = 1.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Machiavelli
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       20 May 2008 00:00:45 GMT
+Assigned to Wooble:                     22 May 2008 03:34:11 GMT
+Judged TRUE by Wooble:                  22 May 2008 11:49:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The actions purportedly leading to FALSE are quoted below as evidence.
+
+Rule 2140 protects the high-Power rules, hence the limited scope of
+the statement.
+
+Repealing Rule 1607 would remove the Promotor's authorization to
+initiate Agoran decisions on proposals, but Rules 1551, 2201, and
+2034 (or 1551 and 2202, ratifying the Ruleset) would allow the
+damage to be repaired - albeit either method could be blocked in
+practice by a single objector.
+
+I can think of two other arguments to the effect that the actions
+quoted as evidence were entirely ineffective:
+
+  1) Rule 2198 does not authorize the mechanism itself, it only
+     authorizes the specified Contract Changes.
+
+  2) The mechanism is not performed by Rule 2198 itself, but by
+     the contract or the announcer, thus Rule 2140 prevents it
+     from changing any rules.
+
+========================================================================
+
+Caller's Evidence:
+
+ehird announced:
+
+> I intend to make the following contract with Ivan Hope CXXVII: {This
+contract's
+> mechanism for being terminated is an Announcement of Chaos, which destroys
+> all rules and then terminates the contract.}
+
+In response, Ivan Hope announced:
+
+> I agree.
+
+ehird then announced:
+
+> This is an Announcement of Chaos.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+A close reading of Rule 2198 indicates that this is, in fact, the
+case.  The 'CAN' refers to performing such changes, and allows the
+specified mechanism to perform the changes.  It does not make the
+specified mechanism possible.  If it did, one could argue that a
+clause like "This contract can be changed by any Party with the
+consent of the other parties" authorized each party to give consent on
+behlaf of the other parties.
+
+In any event, the alternate reading of 2198 could not authorize a
+Player to make changes to the rules without explicitly turning that
+Player into an instrument capable of doing so; 2198 lacks the power to
+override R2140 by any other means, and we cannot read into 2198 an
+implicit transformation of a Player into an instrument.
+
+ehird CANNOT destroy all rules by announcement.  The question of
+whether the failure of half the intended effect of an Announcement of
+Chaos causes the entire Announcement to fail and thus for the contract
+to fail to terminate is beyond the scope of this ruling.
+
+========================================================================

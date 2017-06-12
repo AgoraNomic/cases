@@ -1,0 +1,87 @@
+==============================  CFJ 3297  ==============================
+
+    Rule 2386 has been repealed.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          17 Feb 2013 05:42:06 GMT
+Assigned to ais523:                     11 Mar 2013 18:51:45 GMT
+Judged TRUE by ais523:                  16 Mar 2013 19:28:39 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Sun, Feb 17, 2013 at 12:00 AM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+> The purported resolution of this decision constituted a self-ratifying
+> claim that Proposal 7330 took effect, and, as of nearly twelve hours
+> ago, this claim has remained continuously undoubted for one week.
+> Therefore, the claim has ratified. Rule 1551 states that ratification
+> "cannot [cause] a rule change unless the ratified document purports to
+> include the text, title, and/or power of the rule being changed".
+> Indeed, the ratified document mentioned Rule 2386 "Belligerence" by
+> title, not by ID number (as it had not been assigned an ID number when
+> the proposal was written), so this ratification was successful in
+> repealing Rule 2386.
+
+but I don't think the (implicitly defined)
+ratified document actually includes the text of the proposal that took
+effect, even if the physical message in question did.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+Rule 2034 states, "A public document purporting
+to resolve an Agoran decision constitutes self-ratifying claims that
+[stuff happened]". The most straightforward meaning of "to constitute"
+is "to be all of the parts of", but clearly this is not the intended
+meaning; the intended meaning seems to be more along the lines of "to
+give rise to, and determine the nature of". So when the Assessor's
+document gave rise to a claim that Proposal 7330 took effect, was the
+claim simply the statement "Proposal 7330 took effect", or did the
+claim also include the proposal's text, as the Assessor's document
+did?
+
+I guess the former seems to make more sense, ignoring the best
+interests of the game.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Excerpt from rule 2034/6:
+"A public document purporting to resolve an Agoran decision constitutes
+self-ratifying claims that"
+
+Rule 1551/15, paragraph 1:
+"A public document is part (possibly all) of a public message."
+
+The issue at issue in this case is what the relevant public document is,
+in the case of a proposal resolution. Based on the plain definitions in
+the rules, the only conclusion I can think of is that every part of a
+public message that purports to resolve an Agoran decision is
+self-ratifying. Due to the "(possibly all)", it seems reasonable that
+"part" has a meaning similar to "consecutive sequence of characters that
+makes sense on its own and obeys natural boundaries of the message",
+rather than a meaning similar to "chapter".
+
+As such, we can deduce that multiple documents self-ratified; the
+portion of the message that did not include the text/title/power of the
+rule (because it did not include the text of the proposal) did nothing
+upon self-ratification, but the entire message (which is also a
+document) repealed the rule upon self-ratification.
+
+This implies that the rules are not broken in the way that was
+anticipated when this case was called. I judge CFJ 3297 TRUE.
+
+========================================================================

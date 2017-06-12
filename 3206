@@ -1,0 +1,54 @@
+=========================  Criminal Case 3206  =========================
+
+    441344 violated Rule 2143 (Official Reports and Duties) by
+    incorrectly stating that there were 7 inactive players (but listing
+    8) in eir Registrar's Report of April 9.
+
+========================================================================
+
+Caller:                                 omd
+Barred:                                 FKA441344
+
+Judge:                                  ais523
+Judgement:                              GUILTY/DISCHARGE
+
+========================================================================
+
+History:
+
+Called by omd:                          24 Apr 2012 19:11:28 GMT
+Defendant FKA441344 informed:           24 Apr 2012 19:11:28 GMT
+Assigned to ais523:                     06 May 2012 18:25:58 GMT
+Judged GUILTY/DISCHARGE by ais523:      11 May 2012 22:29:17 GMT
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Minor mistakes in reports deserve to be pointed out and
+punished, in order to hold our officers to account, but minor errors
+deserve minor punishments. CFJ 3205 is quite unambiguous that the error
+occured (G. is not listed as inactive there, and the activity of each
+player is part of the Registrar's report, and G. became inactive on Mar
+20 and not active again until Mar 28; and the caller really should have
+linked me to the appropriate messages or quoted them to save me spending
+five minutes or so looking it up), but there's an interesting legal
+point in CFJ 3206. The thing is, the number of inactive players is not
+defined as part of the Registrar's report! However, there is some
+unfortunate phrasing in rule 2143:
+
+      While performing weekly or monthly duties or publishing weekly
+      or monthly reports, officers SHALL NOT publish information that
+      is inaccurate or misleading.
+
+Note that this does not require the inaccurate or misleading information
+to be part of the report; merely published at the same time. (This is
+probably unintended.) Thus, the inaccurate inactive player count is
+indeed a violation of rule 2143, but one so minor that I don't feel it
+justified to give a nonzero penalty.
+
+Thus, I judge:
+CFJ 3206: GUILTY/DISCHARGE
+CFJ 3205: GUILTY/APOLOGY {rogue, hack, crawl, tome, jade, powder}
+
+========================================================================

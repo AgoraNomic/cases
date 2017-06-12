@@ -1,0 +1,114 @@
+==============================  CFJ 2745  ==============================
+
+    Wooble is on the List of Succession.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      26 Nov 2009 17:57:01 GMT
+Assigned to G.:                         29 Nov 2009 17:55:15 GMT
+Judged TRUE by G.:                      01 Dec 2009 17:29:23 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Is the List of Succession the active players awarded the 5 most recent
+instances of Champion? Is it the active players awarded the 5 most
+recent instances of Champion among active players? The text of the
+rule seems unclear, and requires careful semantic analysis (which I
+won't provide, as I'm not the judge).
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 402 reads:
+      The List of Succession is a list of the five active players who
+      were most recently awarded the patent title Champion.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The enumerated items are players, not title instances.  A person is not
+more than one player (more than one element) no matter how many times e
+has won.  If a player is on the list more than once, there are not five
+players on the list (in the set).
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The phrase in question:
+> Rule 402 reads:
+>      The List of Succession is a list of the five active players who
+>      were most recently awarded the patent title Champion.
+
+The caller argues that the clause should be read as the list of the last
+5 championship titles that were awarded, and the players that held them,
+even if a given player is listed more than once.  This list (as it was
+at the time of the CFJ) is List A in Evidence.
+
+The "traditional" way of reading the list is that it is the list of 5
+distinct (unique) players who were most recently awarded the title.
+(This is List B in evidence).
+
+The mathematical and common definition of "list" does not preclude
+duplicates from occurring.  If instead of "list", the rule read "ordered
+set", it would clearly indicate the traditional meaning, as every element
+of a set must be unique.  Therefore, taking the word "list" in isolation,
+the caller is correct.
+
+However, the phraseology "the five active players" does in fact strongly
+suggest an enumerated set in common language.  If I shouted out "I need
+five volunteers" (without further qualification) it would not be common
+sense to choose the same person twice.  Further, if I said "name five
+players with these characteristics" then naming a player twice wouldn't
+count.  Third, "the" in "the five players" implies a unique set that is
+unique in its content (cardinality) as well as its ordinality.  Fourth,
+the phrase later in the rule "player [who] became part of the list the
+longest time ago" implies that the date of being added and removed from
+the list is a unique event per player, which makes less sense if a player
+is added to the list twice.  Finally, we have a strong tradition in
+Agora of treating a player as the fundamental unit of individuality; e.g.
+treating a player as "two positions" on a "list of players" would be more
+supported in a game that subscribed to avatar theory rather than a theory
+of players consisting of a set of unique persons.
+
+All of this, along with the (weaker in importance) fact that it is
+established custom, is sufficient to decide that the traditional
+interpretation is reasonable and supported, although legislative
+clarification would be nice.
+
+Therefore, List B is a reasonable and appropriate one.  TRUE.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+List A:  Last 5 championship titles awarded to currently active
+players (all awarded Oct 2):
+   coppro (eldest addition to list; allegedly Speaker)
+   ais523
+   c.
+   ais523
+   coppro
+
+List B: Last 5 (different) currently active players who received
+championship titles:
+   Tiger (eldest addition to list; allegedly Speaker)
+   c.
+   ais523
+   coppro
+   Wooble
+
+========================================================================

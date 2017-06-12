@@ -1,0 +1,118 @@
+From - Wed May 17 14:55:20 2000
+Return-Path: <owner-agora-discussion@gecko.serc.rmit.edu.au>
+Received: from gecko.serc.rmit.edu.au ([131.170.42.16])
+	by mx9.mindspring.com (Mindspring Mail Service) with ESMTP id shuqeu.hsj.37kbi17
+	for <elysion@mindspring.com>; Sun, 14 May 2000 23:07:09 -0400 (EDT)
+Received: (from majordomo@localhost)
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) id CAA26882
+	for agora-discussion-list; Mon, 15 May 2000 02:58:05 GMT
+Received: from fw.serc.rmit.edu.au (fw-in.serc.rmit.edu.au [131.170.42.1])
+	by gecko.serc.rmit.edu.au (8.8.5/8.8.5) with ESMTP id CAA26879
+	for <agora-discussion@gecko.serc.rmit.edu.au>; Mon, 15 May 2000 02:58:03 GMT
+Received: (from mail@localhost)
+	by fw.serc.rmit.edu.au (8.9.3/8.9.1) id NAA50001
+	for <agora-discussion@gecko.serc.rmit.edu.au>; Mon, 15 May 2000 13:19:57 +1000 (EST)
+Received: from silas-2.cc.monash.edu.au(130.194.1.7) by fw.serc.rmit.edu.au via smap (V2.1)
+	id xma049997; Mon, 15 May 00 13:19:40 +1000
+Received: (from gardner@localhost)
+	by silas-2.cc.monash.edu.au (8.9.1a/8.9.1) id NAA28716
+	for agora-discussion@gecko.serc.rmit.edu.au; Mon, 15 May 2000 13:03:17 +1000 (EST)
+From: Steve Gardner <gardner@silas.cc.monash.edu.au>
+Message-Id: <200005150303.NAA28716@silas-2.cc.monash.edu.au>
+Subject: DIS: Repost of CFJ 1108
+To: agora-discussion@gecko.serc.rmit.edu.au (Agora Nomic Discussion List)
+Date: Mon, 15 May 2000 13:03:17 +1000 (EST)
+X-Mailer: ELM [version 2.5 PL3]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Transfer-Encoding: 7bit
+Sender: owner-agora-discussion@gecko.serc.rmit.edu.au
+Precedence: bulk
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+X-Mozilla-Status: 8001
+X-Mozilla-Status2: 00000000
+X-UIDL: shuqeu.hsj.37kbi17
+
+
+==========================================================================
+                               CFJ 1108
+
+ The requirement to "execute a Payment Order for 0 VTs" can be fulfilled
+ by doing nothing.
+
+==========================================================================
+
+Judge:        Morendil
+
+Judgement:    TRUE
+
+Eligible:     Antimatter, Blob, Crito, Chuck, General Chaos, Harlequin,
+              Macross, Michael, Morendil, Oerjan, Steve
+
+Not eligible:
+Caller:       Kolja A.
+Barred:       lee, Murphy, Proglet
+Disqualified: -
+On Hold:      elJefe
+
+======================================================================
+
+History:
+
+  Called by Kolja A.:     Tue, 20 Oct 1998 12:11:23 +0200
+  Assigned to Morendil:   Wed, 21 Oct 1998 10:37:51 +1000 
+  Morendil Judges TRUE:   Wed, 21 Oct 1998 11:15:07 +0200
+  Judgement published:    Wed, 21 Oct 1998 22:36:01 +1000
+
+======================================================================
+
+Caller's Arguments:
+
+The POs that are defined and referred to in the rules are, by
+definition, POs for positive multiples of a currency's MUQ (R1596).
+
+Therefore, a "PO for 0 VTs" is an object not defined by the rules, and
+so is the action of executing one.
+
+Therefore the player who is required to "execute the PO" may choose what
+that means with the freedom of R116, and can just ignore the
+requirement.
+
+In addition to this argument, there is also game custom to support this
+statement: R1442 requires the Assessor to bill _all_ voting entities "a
+number of Voting Tokens equal to the votes cast". This includes entities
+who didn't vote at all, to be billed for 0 VTs. This requirement has
+never been fulfilled in another way than just by being ignored.
+
+======================================================================
+
+Judge's Arguments:
+
+I hereby enter a Judgement of TRUE. I would have phrased the conclusion
+differently (as "the Rules cannot impose a requirement to execute a
+Payment Order for 0 units of a Currency"), but I agree with the Caller's
+reasoning.
+
+======================================================================
+
+Evidence attached by CotC:
+
+Rule 1596/3 (Power=1)
+Payment Orders
+
+      A Payment Order is an Order requiring an entity (the payor) to
+      submit a Transfer Order transferring units of a Currency from
+      itself to some other entity (the payee).  A Payment Order
+      specifies exactly one source entity, exactly one destination
+      entity, exactly one Currency, and a number of units of that
+      Currency which is a positive multiple of that Currency's MUQ.
+
+======================================================================
+
+-- 
+
+
+Steve Gardner                     |   Appearances to the contrary,
+Dept. of Philosophy, Monash Uni.  |  things are just what they seem.
+gardner@silas.cc.monash.edu.au    |

@@ -1,0 +1,75 @@
+==============================  CFJ 2478  ==============================
+
+    The Herald CAN award comex a second instance of Champion.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       28 Apr 2009 17:24:07 GMT
+Assigned to Wooble:                     30 Apr 2009 07:06:44 GMT
+Judged FALSE by Wooble:                 30 Apr 2009 12:31:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Tue, 2009-04-28 at 11:17 -0600, Ian Kelly wrote:
+> Per CFJ 2450, I award 96+96i points to comex.
+
+Disclaimer: This message is an attempt to construct a paradox. Nothing
+here is definitely false; but it may be confusing.
+
+The following sentence is a Win Announcement, and this sentence serves
+to clearly label it as one.
+
+This sentence is false, and comex has a score x+yi such that xy >= 2500.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Tiger:
+> Wouldn't that just mean that the sentence as a whole is false, but the
+> first part of it is true? "comex is a player, and he is the Anarchist"
+> is false even if one part is true. There should be a way to actually
+> make a paradox out of it, but not with "and" since it means that the
+> entire sentence has to be true. I think.
+
+Yes, except that comex clearly does have such a score. The fact that e
+does makes it a paradox. It's also of the form required for a win
+announcement, it contains the required information /and/ also other
+extraneous information. So it's a win iff my statement is correct; given
+that the second part is correct, it depends on the truth of the first
+part, which is (given the existence of comex's winning score) an
+Epimenides paradox.
+
+The paradox win attempt here works by finding a part of the game, other
+than CFJs (which have been strongly paradox-proofed over the years),
+where the truth of a statement makes a difference to the gamestate.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+Trivially FALSE.  comex has a rest, which is a Losing Condition.
+
+But I don't think you would get a paradox out of this anyway; it would
+simply not be a Win Announcement, due to not being true.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge FALSE.  comex owned 1 Rest at the time the CFJ was called, so
+whether e satisfied a winning condition at the time is irrelevant to
+the truth of the statement.
+
+========================================================================

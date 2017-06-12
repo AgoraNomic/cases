@@ -1,0 +1,103 @@
+==============================  CFJ 2823  ==============================
+
+    Proposal 6740 awarded a win to one or more players.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           30 Jul 2010 19:06:03 GMT
+Assigned to scshunt:                    02 Aug 2010 03:49:17 GMT
+scshunt recused:                        02 Aug 2010 13:53:31 GMT
+Assigned to Murphy:                     04 Aug 2010 02:23:11 GMT
+Judged TRUE by Murphy:                  13 Aug 2010 08:50:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It's too late to appeal the judgement of TRUE on the same statement (CF2808).
+At issue (not considered by the 2808 judge) is whether, when a Proposal states
+in its text that it awards a win, does it:
+
+  (a) actually award a win; or
+  (b) merely purport to award a win, which is "intercepted" by
+      R2188 into a win condition (not directly awarded by the proposal).
+
+Note that the Proposal text directly states "award a win".  We often allow
+proposals to set values that we otherwise CANNOT set.  Winning is not
+"secured" in explicit words, but perhaps R2186 restricts winning to
+defined win conditions and therefore does in fact count as secured-2
+by R1688 definitions (hence the question on whether a power-3 version
+would override R2186).  A lower-powered proposal may also conflict
+with R2140(c)'s "modify any other substantive aspect of an instrument"
+clause.
+
+But these sort of CANNOTs have been overridden by proposals in the past
+without blinking an eye!  When we install an officer by Proposal, or
+reset currencies or points directly, that's something we also generally
+CANNOT do, but we've taken it to work, even in a power-1 proposal...
+
+========================================================================
+
+Caller's Evidence:
+
+> Proposal 6740 (Purple, AI=1.0, Interest=1) by ais523
+> The first rule of this proposal is...
+>
+> Award a win to player who did not acknowledge the existence of this
+> proposal in a public or discussion forum after the time it was submitted
+> and before the time it was adopted.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Unlike Rule 2186's explicit attempt at prohibition, these examples are
+implicitly prohibited by Rule 2125:
+
+      c) The rules explicitly state that it CAN be performed while
+         certain conditions are satisfied.  Such an action CANNOT be
+         performed except as allowed by the rules.  In particular, if
+         the action in question is publishing a type of document, then
+         a public message is not that type of document (even if it is
+         labeled as such) except as allowed by the rules.
+
+      e) It would, as part of its effect, modify information for which
+         some player is required to be a recordkeepor.  Such an action
+         CANNOT modify that information except as allowed by the
+         rules.
+
+but in the case of an adopted proposal, "except as allowed by the rules"
+is triggered by Rule 106:
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.
+
+The judge should also consider whether Rule 2188 implicitly re-defines
+"awarding a win" along the lines of "not attempting to cause those
+players to win directly, but merely attempting to trigger this rule".
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I find that, yes, Rule 2188 implicitly re-defines "awarding a win" as
+described in the last paragraph of my gratuitous arguments.  There
+might be an edge case involving a proposal clearly intended to avoid
+that definition, but Proposal 6740 was not such a proposal.
+
+========================================================================

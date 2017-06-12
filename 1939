@@ -1,0 +1,92 @@
+==============================  CFJ 1939  ==============================
+
+    If a rule states that an action is regulated, that does not prevent
+    that action from taking place, but only prevents that thing from
+    taking place under rule 101(ii) (and therefore makes it impossible
+    to take that action unless another rule makes it possible).
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       08 May 2008 10:54:39 GMT
+Assigned to G.:                         08 May 2008 21:39:20 GMT
+Judged FALSE by G.:                     16 May 2008 05:42:17 GMT
+
+========================================================================
+
+Judge G.'s Arguments:
+
+R101 reads:  "Every player has the right to perform an action which is
+not regulated."  What does this say about a player's ability to perform
+actions which are regulated?
+
+On the face of it, absolutely nothing.  It is reasonable to call it a
+case of exceptio probat regulam - by stating that a player has a right
+to perform unregulated actions, the rule implies that a player has no
+guaranteed right to perform regulated actions.   But this exceptio applies
+to rights, not actual abilities.  Implying that a player has no *assumed
+right* to perform a regulated action at will is not the same as saying
+that a player is generally forbidden from (or for that matter allowed to)
+perform a regulated action at will.
+
+So what can we say without R101?   R2125 states that actions are regulated
+if (conditions a..d), but does not define "regulated", nor does any other
+Rule.  By R754 we must look to the common language meaning of the term.
+By M-W online, "Regulated" means:
+
+    1 a: to govern or direct according to rule b (1): to bring under
+    the control of law or constituted authority.
+
+This is clear and direct.  It is clear in context that the rule, law or
+authority in question is the Agoran Rules themselves.  And the definition
+states that if something is regulated by said authority, it is directed by
+that authority, and under the control of that authority.  And for an action
+to be considered "under the control" of an authority, it must be an action
+that can only be performed as the authority directly allows, otherwise
+the authority isn't in control.
+
+So, this court states for the record that, if R101 were removed from the
+rules, R2125 would, still, by common definition of "regulated", ensure that
+regulated actions could *only* be performed as specified by the Rules.
+The principle of exceptio in R101 generally supports this interpretation of
+R2125, but R101 is not strictly necessary to assert the controlling power
+of R2125 over regulated actions and, through R2125 the authority of the
+Rules in general.  This Court So Finds that R2125 is sufficient.
+
+Unfortuately, the CFJ statement itself is a mess.  I believe that it
+parses as follows:
+
+       If a rule states that an action is regulated, that does not
+       prevent that action from taking place,...
+
+I have just found that a rule stating an action is regulated generally
+*does* prevents it from taking place, but doesn't *absolutely* prevent it,
+because another rule (or the same one) may explicitly permit it.  This
+statement reads *absolutely*, so this part is TRUE.
+
+    ...but only prevents that thing from taking place under rule 101(ii)...
+
+As I have just found that R101 doesn't prevent anything having to do with
+"Regulated", this part is FALSE.
+
+    ...(and therefore makes it impossible to take that action unless
+        another rule makes it possible).
+
+If this therefore is applied to the first clause, it is TRUE.  If it applied
+to the R101 clause, it is generally nonsense, as a "therefore" following
+a FALSE assertion is nonsense.  The "and therefore" instead of "but therefore"
+attaches it to the end of the logic chain (and therefore to the R101 clause)
+so I will call this clause NONSENSE FOLLOWING A FALSE.
+
+Overall, since a link in the chain (the clause concering R101) is FALSE, I
+find this statement as a whole, and therefore CFJ 1939, FALSE.
+
+========================================================================

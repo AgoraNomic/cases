@@ -1,0 +1,90 @@
+==============================  CFJ 1806  ==============================
+
+    In rule 2126, spending N+1 or N+2 VCs of different colors means that
+    more than one color must be involved.
+
+========================================================================
+
+Caller:                                 pikhq
+
+Judge:                                  Zefram
+Judgement:                              UNDECIDABLE
+
+Appeal:                                 1806a
+Decision:                               REMAND
+
+
+Judge:                                  Zefram
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by pikhq:                        24 Nov 2007 19:39:29 GMT
+Assigned to Zefram:                     28 Nov 2007 14:04:01 GMT
+Judged UNDECIDABLE by Zefram:           29 Nov 2007 16:00:30 GMT
+Appealed by Murphy:                     30 Nov 2007 04:23:21 GMT
+Appealed by pikhq:                      30 Nov 2007 04:30:48 GMT
+Appealed by Levi:                       30 Nov 2007 04:32:05 GMT
+Appeal 1806a:                           30 Nov 2007 04:34:12 GMT
+REMANDED on Appeal:                     01 Dec 2007 03:44:51 GMT
+Assigned to Zefram:                     01 Dec 2007 03:44:51 GMT
+Judged UNDETERMINED by Zefram:          01 Dec 2007 08:44:01 GMT
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+This statement is open to multiple interpretations.  It might be asking
+whether the meaning of the phrase "spend N+1 VCs of different colors"
+is *entirely* represented by the alternative phrase "more than one color
+must be involved".  That is trivially false, because the latter phrase
+omits the aspects of spending and VCs.  It might be asking whether the
+phrase "spend N+1 VCs of different colors" *implies* that more than one
+color must be involved.  That is also false, but not so trivially: if N=0
+then the phrase simplifies to "spend 1 VC of different colors", implying a
+single color.  However, other text in rule 2126 not incorporated into the
+statement excludes the N=0 case.  This leads to a third interpretation,
+that the statement asks whether the situations in which N+1 VCs are
+spent in rule 2126 necessarily involve more than one color.  In this
+interpretation the statement is true, because the N+1 VCs are always at
+least 2 VCs (of different colors).
+
+The disjunction in the statement is a further layer of complication.
+The statement might be asking whether what it posits (whichever that is)
+is true for *both* N+1 and N+2 cases, or whether it is true for *either*
+the N+1 or N+2 cases.  This makes little difference.
+
+I judge CFJ 1806 to be UNDECIDABLE due to unclarity.
+
+I suspect that what the initiator intended to ask is whether the meaning
+of "of different colors" in rule 2126 is precisely that there be at least
+two colors involved.  The statement in this CFJ doesn't seem to admit of
+this interpretation, but I'll address it anyway.  I find that this is not
+the meaning of "of different colors".  Rather, the meaning is that all the
+VCs involved must be mutually distinct in color; when spending N+1 VCs "of
+different colors" there must be exactly N+1 distinct VC colors involved.
+This is the way that the phrase was consistently intended and understood
+when many amendments to rule 2126 were proposed and proto-proposed earlier
+this year, and the way that it has been consistently interpreted since
+then until the initiator's recent spending attempts.  More importantly,
+it is the most natural interpretation of the phrase.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+Judge Zefram's reasoning is sound, but as of the adoption of Proposal
+5296, the appropriate judgement resulting from such reasoning is
+UNDETERMINED rather than UNDECIDABLE.  I recommend that the panel
+REMAND to Zefram so that e can make this correction.
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+I accept the panel's proposed correction, and judge CFJ 1806 UNDETERMINED
+due to unclarity of its statement.
+
+========================================================================

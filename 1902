@@ -1,0 +1,51 @@
+==============================  CFJ 1902  ==============================
+
+    Making the public statement 'This statement is not true' would cause
+    the person making that statement to violate Rule 2149.
+
+========================================================================
+
+Caller:                                 Levi
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Levi:                         05 Feb 2008 22:22:34 GMT
+Assigned to root:                       07 Feb 2008 02:33:31 GMT
+root recused:                           18 Feb 2008 18:41:47 GMT
+Assigned to omd:                        19 Feb 2008 00:42:26 GMT
+Judged TRUE by omd:                     20 Feb 2008 05:30:39 GMT
+
+========================================================================
+
+Judge omd's Arguments:
+
+As in CFJ 1887, the relevant section of R2149:
+      A person SHALL NOT make a public statement unless e believes
+      that in doing so e is telling the truth.
+
+I will make the assumption that the 'person making that statement' has
+the modicum of reasonableness necessary to understand the following
+argument.  This, to the best of my knowledge, holds true for all
+current players.  The case of a partnership which claimed to believe,
+say, that the world is flat is interesting, but outside the scope of
+this CFJ.
+
+If the statement 'This statement is not true' is true, then it must
+therefore be not true.  This is a contradiction, so the statement
+cannot be true.  (It can't be false, either, but that is irrelevant;
+you could call the truth value for the statement FileNotFound.)
+
+Anyone who understood this argument would not, making such a public
+statement, think e was telling the truth, so it would indeed violate
+R2149.  TRUE.
+
+========================================================================

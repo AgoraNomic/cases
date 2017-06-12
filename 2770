@@ -1,0 +1,270 @@
+==============================  CFJ 2770  ==============================
+
+    Murphy satisfies the Winning Condition of Renaissance.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+Appeal:                                 2770a
+Decision:                               REMAND
+
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       27 Feb 2010 16:02:08 GMT
+Assigned to Yally:                      27 Feb 2010 17:09:11 GMT
+Judged TRUE by Yally:                   07 Mar 2010 17:12:19 GMT
+Appealed by omd:                        07 Mar 2010 17:22:14 GMT
+Appealed by Murphy:                     07 Mar 2010 18:25:28 GMT
+Appealed by scshunt:                    07 Mar 2010 18:39:38 GMT
+Appeal 2770a:                           07 Mar 2010 18:39:38 GMT
+REMANDED on Appeal:                     11 Mar 2010 22:22:36 GMT
+Assigned to Yally:                      11 Mar 2010 22:22:36 GMT
+Yally recused:                          08 Apr 2010 13:23:25 GMT
+Assigned to scshunt:                    08 Apr 2010 13:25:45 GMT
+scshunt recused:                        08 Apr 2010 22:55:29 GMT
+Assigned to omd:                        16 Apr 2010 15:26:53 GMT
+Judged TRUE by omd:                     16 Apr 2010 19:19:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I won by Renaissance last November, but no rule explicitly stated that
+I ceased to satisfy the Winning Condition of Renaissance (contrast the
+cleanup procedures for Paradox, Clout, and Legislation).  For Winning
+Conditions (generally defined as "when X occurs", while Losing
+Conditions are generally defined as "while X is true"), I can think of
+three possible interpretations:
+
+  1) Winning Conditions are only satisfied for an instant.  If you
+     satisfy any Losing Conditions during that same instant, tough
+     cookies, you have to get rid of them and then re-satisfy a
+     Winning Condition.
+
+  2) Winning Conditions are satisfied until you win with them, at
+     which point they're implicitly turned off (and the cleanup
+     procedure should, if needed, prevent them from being turned on
+     again for the same reason as before).
+
+  3) Winning Conditions are satisfied until explicitly turned off.
+
+Of these, #1 is messy (if you destroy Ribbons to satisfy Renaissance,
+then later in the same message destroy Rests to cease satisfying
+having-Rests, does it work?); both #2 and #3 are more plausible, but I
+favor #3 because the cleanup procedures intuitively suggest as much.
+
+========================================================================
+
+Judge Yally's Arguments:
+
+Rule 2186:
+
+      When one or more persons satisfy at least
+      one Winning Condition and do not satisfy any Losing Conditions,
+      all such persons win the game.
+
+...
+
+      Each Winning Condition should (if needed) specify a cleanup
+      procedure to prevent an arbitrary number of wins arising from
+      essentially the same conditions.  When one or more persons win
+      the game, for each Winning Condition satisfied by at least one
+      of those persons, its cleanup procedure occurs.
+
+Rule 2199:
+
+      If this rule mentions at least six different specific colors for
+      Ribbons, then a player CAN destroy one Ribbon of each such color
+      in eir possession to satisfy the Winning Condition of
+      Renaissance.
+
+The issue with this case comes with the word "satisfy." dictionary.com
+defines the word satisfy as "to fulfill the desires, expectations,
+needs, or demands of." This implies that once these needs are
+satisfied, they continue to be satisfied until some outside effect
+makes them no longer satisfied. And this would seem appropriate.
+Consider satisfying the conditions for a mathematical proof. When
+Andrew Wiles satisfied the conditions for a proof of Fermat's Last
+Theorem, it was not for an instant that the idea was proven and then
+once again it was unknown if A^n + B^n = C^n for a given integer n >=
+2. Instead, the conditions for the theorem were continually satisfied.
+Too, by destroying one Ribbon of each color in eir posession, Murphy
+satisfied the Winning Condition of Renaissance perpetually until some
+outside even caused him to no longer satisfy the Winning Condition of
+Renaissance. The second quote from Rule 2186 seems to support this
+belief, as it suggest the need for a cleanup procedure to prevent
+multiple wins. It would seem the intent of this rule is that the
+cleanup procedure stop the perpetual Winning Condition. However, this
+Win by Renaissance is appropriately flawed. TRUE.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend to appeal this judgement with 2 support.  Unlike the proof of
+a theorem, winning the game is supposed to be an instantaneous, not
+continuous, event, and e.g. "When one or more persons satisfy at least
+one Winning Condition and do not satisfy any Losing Conditions, all
+such persons win the game." implies that, in the case of ambiguity, we
+should prefer the interpretation where satisfying a Winning Condition
+only happens for an instant.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+coppro cited a past precedent in a-d, probably CFJ 2489.
+
+The specific pattern addressed in that judgement is
+
+  "Upon X, Y satisfies Z"
+
+The (similar but not identical) pattern used by Rule 2199 is
+
+  "Y CAN do X to satisfy Z"
+
+Cleanup procedures to the effect of "Y does not satisfy Z for the
+same X" are meaningful under either interpretation, e.g. to prevent
+the same player(s) from re-satisfying Win by Junta by announcement
+about the same proposal.  This could also be implemented as "Upon an
+X that has not already caused Y to satisfy Z...", but separating it
+into the cleanup procedure is more convenient (especially since cleanup
+procedures may also do other things, e.g. Clout used to reset castes,
+High Score used to reset scores).
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+I support and do so because the judgment fails to address CFJ 2489,
+which it appears to contradict.
+
+========================================================================
+
+Judge omd's Arguments:
+
+As Appellant Murphy wrote,
+> The specific pattern addressed in that judgement is
+>  "Upon X, Y satisfies Z"
+> The (similar but not identical) pattern used by Rule 2199 is
+>  "Y CAN do X to satisfy Z"
+
+CFJ 2489 depended entirely on the interpretation of the word "upon",
+which does strongly imply a one-off event.  "upon" is not present
+here, so that is not necessarily a valid precedent for this case.
+But, in fact, I believe that precedent should be overruled.
+
+As a test, I did a Google search for 'satisfy condition':
+
+http://www.google.com/search?q=3Dsatisfy+condition
+
+For me, most of the results on the first two pages are about math;
+there are also:
+
+'Fusion to cancel preference shares to satisfy condition of Paladin
+takeover bid.'
+'Failure to satisfy conditions precedent        ' (referring to a suit being
+invalid because it does not satisfy conditions specified by law, etc.)
+'Australia: =91Ocean glimpses=92 not enough [to] satisfy buyer=92s
+condition' (referring to real estate)
+
+In general, most of the conditions are always either satisfied or
+unsatisfied, unless the entity potentially satisfying them
+substantively changes (especially the math ones, as whether 3 is prime
+does not change depending on when you test it, though whether x is
+prime can change if x varies; whether a house has enough 'ocean
+glimpses' is also generally static, but might change if the
+surrounding skyline changes).  However, some of the legal ones start
+off unsatisfied and become satisfied when an action is performed.
+Initially, Fusion has not satisfied the condition of the Paladin
+takeover bid; when it sells its preference shares, it satisfies it; if
+it satisfies all conditions of the bid, the takeover can go through.
+Initially, the conditions of initiating a lawsuit are not satisfied
+because the suing party has not submitted any of the required
+documents; when e submits a valid document, eir prospective lawsuit
+satisfies one of the conditions; when the lawsuit satisfies all
+conditions, it can be validly initiated.
+
+(However, even the lawsuit could potentially falls into the first
+class: the condition tested against the lawsuit can be defined as
+"contains a valid document", which only changes when the lawsuit
+does.)
+
+What do we gain from this speculation?  Not much.  But there is an
+important aspect to the usage of the word 'satisfy'.  At the time of
+the takeover, I could ask:
+
+"Does Paladin satisfy the condition of the takeover bid?"
+"Yes."
+"When did it satisfy that condition?"
+"Yesterday."
+"Did it satisfy the condition five minutes ago?"
+"Yes."
+
+"Satisfy" and "has satisfied" (or in the last case, "did satisfy" and
+"had satisfied") are commonly used interchangeably.  In the context of
+testing the condition, the verb is continuous; in the context of
+causing the condition to become true, the verb is instantaneous.
+
+Which, really, makes more sense than the current interpretation.  If,
+in the rulebook for a game, you read:
+
+"Upon the capture of a pawn, the capturer satisfies the Winning
+Condition of Capture."
+"When a person satisfies all Winning Conditions, e wins the game."
+
+you would not say that winning is impossible unless the winner
+satisfies the Winning Condition of Capture last (because otherwise e
+ceases to satisfy the Condition and cannot win).  Yes, it says "upon",
+but that refers to the time when e comes to satisfy the condition; e
+still satisfies (in the other sense) the condition at all times after
+that.
+
+The reason we think otherwise in the Agoran ruleset is (a) game custom
+and (b) the effect of satisfying a Winning Condition:
+
+      When one or more persons satisfy at least one Winning Condition
+      and do not satisfy any Losing Conditions, all such persons win
+      the game.
+
+-- well, that plus the game custom (contrary to standard usage and not
+actually specified anywhere in the rules) that winning the game does
+not end it, but should be an instantaneous event.  If a rule said:
+
+      Upon a player's deregistration, e satisfies the Losing Condition
+      of Having Deregistered.
+
+we would probably interpret it such that once you deregister, you can
+never win again.  Why?  Because no rule uses Losing Conditions to
+initiate an instantaneous event.
+
+It may sometimes be appropriate to use the Ruleset as a whole to
+determine interpretation-- it may sometimes be legitimate to change
+the interpretation of a rule based on what other rules name as an
+effect-- but in this case, I think it is appropriate to yield to the
+standard meaning.
+
+When a Winning Condition is satisfied (even with "upon"), it does not
+cease to be satisfied until the Rules explicitly say so.
+
+Corollary: Winning the game can be a non-instantaneous event.
+
+========================================================================

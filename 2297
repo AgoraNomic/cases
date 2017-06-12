@@ -1,0 +1,58 @@
+==============================  CFJ 2297  ==============================
+
+    The office of Notary has at least one Vote Point.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          04 Dec 2008 02:31:15 GMT
+Assigned to Wooble:                     07 Dec 2008 05:13:55 GMT
+Judged TRUE by Wooble:                  07 Dec 2008 21:51:31 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See CFJs 2247 and 1992.  If the office is not an entity
+then the transfer failed.
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Dec 3, 2008 at 9:23 PM, comex <comexk@gmail.com> wrote:
+> On Sun, May 18, 2008 at 8:53 PM, Ian Kelly <ian.g.kelly@gmail.com> wrote:
+>> See CFJs 1366 and 1369 (and a multitude of others around the same
+>> time) for the precedents on this.  The property rules have changed
+>> greatly since then, but I would expect the same results today.
+>
+> I transfer 1 VP to CFJ 1366.
+
+In fact,
+
+I transfer 1 VP to the office of Notary (not the holder of that office).
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge TRUE.  The Vote Market agreement, the backing document of Vote
+Points, does not restrict ownership of Vote Points to any particular
+class of entity, thus by R2166 VP CAN be transferred to any entity at
+all.  Both the precedent of CFJ 1992 and the usage of "entity" in
+R2162 (where switches are defined such that they must specify a type
+of entity that can possess them) combined with R2217 where at least
+one office switch is defined, show that an office must be an entity.
+At the time of the transfer, from what I can ascertain from the VM
+report, comex did own a Vote Point that e could transfer.  As no
+barrier to transfer existed, the transfer succeeded.
+
+========================================================================

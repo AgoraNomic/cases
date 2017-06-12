@@ -1,0 +1,143 @@
+==============================  CFJ 3306  ==============================
+
+    scshunt satisfies the Victory Condition of Junta due to Rule 2380
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        17 Apr 2013 20:03:32 GMT
+Assigned to omd:                        20 Apr 2013 22:22:36 GMT
+Judged FALSE by omd:                    29 Apr 2013 19:19:03 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I can't figure out how scshunt changed the text of Rule 2380 outright with
+Agoran Consent, rather than causing some rule to amend Rule 2380.  (the lack
+of a reasonably up-to-date published ruleset is not helping)
+
+========================================================================
+
+Caller's Evidence:
+
+From: Sean Hunt <scshunt@csclub.uwaterloo.ca>
+To: agora-business <agora-business@agoranomic.org>
+Sent: Tuesday, April 16, 2013 3:08 PM
+Subject: Re: BUS: one last thing
+
+On Fri, Apr 12, 2013 at 11:32 AM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+
+    I intend, with Agoran Consent, to cause Rule 2380 to read "scshunt
+satisfies the Victory Condition of Junta. When scshunt wins Agora, this rule
+repeals itself."
+
+
+I do so, having received support from Machiavelli, G., and Roujo, and no
+objections.
+
+Victory Announcement: Rule 2380 specifies that I satisfy the Victory Condition
+of Junta.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Rule 2380 (before the change):
+
+      scshunt CAN, by announcement, cause this rule to perform a
+      specified Rule Change.  scshunt CAN, by announcement, cause a
+      proposal to take effect.  scshunt CAN, by announcement, cause
+      this Rule to perform an arbitrary change to the gamestate.
+
+Rule 2288 (relevant excerpt):
+
+      If a person CAN perform an action by announcement, e CAN perform
+      it ... with N Agoran Consent ... N is a number appropriate ...
+
+========================================================================
+
+Gratuitous Arguments by Roujo:
+
+Yes, Rule 2380 could have changed itself, but that would have read
+something like "I intend, with Agoran Consent, to cause Rule 2380 to
+change the text of Rule 2380 to [...]." or "I intend, with Agoran
+Consent, to cause Rule 2380 to cause Rule 2380 to read [...].". The
+way he said it, it seems that he caused Rule 2380 to change without
+specifying how, which implies that he was doing it himself, which I
+think would fail due to insufficient power.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+CFJ 2887 (which I think supports your point here).
+
+========================================================================
+
+Judge omd's Arguments:
+
+On Sun, Apr 21, 2013 at 12:46 AM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+> It has generally been taken that where exactly one mechanism exists to
+> do something, and that mechanism is initiated by announcement, then we
+> can shorthand the end result as always occurring via that mechanism.
+> Since there exists only one mechanism by which I can indirectly cause
+> a Rule Change by announcement, I used that mechanism and caused Rule
+> 2380 to amend itself.
+
+This argument is, indeed, the line of reasoning I was thinking of, and
+it's certainly a possibility - the intent is clear, and that counts
+for a lot.  In CFJ 2274, I argued that root's attempt to make a
+proposal democratic was ineffective at making the *decision to adopt
+it* democratic, but it was ruled that there was no ambiguity in
+meaning.  In that case, however:
+
+(a) Democratic-ness of proposals was not separately defined, though it
+had been previously (and is now), so 'making a proposal democratic'
+was ill-defined if taken literally.  In this case, the action scshunt
+attempted to take was generally well-defined but impossible for em,
+albeit fairly similar to one e could have taken.  Although the
+difference doesn't inherently cause ambiguity - players can  apply
+gloss to obviously impossible actions just as easily as ill-defined
+ones - it does increase the risk of it, as someone could assume that
+the action takes place as specified without checking whether it's
+possible.  Even though the effect of such a misinterpretation is
+lessened in this case because the general effects of the action
+scshunt meant to take and the one e wrote are the same, it's still a
+misinterpretation, and the potential for confusion is increased in the
+world of scams where many otherwise impossible things can become
+possible.
+
+(b) The judge in that case argued that it had been common usage,
+including in some rules, to generally equate doing things to proposals
+with doing things to the decisions to adopt them.  In this case, when
+causing rules to amend things, we've always been strict about the
+wording; that doesn't necessarily mean that incorrect wording isn't
+permissible, but it means that there's no specific game custom to
+weigh in favor of allowing it.
+
+Considering these differences and our general tradition of being
+somewhat more strict with the wording of scam actions (though the
+action in CFJ 2274 was a /counter-scam/), I judge FALSE.
+
+If you disagree with this judgement, please appeal rather than moving
+to reconsider, as I'd rather have a second opinion.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Oh, short addendum: that confusion by reasonable players is possible
+in this case is demonstrated by the caller's arguments themselves.
+
+========================================================================

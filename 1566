@@ -1,0 +1,225 @@
+==============================  CFJ 1566  ==============================
+
+    Eris is guilty of Delay of Game after Quazie played Your Turn
+    indicating Eris.
+
+========================================================================
+
+Caller:                                 Quazie
+Barred:                                 Taral
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       13 May 2005 18:57:32 GMT
+Assigned to root:                       15 May 2005 20:17:51 GMT
+Judged FALSE by root:                   22 May 2005 18:54:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Although R1016 states that an inactive player may not be required to
+do something, i believe that Your Turn does not pose a requirement but
+rather gives the indicated player an ultimatum.  They should do action
+x and if they don't then result y happens.   Although the word must is
+used in the Your Turn exploit, due to the fact that there is an or
+clause, i believe that in reality it is not pose a requirement upon
+the indicated player.
+
+========================================================================
+
+Caller's Evidence:
+
+Quazie  agora-discussion@agoranomic.org
+Tue, 3 May 2005 21:39:01 -0400
+
+
+I play Instant Gratification by indicating one of my boons of prodigy
+I play Thieves in the Night by indicating Sir Toby
+I play Thieves in the Night by indicating Sir Toby
+
+I enlighten Agora chosing Sir Toby as the yin (for he is about to
+leave us) and Goethe as the yang (for his atempts to disarm the latest
+scam).
+
+
+I discard Raffle Ticket,
+i discard  Absolv-o-matic,=20
+I discard Absolve-o-matic, =20
+I transfer Hot Potato to Murphy
+I play Your Turn by indicating Eris
+I discard Enforced Charity
+
+i discard Two shares
+i discard  Reshuffle,
+
+I play Your Turn by indicating OscarMeyr
+I discard Procedure=20
+I discard Not Your Turn
+I discard Two for One
+i discard Police State
+I discard Divide or Conquer Your Stock
+
+now lets see what happens with the freezing...
+
+
+
+
+BUS: Infractions
+Quazie agora-discussion@agoranomic.org
+Sat, 7 May 2005 21:07:43 -0400
+
++-----------------------------------------------------------+
+|                                                           |
+|                  Notice of Infraction                     |
+|                                                           |
++-----------------------------------------------------------+
+|                                                           |
+| (a) Infraction:  Dropping the Potato                      |
+|                                                           |
+| (b) Jaywalker:  Murphy                                    |
+|                                                           |
+| (c) Rule(s) defining the Infraction:                      |
+|     R2071                                                 |
+|                                                           |
+| (d) Action or inaction of the Infraction:                 |
+|     Failure to publicly post the phrase "Hot Potato"      |
+|     Within 48 hours of being transfered the Hot Potato    | =20
+|                                                           |
+| (e) Ticketing Order (check only one):                     |
+|                                                           |
+|     [X] Standard Infraction:  The Herald is Ordered       |
+|                                                           |
+|         to record _1__ Blots for the Jaywalker.           |
+|                                                           |
+|     [ ] Other penalty (specify):                          |
+|                                                           |
+|                                                           |
++-----------------------------------------------------------+
+|                                                           |
+|  (signed)                                                 |
+|  Traffic Cop:  Quazie                                     |
+|                                                           |
++-----------------------------------------------------------+
+|                                                           |
+| This form complies with the format specified by R1812/6.  |
+|                                                           |
++-----------------------------------------------------------+
+
+------------------------- tear here -------------------------
+
++-----------------------------------------------------------+
+|                                                           |
+|                  Notice of Infraction                     |
+|                                                           |
++-----------------------------------------------------------+
+|                                                           |
+| (a) Infraction:  Delay of Game                            |
+|                                                           |
+| (b) Jaywalker:  Eris                                      |
+|                                                           |
+| (c) Rule(s) defining the Infraction:                      |
+|     R2076                                                 |
+|                                                           |
+| (d) Action or inaction of the Infraction:                 |
+|     Failure to play or discard a Card within 72 hours     |
+|     of Quazie playing Your Turn.                          |
+|                                                           |
+| (e) Ticketing Order (check only one):                     |
+|                                                           |
+|     [X] Standard Infraction:  The Herald is Ordered       |
+|                                                           |
+|         to record _1__ Blots for the Jaywalker.           |
+|                                                           |
+|     [ ] Other penalty (specify):                          |
+|                                                           |
+|                                                           |
++-----------------------------------------------------------+
+|                                                           |
+|  (signed)                                                 |
+|  Traffic Cop:  Quazie                                     |
+|                                                           |
++-----------------------------------------------------------+
+|                                                           |
+| This form complies with the format specified by R1812/6.  |
+|                                                           |
++-----------------------------------------------------------+
+
+
+
+
+Rule 1016/17 (Power=2)
+Activity Levels
+
+      Activity is a stuck player switch with values active and
+      inactive.
+
+      "Off hold" and "on hold" are unambiguous synonyms for "active"
+      and "inactive", respectively.
+
+      A player may flip eir activity, unless e has done so within the
+      past week.
+
+      Inactive players may not vote, make proposals, hold office, or
+      be a judge of a CFJ.  An inactive player may not be required by
+      the rules to perform any duty or action, unless the rules
+      explicitly state that they can require inactive players to
+      perform that duty or action.
+
+      This rule takes precedence over all other rules that regulate
+      activity, or the powers or duties that a player may have because
+      of eir activity.
+
+Rule 2076/0 (Power=1)
+Card cards
+
+       The following classes of cards are defined:
+
+       Caption:  Your Turn
+       Elements: Budgeted
+       Exploit:  A Player you name must play or discard a card in the
+                 next 72 hours, or commit the Class-1 Infraction of
+                 Delay of Game, reportable by you.
+
+========================================================================
+
+Judge root's Arguments:
+
+The text of Your Turn reads:
+
+      A Player you name must play or discard a card in the
+      next 72 hours, or commit the Class-1 Infraction of
+      Delay of Game, reportable by you.
+
+I do not find that this text poses an ultimatum, as the caller argues.
+It does *not* read along the lines of:
+
+      A Player you name commits the Class-1 Infraction of
+      Delay of Game, reportable by you, unless e plays or
+      discards a card in the next 72 hours.
+
+If the rule did read this way, this judge would still find that the
+rule imposes a requirement due to the very nature of Infractions and
+Crimes, but it does not.
+
+Rather, this rule clearly gives the targeted player three options
+and requires em to perform one.  E can play a card within 72 hours, e
+can discard a card within 72 hours, or e can commit the Infraction of
+Delay of Game.
+
+Here comes the tricky part:  how does e commit the Infraction?  Rule
+1503/5 tells us that "an action or inaction is a Crime or an Infraction
+only if defined as such by the Rules."  The Your Turn card does not
+define what action or inaction constitutes the Delay of Game Infraction; it
+merely gives the targeted player the option of committing it rather
+than playing or discarding.  In fact, Delay of Game is not defined by
+the rules.  Therefore, by R1503/5 it is not a Crime or Infraction, and
+hence it may not be committed.  The statement is therefore trivially
+FALSE.
+
+========================================================================

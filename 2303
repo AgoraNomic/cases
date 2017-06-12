@@ -1,0 +1,192 @@
+==============================  CFJ 2303  ==============================
+
+    ehird successfully changed eir name to a null string on or about 5
+    December 2008 21:53:02 UTC.
+
+========================================================================
+
+Caller:                                 OscarMeyr
+
+Judge:                                  harblcat
+Judgement:                              TRUE
+
+Appeal:                                 2303a
+Decision:                               REMAND
+
+
+Judge:                                  harblcat
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by OscarMeyr:                    07 Dec 2008 18:41:31 GMT
+Assigned to harblcat:                   10 Dec 2008 22:40:50 GMT
+Judged TRUE by harblcat:                11 Dec 2008 22:57:10 GMT
+Appealed by BobTHJ:                     11 Dec 2008 23:24:01 GMT
+Appealed by woggle:                     11 Dec 2008 23:37:23 GMT
+Appealed by Murphy:                     11 Dec 2008 23:51:57 GMT
+Appeal 2303a:                           11 Dec 2008 23:51:57 GMT
+REMANDED on Appeal:                     18 Dec 2008 15:44:07 GMT
+Assigned to harblcat:                   18 Dec 2008 15:44:07 GMT
+harblcat recused:                       15 Jan 2009 08:12:36 GMT
+Assigned to ais523:                     15 Jan 2009 08:26:43 GMT
+Judged FALSE by ais523:                 15 Jan 2009 11:55:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Long-standing game custom has important entities,
+especially players, referred to by some title, especially a player's
+nickname.  Using a null string as such a title would become very
+problematic -- but is it permissible and legal?
+
+========================================================================
+
+Caller's Evidence:
+
+On Dec 5, 2008, at 4:53 PM, Elliott Hird wrote:
+
+> I change my name to the null string (i.e., "" without the quotes.)
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+see CFJs 1703 and 1361.  However, IRRELEVANT is
+appropriate because the name of a player doesn't really affect the
+Rules.
+
+========================================================================
+
+Judge harblcat's Arguments:
+
+While comex might be correct in saying that the name of a player
+doesn't affect the rules, it does, however, affect the game of Agora
+itself. In order to refer to a player in singular, it is necessary for
+that player to have a unique name, otherwise ambiguities might arise
+that could confuse the issue.
+
+Seeing as how no other entity in Agora, as of three months before the
+player formerly known as ehird changed their name to the null string
+(""), bore the name of the null string; and as I do not particularly
+find the player formerly known as ehird's new name confusing,
+
+I rule TRUE on CFJ 2303.
+
+========================================================================
+
+Appellant BobTHJ's Arguments:
+
+I intend (with 2 support) to appeal this judgment. I do find the name
+"" to be confusing.
+
+========================================================================
+
+Appellant woggle's Arguments:
+
+The judgment does not consider the existence of the very similar
+(identically?) named patent title.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Rule 649/27 includes, in part:
+{{{
+      When a patent title is used as a noun to refer to bearers of the
+      patent title, it is assumed to refer only to persons who Bear
+      that patent title unless context clearly indicates otherwise.
+}}}
+In other words, saying "I transfer 1 VP to ." would, according to this
+rule, imply that the holder of the null-length patent title (Andre IIRC,
+although I haven't checked this) is the person who receives the VP in
+question, except in contexts which made this obviously incorrect.
+(Although the issue of the null-length patent title has been brought up
+before, I don't think the relevance of this particular quotation from
+rule 649 has yet been considered.) In passing, I note that it would be
+far more logical for this to transfer a VP to the holder of the Patent
+Title in question (in this case, there only is one), rather than to the
+Patent Title itself (a dubious and potentially impossible operation in
+any case, but that is beyond the scope of this CFJ). Therefore, it seems
+that in this case ehird's attempted name change was ILLEGAL per rule
+2170, and I will NoV later in this message. Note, however, that being
+illegal does not necessarily cause an action to fail; so we must look
+further.
+
+It is also worth considering what would happen in the absence of the
+patent title in question. There is some debate about whether the null
+string would be confusing as a nickname; although its presence is
+normally determinable by the fact that the punctuation marks or spaces
+before and after it are generally not merged, it can still be hard to
+read. Also worth considering is the fact that email is generally sent
+with manual line breaks after about 70 characters (this is considered
+good style), and therefore it is not at all impossible that a player's
+nickname might appear at the end of a line. A null string at the end of
+a line would be hard to detect, requiring the grammatical context of the
+surrounding text to be parsed, and even then there would be potential
+ambiguities. (Consider the text "I transfer 1 VP to each of j, woggle,
+and Murphy"; depending on whether or not a serial comma is used, it is
+not at all clear whether a hypothetical null-string-named player is
+included in the list of players to transfer the VP to.) This clearly has
+the potential for sufficient confusion to imply that the selection of
+the null string of a nickname is ILLEGAL per rule 2170 even in the
+absence of an identically named Patent Title.
+
+So it's illegal; is it impossible? I first note that the concept of
+nicknames is hardly mentioned in the rules at all. Rule 2170 mentions
+them, but only to make certain selections of nicknames illegal. Rule
+2139 requires the Registrar to track only "information sufficient to
+identify and contact [each player]"; I note that although a nickname is
+often information sufficient to identify a player (for instance,
+"ais523" is almost certainly sufficient to identify me in the context of
+Agora, and probably in most other contexts too), it is not the only such
+possible information. For instance, it would be possible to identify a
+player via habitual email address, or via linking to the archives for a
+message e had sent, or even by habitual IRC 'nick' (different from the
+usual Agoran nickname in several cases, such as j vs. jayCampbell), as
+long as the context was clear.
+
+So what exactly is a nickname, in the context of Agora, and are attempts
+to change it successful? CFJ 1361 established that what a nickname is
+depends on context. The precedent it established has now been eroded by
+legislation to some extent, but I independently came to a similar
+conclusion; in my opinion, a person's nickname is a string of characters
+(or possibly something more unusual, I'm not sure if this has been
+explored yet) suitable to identify them in general conversation, or in
+another specific context. In the case of Agora, a nickname is the name
+by which someone is generally known to other Agorans, and therefore,
+quite a matter of game custom. When ehird changed eir nickname to tusho,
+Agorans as a whole generally called em tusho; therefore, de-facto, this
+change was a success. However, when ehird tried to change eir name to ,
+the vast majority of messages continued to have called em ehird.
+Therefore, it would seem that on a practical level, this attempted
+change failed; for something informal like a nickname, we have to look
+at what names are actually being used to determine what a player's
+nickname actually is, and in this case it seems inescapable to establish
+that ehird's nickname is, in fact, "ehird", and so the attempt failed
+(as well as being illegal).
+
+I would like to mention that as nicknames are highly informal and
+game-custom-based, despite being so important to the game, I suspect
+that IRRELEVANT might in fact be an appropriate judgement for this CFJ,
+even though the points raised in the judgement are very relevant to the
+game, due merely to the way it was worded. However, being irrelevant
+does not make a different judgement inappropriate; and therefore, I
+judge FALSE on CFJ 2303.
+
+I note that although the arguments in CFJs 1361 and 1703 inspired this
+judgement to some extent, the precedents set in those CFJs are not
+directly applicable, as they relied somewhat on certain text in rule 559
+(which no longer exists, and the modern equivalent rule 2139 no longer
+mentions anything about nicknames). Although the rules have changed,
+though, I believe this judgement is in much the same spirit as the
+arguments for those judgements.
+
+========================================================================

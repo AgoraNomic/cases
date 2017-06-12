@@ -1,0 +1,47 @@
+==============================  CFJ 3114  ==============================
+
+    If I cashed the above-quoted promise, it would cause G. to violate a
+    rule.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  woggle
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       23 Oct 2011 22:12:31 GMT
+Assigned to woggle:                     24 Oct 2011 01:03:07 GMT
+Judged TRUE by woggle:                  24 Oct 2011 03:46:11 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, 2011-10-23 at 15:02 -0700, Kerim Aydin wrote:
+> Ok, let's try:
+>
+> I create the following -- delimited promise and transfer it to ais523:
+>    --------------------------------------------------------------------
+>    I, the Herald, publish as part of my monthly report that BlogNomic
+>    holds the Patent Title Loserville.
+>    --------------------------------------------------------------------
+>
+> [Note: violates R2143p4 'SHALL NOT'.  To the criminal case that will
+> arise: The above, when cashed on its own without this disclaimer, is
+> purposefully (and knowingly) inaccurate.  I will CoE and correct.
+> I ask for leniency.]
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3114 TRUE. See Pavitra's arguments in related CFJ  3115.
+R478's simulation of G. publishing this document would be sufficient to
+violate the R2143's requirement that reports are accurate.
+
+========================================================================

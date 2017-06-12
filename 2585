@@ -1,0 +1,205 @@
+==============================  CFJ 2585  ==============================
+
+    It is ILLEGAL for me to vote for Quazie in the ongoing Janitor
+    election.
+
+========================================================================
+
+Caller:                                 allispaul
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by allispaul:                    16 Jun 2009 07:23:46 GMT
+Assigned to ais523:                     17 Jun 2009 08:06:52 GMT
+Judged FALSE by ais523:                 17 Jun 2009 13:29:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+By R1586, the entities referred to here are the same as
+those referred to in R2029, which commands "ye Marvy" to "always Dance
+a Powerful Dance."  These terms are not defined in the rules, so R754
+is not violated.  Thus, voting non-PRESENT would be a breach of R2029
+(and I am not protected by, for example, 101(v) or some similar
+defense because 2029 takes precedence over every rule with which it
+conflicts).
+
+Also, I have not yet voted in the Janitor election.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following:
+{
+This is a Public Legalistic contract and a pledge, called Three Coins.
+Parties to Three Coins are called Marvy.  For the purposes of Three
+Coins, to Dance means to cast exactly one valid vote on an Agoran
+decision, and a Powerful Dance is a vote of PRESENT.  Any party to
+this contract may leave it by announcement.
+}
+
+Rule 1586/6 (Power=2)
+Definition and Continuity of Entities
+
+      If multiple rules or contracts (hereafter documents) attempt to
+      define an entity with the same name, then they refer to the same
+      entity.  A document-defined entity's name CANNOT be changed to
+      be the same as another document-defined entity's name.
+
+      A document referring to an entity by name refers to the entity
+      that had that name when the document first came to include that
+      reference, even if the entity's name has since changed.
+
+      If the documents defining an entity are repealed or amended such
+      that they no longer define that entity, then that entity and its
+      properties cease to exist.
+
+      If the documents defining an entity are amended such that they
+      still define that entity but with different properties, then
+      that entity and its properties continue to exist to whatever
+      extent is possible under the new definitions.
+
+Rule 2029/0 (Power=4)
+Town Fountain
+
+                      /\   /\
+                      / \ / \
+                         T
+                        his
+                      Power-4
+               Rule (the first ever)
+                was placed to honor
+           The Agoran  Spirit Of The Game
+           by Goethe, Steve, Murphy, root
+           and OscarMeyr, Scamsters. Look
+           on our works, ye Marvy, but do
+      always Dance a Powerful Dance.  Hail Eris!
+
+Also see CFJ 1881, which ruled that R2029 imposes no obligations
+because "Marvies" were at the time undefined.  (I have interpreted
+"Marvy" as the plural form because the rule seems to be addressing a
+group of people.  I hope this has no bearing on the case.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The caller emself quotes rule 1586 in eir evidence, and I think that
+this is one of the relevant rules here; rules 1586 and 754 together
+imply that, unless overridden by a rule of power at least 4, or by a
+rule that takes precedence over 754 and contradicts it, "Marvy" in the
+Town Fountain has the meaning it had when the Fountain was created.
+
+Although "marvy" is currently an undefined term, it has not always been
+that way. In June 2002, when the Town Fountain was created, a player was
+marvy iff they were in the Outer Cabinet, i.e. an Oligarch and neither
+the Speaker nor an officer.
+The precedent of CFJ 1881 states "Marvies are no longer defined in
+Agora, nor does the previous definition carry over well to the current
+ruleset."; as there were no Oligarchs at the time of CFJ 1881, nor
+anything even resembling them in the ruleset, then this precedent indeed
+made sense at the time. However, by the implicit mention in CFJ 1881,
+and the explicit precedent of CFJ 1534 (that in a rule of historical
+significance such as 104 or 2029, terms used in the rule have the
+meaning they had when the rule was created), not to mention rule 1586, I
+can only conclude that "marvy" in rule 2029 has the meaning it did when
+the Fountain was created.
+
+So how well does marviness translate into the current ruleset? Officers
+and the Speaker still exist, and have rule 1586 continuity of the
+concepts. The Oligarchy doesn't, but the concept of Caste (importantly,
+introduced since the precedent of CFJ 1881; this is a relevant
+difference that means that the old precedent doesn't apply here) was
+deliberately designed to reflect the old Oligarchy system, although with
+several differences.
+
+The old Oligarchy rules had requirements to be an Oligarch (active, no
+more than two Blots, not the Speaker, not the Speaker-Elect, not the
+GWotO); even if someone met the requirements, they still did not
+automatically become an Oligarch; instead, open positions were filled by
+auction. Although any player who met the requirements could bid, players
+who weren't Politicians had to pay a surcharge, and extra upkeep for
+staying in the Oligarchy (although all Oligarchs had to pay some
+upkeep). The number of Oligarchs was equal to quorum on an ordinary
+proposal, which was 3. The main defining feature of being an Oligarch
+was that they got 1 vote on Ordinary proposals (other players got 0); on
+Democratic proposals, voting power dependended on Voting Entitlements
+and on Blots (with 5 Blots reducing voting power by 1), but with
+Oligarchs capped at 2 and non-Oligarchs capped at 5. There were also
+Sane proposals, where all players had 1 vote (although interestingly,
+this was affected by Blots the same way as on a democratic proposal).
+
+Although most of you probably know the current Caste rules already, I'll
+summarise them for the record. There are democratic proposals where all
+first-class players have one vote (and other players have 0),
+corresponding to the old Sane proposals, and ordinary proposals where
+votes are determined by Caste. Players can spend assets in order to
+change their own caste, or that of other players; every month, the Grand
+Poobah increases the caste of four players (one to each possible caste),
+then reduces the caste of others in order to maintain a maximum number
+of players in each caste; the Speaker can choose a set of players that
+the Grand Poobah has to try to increase.
+
+So the question here is, does the current concept of Caste fit
+sufficiently with the old concept of the Oligarchy that it allows us to
+define "Oligarch" sufficiently well to define "marvy"? Instead of having
+one distinction (oligarch vs. non-oligarch), we now have 5 (alpha, beta,
+gamma, delta, savage). So where could we draw the dividing line?
+
+There are three possible correspondences: "a voting power greater than
+the default" (i.e. epsilon+ partnerships, delta+ first class players),
+"a positive voting power" (i.e. epsilon+), or "a voting power
+sufficiently high that it needs asset expenditure to maintain it" (i.e.
+delta+). The third correspondence here seems like the most plausible
+one; the exclusivity of Oligarchy was one of the more important points
+about it, and the concept of a high voting power that one needs to pay
+to maintain seems to me to really be the essence behind the Oligarchy.
+The current rules effectively require players to increase a voting power
+above Epsilon once every month, in order to not drop down to Epsilon by
+default (unless the Grand Poobah or Speaker decides to show mercy on
+them); and you need assets (or Speaker/Poobah favour) paid by you or by
+someone else to become Delta or higher in the first place. Also, it
+seems reasonable to exclude inactive players from this; they couldn't
+legally be Oligarchs under the old rules (well, not if anyone noticed;
+it was pragmatised), and they don't have an above-normal voting limit
+under the current rules. Therefore, I conclude that the most sensible
+definition of "marvy", under the current ruleset, is that a player is
+marvy if eir Caste is at least Delta, e is active, e is not the Speaker,
+and e is not an officer.
+
+By this definition, I make the current list of those who are marvy:
+{C-walker, Pavitra, Taral, ehird}. Note that allispaul is not on this
+list. Therefore, FALSE.
+
+A more direct argument for FALSE, is that by the same reasoning, "Dance"
+and "Powerful Dance" in rule 2029 don't have the same meaning in
+allispaul's contract either, so R2029 has no bearing over whether
+allispaul can vote for Quazie or not.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+The link is probably even stronger than noted.
+
+>From approx. March 2000 to October 2001, Oligarchs were divided into
+High, Middle, and Low, with periodic forced promotions (Low to Middle,
+Middle to High) and demotions (High to non); Caste was deliberately
+designed to reflect this version.
+
+>From approx. October 2001 to July 2004, Oligarchs were flat; this is
+the version that H. Judge ais523 has described.
+
+>From approx. July 2004 to December 2006, Oligarchs were replaced by
+holders of Share Cards, again introducing multiple levels as well as
+ongoing maintenance costs (the more Share Cards you had, the less
+other Cards you could have, due to maximum Hand Size).
+
+========================================================================

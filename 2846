@@ -1,0 +1,86 @@
+==============================  CFJ 2846  ==============================
+
+    I can cause the Rule enacted by Distributed Proposal 6808  to amend
+    a rule.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      27 Aug 2010 08:24:28 GMT
+Assigned to ais523:                     28 Aug 2010 00:08:44 GMT
+Judged FALSE by ais523:                 03 Sep 2010 10:35:46 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On 08/27/2010 01:32 AM, Ed Murphy wrote:
+> Proposal 6808 (Purple, AI=1.0, Interest=1) by coppro
+>
+> Super Robot Powers
+>
+> Enact a new Rule reading
+>         The Robot can, by announcement, cause this rule to amend any other
+>         rule of equal power, provided that it does so in a message
+>         of at least 1000 words.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, we have to deal with a potential bug in the proposal itself; it
+attempts to create a rule, but does not specify its power. However, it
+seems reasonable to assume that the rule is created at power 1; although
+nowhere in the rules is a default power implied for rules, we know the
+rule has a power of at least 1 (rule 2141) and at most 1 (rule 2140).
+The only alternative is that the rule was not created at all, which
+seems implausible.
+
+The major issue here is the referent of "The Robot". In order for coppro
+to be able to use the rule, I think e needs to unambiguously be The
+Robot (rule 1586, which the scam depends on, states that the rule refers
+to "the entity" with the given name). What the most plausible reference
+for that particular title is depends on which forum and context you look
+at; on a-b, it may well have been coppro, who asked that people called
+em by that name although they mostly refused, but in different places,
+and different contexts, it would mean other things. For instance, at the
+time the rule was enacted, comex was using the nickname TheRobot on
+##nomic on irc.freenode.net, an official Agoran discussion channel;
+looking back, comex was the only human I habitually referred to by that
+name (due to my usual habit of using someone's IRC nick to refer to them
+on IRC, so as to alert them in a discussion). Sgeo created a ruleset by
+that name purporting to have once been a nomic ruleset; whilst pretty
+useless as a nomic (its only goal was to lock its ruleset into an
+unchangeable state), "The Robot" would have been the logical name to use
+to refer to that particular nomic. There was a distributed proposal
+whose title was "The Robot"; although its name was, at the time,
+"Distributed Proposal 6796", due to rule 2161, the term was used
+informally to refer to the hypothetical rule the proposal would have
+created if it passed, and to the hypothetical entity that hypothetical
+rule would have defined. I imagine that on various non-Agoran fora, the
+phrase would have other referents, although that is of lesser concern
+when establishing a meaning for an undefined phrase. (The mathematical
+or legal meaning takes precedence, but there doesn't seem to be a
+mathematical or legal meaning of the particular phrase in question.)
+
+I note in passing that looking to the rule itself for clues, it uses
+"it" rather than the more usual "e" to refer to The Robot, thus giving
+strong circumstantial evidence that it isn't attempting to refer to a
+person (or at least not a first-class one; what's the usual pronoun for
+second-class persons? We haven't had one in a while).
+
+Thus, I don't think the rule has a referent unambiguous enough for any
+entity to take actions under it; it would gain a meaning if a rule
+passed defining The Robot to be something in particular, as rule 1586
+has no effect here due to failing to specify a unique entity to bind the
+meanings in that rule to. So I judge CFJ 2846 FALSE.
+
+========================================================================

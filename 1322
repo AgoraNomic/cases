@@ -1,0 +1,126 @@
+==============================  CFJ 1322  ==============================
+
+    The Player, former Player, or Dissolute Blob has at least one Blot.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Oerjan
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           19 Sep 2001 22:47:40 GMT
+Assigned to Oerjan:                     20 Sep 2001 00:13:33 GMT
+Judged FALSE by Oerjan:                 20 Sep 2001 20:04:44 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I expect the judgement to be FALSE.
+
+On or about August 26th, the following sentencing Orders were issued by
+Judge Elysion:
+> I hereby issue a Sentencing Order ordering the Herald to record that
+> Blob has incurred 4 Blots as a result of this Judgement.
+
+This is a (perhaps incorrectly-phrased) variant of other Sentencing Orders
+in the past, which have stated, in essence, "the Herald is Ordered to
+record X Blots."  This particular Sentencing Order clearly required the
+Herald to record Blob's Blots.
+
+In this case it was appended after a long judgement text and the Herald
+apparently did not see this Order, as the Blots were not recorded in
+subsequent Herald's Reports (see Evidence).  Blob was a Zombie (and hence
+a Player by recent judgement) and at the time such an Order would have
+been proper, valid and applicable to Blob.
+
+The fundamental question is of the timing of the Blot creation.  Which of
+the following is true?
+
+ (a) the Order itself created the Blots: hence Blob's Blots exist and are
+     unrecorded by the Herald, a simple and correctable recordkeeping
+     error (requiring a TRUE judgment here).
+ (b) The Blots are not created by the Order, BUT BY THE HERALD'S CARRYING
+     OUT THE SENTENCING ORDER.  Since the Herald did not carry out the
+     Order, Blob has no Blots (requiring a FALSE judgment).  Further, if e
+     is no longer a Player, the Order can't be carried out at this point.
+
+My argument for interpretation (B) is as follows:  Rule 1435/15 (Power=1)
+(Definition of Indulgences, Blots and Immaculate) reads quite simply:
+
+>  "A Blot is a stain on a Player's record, recorded by the Herald."
+
+Hence, if this stain is not recorded by the Herald, by definition, it is
+not a Blot.  For "a stain on a Player's record" is not a stain on a record
+until it exists on a record, and the appropriate record is one "recorded
+by the Herald".  Further, the definition reads:
+
+>      Whenever the Rules state that a Player gains or is assessed some
+>      number of Blots, and specify a method of reporting that gain or
+>      assessment to the Herald, then, as soon as possible after
+>      receiving such a notification, the Herald shall record an
+>      increase of that amount (or, if the affected Player is Unready,
+>      of one half (rounded to the nearest integer) of that amount) in
+>      the number of Blots staining the affected Player.
+
+So regardless of whether other rules state "A Player gains X blots", it is
+This Act of Legitimate Reporting and Recording that actually creates the
+Blot.  Otherwise, why would a sentencing Order be required to be an Order
+(to perform the action of recording and thus creating Blots) rather than a
+simple recordkeeping statement ("Herald please note that Blob has a
+Blot"): Rule 1504/6 (Power=1) (Sentencing Orders) reads:
+
+>      The imposition of penalties for the commission of a Crime shall
+>      be by Sentencing Order(s).  Upon a judicial finding that an
+>      entity has committed a Crime, the Judge so finding shall execute
+>      Sentencing Orders sufficient to implement the penalty required
+>      by the Rules for that Crime.
+
+The principle that the Herald is the final "sentencing gatekeeper" of
+whether a Blot was properly reported, and thus recordable, and thus
+actually a Blot, is an important check against willy-nilly sentencing/
+infraction making.  This responsibility is in the Rules, and this
+responsibility should not be removed from the Herald.  Since the Herald
+is under the obligation to carry out all Proper and Valid Sentencing
+Orders ASAP, this timing issue does not (except in rare cases such as this
+one) allow the Herald to prevent such Blotting without facing punishment
+emself.
+
+Note: While in this case the Herald missed the Order, I do not recommend
+any punishment for this obviously easy-to-make error.
+
+========================================================================
+
+Caller's Evidence:
+
+Sentencing on August 26th:
+       http://www.escribe.com/games/agora-official/m1695.html
+
+Herald's Report August 29th:
+       http://www.escribe.com/games/agora-official/m1710.html
+
+Herald's Report September 4th:
+       http://www.escribe.com/games/agora-official/m1724.html
+
+Herald's Report September 10th:
+       http://www.escribe.com/games/agora-official/m1748.html
+
+Herald's Report September 17th:
+       http://www.escribe.com/games/agora-official/m1768.html
+
+========================================================================
+
+Judge Oerjan's Arguments:
+
+I understand that Blob is not a Player.  Rule 1435 says:
+
+      A Blot is a stain on a Player's record, recorded by the Herald.
+
+This takes precedence over Rule 1437, which is therefore broken.
+
+========================================================================

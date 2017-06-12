@@ -1,0 +1,100 @@
+==============================  CFJ 2448  ==============================
+
+    Puzzles submitted by Enigma's contestmaster to emself count as
+    puzzles within the definitions given by Enigma.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       14 Apr 2009 21:43:47 GMT
+Assigned to scshunt:                    15 Apr 2009 05:11:26 GMT
+Judged TRUE by scshunt:                 15 Apr 2009 22:10:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I've been acting as if I count as a contestant in the contest I run for
+the past several months; CFJ 2438 found that I don't, for the definition
+of "contestant" in the rules, but I'm wondering if the definition in the
+contract is different. I've certainly interpreted it as including
+myself; if not, none of the Enigma puzzles I've submitted actually
+counted, and so much (although not all) of the contest's work never
+happened (although the point awards that resulted from it did, due to
+being pragmatised). Game custom also implies that the contestmaster
+counts as a contestant in eir own contest; I even came under pretty
+heavy fire recently due to failing to submit puzzles in Enigma, when
+nothing forced me to! (Nobody thought that there was anything wrong with
+me submitting puzzles for it at the time...)
+
+Many contracts have a definition naming their parties (like the PBA,
+which has Comrades); Enigma does not explicitly define "contestant", but
+until recently I assumed it meant "party to this contest", based on the
+common need for a contract to refer to itself. The inability of the
+contestmaster to submit puzzles would be rather detrimental to the
+contest itself, too; and I can't legally amend it during the Champion's
+Contest without the contest's status being lost, likely annoying a lot
+of people. I'm not at all convinced it would be in the best interests of
+the game, therefore, for uses of "contestant" inside Enigma to exclude
+the contestmaster, even though uses of the same word within the rules
+apparently do. Also, Enigma is written so as to give the contestmaster a
+lot of leeway in interpreting it, although it does not specifically
+grant them the ability to interpret the whole thing (which would be very
+dangerous and undesirable, if it for instance allowed them to redefine
+obligations onto other players).
+
+Contrast CFJs 2438 (about the meaning of "contestmaster") and 1930, each
+of which may suggest precedents which lead to the judgement I don't
+want; I'm not sure if the situation is sufficiently different here.
+(Note that it would be unfair for me to submit puzzles via a proxy, as
+it would give them an unfair advantage in the champion's contest.)
+
+========================================================================
+
+Caller's Evidence:
+
+An excerpt from Enigma:
+{{{
+6) For the purpose of this contest, a puzzle is a body of text clearly
+identified as such, accompanied by its correct answer, and sent
+privately to the contestmaster by a contestant (hereafter its author)
+who has not previously submitted a puzzle during the same week. The
+author of a puzzle SHALL NOT disclose its answer to any other
+contestant.
+}}}
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+According to the evidence submitted by the caller, the the question is
+esentially reduced to {For the purposes of Enigma, Enigma's
+contestmaster is a contestant of Enigma.}. There is no provided
+definition of contestant, either in Enigma itself or in the rules. As a
+result, R754 says to use the ordinary-language definition of the word.
+Oxford defines it as {A person taking part in a contest; a competitor}.
+Competitor is defined as {Someone who competes; a rival}. Rival is {a
+person or thing that competes with another or tries to do the same
+thing}. Under these definitions, it seems that a contestmaster is not
+a contestant. This concurs with Judge woggle's ruling in CFJ 2438, which
+contends that a contestmaster is not a contestant of a contest.
+
+However, the function of the contract and definition need to be taken
+into account. R2169 says that an equity case can be raised for any
+reason under which the contract fails to operate as envisioned. This
+strongly implies that the intent of a contract supersedes the text in
+cases of ambiguity such as this. It is clear from ais523's actions as
+Enigma's contestmaster, from the lack of any objection by a party to
+Enigma, and from my own views as a party to Enigma that the contract is
+inteded to operate such that the contestmaster can in fact submit
+puzzles.
+
+========================================================================

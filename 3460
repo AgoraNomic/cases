@@ -1,0 +1,85 @@
+=============================  CFJ 3460  =============================
+
+      ais523 holds the patent title Silver Quill 2015/07.
+
+======================================================================
+
+Caller:                      G.
+
+Judge:                       ais523
+Judgement:                   FALSE
+
+======================================================================
+
+History:
+
+Called by G.:                22 Aug 2016
+Assigned to ais523:          09 Sep 2016
+Judged FALSE by ais523:      14 Sep 2016
+
+======================================================================
+
+Caller's Arguments:
+
+Rule 649/37 (Patent Titles) is Power 1.5, and reads in part:
+      Awarding or revoking a Patent Title is secured. 
+
+Rule 2444/1 (Silver Quill), purporting to authorize the awarding
+of Silver Quills, is only power 1.
+
+Note that Patent Titles do not self-ratify, and have not been
+ratified since, uh, I dunno, the ratification date seems to
+have been dropped from the report a while ago.
+
+======================================================================
+
+Judge's Arguments:
+
+Rule 649/37 is worded pretty badly. First, note that "authorized" is
+not defined in the rules. We can see two possible meanings: a) a
+description of legality, e.g. as a synonym for MAY; and b) as a word
+with no defined meaning that's used as a marker by the rules. Meaning
+a) here is clearly ridiculous in the context of rule 649, as it would
+translate to "if a player CAN and MAY award a Patent Title to a player,
+than that player SHALL do so in a timely fashion"; this seems to create
+entirely too many (possibly infinitely many) obligations, especially as
+there doesn't seem to be an "unless that player already has the Patent
+Title". As such, the only sensible reading is b), in which case the
+rule translates to "if a rule states that a player is authorized to
+award a patent title, and that player CAN do so, that player SHALL do
+so as soon as possible".
+
+As far as I can tell, the conditions authorizing the Herald at the time
+to award the Patent Title existed at the time of the attempted award.
+However, the penultimate sentence of rule 649 is also conditional on
+the CAN. The only relevant CAN is that in the last sentence of rule
+649, and 2 Agoran Consent did not exist at the time (due to a lack of
+intent), and thus the penultimate sentence didn't trigger; the
+"authorized" was there but the CAN was missing. As such, there was no
+SHALL obligation, meaning that there's no need to look into analyses
+along the lines of "SHALL implies CAN". Thus, the original attempt to
+award the Patent Title failed. (As an aside, it seems as though many
+other rules-triggered attempts to award Patent Titles may also have
+failed, depending on what the precise wording of the rule was at the
+time; I can't see any way to get "CAN" from "authorized", as its normal
+English meaning is much closer to "MAY".)
+
+Has the patent title been ratified since? A complete list of things
+that self-ratify is: switches, undistributed proposals, and Agoran
+decision resolutions. (Some other things have self-ratified in the
+past, but Patent Titles do not seem to have been one of them, at least
+since 2015.) There /was/ an Agoran decision resolution, but as it was
+not a decision about whether to adopt a proposal, all that ratified was
+the existence of the decision itself and the fact that it was resolved
+with the given outcome (not any events that were conditional on that
+resolution). Thus, the only other option would be a manual
+ratification. There was an intent to ratify the list of Patent Titles
+on 22 August 2016 (as a response to the problem that this CFJ
+mentioned), but as far as I can tell it was never acted upon. As such,
+the Patent Titles in question were never awarded.
+
+(As a side note, Ribbons do self-ratify, being switchs, so the Ribbon
+that was gained as a consequence of the attempted Patent Title award
+still stands.)
+
+======================================================================

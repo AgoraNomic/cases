@@ -1,0 +1,134 @@
+==============================  CFJ 2112  ==============================
+
+    Publishing the message "I object", in response to an attempt to
+    perform a dependent action, causes an action to be taken by
+    announcement.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          23 Jul 2008 16:28:03 GMT
+Assigned to woggle:                     27 Jul 2008 22:41:39 GMT
+Judged FALSE by woggle:                 01 Aug 2008 20:54:05 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+You could post a message like "This message is an objection to the
+above action", which would object in a method other than announcement,
+because the criterion of "by announcement" is that a person performs
+an action by announcing that e performs it.  However, in the case of
+"I object", this criterion is satisfied, even if Rule 2124 does not
+require that an objection be an announcement.
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+No, the "by announcement" criterion of R478 is not satisfied, because
+it specifically only applies to rule-defined actions.  Nowhere do the
+rules define objecting to a dependent action as an action.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Although Rule 2124 defines it as a message that must be sent, we treat
+objecting very, very much like an action, which we send
+pseudo-announcements in order to perform.  Or is it a real
+announcement?  Although Rule 478 defines "by announcement" only in the
+context of actions that the Rules say we can take by announcement,
+that simply means that "by announcement" is otherwise undefined.  Rule
+2208 refers to *any* attempt to perform *any* action by announcement,
+so we must infer a meaning for "by announcement" in other contexts.
+
+Compare to contract-defined announcements: although the Rules do not
+"define an action that CAN be performed 'by announcement'", so the
+term is undefined, we still treat actions which a contract says can be
+performed "by announcement" as effective.  I think it is game custom
+(although the rule is still new) to treat Rule 2208 as applying to
+such actions, too.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+Problematically for root's arguments, R478 doesn't explicitly define
+"by announcement". It makes it clear what happens when the rules state
+something CAN be performed by announcement and is followed by a
+broader statement which uses "by sending a message", avoiding an
+implication that it is limited to actions that the rules state CAN be
+performed by announcement. But does R478 imply that "An action can be
+taken "by announcement" only if the rules define it as such."? I don't
+think there's any good reason to apply this restriction. But we can
+logically conclude that any action is taken by announcing one performs
+it can count as an action by announcement.
+
+But does it apply when the rule-recognized mechanism recognizing the
+action doesn't require an announcement that causes the action to occur
+to take the form of announcing that the author performs it? This would
+lead to some strange conclusions. "I submit the following ballot:
+...." would be performing an action by announcement (submitting a
+ballot) but the common unmarked replies to the distribution would not.
+SImarily "I submit the following proposal: " would be performing an
+action by announcement, but a less-well-marked proposal submission
+would not.
+
+While ordinarily these conclusions would be IRRELEVANT, R2208 makes
+them highly relevant: these apparent attempts at clarifying the
+actions would, in fact, increase the standard of clarity required for
+the action to be effective. I do not think this restriction would be
+in the best interest of the game. And, as I think this feature of
+R2208 reflects, we tend to think of actions "by announcement" as
+actions which have been defined with certain criteria for performance,
+not as actions that we happen to choose a certain form for.
+
+Therefore, I judge FALSE.
+
+Some side issues:
+
+That posting an objection to a dependent action is only recognized
+indirectly (by causing the player to become an Objector) hurts the
+case for "I object" to be taking an objection by announcement further.
+We might take "I object" is a reasonable synonym for "I post an
+objection", but that only helps so much. Would the rule's recognition
+be sufficient effectiveness rendered by announcing it to render it an
+"action by announcement" -- it is really no different than the
+equivalent unregulated action, so I think not. (But perhaps you could
+stretch things and find that it's also a synonym for "I become an
+Objector", but that seems a real stretch.)
+
+If we were to accept a broader definition of "action by announcement":
+then if a rule stated "A player who has publicly posted an odd number
+of Es in eir messages within the current Agoran Month is a Foo, and
+other players are a Bar", would we then conclude that "I hereby turn
+myself into a Foo." is an action by announcement?
+
+========================================================================
+
+Judge woggle's Evidence:
+
+(from R2124)
+     [...] An Objector to a
+     dependent action is a first-class player (or other person
+     explicitly allowed to object to that action by the rule allowing
+     that action to be performed dependently) who has publicly posted
+     (and not withdrawn) an objection to the announcement of intent
+     to perform the action.
+
+(from R478)
+     Where the rules define an action that CAN be performed "by
+     announcement", a person performs that action by announcing that
+     e performs it.  Any action performed by sending a message is
+     performed at the time date-stamped on that message.
+
+========================================================================

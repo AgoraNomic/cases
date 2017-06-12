@@ -1,0 +1,98 @@
+==============================  CFJ 2828  ==============================
+
+    It is POSSIBLE for the CotC to assign a judge to a CFJ, other than
+    this one, which has exactly this statement
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       11 Aug 2010 15:46:13 GMT
+Assigned to G.:                         13 Aug 2010 08:53:37 GMT
+Judged FALSE by G.:                     13 Aug 2010 16:26:29 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The question is as to whether I can publish a message whilst publishing
+a message. I clearly haven't finished publishing this message yet at its
+second sentence, so that should publish the message again. (Test 1: Is
+it possible to publish a message via reference, especially if the entire
+content of the message to publish is present in the same email? The
+common TTttPF behaviour implies it is.) Assuming that that works, it
+presumably creates a second CFJ. The next problem is to determine the
+relative timings of the CFJs; do they happen simultaneously, or one
+after the other? If the latter, which comes first? Can the CotC assign a
+judge to a CFJ /as/ it's being created? (Admittedly, e'd have to take
+actions interspersed with mine; it would be entirely possible in theory,
+though, if I were the CotC at the time.) (Test 2: If there are two CFJs,
+are the correct judgements FALSE/FALSE, FALSE/TRUE, or TRUE/TRUE?) The
+remaining question is as to whether the email gets published an infinite
+number of times, and thus creates five CFJs; I think this is very
+unlikely though, both because it would be too much of a stretch to do
+with one abbreviation (or any other way), and because it's clearly
+taking the same action twice when the action says "if I have not already
+done so"; this is probably evidence in favour for the actions in the
+referenced message happening after the publication of the original
+message, rather than during.
+
+========================================================================
+
+Caller's Evidence:
+
+I call for judgement on the statement "It is POSSIBLE for the CotC to
+assign a judge to a CFJ, other than this one, which has exactly this
+statement". Then if I have not already done so, I publish a copy of the
+text of this email.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+This is Yet Another Administrative Convenience Confused for Reality
+(YACCR) case.  By R478, the only way to actually perform the act of
+publishing a message is to hit the send key or otherwise propagate
+previously-composed text outside of one's technical domain of control
+(with some modifications for the "via" and other mechanical delivery
+considerations - I won't quote the case law that starts with CFJ 866).
+
+Since the publishing is done by this technical (actual) act, terms like
+"I hereby announce" or "I hereby publish" or "I state" are simply handy
+delimiters/framing devices or color for focusing relevant content.  In
+other words, syntactic sugar that is generally without legal effect.
+It also means that saying "I hereby publish [external reference] is not
+the same thing as publishing the content of the external reference.
+
+We generally accept that such framing conveniences can have some minor
+effects of redirection/quoting within the same message, for example that
+a sender can reorder the interpretation of messages.  For example "I
+submit the following proposal, then set its AI to 3 and its chamber to
+green: [proposal text]" is taken to reorder the AI and chamber setting
+to being after the publication of the proposal text.  Or saying "I send
+the following previous quote to the PF" or the accepted shorthand TTPF
+works, provided the whole quote is actually published inside the framing
+device.
+
+Like all such conveniences, they function on common sense.  As soon as
+they are used to cause explicit contradictions, infinite loops, or the
+like, they are simply thrown out and we revert to the strict
+interpretation of publication via the sending itself being interpreted
+in established linear (common English) order.  Therefore, the recursive
+"I hereby publish" says it did, but didn't.
+
+I know, boring of me.  Sorry.  FALSE.
+
+Also, ALL OF AGORA SHOULD NOTE AND REMEMBER the last sentence of Judge
+Murphy's arguments in CFJ 2737.  This is an excellent and concise
+statement that is specifically relevant here, but should be brought
+forward as a strong general precedent for this type of thing.
+
+========================================================================

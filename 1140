@@ -1,0 +1,68 @@
+======================================================================
+                              CFJ 1140
+
+    If no proposals are distributed in a given week, then every player
+    has either voted or declared presence on all proposals of that
+    distribution.
+
+======================================================================
+
+Called by:           Elysion
+
+Judge:               harvel
+Judgement:           TRUE
+
+Judge selection:
+
+Eligible:            harvel, Lee, Wes
+
+Not eligible:
+Caller:              Elysion
+Barred:              -
+Had their turn:      Beefurabi, Blob, Chuck, Crito, elJefe, Elysion,
+                     Kolja, Michael, Morendil, Murphy, Oerjan, Peekee,
+                     Steve, Vlad
+Already served:      -
+Defaulted:           -
+By request:          -
+On Hold:             -
+
+======================================================================
+
+History:
+
+Called by Elysion:                   14 Jun 1999 21:31:59 -0400
+Assigned to harvel:                  21 Jun 1999 11:10:52 -0700
+Judged TRUE by harvel:               As of this message
+
+=====================================================================
+
+Caller's Arguments:
+
+For a distribution of zero proposals, the following statement is false: Some
+proposals in that distribution are not proposals that have been voted on or
+had presence declared on by player X (where X is any registered player).
+Since that statement is false, by contradiction, the following statement is
+true: All proposals in that distribution are proposals that have been voted
+on or had presence declared on by player X (where X is any registered
+player). Therefore, for any registered player, all proposals in that
+distribution have been voted on or had presence declared on by that player.
+
+This is applicable because rule 1879/0 states in part:
+
+      To the Player Voting or declaring Presence on all Proposals of a
+      single distribution: 0.5 Points.
+
+======================================================================
+
+Evidence attached by the Caller:
+
+<none>
+
+======================================================================
+
+Judge's Arguments:
+
+The Caller's argument is correct.  I see no need to repeat it here.
+
+======================================================================

@@ -1,0 +1,80 @@
+==============================  CFJ 2856  ==============================
+
+    A proposal adopted at AI-1.7 CAN create a leadership token in a
+    person's possession without amending a rule.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           08 Sep 2010 21:45:32 GMT
+Assigned to Murphy:                     10 Sep 2010 08:25:07 GMT
+Judged TRUE by Murphy:                  10 Sep 2010 09:07:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+What can proposals accomplish by fiat (e.g. without amending rules)?
+Here I've chosen a property (existence of a particular Leadership
+Token) that is defined in the power 1.7 rule (R2293) but not
+explicitly Secured.  It's clear that lower-powered rules can set up
+explicit methods for token creation.  But what about proposals without
+explicit rule backing, nor explicit rules denial?
+
+By tradition, we allow phrases like "A Leadership Token is hereby
+created in X's possession" to work if X is generally allowed to have
+Leadership Tokens (e.g. the Rules don't make it impossible for the
+gamestate that exists after the creation to exist).  But is this
+really possible?  Or only at certain powers of proposal?
+
+My argument is that this is governed by R2140(c).  A Proposal is an
+instrument of power, and if it attempts to create a token, it is
+"modifying a substantive aspect" of the rule defining the Tokens (my
+argument implies that it is the token-defining Rule that matters, not any
+rule that may govern an individual award, nor one that governs broader
+definitions such as assets in general.  This would lead to a judgement
+of FALSE/TRUE on the linked CFJs.
+
+If my argument is correct, it means that every defined game quantity
+is, in fact, Secured at the level of its primary defining Rule.  This
+runs counter to our past traditions of what Proposals can do.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2140/0 (Power=3)
+Power Controls Mutability
+
+      No entity with power below the power of this rule can
+
+      (a) cause an entity to have power greater than its own.
+
+      (b) adjust the power of an instrument with power greater than
+          its own.
+
+      (c) modify any other substantive aspect of an instrument with
+          power greater than its own.  A "substantive" aspect of
+          an instrument is any aspect that affects the instrument's
+          operation.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+A substantive aspect of a rule pertains to /how/ a rule governs, not
+/what/ a rule governs.  With that argument eliminated, a low-powered
+proposal is just as capable as a low-powered rule (they're both
+instruments and they're both effective) of changing holdings whose
+existence is defined by a high-powered rule (if the high-powered rule
+doesn't attempt to prevent it, then there's no conflict).
+
+========================================================================

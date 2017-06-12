@@ -1,0 +1,141 @@
+==============================  CFJ 2909  ==============================
+
+    Wooble is the judge of CFJ 2908.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       29 Nov 2010 19:25:39 GMT
+Assigned to ais523:                     05 Dec 2010 20:15:57 GMT
+Judged FALSE by ais523:                 10 Dec 2010 23:04:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+(If I deregistered last week) a few minutes ago, the
+gamestate was minimally modified such that I was a player a week ago.
+My assumption is that this modification consists of flipping my
+Citizenship switch and setting my registration date to when the last
+Registrar's report was published. I'd guess that in the intervening
+time I was not actually a player, and that assigning a case to me (or
+performing other actions that would succeed only if I were a player)
+was ineffective.  However, the rules do not forbid retroactive
+changes, and it's possible that "minimally modifying the gamestate"
+means simply retroactively making the change.  This would not require
+substantial recalculation, as I believe most if not all of the public
+messages since then acted as if I'd lost my offices as a result of
+deregistration but still treated me as a (possible) player in other
+respects; c.f. omd attempting to make me a Pope and Murphy assigning
+cases to me (in eir case, with a disclaimer).
+
+========================================================================
+
+Gratuitous Arguments by Yally:
+
+If Wooble did, in fact, deregister emelf, then his
+publication of the Registrar's Report on 22 November was not valid (as
+e was not the Registrar and only players may deputise). Nevertheless,
+"The portion of a public message purporting to be a Registrar's report
+that lists each player implies that no players other than those listed
+exist and is self-ratifying." The question, then, is whether Wooble's
+message (where he named emself as "Possibly Registrar" in the subject
+line) actually purported to be a Registrar's report.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+The report includes "Wooble possibly deregisters" in the
+"Recent events" section, although I don't think this affects anything.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+In addition, the message in question noted that Wooble
+recently "possibly deregistered", though the list of players was
+not directly disclaimered.
+
+========================================================================
+
+Gratuitous Evidence by ais523:
+
+On Sun, 2010-11-21 at 19:20 -0500, Geoffrey Spear wrote (in a message
+with subject "BUS: I deregister"):
+> I resign from all offices I hold, if not.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+CFJ 2909 is rather complicated (and until recently, had no evidence
+attached...); there are several factors that affect the decision, so
+I'll take them in turn. (Thanks for omd for helping me discuss this in
+##nomic; I would transfer a prop from Wooble to omd for lack of evidence
+vs. useful discussion, but props can't be transferred from non-players.)
+
+First, I judge that Wooble did in fact deregister when e sent the
+message in question. The subject is obviously chosen deliberately; the
+", if not" in the message draws attention to the subject (it's crying
+out to have more context), and the circumstances at the time made
+looking at subjects a pretty obvious thing to do. This follows the
+precedent of CFJ 2897, which as far as I can tell was generally accepted
+after being reconsidered and rejudged.
+
+Next, we need to consider if the list of players in the report in
+question self-ratified. The document in question certainly purported to
+be a Registrar's report, despite being sent by a non-player; the
+[Possibly Registrar] in the subject only goes further to identify the
+document as having the structure and content of a Registrar's report. As
+the list of players is the only self-ratifying part, its context is
+mostly irrelevant at disclaiming it (and anyway, the rules don't allow
+for disclaimers to affect ratification, except very indirectly). So I
+think that the list did indeed ratify.
+
+However, ratification seems to be broken at the moment. Here's the
+entire content of rule 1551:
+{{{
+      A public document is part (possibly all) of a public message.
+
+      When a public document is ratified, the gamestate is minimally
+      modified so that the ratified document was completely true and
+      accurate at the time it was published.  Nevertheless, the
+      ratification of a public document does not invalidate, reverse,
+      alter, or cancel any messages or actions, even if they were
+      unrecorded or overlooked, or change the legality of any
+      attempted action.
+
+      Ratifying a public document is secured.
+}}}
+
+The operative text here is "gamestate is minimally modified". What the
+rule is probably /meant/ to say is along the lines of "When a public
+document is ratified, the gamestate is changed to what it would be if
+the publication of the ratified document had minimally modified the
+gamestate so as to make the document completely true and accurate at the
+time it was published.", i.e. calculate the effects of a minimal change
+in the past, and apply them to the present, including knock-on effects,
+etc.. That's not what the rule actually says; it instead tries to work
+out a minimal change to the /present/ gamestate to change the past. It's
+unclear if a rule can actually change the past or not, but it doesn't
+actually matter in this case; if the history of the report in question
+is part of the gamestate (and this is an unclear point, depending on the
+definition of "gamestate"), then a minimal change to the gamestate would
+just change the history, and if the history isn't, then /no/ change to
+the gamestate could retroactively make the report have been correct,
+thus the rule can't do much but create a legal fiction that it was. In
+neither case, though, does Wooble's current playership change.
+
+Thus, I judge CFJ 2909 FALSE, as a non-player cannot be a judge, and
+award myself 2 capacitors for that judgement.
+
+========================================================================

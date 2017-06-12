@@ -1,0 +1,97 @@
+==============================  CFJ 1222  ==============================
+
+    The message sent to the Business List by Elysion containing the text
+    'The Bank pays all its outstanding IAT POs' did not cause any
+    Transfer Orders to be exectuted.
+
+========================================================================
+
+Caller:                                 Kelly
+Barred:                                 Elysion
+
+Judge:                                  Crito
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Kelly:                        25 May 2000 03:12:56 GMT
+Assigned to Crito:                      25 May 2000 12:23:04 GMT
+Judged FALSE by Crito:                  31 May 2000 18:33:39 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+As argument I ask that the Judge consider the recent extensive debate
+on what constitutes a message sufficient to convey the information
+required to specify things like Votes, much of which will transfer to
+the execution of Transfer Orders.
+
+========================================================================
+
+Judge Crito's Arguments:
+
+First of all, I can dismiss the trivial case that there were no outstanding
+IAT PO's at the time
+of this message, since Elysion has provided me evidence that there was at
+least one.
+This brings us to the definition of a TO:
+
+Rule 1598/8 (Power=1)
+Transfer Orders
+
+      A Transfer Order is an Order requiring the Recordkeepor of a
+      Currency to note the transfer of units of that Currency from one
+      entity to another.  A valid Transfer Order specifies exactly one
+      source entity, exactly one destination entity, exactly one
+      Currency, and a number of units of that Currency which is a
+      positive multiple of that Currency's MUQ.
+
+At first glance, this seems to indicate that a TO message must explicitly
+contain all of these elements.  However, the word "specify" leaves room
+for interpretation.  Does "specify" mean explicitly stated or does an
+indirect reference qualify as a specification?  We have much game custom
+to support the interpretation allowing indirect specification.  "I pay ..."
+has become a well entrenched synonym for "I execute a Transfer Order ...".
+In particular, references to specific Payment Orders in this context have
+consistently been taken to mean a Transfer Order that satisfies the specified
+Payment Order.  In other words, because a Payment Order itself specifies
+a source, destination and number of units in a specific Currency, any
+reference
+to that Payment Order is considered a specification of those things required
+by R1598.  This is unproblematic in the following situations:
+
+1.  Player presents a quote of an issued PO and states "I pay this".  The
+message
+itself contains the required information (in the quote) and might even be
+viewed
+as a direct specification.
+
+2.  Player states "I pay PO X", where X is an accepted, unambiguous reference
+to
+a specific PO.  Here the message does not explicitly contain the required
+information,
+but the specification of a particular PO which does specify it can reasonably
+be
+interpreted as having satisfied R1598.
+
+This brings us to the case at hand.  Does a statement of the form "The Bank
+pays all
+outstanding POs" also satisfy R1598?  First, does it succeed in making
+unambiguous
+references to specific POs?  Well, I would have to say "yes".  "All
+outstanding POs"
+is a well-defined set of specific POs.  There is no ambiguity here.  The fact
+that
+the Player making the statement may not have knowledge of the members of this
+set
+is irrelevant to whether or not e has specified the set.  E has referred to a
+specific, unambiguous set of POs, each member of which speficies exactly the
+information required by R1598.  If we are to allow cases 1 and 2 above, then,
+absent legislation specifically preventing it, we must also allow the case
+in question.  IMO, game custom strongly supports the acceptance of 1 and 2,
+therefore I am inclined to judge the CFJ FALSE.
+
+========================================================================

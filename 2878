@@ -1,0 +1,224 @@
+==============================  CFJ 2878  ==============================
+
+    Due to Rule 2215, it would be illegal for me to make an unqualified
+    public statement that is identical to this statement.
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  omd
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        05 Oct 2010 03:12:59 GMT
+Assigned to omd:                        06 Oct 2010 15:57:03 GMT
+Judged UNDECIDABLE by omd:              17 Oct 2010 20:17:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I am aware of CfJ 1887, which says that stating the liar paradox would violate
+Rule 2215.  Since this statement is similar in nature to the liar paradox, its
+truth follows directly from CfJ 1887.  This does not, however, mean that it
+isn't a paradox.
+
+========================================================================
+
+Judge omd's Arguments:
+
+As much as it would be in the interests of the game not to allow such
+a simple rule as "don't make statements unless you believe they're
+true" to cause actions to have logically indeterminate legality, I
+cannot think of any good interpretation of the current rules that
+avoids this.  The basic problem with this statement, as well as with
+the alternatives proposed by Warrigal, e.g. the quine[1], is that it
+does not allow the use of logical indeterminacy as an "escape hatch":
+assuming that the statement is true makes it false, assuming it's
+false makes it true, and /assuming it's indeterminate makes it true/.
+And unlike "this statement is false" or any other trivial paradox,
+this statement speaks directly about the legality of a particular
+action which anyone could easily perform.  You cannot say with a
+straight face that whether some action is illegal is indeterminate,
+therefore that action is illegal...
+
+How can I even judge UNDECIDABLE without admitting that the statement
+cannot be accurately described as true or false, which by definition
+means it is not true, and therefore that it is true?
+
+Perhaps the sane solution is some kind of "no backtracking" rule: in
+our attempts to contain logical uncertainty into a little bubble, once
+the bubble has been closed, we shall not reopen it with new
+conclusions even if they would make the statement no longer
+indeterminate.
+
+Or simpler, a legal hack: any statement which substantially depends on
+its own truth value is not considered true, regardless of how it would
+otherwise be evaluated.  The 'substantially' is what makes it a hack,
+but it is necessary to work around the quine.
+
+Maybe one of these solutions should be written directly into the Rules?
+
+Well, for now I judge UNDECIDABLE.
+
+[1]
+
+On Mon, Oct 11, 2010 at 6:37 PM, Warrigal <ihope127+w@gmail.com> wrote:
+> Due to Rule 2215, it would be illegal for me to make an unqualified
+> public statement consisting of the following string (expect with the
+> number 3000 incremented), followed by a quotation mark, followed by
+> the same string again, followed by another quotation mark: "Due to
+> Rule 2215, it would be illegal for me to make an unqualified public
+> statement consisting of the following string (except with the number
+> 3000 incremented), followed by a space, followed by a quotation mark,
+> followed by the string again, followed by another quotation mark: "
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+(copied from ##nomic):
+[21:23] <ais523> comex: Bucky's CFJ is unambiguously TRUE, I've intended
+an appeal
+[21:24] <comex> oh...?
+[21:24] <comex> why?
+[21:24] <ais523> posted to the thread
+[21:24] <comex> and if so, why didn't you say so before?
+[21:24] <ais523> Bucky cannot consistently believe that the statement is
+true
+[21:24] * comex waits to receive it
+[21:24] <ais523> but that doesn't preclude the statement
+actually /being/ true
+[21:24] <comex> why?  you just said it was true
+[21:24] <ais523> comex: Bucky cannot believe it's true != the statement
+is not true
+[21:24] <ais523> see the difference?
+[21:25] <ais523> Bucky is not infallible, after all
+[21:25] <comex> oh, that's nonsense
+[21:25] <ais523> no it isn't
+[21:25] <comex> you just said "assuming Bucky has enough logical
+ability"
+[21:25] <comex> e presumably has
+[21:25] <ais523> yes, exactly
+[21:25] <comex> therefore, e believes the statement is true iff it is
+true
+[21:25] <ais523> with the opposite assumption, Bucky can resonably
+believe the statement is true due to not having enough logical ability
+to notice there's a paradox
+[21:25] <ais523> so the CFJ comes out FALSE
+[21:25] <comex> hrm
+[21:25] <ais523> neither way, though, is it undecidable
+[21:25] <comex> I suppose he has to believe one way or the other
+[21:25] <comex> wait, no
+[21:26] <comex> that doesn't work
+[21:26] <comex> e /reasonably/ believes the statement is true iff it is
+true
+[21:26] <ais523> Bucky's belief status is undecidable; the statement as
+a whole, therefore, is true
+[21:26] <comex> what e actually believes is irrelevant
+[21:26] <ais523> because e does not believe it is true, e does not
+reasonably believe it is true
+[21:26] <ais523> (and it is reasonable to believe the statement in
+question true - unless you're Bucky)
+[21:26] <comex> Bucky's belief status is undecidable; the statement as a
+whole, therefore, is true...therefore a reasonable person would believe
+it was true
+[21:26] <ais523> comex: unless that person was Bucky
+[21:27] <comex> why?
+[21:27] <comex> is Bucky an exception?
+[21:27] <ais523> a statement being true does not force a reasonable
+person to believe it is true
+[21:27] <ais523> especially, if it would lead to a paradox
+[21:27] <ais523> is that reasonable?
+[21:27] <ais523> Bucky's an exception because for em to believe it's
+true causes a paradox
+[21:27] <ais523> while for anyone else to believe it's true, doesn't
+[21:27] <ais523> you could construct a statement for any other given
+person
+[21:27] <ais523> that had the same effet
+[21:27] <ais523> *effect
+[21:28] <comex> hrm
+[21:29] <comex> since Bucky called the CFJ, we can assume e (actually)
+believed the statement is indeterminate
+[21:29] <ais523> indeed, or e wouldn't have called it
+[21:29] <ais523> and as a result, the statement is actually true
+[21:29] <comex> did e reasonably believe so?  if the statement is
+actually indeterminate, e did
+[21:29] <comex> if it is not, e didn't-- the belief was unreasonable
+[21:30] <comex> I suppose that since he didn't believe the statement was
+true, e did not reasonably believe it was true regardless of whether it
+was true...
+[21:30] <comex> but that doesn't really help
+[21:30] <ais523> <comex> I suppose that since he didn't believe the
+statement was true, e did not reasonably believe it was true regardless
+of whether it was true... <-- exactly
+[21:30] <comex> you believe that the statement is true
+[21:30] <comex> so
+[21:30] <comex> you could make the same CFJ
+[21:31] <comex> and then it would work better
+[21:31] <ais523> then it would be a different statement
+[21:31] <ais523> as "me" would have a different referent
+[21:31] <comex> you would not believe that statement is true?
+[21:31] <comex> what would you believe about it?
+[21:31] <ais523> I believe "Due to Rule 2215, it would be illegal for
+Bucky to make a public statement that is identical to the statement of
+CFJ 2878"
+[21:31] <ais523> that's the statement of CFJ 2878, when you substitute
+the pronouns
+[21:32] <ais523> and I hope you see there's no issue with me, or really
+anyone but Bucky, believing that's true?
+[21:33] <ais523> if you replace "Bucky" with "ais523", things become
+rather more confusing from my point of view, but not really from anyone
+else's
+[21:33] <ais523> because I can no longer logically consistently believe
+the statement is true, even if anyone else can
+[21:34] <comex> okay...
+[21:34] <comex> so
+[21:34] <comex> what do you think about "Due to Rule 2215, it would be
+illegal for ais523 to make a public statement that is identical to this
+statement"?
+[21:35] <comex> I guess you could be not sure
+[21:35] <ais523> my instant reaction is "that's TRUE, but I can't
+publically make the statement"
+[21:35] <ais523> which is ofc a self-contradictory opinion
+[21:35] <ais523> people tend to react badly to inconsistent beliefs
+[21:35] <comex> well.  whether you say it publicly is irrelevant
+[21:36] <ais523> hmm, perhaps it isn't true? I fail to assign the
+statement a truth value
+[21:36] <ais523> whilst simultaneously conceding that it is actually
+true from anyone else's point of view
+[21:37] <ais523> may I post the discussion as arguments in the CFJ? It's
+been interesting
+[21:41] <comex> sure
+[21:41] <comex> I agree that this particular CFJ should be TRUE, as you
+said
+[21:42] <comex> although I think Bucky deserves a win for this
+[21:42] <comex> and how can a statement's truth value depend on who's
+looking at it?
+[21:43] <ais523> it doesn't; the statement is true, just Bucky can't
+consistently believe it
+[21:46] <comex> I mean the statement from your perspective
+[21:46] <comex> if that's the case for that statement, well, you just
+stated you believe it
+[21:47] <ais523> hmm, I think I can, under certain circumstances,
+believe a contradiction
+[21:48] <ais523> but it's unreasonable for me to do so
+[21:48] <comex> I'm not sure this isn't just a diversion, by the way.
+[21:48] <ais523> so my verdict: the statement in question with "ais523"
+substituted is true, self-contradictory, and it's unreasonable that I
+believe it
+[21:48] <ais523> but I believe it anyway
+[21:49] <comex> For example, what if you made the statement as part of
+officer's duties? does it violate R2143?
+[21:50] <ais523> that's a different issue; because R2143 doesn't fire on
+belief, it becomes self-contradictory without a belief loop like that,
+and is, I think, genuinely undecidable
+[21:50] <ais523> it's when statements themselves talk about belief that
+this weirdness happens
+[21:50] <ais523> either directly, or indirectly by referring to R2215
+
+========================================================================

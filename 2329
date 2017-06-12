@@ -1,0 +1,38 @@
+==============================  CFJ 2329  ==============================
+
+    On or about December 28, 2008, comex achieved a Win by Points
+
+========================================================================
+
+Caller:                                 Sgeo
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Sgeo:                         06 Jan 2009 22:40:19 GMT
+Assigned to Wooble:                     08 Jan 2009 06:56:01 GMT
+Judged FALSE by Wooble:                 08 Jan 2009 13:33:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+(note that this would also include ais523)
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge that CFJ 2329 is trivially FALSE; comex had 7 rests at the
+time of the purported win.  By R2229, owning Rests is a Losing
+Condition.  CFJ 2311 confirms that R101 does not block comex's rests
+from causing a losing condition.  The question of whether comex gained
+some number of points by a scam is thus moot; I won't address it as
+it's relevant to CFJ 2330 and the judge of that case should be the one
+to resolve it.
+
+========================================================================

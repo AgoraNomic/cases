@@ -1,0 +1,253 @@
+==============================  CFJ 2246  ==============================
+
+    CFJ 2245 was retracted.
+
+========================================================================
+
+Caller:                                 Taral
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Taral:                        30 Oct 2008 20:21:52 GMT
+Assigned to ais523:                     02 Nov 2008 16:14:33 GMT
+Judged FALSE by ais523:                 10 Nov 2008 19:08:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R2175 permits a player to retract a case if it has not yet had a judge
+assigned to it. However, R101(ii) prohibits actions which would
+prevent resolution of a controversy. If ehird's actions on behalf of
+BobTHJ are intended to abridge BobTHJ's R101 rights, then they would
+be prohibited by that rule. (Note that R101 mentions binding
+agreements specifically.)
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+Being acted on behalf of is voluntary. Agreeing to a
+contract can obviously constitute consent to being acted on behalf of,
+but in this case, it's obvious that BobTHJ does not want ehird acting
+on behalf of em. Also, R101(v) may have something to say about this,
+though "reasonable opportunity to review" is a bit weak.
+
+If this CFJ is judged TRUE, I see cause for an R101 amendment: "Every
+person has the right to refuse for another person to act on eir
+behalf, unless e has explicitly and willfully consented to the
+action."
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+Inquiry CFJs are still available, and they can help resolve
+controversy just the same.
+
+Of course, there is no controversy on the interpretation of the rules.
+
+Just an unhappiness at the state of the contract.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+OK, this case seems to be missing evidence. (Basically: a contract was
+modified by majority consent to allow two of its members to mousetrap a
+third, who had not agreed; the modified contract purported to allow
+equity cases by BobTHJ against the resulting contract to be retracted.)
+
+First, there are two issues relevant to this case that I want to get out
+of the way quickly. Rule 101/10(ii) is irrelevant here; BobTHJ could
+have initiated an inquiry case rather than an equity case without
+problems. (Admittedly, that would have resulted in "yep, you're
+mousetrapped" rather than getting em out of the situation, but rule 101
+does not explicitly give people the right to get out of contracts they
+don't like.) Rule 101/10(iii) also does not help, as BobTHJ agreed to
+both the contract in question and the means for changing it, and rule
+101/10(iii) does not require explicit consent for amendments to
+contracts. Rule 101/10(iv) also seems not to help as BobTHJ seemed
+pretty familiar with the content of the amendment in question; as e was
+discussing it, and commenting on it, this seems to allow an ample time
+to review the amendment in question.
+
+The more interesting parts of this is the exact circumstances in which
+act-on-behalf works. Until recently, act-on-behalf for players was not
+mentioned in the rules (rule 2169 now has such an act-on-behalf clause;
+arguably the Monster/Mad Scientist do too, but the Monster probably
+isn't a player), and indeed players acting on behalf of other players
+via contracts appears to stem only from rule 217, except possibly in the
+case of partnerships where rule 101 is involved too. (I know everyone
+groans when someone mentions rule 217; bear with me.)
+
+In order to establish just what the relevant custom is, it is worthwhile
+looking at past CFJs and past rules. The relevant rule in this case is
+the no-longer-existing R1478. Rule 1478/5 looked like this before it was
+repealed:
+{{{
+      (a) An Executor of an entity is a Player who is empowered by the
+          Rules to act on behalf of that entity, who is called the
+          Executee. There may be more than one such Player. An
+          Executor of an Executee may perform on behalf of the
+          Executee all such actions as the Rules permit the Executee
+          to perform.
+
+      (b) A Limited Executor of an entity is a Player who is empowered
+          by the Rules to perform on behalf of that entity a subset of
+          the actions which the Rules permit the entity to perform. A
+          Limited Executor is permitted to perform on behalf of an
+          Executee only such actions as are explicitly permitted by
+          the Rules.
+
+      (c) A Player is always eir own Executor. Other entities have
+          Executors (or Limited Executors) only as and when the Rules
+          provide.
+
+      (d) A Player acting on behalf of an entity other than emself
+          must clearly indicate on whose behalf e is acting. A Player
+          who does not clearly indicate that e is acting on behalf of
+          some entity other than emself is presumed to be acting on
+          eir own behalf.
+
+      (e) Only persons may perform actions. Non-persons perform
+          actions only via the agency of persons, as specified by the
+          Rules.
+}}}
+Granting Executorship explicitly used to be done via rules 1841/1842,
+which effectively allowed a player to grant it by announcement if
+certain conditions were met.
+
+Since the repeals in late 2006 (see my arguments to CFJs 2086/2087 for
+context), the rules in question have not existed, and act-on-behalf has
+thus lapsed into game custom, as so many other things did just then. (As
+nobody appealed my judgements of the CFJs in question, there seems
+precedent that things repealed in that particular batch continued to
+exist iff they became game custom and no contradictory legislation was
+passed in the meantime.) It is probably worth mentioning that some of
+the relevant language (to do with Executors) is still left in rule 2170,
+although it no longer seems to have an effect on the rules.
+
+In this case, CFJ 1941 seems to establish that in May this year, it was
+already established custom that an effective Power of Attorney was
+grantable in practice via contracts, once the rules no longer gave a
+method of doing so. Going back earlier, CFJ 1815 implies that
+partnerships were considered to be capable of acting via act-on-behalf
+(this makes sense because otherwise partnerships would not have the R101
+right to participate); note that this is slightly different, because
+partnerships are the contract in question, rather than bound by it.
+However, there seems no real doubt that act-on-behalf is in general
+possible, and that the current game-custom way to grant it is via
+contract. In cases where people explicitly agreed to a contract knowing
+it would grant act-on-behalf power, it is therefore impossible to
+conclude that it wouldn't work. (This is the precedent of CFJ 1941; I
+understand that at the time at least one player thought act-on-behalf
+wouldn't work at all, but since then it seems established as a working
+concept.)
+
+So the precedent is that a player can grant power of attorney via
+contract (and that it lasts as long as the contract does, and can be
+modified by the contract itself). It is also interesting that although
+it used to be impossible to use power of attorney to deregister someone
+(although you could do anything else with it as long as you didn't
+violate R101), the modern version seems to allow deregistration (for
+instance when ehird was ripped apart by walnuts). (Note that this is all
+based on precedent and custom not on rules; i.e. this is more Nomic 217
+than Agora. It's really annoying having to fall back on rule 217; I'm
+one of those players who likes rules rather than merely customs and
+CFJs. Maybe we should legislate to get out of this situation.)
+
+However, the important issue in this CFJ is one that isn't covered by
+the rules, and has never come up before; if someone does not agree to an
+amendment to a contract which would grant act-on-behalf rights, but is
+instead mousetrapped into it, does the grant happen?
+
+There are several arguments to consider. First, the mousetrap certainly
+seems to work to create SHALL requirements on a player, although TITE
+would seem to prevent these working. (Imagine this scenario:
+ehird/Wooble amend the Protection Racket so that BobTHJ SHALL give them
+50 Coins each, BobTHJ doesn't, ehird/Wooble calls an equity case
+claiming that things didn't happen according to the contract! Probably
+that would end up with a null judgement, or worse.) As SHALL
+requirements are blocked by TITE in this situation, should act-on-behalf
+be? It isn't defined either way by the rules, but it is very much in the
+spirit of TITE to block act-on-behalf too; an equity case, if it were
+created, would clearly find the situation inequitable and do something
+to correct it. However, two of the parties to the contract don't want to
+call an equity case, and the third tried to but potentially it was
+remotely retracted. (This is yet another TITE scam, that rule severely
+needs fixing; however, it is not the place of a judge to deprive players
+of a valid Scam merely because it was a scam, just to determine whether
+it worked or not.) If TITE were more widely supported, I think this
+would be a relatively strong argument in favour of the act-on-behalf not
+working; however, TITE is controversial, buggy, and not generally agreed
+upon, and so I can't take it as influencing game custom all that
+strongly. It is a rule, though, so this argument is mildly in favour.
+(This is balanced somewhat by the argument that valid scams should not
+arbitrarily be blocked by judges, I'm not sure if that applies here but
+it's strong game custom that it should be followed if it does.)
+
+Another potential reason to find that the act-on-behalf fails is rule
+101. Much of it is designed to prevent mousetraps; in this situation, a
+valid mousetrap appears to have occured despite rule 101, allowing a
+contract a player's a member of to be modified without eir consent.
+However, act-on-behalf is defined entirely by custom not rules at the
+moment. Therefore, presumably rule 101 protections on it would be
+defined entirely by custom not rules, and this hasn't come up yet at
+all. I know that Warrigal, in particular, thinks that this protection
+should exist even if it doesn't yet; and there seems to be no game
+custom or past judgements at all with respect to this particular
+question. With game custom and past judgements missing, rule 217 says we
+have to look at common sense, and the best interests of the game. Common
+sense does not seem to give much of an answer here either; mousetrapping
+someone to act on eir behalf is not obviously absurd, but nor is it
+obviously correct. As for the best interests of the game; it's necessary
+to balance scams against mousetraps, so to speak. The problem is that
+either judgement seems plausible; Scamsters having fun is one of the
+charms of Agora, but it's not worth making life too easy for them, and
+the game isn't all scams either; there's legitimate gameplay involved
+too. (Note that the Protection Racket was itself intended as some kind
+of scam, or at least a massive corruption of the judicial system.) In
+short, a question on which the rules draw a blank altogether. I haven't
+seen something like this in Agora beforehand; maybe I should just judge
+UNDECIDABLE. Or FLOYD, despite me not actually wanting that verdict in
+the rules.
+
+The final question is what exactly it is that gives someone the right to
+act-on-behalf. Agreeing to a contract that allows it? Agreeing to an
+amendment that allows it? Having a contract modified to allow it while
+you are a party? This question has come up once before, around the Vote
+Market was modified from majority support for changes to
+without-3-objections. In
+<http://www.mail-archive.com/agora-business@agoranomic.org/msg05818.html>,
+Goethe argues that it is not protective of an individual's interests to allow
+a majority-consent change (foretelling the scam this CFJ is about,
+incidentally); interesting here is that:
+      * e seemed to think that the act-on-behalf change would work, and
+      * it seemed clear that such a change was going too far, in a way,
+        from the point of view of at least one party to the contract
+        (this goes back to the second point).
+It seems likely that in the case of the Vote Market people who supported
+the majority change in question would have been bound by the new
+act-on-behalf clause (if it had passed, which it didn't); as for people
+opposing, the situation didn't come up, but Goethe seemed to think both
+that it would and that it shouldn't. So pretty much a draw here, too.
+
+The scam in question is now over, having been defeated by a counter-scam,
+and I have to make a decision; I judge FALSE, as it seems the most
+appropriate. In the ruleset of today, with the customs of today,
+act-on-behalf is granted by agreeing to a contract, or an amendment to a
+contract, that makes it possible, or at least not objecting during an
+objection period (implicit consent). If someone is mousetrapped into a
+contract or an amendment on it, then act-on-behalf does not work,
+because it was never granted, neither explicitly nor implicitly. (In
+keeping with Goethe's judgement on CFJ 2213, act-on-behalf is not
+granted merely by agreeing to a contract that does not mention it, just
+because it could theoretically in the future be modified.)
+
+========================================================================

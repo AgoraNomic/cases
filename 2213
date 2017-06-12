@@ -1,0 +1,362 @@
+==============================  CFJ 2213  ==============================
+
+    The Patent Title Scamster has been revoked from come.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+Appeal:                                 2213a
+Decision:                               REASSIGN
+
+
+Judge:                                  woggle
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          07 Oct 2008 23:16:44 GMT
+Assigned to ais523:                     09 Oct 2008 03:15:48 GMT
+Judged TRUE by ais523:                  09 Oct 2008 11:43:57 GMT
+Appealed by G.:                         09 Oct 2008 16:19:52 GMT
+Appealed by ais523:                     09 Oct 2008 16:25:12 GMT
+Appealed by root:                       09 Oct 2008 18:32:15 GMT
+Appeal 2213a:                           09 Oct 2008 18:32:15 GMT
+REASSIGNED on Appeal:                   24 Oct 2008 01:17:28 GMT
+Assigned to woggle:                     27 Oct 2008 07:11:40 GMT
+woggle recused:                         29 Oct 2008 19:31:15 GMT
+Assigned to G.:                         30 Oct 2008 08:01:11 GMT
+Judged FALSE by G.:                     07 Nov 2008 04:58:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+So far the only argument AGAINST is that Rule Changes might not be actions.
+
+On Tue, Oct 7, 2008 at 7:05 PM, Ian Kelly <ian.g.kelly@gmail.com> wrote:
+>> "action" is not defined.  answers.com: "Something done or
+>> accomplished; a deed."  Any process with any effect on the Rules, I'd
+>> say, is an action.  Remember, the meaning of the "may" in Rule 2141 is
+>> irrelevant because Rule 2192 uses the exact same word.
+>
+> I think our customary definition is more like this one: "an act that
+> one consciously wills and that may be characterized by physical or
+> mental activity"
+
+With respect to "one consciously wills" and "that may be characterized
+by physical or mental activity": this attempted rule change is no
+different than any other Monster action.  Assuming that Monster
+actions have not unilaterally failed, along with those of partnerships
+and judicial panels, we can assume these requirements are satisfied.
+But then we're reduced to "act", which is just where we started...
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Yes, this case seems to hinge around the meaning of "action"; the scam
+worked if rule changes are actions. The word is not defined in the
+ruleset, and therefore it's common-language meaning is used.
+
+"define:action" on Google gives many results; the only three relevant
+ones (i.e. the ones which are not clearly a different meaning of
+"action") are shown here (most of the others are specialized meanings,
+especially with respect to gambling or legal proceedings, and 'action'
+is not a word that is normally used in the legal sense; there are a few
+other generic definitions but for different meanings, some of which are
+not even nouns):
+      * something done (usually as opposed to something said); "there
+        were stories of murders and other unnatural actions"
+      * carry through: put in effect; "carry out a task"; "execute the
+        decision of the people"; "He actioned the operation"
+      * Something done so as to accomplish a purpose; A way of motion or
+        functioning; A fast-paced activity; A mechanism; a moving part
+        or assembly; : The set of moving mechanical parts in a keyboard
+        instrument which transfer the motion of the key to the
+        sound-making device; Sexual activity ...
+        <en.wiktionary.org/wiki/action>
+Google lists the Wiktionary definition: I also checked dictionary.com,
+which defined the relevant meaning of "action" as "something done or
+performed; act; deed.".
+
+root states "an act that one consciously wills and that may be
+characterized by physical or mental activity" as the definition e
+considers most suitable, but this is clearly a different meaning of
+"action"; dictionary.com lists this definition but gives the following
+examples for its use: "a crisis that demands action instead of debate;
+hoping for constructive action by the landlord." This definition seems
+to be more along the line of activism, "action" as contrasted to
+"words". However, it is not inconsistent with the other definitions; it
+is classifying an action as something that is done as opposed to
+something that is merely talked about, which appears to be the essence
+of an action. In the context of Agora, an action is therefore presumably
+something that modifies the game-state, or which can be responded to, as
+opposed to (for instance) a comment to a-d that merely discusses the
+game and does not cause any changes.
+
+With the meaning that I think is most likely correct (the first one
+listed by Google and Wiktionary, and the second one listed by
+dictionary.com), it is clear that a rule change is in fact an action. As
+corroborating evidence, consider that there are no provisions for
+changing the rules by dependent action at the moment, but there used to
+be, and nobody seems to have objected to the term "dependent action".
+There seems to be no obvious reason why rule changes would not be
+actions where other similar things (such as contract changes) would be,
+and thus no reason why the scam in question failed; therefore, the scam
+in question did in fact succeed in creating a rule called "Scams to fix
+Scams[ters]".
+
+The relevant part of the rule "Scams to fix Scams[ters]" (which as far
+as I know has no ID number yet) is:
+{{{
+      ais523 CAN, MAY and may revoke the Patent Title Scamster from
+      comex by announcement, and is authorized to do so. This takes
+      precedence over all other rules, especially ones which say that
+      Scamster cannot be revoked.
+}}}
+This rule has Power 1, and takes precedence over rule 1922 because it
+explicitly takes precedence and they have the same Power. Therefore,
+"Scams to fix Scams[ters]" allows and authorizes me to remove the patent
+title in question from comex, and provides a mechanism for me to do so.
+Rule 649 secures changes in patent titles by proposal at power 2, but
+this particular change was not made by proposal, so is entirely possible
+at power 1. (It also restricts the means by which patent titles can be
+awarded, but not the means by which they can be revoked; besides, even
+if revocations were treated the same way as awards, the conditions would
+be met, as ais523 was specifically authorized to make the change.)
+
+Treating the typo in the statement of the CFJ as irrelevant here (as it
+does not cause ambiguity), CFJ 2213 is TRUE. (Note that this also means
+that #really-a-cow is no longer a Public Forum, even if it was one in
+the first place, and that I did win by Points on Tuesday, the two other
+parts of the scam.)
+
+========================================================================
+
+Judge ais523's Evidence:
+
+ais523 wrote:
+> Rule 2141 says, in part:
+> {{{
+>       A rule is a type of instrument with the capacity to govern
+>       the game generally.  A rule's content takes the form of
+>       a text, and is unlimited in scope.  In particular, a rule
+>       may define in-game entities and regulate their behaviour,
+>       make instantaneous changes to the state of in-game entities,
+>       prescribe or proscribe certain player behaviour, modify the
+>       rules or the application thereof, or do any of these things
+>       in a conditional manner.
+> }}}
+>
+> Rule 105 says, in part:
+> {{{
+>       Where permitted by other rules, an instrument generally can,
+>       as part of its effect,
+>
+>       (a) enact a rule.  The new rule has power equal to the minimum
+>           of the power specified by the enacting instrument,
+>           defaulting to one if the enacting instrument does not
+>           specify, and the maximum power permitted by other rules.
+>           The enacting instrument may specify a title for the new
+>           rule, which if present shall prevail.  The ID number of the
+>           new rule cannot be specified by the enacting instrument; any
+>           attempt to so specify is null and void.
+>
+>       (b) repeal a rule.  When a rule is repealed, it ceases to be a
+>           rule, and the Rulekeepor need no longer maintain a record
+>           of it.
+>
+>       (c) amend the text of a rule.
+>
+>       (d) retitle a rule.
+>
+>       (e) change the power of a rule.
+> }}}
+>
+> Rule 2192 says, in part:
+> {{{
+>       The Mad Scientist CAN act on behalf of
+>       the Monster to take any action that the Monster may take, and
+>       SHALL act on behalf of the Monster to ensure that the Monster
+>       fulfills all of its duties.
+> }}}
+>
+> CFJ 2002 found that rule 2193 was the Monster, and nobody objected to
+> this at the time. Therefore, rule 2192 implies that the Mad Scientist
+> CAN act on behalf of rule 2193 to take any action that rule 2193 "may
+> take". Rule 2141 lists the actions that a rule "may take", in general,
+> and there is no reason why it would be different for rule 2193 in
+> particular. Therefore, I conclude that it is POSSIBLE for the Mad
+> Scientist to act on behalf of rule 2193 to "modify the rules or the
+> application thereof". Rule 105, which takes precedence, implies that
+> rule changes are only possible as permitted by "other rules", but in
+> this case rules 2192 and 2141 are permitting the change, so there is
+> no problem there; it also enumerates the kind of changes that can be
+> made, and prevents any other sort of change.
+>
+> Rule 2140 is also relevant here, and prevents the power-1 rule 2192
+> from changing the power of or modifying a substantive aspect of a
+> more powerful rule, and also prevents it causing things to become
+> more powerful than 1. It does not, however, prevent rule 2192 (and
+> therefore the Mad Scientist acting on its behalf) creating a Power-1
+> rule.
+>
+> Therefore, I act on behalf of rule 2192 to create a Power-1 rule with
+> title "Scams to fix Scams[ters]", and the following text:
+> {{{
+>       ais523 can create and destroy points by announcement, in
+>       anyone's possession, and change the ownership of points by
+>       announcement.  However, if point holdings are changed in this
+>       way, then 5 minutes later all points are destroyed and a number
+>       of points is created in each player's possession equal to the
+>       number of points they had 6 minutes earlier (i.e. 1 minute
+>       before the change).
+>
+>       ais523 can flip the Publicity of a forum to Foreign by
+>       announcement, as long as that forum was Foreign at some point
+>       within the previous 7 days.
+>
+>       ais523 can repeal this rule by announcement; this rule
+>       explicitly permits this change to the ruleset.
+>
+>       ais523 CAN, MAY and may revoke the Patent Title Scamster from
+>       comex by announcement, and is authorized to do so. This takes
+>       precedence over all other rules, especially ones which say that
+>       Scamster cannot be revoked.
+>
+> }}}
+>
+> Then, I create 100 points in the possession of ais523, then submit the
+> following Win Announcement: {{ais523 has at least 100 points, and is
+> the only player who meets this condition.}} (5 minutes later the point
+> totals will reset themeselves.)
+>
+> Then, I flip the Publicity of #really-a-cow to Foreign.
+>
+> Then, I revoke the Patent Title Scamster from comex.
+>
+> [It is traditional to use such scams to fix their own loopholes. I
+> promise not to create any further rules, or modify any rules, through
+> this scam, except to fix the loophole once I figure out how. This is a
+> word-of-honour promise as if it were a pledge I could just use the
+> scam
+> to get rid of the pledge.]
+>
+> --
+> ais523
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+I intend to call for appeal of CFJ 2213 with 2 support and recommend
+REASSIGN, given the clear and obvious self-interest of the part of the
+judge.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+Hmm... I support this. Ideally I'd like an appeals panel to look at it
+and AFFIRM the judgement, so that it's been looked at by someone who
+isn't interested, but if I end up on the appeals panel I'll be
+REASSIGNing for obvious reasons. I think the judgement is correct,
+though, and suspect a new judge will agree with me.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The caller's argument hinges on the definition of "action", however
+there is another consideration.  What empowers the Rule in question
+to act?  The Caller suggests a combination of R2141, R105, and R2192.
+
+R2141 described Rules in general:
+      A rule is a type of instrument with the capacity to govern
+      the game generally.  A rule's content takes the form of
+      a text, and is unlimited in scope.  In particular, a rule
+      may define in-game entities and regulate their behavior,
+      make instantaneous changes to the state of in-game entities,
+      prescribe or proscribe certain player behavior, modify the
+      rules or the application thereof, or do any of these things
+      in a conditional manner.
+This text is a very descriptive, broad definition.  There's two
+points relevant to this case.  First:  "A rule's content takes
+the form of a text."  In other words, a rule fundamentally *is*
+its text, no more, no less.
+
+Secondly, "In particular, a rule may ... modify the rules or the
+application thereof".  An important question is how to treat the
+"may" in this sentence.  Importantly and with due consideration,
+we SHOULD NOT treat this may as MAY.  If we did, we disempower the
+rules entirely, as it turns into a self-contradiction ("if the
+rules do it, it's not against the rules, even if the rules say
+it is") or tautology ("if the rules say it's not against the
+rules, then this rule says it's not against the rules").  In order
+to be true to the "the Rules are their text and this Rule described
+their empowerment and function" without self-contradiction or
+tautology,  we must infer the "may" to mean that a Rule can do
+something iff it's against the Rules AND iff it is permitted by
+(i.e. contained within) the rules themselves.  In other words,
+with respect to changing the rules the preamble of R2141 says in
+essence:
+
+"If the rules say they may change the rules, they may change the
+rules".
+
+Now the section in R105 says:  "Where permitted by other rules,
+an instrument [a Rule] generally can, as part of its effect
+[change rules].  Here can is taken easily as CAN.  Now, this CAN
+has the qualifier of "where permitted by other rules."  And how
+do rules permit things?  As defined in R2141, by their text.
+Since the sentence says "where permitted", this shows that the
+permission must come from somewhere.  Where?  From other Rules.
+And "from other rules" means from the text of other rules.  Most
+importantly, we cannot construe the lack of a specific prohibition
+into a "permission" in the clause "where permitted".  While Agora
+has as an old tradition "what's not prohibited is permitted", the
+original version of that excluded rules changes, and the current
+version (R101) is specific to players; and in both cases, there
+was an explicit clause in the Rules (not mere silence) that
+enabled the permission; this is not extant for Rules blanket-
+enabling Rules.
+
+So, in sum R105 says:
+
+"If the rules say they can change the rules, they can change the
+rules".
+
+Finally, R2192 says in part "The Mad Scientist CAN act on behalf
+of the Monster to take any action that the Monster may take..."
+and R2193 has been found to be the Monster.  What actions may
+R2193 take?  Well, as discussed above, the "may" of this context
+is not solely MAY but is used in the sense of "the rules may do
+what they themselves permit, where they permit it." So R2192 boils
+down to:
+
+"If the Rules say R2193 can change the rules, R2193 can change
+the rules."
+
+Therefore, in sum, we have:
+R2141:  "If the rules say they may change the rules, they may
+         change the rules".
+R105:   "If the rules say they can change the rules, they can
+         change the rules".
+R2192:  "If the Rules say R2193 may change the rules, R2193 may
+         change the rules [and the Mad Scientist can do it on
+                                 R2193's behalf]."
+
+So, three statements of "If the Rules say...".  And no statements
+where the Rules actually and specifically "say".  FALSE.
+
+========================================================================

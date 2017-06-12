@@ -1,0 +1,66 @@
+==============================  CFJ 2554  ==============================
+
+    Rule 2029 consists of two sentences.
+
+========================================================================
+
+Caller:                                 Rodlen
+
+Judge:                                  allispaul
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Rodlen:                       01 Jun 2009 17:48:46 GMT
+Assigned to allispaul:                  06 Jun 2009 06:53:24 GMT
+Judged TRUE by allispaul:               07 Jun 2009 13:35:37 GMT
+
+========================================================================
+
+Judge allispaul's Arguments:
+
+"Sentence" is defined in the rules as "the judgment in the question on
+sentencing"; since I have full reason to believe that the caller did
+not intend this meaning, I reject it and am thus entitled to use the
+ordinary-language definition, by R754.  A Google search for
+"define:sentence" gives, besides the aforementioned judicial meaning
+and an episode of "The Outer Limits," "a string of words satisfying
+the grammatical rules of language," further specified by the assertion
+that it "must contain a subject and a predicate."
+
+The text of R2029 is:
+                      /\   /\
+                      / \ / \
+                         T
+                        his
+                      Power-4
+               Rule (the first ever)
+                was placed to honor
+           The Agoran  Spirit Of The Game
+           by Goethe, Steve, Murphy, root
+           and OscarMeyr, Scamsters. Look
+           on our works, ye Marvy, but do
+      always Dance a Powerful Dance.  Hail Eris!
+
+R105 states that variation in whitespace in a rule does not constitute
+ambiguity for the purposes of rule-changes, and there is no reason why
+this precedent should change in the simple reading of the rule.  So
+the unusual spacing of the rule is here without effect.  Now, this
+rule contains three grammatically correct strings of text, each
+delimited by a stop character and whitespace.  The only question is
+whether "Hail Eris!" is a sentence (as opposed to, say, a simple
+interjection or a list of things capable of destroying houses).  CFJ
+1736 states that "it seems more natural that the rule itself is
+hailing Eris, in the course of honoring the Agoran Spirit Of the
+Game."
+
+Furthermore, it is not in game custom to hail Eris except in
+appropriate extenuating circumstances.  If these words were an
+imperative sentence, they would impose a requirement on their implied
+subject "you."  It is clear from the aforementioned CFJ and game
+custom that they do not.  Therefore, it is in our best interest if
+this text is ruled interjective.  I rule TRUE.
+
+========================================================================

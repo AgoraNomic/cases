@@ -1,0 +1,86 @@
+==============================  CFJ 2773  ==============================
+
+    Wooble is a player.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Yally:                        01 Mar 2010 19:34:55 GMT
+Assigned to Murphy:                     06 Mar 2010 16:42:41 GMT
+Judged FALSE by Murphy:                 06 Mar 2010 16:44:26 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On Mon, Mar 1, 2010 at 12:43, Geoffrey Spear <geoffspear@gmail.com> wrote:
+
+> I indicate reasonably clearly and reasonably unambiguously that e
+> intends to become a player at that time.
+>
+
+Was it intentional that this is EXACTLY 30 days (to the minute) from the
+time you deregistered? I CFJ, II=2 on the following sentence. Wooble is a
+player. I ask that the judge consider not only eir odd sentence structure of
+registration, but the timing of events. Additionally, e should strive to
+establish some sort of timing precedent.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Wooble's use of "e intends" rather than "I intend" may constitute
+sufficient ambiguity to make this FALSE, regardless of timing.
+
+I recommend that the judge certify the typical practice of
+interpreting Rule 478's last paragraph as "the time in the Date:
+header, except when other headers indicate that that time is
+significantly incorrect", and that no such exception exists in
+this case.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+Here are the date-stamped headers from my receipt of Wooble's
+deregistration, abbreviated for readability, all times on left in UTC:
+
+  18:44:05 Received: from hrndva-mxlb.mail.rr.com
+                       by hrndva-imta06.mail.rr.com
+  18:44:05 Received: from 66.219.50.42 by hrndva-iedge02.mail.rr.com
+  18:44:02 Received: from yzma.clarkk.net by yzma.clarkk.net
+  18:43:39 Received: from mail-ew0-f220.google.com by yzma.clarkk.net
+  18:43:37 Received: by ewy20
+  18:43:37 Received: by 10.216.87.134
+  18:43:17 Date: Sat, 30 Jan 2010 13:43:17 -0500
+
+and from my receipt of eir alleged re-registration (* = later,
+x = earlier, ! = same):
+
+ *18:44:09 Received: from hrndva-mxlb.mail.rr.com
+                       by hrndva-imta07.mail.rr.com
+ *18:44:09 Received: from 66.219.50.42 by hrndva-iedge08.mail.rr.com
+ x18:44:01 Received: from yzma.clarkk.net by yzma.clarkk.net
+ !18:43:39 Received: from mail-wy0-f177.google.com by yzma.clarkk.net
+ *18:43:38 Received: by wyf23
+ *18:43:38 Received: by 10.216.85.2
+ *18:43:18 Date: Mon, 1 Mar 2010 13:43:18 -0500
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+See my gratuitous arguments and evidence.
+
+It's reasonably clear that Wooble intended to test a couple of
+borderline issues, hence reasonable ambiguity exists, hence FALSE.
+
+========================================================================

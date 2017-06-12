@@ -1,0 +1,157 @@
+From nomic-official-owner@teleport.com Sun Mar 12 18:34:46 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id SAA27607; Sun, 12 Mar 1995 18:34:44 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id QAA05702 for nomic-official-outgoing; Sun, 12 Mar 1995 16:40:15 -0800
+Received: from mizar.astro.indiana.edu (mizar.astro.indiana.edu [129.79.160.43]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id QAA05661 for <nomic-official@teleport.com>; Sun, 12 Mar 1995 16:40:05 -0800
+Received: from poverty by mizar.astro.indiana.edu with uucp
+	(Smail3.1.28.1 #7) id m0rnyB0-0001RfC; Sun, 12 Mar 95 19:40 EST
+Received: by poverty.bloomington.in.us (V1.17-beta/Amiga)
+	  id <2bd2@poverty.bloomington.in.us>; Sun, 12 Mar 95 19:35:16 EST5
+Date: Sun, 12 Mar 95 19:35:16 EST5
+Message-Id: <9503130035.2bd2@poverty.bloomington.in.us>
+From: kelly@poverty.bloomington.in.us (Kelly Martin)
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 751 (Rule 1438 can only be interpretated...)
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+			 JUDGEMENT OF CFJ 751
+	       (Rule 1438 can only be interpretated...)
+======================================================================
+
+  Date:    13 Mar 1995 00:35 UTC
+
+  Judgement:  FALSE
+
+  Judge:   Steve
+
+  Eligible to Judge:  
+	Andre, Blob, Coren, Dave, Elde, Einstein, elJefe, Jeffrey,
+	JonRock, Kelly, KoJen, Michael, Oerjan, Pascal, Steve, Vlad
+
+  Caller:  TAL
+
+  Barred:  Swann, Vanyel, Chuck
+
+  Scorekeepor:
+    Steve receives 3 Points for timely Judgement
+
+----------------------------------------------------------------------
+
+History:
+  Called Thu, 09 Mar 95 18:06:52 WET by TAL
+  Assigned Thu, 09 Mar 1995 22:15 UTC to Steve
+  Judged TRUE Mon, 13 Mar 1995 11:08:08 +1100 (EST) by Steve
+  --> Steve receives 3 Points
+
+======================================================================
+
+Statement:
+
+"Rule 1438 can only be interpretated in such a way, that no Rule
+can lead to a Punitive Point Loss"
+
+Players barred: Swann, Vanyel, Chuck
+
+----------------------------------------------------------------------
+
+Arguments:
+
+Note: if Judged TRUE the Judge has the right to issue an Injonction,
+to annotate Rule 1438.
+
+Rule 1438 defines a Punitive Point Loss (PPL) in a negative way:
+"Punitive Point Losses are those losses *not* due to:, etc."
+
+One of the excluded losses is
+" vii) Rules that also adjust the number of Blots a Player has."
+
+Now suppose that a Rule X imposes a point loss on a Player and that
+such a loss is not already covered by one of the other exceptions.
+
+By 1438 that Player will then
+"...receive Blots equal to half the number of Points lost, rounded
+down."
+
+Hence Rule X will in that case lead to an adjustment in the number of
+Points a Player has.
+
+But in that case Rule X falls under the exclusion clause vii) quoted above.
+Consequently, that loss can not be a PPL.
+
+Quod Erat Demonstrandum.
+
+----------------------------------------------------------------------
+
+References:
+
+Rule 1438/0 (Mutable, MI=1)
+Blots Due to a Punititve Point Loss
+
+      A Punitive Point Loss is a point loss that results in gaining
+      Blots.
+
+      Whenever a Rule calls for a Punitive Point loss, the Player
+      losing Points will receive Blots equal to half the number of
+      Points lost, rounded down.
+
+      Punitive Point Losses are those losses *not* due to:
+
+         i) Voluntary transfers of Points to any other Player or any
+            other Nomic Entity.
+        ii) Voluntary destruction of a Player's own Points.
+       iii) The outcome of a Vote on a Proposal
+        iv) Adjustments made as part of a correction in the Game
+            State.
+         v) The reset of scores due to the end of a Game.
+        vi) A score change that a Rule specifically designates as
+            Non-Punitive.
+       vii) Rules that also adjust the number of Blots a Player has.
+
+      Further, a Point Loss ceases to be Punitive when the Rule
+      mandating the Loss is amended to explicitly state either of the
+      following:
+
+         i) The Rule does not impose a Blot penalty.
+        ii) The Rule does impose a Blot penalty, the amount of the
+            Blot penalty, and the Player responsible for reporting
+            those Blots to the Tabulator.
+
+      Players Legally Responsible for reporting Punitive Point losses
+      to the Scorekeepor also have the Legal Responsibility to report
+      Blots due to those Punitive Point losses to the Tabulator.
+
+      This Rule shall remain in effect until there are no longer any
+      Punitive Point Losses defined in the Ruleset, at which point
+      this Rule will repeal itself.
+
+History:
+Created by Proposal 1459, Mar. 1 1995
+
+======================================================================
+
+Judgment: FALSE
+
+TAL makes a simple mistake in his argument, by neglecting to note
+the force of the word "also" in clause (vii) in Rule 1438. This
+clause states that "Punitive Point Losses are those losses *not*
+due to ... (vii) Rules which *also* adjust the number of Blots a
+Player has."
+
+TAL's argument is that Rule 1438 itself falls under this description.
+But this is not so; while Rule 1438 does adjust the Blots of Players,
+it does not itself authorize any Punitive Point Losses. Hence it
+it is not a Rule of the type specified in clause (vii).
+
+======================================================================
+
+--
+kelly martin                                 <kelly@poverty.bloomington.in.us>
+
+    Usenet is like a herd of performing elephants with diarrhea--massive,
+     difficult to redirect, awe-inspiring, entertaining, and a source of
+	 mind-boggling amounts of excrement when you least expect it.
+			    --Gene Spafford, 1992

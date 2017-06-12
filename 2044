@@ -1,0 +1,54 @@
+=========================  Criminal Case 2044  =========================
+
+    comex violated rule 2185 by failing to assign a judgement to an open
+    and applicable judicial question of CFJ 2006 as soon as possible.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 omd
+
+Judge:                                  OscarMeyr
+Judgement:                              UNIMPUGNED
+
+========================================================================
+
+History:
+
+Called by ais523:                       25 Jun 2008 12:55:38 GMT
+Defendant omd informed:                 26 Jun 2008 03:12:59 GMT
+Pre-trial phase ended:                  03 Jul 2008 03:12:59 GMT
+Assigned to OscarMeyr:                  04 Jul 2008 06:38:22 GMT
+Judged UNIMPUGNED by OscarMeyr:         04 Jul 2008 13:55:45 GMT
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+R2185 addresses Foreign Relations with other nomics, and contains
+nothing that applies to CFJs.  In CFJs 2043 and 2044, I trivially
+rule UNIMPUGNED.  (The Caller probably mistyped 2158.  But the CFJ
+statement is what it is.)
+
+========================================================================
+
+Judge OscarMeyr's Evidence:
+
+Rule 2185/0 (Power=1)
+Foreign Relations
+
+       Recognition is a foreign nomic switch, tracked by the
+       Ambassador, with values Unknown (default), Protected, Friendly,
+       Neutral, Sanctioned, Hostile, and Abandoned.
+
+       When a foreign nomic becomes a Protectorate, its Recognition
+       becomes Protected.  When a foreign nomic ceases to be a
+       Protectorate, its Recognition becomes Unknown.  A foreign
+       nomic's Recognition CANNOT change to or from Protected in any
+       other way.
+
+       The Ambassador CAN, without objection, flip a foreign nomic's
+       Recognition to any value (subject to the above restriction).  E
+       SHALL inform that nomic of the change as soon as possible.
+
+========================================================================

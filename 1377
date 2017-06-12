@@ -1,0 +1,165 @@
+==============================  CFJ 1377  ==============================
+
+    The passage of Proposal 4318 created at least one legal VE debt.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 t
+Barred:                                 Crito
+Barred:                                 Taral
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           28 May 2002 03:03:17 GMT
+Assigned to root:                       28 May 2002 04:48:27 GMT
+Judged TRUE by root:                    04 Jun 2002 01:57:01 GMT
+Appealed by Taral:                      04 Jun 2002 02:31:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Proposal 4318 took effect on our about 27-May-2002, and reads as follows:
+
+   ALL PLAYERS ARE BILLED FOR THEIR CURRENT HOLDINGS OF VOTING ENTITLEMENTS,
+   INDULGENCES, AND PAPYRI.
+
+   ALL VOTING ENTITLEMENTS, INDULGENCE, AND PAPYRI OWNED BY ORGANIZATIONS ARE
+   DESTROYED.
+
+   THE PAYROLL CLERK IS ORDERED TO ASSESS A 50% TAX ON STEMS.
+
+Agruments for CFJ 1:
+
+Rule 1479 reads:
+      Whenever a Rule requires a Player to bill an entity for one or
+      more Properties, that entity shall incur a debt to the Bank for
+      those Properties, and the named Player shall, as soon as
+      possible, post a public notice of the debt.
+
+which does not specifically define that a debt is created when "billing"
+is ordered by a Proposal.  However, it is clear that Proposals may create
+changes in the gamestate if the Rules generally allow.  For example, past
+Proposals have specifically detroyed currencies, even though the
+Rules do not state "Proposals may destroy currencies."
+
+The statements in Proposal 4318 are clearly Legislative Orders.  R1981
+states "(b) The effect of adopting a Proposal which contains Orders is
+to execute those Orders."  This does not require the agency of Players---
+the orders are simply executed.
+
+Legislative Orders should not be lightly ignored or interpreted to be
+ineffective.  They make use of the primary mechanisms of the Rules
+(voting) in order to affect changes that are necessary for play, but
+could not otherwise occur.
+
+So these Orders, which were offered for voting in a clear manner, must be
+executed by means allowed within the Rules, even if those means are not
+specifically defined (as long as they are not explicitly forbidden).
+
+While the definition of "bill" as performed by Proposals is not specifically
+defined, the definition of "billing" provides a commonsense, reasonable,
+and not forbidden method for carrying out those orders, by assuming that the
+Proposal performs the Billing.
+
+To suggest that an additional agency (for example, a Player) is required
+to be authorized to do the billing and thus create the debt
+is to fly in the face of the idea of Legislative Order, which is
+a method of changing the gamestate using allowable (but not necessarily
+defined) methods.
+
+CFJ 2:
+
+As above, the Orders to Tax should be treated directly.  R1853 allows
+taxation, but R1917 requires an Intent to Levy be published.  However,
+it is reasonable to suppose, in this case, that the Proposal above
+served as a reasonable notice/intent to levy and therefore reasonably
+satisfied the requirement in 1917.  The Order requires this levy be
+conducted ASAP, which is impossible if an additional intent is required.
+The way out of this problem is to interpret the Proposal, which has
+been public for a considerable amount of time, as an implicit intent.
+
+========================================================================
+
+Judge root's Arguments:
+
+  "The passage of Proposal 4318 created at least one legal VE debt."
+
+The caller suggests that the sentence of P4318 which reads:
+
+       ALL PLAYERS ARE BILLED FOR THEIR CURRENT HOLDINGS OF VOTING
+       ENTITLEMENTS, INDULGENCES, AND PAPYRI.
+
+constitutes a Legislative Order, and as such causes the proposal
+to bill all the players.  However, Rule 1793 reads, in part:
+
+       An Order is a command, executed by a Player and directed to some
+       entity requiring that entity to perform exactly one action, or
+       to refrain from performing one or more actions.
+
+If we assume that the action required by the Order is that of billing
+each player, then there is no entity to which the Order is directed.
+I reject the notion that the Order is directed to the proposal itself;
+Rule 1891 establishes that a Legislative Order is deemed to be
+executed by the proposal containing it, but there is no reason to
+believe that the "default target" of a Legislative Order is the
+Proposal (NB: executing an order and obeying it are not the same thing;
+the execution of the order is merely the action that causes its legal
+mandate to be realized).
+
+Likewise, if we assume that the action required by the Order simply
+that of transferring currencies to the Bank, and that the order is
+directed at all Players, we again fall short of R1793, which does not
+provide for Orders with multiple targets.
+
+The provision, then, is not a Legislative Order, but merely a regular
+provision.  This does not mean it is without effect, however.  Rule
+594 reads, in part:
+
+       When a Proposal is adopted, its Power becomes equal to its
+       Adoption Index, and the provisions contained in the text of the
+       Proposal are implemented to the maximal extent permitted by the
+       Rules.
+
+and later on:
+
+       For the purpose of the Rules, the application of an adopted
+       Proposal is a legal procedure for changing Nomic Properties.
+
+Debts are Nomic Properties, so a provision of a proposal is capable of
+creating, modifying them, or destroying them.  It does not need to be
+a Legislative Order.
+
+Proper billing, as defined by Rule 1479, involves some Player being
+equired to bill an entity for one or more Properties.  In this case,
+the "biller" does not exist, so the billing employed by the proposal
+cannot be the same billing action defined by R1479.
+
+However, we can easily interpret the provision naturally.  It seems
+reasonable enough that by "billing" each Player, the provision would
+simply require each Player to transfer the specified properties.
+Since no recipient is indicated for the transfers, we can infer from
+typical Agoran usage that the intended recipient is the Bank, as it
+would be for "normal" billing.
+
+Therefore, the provision obligates each Player to transfer properties
+to the Bank, which by Rule 1596 is the definition of a debt to the
+Bank.  Since at least one player had VEs in eir possession at the time
+the proposal was adopted, I Judge the statement TRUE.
+
+========================================================================
+
+Appellant Taral's Arguments:
+
+I call for the Appeal of this Judgement (CFJ 1377). There is no
+indication in the Rules that debts are Nomic Properties. In fact, a
+Nomic Property is, by definition, a property with a value. It is quite a
+shoehorn to make debts (which are obligations) fit this particular mold.
+
+========================================================================

@@ -1,0 +1,45 @@
+==============================  CFJ 1470  ==============================
+
+    If a player attempts to perform multiple fee-based actions by paying
+    a single amount of kudos, but one of the actions fails, then they
+    all fail.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       05 Oct 2003 07:29:13 GMT
+Assigned to Taral:                      06 Oct 2003 00:05:56 GMT
+Judged TRUE by Taral:                   15 Oct 2003 08:11:14 GMT
+Appealed by Murphy:                     18 Oct 2003 05:06:06 GMT
+
+========================================================================
+
+Judge Taral's Arguments:
+
+    True because an attempt to group Fees in the way specified causes
+    the whole attempt to fail.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I argue that Rule 1941 should be interpreted as follows:
+
+       a) A message of the form "I perform this action twice; both are
+          fee-based" can be successful.
+
+       b) A message of the form "I perform this action by paying X Kudos"
+          is implicitly an announcement that the action is fee-based.
+
+       c) These can be combined; a message of the form "I perform this
+          action twice by paying X Kudos" can be successful.
+
+========================================================================

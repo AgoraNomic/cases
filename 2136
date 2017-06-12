@@ -1,0 +1,96 @@
+==============================  CFJ 2136  ==============================
+
+    CFJ 2050 was filed by ehird
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          14 Aug 2008 05:27:56 GMT
+Assigned to BobTHJ:                     15 Aug 2008 07:08:32 GMT
+BobTHJ recused:                         15 Aug 2008 16:49:10 GMT
+Assigned to Murphy:                     26 Aug 2008 23:31:15 GMT
+Judged TRUE by Murphy:                  08 Sep 2008 00:38:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First, CFJ 2050 cited CFJ 1895.  The issue in CFJ 1895 was basically
+whether the Rules can act as if one person (Zefram) held the
+"position" of being another (BobTHJ).  That is, the Rules want to act
+as if Zefram IS BobTHJ.  But this brings up issues, such as "if we
+assume that Zefram is BobTHJ, whom do we assume is Zefram?"  There is
+no such issue with one person *causing another* to act, where all we
+are pretending is that a different person sent a message.
+
+Second, Judge Wooble claimed that "CFJ 2050 was filed by ais523, on
+behalf of ehird."  It seems that e was suggesting that the
+on-behalf-of-ehird bit was just a sort of explanation of the cause of
+the CFJ, as I might initiate criminal CFJs 'on behalf of' the AFO',
+because it is not able to initiate them: there is no legal
+significance of ehird in relation to that CFJ.  I'm not sure, however,
+if that is actually what e meant; that bit of the judgement was
+somewhat unclear.
+
+Third, the precedent of CFJs 1833-5, the precedent of earlier CFJs,
+and game custom is undeniably that a person can indeed cause another
+person to act via a prior arrangement, whether the latter person is a
+partnership or of a biological nature.
+
+Fourth, as I said, CFJ 2050 cited CFJ 1895 as its reasoning.  However,
+Judge Goethe's arguments in CFJ 1895 specifically and repeatedly
+mention that executorship is a valid construct!
+
+Now, said arguments imply that when one person acts on behalf of
+another, the latter's "telos" did not actually cause the action to
+take place, but rather it is just a legal fiction wherein we are
+pretending that e did.  There is no such thing as a "player object" in
+Agora (compare to, say, B).  If we recognize avatar theory, then if I
+normally act alone, but you act on behalf of me, two different persons
+caused actions to take place, but a single avatar is considered by the
+Rules to have performed all of my actions.  The existence of such a
+"player object" is easy to infer into existence.
+
+In Agora, however, I actually sent both emails, or at least that's
+what the legal system is required to pretend, and this is problematic.
+ A legal fiction of this magnitude really ought to be explicitly
+described, but there has traditionally been no text in the Rules to
+the effect that such a fiction exists.  (You could argue now that the
+partnership rules imply this, but that was not the case at the birth
+of the Pineapple Partnership.)  Nevertheless, very, very strong game
+custom holds that executors work, and there is no real argument
+brought up now by anyone to overturn such a (by now) long-standing
+precedent.
+
+And then again, these analogies are so far removed from the actual
+text of the Rules that I would not call myself unduly negligent if I
+missed ten other interpretations of how messages manage to change
+their authors on the way from computers to the list.
+
+Finally, since I am going to advocate the use of git for reports, I
+feel that it is appropriate to be a git in this message.
+Specifically, "whom do we assume is Zefram?" is grammatically
+incorrect: it should be "who do we assume is Zefram?"
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Long-standing game custom holds that "X CAN do Y on behalf of Z"
+creates the legal fiction that Z does Y (except when an inquiry
+explicitly attempts to address the on-behalf-of mechanism, which the
+statement of 2136 does not).  TRUE.
+
+========================================================================

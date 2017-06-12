@@ -1,0 +1,60 @@
+==============================  CFJ 2109  ==============================
+
+    A non-player can violate a rule of Agora.
+
+========================================================================
+
+Caller:                                 OscarMeyr
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by OscarMeyr:                    22 Jul 2008 22:08:48 GMT
+Assigned to Murphy:                     25 Jul 2008 07:22:00 GMT
+Judged TRUE by Murphy:                  25 Jul 2008 08:11:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I am arguing for FALSE, of course.  I base this on the following rule
+excerpts:
+
+R101:
+         iv. Every person has the right to refuse to become party to
+             a binding agreement.  The absence of a person's explicit,
+             willful consent shall be considered a refusal.
+
+R869:
+       Citizenship is an entity switch with values Unregistered
+       (default) and Registered, tracked by the registrar.  A player is
+       an entity whose citizenship is Registered.
+
+A plain reading of these rules shows that a player of Agora has, by
+definition, explicitly consented to become party to the rules of
+Agora.  A non-player, therefore, is not a party to the rules.
+
+Also, the normal meaning of the term "player" is a participant in a
+game.  Someone who has not joined a game is not bound by the rules of
+that game.  While a non-particpant can act in a manner contrary to
+the rules of the game, such actions cannot be treated as violations
+of those rules.
+
+I ask the H. CotC to stay CFJ 2102 pending the resolution of this CFJ.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The rules do not explicitly specify the extent of their jurisdiction,
+but since they do explicitly allow non-players to participate while
+remaining non-players (e.g. initiating judicial cases), I believe it
+makes the most sense to treat such participation as implying
+acceptance of the rules' jurisdiction over those actions and the
+person performing them.
+
+========================================================================

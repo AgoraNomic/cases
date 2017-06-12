@@ -1,0 +1,48 @@
+==============================  CFJ 2166  ==============================
+
+    This is a CFJ.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           16 Sep 2008 23:09:17 GMT
+Assigned to ais523:                     23 Sep 2008 08:29:02 GMT
+Judged FALSE by ais523:                 26 Sep 2008 17:09:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This I the a CFJ. statement: is on CFJ
+
+[ed:  this was interpreted as a reasonably clear scrambling
+ of "I CFJ on the statement: This is a CFJ."]
+
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge this FALSE by the precedent of CFJs 2086-2087. However, I
+suggest appealing this CFJ if those CFJs are overturned on appeal; this
+CFJ and those two should all have same judgement.
+
+Also, a CFJ saying "This is a CFJ" is a bad way to test whether an
+action works or not, as my judgement above merely fails if the CFJ in
+question does not exist. (In my opinion, it does, by the way; there was
+only one reasonable interpretation of the message in question.) Probably
+it's easier to either use a separate CFJ to test for the existence of
+the original, or to post a hypothetical (in this case, the simplest way
+IMO would have been to CFJ on the statement "If a person posts {{This I
+the a CFJ. statement: is on CFJ}} to a public forum, then a CFJ is
+created as a result.").
+
+========================================================================

@@ -1,0 +1,132 @@
+==============================  CFJ 2221  ==============================
+
+    Wooble caused the Reformed Bank of Agora to transfer 3 crops to em a
+    moment ago.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       13 Oct 2008 16:27:40 GMT
+Assigned to omd:                        16 Oct 2008 05:49:16 GMT
+omd recused:                            30 Oct 2008 08:09:05 GMT
+Assigned to G.:                         02 Nov 2008 16:13:31 GMT
+Judged FALSE by G.:                     08 Nov 2008 20:40:04 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I destroy 77 chits in my possession.
+
+>From the RBoA Contract:
+6. A person CAN, by announcement, destroy a number of Chits in eir
+possession equal to the exchange rate of a currency times the Withdraw
+Factor (rounded up) as long as the Bank possesses at least one of that
+currency. Upon doing so one unit of that currency is transferred from
+the Reformed Bank of Agora to that person.
+
+EXCHANGE RATES & ASSETS
+Currency     Rate       Qty
+---------------------------
+1 crops        70        17
+3 crops        70         3
+8 crops        70        27
+
+My withdraw factor is (I believe) 1.1.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+H. Caller Wooble,
+
+On CFJ 2221, what's the argument?  That you didn't specify which currency?
+That you didn't have 77 chits?  Or something else?
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+E didn't specify which currency (and 77 chits was only enough to give
+em 1 crop, but it matched multiple exchange rates).
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First, a principle.  Without going into great detail on semantics and
+theories of actions, I find that the boundaries of "specification of action"
+are fairly flexible within the game.  However, within that range, I find
+that if the Rules state "A player can do X in order to do Y", then "doing
+X in order to Y" is a substantially different action then just "doing X"
+which might happen to lead to Y.  This principle is within the bounds of
+reasonable communication and the good of the game (and is not countermanded
+in the rules as far as I am aware).
+
+This distinct "X in order to Y" action exists not just in the phrase "X
+in order to Y" but also in reasonable permutations that are sufficiently
+direct, including "A player may X, immediately thereafter causing Y"
+such as is found in the contract clause in question.  I find that a
+contract clause that has two adjacent sentences specifying X->Y is
+sufficiently direct to be an "X in order to Y" type of compound action.
+
+So, if a player may "X in order to Y" by announcement, and just says
+"I do X" without noting Y, what happens?  Here are three possible cases:
+
+1.  Doing X always triggers Y, doing X without triggering Y is impossible,
+and there is only one way to do Y.  In this case, it is enough to specify
+"I do X" and Y follows automatically, as leaving out Y creates no
+ambiguity.
+
+2.  There are multiple {Y}s, in other words, it is possible to:
+    a.  Do X in order to Y1.
+    b.  Do X in order to Y2.
+    c.  Do X in order to Y3.
+In this case, merely specifying "I do X" is insufficient communication and
+has no effect; it is equivalent to saying "I vote 5000 without specifying
+the vote value.  It is not, in particular, translated to "I do X to do all/
+each of {Y1..Y3}" therefore allowing all of Y1..Y3 to happen due to one
+performance of X.  Here, X is not done and none of {Y} happen.
+
+3.  However, the third possibility is a special case of #2:
+    a.  Do X in order to Y0 -> Null Y -> do X "for its own sake"
+    b.  Do X in order to Y2.
+    c.  Do X in order to Y3.
+In this case, it is generally possible to do X "for its own sake" without
+any triggering Y2etc.  In this case, any specification "I do X" without
+an explicit "in order to {Y}" will in fact cause X to happen, but we should
+prima facie assume the null hypothesis, that X is done without triggering
+any of {Y}.  The reason for assuming this is that it is not for the good
+of the game to require players to specify all possible motives and
+consequences for doing X, some of which they might not be aware of; if
+they say "I do X" without a qualifier that it is for one of {Y}, then they
+do X and no {Y} happens.
+
+In this case, it is possible for Wooble to destroy 77 chits and receive no
+return.  R2166 permits players to "generally" destroy assets in their
+possession, and the backing document (contract) does not forbid it.
+Therefore, this is possibility #3.  The fact that Wooble quoted a passage
+of a contract clause and contract information which gives a multiplication/
+justification for that number was not enough to specify "that currency" (the
+fact that the contract clause specifies "that currency" in the latter half
+of the clause makes it sufficiently reasonable to assume that a currency
+is required to be indicated, even though the first part of that clause is
+unclear on that fact).
+
+Therefore Wooble destroyed the chits, but did not receive a return.  It is
+possible that this was not foreseen in the contract and might be readjusted
+in equity, but as an Inquiry case, FALSE.
+
+========================================================================

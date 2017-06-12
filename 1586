@@ -1,0 +1,137 @@
+==============================  CFJ 1586  ==============================
+
+    The text in the most recent Proposal Pool Report, purporting to be
+    Proposal 06-017 ("Fixing Your Turn"), is a Proposal.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 root
+Barred:                                 OscarMeyr
+
+Judge:                                  arkestra
+Judgement:                              
+
+
+Judge:                                  Manu
+Judgement:                              
+
+
+Judge:                                  Sherlock
+Judgement:                              
+
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           05 Apr 2006 13:50:55 GMT
+Assigned to arkestra:                   03 May 2006 02:33:46 GMT
+arkestra recused:                       17 May 2006 02:33:46 GMT
+Assigned to Manu:                       05 Jun 2006 08:53:48 GMT
+Manu recused:                           16 Jun 2006 21:24:38 GMT
+Assigned to Sherlock:                   18 Jun 2006 23:46:43 GMT
+Sherlock recused:                       02 Jul 2006 23:46:43 GMT
+Assigned to Taral:                      23 Jul 2006 06:45:21 GMT
+Judged TRUE by Taral:                   02 Aug 2006 23:31:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Proposal 4855 was vetoed by the Speaker.  By R2019, after a veto, the Assessor
+"places a copy" of that proposal in the proposal pool.
+
+This copy is not the same proposal as the original, which was voted on already
+(and had to fail quorum in order to trigger this placement).  While the
+Proposal is a "copy", there are at least some properties that differ from the
+original.  It has a different number and is therefore a distinct entity (CFJ
+1358).  It is democratic, it has a different AI then when it was voted on.  So
+it may have a different proposer and still be a "copy" of the proposal.
+
+By definintion in R1483 (why is that only power 1?), a proposal is made by
+publication with clear indication that the publication become a proposal.
+
+CFJ 1:  The "new copy" was not published in the assessor's announcement that
+claimed to add it to the pool. So the first argument is that the Assesor's
+attempt to "place a copy" of the proposal did not create a proposal, because
+no such document was published.
+
+Later, a copy appeared in the proposal pool, and by happenstance the Promotor
+is currently the assessor.  However, at that time there was no clear
+indication that the text should "become" a proposal (it was assumed to be one
+already), so it may not have worked.
+
+CFJ 2:  While "Proposer" is mentioned in several places in the ruleset, it is
+nowhere explicitly defined, but R1483 gives a strong indication that it is the
+submitter of the proposal that is the proposer.
+
+In any case, if a published submission is what creates the copy, it was
+created by root and not OscarMeyr.  It is tempting to read R2019 (the veto
+mechanism) as overriding R1483 (proposal definitions) and keeping the original
+proposer "intact", as R2019 is of higher power. But I am arguing that there is
+no conflict, I am saying that, had root published it correctly as assessor, e
+would have satisfied both Rules if it assumed that, since e was the one who
+published the copy, e was the proposer.
+
+========================================================================
+
+Caller's Evidence:
+
+Assessor's announcement of quorum failure due to veto, and attempt to place a
+copy of the proposal:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2006-April/00
+2602.html
+
+First publication of the copy "in the pool":
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2006-April/00
+2603.html
+
+Rule 2019/5 (Power=2)
+The Speaker's Veto
+
+      The Speaker may veto an Ordinary Proposal in its voting period
+      by announcement.  Whenever a proposal is vetoed, its quorum is
+      set to the current number of eligible voters on that proposal
+      plus one, other rules governing quorum notwithstanding.
+
+      As soon as possible after a vetoed proposal fails quorum, the
+      Assessor shall place a copy of that proposal to the Proposal
+      Pool.  When e does so, that copy shall become distributable and
+      democratic, and its adoption index shall be increased by one.
+
+      The Speaker may Rubberstamp an Ordinary Proposal in its voting
+      period by announcement.  Quorum for a rubberstamped ordinary
+      proposal is three, other rules governing quorum nonwithstanding.
+
+Rule 1483/12 (Power=1)
+Definition of Proposals
+
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
+
+      A legislator submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal.  As soon as
+      possible afterward, the Promotor shall add this proposal to the
+      Proposal Pool.
+
+      Before the Promotor distributes a proposal, its proposer may
+      modify its adoption index by announcement.  The default adoption
+      index of a proposal is one.
+
+      All players are legislators.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Based on the spirit of the game, I'm going to draw a distinction
+between "submit a proposal" (R1483) and "place a proposal in the
+pool". R2019 also has clear precedence, so there is no additional
+conflict to consider.
+
+========================================================================

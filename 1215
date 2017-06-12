@@ -1,0 +1,225 @@
+==============================  CFJ 1215  ==============================
+
+    If we post to a Public Forum a message in the form "If and only if t
+    is standing up at the time we wrote this message, we transfer 10 VTs
+    to t.", and t is indeed standing up at the time we wrote the
+    message, and if there are no general conditions preventing any
+    transfer of 10 VTs (such as a lack of funds), then 10 VTs are
+    transferred from us to t.
+
+========================================================================
+
+Caller:                                 Wes
+
+Judge:                                  lee
+Judgement:                              
+
+
+Judge:                                  Chuck
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wes:                          14 May 2000 21:30:53 GMT
+Assigned to lee:                        15 May 2000 20:10:29 GMT
+lee recused:                            20 May 2000 04:48:05 GMT
+Assigned to Chuck:                      20 May 2000 13:09:29 GMT
+Judged FALSE by Chuck:                  27 May 2000 12:58:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+> You can't point a gun at someone and declare, "If you are evil, I
+> hereby shoot you" and have the gun fire if and only if the person is
+> evil.  Why should speech acts be subjected to a different analysis?
+
+On the other hand, if we call our stockbroker and say "if and only if
+we have not already bought shares of this stock in the last day or two,
+we want to buy X number of shares."
+
+This way, if we leave this message on his office voicemail, home answering
+machine, pager voicemail and cellphone voicemail, we will only get X
+shares of the stock, rather than 4X shares of the stock.
+
+One may argue that in this case, the stockbroker is atually performing
+the action rather than the caller. We disagree. One never says that
+"one's stockbroker bought shares of a stock". One says "we bought shares
+of a stock". Actions which require cooperation on the part of a third
+party are still refered to as actions performed by the instigating
+agent. In fact, if one is not familiar with the nature of buying stocks,
+one might not even know that the action was not performed directly. It
+is not obvious to an uninformed observer.
+
+Agora is in a similar situation. When we post to a Public Forum that we
+transfer some Currency, in one way we are directly performing an action.
+The legal fiction is that the Currency automagically transfers from one
+account to another without any intervention whatsoever.
+
+The reality, evident to those actually in the situation rather than some
+spectators, is that what we are really doing is instructing the Currency
+Recordkeepor to adjust some numbers for us. Because we are, in reality,
+giving instructions to an imperfect agent, there is the potential for various
+sorts of miscommunications, thus conditional messages like we constructed
+above are not only necessary, but logical and consistant with the current
+legal situation. Of course, such instructions are only meaningful if the
+cooperating agent (the Recordkeepor) can determine without question the
+truthfulness of the condition. Otherwise, the statement ceases to be a
+simple action and becomes more akin to Kelly's example where the action's
+state of fulfullment is uncertain.
+
+There is also the simple fact that, as Kelly pointed out, actions in the
+context of Agora only have meaning as provided by the Rules. The Rules
+provide a specific effect for those statements made in the form "We
+transfer X Currency to Y". Since Agora furthermore complies with the
+basic function of the English language, and since no restrictions are
+put upon the use of additional language constructs, and since the Rules
+do specifically permit the unrestricted, one can embed this sort of a
+statement within a conditional statement, so long as the conditional
+statement complies with the linguistic rules of the English language.
+
+Thus, for a couple of different reasons, statements of a conditional
+nature would be perfectly effective.
+
+========================================================================
+
+Judge Chuck's Arguments:
+
+There are a number of issues to be addressed in this CFJ.  Some of
+these will be (correctly) seen to be trivial by the reader, but are
+addressed in order to properly evaluate the CFJ, to forestall
+questions about the correctness of this CFJ on those grounds, and
+to make some points which are relevant to subsequent issues.
+
+1. Whether "I transfer 10 VTs to t", posted to a Public Forum,
+constitutes a Transfer Order.
+
+Rule 1598 states, in part,
+
+      A Transfer Order is an Order requiring the Recordkeepor of a
+      Currency to note the transfer of units of that Currency from one
+      entity to another.
+
+Rule 1793 states, in part,
+
+      An Order is a command, executed by a Player and directed to some
+      entity requiring that entity to perform exactly one action, or
+      to refrain from performing one or more actions.
+
+It is not immediately clear from the Rules and the sentence posted,
+that anyone is required to do anything, or that the statement is
+directed to anyone in particular.  However, there is
+a very strong Game Custom that this does constitute a Transfer
+Order.  It is therefore reasonable to interpret this to implicitly
+be directed to the VT Recordkeepor, and to require em to note the
+transfer of 10 VTs to t.  Therefore, I find that (as long as other
+requirements for valid Transfer Orders are satisfied) such a
+sentence constitutes a valid Transfer Order.
+
+
+2. Whether "We transfer 10 VTs to t", posted by Wes to a Public Forum,
+constitutes a Transfer Order.
+
+Rule 1598 also states, in part,
+
+
+                          A valid Transfer Order specifies exactly one
+      source entity...
+
+While it is sorely tempting to find that Wes' use of "we" indicates a
+plural, and thus does not specify exactly one source entity, once
+again Game Custom compels us to accept Wes' use of the royal "we" as
+a reference to emself, since it has been so accepted in the past.  It
+should be noted that the statement of this CFJ specifies that the
+hypothetical message is "in the form" shown.  I take this to mean
+that the hypothetical message consists *only* of the text quoted in
+the CFJ.  If additional text were present (such as something to
+indicate that the message is the product of a committee), it might
+alter this conclusion.  Thus, "We transfer 10 VTs to t", posted
+by Wes, and in the absence of any other conditions which would
+invalidate it, constitutes a valid Transfer Order.
+
+
+3. Whether "If we have not already done so this Nomic Week, we
+transfer 10 VTs to t", posted by Wes, and if e had not already
+made such a transfer this week, constitutes a Transfer Order.
+
+Is this a command "executed by a Player and directed to some
+entity requiring that entity to perform exactly one action" and,
+if so, does it require "the Recordkeepor of a Currency to note the
+transfer of units of that Currency from one entity to another",
+as is required in order to be a Transfer Order?  Certainly, it does
+neither explicitly; but then, neither did the statement in (1), so
+that alone cannot be sufficient reason to conclude this is not a
+Transfer Order.  Again, I find that this sort of statement has
+been interpreted as a valid Transfer Order in the past and thus
+has the support of Game Custom.  Despite my misgivings about whether
+this interpretation is in the best interests of the game, I find
+that Game Custom is strong enough--such Orders have been made and
+accepted without challenge many times--to trump such concerns.
+I find that this statement, in the absence of any other conditions
+which would invalidate it, constitutes a valid Transfer Order.
+
+
+4. Whether "If and only if t is standing up at the time we wrote this
+message, we transfer 10 VTs to t.", posted by Wes to a Public Forum,
+and if t is standing up at the time Wes wrote the message,
+constitutes a Transfer Order.
+
+I begin by noting that the validity of the quoted statements in (1),
+(2), and (3) as Transfer Orders are *all* based on Game Custom--even
+(1) is not clearly and unambiguously a Transfer Order based clearly
+on the Rules alone.
+
+I further note that there is *no* Game Custom to support the reading
+of this statement as a Transfer Order.  This statement differs from
+(3), in that the conditional part of (3) is based on information which
+is generally recorded by the Accountor (the Office to which the Order
+is directed), while the conditional part here is not.  I thus turn
+to the best interests of the game, and find that to interpret this
+statement as a Transfer Order would be very much against the best
+interests of the game, due to the difficulty, and likely
+impossibility, of determining whether t was standing up at the time
+the message was written.  Indeed, t emself may not know this--I
+certainly could not say whether or not I was standing exactly 12
+hours ago.  It is very much against the best interests of the game
+for it to be impossible to determine whether or not a given statement
+is a Transfer Order, and thus I find that this statement does not
+constitute a Transfer Order.
+
+I note that Caller's analogy to the stockbroker also supports this
+interpretation--while "if and only if we have not already bought shares
+of this stock in the last day or two, we want to buy X number of shares"
+would be accepted by the stockbroker, this is only because the
+stockbroker is generally responsible for knowing whether or not the
+trader has bought shares recently.  A statement such as "if and only
+if t is standing, we want to buy X number of shares" would be
+rejected by the stockbroker.
+
+
+5. Whether there exists a single consistent interpretation of Rules
+1598 and 1793 which supports the conclusions of both (3) and (4).
+
+One may reasonably ask, what consistent interpretation of
+the text of Rules 1598 and 1793 is there which would allow the
+statement in (3) to be a Transfer Order, but not the statement
+in (4)?  I seem to have offered a test (whether the person or Office
+to which the putative Order is directed is also the person or Office
+generally responsible for maintaining the information required to
+evaluate the truth of the conditional) which is unsupported by
+the Rules.  Indeed, the test is intended to determine whether or not
+the conditional falls into the set supported by Game Custom as in (3),
+but such a test has no direct support by the Rules.  I offer no
+consistent interpretation of Rules 1598 and 1793 to support my
+conclusions; perhaps there is none.  While it may well be
+in the interests of the game to have a consistent interpretation
+of Rules 1598 and 1793, I find that such interests are trumped
+by a very strong game custom in (3), and the stronger interests of
+being able to determine whether or not a statement constitutes
+a Transfer Order in (4).
+
+I find the statement of this CFJ to be FALSE.
+
+========================================================================

@@ -1,0 +1,62 @@
+==============================  CFJ 3031  ==============================
+
+    Droowl is a player.
+
+========================================================================
+
+Caller:                                 Pavitra
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Pavitra:                      05 Jun 2011 02:48:02 GMT
+Assigned to Murphy:                     16 Jun 2011 01:37:56 GMT
+Judged TRUE by Murphy:                  18 Jun 2011 03:37:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+By R869 (How to Join and Leave Agora), citizenship is an entity switch;
+in particular, Droowl's citizenship has a citizenship switch.
+
+R2162 (Switches) reads in part as follows:
+                      "To become X" (where X is a possible value of
+        exactly one of the subject's switches) is to flip that switch to
+        X.
+
+Thus, when Droowl attempted to register (that is, to cause eir
+citizenship switch to become Registered), e thereby attempted to
+register eir citizenship switch along with emself.
+
+However, R869 says:
+       A non-person CANNOT be registered (or created in a Registered
+       state), rules to the contrary notwithstanding.
+
+Thus, Droowl's attempt to register eir citizenship switch platonically
+failed. Since the above-quoted section of R2162 ties "becoming X"
+directly to "flipping my Y switch to X", the failure of eir switch to
+become Registered resulted in a failure of emself to become Registered.
+
+Therefore, Droowl is not a player.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Instances of switches are attributes of entities, not
+entities in their own right.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Per my gratuitous arguments, the caller's arguments fail at "Droowl's
+citizenship has a citizenship switch".  No other reason has been given
+that Droowl's registration would have been ineffective.
+
+========================================================================

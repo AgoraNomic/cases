@@ -1,0 +1,50 @@
+==============================  CFJ 2720  ==============================
+
+    Wooble is the Admiral of the Navy.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          12 Oct 2009 16:02:50 GMT
+Assigned to ais523:                     14 Oct 2009 22:44:34 GMT
+Judged FALSE by ais523:                 20 Oct 2009 16:59:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2254/0 (Power=2)
+Position Cards
+
+      If a card class has a position, it CANNOT be destroyed except
+      as described in this Rule, nor CAN more than a single instance
+      come into existence, rules to the contrary notwithstanding.
+
+      [...]
+
+The first clause pretty clearly applies to the card class, in contrast
+with a card instance as described in the second clause.  Accordingly,
+Rule 2254 only prevents the destruction of the class of Admiral of the
+Navy cards (or their position, take your pick), not any specific
+instance.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2720 FALSE. The caller appears to be correct; the wrong thing was
+secured, thus making the destruction in question possible. As a result, I
+determine that the possessor of the instance of the card class in question
+can't be determined with reasonable effort (because there isn't one). (Now you
+get to argue about whether I'm a CFJ or not, taking my email address into
+account if necessary.)
+
+========================================================================

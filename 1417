@@ -1,0 +1,56 @@
+==============================  CFJ 1417  ==============================
+
+    A Frozen Player who is a Member of a Contest may perform Actions
+    explicitly allowed to Contestants by that Contest's Regulations.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Steve
+Barred:                                 Taral
+Barred:                                 RedKnight
+
+Judge:                                  Michael
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           10 Oct 2002 16:24:14 GMT
+Assigned to Michael:                    18 Oct 2002 16:07:59 GMT
+Judged TRUE by Michael:                 25 Oct 2002 13:41:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Again by CFJ 1413, Frozen Players may not join Contests.  Arguably,
+neither can they leave (this hasn't been tested: is "giving consent to be
+in a Contest" an action or is "withdrawing consent" the forbidden action?)
+
+Assuming not attempt to change consent has been given, a Contestant may be
+required or allowed to perform actions by Regulations.  These allowances
+or requirements are not explicitly contained in the Rules, and thus are
+not covered by Rule 1016.
+
+========================================================================
+
+Caller's Evidence:
+
+Linked with CFJ 1415.
+
+========================================================================
+
+Judge Michael's Arguments:
+
+Rule 1016/14 says that the frozen are "... not permitted to perform
+any of the actions defined by the Rules that non-frozen Players are
+explicitly permitted by the Rules to perform".
+
+Contest relevant actions are neither defined by the Rules, nor are
+non-frozen Players explicitly permitted to perform these actions.
+(One might argue that they are given implicit permission by Rule 101.)
+Thus, Frozen Players may perform such actions.
+
+========================================================================

@@ -1,0 +1,120 @@
+==============================  CFJ 2429  ==============================
+
+    Proposal 6122 has taken effect.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       23 Mar 2009 02:12:44 GMT
+Assigned to ais523:                     23 Mar 2009 19:25:24 GMT
+Judged FALSE by ais523:                 25 Mar 2009 13:38:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Per Rule 2034(c) as amended by Proposal 6139, the
+resolution of Proposals 6121 through 6139 constituted a self-ratifying
+claim that Proposal 6122 has not been prevented from taking effect.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The resolution of those proposals does constitute such a claim, however,
+you cannot prevent something that would never have happened in the first
+instance (Otherwise, I just prevented you from being attacked by a lion.
+You're welcome). Since the only means by which a proposal can take
+effect is by adoption, and it was not adopted, the proposal never would
+have taken effect, and therefore cannot have been prevented.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+So this was an intentional loophole too?  I'm getting
+tired of them, much more fun to exploit the unintentional sort.
+
+Rule 106 reads:
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.
+
+This clearly separates the increase of power and the actual taking of
+effect.  Even if the failed proposal took effect, its power was zero,
+so it was not an instrument; therefore, Rule 105's
+
+      Where permitted by other rules, an instrument generally can,
+      as part of its effect,
+
+does not apply, and
+
+      This rule provides the only mechanism by which rules can be
+      created, modified, or destroyed, or by which an entity can
+      become a rule or cease to be a rule.
+
+does.  The proposal took effect but was unauthorized to make any Rule
+Changes so did nothing.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Actually, if we interpret "not prevented from taking effect" liberally
+and require that the proposal wasn't a no-op, we're in an interesting
+situation.  The proposal requests Power 3, but if it had taken effect
+at, say, Power=1, it would have successfully created a Power=1 rule
+(and would not have been a no-op).
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+FWIW, I understand it was an accidental bug that happened to be noticed by
+its author after submission, so call it unintentional with intential not-
+pointing-it-out.  I disagree by the way, of your recent scams/scam
+attempts, I thought the cleverer ones were the ones with longer-term subtle
+groundwork that no one picked up on (e.g. increasing the power of dependent
+actions).  -G.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+I made an honest mistake while drafting the proposal, started to correct
+it (part of which is incorporated in the proposal below), then thought
+"wait a minute, we might be able to get a scam out of this".  (coppro's
+counterargument was privately raised early on, though, so we focused on
+the R2130 scam instead.  I had originally intended to CoE all the
+proposals in that batch except for P6122.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2429 FALSE. Just because something is not prevented from
+taking effect does not necessarily mean that it has taken effect. (For
+instance, Murphy is not prevented from deregistering; however, that does
+not mean that e has deregistered!)
+
+I think comex's argument (that a failed proposal is not an instrument,
+therefore cannot make rule changes) is slightly less relevant here; even
+if something didn't change a rule, it's possible for it to be ratified
+that it did, and the rule will change (ratification is sufficiently
+powerful). However, the wording in the rule in question specifically
+doesn't ratify that a proposal took effect (although from adopted + not
+prevented from taking effect, it is possible to conclude that either the
+proposal took effect or something has gone badly wrong with R106).
+
+========================================================================

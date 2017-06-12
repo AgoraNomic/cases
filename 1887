@@ -1,0 +1,37 @@
+==============================  CFJ 1887  ==============================
+
+    Making the public statement 'This statement is a lie' would cause
+    the person making that statement to violate Rule 2149.
+
+========================================================================
+
+Caller:                                 Levi
+
+Judge:                                  BobTHJ
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Levi:                         30 Jan 2008 01:44:43 GMT
+Assigned to BobTHJ:                     30 Jan 2008 05:34:48 GMT
+Judged TRUE by BobTHJ:                  01 Feb 2008 21:45:04 GMT
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+The relevant section of R2149 is thus:
+{
+A person SHALL NOT make a public statement unless e believes
+      that in doing so e is telling the truth.
+}
+
+Any reasonable player would find 'This statement is a lie' to be
+logically indeterminable. While it could not be false and therefore
+not lying, it also could not be true. R2149 requires a player to tell
+the truth in as much as they are able, and 'This statement is a lie'
+is not truth. Therefore I judge this CFJ TRUE.
+
+========================================================================

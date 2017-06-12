@@ -1,0 +1,328 @@
+=============================  Inquiry 858  =============================
+
+    Rule 1482 should be interpreted such that the meaning of a word used
+    in a Rule is a part of the Rule's meaning, and therefore cannot be
+    changed significantly by Rules of lower precedence.
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  Chuck
+Judgement:                              
+
+
+Judge:                                  Coren
+Judgement:                              TRUE
+
+Appeal:                                 858a
+Decision:                               REVERSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       15 Feb 1996 09:43:00 GMT
+Assigned to Chuck:                      15 Feb 1996 09:45:00 GMT
+Chuck recused:                          22 Feb 1996 09:45:00 GMT
+Assigned to Coren:                      28 Feb 1996 14:04:54 GMT
+Judged TRUE by Coren:                   05 Mar 1996 18:14:55 GMT
+Appealed by Kelly:                      05 Mar 1996 18:56:24 GMT
+Appealed by elJefe:                     05 Mar 1996 20:33:44 GMT
+Appealed by Steve:                      06 Mar 1996 06:24:19 GMT
+Appeal 858a:                            06 Mar 1996 06:24:19 GMT
+REVERSED on Appeal:                     08 Mar 1996 16:52:32 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The Relevant Rules are 1030 and 1482.
+
+I request that the Judge issue an Injunction requiring the Rulekeepor
+to annotate the Ruleset with the Statement.
+
+========================================================================
+
+Judge Coren's Evidence:
+
+Rule 116/0 (Semimutable, MI=3)
+Permissibility of the Unprohibited
+
+      Whatever is not prohibited or regulated by a Rule is permitted
+      and unregulated, with the sole exception of changing the Rules,
+      which is permitted only when a Rule or set of Rules explicitly
+      or implicitly permits it.
+
+History:
+Initial Immutable Rule 116, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1483, Mar. 15 1995
+
+----------------------------------------
+
+Rule 1497/2 (Mutable, MI=1)
+Truth in Advertising
+
+      No Player shall present, as correct, information which e
+      believes to be incorrect in any of the following:
+        -a post to the Public Forum
+        -evidence in a COE, CFJ, or Judgement
+        -a response to a request for information which the
+         Player is required to provide.
+
+      This Rule defers to all other Rules which do not contain this
+      sentence.
+
+      A Player who violates this Rule commits a Class B Crime.
+
+[CFJ 827: If it is not clear that information is *not* presented
+ as correct, it is.  Attempting an illegal move can, if the Player
+ reports the move and knows it to be illegal, be a violation of this
+ Rule.]
+
+History:
+Created by Proposal 1667, Aug. 18 1995
+Infected and Amended(1) by Rule 1454, Dec. 10 1995
+Amended(2) by Proposal 2043, Dec. 11 1995
+
+----------------------------------------
+
+Rule 105/0 (Semimutable, MI=3)
+What Is a Rule Change?
+
+      A Rule Change is any of the following:
+        1) the enactment of a new Rule (a "Creation"). ;
+        2) the amendment of an existing Rule (an "Amendment");
+        3) the repeal of an existing Rule (a "Repeal");
+        4) the modification of an existing Rule's Mutability Index (a
+           "Mutation").
+
+      Additional Rule Changes may be created by appropriate
+      legislation.  No Rule Change may directly change any part of the
+      Game State other than the Rules.  No Rule may be changed except
+      by the means of a Rule Change of a type specified in the Rules.
+
+[CFJ 708: An Amendment of a non-existing Rule is not a legal Rule
+ Change.]
+
+History:
+Initial Immutable Rule 105, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1072, Oct. 4 1994
+Amended by Proposal 1275, Oct. 24 1994
+Renumbered from 1072 to 105 by Rule 1295, Nov. 1 1994
+
+----------------------------------------
+
+Rule 1339/3 (Semimutable, MI=3)
+Rule Changes
+
+      There are two types of Rule Change. A Proposed Rule Change is a
+      Rule Change which appears in a Proposal, and which, insofar as
+      the Rules permit it to take effect, has the effect of Creating,
+      Amending, Mutating, Repealing or otherwise changing a Rule as
+      defined elsewhere in the Rules, directly as a result of the
+      passage of a Proposal. A non-Proposed Rule Change has the same
+      effect as a Proposed Rule Change, but insofar as the Rules
+      permit it to take effect, it does so not as the direct result
+      of the passage of a Proposal, but rather, indirectly, as the
+      result of the effect or action of a Rule.
+
+      All Rule Changes, of either type, are subject to the following
+      constraints:
+
+      An individual Rule Change must change exactly one Rule.
+
+      Any Rule Change which affects an existing Rule must clearly
+      identify the Number of the Rule to be affected.
+
+      Any Rule Change which creates a New Rule may specify the
+      Mutability Index of the New Rule; however, if the Mutability
+      Index is specified it must be greater than or equal to 1.  If
+      the Mutability Index of any Rule created by a Rule Change is not
+      specified, it shall be 1.
+
+      Any Rule Change which creates a New Rule may specify the
+      Category to which the New Rule will be assigned.  If the
+      Category specified exists, the Rule shall be assigned to that
+      Category.  If the Category specified does not exist, or no
+      Category is specified, the Rulekeepor shall assign the Rule to
+      an appropriate category of eir own choice.
+
+      Any Rule Change which changes the Mutability Index of a Rule
+      must clearly specify the new value of the Rule's Mutability
+      Index.
+
+      Any Rule Change which changes the text of a Rule must clearly
+      and unambiguously specify the changes which are to be made. If
+      the Rule Change quotes old text which is to be replaced with new
+      text, then the quoted old text must match exactly with actual
+      text in the Rule, with the exception of whitespace and
+      capitalization. This takes precedence over Rules which would
+      permit such differences, even if the differences would be
+      considered inconsequential by such Rules.
+
+      Any Rule Change which does not meet these criteria shall not
+      have any legal force.
+
+[CFJ 822: Any Change to the Rules in a way other than the two methods
+described here is illegal.]
+
+History:
+Created by Proposal 1339, Nov. 29 1994
+Amended(1) by Proposal 1414, Feb. 1 1995
+Amended(2) by Proposal 1440, Feb. 21 1995
+Mutated from MI=1 to MI=3 by Proposal 1532, Mar. 24 1995
+Amended(3) by Proposal 1754, Oct. 21 1995
+
+----------------------------------------
+
+Rule 1322/2 (Semimutable, MI=3)
+Effectiveness of Rule Changes
+
+      Every Rule Change shall have associated with it an Index, called
+      its Power, which determines its ability to take effect.
+
+      The Power of a non-Proposed Rule Change shall be the Mutability
+      Index of the Rule in which the Rule Change is contained.
+
+      The Power of a Proposed Rule Change shall be the Adoption Index
+      of the Proposal in which the Rule Change is contained.
+
+      No Rule Change may take effect unless its Power is not less than
+      the current Mutation Index of the Rule it seeks to change, if
+      any, and the Mutation Index that the Rule would possess after
+      the change, if any.
+
+History:
+Created by Proposal 1322, Nov. 21 1994
+Infected and Amended(1) by Rule 1454, Dec. 5 1995
+Amended(2) by Proposal 2398, Jan. 20 1996
+Mutated from MI=1 to MI=3 by Proposal 2398, Jan. 20 1996
+
+========================================================================
+
+Judge Coren's Arguments:
+
+And Coren saith unto him, "What is meaning?", and is very tempted to wash
+his hands of this mess.  ;)  Instead, he refuses to release Barrabas,
+since there's enough thieves wandering Agora at the moment.  <mwahahah>
+
+This statement is actually composed of two parts, both of which must be
+true for the Statement to be True:
+
+1) "...the meaning of a word used in a Rule is part of the Rule's
+meaning..." and
+
+2) "...[a Rule's meaning] cannot be changed significantly by Rules of
+lower precedence."
+
+Both of these parts are intended to be applied against the Precedence
+Rules, particularly 1482:
+
+----------------------------------------
+
+Rule 1482/0 (Semimutable, MI=3)
+Precedence Between Rules with Unequal MI's
+
+      In a conflict between Rules with different Mutability Indices,
+      the Rule with the higher Mutability Index takes precedence over
+      the Rule with the lower Mutability Index.
+
+History:
+Created by Proposal 1603, Jun. 19 1995
+Infected, but not Amended by Rule 1454, Dec. 2 1995
+
+----------------------------------------
+
+This Judge will treat each of these two parts of the Statement in turn.
+
+*** PART THE FIRST: ***
+
+"...the meaning of a word used in a Rule is part of the Rule's
+meaning..."
+
+By far the easier of the two, if rather circular and indirect.  A Rule is
+nowhere defined in the Rules themselves; however, it is self-evident that
+the Rules, individually and as a whole, have a specific meaning expressed
+within the common language of the Game - if they did not, both past and
+future play would be (have been) impossible.
+
+Within the common language of thhe Game (currently English), Rules are
+made up paragraphs, sentences, sentence fragments, and individual words,
+each of which is composed of one or more words, which can be defined as
+the smallest units of language that communicate a meaning.  The meaning of
+each higher level is defined by the interaction of the meanings of the
+words which make it up:  thus, changing the meaning of a word within one
+of those levels (including Rule) changes that meaning, and is part of it.
+
+Therefore, this part of the Statement is trivially True.
+
+*** PART THE SECOND: ***
+
+2) "...[a Rule's meaning] cannot be changed significantly by Rules of
+lower precedence."
+
+Slightly more complicated; however:
+
+1) This judge refuses to use R101 as an argument, since it is clear that
+R101 only refers to the Rules as an integral unit.
+
+2) R116 says that changing the Rules is "...permitted only when a Rule or
+set of Rules explicitly or implicitly permits it."  So changing a Rule by
+changing that Rule's meaning must be permitted somewhere else in the Rules.
+
+3) R1497 (Truth in Advertising) prevents a Player from deliberately
+misconstruing the content of a Rule if it results in some sort of
+required message, or in a post to the public forum.  This in most cases
+prevents a Player purposefully changing the meaning of a Rule without
+changing the wording.
+
+4) This means that the only way a Rule can be changed in this way is
+through a Rule Change, controlled by R105, which states the types of Rule
+changes permissable, of which the only one applicable is an Amendment
+Rule Change, and through R1339, which defines Proposed Rule Changes and
+Non-Propoosed Rule Changes.  Either of these can be used to change the
+meaning of a Rule through changing its wording; however, such Rule
+Changes (of either type) are ineffectual and incapable of changing a Rule
+unless they are in a Proposal of an AI/MI equal to that of the Rule in
+question, or derive from such a Proposal or Rule.
+
+This leaves one final potential argument:  that the "inherent meaning" of
+word *within the context of Agora* can be redefined by a low MI Rule, and
+change the meaning of that word everywhere else in the game, including in
+higher MI Rules.  The corolary to point One is that such an attempt
+indeed changes the meaning of the Rule in question, and thus would
+conflict with R116, which prohibits changing a Rule in any way not
+defined by the Ruleset.  This mannner of change could not be the result
+of an non-Rule Entity (which defers to all Rules in matters of
+precedence); the other way to do it would be with a Non-proposed Rule
+Change - which must be of an AI/MI such that its Power is high enough to
+affect the Rule in question, per R1322.
+
+Thus, the second part of the Statement is also TRUE, which leads to the
+conclusion that this entire CFJ must be Judged ***TRUE***.
+
+Note that this in the future could be changed by creating a new type of
+Rule Change explicitly or implicitly allowing this type of change, or by
+mutating a Rule making such a change possible to a higher MI that the
+rule defining permissable Rule Changes (no such Rule currently exists).
+
+Note that it could also be argued that such a change in meaning is
+impermissible under the Rule prohibiting arbitrary changes to Entities,
+since a cursory overview of the Rules in question leads me to believe
+that Rules are indeed Nomic Entities.
+
+> ======================================================================
+>
+> Requested Injunction:
+>
+> The Relevant Rules are 1030 and 1482.
+>
+> I request that the Judge issue an Injunction requiring the Rulekeepor
+> to annotate the Ruleset with the Statement.
+>
+> -zefram
+
+The Rulekeepor is so Injuncted.
+
+========================================================================

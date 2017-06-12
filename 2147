@@ -1,0 +1,127 @@
+==============================  CFJ 2147  ==============================
+
+    This CFH has ID number 1.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       04 Sep 2008 17:47:31 GMT
+Assigned to omd:                        04 Sep 2008 17:47:31 GMT
+Judged FALSE by omd:                    14 Sep 2008 01:43:36 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+See rule 2193, which reads in part:
+{{{
+      Any Monster (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if:
+
+      (a) the rules require the holder of that office, by virtue of
+          holding that office, to perform the action (or, if the
+          office is vacant, would so require if the office were
+          filled
+}}}
+I think Murphy was the only person who voted against the recent proposal
+to add that to the rule. As a rather obvious scam, I added it without
+the restrictions that would require the action to be one that the CotC
+CAN do, and also removed the time limit; therefore, the deputisation
+works even though I'm not the CotC and even though an ID number of 1
+would be INVALID if actually assigned by the person forced to assign an
+ID number to it. (I can act on behalf of the Monster due to rule 2192;
+possibly this is the first time anyone has done so.) In other words,
+nowadays SHALL implies CAN; if anyone SHALL do something, then I CAN do
+that thing. (I don't quite think this leads to a dictatorship, but I can
+certainly cause healthy amounts of chaos if needed; if this scam works,
+and I don't see why it wouldn't, I suggest that the rest of Agora bribe
+me with something nice and permanent to persuade me to give the power
+up.)
+
+I'd like to point out to the players of Agora that it's normally worth
+reading proposals before voting FOR them; Murphy was the only player to
+vote AGAINST the proposal that added this rather obvious scam (and even
+pointed it out in eir comments). (For the record, I did an obvious scam
+because I couldn't think of a better way to Monsterise the rule, and was
+shocked when the resulting proposal passed.)
+
+Protection Racket, eat your heart out!
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Thu, 2008-09-04 at 10:55 -0700, Charles Reiss wrote:
+> On Thu, Sep 4, 2008 at 10:47, ais523 <ais523@bham.ac.uk> wrote:
+> > I call for judgement on the following statement: "This CFJ has ID number
+> > 2146."
+> > I act on behalf of the Monster to deputise for the CotC to assign that
+> > CFJ an ID number of 2146.
+> > I call for judgement on the following statement: "This CFH has ID number
+> > 1."
+> > I act on behalf of the Monster to deputise for the CotC to assign that
+> > CFJ an ID number of 1.
+>
+> INVALID because 1 is not greater than any orderly CFJ ID number.
+>
+> -woggle
+Gratuitous arguments for CFJ 2146 and CFJ 1:
+
+I'm not sure about that, which is why I filed CFJ 1. Rule 2161(a)
+implies that the CotC SHALL assign ID numbers to CFJs, so the Monster
+CAN assign ID numbers. Rule 2161(b) limits "such an assignment", but it
+isn't under rule 2161 that I assigned the ID number, so it's not obvious
+whether rule 2161(b) applies in this situation. (Note that The Monster
+rule doesn't require the action in question to be POSSIBLE, just that
+someone SHALL perform it.)
+
+========================================================================
+
+Judge omd's Arguments:
+
+[sent to a-b with subject "Judgement of CFJs 2146-7", following a
+ draft sent to a-d with subject "Proto-Judgement of CFJs 2146-7",
+ thus "proto-judge" is interpreted as R754(1)-synonymous with "judge"]
+
+If you CAN perform an action "as if" you hold an office, does that
+mean you CAN perform the action, during which you act as if you hold
+the office?  Or does it just mean that you CAN act as if you hold the
+office for the purpose of performing the action?  Rule 2160, the
+normal deputisation rule, requires that it be POSSIBLE for the deputy
+to perform the action, other than by deputisation, if e held the
+office, but it might be (as root contends) that the requirement is
+redundant.
+
+      Any player (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if:
+
+"as if" means (answers.com) "in the same way that it would be if", or
+(mw) "as it would be if" or "as one would do if".  If the Monster (or
+player, in this case) *did* hold the office in question, e would be
+unable to assign the ID number 1 due to Rule 2161 (b).  The "as if"
+limits, not extends, the meaning of the first part.  Indeed, I think
+we would all agree about that if not for Rule 2160 (d), "it would be
+POSSIBLE...", which confuses the issue.  But we need not drastically
+change the interpretation of a rule, just because not doing so would
+yield a redundant clasue.
+
+With this interpretation, Rules 2160 and 2193 are merely acting as
+"proxies" for the mechanisms (by announcement, etc.) provided by other
+rules, and a (fake-)deputised assignment is indeed "such an
+assignment" from the viewpoint of Rule 2161, and therefore INVALID.  I
+proto-judge CFJ 2147 FALSE.
+
+Point of interest: the Monster couldn't have violated the SHALL, even
+if e had succeeded in assigning the number 1, because I think e (well,
+ais523) did reasonably believe that selecting any smaller number (than
+1!) might be invalid or confusing.
+
+========================================================================

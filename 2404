@@ -1,0 +1,87 @@
+==============================  CFJ 2404  ==============================
+
+    If the scorekeepor announces that a contestmaster is not to be
+    awarded points for a particular month as e did not perform duties
+    for the contest, then the scorekeepor has performed all duties
+    required by Rule 2234 with respect to that contest.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           09 Mar 2009 16:47:52 GMT
+Assigned to Wooble:                     12 Mar 2009 23:06:23 GMT
+Judged FALSE by Wooble:                 18 Mar 2009 13:57:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2234 contains a subjective condition for reward (whether or not
+a contestmaster has performed contest-related duties in a timely manner)
+and leaves the awarding as a duty for the scorekeepor.  The scorekeepor
+should have some reasonable discretion as to whether a contests' duties
+have been performed; if a particular scorekeepor feels they have not, that
+decision, prima facie, should be respected by the courts, and the proper
+redress for abuse should be electing a new scorekeepor.  If the courts
+allow deputisation to override an officers' permitted subjective
+decision prior to court review (but after the officer announces a decision),
+we would invite abuse where players could override any such subjective
+decision no matter how reasonable.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Whether contest-related duties have been performed in a
+timely manner is objective, if the text of the contract is accessible. I
+have been publishing a null string as required by the contract every
+week (cunningly disguised amongst other messages, I'll make it more
+explicit if people want), due to having been sent no puzzles. (If you
+like, I'll make it explicit from now on when there are no puzzles in a
+week.)
+
+I note in passing that Brainfuck Joust currently imposes no obligations
+on its contestmaster at all, and gives no way for other contestants to
+impose such obligations. In contrast, anybody could have created an
+obligation for me with respect to Enigma by submitting a puzzle; the
+fact that nobody did shouldn't cause me to suddenly count as derelicting
+my duties. (Likewise, the AAA sometimes has had off weeks where nobody
+has performed an action that required AAA-recordkeeping, as did the
+PRS.)
+
+I agree that in the rare cases that the rules allow a subjective
+decision (which IMO is probably a bad idea for core-rules things, which
+should either require an objective decision or else allow any decision
+at all even if blatantly wrong, to avoid this sort of argument), that
+deputisation to overrule it should fail. In the case of a Scorekeepor
+blatantly derelicting eir duties to award points based on an objective
+fact, though, should this happen? (As a comparison, I don't think the
+Conductor could have legally withheld Notes from the Grand Poobah if e
+didn't like the way in which e adjusted Castes, so long as e complied
+with eir duties.)
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+If the contestmaster did not, in fact, perform the contract-defined
+duties of the contest in a timely manner, the Scorekeepor has no
+duties whatsoever with respect to that contest under R2234; e is under
+no obligation to list contests for which e is not awarding points. (E
+could be said to have performed the empty set of duties, which could
+argue for a ruling of UNDETERMINED here, but I'm reading the CFJ
+statement as asserting e performed at least one duty with respect to
+the contest.) If the contestmaster did perform the duties, then
+announcing that e is not awarding points can't satisfy a requirement
+that e SHALL award points.
+
+========================================================================

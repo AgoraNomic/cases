@@ -1,0 +1,114 @@
+=========================  Criminal Case 2023  =========================
+
+    root broke rule 1742 by failing to act in accordance with the
+    Brainfuck Golf contract.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 root
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              INNOCENT
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Jun 2008 08:15:51 GMT
+Pre-trial phase ended:                  20 Jun 2008 15:25:12 GMT
+Defendant root informed:                21 Jun 2008 05:47:23 GMT
+Assigned to Machiavelli:                21 Jun 2008 06:05:40 GMT
+Machiavelli recused:                    12 Jul 2008 15:29:24 GMT
+Assigned to OscarMeyr:                  12 Jul 2008 15:50:20 GMT
+Judged INNOCENT by OscarMeyr:           20 Jul 2008 14:14:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+This is a bit of a tricky situation, really. If the contract said "root SHALL
+be contractmaster of this contract" there would be no issue that root was
+breaking the contract (of which e is a member, according to my records) by
+not being contestmaster of it. (E has not been contestmaster of it for some
+time, actually, but I only just noticed that paragraph in the contract when
+updating my Notary records for it.) However, the contract is more ambiguous
+in this regard, so it is possible that the wording used does not force root
+to be contestmaster of it.
+
+========================================================================
+
+Caller's Evidence:
+
+The Brainfuck Golf contract, reads, in part:
+{{{
+11) The contestmaster shall be root.
+}}}
+
+========================================================================
+
+Gratuitous Arguments by root:
+
+I was contestmaster of the Brainfuck Golf contract the entire time
+that I was party to it, save the first four days or so that it took to
+make it a contest in the first place.  I only ceased to be
+contestmaster when I ceased to be party to the contract, at which
+point I could categorically could not violate it per CFJ 1686.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+You were marked as party to Brainfuck Golf in the last two Notary
+reports. I've looked through history, and found the message archived at
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2008-Februar
+y/009502.html>
+which shows you leaving back in February, before either report. (However,
+the message had a subject starting DIS:, which is misleading, to say the
+least, as it appears to have been sent to a public forum.)
+
+Rule 2178 says:
+{{{
+Changes in the text or membership of a public contract do not
+become effective until they are published.
+}}}
+
+It's not clear to me whether this particular change was ever published
+(or counted as published); at least, two reports that contradicted it
+have been published since, and no claims of error were made against that
+particular part of the report. (I repeated the previous Notary's
+information that root was party to Brainfuck Golf, because root's
+membership status in Brainfuck Golf had not changed since it, and that
+claim was never challenged.) root published a message stating that they
+were leaving. (However, I note that publishing the new membership of a
+public contract after it changes seems not to be common practice.)
+
+Also worthy of consideration is whether the contract made it illegal for
+root to leave it, because doing so would cause em to cease to be
+contestmaster of it, and also whether root ever did cease to be
+contestmaster of it (rule 2136 does not state that a contestmaster has
+to be a member of the contest, only that a player cannot become the
+contestmaster of a contest they are not a member of). This could produce
+interesting knock-on effects if root never did leave; good thing that
+points are self-ratifying!
+
+Anyway, after all that, root is probably INNOCENT, but I'd like to see
+all the points in these arguments considered because there are deeper
+rules questions at stake here.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+ais523 has pointed out an interesting hole in R2136, that a
+contestmaster does not have to remain a member of the contest.
+Accordingly, root's as contestmaster of Brainfuck Golf did not depend
+on eir being a member of the contest.  Therefore, root did not
+violate provision 11 of the contest, nor R1742.  As the alleged
+action of violating R1742 did not occur, I rule INNOCENT.
+
+========================================================================

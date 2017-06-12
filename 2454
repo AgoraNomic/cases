@@ -1,0 +1,174 @@
+==============================  CFJ 2454  ==============================
+
+    A player CAN deputize for the IADoP to end an election before its
+    voting period has ended.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+Appeal:                                 2454a
+Decision:                               REMAND
+
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+Appeal:                                 2454b
+Decision:                               REASSIGN
+
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       19 Apr 2009 17:59:07 GMT
+Assigned to Yally:                      19 Apr 2009 18:38:14 GMT
+Judged TRUE by Yally:                   21 Apr 2009 02:00:09 GMT
+Appealed by scshunt:                    21 Apr 2009 02:07:38 GMT
+Appealed by Murphy:                     21 Apr 2009 02:47:17 GMT
+Appealed by Yally:                      21 Apr 2009 02:52:38 GMT
+Appeal 2454a:                           21 Apr 2009 02:54:30 GMT
+REMANDED on Appeal:                     22 Apr 2009 14:14:46 GMT
+Assigned to Yally:                      22 Apr 2009 14:14:46 GMT
+Judged TRUE by Yally:                   23 Apr 2009 17:00:07 GMT
+Appealed by Wooble:                     23 Apr 2009 17:04:24 GMT
+Appealed by Murphy:                     23 Apr 2009 17:38:48 GMT
+Appealed by scshunt:                    23 Apr 2009 20:39:35 GMT
+Appeal 2454b:                           23 Apr 2009 20:39:35 GMT
+REASSIGNED on Appeal:                   24 Apr 2009 15:46:23 GMT
+Assigned to scshunt:                    26 Apr 2009 20:39:00 GMT
+Judged TRUE by scshunt:                 26 Apr 2009 22:37:52 GMT
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The last sentence of Rule 107 and the second
+sentence of rule 208.
+
+========================================================================
+
+Judge Yally's Arguments:
+
+Rule 2160 lists four requirements for deputization:
+
+      (a) the rules require the holder of that office, by virtue of
+          holding that office, to perform the action (or, if the
+          office is vacant, would so require if the office were
+          filled); and
+
+      (b) a time limit by which the rules require the action to be
+          performed has expired, or the office is vacant; and
+
+      (c) if the office is held by an active player, the deputy
+          announced between two and fourteen days earlier that e
+          intended to deputise for that office for the purposes of the
+          particular action; and
+
+      (d) it would be POSSIBLE for the deputy to perform the action,
+          other than by deputisation, if e held the office.
+
+Parts b and c are not applicable. Part d is trivially true.
+
+Rule 2154 requires that:
+
+          If there is exactly one valid option for the
+          Decision, the IADoP SHALL, in place of initiating the
+          Decision, announce the valid option (the candidate), thus
+          installing that candidate into the office and ending the
+          election.
+
+As such, part a is satisfied as the rules would require the IADoP to end the
+election before its voting period has started.
+
+========================================================================
+
+Appellant scshunt's Arguments:
+
+I intend, with 2 support, to appeal this decision on principle; while I
+believe this judgment was the correct one, the judge's arguments are of
+no relevance whatsoever to the case at hand.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I support.  The judge's arguments are relevant, but incomplete in
+multiple respects.
+
+In general, when judging broad hypothetical statements, a broad set of
+interpretations are possible.  The extremes are roughly as follows:
+
+  *) The statement could be true under some set of circumstances
+     including the current ruleset and any conditions explicitly
+     included in the statement.
+
+  *) The statement would be true under all sets of circumstances
+     including the current ruleset and any conditions explicitly
+     included in the statement.
+
+In general, the judge should choose a point within this range that e
+considers reasonable, and state it explicitly.
+
+Reviewing Judge Yally's analysis of Rule 2154 as it applies to the
+statement:
+
+  a) Strictly speaking, if event X never happens, then event Y can't
+     happen before event X; but "has ended" could be treated as a gloss
+     for "would have ended".
+
+  b) Satisfying the first part depends on (i) the existence of a time
+     limit (R2154's "SHALL, in place of X, Y" may or may not imply that
+     Y has the same time limit that X would otherwise have) and (ii) the
+     expiration of said limit.  Satisfying the second part depends on
+     the office being vacant (Yally was apparently installed on Apri 14
+     but I forget whether that result has been disputed).
+
+  c) Fails if the office is held by an active player and the deputy
+     didn't declare intent within the relevant window.
+
+  d) False if there are at least two options.
+
+========================================================================
+
+Judge Yally's Arguments:
+
+I agree with my previous judgment and feel that Murphy's arguments have
+supported that further. I opine TRUE.
+
+========================================================================
+
+Appellant Wooble's Arguments:
+
+I intend to appeal this judgement with 2 Support for the obvious reason.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I support, recommending REASSIGN.  My arguments left several sub-issues
+open for evaluation; Judge Yally has not explained why e favors one
+interpretation of any of those sub-issues over others.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+Rule 2160 provides 4 requirements for deputisation.
+
+Condition a) is that there is a requirement for the action to be
+performed. Rule 107 provides that, if a decision has less than two
+options, the vote collector is required to end the voting period. Rule
+208 provides that the obligation must fall on the office, and not any
+player. Condition d) would be satisfied for the same reason - Rule 107
+provides CAN, as well as SHALL. If the office was vacant, conditions b)
+and c) would both be trivially satisfied.
+
+========================================================================

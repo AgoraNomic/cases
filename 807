@@ -1,0 +1,277 @@
+>From nomic-official-owner@teleport.com  Wed Sep 13 02:48:39 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id CAA01327 for <blahedo@quincy.edu>; Wed, 13 Sep 1995 02:48:36 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id AAA26609 for nomic-official-outgoing; Wed, 13 Sep 1995 00:45:13 -0700
+Received: from wing1.wing.rug.nl (wing1.wing.rug.nl [129.125.21.1]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id AAA26601 for <nomic-official@teleport.com>; Wed, 13 Sep 1995 00:45:09 -0700
+Message-Id: <199509130745.AAA26601@desiree.teleport.com>
+Received: by wing1.wing.rug.nl
+	(1.37.109.8/16.2) id AA00806; Wed, 13 Sep 1995 09:43:13 +0200
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 807: Judgement
+To: nomic-official@teleport.com
+Date: Wed, 13 Sep 95 9:43:13 METDST
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+==========================================================================
+			JUDGEMENT CFJ 807
+
+Statement:
+
+The Assessor may choose whether Proposal 1694 passes or fails, as long as
+the Assessor is not Steve.
+
+==========================================================================
+
+Judge:		Swann (resigned)
+		favor
+Judgement:	TRUE
+
+Eligible:	Andre, Dave Bowen, favor, Ian, Kelly, KoJen, Michael,
+		Oerjan, Vanyel, Vlad, Xanadu, Zefram, elJefe
+
+Not Eligible:
+Caller:		Steve
+Barred:		Chuck, SugarWater
+On Hold:	Brian, Garth, JonRock
+Declined:	Swann
+
+Effects:	Swann looses 2 Points for declining, one of which goes
+		to Andre.
+
+==========================================================================
+
+History:
+  Called by Steve, Tue, 5 Sep, 13:25 +1000
+  Assigned to Swann, date unknown
+  Declined by Swann, Sun, 10 Sep 1995, 23:40 -0400
+  Assigned to favor, Mon, 11 Sep 1995, 10:13 METDST
+  Judged TRUE by favor, Mon 11 Sep 1995, 16:40 EDT
+
+==========================================================================
+
+Reasons and Arguments:
+
+The Judgement of CFJ 806 establishes that Steve, as Assessor, cannot
+choose whether Proposal 1694 passes or fails as required by Rule
+955, because for Steve to do so would violate Rule 452. However, Rule
+452 restricts only the use of "knowledge...which has come into eir
+possession because [a Player] is the Assessor". The only Player for whom
+it is true that knowledge that Proposal 1694 is tied has come into
+eir possession because e is the Assessor is Steve. All other Players
+have come into possession of this knowledge because Steve has published
+an Assessor's Report in the Public Forum. Hence the only Player for
+whom there is a conflict between Rules 955 and 452 is Steve. If a
+Player other than Steve were the Assessor, there would be no conflict 
+for that Player between the requirements of Rule 955 and 452 in the
+case of Proposal 1694. Such a Player would be permitted to choose
+whether Proposal 1694 passes or fails, provided that Rule 955 does
+not require that the Player who, as Assessor, chooses whether a tied
+Proposal passes or fails, is the same Player who was Assessor at the
+conclusion of the Voting Period of the Proposal in question. Rule 955
+makes no such requirement.  So a Player, other than Steve, who is the
+Assessor is permitted to choose whether Proposal 1694 passes or fails.
+
+==========================================================================
+
+Decision & Argument Judge:
+
+Judgement: TRUE
+
+Arguments:
+
+  There are a number of ways to interpret the Statement in
+  this Call for Judgement.  In the most literal reading, the
+  Statement says "If Steve is not the Assessor, then...".
+  But since of course Steve *is* the Assessor (and, more
+  to the point, was when this CFJ was called), the Statement
+  has the form "If <false>, then...", and of course all
+  such statements are true, if interpreted in the most
+  straightforward Boolean manner.  So, TRUE.
+
+  On the other hand, it would be silly to CFJ on a trivially
+  true statement, and internal evidence in the arguments
+  suggests that we interpret this as a counterfactual
+  conditional, "if it were the case that Steve weren't
+  the Assessor, then...".  If we interpret this to mean
+  "there is no possible world in which Steve is not
+  Assessor, but not...", then we'd get FALSE (since,
+  for instance, it might be the case that Steve is not
+  the Assessor, but the Rules don't allow the Assessor
+  to choose whether 1694 passes or fails, because the
+  alternate Agora didn't have this rather odd Assessor-
+  choice rule).  But hardly anyone thinks that counter-
+  factual conditionals ought to be interpreted this way;
+  a more respectable interpretation of this is something
+  like "in the most nearby possible worlds in which Steve
+  is not the Assessor, it is the case that...".  Fortunately,
+  the statement comes out TRUE under this interpretation, at
+  least under a reasonably intuitive metric on possible
+  worlds, for exactly the reasons that Steve gives; if
+  everything were the same except that Steve were not
+  Assessor, whoever *was* Assessor would be allowed by
+  955, and not forbidden by 452, to choose whether 1694
+  passes or fails.  So, TRUE.
+
+  Note that I will be silent here on the issue of whether or
+  not 452 actually prevents Steve, as Assessor, from choosing
+  whether 1694 passes or fails.  Cogent cases could be made
+  either way: it might be argued that the choosing under
+  955 does not count as "influencing the result of the vote"
+  for the purposes of 452 (since the vote will still have
+  been a tie, however Steve were to choose); on the other hand,
+  by Steve's choosing, he can certainly determine whether
+  the proposal passes or fails, and that passing or failing
+  is, albeit indirectly, a result of the vote (i.e. a different
+  pattern of votes might have led to a different passing/failing).
+  It might also be argued that the "because" in 452 does not
+  hold, and so 452 does not forbid Steve from choosing, because
+  he would have had the information anyway, even were he not
+  assessor (this depends on your theory of "because").  Glad
+  I don't have to decide that one!  *8)  I believe 806 on
+  the subject has been appealed...
+
+  | favor |
+
+
+==========================================================================
+
+Evidence:
+
+1. Judgement of CFJ 806.
+2. Rule 452.
+3. Rule 955.
+
+-----1. Judgement of CFJ 806.
+
+Andre Engels writes:
+>
+>==========================================================================
+>			ASSIGNMENT CFJ 806
+>
+>The Assessor may not choose whether Proposal 1694 passes or fails.
+>==========================================================================
+>
+>Judge:		Kelly
+>Judgement:	TRUE
+>Caller:		Steve
+>
+>==========================================================================
+>
+>Reasons and Arguments:
+>
+>I claim the Statement follows from the requirements of Rule 452, which
+>take precedence over those of Rule 955. 
+>
+>The facts of the case are:
+>
+>1. The vote on Proposal 1694 is tied 9-9, and the Proposal has an
+>Adoption Index of 1. So the Voting Index for Proposal 1694 exactly
+>equals the Adoption Index of the Proposal.
+>
+>2. Rule 955 states:
+>
+>      If the Voting Index exactly equals the Adoption Index, then the
+>      Assessor shall choose whether the Proposal passes or fails.
+>
+>3. Rule 452 states:
+>
+>      The Assessor may not use knowledge of the current status of the
+>      vote on a Proposal which has come into eir possession because e
+>      is the Assessor, in an attempt to influence the result of the
+>      vote on that Proposal.
+>
+>The truth of the Statement rest on a simple claim: that if, As Assessor,
+>I were to choose whether Proposal 1694 passes or fails, as required
+>by Rule 955, I would be using "knowledge of the current status of the
+>vote on a Proposal which has come into [my] possession because [I am]
+>the Assessor, in attempt to influence the result of the vote on that
+>Proposal." This is forbidden by Rule 452, and this Rule takes precedence
+>over Rule 955. So I may not choose whether Proposal 1694 passes or fails.
+>
+>It makes no difference that I have published the Assessor's Report on
+>Proposal 1694 in the Public Forum, and hence that I would have access
+>to the information that the Proposal is tied even were I not the
+>Assessor. For it remains true that, as a matter of fact, my actual 
+>knowledge of the tie was acquired because I am the Assessor, and not
+>by other means.
+>
+>==========================================================================
+>
+>Decision & Arguments Judge:
+>
+>
+>I accept assignment as Judge of CFJ 806, and find this CFJ TRUE.
+>
+>Steve's argument is quite clear, and effectively undeniable.  Clearly,
+>choosing whether a Proposal passes or fails is an attempt to influence
+>its result, and since Steve would be called upon to make this choice
+>because of his knowledge of the status of the Vote on Pr.1694, doing
+>so would violate R.452.  R.452 clearly takes precedence over R.955, as
+>neither Rule contains a precedence clause and the default numerical
+>method therefore applies.
+>
+>If Steve had, say, escrowed his Choices before collecting any Votes,
+>so that his choice was not made with any knowledge of the status of
+>the Vote, then it would be legal (although in most cases eir Choice
+>would not be used).
+>
+>I make no opinion on the matter of whether Pr.1694 passes, or whether
+>another Assessor might be allowed to break the tie if Steve were to
+>resign.
+>
+>Respectfully submitted this 1st day of September, 1995,
+>
+>Kelly Martin, Judge
+>==========================================================================
+
+-----2. Rule 452
+
+Rule 452/4 (Mutable, MI=1)
+No Electioneering by the Assessor
+
+      The Assessor may not use knowledge of the current status of the
+      vote on a Proposal which has come into eir possession because e
+      is the Assessor, in an attempt to influence the result of the
+      vote on that Proposal.
+
+      If a Call for Judgment alleging a violation of this rule is
+      found to be TRUE, the Assessor violating this rule shall gain
+      three (3) Blots. Reporting this gain to the Tabulator is the
+      responsibility of the Player who called the CFJ.
+
+History:
+...
+Amended(1) by Proposal 1446, Feb. 21 1995
+Amended(2) by Proposal 1531, Mar. 24 1995
+Amended(3) by Proposal 1534, Apr. 4 1995
+Amended(4) by Proposal 1584, May 15 1995
+
+-----3. Rule 955
+
+Rule 955/2 (Mutable, MI=1)
+Votes Required to Adopt a Proposal
+
+      When the Voting Period for a Proposal has ended, the Votes which
+      have been legally cast shall be counted by the Assessor.  The
+      Proposal shall then be assigned a Voting Index, as follows: the
+      Proposal received no Votes opposed, and at least one Vote in
+      favor, the Voting Index shall be Unanimity; if there are no
+      Votes in favor, the Voting Index shall be zero; in all other
+      cases, the Voting Index shall be the number of Votes in favor
+      divided by the number of Votes opposed.
+
+      If the Voting Index is greater than the Adoption Index for the
+      given Proposal, then that Proposal shall pass.  If the Voting
+      Index exactly equals the Adoption Index, then the Assessor shall
+      choose whether the Proposal passes or fails.  If the Voting
+      Index is less than the Adoption Index, the Proposal shall fail.
+
+History:
+...
+Amended(1) by Proposal 1279, Oct. 24 1994
+Amended(2) by Proposal 1531, Mar. 24 1995
+
+==========================================================================

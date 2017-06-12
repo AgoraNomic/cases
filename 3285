@@ -1,0 +1,79 @@
+==============================  CFJ 3285  ==============================
+
+    I own a Max Schutz card.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       05 Nov 2012 05:13:12 GMT
+Assigned to Murphy:                     11 Nov 2012 19:11:41 GMT
+Judged TRUE by Murphy:                  11 Nov 2012 19:50:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The intent of the message is clear, so the main question is
+whether it's equivalent to the sequence of actions necessary to fulfil
+that intent (transferring a card, transferring a promise from the tree,
+cashing the promise). For an argument for FALSE, see CFJ 2887, although
+the circumstances are not exactly the same. On the other hand, we allow
+small deviations from being perfectly explicit all the time. So where
+exactly is the line drawn?
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, 2012-11-05 at 00:08 -0500, Max Schutz wrote:
+> ok let's try this one more time I cash this promise by accepting a
+> copy of an ais523 in exchange for a max schutz card
+>
+> On Mon, Nov 5, 2012 at 12:05 AM, Alex Smith <ais523@bham.ac.uk> wrote:
+>         On Mon, 2012-11-05 at 00:01 -0500, Max Schutz wrote:
+>         > alright providing i understand this correctly I cash the
+>         promise bearing in
+>         > mind that i do not have a copy of the ais523 card if this is
+>         incorrect
+>         > please let me know as i am a new player
+>
+>         It's incorrect both because you sent it to the wrong mailing
+>         list and
+>         because you didn't give me a card in return earlier in the
+>         same message.
+>
+>         --
+>         ais523
+
+the promise I created earlier
+today (which is currently unnamed until Horton gets around to giving it
+one).
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+I reported this as effective, as the intent is
+clear and unambiguous.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The intended interpretation is the only one that could render the
+message reasonably effective (apart from possibly some variation in the
+order of operations, but not substantively changing the resulting
+gamestate).  Contrast the situation in CFJ 2887, in which the purported
+action was "With Notice, I intend to win" and there were multiple
+methods to win; even though it was clear which of those methods e
+intended to use, this was judged insufficiently specific.
+
+========================================================================

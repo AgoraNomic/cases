@@ -1,0 +1,159 @@
+==============================  CFJ 2943  ==============================
+
+    The power of Rule 2324 is 2.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 omd
+
+Judge:                                  Roujo
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       22 Dec 2010 06:58:31 GMT
+Assigned to Roujo:                      10 Jan 2011 01:02:25 GMT
+Roujo recused:                          10 Jan 2011 19:27:07 GMT
+Assigned to ais523:                     16 Jan 2011 22:08:01 GMT
+Judged FALSE by ais523:                 23 Jan 2011 18:08:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+omd wrote:
+
+> On Thu, Dec 16, 2010 at 12:45 PM, omd <c.ome.xk@gmail.com> wrote:
+>> Accordingly, I intend, With Notice, to cause Rule 2324 to amend Rule
+>> 2223 by appending the text: "Also, the power of Rule 2324 is set to
+>> 2."
+>
+> With notice, I do so.
+[snip]
+> The power of Rule 2324 is now 2, or 3 if the ratification scam already
+> set it to 3.  (In that case, the victory rule attempts to set it to 2
+> but fails due to power.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+On Wed, 2010-12-22 at 00:47 -0500, omd wrote:
+> On Tue, Dec 21, 2010 at 8:44 PM, omd <c.ome.xk@gmail.com> wrote:
+> > On Thu, Dec 16, 2010 at 12:45 PM, omd <c.ome.xk@gmail.com> wrote:
+> >> Accordingly, I intend, With Notice, to cause Rule 2324 to amend Rule
+> >> 2223 by appending the text: "Also, the power of Rule 2324 is set to
+> >> 2."
+> >
+> > With notice, I do so.
+> >
+> > On Thu, Dec 16, 2010 at 11:04 PM, omd <c.ome.xk@gmail.com> wrote:
+> >> I intend, with Agoran Consent, to cause Rule 2324 to amend itself by
+> >> appending the following paragraph:
+> >>
+> >>      coppro CAN cause this rule to make arbitrary rule changes by
+> >>      announcement.
+> >
+> > Despite having not gotten consent, I do so.  (I'm not exactly sure why
+> > I made this consent, but since I did, ignoring consent now is fairly
+> > bad form.  However, Murphy's comment suggests that his objection was
+> > from a counter-scam point of view [rather than not wanting coppro to
+> > win], so I may as well treat it from a scam point of view :/)
+>
+> This is a win announcement.  I am dumb, and a rule states that one or
+> more persons CAN cause it to make arbitrary rule changes by
+> announcement.
+>
+> > The power of Rule 2324 is now 2, or 3 if the ratification scam already
+> > set it to 3.  (In that case, the victory rule attempts to set it to 2
+> > but fails due to power.)
+>
+> *Now* it is.
+>
+> > I hereby cause Rule 2324 to remove (unset) the adoption index of the
+> > decision to adopt Proposal 6939.
+> >
+> >> I intend, With Notice, to cause Rule 2324 to amend itself by appending
+> >> the following paragraphs:
+> >>
+> >>      The set of available options on the decision to adopt Proposal
+> >>      6939 is { ADOPTED }.
+> >>
+> >>      The Assessor SHALL resolve that decision before the time this
+> >>      text is added to a rule.
+> >
+> > With notice, I do so.
+> >
+> > On the decision to adopt Proposal 6939, I vote ADOPTED.
+>
+> I re-do all of this.
+
+The discussion on whether the escalation to power 2 works has so far
+mostly focused on whether it's possible to escalate via win
+announcement. (I can think of a plausible reason why it wouldn't - rule
+2186 is ambiguous as to which rule actually causes the cleanup condition
+to occur - but I think the scam probably works in theory, as it makes no
+sense that a cleanup condition in a power 3 rule would have no effect
+due to a power 2 rule being unable to cause the power 3 rule to make the
+change. The general principle of escalations via rule 2186 and 2223 is,
+I think, that they are possible and that bug in the rules should really
+be patched at some point.)
+
+However, as the message above shows, there were procedural errors in the
+attempted escalation that cause it to definitely have failed. In
+particular, rule 2186 requires a win announcement to be factually
+correct, to be capable of causing a winning condition to be satisfied,
+and to either state that someone wins, or to be explicitly labeled as a
+win announcement. Although coppro certainly could have been given a win
+via win announcement in that situation, the message above is not it; the
+scope of the label "This is a win announcement." is completely
+undefined. I can see three possible scopes: the sentence itself; the
+entire message; or the paragraph in question.
+
+To start off with, the sentence "This is a win announcement." is clearly
+not a win announcement, as it would not trigger anyone to win the game.
+Thus, if that's what the win announcement refers to, clearly there is no
+win here (and as a bonus, the sentence is factually incorrect).
+
+Referring to the entire paragraph (or possibly to the subsequent
+sentence; my win announcements tend to explicitly say "The following
+sentence is a win announcement"... in order to make the scope completely
+clear) was probably the original intention, but this also fails. I
+assume omd is entirely capable of speech, and thus not technically dumb;
+and as it's linked with an "and" to the rest of the sentence, the entire
+thing thus becomes false.
+
+Referring to the entire message has this problem, and also the problem
+of specifying much more than it should, to the point of almost becoming
+vague. There are also a lot more potential issues, such as saying an
+explicit date/time along with "wrote:" (when of course, the date and
+time given are not the time at which the message was /written/, but the
+time at which the message was /sent/, likely to be slightly later).
+(Perhaps I should try NoVing the Pariah for that sometime...)
+
+Thus, there was no win announcement there, and thus no escalation. (To
+be fair to coppro, I suggest H. Dictator G. give coppro the win e
+deserves from this, possibly conditional on it not having happened
+already.) Nothing else could have set rule 2324's power to 2 either (the
+other escalations happening at the time each attempted to set it to 3
+instead). So we can definitely state that rule 2324's power did not
+become 2.
+
+I therefore judge CFJ 2943 FALSE.
+
+(I note in passing that there's another potential issue why this
+particular escalation might fail, unrelated to the concept of rule 2223
+escalations in general; the wording of the resulting cleanup procedure
+implies (weakly, but IMO more so than the alternative) that the power
+change happens only after the dictatorship has been given up ASAP, and
+the CFJ was called before that happened. This provides an alternative
+argument for FALSE, but a weaker one than the preceding argument.)
+
+========================================================================

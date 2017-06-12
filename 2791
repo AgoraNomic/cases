@@ -1,0 +1,83 @@
+==============================  CFJ 2791  ==============================
+
+    Rule 101 is greater than rule 2029
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Wooble
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by ais523:                       26 Apr 2010 20:15:07 GMT
+Assigned to Wooble:                     22 May 2010 14:52:40 GMT
+Judged UNDETERMINED by Wooble:          22 May 2010 18:20:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The power-3 rule 2141, by insisting that rules are strictly
+ordered, implies that it's possible to have a meaningful
+less-than/greater-than comparison between them. However, nothing in the
+ruleset seems to imply what the ordering actually /is/: precedence?
+power? ID number? order of enactment? something else? It's rather lucky
+that the relevant bit of gamestate is currently completely irrelevant,
+or we'd have major headaches trying to figure out just what that
+platonic order is.
+
+========================================================================
+
+Caller's Evidence:
+
+Excerpt from Rule 2141: "Rules have ID numbers, to be assigned
+by the Rulekeepor, and are strictly ordered."
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+It's meant to use the definition in Rule 2161 which,
+although Power-1 and inconsistent with the standard meaning of
+"strictly ordered", is the only one that makes sense in context.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Rule 2161, the only other rule to use the phrase "strictly
+ordered", implies that the ordering is determined by ID number, which
+SHALL match order of ID number assignment, which in turn SHALL roughly
+match order of enactment (the definition of ASAP allows some variance).
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+While the strict ordering of rules implies that between any two rules
+there is an antireflexive, asymmetric, and transitive relation, this
+relation is not one of "greatness".  The context of the use of the
+phrase "strictly ordered" is in a sentence about ID numbers, and Rule
+2161's usage (requiring that new ID numbers for strictly ordered
+entities be greater than any existing ID numbers) implies that the
+ordering is by increasing ID numbers, so that Rule 2029 comes after
+Rule 101 in such an ordering.
+
+It's unclear what "greater than" should be taken to mean in the
+context of rules.  As it's not defined by the rules, Rule 754 requires
+that we use its mathematical definition; however, the mathematical
+definition relates to the magnitude of the entities, and it's unclear
+what this could mean.  The body of text of Rule 101 is larger in terms
+of length, and is also lexically greater than Rule 2029.  In the
+context of the game, however, it could very well also make sense to
+consider the Power of the rules, or their precedence generally.  In
+any event, there's no satisfactory standard the Court can apply, and
+as the greater than relation is irrelevant to the strict ordering, it
+is beyond the scope of this CFJ to impose one.  The term "greater
+than" is, at present, nonsensical when comparing rules.
+
+========================================================================

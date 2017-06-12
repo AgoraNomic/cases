@@ -1,0 +1,391 @@
+==============================  CFJ 2733  ==============================
+
+    The decision on whether to adopt the proposal Pragmatize Strict
+    Ordering has been initiated.
+
+========================================================================
+
+Caller:                                 Tiger
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  scshunt
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Tiger:                        14 Nov 2009 23:02:26 GMT
+Assigned to ais523:                     17 Nov 2009 11:39:30 GMT
+ais523 recused:                         24 Nov 2009 14:19:12 GMT
+Assigned to Machiavelli:                28 Nov 2009 23:49:42 GMT
+Machiavelli recused:                    14 Dec 2009 17:10:17 GMT
+Assigned to scshunt:                    14 Dec 2009 17:13:30 GMT
+scshunt recused:                        03 Jan 2010 18:30:40 GMT
+Assigned to G.:                         08 Jan 2010 23:10:58 GMT
+Judged TRUE by G.:                      13 Jan 2010 20:27:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+2009/11/8 Ed Murphy <emurphy42@socal.rr.com>:
+> Tiger wrote:
+>
+>> 2009/11/4 Ed Murphy <emurphy42@socal.rr.com>:
+>>> I interpret the status of the proposal "Pragmatize strict ordering"
+>>> as follows:
+>>>
+>>>  * First attempt to assign ID number 6546 was unsuccessful, as the
+>>>    wrong author was specified and this was promptly pointed out.
+>>>
+>>>  * Second attempt to assign ID number 6546 was successful, as the
+>>>    first attempt wasn't.
+>>>
+>>>  * Attempt to assign ID number 6548 was unsuccessful, as 6546 was
+>>>    successfully assigned on the second attempt.
+>>>
+>>>  * Each of these three attempts was accompanied by an attempt to
+>>>    initiate a voting period, which was successful iff the attempt
+>>>    to assign an ID number was.
+>>>
+>>> If I've got this wrong, then let me know, otherwise I'll resolve
+>>> 6542-48 on this basis in a few days.
+>>>
+>>> Unofficial tallies:
+>>>
+>>>  * 6546a (if somehow effective) would be adopted (8F 2A)
+>>>  * 6546b (if effective) would be adopted (3F 2A)
+>>>  * 6548 (if effective) would have its voting period doubled (1F 2A
+>>>      and only 3 voters vs. quorum of 5)
+>>>
+>> Terribly sorry for taking so long to answer this. What you said made
+>> sense when I first read it, but now I'm not so sure.
+>> A proposal is a body of text, and the distribution of proposals is
+>> never defined, so the ordinary-language sense of the word is used.
+>> That means that the first distribution of the proposal was successful,
+>> meaning that the ID assignment was also successful. The only place
+>> where the rules concern themselves about getting the author right is
+>> the initiation of the decision. That means the first initiation
+>> attempt failed due to wrong author and the second one failed due to me
+>> not specifying the options and the vote collector.
+>> The third attempt tried to change the previously assigned ID, which is
+>> impossible, and then tried to initiate a decision of whether to adopt
+>> a proposal that didn't exist. So in the end, the proposal "Pragmatize
+>> strict ordering" never had a decision initiated regarding it.
+>> CoE on the assessor's voting results: the decision about proposal 6546
+>> never existed.
+>
+> CoE denied.  This falls apart at the beginning, as botched distribution
+> no longer creates proposals.  Rule 106, relevant excerpts:
+>
+>      A proposal is a fixed body of text which has been made into a
+>      proposal using a process specifically described in the Rules.
+>
+>      A player CAN create a proposal by publishing ("submitting") a
+>      body of text with a clear indication that it is intended to
+>      become a proposal, which places the proposal in the Proposal
+>      Pool.
+>
+> Contrast with the corresponding relevant excerpt from 106/2 through /18:
+>
+>      A proposal is a document outlining changes to be made to Agora,
+>      including enacting, repealing, or amending rules, or making
+>      other explicit changes to the gamestate.
+>
+> which, independently of the "A player CAN create" clause, meant that an
+> incorrectly-quoted proposal /was/ Platonically a proposal anyway (with
+> no author) because it fit the "A proposal is" definition.
+>
+
+In that case, the first distribution, and thus the first ID
+assignment, failed. The second ID assignment also failed due to a
+wording mistake on my part. I wrote:
+
+>This message serves to initiate, and assign an ID number to, the
+>decision of whether to adopt the following proposal:
+
+This would mean assigning an ID number to the decision, when it should
+be the proposal having an ID.
+However, a decision can be initiated without an ID number being
+assigned. What is required is that I publish the proposal with the
+clear intent of distributing it, which initiates a decision. This
+decision is in turn only initiated if a person authorized to initiate
+it posts a notice saying so. That notice must include all essential
+parameters.
+
+First question is: is the promotor authorized to post such a notice?
+Game custom assumes e is, but the language is confusing. The decision
+must be initiated by the posting of a notice, but it also platonically
+is initiated by the distribution of the proposal. One not unreasonable
+interpretation is that there is no person who is authorized to
+initiate the decision. (This is further confused by the initiation
+being called a "means" of removing the proposal from the pool
+(=distributing it) which messes up cause and effect a little.
+Distribution causes initiation and removal, but the initiation causes
+the removal...) The other interpretation, the one game custom implies,
+is that the distribution is the notice in question.
+
+Second question: if the promotor can initiate decisions, did I at any
+point succeed in doing so with P6546/8? The clear intent to distribute
+was only present in the first try, which specified the wrong author.
+The second try did publish it with a clear intent to initiate the
+decision, but failed in any case to specify the valid options, so
+nothing happened. The third try did publish the proposal (in a quote)
+without clearly intending it to be distributed, so ID assignment 6548
+failed too. I then went on to initiate the decision on proposal 6548,
+which didn't exist, so in the end I probably haven't done anything.
+
+The only possibility is if you read my third try as "I hereby initiate
+the decision on whether to adopt [and at the same time I publish (it's
+in the quote) and distribute] [the proposal I just referred to as]
+proposal 6548", maybe even with an implicit ID assignment in there.
+
+========================================================================
+
+Caller's Evidence:
+
+(the messages purporting to initiate the decision in question):
+
+The first distribution:
+
+2009/10/27 Jonatan Kilhamn <jonatan.kilhamn@gmail.com>:
+> This distribution of proposals and the subsequent assigning of ID
+> numbers initiates the Agoran Decisions on whether to adopt prosals
+> 6542-6547. The eligible voters for these proposals are the active
+> players as of this message, and the vote collector is the Assessor.
+> The valid options on each decision are FOR and AGAINST; as with all
+> Agoran Decisions, PRESENT is also an option. These decisions are all
+> ordinary to begin.
+>
+> NUM   II  AI   SUBMITTER         CHAMBER  TITLE
+> 6542  1   1.7  Murphy            Green    High-rank appeals prefer
+> high-rank panels
+> 6543  1   1.7  Yally             Green    Punish Walker
+> 6544  1   1.7  c.                Green    Punish Yally
+> 6545  1   3.0  coppro            Red      Because E's Worth It
+> 6546  1   1.0  coppro            Green    Pragmatize strict ordering
+> 6547  1   2.0  coppro            Red      Punishment Shmunishment
+>
+> Proposals:
+>
+> (...)
+>
+> ID: 6546
+> Title: Pragmatize strict ordering
+> Author: coppro
+> AI: 1.0
+> II: 1
+> Chamber: Green
+> Distributable: Yes
+>
+> Amend Rule 2161 (ID Numbers) by replacing:
+>
+>     (b) Such an assignment is INVALID unless the number is a natural
+>         number (expressed as a decimal literal with at most 14
+>         digits) distinct from any ID number previously assigned to
+>         an entity of that type, and (if the type of entity is
+>         defined by the rules as strictly ordered) greater than any
+>         orderly ID number so assigned.  The player SHOULD select the
+>         smallest number possible.
+>
+> with:
+>
+>     (b) Such an assignment is INVALID unless the number is a natural
+>         number (expressed as a decimal literal with at most 14
+>         digits) distinct from any ID number previously assigned to
+>         an entity of that type, and (if the type of entity is
+>         defined by the rules as strictly ordered) ILLEGAL unless the
+>         number is greater than any orderly ID number so assigned.
+>         The player SHOULD select the smallest number possible.
+>
+
+The second (quoted) and third attempts at initiation:
+
+2009/10/27 Jonatan Kilhamn <jonatan.kilhamn@gmail.com>:
+> 2009/10/27 Jonatan Kilhamn <jonatan.kilhamn@gmail.com>:
+>> This message serves to initiate, and assign an ID number to, the
+>> decision of whether to adopt the following proposal:
+>>
+>> NUM   II  AI   SUBMITTER         CHAMBER  TITLE
+>> 6546  1   1.0  c.                 Green    Pragmatize strict ordering
+>>
+>> The eligible voters are the active players as of this message.
+>>
+>> Proposal:
+>> ----------------------------------------------------------------
+>>
+>> Title: Pragmatize strict ordering
+>> Author: c.
+>> AI: 1.0
+>> II: 1
+>> Chamber: Green
+>> Distributable: Yes
+>>
+>> Amend Rule 2161 (ID Numbers) by replacing:
+>>
+>>    (b) Such an assignment is INVALID unless the number is a natural
+>>        number (expressed as a decimal literal with at most 14
+>>        digits) distinct from any ID number previously assigned to
+>>        an entity of that type, and (if the type of entity is
+>>        defined by the rules as strictly ordered) greater than any
+>>        orderly ID number so assigned.  The player SHOULD select the
+>>        smallest number possible.
+>>
+>> with:
+>>
+>>    (b) Such an assignment is INVALID unless the number is a natural
+>>        number (expressed as a decimal literal with at most 14
+>>        digits) distinct from any ID number previously assigned to
+>>        an entity of that type, and (if the type of entity is
+>>        defined by the rules as strictly ordered) ILLEGAL unless the
+>>        number is greater than any orderly ID number so assigned.
+>>        The player SHOULD select the smallest number possible.
+>>
+> The proposal is now correctly distributed, but the initiation of the
+> decision and the ID number assignment failed for various reasons.
+>
+> I assign the quoted proposal the ID number 6548.
+> I hereby initiate the ordinary decision of whether do adopt Proposal
+> 6548; the eligible voters are the active players as of this message;
+> the options are FOR and AGAINST (a ballot cast for PRESENT is also
+> valid); the vote collector is the Assessor; any other essential
+> parameters can be found in the quoted text.
+>
+
+Me pointing out that the second initiation didn't include all
+necessary information:
+
+2009/10/27 Jonatan Kilhamn <jonatan.kilhamn@gmail.com>:
+> 2009/10/27 Sean Hunt <rideau3@gmail.com>:
+>> On Tue, Oct 27, 2009 at 2:41 PM, Jonatan Kilhamn
+>> <jonatan.kilhamn@gmail.com> wrote:
+>>> This message serves to initiate, and assign an ID number to, the
+>>> decision of whether to adopt the following proposal:
+>>>
+>>> NUM   II  AI   SUBMITTER         CHAMBER  TITLE
+>>> 6546  1   1.0  c.                 Green    Pragmatize strict ordering
+>>
+>> This ID number assignment fails.
+>>
+>> -coppro
+>>
+> The whole thing failed, I didn't include the options or the identity
+> of the vote collector.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+R106/24 reads:
+      A player specifically permitted by the Rules to distribute a
+      Proposal CAN distribute the proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is
+      distributed, it is removed from the Proposal Pool.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.
+
+This clearly states that an authorized person publishing a proposal
+with the clear intent of distributing it does in fact distribute it,
+whether or not e publishes any other information (e.g. information
+required by the R107 decision initiation process).  And it also clearly
+and directly states that said distribution acts to initiate the Agoran
+decision.  Moreover, it fails to authorize the promotor to initiate the
+decision, as required by R107.  Rather, it states right out that the
+distribution notice initiates the decision.
+
+Now, R107/11 is actually divided into two parts. First, a method for
+initiation (describing what an initiating notice must contain) which
+ends with a sentence similar/parallel to that of R106, saying that "The
+publication of such a valid notice initiates the voting period for the
+decision."
+
+Here, in context, "initiating a decision" in R106 MUST be treated to
+be the same as "initiating the voting period for a decision" in that
+the voting period is the only thing that R106 says is "described
+elsewhere" that can in fact be "initiated".  It's nonsensical to say
+that a process (Distribution) initiates the publication of a further
+notice!  This is where I disagree with the caller, who states that
+initiating a decision somehow "initiates" a requirement for the
+publication of a R107 Notice.
+
+So there are actually two orthogonal methods of initiating [the voting
+period for] a decision, by R106 distributing a proposal, or by publishing
+a valid R107 notice of initiation.  The methods do not conflict in spite
+of the fact that they require different levels of information (and if
+they did conflict, the R106 method would have numerical precedence).
+
+In the current case, the second attempt did not have full R107-notice
+details (available options etc.), but it DID have R106 intent to
+distribute, and the Promotor was authorized to do this by R1607/28, which
+distributed the proposal.
+
+TRUE.
+
+I should note that this interpretation is the best of a set of poor
+options.  It's not for the good of the game to weaken the information
+needed to initiate decisions (and it may mean past distributions
+which were thought to fail actually succeeded).  But note that the
+alternate interpretation, that the distribution "initiates" the need
+for a R107 notice, does indeed break the system as the caller describes,
+as the promoter is not in fact authorized to publish said R107 Notice.
+This interpretation runs against R1698/1 as it would indeed be
+impossible to adopt proposals, and we'd have to recalculate everything
+back to where the rules came to have this form!
+
+The best fix for this is to amend R106 to say something like this:
+Replace:
+      A player specifically permitted by the Rules to distribute a
+      Proposal CAN distribute the proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is
+      distributed, it is removed from the Proposal Pool.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.  Removing
+      a proposal from the Pool by a means other than initiating an
+      Agoran Decision to adopt it is secured.
+with:
+      A player specifically permitted by the Rules to distribute a
+      Proposal CAN distribute the proposal by initiating the Agoran
+      decision of whether to adopt the proposal, as described elsewhere.
+      When a proposal is distributed, it is removed from the Proposal
+      Pool.  Removing a proposal from the Pool by a means other than
+      initiating an Agoran Decision to adopt it is secured.
+
+This fix authorizes the promotor to initiate the decision directly, and
+makes the initiation the means of distribution, rather than distribution
+the means of initiation, thus putting in the R107 notice requirements.
+
+An orthogonal note.  From R1607/28:
+      Distributed proposals have ID numbers, to be assigned by the
+      Promotor.
+means that technically, a proposal is not defined as having an ID number
+until *after* it is distributed.   Fortunately, by R107/11, it is not
+necessary for the ID number to be "officially" assigned to perform
+the distribution (otherwise distribution would be impossible), it is
+enough to say (in the usual order of things) that the indicated number,
+while not being an ID number, serves to clearly identifies the matter
+to be decided the instant before it is distributed (and thus allows
+the decision to be initiated) and then (the instant after distribution)
+the ID number is officially assigned to the proposal in question.
+This convenience in ordering is no more difficult to accept then, for
+example, allowing players to assign AI or perform actions on "the
+following proposal" when they submit a proposal.
+
+Therefore, the success/failure of assigning ID numbers is to be
+considered subsequent to whether the proposal was distributed; if the
+proposal was not distributed, no ID number could be assigned; if the
+proposal was distributed, the ID number may or may not be assigned
+(or in fact could be assigned in a later message).
+
+========================================================================

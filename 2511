@@ -1,0 +1,74 @@
+==============================  CFJ 2511  ==============================
+
+    If there were no rules of power greater than 3, it would be POSSIBLE
+    to enact a power-3 rule reading in part {This rule takes precedence
+    over all other rules.}
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      07 May 2009 00:08:59 GMT
+Assigned to Wooble:                     08 May 2009 06:12:13 GMT
+Judged TRUE by Wooble:                  13 May 2009 02:41:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I each case, it is possible that Rule 1482 makes the supposed changes
+impossible. Depending on whether 1482 applies based on the current state
+of the ruleset or the potential state of the ruleset, the answers may
+well be different. If the judge wishes me to explain in more detail, e's
+free to ask; but I'm having a hard time getting it down right now, so
+I'll defer explanation.
+
+I think the answers are FALSE to all but the second, which is TRUE.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+When talking about what is possible by changing the rules anything can
+change.  These should all be TRUE, as it is possible to remove the
+blocking section of R1482 (removing it would not in itself change
+precedence so it doesn't block its own removal) and then enact any of
+these within the same proposal.
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+The possibility or illegality of an action cannot take into
+consideration the ability to change the rules or else all such inquiries
+would be TRUE - it is referring just to the ability to do that precise
+action.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I'm going to accept Goethe's argument here; when talking about the
+possibility of enacting a rule change, the very nature of nomic is
+that any arbitrary rule change is POSSIBLE, though it may take some
+amount of ingenuity to get around blocks in the rules.
+
+While Agora Is A Nomic came too late to block the second paragraph of
+R1482 from taking effect, its wording sets the standard by which we
+should consider the possibility of a rule change.
+
+I judge TRUE on both CFJ 2511 and 2512.
+
+(Note: had I rejected Goethe's argument, I'd judge these both
+UNDETERMINED; "reading in part" is excessively vague.  The rest of the
+rule could, for example, invalidate the claim of precedence
+altogether.)
+
+========================================================================

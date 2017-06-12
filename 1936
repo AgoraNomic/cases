@@ -1,0 +1,108 @@
+==============================  CFJ 1936  ==============================
+
+    The judge in an equity case CAN make the equation a contest by
+    stating it is one.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+Appeal:                                 1936a
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Called by Wooble:                       07 May 2008 19:00:27 GMT
+Assigned to Murphy:                     08 May 2008 21:36:26 GMT
+Judged FALSE by Murphy:                 16 May 2008 06:14:40 GMT
+Appealed by ais523:                     16 May 2008 15:48:18 GMT
+Appealed by ehird:                      20 May 2008 21:06:22 GMT
+Appealed by Machiavelli:                20 May 2008 21:06:22 GMT
+Appeal 1936a:                           20 May 2008 21:08:11 GMT
+AFFIRMED on Appeal:                     13 Jun 2008 16:21:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2136 provides the only mechanism in the rules for
+making a contract into a Contest.  Rule 2169 provides that:
+
+                 The
+      valid judgements for this question are the possible agreements
+      that the parties could make that would be governed by the rules.
+
+The parties to an arbitrary contract could not make an agreement that
+was a contest without jumping through further hoops to make it one.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+root states:
+> Contest is a class of contract.  Two hypothetical contracts that are
+> identical in text, where one is a non-contest, and the other is a
+> contest with a specific contestmaster, are two distinct "possible
+> agreements that the parties could make".  R2136 doesn't limit the
+> available judgements any further than that, so both are options.
+
+Rule 2136 regulates the means of making a contract into a contest.
+This reasonably implies that the creation of a contest is regulated
+by a specific CAN, and that other mechanisms that manipulate contracts
+can't arbitrarily make then into contests.  Also, this isn't a "possible
+agreement" that the parties on their own could make:  they can only
+make it without 3 Objections, which clearly requires the participation
+of non-parties.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+It is a possible agreement that the parties on eir own could make;
+in fact, it is easier to make a contract a contest if the parties
+on eir own are the only players involved. If root was the only
+player in Agora, then e could trivially create a contest because
+the 3 objections could never happen. Rule 2136 explains how a
+contract can be made into a contest; it specifies how that CAN
+happen. Rule 2169 is more powerful than it is, explaining that if
+a group of players could do something by emselves (and it is
+possible for a player to create a contest by emself, in fact
+failing requires other players to object, which involves more
+players) and that something creates a contract, then that contract
+is a legal outcome for an equity case. Based on that evidence,
+Rule 2169 should win, being able to create a contest (which, in
+this case, root could have done without objection, and therefore
+could have done by emself; it's only when multiple players get
+involved that the contest creation fails). If creating a contest
+required support rather than no objection, though, then my
+argument would be incorrect.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I interpret Rule 2169 as "the possible agreements that the parties
+could make [solely by agreeing to be bound by that agreement]", which
+makes the statement false in general.  The statement is a blanket
+statement, so the existence of specific situations in which it would be
+true (i.e. the judge's statement completes the without-3-objections
+method defined in the first sentence of CFJ 2136) is insufficient.
+
+========================================================================
+
+Appellant ais523's Arguments:
+
+This interpretation of
+rule 2169 appears to have been used purely to prevent a scam, without any
+basis in the rules for it; that text in square brackets is not in the
+rules, and nothing in the rules seems to imply that text into the rules.
+Therefore, I do not believe that Judge Murphy's interpretation of the rule
+was correct, and therefore that caused the result of the CFJ to be
+incorrect.
+
+========================================================================

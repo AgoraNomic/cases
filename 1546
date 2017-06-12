@@ -1,0 +1,183 @@
+==============================  CFJ 1546  ==============================
+
+    In reports and distributions, the Promotor is permitted to add or
+    delete whitespace or other formatting text to or from a proposal,
+    provided that the substance of the proposal is not altered.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  Kolja
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         14 Apr 2005 17:22:09 GMT
+Assigned to Kolja:                      15 Apr 2005 08:29:23 GMT
+Judged TRUE by Kolja:                   20 Apr 2005 12:12:06 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Although I can't find it right now, there has been a similar judgment
+with regard to the Rulekeepor's formatting of the ruleset, which may
+serve as a helpful precedent in this case.
+
+========================================================================
+
+Judge Kolja's Arguments:
+
+Let's try the argument chain from the beginning again:
+
+- a proposal is a body of text (1483).
+- for proposals contining rules changes, these rule changes must be
+written down (107) and guide play in the form they are voted on (107).
+- for rule changes, whitespace or capitalization differences between
+rules text quoted in a proposal for the purpose of removing or
+replacing the quoted text may are not an issue, all other deviations
+(in the quotation of text to be replaced or removed) are (1339).
+- Presumably  the form of a rule change that is voted on is the one
+that was distributed by the proposer (not stated explicitly). At least,
+a proposal distribution must contain the proposal's text or something
+close to it to be valid (CFJ 1089 as quoted in the annotation of 1770).
+- I can't find any reference that governs the changes the rulekeepor
+may or may not perform in formatting rules texts.
+
+It seems to boil down to a common sense decision not backed explicitly
+by any rules. I therefore return a judgement of TRUE just because the
+statement does reflect common sense, and a requirement to keep
+formatting absolutely untouched would create many formal issues and
+questions with no positive effect on the game.
+
+In particular, being too nitpicky about these things might raise doubts
+about proposals made by players who quote their own protoproposals in
+mails to Agora-business just stating "I hereby submit the proto quoted
+below as a proposal" or something to that effect - one could start
+arguing whether the line breaks, indents, quoting marks (">") etc
+inserted by quoting are part of the proposal or not.
+
+========================================================================
+
+Judge Kolja's Evidence:
+
+Rule 1339/6 (Power=3)
+Precision in Rule Changes
+
+      Exact precision is required in the specification of Rule
+      Changes; any ambiguity or irregularity in the specification of a
+      Rule Change causes it to be void and without effect.
+
+      Variations in whitespace or capitalization in the quotation of
+      text in an existing Rule to be removed or replaced does not
+      create an irregularity or ambiguity, for the purpose of this
+      Rule.  Any other variation, however, does.
+
+Rule 1483/9 (Power=1)
+Definition of Proposals
+
+      A Proposal is created when a Legislator who is not Mute
+      publishes a body of text with the clear indication that it is
+      intended to become a Proposal.  The collection of text becomes a
+      Proposal and the entity delivering that text becomes the
+      Proposer of that Proposal. This process is known as Proposing or
+      submitting a Proposal.
+
+      The delivery of text identical to another Proposal which was
+      Proposed less than three weeks previous does not create a
+      new Proposal unless accompanied by a clear and explicit
+      indication that the intent was to Propose a duplicate Proposal.
+
+      The publishing of the Proposal Pool never creates new
+      Proposals.
+
+      All Players are Legislators.  A Player is Mute while e has more
+      than 5 Blots.
+
+[CFJ 762: Anything contained in a Proposal is part of that Proposal,
+ unless the Rules or Game Custom specifically says otherwise.]
+
+Rule 107/1 (Power=3)
+Rule Changes Must Be Written Down
+
+      Any proposed Rule Change must be written down (or otherwise
+      communicated in valid media) before it is voted on. If adopted,
+      it must guide play in the form in which it was voted on.  For
+      the purposes of this rule, print and electronic media, including
+      mailing lists, are valid media.
+
+Rule 1770/16 (Power=1)
+Distributing Proposals
+
+      (a) The Promotor is permitted to distribute a Distributable
+          Proposal at any time.
+
+      (b) During each Week, the Promotor is required to distribute
+          every Proposal that was Distributable at the beginning of
+          that Week, unless the Proposal has since ceased to be
+          Distributable.
+
+      (c) If there were no Distributable Proposals at the beginning of
+          the Week, then the Promotor is required publically to note
+          this fact at some time during the Week.
+
+      (d) Failure by the Promotor to either distribute Proposals as
+          required in (b), or to make an announcement as required in
+          (c), is the Class 1 Infraction of Promotor Tardiness, which
+          any Player may report.
+
+      (e) The Promotor shall include with the distribution of each
+          Proposal the identity of its Proposing Entity, its Adoption
+          Index, and an indication of the Proposal's Chamber. However,
+          the failure of the Promotor to include any of these
+          accompaniments with a Proposal does not deprive the
+          distribution of the Proposal of any legal effect.
+
+      (f) A Proposal is legally distributed only if it is accompanied
+          by an explicit indication that it is being distributed. When
+          a Proposal is distributed, it is removed from the Proposal
+          Pool.
+
+      (g) The Promotor shall not distribute any Proposal which is not
+          Distributable, and must abort any Proposal so distributed.
+          If the Promotor aborts a Proposal which e knows was
+          Distributable at the time it was distributed, e commits the
+          Class 2 Crime of Illegal Abortion.
+
+      (h) The Promotor aborts a Proposal by publishing an announcement
+          to that effect, clearly identifying the Proposal which has
+          been aborted.
+
+      (i) The distribution of an Undistributable Proposal, when the
+          Promotor knows that the Proposal is Undistributable, is the
+          Class 2 Crime of Promotor Misrepresentation.  The
+          distribution of a text purporting to be a Proposal, when the
+          Promotor knows that the text is not a Proposal, is the Class
+          5 Crime of Promotor Fraud.
+
+[In upholding the Judgement of CFJ 1089, the Board of Appeals held
+ that in order for a Proposal to have been legally distributed, it is
+ necessary (although perhaps not sufficient) that some text with
+ demonstrably the same effects as the Proposal have been distributed.]
+
+Some old discussions on similar themes dug up by root:
+
+CFJ 1218:
+http://www.escribe.com/games/agora-official/m88.html
+
+Some notable posts from the discussion surrounding CFJ 1218:
+http://www.escribe.com/games/agora-discussion/m457.html
+http://www.escribe.com/games/agora-discussion/m458.html (informative)
+http://www.escribe.com/games/agora-discussion/m459.html
+http://www.escribe.com/games/agora-discussion/m460.html
+http://www.escribe.com/games/agora-discussion/m468.html
+http://www.escribe.com/games/agora-discussion/m508.html
+http://www.escribe.com/games/agora-discussion/m511.html
+http://www.escribe.com/games/agora-discussion/m526.html
+http://www.escribe.com/games/agora-discussion/m550.html
+http://www.escribe.com/games/agora-discussion/m559.html
+
+========================================================================

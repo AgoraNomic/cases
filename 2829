@@ -1,0 +1,71 @@
+==============================  CFJ 2829  ==============================
+
+    comex has a Leadership Token.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          12 Aug 2010 18:19:46 GMT
+Assigned to Murphy:                     13 Aug 2010 08:54:30 GMT
+Judged FALSE by Murphy:                 13 Aug 2010 09:22:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Does disappearing count as being destroyed?  If not, what is the
+shuttle's position?
+
+If it matters, the Shuttle reached the second wormhole while it was
+impossible to destroy it (see previous CFJs).  The rules were then
+amended to allow it to be destroyed.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2297:
+
+                                        An object's position must be
+      between 0 and the position of the second wormhole. Any object
+      that finds itself outside of this area or on a wormhole is
+      warped and disappears.
+
+Rule 2299:
+
+      If the Shuttle reaches the end of the journey and is warped,
+      each player aboard the Shuttle is rewarded a farad. If the
+      Shuttle is destroyed, the Enemy is rewarded a Leadership Token
+      and can only initiate the next journey with three support
+      (anyone else still only needs notice).
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+There are three possible interpretations, all leaning the same way:
+
+  1) A warped object ceases to be In Space (perhaps it becomes
+     In Hyperspace).  As this is backed by Rule 2297, it takes
+     precedence over Rule 2298's claim that the shuttle (if any)
+     is In Space, though it may only have effect for a moment
+     (after which Rule 2298 forces it to re-appear at position 1).
+
+  2) A warped object ceases to have a position.  This would cause
+     Rule 2297 to contradict itself, so by Rule 2240 the later clause
+     (in this case the result of warping) would take precedence,
+     though it may only have effect for a moment (after which etc.).
+
+  3) A warped object ceases to exist, but "destroyed" is a subset of
+     ceasing-to-exist that depends on the rules specifying destruction
+     rather than e.g. disappearance.
+
+========================================================================

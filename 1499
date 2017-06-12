@@ -1,0 +1,267 @@
+==============================  CFJ 1499  ==============================
+
+    Rule 2050 has been repealed.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Taral
+Judgement:                              
+
+
+Judge:                                  Pakaran
+Judgement:                              
+
+
+Judge:                                  Cainech
+Judgement:                              
+
+
+Judge:                                  Kolja
+Judgement:                              FALSE
+
+Appeal:                                 1499a
+Decision:                               SUSTAIN
+
+========================================================================
+
+History:
+
+Called by G.:                           20 Apr 2004 22:09:33 GMT
+Assigned to Taral:                      21 Apr 2004 04:47:32 GMT
+Taral recused:                          29 Apr 2004 05:55:24 GMT
+Assigned to Pakaran:                    02 May 2004 21:11:26 GMT
+Pakaran recused:                        16 May 2004 21:11:26 GMT
+Assigned to Cainech:                    22 May 2004 18:17:29 GMT
+Cainech recused:                        31 May 2004 20:33:03 GMT
+Assigned to Kolja:                      31 May 2004 20:39:37 GMT
+Judged FALSE by Kolja:                  04 Jun 2004 21:59:10 GMT
+Appealed by Taral:                      09 Jun 2004 19:40:58 GMT
+Appealed by root:                       09 Jun 2004 20:16:56 GMT
+Appealed by Maud:                       09 Jun 2004 23:44:11 GMT
+Appeal 1499a:                           09 Jun 2004 23:44:11 GMT
+SUSTAINED on Appeal:                    04 Jul 2004 15:45:52 GMT
+Appealed by root:                       19 Jun 2005 22:21:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 105 (Power=3) specifies:
+     A Rule Change is any of the following:
+         * The repeal of an existing Rule;
+
+and Rule 107 (Power=3) notes:
+      Any proposed Rule Change must be written down (or otherwise
+      communicated in valid media) before it is voted on. If adopted,
+      it must guide play in the form in which it was voted on.
+
+Herald root's attempt to perform the rule change of repealing Rule 2050,
+while specified by Rule 2050 itself, "If there are no Players that
+hold at least one Weed or Daffodil, the Herald may repeal this Rule
+without Objection." was not voted on.
+
+It is true that Rule 1322 (Power=3) states that "A given Rule Change
+shall not take effect unless the Power of the instrument which specified
+it is at least as great as the greater of the current Power of the Rule
+to be Changed (if any)..."  and Rule 2050 is as powerful as itself, and
+specifies the change.  However, this contradicts Rule 107's stipulation
+that Rule Changes guide play in the form they are voted on, as it cannot
+be said that root's particular change was voted on.  And Rule 107 has a
+higher precedence than Rule 1322, or of course Rule 2050.
+
+While Rule 107 defers to other sets of rules to define "voting" it can
+not be reasonably stated that performing an action without objection is
+part of voting mechanisms.  Votes and vote proceedures are defined
+explicitly in many other rules (e.g. Rule 106).  Getting approval by
+having no objections as per Rule 1728 (Power=2) is not specifically part
+of these mechanisms.
+
+Also note that Rule 115, on self-reference, speaks of self-referential
+rule changes, not self-referential rules (in spite of the rule's title).
+
+========================================================================
+
+Judge Kolja's Arguments:
+
+According to 105, a rules repeal is a rule change.
+
+107 requires 'proposed' rule changes to be in writing, to be voted on
+and to be enacted as voted on.
+
+However, the repeal of 2050 was never 'proposed'. This can be
+interpreted to imply that it was not a legal rule change at all, or
+simply that the requirements of 107 do not apply to it. The former
+interpretation seems to be that of the caller of this CFJ and would
+lead to a judgement of FALSE.
+
+I will argue below that I do not subscribe to this reasoning, so let's
+pursue the latter interpretation. Is it acceptable to allow
+'non-proposed' rule changes to happen, and is this authorized by the
+rules?
+
+The rules do not clearly require that all rule changes must be
+triggered by proposals.
+
+There is very little rules language linking proposals to rule changes
+at all; in 107, 'proposed rule change' is used as a kind of synonym for
+'proposal' (note that its _title_ seems to imply that _all_ rule
+changes are affected by the rule, but the rule _text_ only refers to
+'proposed' rule changes), but most rules about rule changes do not
+mention proposals (or any other mechanisms to enact rule changes)
+specifically, e.g. 1339. In addition, 1322 seems to be worded
+intentionally to avoid specifying the mechanisms or instruments that
+cause rule changes, as is the last sentence of the first paragraph of
+594.
+
+On the other hand, proposals are not necessarily about rule changes: In
+fact, CFJ 778 stated that proposals don't have to contain rule changes
+at all, and the concept of null proposals (2016) explicitly allows this
+possibility.
+
+[Side note: In my opinion, rules _are_ able to repeal other rules or
+themselves. The only restrictions to rule-triggered repeals I could
+find in a cursory scan of the rules are in 594 (power of the repealing
+rule must be at least as high as that of the repealed rule). This is
+trivially irrelevant in the case of self-repealing rules.
+
+There is precedence for rules being repealed through the action of
+other rules or themselves (I believe the Repeal-O-Matic was an
+example), so if 2050 had simply repealed itself a judgement of FALSE on
+this CFJ would run into inconsistencies with previous game custom, but
+this is not the issue here because the repeal of 2050 was only
+authorized by 2050, but actually executed by the Herald.
+
+The annotations to 115 mention CFJ 700 that allowed self-repealing
+rules. While I'm not sure whether there were substantial changes to the
+proposal system since then, this would be consistent with a judgement
+of TRUE on the present CFJ _provided_ the rule had repealed itself.
+
+Bottom line: although it might be seen as an imprecision in 107 (if it
+started 'all rule changes must be proposed in writing...' or some such
+thing the situation would be quite different), I don't see any reason
+why rules should not be able to repeal other rules or themselves.]
+
+However, here we are dealing not with a rule repeling a rule (namely
+itself), but with an officer repealing a rule. This is never
+specifically mentioned in the rules or game custom, as far as I could
+see. It is not a 'proposed' rule change (I consider 'proposing' a rule
+defined term because the term 'proposal' is), so the 'voting'
+requirement of 107 does not apply (no matter whether one considers the
+'without objection' mechanism a 'vote' or not).
+
+The crucial point is whether the requirement of 1322 is met. This
+depends on which entity 'specified' the rule change. I do not believe
+that it was the rule itself (otherwise my reasoning above about
+rule-triggered repeals would apply, and the repeal would stand). 2050
+only authorized (or tried to authorize) its repeal by another
+instrument, but it did not actually trigger it (this required a
+decision by the Herald and the 'without objection' routine - without
+this action from the Herald the rule would have continued to exist).
+
+Probably the entity actually doing the repeal was the Herald emself or,
+possibly, the announcement(s) of eirs indicating the intent to repeal
+the rule without objection. These entities do not have a power assigned
+to them in any rule I can find, so their power is probably zero (1688).
+They are thus not really 'instruments' (which must have a non-zero
+power per 1688) and the requirement of 1322 is not met.
+
+I therefore judge the CFJ to be FALSE.
+
+========================================================================
+
+Judge Kolja's Evidence:
+
+Rule 105/1 (Power=3)
+What Is a Rule Change?
+
+      A Rule Change is any of the following:
+
+      * The enactment of a new Rule;
+      * The repeal of an existing Rule;
+      * The amendment of the text of an existing Rule; or
+      * Any change to a substantive property of a Rule other than
+        its text.
+
+      A "substantive property of a Rule" is any property of that
+      Rule (other than its text) which determines in part or in full
+      the ability of that Rule to govern by itself or in conjunction
+      with other Rules.
+
+Rule 107/1 (Power=3)
+Rule Changes Must Be Written Down
+
+      Any proposed Rule Change must be written down (or otherwise
+      communicated in valid media) before it is voted on. If adopted,
+      it must guide play in the form in which it was voted on.  For
+      the purposes of this rule, print and electronic media, including
+      mailing lists, are valid media.
+
+Rule 1322/3 (Power=3)
+Effectiveness of Rule Changes
+
+      A given Rule Change shall not take effect unless the Power of
+      the instrument which specified it is at least as great as the
+      greater of the current Power of the Rule to be Changed (if any)
+      and the Power the Rule would have after the Change (if any).
+
+Rule 1339/6 (Power=3)
+Precision in Rule Changes
+
+      Exact precision is required in the specification of Rule
+      Changes; any ambiguity or irregularity in the specification of a
+      Rule Change causes it to be void and without effect.
+
+      Variations in whitespace or capitalization in the quotation of
+      text in an existing Rule to be removed or replaced does not
+      create an irregularity or ambiguity, for the purpose of this
+      Rule.  Any other variation, however, does.
+
+Rule 594/8 (Power=3)
+Power and Proposals
+
+      No Rule may have Power less than 1 or greater than 4.  Except as
+      described in this Rule, no entity can set the Power of any
+      entity to exceed the Power of the entity causing the Power to be
+      so set.  No entity may destroy or repeal an entity with Power
+      greater than its own.
+
+      When a Proposal takes effect, its Power shall be set equal to
+      its Adoption Index, and the provisions contained in the text of
+      the Proposal are implemented to the maximal extent permitted by
+      the Rules.
+
+      Provisions which are unclear, ambiguous, or inapplicable are
+      ignored.  In a Proposal containing more than one provision, each
+      provision is severable from the others, unless the Proposal
+      states otherwise.
+
+      For the purpose of the Rules, the application of an adopted
+      Proposal is a legal procedure for changing Nomic Properties.
+
+Rule 2050/0 (Power=2)
+The Garden
+      A Daffodil is a Boon that may be awarded as the Rules specify or
+      by an Instrument of Power 2 or greater.
+      A Weed is an Albatross that may be awarded as the Rules specify
+      or by an Instrument of Power 2 or greater.
+      If there are no Players that hold at least one Weed or Daffodil,
+      the Herald may repeal this Rule without Objection.
+
+Rule 1688/1 (Power=3)
+Power
+
+      Power is an Index.  An Instrument is an entity with nonzero
+      Power.  The Power of a given entity is zero unless otherwise
+      defined by the Rules.
+
+========================================================================
+
+Appellant Taral's Arguments:
+
+Rule 1322 specifies the Power
+of the instrument which _specifies_ the Rule Change. Rule 2025 specified
+the Rule Change, the Herald was merely the executor of it.
+
+========================================================================

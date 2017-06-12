@@ -1,0 +1,104 @@
+==============================  CFJ 2669  ==============================
+
+    The Grand Poobah is the dealer of the Deck of Government.
+
+========================================================================
+
+Caller:                                 Tiger
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Tiger:                        24 Aug 2009 21:01:23 GMT
+Assigned to Murphy:                     27 Aug 2009 14:56:54 GMT
+Judged TRUE by Murphy:                  27 Aug 2009 15:25:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The rules are a bit mixed up on this. Here's my reasoning:
+Each class of assets has a recordkeepor. The recordkeepor of a Deck is
+known as its Dealer. The rules say that the Deck of Government is
+"tracked by the Grand Poobah". There are two ways this can be
+interpreted as em being the recordkeepor, and neither is very clear.
+
+The first is that the Deck through that sentence is "associated by the
+rules to a particular recordkeepor" as required by R2253. the Grand
+Poobah is a recordkeepor of other things, so in a way the sentence
+"this deck is tracked by the GP" associates the deck with a
+recordkeepor, but I'm not sure if that counts.
+
+The other is that "tracks" is considered a synonym to "is the
+recordkeepor of" generally. "Tracks" isn't used in the ruleset for
+anything but switches, except for the decks.
+
+I'll leave this up to a capable judge.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2166:
+(...)
+     The recordkeepor of a class of assets is the entity (if any)
+     defined as such by, and bound by, its backing document.  That
+     entity's report includes a list of all instances of that class
+     and their owners.  This portion of that entity's report is
+     self-ratifying.
+(...)
+
+Rule 2253:
+(...)
+     A Deck is a collection of card types associated in the Rules
+     with a particular recordkeepor, who is known as the dealer for
+     that deck and for the cards in that deck.
+(...)
+
+Rule 2258:
+(...)
+     The Deck of Government is a deck of cards tracked by the Grand
+     Poobah.
+(...)
+
+
+Rule 2162:
+     A type of switch is a property that the rules define as a
+     switch, and specify the following:
+(...)
+     c) Exactly one officer who tracks instances of that switch.
+        That officer's report includes the value of each instance of
+        that switch whose value is not its default value.
+(...)
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Other than decks, the ruleset currently uses "recordkeepor" in
+the following ways:
+
+  * Rule 2125(e) (Regulation Regulations)
+  * Assets (various)
+
+for assets, and uses some form of "track" in the following ways:
+
+  * "X is a switch, tracked by Y" (various)
+  * "X is an office; its holder is responsible for keeping track
+      of Y" (various)
+  * IADoP tracks II of offices (2227)
+  * Scorekeepor tracks Medals (2242)
+
+Based on ordinary-language definitions, both terms refer to a duty
+to perform bookkeeping for a designated portion of the gamestate.  No
+rule attempts to overrule this (Rule 2166 merely prevents itself from
+being used to mousetrap someone into such a duty), so by Rule 754(4)
+the ordinary-language definitions apply.  Thus, the terms are
+interchangeable in the intuitive sense exhibited by Rules 2253 and
+2258.
+
+========================================================================

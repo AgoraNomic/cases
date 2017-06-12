@@ -1,0 +1,47 @@
+==============================  CFJ 2630  ==============================
+
+    There is an election for Janitor in its nomination period.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      07 Jul 2009 02:07:58 GMT
+Assigned to G.:                         10 Jul 2009 05:59:14 GMT
+Judged FALSE by G.:                     16 Jul 2009 19:05:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ais523 wrote:
+> On Mon, 2009-07-06 at 20:01 -0600, Sean Hunt wrote:
+>> I intend, without support, to initiate an election for Janitor.
+> I support and do so.
+
+"without support" => I CFJ {There is an election for Janitor in its
+nomination period.}
+
+========================================================================
+
+Judge G.'s Arguments:
+
+coppro announced eir intent to initiate the election "without support".
+This runs afoul of R1728/24's requirement:   "unambiguously and clearly
+specifying the action and method(s) (including the value of N for each
+method)."  'The Unambiguously and clearly' standard was specifically
+designed to be a high standard so that persons couldn't try to fool
+Agora by announcing the wrong method (e.g. saying "with support" when
+the method is w/o objection, in the hopes that no-one would realize
+and object).  So even if there's only one way in the rules to initiate
+the election, the method must be unambiguous and clearly specified in
+the intent.  FALSE.
+
+========================================================================

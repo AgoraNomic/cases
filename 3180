@@ -1,0 +1,92 @@
+==============================  CFJ 3180  ==============================
+
+    Mr. Incredible changed his name to {. I cause} to deregister.
+
+========================================================================
+
+Caller:                                 FKA441344
+
+Judge:                                  ais523
+Judgement:                              MALFORMED
+
+========================================================================
+
+History:
+
+Called by FKA441344:                    05 Mar 2012 01:03:41 GMT
+Assigned to ais523:                     10 Mar 2012 18:16:29 GMT
+Judged MALFORMED by ais523:             16 Mar 2012 14:49:34 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ Rule 754:
+ {
+  A difference between two nonempty spans of whitespace is inconsequential
+  in all forms of communication for all purposes.
+ }
+
+========================================================================
+
+Caller's Evidence:
+
+ omd, 17 Feb:
+ {
+  I cause Mr. Incredible to change his name to '. I cause ' to deregister.
+ }
+
+ Golemkeepor's report, 18 Feb[not ratified]:
+ {
+  Fri 17 Feb 03:33  Mr. Incredible changes eir name to '. I cause'.
+ }
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+sigh
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+in the context of the full message, the intent
+is clearly for the Slave Golem to choose a confusing name and then
+deregister. True, whitespace is irrelevant, but even collapsing the
+whitespace, the message naturally reads as the intended
+interpretation, and makes no sense at all with the unintended one.
+Additionally, for quoting tricky sections (including punctuation,
+etc.), it is Agoran custom to use more solid enclosures like {}.
+
+========================================================================
+
+Gratuitous Evidence by ehird:
+
+[CotC: quoting omd]
+
+I cause Mr. Incredible to change his name to '.
+
+I cause ' to deregister.  [thus destroying it; Rule 2361's first
+sentence arguably enforces that Slave Golems are always players, but
+both Rule 869 and the right to deregister take precedence]
+
+Now you can't get me because selecting a confusing nickname is not
+defined as a Crime, and you can't get em because e's been destroyed.
+Neener neener.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJs 3180 and 3181 technically MALFORMED, as the sequence of
+characters given as the CFJ "statement" can't be parsed as a statement,
+being nonsensical when interpreted as English and not meaningful in
+other natural languages I know.
+
+In spirit, they're FALSE; the lexing of the ambiguous statement where
+Mr. Incredible was doing that doesn't make sense. In general, if there's
+two different reasonable ways to tokenise a statement, the presumption
+is that it's intended to tokenise via the method that parses correctly.
+
+========================================================================

@@ -1,0 +1,253 @@
+==============================  CFJ 2651  ==============================
+
+    If I don't receive 15 objections, it will be POSSIBLE for me to
+    indirectly cause a Rule Change using Contract A.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          07 Aug 2009 19:14:23 GMT
+Assigned to G.:                         08 Aug 2009 16:13:10 GMT
+G. recused:                             10 Aug 2009 03:38:30 GMT
+Assigned to Murphy:                     16 Aug 2009 19:50:18 GMT
+Judged FALSE by Murphy:                 19 Aug 2009 00:30:58 GMT
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+On Aug 7, 2009, at 12:41 AM, Kerim Aydin <kerim@u.washington.edu> wrote:
+
+>
+> On Thu, 6 Aug 2009, comex wrote:
+>> If Contract A were a rule, it would be possible to use the without 15
+>> objections mechanism to create a new rule; therefore, R1728
+>> authorizes
+>> it as long as the effects of the action are restricted to altering
+>> entities and/or attributes whose existence depends on Contract A.
+>
+> If contract A were a Rule, it would be a Rule without Power, as no
+> Power has been given to the rule or enacting instrument.
+
+By Rule 2141, it is not possible for a rule to have power outside
+[1,4].  The hypothetical Contract A rule must have some Power in that
+set; the exact value doesn't matter.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+But how it got to that value does matter, and R1688 has precedence over
+R2141.  Note: to act, the contract must have power as if it were a rule,
+not act "as if it were a rule of power".  (It must have the power, not
+be acting "as if" it had the power).  -G.
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1728/24 (Power=3)
+Dependent Actions
+
+      A person CAN perform a dependent action authorized by a contract
+      as if that contract were a rule, provided that the above
+      requirements are otherwise met, and that the effects of that
+      action are restricted to altering entities and/or attributes
+      whose existence depends on that contract.
+
+If Contract A were a rule, it would be possible to use the without 15
+objections mechanism to create a new rule; therefore, R1728 authorizes
+it as long as the effects of the action are restricted to altering
+entities and/or attributes whose existence depends on Contract A.  The
+new rule is an entity whose existence depends on Contract A (because
+it repeals itself if the contract is destroyed), so this condition is
+satisfied.
+
+One counter-argument is that "creating" and "altering" are different
+things, but game custom is strongly in favor of interpreting
+"altering" in a general sense.  Otherwise, in a contract like:
+{
+Oddballs are an asset regulated by this contract.  Any party CAN
+create an Oddball in eir own possession by announcement, or in any
+other party's possession without objection.
+}
+the first mechanism would work but the second wouldn't, which is
+bizarre (and I'm sure there are real contracts which would be broken
+under such an interpretation).
+
+Note that Rule 1728 takes precedence over Rule 2140 (Power Controls
+Mutability), so any issue of the power of the contract is moot.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following contract:
+
+{
+This contract is a public contract and a pledge, known as Contract A.
+comex CAN make Contract Changes to this contract by announcement.  If
+this contract is a Rule, it hereby allows itself to make Rule Changes.
+
+Anyone CAN, without 15 objections, cause this contract to enact a new
+Power-1 Rule with the following text:
+
+      If Contract A is destroyed, this Rule immediately repeals
+      itself.
+      comex CAN cause this rule to amend itself by announcement.
+
+}
+
+I intend, without 15 objections, to cause Contract A to enact a new
+Power-1 Rule with the following text:
+
+      If Contract A is destroyed, this Rule immediately repeals
+      itself.
+      comex CAN cause this rule to amend itself by announcement.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+[first message]
+
+As you predict, I believe that the Rule Change is the Rule Change--
+the creation of the rule with power X, title Y, text Z.  Therefore,
+e.g., I could perform the same Rule Change by a (potentially entirely)
+different mechanism without getting public review again.
+
+I think the arguments in CFJ 2424 (including your own) are highly
+relevant here.  In particular, in that case there was an ambiguity
+which of two different Rules was indirectly authorizing a Rule Change;
+in this case there is an ambiguity as to whether (reduce it to two
+options for argument) an authorizing Rule had Power 1 or Power 3.  In
+each case, the attempted Rule Change would succeed and have the same
+effect no matter which way the ambiguity is resolved, but a CFJ on the
+mechanism would be UNDETERMINED.  In that case, it was decided that
+the ambiguity matters only if it makes a substantive difference in the
+outcome (e.g. it counts toward one points total or other).  As you
+wrote,
+{
+It is perfectly true that a rules amendment could *make* the actions
+for rule changes that Murphy attempted into different actions (for
+example with ais523's recent proposal attempt) but currently that is not
+so.
+}
+
+I believe it's not in the interests of the game for the limits of the
+ambiguity requirement to be themselves ambiguous.  If they are
+restricted to actual ambiguity in the nature of the change-- the
+"specification of the rule change", not its circumstances, as I think
+was intended, there is no need to judge in each case whether some
+ambiguity is significant.  If the ambiguity would cause the creation
+of a rule with UNDETERMINED properties, it is significant and the
+action fails; otherwise, it is insignificant and does not block the
+action.  (Contract A is not a real rule and there was no rule change
+creating it; it's hypothetical, so the ambiguity restriction does not
+apply to its own "creation".)
+
+So, is there a specific modicum of significance that distinguishes
+this case from CFJ 2424?  If so, what is it?
+
+[second message]
+
+By the way, I forgot-- it's even closer to CFJ 2424 than that.
+Remember, I (publicly) decided that the original scam would fail due
+to R105, and instead plan to have Contract A cause Rule 2105 (or
+another real Power-1 rule) to create the new rule.  In this case, Rule
+2105 (The Map of Agora) is the enacting agent and there is no
+ambiguity as to *its* substantive aspects.  Like 2424, the only issue
+is as to the nature of the rule authorizing a player to cause the
+enacting agent to cause a Rule Change (whew...).  In that case, which
+rule, in this, its power.
+
+[G.'s reply (I hope you don't mind me posting it?)]
+
+First, if a Contract A "causes Rule 2105 to do something" that is
+*definitely* changing a substantive aspect of R2105 (the aspect of "what
+R2105 does") so I don't think that works if your previous way doesn't.
+
+I agree it's very similar to 2424.  But I reason as follows:
+1.  In CFJ2424, we had two rules with known properties, both of which
+could have inarguably done the rule change.
+2.  Here, we have a wholly hypothetical rule.  I said previously we
+know its power is between 1-4.  But we don't even know that!  If we're
+in the bounds of a hypothetical instrument, it could (hypothetically) have
+its power set in a manner that contradicts and is of higher power than
+rule 2141.  Once you are assuming an entity with hypothetical properties,
+you could say "it could do anything" or "it's ambiguous, so it can't
+do anything it's ambiguous about."  That just crosses the R105 line.
+
+It's also possible that CFJ2424, dealing with a trivial difference,
+I didn't see the full ramifications, and so it should be overruled
+once they become clear.
+
+[my reply, not previously sent]
+
+IMO 2105 isn't being altered [it's the same rule afterward, isn't
+it?], just used as a "catalyst".  (N.B. for anyone reading: this is
+about Rule 1728's restriction that it alter entities whose existence
+depends on the contract, *not* the somewhat more stringent
+requirements of Power Controls Mutability, which wouldn't apply if
+Contract A were a rule with any Power in [1,4] as Rule 2105 is
+Power-1.)
+
+Nor is there any reason for the power to be set out of [1,4]; the most
+natural way to assume Contract A is a rule is to assume that it has a
+power within the Rule-prescribed range.
+
+But I'm repeating myself, so let's see what other players think.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+> > JUDGE'S PROTO-ARGUMENTS:
+> >
+> > Let's start with the authorizing agent:  R1728/24 (power=3) reads in
+> > part:
+> >       A person CAN perform a dependent action authorized by a contract
+> >       as if that contract were a rule, provided that the above
+> >       requirements are otherwise met, and that the effects of that
+> >       action are restricted to altering entities and/or attributes
+> >       whose existence depends on that contract.
+>
+> I think this can actually be shot down based on that last restriction,
+> as the new rule (once created) would continue to exist independently
+> of the contract.
+
+The rule in question stated that it was repealed if the contract
+disappeared.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The real conflict is between Rules 1728:
+
+      A person CAN perform a dependent action authorized by a contract
+      as if that contract were a rule, ...
+
+and 2141:
+
+      Every rule has power between one and four inclusive.  It is
+      not possible for a rule to have a power outside this range.
+
+1728 takes precedence - particularly over 2141's "It is not possible" -
+so it allows contract-defined dependent actions as if the contract were
+a power=0 rule.  Rule 2140 then prevents that hypothetical power=0 rule
+from creating a power=1 rule, and Rule 1728 does not conflict with it.
+
+========================================================================

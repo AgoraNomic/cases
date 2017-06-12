@@ -1,0 +1,51 @@
+==============================  CFJ 3120  ==============================
+
+    ais523 violated a SHOULD requirement in rule 2205 by submitting this
+    CFJ.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Yally
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       06 Nov 2011 20:44:14 GMT
+Assigned to Yally:                      10 Nov 2011 16:23:12 GMT
+Yally recused:                          20 Nov 2011 22:36:53 GMT
+Assigned to woggle:                     20 Nov 2011 23:10:06 GMT
+Judged FALSE by woggle:                 22 Nov 2011 05:49:29 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+[CotC: arguments and evidence are arranged as originally presented]
+
+Evidence: What should be the arguments are labelled as evidence, and
+vice versa.
+
+========================================================================
+
+Caller's Evidence:
+
+Arguments: The above evidence.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I judge CFJ 3120 FALSE. It seems that ais523 considered "the full
+implications of failing to" label arguments and evidence correctly. If
+not, then the definition of "SHOULD" does not create any requirements to
+violate.
+
+========================================================================

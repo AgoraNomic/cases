@@ -1,0 +1,96 @@
+==============================  CFJ 3288  ==============================
+
+    I own multiple Machiavelli trading cards.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Roujo
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          05 Nov 2012 23:59:51 GMT
+Assigned to Roujo:                      11 Nov 2012 19:13:54 GMT
+Judged FALSE by Roujo:                  13 Nov 2012 15:14:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+None of the promises I attempted to cash were "copies" of
+each other, because (despite the rules defining them as fungible) they
+had different properties, namely asset possession.
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, Nov 5, 2012 at 11:24 AM, Tanner Swett <swettt@mail.gvsu.edu> wrote:
+> Well, gee, ais523's promises seem to be being pretty effective.
+>
+> I submit 7 promises: "I transfer a Machiavelli trading card to the
+> cashier." Conditions for cashing: (a) in the same message, the cashier
+> gives me a trading card I did not already own a copy of; (b) the
+> cashier has not already cashed another copy of this promise in the
+> same message; and (c) if the cashier is omd, e has not already cashed
+> another copy of this promise at any time in the past. I can destroy
+> these promises unconditionally.
+
+I transfer an omd trading card to Machiavelli.  I transfer one of the
+quoted promises that is still owned by the Tree to me and cash it.
+
+I create a Slave Golem named "Mr. A", and cause it to create a promise
+with text { I deregister. } and transfer it to me.  I transfer Mr. A
+to one of the aforementioned promises that is still owned by the Tree,
+transfer that promise to me, and cash it.
+I repeat these steps with golems named "Mr. B", "Mr. C", "Mr. D", and "Mr. E".
+I cash all the promises that the aforementioned Golems transferred to me.
+
+CFJ 2743, I guess.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+Generally, an object is considered to be a "copy" of
+another if it is intended to be essentially identical to it. A
+hand-made copy of a painting is by no means identical to the original,
+but the copy is intended to resemble the original as closely as
+possible. If one takes a photograph of a painting and then gives the
+subject a mustache, the photograph is a derivative work, not a
+copy—not because the photograph is different from the original
+painting, but because it is intentionally and significantly different.
+
+The seven promises I created are identical in text and functionality,
+and they were intended to be essentially identical; clearly, I did not
+intentionally introduce any differences between them. I think it's
+also clear that when I wrote the word "copy", I intended for all of
+the promises to be considered copies, because otherwise, I'm open to
+scams.
+
+========================================================================
+
+Judge Roujo's Arguments:
+
+If the lack of any difference whatsoever in any defining property was
+necessary for two things/assets/promises/what-have-you to be considered copies
+of one another, they would have to have the same owner, date of creation,
+physical location - *atoms*, even. Essentially, copies would not exist as
+they'd have to be one and the same. Counterfeiting would be a non-issue, sure,
+but "I create X copies of the following promise" would be impossible: if you
+can say how many there are, it means that they're different in some way, so
+they're not copies using the most strict meaning of the word.
+
+That's why the general, popular meaning of "copy" follows what Italy argued
+here, that is something that is essentially identical while allowing some
+differences such as possession, Unique ID and other such metadata. Since
+copy/copies isn't defined nor mentioned in the rules, it is to that meaning we
+should fall back (R754). Hence, since Antony had already cashed a copy of that
+promise, e couldn't cash another since the promise's cashing condition
+couldn't evaluate as TRUE anymore.
+
+========================================================================

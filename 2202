@@ -1,0 +1,99 @@
+==============================  CFJ 2202  ==============================
+
+    Proposal 5707 is a democratic proposal.
+
+========================================================================
+
+Caller:                                 Wooble
+Barred:                                 ais523
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       01 Oct 2008 15:44:25 GMT
+Assigned to root:                       02 Oct 2008 06:03:12 GMT
+Judged FALSE by root:                   07 Oct 2008 21:48:21 GMT
+
+========================================================================
+
+Judge root's Arguments:
+
+The order of events as I understand it is this:
+
+23 Sep 2008 22:05:13: ais523 attempts to distribute a proposal 5707, but
+fails.
+23 Sep 2008 22:08:59: woggle announces eir intent to make proposal
+5707 democratic.
+23 Sep 2008 23:21:26: PNP distributes proposal 5707.
+01 Oct 2008 12:30:25: Wooble attempts to make proposal 5707 democratic
+using woggle's intent.
+
+At the time woggle announced eir intent, there was no proposal 5707
+and no Agoran decision about whether to adopt it.  As such, woggle was
+not authorized to make the decision democratic at the time.  Per R728,
+"A player authorized to perform a dependent action (the initiator) CAN
+publicly announce eir intent to do so"  Per R2125(c), the action of
+announcing intent to perform a dependent action is therefore
+regulated, and it CANNOT be performed except as allowed by the rules.
+Because of this, woggle's attempt to announce eir intent to perform
+the action failed.  To my knowledege, there have been no other
+attempts to make the proposal democratic, so I assign a judgement of
+FALSE to CFJ 2202.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+ais523 wrote:
+
+> Well, I think the democratisation didn't work for slightly different
+> reasons; woggle intended to make a non-existent (at the time) Agoran
+> decision democratic. As it happens, a proposal was assigned the number
+> 5707, and there was an Agoran decision about it; but a different
+> proposal (there were 7 in the pool at the time IIRC) could have been
+> assigned that number, or the number might not have been used due to a
+> Promotor mistake, for instance. So I don't think that the intent was
+> unambiguous, and unambiguity is needed for an intent to work.
+
+woggle stated eir intent in response to the Monster's alleged deputy
+distribution of 5707, which was only later determined to have been
+invalid because the Promotor wasn't required to distribute it until the
+following week.  That's unambiguous enough in my book, especially since
+that same proposal did get ID number 5707 when the PNP distributed it.
+
+I'm curious, I looked up this context in the archives and you made this
+comment:
+
+> I act on behalf of the Monster to deputise for the Promotor to assign
+> this proposal the ID number 5707 (believing a lower number would be
+> confusing, as the PerlNomic Partnership has already reserved all lower
+> numbers for proposals it's tried and failed to distribute).
+
+but I don't remember the PNP publishing any invalid attempts to
+distribute (except for an early test run, and one of my proposals where
+someone entered the wrong AI).  Were you referring to someone activating
+a "publish what's in the pool" script containing some "not until more
+time passes and/or more proposals are added" logic, or what?
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+There were 6 proposals in the pool at the time (7 after the proposal),
+and the PNP tends to distribute proposals in the order they were
+submitted unless there are at least 10 in the pool. The PNP wasn't told
+about 5707 until after 5701-6 had been distributed so that it would
+distribute it in a distribution by its own, but that was simply because
+it was the most convenient way to do it; that part of the scam could
+equally well have been done by removing 5701-6 from PerlNomic's notion
+of what the pool was, distributing 5707, and re-adding them (and thus
+the proposal called 5707 in the current gamestate would instead have
+been 5701), and the only reason it wasn't done that way was that it
+would have been more typing. In other words, which proposal would get
+the number 5707 was far from certain until it was actually distributed.
+
+========================================================================

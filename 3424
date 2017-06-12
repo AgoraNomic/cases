@@ -1,0 +1,85 @@
+==============================  CFJ 3424  ==============================
+
+    There is ambiguity in a rule change specification of the form
+    "Create the following Rule, AI=2, Moving Goalposts { text text text
+    }".
+
+========================================================================
+
+Caller:     omd
+
+Judge:      Henri
+Judgement:  FALSE
+
+========================================================================
+
+Called by omd:                                      14 Jul 2014 16:03:25
+Assigned to Henri:                                  25 Jul 2014 17:18:56
+Judged FALSE by Henri:                              29 Jul 2014
+
+========================================================================
+
+<CAPM5UJ0DKQyD414aKFzFme6YcJXo2AH0LvMXGCjMNrrqSzcKxQ@mail.gmail.com>
+Exhibit by omd:
+
+Even though it fails to specify a power, it also clearly meant to
+specify it as 2.  In non-rule change cases, differences between what
+is said (as long as it's completely impossible - and in this case,
+setting the AI of a rule is impossible even for a proposal, because
+it's not defined) and what is meant (as long as it's completely clear)
+are sometimes resolved in favor of the latter, which is why I called
+it ambiguous.  (Then again, regular PF actions are supposed to be
+"unambiguous and clear", but I think historically we've treated rule
+changes more strictly, and the wording "*any* ambiguity" supports
+this.)
+
+========================================================================
+
+<CAPM5UJ0DKQyD414aKFzFme6YcJXo2AH0LvMXGCjMNrrqSzcKxQ@mail.gmail.com>
+Exhibit by omd:
+
+Evidence:
+      Any ambiguity in the specification of a rule change causes that
+      change to be void and without effect.  An inconsequential
+      variation in the quotation of an existing rule does not
+      constitute ambiguity for the purposes of this rule, but any
+      other variation does.
+and:
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it.
+
+========================================================================
+
+<alpine.LRH.2.01.1407141354440.21480@hymn02.u.washington.edu>
+Exhibit by G.:
+
+For determining power in particular, R105(a) explicitly and directly
+clarifies the ambiguity (by setting power to 1 in the absence of
+specification), "before" the overall ambiguity of the effect should
+be assessed:
+       (a) enact a rule.  The new rule has power equal to the minimum
+           of the power specified by the enacting instrument,
+           defaulting to one if the enacting instrument does not
+           specify or if it specifies a power less than one, and the
+           maximum power permitted by other rules.
+If R105(a) didn't have this explicit setting of Power, then I'd agree
+with the Caller.
+
+========================================================================
+
+Judge's Arguments:
+
+There is no ambiguity in the fact that Proposal 7679 (Moving Goalposts)
+did not specify a power. By rule 105, the power of the rule, by default,
+is 1. Whether or not the specification of an Adoption Index of 2 for the
+rule was intended to be a specification of Power is irrelevent. What was
+intended by the proposer may be interpretted as an attempt to set the
+power, but what the proposer did was not that. Therefore, there is no
+ambiguity.
+
+The verdict is in. After much consideration, it has been decided that
+CFJ 3424 is FALSE.
+
+========================================================================

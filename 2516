@@ -1,0 +1,64 @@
+==============================  CFJ 2516  ==============================
+
+    Flipping the contestmaster of a contract to Human Point Two would
+    fail
+
+========================================================================
+
+Caller:                                 Quazie
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       10 May 2009 00:57:20 GMT
+Assigned to scshunt:                    10 May 2009 23:02:55 GMT
+Judged TRUE by scshunt:                 12 May 2009 22:17:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I'm not sure if it would outright fail due to clause b) in R2136 due
+to the fact that I was just contestmaster of 'C# party' or if due to
+R2136 Human Point Two is not a possible value for a contract's
+contestmaster switch to be flipped to, and as a result the switch
+would instead be switched to 'none' as specified in R2162.
+
+========================================================================
+
+Caller's Evidence:
+
+Part of R2136:
+      A contract's contestmaster CAN be flipped by any player without 3
+      objections, or as specified by the contract.  Rules to the
+      contrary notwithstanding, it CANNOT be flipped in any other way,
+      and CANNOT be flipped to a given player if any of the following
+      are true:
+
+        a) The player has not explicitly consented to be contestmaster
+           of that contest.  (Intent to flip a contract's contestmaster
+           to oneself constitutes explicit consent to be contestmaster
+           of that contest.)
+
+        b) A member of that player's basis has already become a
+           contestmaster within the past seven days.
+
+Part of R2162:
+      At any given time, each instance of a switch has exactly one
+      possible value for that type of switch.  If an instance of a
+      switch comes to have a value, it ceases to have any other value.
+      If an instance of a switch would otherwise fail to have a
+      possible value, it comes to have its default value.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+TRUE; no contract can possibly have HP2 as a valid value for its
+contestmaster as HP2 is not first-class.
+
+========================================================================

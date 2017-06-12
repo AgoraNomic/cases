@@ -1,0 +1,141 @@
+==============================  CFJ 3451  ==============================
+
+    Proposals 7773 and 7774 will have no effect if passed
+
+========================================================================
+
+Caller:     Tristan Bredeweg
+Judge:      Tiger
+Judgement:  TRUE
+
+========================================================================
+
+Called by Tristan Bredeweg:                         29 Jul 2015 16:15:53
+Assigned to Tiger:                                  10 Aug 2015 01:33:33
+Judged TRUE by Tiger:                               10 Aug 2015 10:25:43
+
+========================================================================
+
+<CAO6HVYtwMDz0UzBgsS=X5NYGr7DonaUn2HvEybm-uTL6c76qdQ@mail.gmail.com>
+Exhibit by the Warrigal:
+
+Though if you ask me, the phrase 'Rule 2455 "How to Pend a Proposal"'
+is completely unambiguous. There's absolutely no reasonable doubt as
+to what the intended meaning of the phrase is, so the error
+constitutes "difference in spelling" which "does not create an
+ambiguity in meaning".
+
+========================================================================
+
+<alpine.LRH.2.01.1507291246360.10364@hymn04.u.washington.edu>
+Exhibit by G.:
+
+A CFJ found differently IIRC, but I think in that case the mis-numbering
+referred accidentally to a different existing rule.
+As Rulekeepor, I wholly disagree that this is a different in "spelling",
+though it *may* still be clear enough depending what the precedent
+says...
+
+========================================================================
+
+<CAHM7b2vWkM0FB76BsmCxasA_kVatOOcYBXyXNEbD+AfcsgS7Kw@mail.gmail.com>
+Exhibit by Tristan Bredeweg:
+
+It was CFJ 1625. "Where a proposal specifies a rule to amend by both number
+and title, and the number and title given identify different rules, this
+constitutes ambiguity that nullifies the attempted rule change."
+That doesn't refer to when the other rule doesn't exist. But, the rules
+say, "An inconsequential variation in the quotation of an existing rule
+does not constitute ambiguity for the purposes of this rule, but any other
+variation does." I think this would fall under "any other variation".
+
+========================================================================
+
+Judge's Arguments:
+
+Main argument: the proposals refer to Rule 2445 by the ID 2455 (and the correct title).
+
+My judgment is overall in line with Tristan Bredeweg's arguments.
+
+There are two ways the incorrect specification could constitute
+"ambiguity" as relates to Rule 105. One is by the natural-language
+interpretation of the word; the other is by the second sentence quoted
+above – "any other variation does".
+
+By the natural-language interpretation of ambiguity alone, I would deem
+that using the wrong ID, which is not used by any other rule, and the
+correct title, is clear enough. Ambiguity implies multiple potential
+meanings. There is no sensible way for the "incorrect" number 2455 to be
+an indication of another meaning, or an attempt at obfuscation of the
+proposal's effect, when there is no rule 2455 but there is a 2445. I
+deem this case to not fall under the precedent of CFJ 1625.
+
+However, the second sentence of the paragraph specifies that any
+variation, other than "inconsequential variation in the quotation of a
+rule", constitutes ambiguity. I take this to be an extra safety measure:
+even if, as in this case, the intended meaning was never really
+ambiguous to us (to me), the rules require a higher standard of clarity.
+So, is this an inconsequential variation in the quotation of the rule?
+
+The word "quotation", as opposed to "specification" or something else,
+along with Rule 2141's assertion that "[a] rule's content takes the form
+of a text", tells me that the only inconsequential quotations intended
+to be covered here, are inconsequential quotations of the rule's text.
+In a strict logical sense, every rule "has" a text, an ID, a title etc
+on the same relational-database-style level. However, the language used
+separates the text from the other rule properties: a rule's content is a
+text, and a rule additionally has some parameters. So in a way. a rule
+"is" a text, which "has" an ID. A "quotation of a rule" would then not
+cover the case of identifying it by its title and ID.
+
+Writing the string "Rule 2455, How to Pend a Proposal" is not a case of
+(incorrectly) quoting the rule. It is similar to how, say, writing a
+correct quote but misspelling the author's name is a case of misquoting
+the author. It is an error, but not that particular error. Thus, the
+error committed by proposals 7773 and 7774 falls under the "any other
+variation" language of Rule 105, and the proposals would have no effect
+if passed.
+
+I judge CFJ 3451 to be TRUE.
+
+========================================================================
+
+Judge's Evidence:
+
+Rule 2141/9 (Power=3)
+Role and Attributes of Rules
+
+         A rule is a type of instrument with the capacity to govern the
+         game generally, and is always taking effect.  A rule's content
+         takes the form of a text, and is unlimited in scope.
+
+         Every rule has power between 0.1 and 4.0 inclusive.  It is
+         not possible for a rule to have a power outside this range.
+
+         Rules have ID numbers, to be assigned by the Rulekeepor.
+
+         Every rule shall have a title to aid in identification.  If a
+         rule ever does not have a title, the Rulekeepor SHALL assign a
+         title to it by announcement in a timely fashion.
+
+         For the purposes of rules governing modification of instruments,
+         the text, power, ID number, and title of a rule are all
+         substantive aspects of the rule.  However, rules to the contrary
+         notwithstanding, the Rulekeepor CAN set rule aspects as
+         described elsewhere in this rule.
+
+
+Rule 105/12 (Power=3)
+Rule Changes
+
+         [...]
+
+         Any ambiguity in the specification of a rule change causes that
+         change to be void and without effect.  An inconsequential
+         variation in the quotation of an existing rule does not
+         constitute ambiguity for the purposes of this rule, but any
+         other variation does.
+
+         [...]
+
+========================================================================

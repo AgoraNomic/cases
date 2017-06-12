@@ -1,0 +1,124 @@
+==============================  CFJ 2027  ==============================
+
+    The Notary is the recordkeepor of public contracts.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+Appeal:                                 2027a
+Decision:                               OVERRULE/TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  22 Jun 2008 22:53:10 GMT
+Assigned to omd:                        23 Jun 2008 00:04:16 GMT
+omd recused:                            12 Jul 2008 15:29:24 GMT
+Assigned to ais523:                     12 Jul 2008 15:43:23 GMT
+Judged FALSE by ais523:                 15 Jul 2008 18:55:38 GMT
+Appealed by omd:                        16 Jul 2008 01:09:16 GMT
+Appealed by woggle:                     16 Jul 2008 01:47:34 GMT
+Appealed by Quazie:                     16 Jul 2008 01:53:25 GMT
+Appeal 2027a:                           16 Jul 2008 01:53:25 GMT
+OVERRULED to TRUE on Appeal:            15 Aug 2008 22:01:56 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+"Recordkeepor" is a rule-defined word, and it is only
+defined for assets, so the rules don't define who the recordkeepor of
+a contract is.
+
+For non-assets, "recordkeepor" could be considered an alternate
+spelling of "recordkeeper". However, rule 754 says that a difference
+in spelling is inconsequential "as long as the difference does not
+create an ambiguity in meaning", and this difference certainly does
+create an ambiguity in meaning: it is ambiguous whether "recordkeepor"
+is meant to refer exclusively to the term itself as it is defined by
+the rules or also to the actual English word "recordkeeper" as it is
+commonly used. Therefore, rule 754 stays out of this, so
+"recordkeepor" means "recordkeepor", not "recordkeeper".
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I will take the caller's arguments in turn.
+
+> "Recordkeepor" is a rule-defined word, and it is only
+> defined for assets, so the rules don't define who the recordkeepor of
+> a contract is.
+
+I've checked the ruleset, and this is correct. Note, however, that rule
+2125(e) states
+{{{
+      e) It would, as part of its effect, modify information for which
+         some player is required to be a recordkeepor.  Such an action
+         CANNOT modify that information except as allowed by the
+         rules.
+}}}
+which cares about the recordkeepor of information, not the recordkeepor
+of assets. There is a bit of a fundamental mismatch here; assets are not
+information (although the amount of assets that people hold is). Rule
+2166 states that "The recordkeepor of a class of assets is the entity
+defined as such by its backing document."; likewise, other definitions
+of recordkeepors define the recordkeepor of an asset, not of information
+about it.
+
+> For non-assets, "recordkeepor" could be considered an alternate
+> spelling of "recordkeeper". However, rule 754 says that a difference
+> in spelling is inconsequential "as long as the difference does not
+> create an ambiguity in meaning", and this difference certainly does
+> create an ambiguity in meaning: it is ambiguous whether "recordkeepor"
+> is meant to refer exclusively to the term itself as it is defined by
+> the rules or also to the actual English word "recordkeeper" as it is
+> commonly used. Therefore, rule 754 stays out of this, so
+> "recordkeepor" means "recordkeepor", not "recordkeeper".
+
+The question here is about what "recordkeepor" means in the statement of
+the CFJ. A quick Google search shows that the only uses of the word
+"recordkeepor" on the Internet are with reference to Agora Nomic. The
+Agora definition only seems to exist with respect to assets (rule 2166);
+rule 2125(e) therefore appears to be entirely ineffective (this is what
+my proposal above was about). As this is the only definition of
+"recordkeepor" that exists anywhere, and it seems to be somewhat
+different from the english word "recordkeeper", I rule that the two
+words are in fact different due to rule 754 (two similarly-spelt words
+can have entirely different meanings), and as there are currently no
+entities which are both public contracts and assets, all current public
+contracts are intrinsically incapable of having a recordkeepor (at
+least, with the curent rules). Therefore, there is no recordkeepor of
+public contracts (the phrase itself is an oxymoron), and therefore I
+judge FALSE.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+I intend to appeal this judgement with 2 support.  If being a
+recordkeepor for information is not defined, then it is equivalent to
+being a recordkeeper for it.  No Agoran rule attempts to define the
+term "recordkeepor".
+
+========================================================================
+
+Appellant woggle's Arguments:
+
+I support this.
+
+Additional arguments:
+The judgment makes a distinction between being a "recordkeepor of information
+(about X)" and "recordkeepor of X". There is no such distinction, since
+records are inherently information.
+
+========================================================================

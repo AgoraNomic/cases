@@ -1,0 +1,120 @@
+==============================  CFJ 1249  ==============================
+
+    The paragraph of Rule 1664 which reads 'The Registar shall select a
+    random integer from 1 to the number of Players (plus 1 if Miscreant
+    is held) at the time of the Call for Revolt.  If this number is less
+    than or equal to the number of Rebellious Players (plus 1 if
+    Miscreant is held by a Rebellious Player), then the Revolt succeeds;
+    otherwise it fails.' should be interpreted such that, while the
+    total number of Players is determined as of the time of the Call for
+    Revolt, the number of Rebellious Players is determined as of the
+    time the Registrar selects a random integer as described.
+
+========================================================================
+
+Caller:                                 Chuck
+Barred:                                 t
+
+Judge:                                  Peekee
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Chuck:                        02 Oct 2000 16:10:21 GMT
+Assigned to Peekee:                     06 Oct 2000 14:56:34 GMT
+Judged TRUE by Peekee:                  09 Oct 2000 13:28:34 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1664/13 (Power=2)
+Rebellion
+
+      Any Player is either Abiding or Rebellious. A new Player is
+      always Abiding when e becomes a player. A Player can switch from
+      Abiding to Rebellious or from Rebellious to Abiding if e has not
+      does so during the current month by sending a message to the
+      Public Forum saying e does change so. The Registrar shall
+      include in the Registrar's Report a list of all Players that are
+      Rebellious.
+
+      A Player may Call for a Revolt at any time, by sending to the
+      Public Forum saying e does so. A Call for Revolt is only
+      effective if the following conditions are met:
+
+         i) The player posting the Call is Rebellious,
+        ii) No other effective Call for Revolt has been made that
+            week,
+       iii) A successful Revolt has not occured for a month or more.
+
+      As soon as possible after an effective Call for Revolt has been
+      posted, the Registrar must determine whether the Revolt
+      succeeds, as outlined below, and post the result to the Public
+      Forum.
+
+      The Registar shall select a random integer from 1 to the number
+      of Players (plus 1 if Miscreant is held) at the time of the Call
+      for Revolt.  If this number is less than or equal to the number
+      of Rebellious Players (plus 1 if Miscreant is held by a
+      Rebellious Player), then the Revolt succeeds; otherwise it
+      fails.
+
+      If a Revolt succeeds, then the following events occur (in
+      order):
+
+         - The Registrar shall expunge all Blots of each Rebellious
+           Player.
+         - The Registrar shall pay out 40 Stems to each Rebellious
+           Player.
+         - All positions in the Oligarchy become vacant.
+         - All Abiding Players that hold one or more Offices in the
+           normal fashion cease to hold those in a normal fashion and
+           hold them temporarily instead.
+         - All Rebellious Players become Abiding again
+         - The Herald is empowered and required to levy a tax of
+           75% on indulgences. The holder of the Patent Title
+           "Robespierre" is exempt from this tax, even if other rules
+           don't allow tax exemptions.
+         - A Speaker Transition occurs
+
+      If a Revolt does not succeed, then:
+
+         - All Rebellious Players gain 2 Blots.
+         - The Player who Called for Revolt gains 2 (additional) Blots
+
+      The Registrar shall notify the Herald of all Blots that have
+      been gained or expunged as a result of this Rule.
+
+History:
+Created by Proposal 2717, Oct 23 1996
+Amended(1) by Proposal 2797 (Andre), Jan. 30 1997, substantial
+Amended(2) by Proposal 3475 (Murphy), May 11 1997, substantial
+Amended(3) by Proposal 3685 (Steve), Feb. 12 1998, substantial
+Amended(4) by Proposal 3703 (Steve), Mar. 9 1998
+Amended(5) by Proposal 3713 (Blob), Mar. 19 1998
+Amended(6) by Proposal 3740 (Repeal-O-Matic), May 8 1998
+Amended(7) by Proposal 3794 (Kolja A.), Oct. 19 1998
+Amended(8) by Proposal 3897 (harvel), Aug. 27 1999
+Amended(9) by Proposal 3901 (Schneidster), Sep. 6 1999
+Amended(10) by Proposal 3916 (harvel), Sep. 27 1999
+Amended(11) by Proposal 3936 (Elysion), Oct. 31 1999
+Amended(12) by Proposal 3951 (Elysion), Dec. 8 1999
+Power changed from 1 to 2 by Proposal 3980 (Steve), Mar. 1 2000
+Amended(13) by Proposal 3980 (Steve), Mar. 1 2000
+
+========================================================================
+
+Judge Peekee's Arguments:
+
+Although the second sentence does not state when the number of Rebellious
+Players is to be calculated, it refers to the number selected by the
+Registrar at the time of the Call for Revolt.  I think that as no time is
+given the Registrar should compare the selected number to the number of
+Rebellious Players at the time e selects the number, and as such the number
+of Rebellious Players should be calculated at the time of such a comparison
+the CFJ is TRUE.
+
+========================================================================

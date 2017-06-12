@@ -1,0 +1,126 @@
+============================  Appeal 1711a  ============================
+
+
+Panelist:                               Wooble
+Decision:                               
+
+
+Panelist:                               BobTHJ
+Decision:                               
+
+
+Panelist:                               root
+Decision:                               REMAND
+
+
+Panelist:                               omd
+Decision:                               REMAND
+
+
+Panelist:                               pikhq
+Decision:                               REMAND
+
+========================================================================
+
+History:
+
+Appeal initiated:                       27 Aug 2007 21:23:25 GMT
+Assigned to Wooble (panelist):          15 Sep 2007 19:54:03 GMT
+Assigned to BobTHJ (panelist):          15 Sep 2007 19:54:03 GMT
+Assigned to root (panelist):            15 Sep 2007 19:54:03 GMT
+BobTHJ recused (panelist):              24 Sep 2007 12:01:07 GMT
+Wooble recused (panelist):              24 Sep 2007 12:01:07 GMT
+root moves to REMAND:                   03 Oct 2007 15:43:29 GMT
+omd moves to REMAND:                    03 Oct 2007 21:52:28 GMT
+pikhq moves to REMAND:                  07 Oct 2007 22:00:58 GMT
+Assigned to omd (panelist):             08 Oct 2007 10:57:17 GMT
+Assigned to pikhq (panelist):           08 Oct 2007 10:57:17 GMT
+Final decision (REMAND):                09 Oct 2007 00:47:11 GMT
+
+========================================================================
+
+Panelist root's Arguments:
+
+> Appellant Zefram's Arguments:
+>
+> We have commonly accepted a published correction to a prior report as
+> constituting a new report that incorporates the bulk of the prior report
+> by reference.  In the present case, Murphy's second message applies a
+> correction in the form of an additional set of votes to insert into the
+> prior message; it is clear how adding these votes affects the totals,
+> so I see no need for the revised totals to be included explicitly.
+
+A correct tally is, however, required by R208.
+
+> We have considerable history of accepting parts of these messages to
+> be implicit.  Indeed, the assessor's present practice, extending back
+> past the time that this CFJ is concerned with, is to not explicitly
+> indicate "ADOPTED", "FAILED QUORUM", and so on, for each proposal, but
+> to leave that implicit.  It can be easily determined by examining the
+> "AI", "VI", "Quorum", and "Voters" rows, but a strict reading of rule
+> 208 would require it to be stated on a row of its own.  Such a strict
+> reading is contrary to game custom.  The lack of an explicit "ADOPTED"
+> has not been questioned, neither in the resolution notice that this case
+> is concerned with nor in the surrounding months.
+
+This argument actually sways me toward AFFIRM.  I find the present
+practice of omitting the final outcome to be quite exasperating,
+especially as Gmail makes it a bit painful to view a message in a
+fixed-width font.  Using the regular view, the columns do not line up,
+which makes the manual calculation difficult.  If I haven't questioned
+the practice before now, it is only because it hadn't occurred to me
+that it might be questionable.
+
+> Judge Eris objects that the correcting notice did not give any firm
+> identification of the original notice which it augmented.  That is
+> incorrect.  The correcting message includes a "References:" header,
+> in which the first item is the message ID of the original notice.
+> This is a normal place to expect such a reference to be found; it is
+> not obfuscated in any way.  The original message could also be following
+> the "In-Reply-To:" chain, which also works by message ID; the chain is
+> of length two in this case, the middle link being Wooble's DF message
+> which points out the error and quotes the body of the original notice
+> in its entirety.
+
+If we can't expect a player to look as far as the Subject header for
+context, I think it's totally out of the question to expect em to look
+in the References or In-Reply-To headers, which are automatically
+hidden by most email clients.
+
+> Judge Eris's point about message IDs was in support of eir claim that the
+> correcting notice failed to clearly identify the matters to be resolved.
+> Even ignoring the reference to the preceding message, the notice stated
+> that it was concerned with proposals, and identified the proposals
+> by number.  This is precisely the same manner in which the original
+> (incorrect) notice, and all resolution notices regarding proposals,
+> identify the matters to be resolved.  The judge appears to be mistaken
+> on a matter of law regarding what it is that must be clearly identified.
+
+Judge Eris was not specific about what it was that was not "clearly
+identified".  R208 refers to two things that must be "clearly
+identified": the matter to be resolved and the options available.
+Since, as you point out, the former is clearly identified in both
+messages, I think it likely that Judge Eris was referring to the
+latter.
+
+One potential argument pertaining to message continuity that was not
+brought up is the precedent of CFJs 1451 and 1452.  However, those
+both pertain to a single message broken up over multiple emails,
+whereas this case pertains to a single message in a single email with
+a subsequent correction, so it is not clear to me whether the
+precedent should apply.  It would be nice to see the argument
+considered, though.
+
+> Finally, the judge argues that for the interests of the game we should
+> not permit a resolution notice that does not explicitly list vote totals.
+> To be explicit there is something that assessors should no doubt consider
+> good advice, but I suggest that invalidating the notice for the lack is
+> contrary to the interests of the game.
+
+I find this argument to be persuasive.  However, it only rebuts half
+of Judge Eris's argument, so I do not think it is by itself sufficient
+to merit reversal judgement.  Overall, I'm leaning toward a judgement
+of REMAND, as I would like for Judge Eris to consider the precedent of
+CFJs 1451 and 1452 in eir arguments.
+
+========================================================================

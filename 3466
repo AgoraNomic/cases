@@ -1,0 +1,114 @@
+=============================  CFJ 3466  =============================
+
+      It is possible to ratify an Agoran Credit Union report, and have
+      the ratification have some effect.
+
+======================================================================
+
+Caller:                      ais523           
+
+Judge:                       nichdel           
+Judgement:                   TRUE           
+
+======================================================================
+
+History:
+
+Called by ais523:            10 Nov 2016
+Assigned to nichdel:         19 May 2017
+Judged TRUE by nichdel:      21 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+The report is concerned entirely with things that aren't
+defined by the rules. As such, what could ratifying it change? In
+particular, this is a question about whether the Agoran Credit Union's
+internal state is part of the gamestate.
+
+======================================================================
+
+Gratuitous Evidence by G.:
+(announcement of intent that gave rise to the CFJ)
+
+On Sun, 2016-11-06 at 15:58 -0500, Owen Jacobson wrote:
+> I intend, without objection, to ratify the quoted document below, no
+> earlier than Thursday, November 10th.
+>
+> It’s not a self-ratifying report given in the rules. In fact, I can’t
+> find any reason this report should exist at all, except that murphy
+> had been sending it and that it’s useful for ACU members. However,
+> the bank statements are way behind, so I’m hoping to use ratification
+> to avoid any future questions about the correctness of the balances
+> described.
+
+======================================================================
+
+Gratuitous Arguments by Aris:
+
+The ACU is an organization under Agoran law. There is no evidence that
+it has or is intended to have any existence apart from its existence
+in Agora (Agora is even in the name), and it would be unable to
+function elsewhere (for instance in another nomic) because of its
+reliance on the structures provided by Agoran law. It's state should
+therefore be considered part of the gamestate. It is a player created
+organization, but it is regulated because it is allowed to exist by,
+and its behavior governed by, the rules (Rule 2125). Since its
+internal state should be considered part of the gamestate, just as the
+organization is part of the game, ratification can affect it (Rule
+1551). This CFJ should be therefore be judged TRUE.
+
+======================================================================
+
+Judge's Arguments:
+
+CFJ 3466 is as follows:
+
+      It is possible to ratify an Agoran Credit Union report, and have
+      the ratification have some effect.
+
+The first half of this statement, about whether it's possible to
+ratify an ACU report at all, is clearly TRUE. R2202/6 provides for the
+ability of any player to ratify, without objection, any document as
+long as it doesn't change rules or contain factual errors.
+
+The second half, if it can have an effect, is also TRUE. R1551/18
+allows for ratification to change gamestate, subject to mostly the
+same restrictions as above. And since this ratification is secured at
+Power 3, it appears that an ACU report (or any other document) could
+be ratified to change anything that has a lower power threshold.
+
+For those reasons, I find CFJ 3466 TRUE.
+
+However, neither of those findings satisfies the caller's underlying
+question [1], because it appears that ratification would make the
+report part of the gamestate whether or not it was previously.
+
+For this, we should first look at the extent of the concept of 'game
+state' or 'gamestate' (apparently interchangeable) in Agora. CFJ 1420
+indicates that there are at least some elements of gamestate that make
+no appearance in the rules [2]. This lends credence to the idea that
+gamestate includes things not mentioned by the rules, but little other
+precedent appears to exist here.
+
+This leads us to turn to 'common sense' and the best interests of
+Agora. I believe that it would be bad for Agora to conclude that the
+internal state of organizations affects the overall state of Agora in
+ways that are not intended or expected. However, I do think that
+players intend the happenings of organizations to be wholly contained
+within the context of Agora. I also believe that players want
+mechanisms intended for all of Agora, such as CFJs and conditionals,
+to function the same in the context of organizations. Thus, I find it
+likely that the internal state of organizations is a self-contained
+portion of Agora's gamestate, which can be made a part of the broader
+gamestate via ratification as well as any other rule-defined methods.
+
+[1] "The report is concerned entirely with things that aren't defined
+by the rules. As such, what could ratifying it change? In particular,
+this is a question about whether the Agoran Credit Union's internal
+state is part of the gamestate."
+
+[2] https://faculty.washington.edu/kerim/nomic/cases/?1420
+
+======================================================================

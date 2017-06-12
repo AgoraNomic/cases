@@ -1,0 +1,172 @@
+==============================  CFJ 1624  ==============================
+
+    neither rule 2009 nor rule 2037 has been repealed
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  Levi
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       01 Apr 2007 11:37:36 GMT
+Assigned to Levi:                       06 Apr 2007 23:14:37 GMT
+Judged TRUE by Levi:                    11 Apr 2007 23:46:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2009's last paragraph read
+
+      (b) The Rulekeepor may repeal this Rule Without Objection if
+          there are no Elder Oligarchs.
+
+Rulekeepor Michael claimed to repeal rule 2009 under this provision on
+or about 19 February 2002.  I don't have the message to quote, but the
+RCS log for revision 1.38 of Michael's FLR file says "Rule 2009 repealed
+because no more Elder Oligarchs exist.".
+
+Rule 2037's last paragraph read
+
+      If each Player has at least one listed address, then the
+      Registrar may repeal this Rule by announcing that e does so.
+
+Registrar Murphy claimed to repeal rule 2037 under this provision on
+6 April 2003, in a message with subject "BUS: Re: address change"
+(available at <http://www.agoranomic.org/cgi-bin/mailman/private/
+agora-business/2003-April/001328.html>) which read in part
+
+|Proposal 4435 grandfathered all preferred addresses into being listed,
+|and to the best of my knowledge, there are no Players lacking a listed
+|address.  Therefore, as Registrar, I repeal Rule 2037 (Orange Alert)
+|by announcement, as permitted by that same Rule.
+
+These processes are both very similar to the later case of rule 2050.
+Rule 2050's last paragraph read
+
+      If there are no Players that hold at least one Weed or Daffodil,
+      the Herald may repeal this Rule without Objection.
+
+Herald root claimed to repeal rule 2050 under this provision on
+20 April 2004, in a message with subject "BUS: license to repeal"
+(available at <http://www.agoranomic.org/cgi-bin/mailman/private/
+agora-business/2004-April/002728.html>) which read in part
+
+|There having been no objection, I hereby repeal R2050.
+
+Rule 2050's status was the subject of CFJ 1499, on the statement
+"Rule 2050 has been repealed.".  The case file is available at
+<http://zenith.homelinux.net/cotc/viewcase.php?cfj=1499>.  Judge Kolja's
+judgement, upheld on appeal, was FALSE, on the grounds that rule 1322 only
+allowed rule changes to be specified by instruments of sufficient Power.
+E judged that in this case it was the Herald that was specifying the
+rule change, not rule 2050, and that the Herald is not an instrument
+(had Power 0).  Rule 2050 was restored to the published rulesets, and
+later repealed in the ordinary manner by proposal 4683 on 18 April 2005.
+
+The same version of R1322, 1322/3, was in effect at the time of all three
+of these purported repeals by officers.  I reckon that the reasoning
+of CFJ 1499 applies identically to all three rules.  Therefore, like
+R2050, R2009 and R2037 could not be repealed by officers under their
+own provisions.
+
+Rules 2009 and 2037 have not been the subject of any CFJ, have not
+been restored to the published rulesets, and have not been repealed or
+otherwise affected by any subsequent adopted proposal.
+
+I therefore conclude that rules 2009 and 2037 have not been repealed,
+and are still rules.  I urge the judge to judge TRUE on that basis.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1322/3 (Power=3)
+Effectiveness of Rule Changes
+
+      A given Rule Change shall not take effect unless the Power of
+      the instrument which specified it is at least as great as the
+      greater of the current Power of the Rule to be Changed (if any)
+      and the Power the Rule would have after the Change (if any).
+
+History:
+Created by Proposal 1322, Nov. 21 1994
+Infected and Amended(1) by Rule 1454, Dec. 5 1995
+Amended(2) by Proposal 2398, Jan. 20 1996
+Mutated from MI=1 to MI=3 by Proposal 2398, Jan. 20 1996
+Infected but not Amended by Rule 1454, Nov. 27 1996
+Amended(3) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
+<this version>
+Amended(4) by Proposal 4811 (Maud, Goethe), 20 June 2005
+Repealed by Proposal 4868 (Goethe), 27 August 2006
+
+----------------------------------------------------------------------
+
+Rule 2009/0 (Power=2)
+Elder Oligarchs
+
+      (a) Upon the creation of this Rule, all Players who were Low,
+          Middle, or High Oligarchs when the Proposal creating this
+          Rule was adopted become Oligarchs. Each of these Players is
+          an Elder Oligarch until e ceases to be an Oligarch or until
+          e has been an Elder Oligarch for 3 months.
+
+      (b) The Rulekeepor may repeal this Rule Without Objection if
+          there are no Elder Oligarchs.
+
+History:
+Created by Proposal 4221 (Steve), 10 October 2001
+<this version>
+Purportedly Repealed by Rulekeepor via Rule 2009, ca. 19 February 2002
+  [effectiveness subject to this CFJ]
+
+----------------------------------------------------------------------
+
+Rule 2037/0 (Power=1)
+Orange Alert
+
+      If a Player has no listed e-mail address, then the address used
+      to send eir next public message becomes listed.
+
+      If each Player has at least one listed address, then the
+      Registrar may repeal this Rule by announcing that e does so.
+
+History:
+Created by Proposal 4435 (Murphy), 28 January 2003
+<this version>
+Purportedly Repealed by Registrar via Rule 2037, 6 April 2003
+  [effectiveness subject to this CFJ]
+
+----------------------------------------------------------------------
+
+Rule 2050/0 (Power=2)
+The Garden
+
+      A Daffodil is a Boon that may be awarded as the Rules specify or
+      by an Instrument of Power 2 or greater.
+
+      A Weed is an Albatross that may be awarded as the Rules specify
+      or by an Instrument of Power 2 or greater.
+
+      If there are no Players that hold at least one Weed or Daffodil,
+      the Herald may repeal this Rule without Objection.
+
+History:
+Created by Proposal 4486 (Michael), 24 April 2003
+<this version>
+Purportedly Repealed by Herald via Rule 2050, 20 April 2004
+  [CFJ 1499 determined that this did not actually repeal the rule]
+Repealed by Proposal 4683 (Quazie), 18 April 2005
+
+========================================================================
+
+Judge Levi's Arguments:
+
+I find that the arguments presented in CFJ 1499 also hold in the case.
+
+========================================================================

@@ -1,0 +1,45 @@
+==============================  CFJ 2344  ==============================
+
+    Props are a type of asset.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  ehird
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       12 Jan 2009 09:39:44 GMT
+Assigned to ehird:                      19 Jan 2009 09:32:06 GMT
+Judged TRUE by ehird:                   25 Jan 2009 22:59:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2166/9 states:
+{{
+      An asset is an entity defined as such by a rule or contract
+      (hereafter its backing document), and existing solely because
+      its backing document defines its existence.
+}}
+When the backing document for props was decontractised by proposal (N.B.
+we since altered the gamestate to what would have happened if it wasn't,
+but the change nevertheless occurred), props continued to be tracked
+informally: they were reports, people transferred them around, and they
+otherwise acted entirely like assets. In light of this, it is a bit
+absurd to state that props exist solely because their backing document
+defines their existence; I think we have demonstrated that even without
+a backing document, props can exist just fine.
+
+========================================================================
+
+Judge ehird's Arguments:
+
+Umm, I pass a trivial TRUE on CFJ 2344.
+
+========================================================================

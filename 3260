@@ -1,0 +1,36 @@
+==============================  CFJ 3260  ==============================
+
+    CFJ 3257 is about the possibility or legality of a rule-defined
+    action.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          14 Aug 2012 03:32:29 GMT
+Assigned to ais523:                     14 Aug 2012 21:45:29 GMT
+Judged FALSE by ais523:                 14 Aug 2012 21:53:38 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2355 seems to define "locked".
+
+========================================================================
+
+Judge ais523's Arguments:
+
+"To unlock B Nomic" is not an action that's
+defined anywhere in the rules, and rule 2355 uses "locked" as an
+adjective; it's not an action any more than "active", "leaning" or
+"Democratic" is an action.
+
+========================================================================

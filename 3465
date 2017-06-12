@@ -1,0 +1,112 @@
+=============================  CFJ 3465  =============================
+
+      If Proposal 7821 were resolved right now, the outcome would be
+      ADOPTED.
+
+======================================================================
+
+Caller:                      Alexis
+
+Judge:                       nichdel
+Barred:                      Aris
+Judgement:                   TRUE 
+
+======================================================================
+
+History:
+
+Called by Alexis:            6 Nov 2016
+Assigned to nichdel:        19 May 2017
+Judged TRUE by nichdel:     19 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+Rule 683, as amended by Proposal 7814, gives the requirements for a
+valid ballot:
+
+      An entity submits a ballot on an Agoran decision by publishing a
+      notice satisfying the following conditions:
+
+      (a) The ballot is submitted during the voting period for the
+          decision.
+
+      (b) The entity casting the ballot (the voter) was, at the
+          initiation of the decision, a player.
+
+      (c) The ballot clearly identifies the matter to be decided.
+
+      (d) The ballot clearly identifies a valid vote, as determined by
+          the voting method.
+
+      (d) The ballot clearly sets forth the voter's intent to place the
+          identified vote.
+
+      (e) The voter has not publicly retracted the ballot during the
+          voting period.  ("Changing" a vote is equivalent to
+          retracting it and casting a vote with the new value.)
+
+      (f) It is the most recent of the voter's otherwise-valid
+          ballots.
+
+Note the first sentence "An entity submits a ballot... by *publishing a
+notice satisfying the following conditions*". By rule 478, a player
+"publishes" something by sending a public message, which this is. While
+"notice" is not defined by the rules, it is clear from context, from
+Rule 107's use of the same term, and from the ordinary language
+definition of the word that a "notice" is a form of document.  In
+particular, this means that the evaluation as to whether a ballot is
+properly submitted is performed by determining whether the
+document---the notice---satisfies the conditions listed at the time of
+its publication. Moreover, there is nothing in this or any other rule
+which provides for the automatic revocation, withdrawal, or otherwise
+invalidation of a validly submitted ballot.
+
+Thus, we can evaluate each of the conditions on each of the 100 notices
+given above indicating that vote FOR Proposal 7821.
+
+ (a) The ballots are submitted in this message, which I am sending
+     moments prior to the end of the voting period.
+ (b) It is without a doubt that I was a player when the decision was
+     initiated.
+ (c) The ballots each clearly identify Proposal 7821's adoption as the
+     matter to be decided.
+ (d) The ballots each clearly identify FOR, a valid vote.
+ (d) The ballots clearly set forth that I intend to place that vote.
+ (e) I have not publicly retracted any of the ballots.
+ (f) At the time of the submission of each ballot, it was the most
+     recent of my valid votes. While each (except for the last) was
+     almost immediately supplanted by its successor in the position of
+     the most recent of my ballots, and it has long been possible to
+     take multiple actions sequentially in the same message.
+
+Thus, each of those is a valid ballot. Now, in order to determine the
+outcome on the decision, we must follow the procedure in Rule 955, as
+amended by Proposal 7816:
+
+      Each Agoran decision has a voting method, which determines how
+      voters may vote on it and how to calculate the outcome. The
+      strength of a ballot is the voting strength of the voter who
+      cast it on that Agoran decision.
+
+      The following voting methods are defined:
+
+      (1) AI-majority: the valid votes are FOR and AGAINST. Let F be
+          the total strength of all valid ballots cast FOR a decision,
+          A be the same for AGAINST, and AI be the adoption index of
+          the decision. The outcome is ADOPTED if F/A >= AI and F/A >
+          1 (or F>0 and A=0), otherwise REJECTED.
+
+Since 100 ballots were cast by myself, and I have voting strength of 1,
+the total length of FOR is at least 100, while the small number of
+ballots cast AGAINST it certainly do not have total strength greater
+than 33 1/3. Consequently, the outcome of the decision must be ADOPTED.
+
+======================================================================
+
+Because I agree with the arguments included by Alexis [Caller's 
+Arguments] and because the proposal was in fact adopted shortly after
+the CFJ was called, I find CFJ 3465 TRUE.
+
+======================================================================

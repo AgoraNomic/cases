@@ -1,0 +1,118 @@
+==============================  CFJ 1412  ==============================
+
+    If a player is deregistered and then registers again without there
+    being a Win since e was deregistered e returns with the same number
+    of points as e had when e was deregistered.
+
+========================================================================
+
+Caller:                                 Peekee
+
+Judge:                                  Steve
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Peekee:                       07 Sep 2002 12:35:27 GMT
+Assigned to Steve:                      16 Sep 2002 04:52:49 GMT
+Judged FALSE by Steve:                  19 Sep 2002 02:27:35 GMT
+Appealed by RedKnight:                  19 Sep 2002 03:16:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1929 "Points" reads in part "A Player who has not been Awarded or
+Penalized since the last Win has a Score of zero Points.". In the situation
+of the CFJ's Statement this does not apply, as such the number of Points the
+Player has is not set by the Rules. Considering that other values are
+preserved when a Player is deregistered such as Blots and Patent Titles,
+Points should also be preserved.
+
+========================================================================
+
+Judge Steve's Arguments:
+
+Peekee poses a difficult hypothetical question, but the argument he
+gives is insufficient to answer it. While it is true that some Player
+attributes are preserved through deregistration and subsequent
+reregistration, other attributes are not. Michael gives the example of
+activity level, which is not preserved but rather reset to active
+whenever a Player registers or reregisters (see R1016). So there's no
+absolutely clear precedent to follow.
+
+How, then, to proceed? I considered examining all the attributes that
+Players have - in addition to those attributes already mentioned
+(activity level, Stain, and the holding of Patent Titles), we could add
+Political Status, Role, Readiness, Currency holdings, Offices, Group and
+Contest Membership, etc. - and seeing how these attributes are handled
+in the cases of Players returning from a period out of the game. But
+immediately I encountered further unclarities in the Rules.
+
+For example, in the case of Roles, R1960 states that "Initially players
+do not have any role." But should this be interpreted to mean that all
+Players have no Role when they register, or only that Players
+registering for the first time have no Role? For another example,
+concerning Political status R1840 states that "A new players [sic] is
+always Abiding when e becomes a player." Rules 869 and 1677 connect the
+concepts of 'New Player' and 'Grace Period', so perhaps we could say
+that a 'new Player' is one who has not been registered for over 12
+months. But the Statement of the CFJ does not make this distinction, so
+one is left wondering about the Political status of Players returning
+after less than 12 months away. Finally, even given resolutions of these
+questions, it was also unclear to me how to construct the required
+analogies. Is a Player's Score more or less like eir Currency holdings
+than eir Political status?
+
+These difficulties in determining, as it were, what game custom might be
+and how it might be applied, led me to pursue another line of inquiry,
+that of the best interests of the game. Here I think I have found more
+traction on these slippery issues. I propose the general following
+principle as being in the best interests of the game:
+
+      In order to meet obligations imposed on em by the Rules, no Player
+      should need access to records that the Rules do not require
+      someone to maintain.
+
+I think it is clear that the best interests of the game are served by
+observance of this principle. It protects Players from having
+intolerable demands made of them where recordkeeping is concerned, and
+it secures clarity of the game state, which is of benefit to all.
+
+It's worth noting that the two cases mentioned by Peekee in eir Caller's
+Arguments accord with the principle, for in both the case of Blots and
+of Patent Titles, the Rules specifically require some Player to keep
+records concerning former Players (in fact, the same Player in each
+case, namely, the Herald: see R1377).
+
+It's also worth noting that the principle can help us to resolve the
+other difficulties mentioned earlier concerning Roles and Political
+status. In both cases, we discover that that the Registrar is required
+to keep track only of the Roles and Political Status of Players, not of
+former Players (see R1960, R1840). Accordingly, I would interpret R1960
+as saying that Players returning from a period of deregistration do not
+have any Role, and R1840 as saying that Players returning from less than
+12 months' deregistration are Abiding.
+
+Finally, after this extensive tour, we can return to our starting point
+and consider the case of a Player's Score. R1928 requires the
+Scorekeepor to maintain the Score of each *registered* Player; no
+provision is made for maintaining the Scores of former Players in the
+event they should return to the game before another Win has occurred. I
+conclude that a Player's Score is not preserved when e deregisters. Upon
+reregistration, eir Score should be set to zero just as though e were
+registering for the first time.
+
+The Statement is therefore FALSE.
+
+========================================================================
+
+Appellant RedKnight's Arguments:
+
+I feel that Judge Steve, in his arguments, did not take the appropriate
+rules (the rules about points) into account.  E has therefore
+reinterpreted the rules instead of going by what the rules actually say.
+
+========================================================================

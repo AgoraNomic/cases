@@ -1,0 +1,93 @@
+==============================  CFJ 1947  ==============================
+
+    If an appealed equity case judgement is REMANDED or REASSIGNED, the
+    original (prior) judgement remains a binding agreement.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 root
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           13 May 2008 05:20:15 GMT
+Assigned to Murphy:                     16 May 2008 05:35:30 GMT
+Judged FALSE by Murphy:                 16 May 2008 06:14:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In Appeals Cases (R911), prior judgements aren't "thrown out" upon REMAND or
+REASSIGN, they're just considered inappropriate, and therefore subsequent
+judgements have precedence in Rule.  For cases that guide precedence (inquiry
+cases) this is not a bug, but this may be for equity cases (does the prior
+judgement, which is a contract, remain in effect) or criminal sentencing (am
+I missing it in the Rules where the sentence actually ceases to have an
+effect upon appeal?)
+
+In either equity or criminal cases, R101(vii) *may* be strong enough to
+infer the nullification of the prior judgement, leading to a judgement of
+FALSE here...that's the only argument I can think of for FALSE, and may
+need to be decided case-by-case.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+See Goethe's message that I linked above. As e pointed out, rule
+101(vii) seems the only rule likely to be capable of preventing the
+original judgement remaining, and that would only apply when the
+judgement was in fact a punishment; equity case judgements can be
+punishments, but often are not, and in the case that they are, it seems
+to me that rule 101(vii) would prevent the second judgement being given,
+rather than the first one, if both were punishments. (The mere act of
+reassigning does not necessarily imply that the new judgement will be a
+punishment; in fact, if it did, that would seem to me to be a[nother]
+huge abuse of the judicial system. Rule 101(vii), instead, prevents the
+second judgement being a punishment if the first judgement was one.)
+This seems, in the case of criminal cases, at least, to be a bug; in the
+case of equity cases, it is less problematic, because the judgement is
+only put in place after a week, or when all parties to the contract in
+question have agreed, and if any of them wanted to appeal they would
+likely do so before the week were up.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+In the situation described by the statement, the question on equation is
+rendered open again, so it no longer has a judgement, so the prior
+judgement is no longer a binding agreement (I interpret "when" in Rule
+2169 as "while").
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+Rule 911/20 (Power=1.7), excerpts
+Appeal Cases
+
+      * REMAND ... the prior question is rendered open again
+
+      * REASSIGN ... the prior question is rendered open again
+
+Rule 2158/5 (Power=2), excerpt
+Judicial Questions
+
+      At any time, each judicial question is either open (default),
+      suspended, or has exactly one judgement.
+
+Rule 2169/5 (Power=1.7), excerpt
+Equity Cases
+
+      When an applicable question on equation in an equity case has a
+      judgement ... the judgement is in effect as a binding agreement
+      between the parties.
+
+========================================================================

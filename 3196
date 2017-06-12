@@ -1,0 +1,60 @@
+==============================  CFJ 3196  ==============================
+
+    scshunt has cast a valid vote on Proposal 7196.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       29 Mar 2012 05:49:26 GMT
+Assigned to omd:                        29 Mar 2012 06:45:27 GMT
+Judged TRUE by omd:                     29 Mar 2012 14:01:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ehird is deregistered, thus not a voter.
+
+========================================================================
+
+Caller's Evidence:
+
+scshunt wrote:
+
+>>> 7196 3   scshunt     Truisms
+>> ENDORSE ehird
+
+Rule 2127 (Conditional Votes), relevant excerpt:
+
+      Casting a vote endorsing another voter is equivalent to
+      conditionally casting a vote whose value is the same as the most
+      common value (if any) among that voter's valid votes on that
+      decision.
+
+========================================================================
+
+Judge omd's Arguments:
+
+CFJ 2449's interpretation was that "voter" actually means "person who
+has voted", not "eligible voter", but the identity of the voter is
+part of the condition (and evaluated at the end of the voting period)
+- in this case, a conditional vote for a non-voter would be valid but
+evaluate to PRESENT.  I'm a little skeptical of this interpretation,
+but even if "casting a vote endorsing another voter" is treated more
+straightforwardly as a requirement that the vote endorse a particular
+eligible voter, we are still left with scshunt's message, which did
+not satisfy a particular Rules definition but was still clearly and
+unambiguously an attempt to perform a specific action - conditionally
+casting a vote whose value is the same as the most common value (if
+any) among ehird's valid votes on that decision - again, PRESENT.
+
+========================================================================

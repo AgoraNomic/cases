@@ -1,0 +1,30 @@
+==============================  CFJ 1604  ==============================
+
+    it is impossible to assign to Judge this CFJ any player who was
+    registered at the time it was called.
+
+========================================================================
+
+Caller:                                 Zefram
+Barred:                                 sproingie
+Barred:                                 Zefram
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       10 Jan 2007 17:19:43 GMT
+Assigned to Murphy:                     21 Feb 2007 18:10:52 GMT
+Judged FALSE by Murphy:                 26 Feb 2007 17:20:11 GMT
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+The Clerk of the Courts is not prohibited from assigning Judges
+directly to a member of a Linked CFJ.
+
+========================================================================

@@ -1,0 +1,61 @@
+==============================  CFJ 2634  ==============================
+
+    comex is the Executor of this message.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      14 Jul 2009 05:29:27 GMT
+Assigned to Wooble:                     16 Jul 2009 08:24:04 GMT
+Judged FALSE by Wooble:                 16 Jul 2009 13:56:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+NANA is an indication that this message is being sent by comex via Ice
+Climbers.
+
+I CFJ {comex is the Executor of this message.}
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+This fails to clearly identify the desired legal author. See CFJ 1903.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+CoE: this message was sent by me, not coppro.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+Rule 2170 says that
+      The Executor of a public message is the first-class person who
+      sends it, or who most directly and immediately causes it to be
+      sent.
+
+The Ice Climbers contract can not overrule a Power 3 Rule; coppro is a
+first-class person, not an inanimate SMTP server, and e directly send
+the message to the Public Forum.  E is thus the Executor of the public
+message by definition.
+
+Even were the message sent using the mechanism that will be
+established by P6402 when the decision to adopt it is resolved, coppro
+would remain the Executor even though another Power 3 rule would, in
+that case, create a definitive legal fiction that comex was the
+"author" of the message.
+
+========================================================================

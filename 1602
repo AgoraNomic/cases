@@ -1,0 +1,33 @@
+==============================  CFJ 1602  ==============================
+
+    a set of Linked CFJs is an entity distinct from the individual CFJs
+    from which it is composed.
+
+========================================================================
+
+Caller:                                 Zefram
+Barred:                                 Murphy
+Barred:                                 Peter
+Barred:                                 OscarMeyr
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       10 Jan 2007 17:19:43 GMT
+Assigned to Murphy:                     21 Feb 2007 18:10:52 GMT
+Judged TRUE by Murphy:                  26 Feb 2007 17:20:11 GMT
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Even when Rule 2024 treats the set as a single CFJ, that single CFJ
+is not identical to any member of the set.  The only way it could
+be identical is in the case of a one-member set, but Rule 2024
+defines Linked CFJs as multiple-member sets.
+
+========================================================================

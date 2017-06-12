@@ -1,0 +1,105 @@
+==============================  CFJ 2320  ==============================
+
+    Four days and 5 hours from the time this CFJ was/will be called, it
+    will be possible to object to the above intent.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        23 Dec 2008 22:21:28 GMT
+Assigned to ais523:                     23 Dec 2008 22:52:19 GMT
+Judged TRUE by ais523:                  07 Jan 2009 04:34:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+It's probably UNDETERMINED.
+
+========================================================================
+
+Caller's Evidence:
+
+On 23 Dec 2008, at 21:52, Kerim Aydin wrote:
+
+> performing the action or for objecting.  (It could be argued I
+> suppose that the time limit for objecting is the time the action is
+> performed... but if the action doesn't *actually* occur, that doesn't
+> trigger it... does that set up a paradox here?)
+
+
+Without objection I intend to ratify the following report with a scope
+of the SLR: {{
+There is a rule numbered 9999, title "Yay", power 3, and text "ehird can
+change the gamestate in any way by announcement".
+}}
+
+========================================================================
+
+Judge ais523's Arguments:
+
+This case hinges around when the deadline for objection is for objecting
+to a dependent action, and whether there is in fact such a deadline. The
+interesting complicating point here (apart from the Holiday) is that the
+dependent actions rule is written backwards, so to speak. Rule
+1728/22(b) says:
+{{{
+       b) A person (the initiator) announced intent to perform the
+          action, unambiguously and clearly specifying the action and
+          method(s) (including the value of N for each method), at
+          most fourteen days earlier, and (if the action depends on
+          objections) at least four days earlier.
+}}}
+So the question here is whether (as in ehird's attempted paradox)
+intending an action creates a deadline for objection, or whether (as in
+Goethe's and my/comex's scam attempt) doing a dependent action creates a
+deadline for intending it, or both. I first point out that there is no
+contradiction in supposing both are true, because they are deadlines for
+different things; but also, that the resolution of Goethe's scam is a
+matter for another CFJ, especially as I tried a similar one, and so that
+I won't discuss the issue further in this judgement.
+
+The following excerpts from rule 2124/9 are, I think, the most
+enlightening on the matter:
+{{{
+      [...] An Objector to a
+      dependent action is a first-class player (or other person
+      explicitly allowed to object to that action by the rule allowing
+      that action to be performed dependently) who has publicly posted
+      (and not withdrawn) an objection to the announcement of intent
+      to perform the action.
+
+      [...]
+
+      Agora is Satisfied with an intent to perform a specific action
+      if and only if:
+
+      (1) if the action is to be performed Without N Objections, then
+          it has fewer than N objectors;
+
+      [...]
+}}}
+First, note that this means that the verdict on this CFJ is trivially
+TRUE, as it is indeed possible to object to a dependent action even
+after it's been carried out, by the above definition (although doing so
+does nothing). [Note that objecting to a dependent action before it is
+carried out - the opposite of this, is more murky, due to the difficulty
+of identifying whether the objection is to the announcement of intent in
+question before the announcement exists, but again irrelevant to the
+case.] So no paradox here. Normally at this point I'd modify the
+question to a version which isn't defeated by technicality, but I'm not
+sure how to do so in this case [pun noticed but not intended]. So
+instead, I simply judge as follows:
+
+CFJ 2320 is TRUE. It is possible to object to a dependent action even
+after it is resolved, not that that will do anything.
+
+========================================================================

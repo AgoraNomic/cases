@@ -1,0 +1,60 @@
+==============================  CFJ 2197  ==============================
+
+    The CotC CAN assign a judge to a CFJ initiated in the quoted
+    message.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       25 Sep 2008 21:39:16 GMT
+Assigned to G.:                         28 Sep 2008 22:20:01 GMT
+Judged FALSE by G.:                     29 Sep 2008 03:57:57 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, 2008-09-25 at 22:37 +0100, ais523 wrote:
+> One of B Nomic's major rules is that it allows Transactions which act
+> pretty much exactly as Pavitra attempted. I went and did a trivial
+> paradox scam using them in B (which everyone ignored, due to wins having
+> been repealed), and I can try something very similar here in Agora
+> (which I don't expect to win, but may as well see what happens):
+>
+> I perform all the actions in the following block of text, if and only if
+> they would all be successful, and every non-action statement in that
+> block of text would be true at the time it was made:
+> {{{
+> I call for judgement on the statement "Goethe is wearing a hat."
+> The previous action either failed or was never made because either this
+> block of text contained an action which would not be successful, or it
+> contained a statement that would not be true.
+> }}}
+> (This is about as close as I can get to the paradox I created in B, but
+> using Agoran terminology; I've translated it more or less literally,
+> thus causing the extra complexity).
+
+========================================================================
+
+Judge G.'s Arguments:
+
+With the specific exception of conditional voting, allowing conditional
+actions is a game custom and courtesy and not a rules requirement.  As
+such, accepting conditionals is an "administrative convenience" similar
+to allowing multiple actions in a single statement (c.f. Judge Michael in
+CFJ 1584).  Just as the fact that we accept multiple actions does not
+extrapolate into "I do X an infinite number of times" succeeding (CFJ
+1584), setting up a trivial paradoxical conditional does not set up some
+kind of paradoxical game state in which this question is undecidable; it
+merely means the attempted communication as a whole is "too inconvenient"
+to follow the customary courtesy and is thrown out.  I judge FALSE.
+
+========================================================================

@@ -1,0 +1,109 @@
+==============================  CFJ 2427  ==============================
+
+    Rule 105 can, in whole or in part, prevent an instrument from taking
+    effect
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      22 Mar 2009 21:25:00 GMT
+Assigned to G.:                         23 Mar 2009 19:24:29 GMT
+Judged TRUE by G.:                      25 Mar 2009 19:08:43 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+After some discussion in ##nomic, it isn't really
+clear whether 105 actually prevents something from taking effect, or
+whether it simply prevents the action caused by it taking effect.
+Noticeably, there is nothing in the rules actually letting proposals
+make rules changes; merely to cause them to take effect. This leads to
+some interesting conundrums.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+First:  To "take effect" is not defined in the ruleset.  After much
+browsing, MW-online called to "take effect" as the intransitive form
+of "to act", and Dictionary.com calls it "to produce a result; to go
+into operation" and "effect" as a verb has the same sense.
+
+With this in mind, I find it consistent with interpretation and Agoran
+usage that to "take effect" is a grammatical variation of performing an
+action.  In other words, it is the same to say "I act to transfer 5
+peanuts to coppro" and say "I cause a transfer of 5 peanuts from myself
+to coppro to take effect."  And of course, we drop the "I act", so "I
+transfer 5 peanuts to coppro" is the same as "A transfer of 5 peanuts
+from myself to coppro hereby takes effect."
+
+It also means that, whenever the rules say "an entity CAN/CANNOT X by
+mechanism M",  it's equivalent to saying "an entity CAN cause the
+action of X to take effect via M".  Further, if an action is prevented
+by a CANNOT in a Rule, that's the same as saying "this Rule prevents an
+attempt to do X from taking effect".  (Note that an explicit synonym
+for CANNOT in R2152/4 is INEFFECTIVE).
+
+I can't find any place in the ruleset where this interpretation breaks
+the notion of "taking effect"; in fact it clarifies the notion.
+
+Second:   A proposal (or instrument in general) can contain multiple
+Rule Changes as separate provisions (separate effects), as Rule changes
+are defined by R105/3 (see CFJs 1638-1645).
+
+For individual rule change provisions, the phrase "take effect" is not
+actually contained in R105; rather, individual provisions can be "void
+and without effect" if not well-specified, but this is not a substantial
+difference.  So it is TRUE that R105 can prevent any (or all) of a
+proposal's rule change provisions from causing any changes (having any
+effect, performing an action that causes change, or "taking effect") on
+the ruleset, and therefore can prevent part of an instrument's attempted
+actions from taking effect.
+
+However, there is a confusion introduced by R106/19, in the following
+paragraph:
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.
+
+This implies that the proposal as a whole, after becoming an instrument
+"takes effect" in a manner outside of its individual provisions.  For
+example, If I send a message containing actions, it might be reasonable
+to say "the message took  effect" upon being sent, which caused the
+provisions in the message to "take effect."  In other words, a hierarchy
+of taking effect.
+
+However, this is incorrect.  The proposal is not the message medium, the
+proposal is "the causal mechanism" (an instrument).  Saying, literally,
+that a proposal "takes effect" would be the same as saying "Goethe
+takes effect" whenever I send a message.  This is a poor interpretation,
+and perhaps a poor and/or depreciated reading of R106.
+
+The most consistent interpretation is thus that R106/19 is not wholly
+grammatically correct, when it states that a proposal "takes effect"
+after it becomes an instrument, what actually happens is that the
+proposal (as an instrument) causes its provisions to take effect, in
+other words, the instrument acts (takes actions) to cause rule changes
+and do other things.  This (that the proposal takes actions) is
+consistent with the first paragraph of R105, if "can" is treated as CAN.
+
+Therefore, "an instrument taking effect" in the sense of R106/19 is
+best interpreted as the sum of its provisions taking effect (the
+instrument performing actions), and as R105 can block provisions, it
+is reasonable to say that R105 can block part of its provisions from
+taking effect, and (reversing the interpretation across the depreciated
+use) say that R105 can "in whole or in part" prevent "the instrument"
+from taking effect, in the sense that this term is used in R106.  TRUE.
+
+========================================================================

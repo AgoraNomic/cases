@@ -1,0 +1,150 @@
+==============================  CFJ 2610  ==============================
+
+    The PerlNomic Partnership was an eligible voter in the recent Grand
+    Poobah election.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  allispaul
+Judgement:                              TRUE
+
+Appeal:                                 2610a
+Decision:                               REMAND
+
+
+Judge:                                  allispaul
+Judgement:                              
+
+
+Judge:                                  woggle
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Yally:                        21 Jun 2009 21:46:23 GMT
+Assigned to allispaul:                  21 Jun 2009 22:56:55 GMT
+Judged TRUE by allispaul:               24 Jun 2009 18:48:56 GMT
+Appealed by Murphy:                     24 Jun 2009 23:27:13 GMT
+Appealed by Yally:                      25 Jun 2009 00:08:59 GMT
+Appealed by Wooble:                     26 Jun 2009 23:28:35 GMT
+Appeal 2610a:                           26 Jun 2009 23:28:35 GMT
+REMANDED on Appeal:                     10 Jul 2009 21:19:15 GMT
+Assigned to allispaul:                  10 Jul 2009 21:19:15 GMT
+allispaul recused:                      16 Jul 2009 08:30:05 GMT
+Assigned to woggle:                     16 Jul 2009 08:30:58 GMT
+Judged FALSE by woggle:                 19 Jul 2009 07:21:13 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, Jun 21, 2009 at 4:42 PM, Aaron Goldfein<aarongoldfein@gmail.com>
+wrote:
+> On Sun, Jun 21, 2009 at 9:58 AM, Geoffrey Spear<geoffspear@gmail.com> wrote:
+>> On Sun, Jun 21, 2009 at 1:40 AM, Aaron Goldfein<aarongoldfein@gmail.com>
+wrote:
+>>> I resolve the Agoran decision to decide the holder of the Grand Poobah
+office.
+>>
+>> CoE: no such Agoran Decision was initiated.  The purported initiation
+>> claimed the eligible voters were the active players, which is
+>> incorrect; ergo the initiation was INVALID.
+>>
+>
+> Oh... I must have missed that rule being changed. Either way denied,
+> because there was no objection ever given to the initiation of the
+> decision (to my knowledge), and thus it was valid-ish.
+
+========================================================================
+
+Judge allispaul's Arguments:
+
+The notice initating the election was valid, as it wasn't CoE'd
+(R107).  However, it's not a document which self-ratified and is
+therefore true, it's an action which was valid, though in
+contradiction with R2154.  The question is whether its validity causes
+it to take the action it specifies.  The court rules TRUE, based on
+several factors.  The most important is the use of "valid" elsewhere
+in the ruleset.  Typically it means "well-formed," as with a valid
+Notice of Violation.  Importantly, a valid Notice of Violation has the
+effects it describes.  CFJ 2481 and the associated cases are of note
+here: though the NoV's in question were certainly incorrect, they were
+valid and had the effect of creating Rests in the possession of
+players.  MMI also defines INVALID as synonymous with IMPOSSIBLE.
+Since the initiation of the election was valid, it was certainly not
+IMPOSSIBLE and thus we must assume that the election, as described,
+was initiated.
+
+Note that the initiation of the election was almost certainly ILLEGAL,
+breaking the power-2 rule 2154.  This is not within the scope of this
+case, nor is the possibility that the addition of second-class players
+could have raised quorum so as to make the resolution of the election
+incorrect.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I intend, with 2 support, to appeal this judgement.  Yes, the
+initiation of the decision was effective, but I don't think that
+causes the otherwise-incorrect information accompanying it to
+become correct.  Continuing to use valid-but-incorrect NoVs as
+a similar example, consider the exact wording of Rule 2230:
+
+  "a number of Rests are created ... equal to the Class of the
+   specified Crime"
+
+  No problem here; if the NoV specifies a Crime, then it specifies
+  a Crime, and the Rest creation clause doesn't care whether it
+  did so incorrectly.
+
+  "or in its absence the Power of the violated rule"
+
+  This is ambiguous; if it said "specified rule" or "rule allegedly
+  violated", then it would be unambiguous.  (Of course, any past
+  instances of this problem have probably been papered over by now,
+  due to self-ratification of the Insulator's report.)
+
+========================================================================
+
+Appellant Wooble's Arguments:
+
+I believe there's serious doubt about the incorrect information
+becoming platonically true, plus see my recent CFJ about the validity
+of the decision in the first place.
+
+========================================================================
+
+Judge woggle's Arguments:
+
+As Murphy argued on appeal, the incorrect notice being effective due to
+not being challenged does necessarily not make it correct again. If we
+are to make the purported parameters of the statement initiating the
+election be correct, then we are left with a series problem: since the
+rules define no Agoran decision with those parameters, it would not have
+an effect. For example, in this case, it would not be the Agoran
+decision described by R2154, so the effect ("its outcome ... is
+installed into the office").
+
+Having such a ineffective Agoran decision would make the R107 pragmatism
+"the lack is correctly identified within one week after the notice is
+published" annoyingly ineffective. While a nice resolution to this would
+be make the "description of the class of eligible voters" correct as
+allispaul concluded, this is not what R107 and R683 allow: both R683 and
+R107 defer to other rules, presumably the rule authorizing initiation of
+the decision, to define the eligible voters for the decision. No rule
+authorized the initiation of a decision with "active players" as the
+voters in this case and, in general, no rule would cover other even
+trivial misstatements of the eligible voters in this manner.
+
+Thus, the most sensible conclusion is that the notice initiating was
+valid (i.e. effective) despite its incorrectness. Fortunately, the only
+set of eligible voters the rules allow in an Agoran decision to elect
+the Grand Poobah is the active first-class players, so there was no
+ambiguity as exactly what decision was initiated.
+
+========================================================================

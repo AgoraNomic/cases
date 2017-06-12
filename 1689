@@ -1,0 +1,260 @@
+==============================  CFJ 1689  ==============================
+
+    root changed his Primo Corporation share holdings to 1 million on or
+    about Wed, 6 Jun 2007 21:35:18 -0600.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          15 Jun 2007 14:47:24 GMT
+Assigned to root:                       27 Jun 2007 21:24:47 GMT
+Judged FALSE by root:                   28 Jun 2007 17:05:20 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+http://groups.google.com/group/primo-corporation/web/primo-corporation---chart
+er
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2007-June/006
+604.html
+> Does that mean we're also not bound by the last sentence of section
+> 19?  I hereby change my share holdings to 1 million.  I transfer
+> 500,000 shares to Murphy.
+>
+> -root
+
+========================================================================
+
+Judge root's Arguments:
+
+(pseudo-judged by Zefram to avoid some conflicts of interest)
+
+Primo Corporation shares are defined by the Corporate Charter.  At the
+time in question it says relatively little about their behaviour.
+There is much discussion of "Shareholders", but that term clearly
+has no inherent connection with owning shares: per clause 1, the term
+"Shareholder" simply means a party to the agreement (the Charter).
+
+Most mentions of shares in the Charter are concerned with awarding shares
+to various persons.  Clause 5 says that a share entitles "its Shareholder"
+to a vote, apparently confusing the explicit definition of "Shareholder"
+with its usual English meaning relating to shares.  As a share is not
+connected to any particular Shareholder (as defined) in any obvious way,
+it appears that clause 5 fails to award voting rights to anyone.
+
+Shares are principally governed by clause 19.  The two main statements
+regarding shares there are "Shares are property owned by Agoran Players"
+and "Shares are regulated by this charter".  I interpret this to mean
+that shares are to behave by default in the manner that is usual for
+property, except where such behaviour is overridden by the Charter.
+As the property is entirely intangible, actions that affect it are of
+course achieved by sending messages describing the action being taken.
+
+The second sentence of clause 19 suggests a procedure for trading shares.
+There is some question as to whether the "may" in that sentence refers
+to permission or possibility, but I find it moot: as there is nothing
+prohibiting or invalidating any other trading procedure, I find that
+trading by announcement is not the only way to do it.  Trading can
+naturally occur by any message, public or private.  Other actions that
+are possible with property, such as loans, gifts, and thefts, are equally
+possible by means of an appropriate message.
+
+The case at hand concerns an alleged creation of a million shares.
+I find that the ability to create or destroy by fiat is *not* ordinary
+behaviour of property.  It is therefore possible only where specifically
+permitted by the Charter.  Clause 21 does this, for example, giving each
+Agoran Player a chance to obtain 50 shares by announcement.  As there
+was no clause granting root the capacity to create a million shares,
+e was not capable of doing so.  I therefore judge CFJ 1689 FALSE.
+
+========================================================================
+
+Judge root's Evidence:
+
+Primo Corporation Charter as of 7 June 2007, retrieved
+from <http://groups.google.com/group/primo-corporation/web/
+primo-corporation---charter?version=9>:
+
+{{{
+
+1. This is a binding Agreement governed by the Rules of Agora. Parties
+to this Agreement shall be known as Shareholders.
+2. Shareholders shall act according to this Agreement. This however
+does not impair the ability of Shareholders to act as individuals on
+their own behalf. Shareholders shall jointly act as Primo Corporation.
+3. Primo Corporation may incur obligations, rights, and privileges
+under the Rules of Agora. The Shareholders and Officers of Primo
+Corporation shall act on behalf of Primo Corporation as specified by
+this charter to satisfy such obligations and to exercise such rights
+and privileges.
+4. The Shareholders and Officers of Primo Corporation shall work to
+ensure that Primo Corporation obeys the Rules of Agora to the maximum
+possible extent.
+5. The Primo Corporation acts on behalf of its Shareholders. Each share
+of Primo Corporation stock entitles its Shareholder to one vote in any
+issue brought before the Shareholders.
+6. At any time, a Shareholder of the Primo Corporation may bring an
+Issue before the Shareholders. This Issue may be one or more of the
+following:
+* A request for an Officer of Primo Corporation to act or cease to act
+in a specified manner (this includes reversing a previous action of
+that Officer, as long as that action can be legally reversed under
+Agoran law)
+* A proposed change to the Primo Corporation charter
+* A proposed appointment of a new Officer and/or the removal of a
+current Officer
+7. An Issue is brought before the Shareholders by making an
+announcement to the Corporate Forum that clearly describes the Issue
+and indicates that it is an Issue for the Shareholders of Primo
+Corporation. Issues should be given a sequential integer number for
+reference.
+8. When an Issue is brought before the Shareholders, each Shareholder
+has 48 hours (the Voting Period) to cast any votes allowed to them on
+that Issue by making an announcement to the Corporate Forum. A vote may
+be either FOR, AGAINST, or ABSTAIN. Votes may be retracted by
+announcement to the Corporate Forum.
+9. At the end of the Voting Period on an Issue, the VPSA shall tally
+the votes on that Issue and publish those results to the Corporate
+Forum. Then the proposed effect of said issue shall be carried out if
+the number of FOR votes submitted (and not retracted) is greater than
+the number of AGAINST votes on the issue.
+10. Primo Corporation shall appoint Officers to act for Primo
+Corporation on behalf of the Shareholders. Each Officer shall have the
+capacity to act on behalf of Primo Corporation within the confines of
+the duties assigned to that Office in the Primo Corporation charter. An
+Officer acts with the implicit consent of the Shareholders in whatever
+decisions they make on behalf of Primo Corporation, however the
+Shareholders may (by Issue) require an Officer to act in a specified
+manner in any given situation.
+
+Only a natural person may hold an Office, and the same natural Person
+may not hold multiple Offices within Primo Corporation. A person
+appointed to an office must accept or reject that appointment by
+announcement to the corporate Forum. By accepting the office, that
+person becomes party to this agreement and is bound by it. If a person
+who is not subscribed to the Corporate Forum is appointed to an Office,
+the CEO shall endeavor to inform them of the appointment by whatever
+means are available.
+11. There shall exist an Office titled "Chief Executive Officer"
+(Synonym: CEO). The CEO is responsible to exercise the will of the
+Shareholders by voting on Agoran Decisions and by providing Support or
+Objection on behalf of the Corporation for matters of Agoran Consent.
+The CEO may submit proposals and take actions that would require Agoran
+Consent on behalf of Primo Corporation. The CEO carries out these
+duties by making announcements on the Agoran Public Forum. Any such
+announcement must identify that the CEO is acting on behalf of Primo
+Corporation and not on their own behalf.
+The CEO is also responsible to assume any duties of any vacant or
+non-responsive Primo Corporation Office. The CEO may assume those
+duties eirself, or appoint a new Officer to that Office to assume those
+duties. Initially, the CEO shall be BobTHJ.
+12. There shall exist an Office titled "Vice President of Stockholder
+Affairs" (Synonym: VPSA). The VPSA is responsible for collecting and
+tallying the votes on any Stockholder Issue and providing a report to
+the Stockholders detailing the results of any Issue, as described in
+section 9 of this charter.
+13. There shall exist an Office titled "Chief Financial Officer"
+(Synonym: CFO). The CFO is responsible for issuing a report to the
+Shareholders on a weekly basis by making an announcement to the
+Corporate Forum. This report shall include:
+* A listing of all Shareholders and the number of Shares each holds
+* A description of all changes to the number of Shares each Shareholder
+holds within the past week
+* A listing of all actions taken by Officers on behalf of Primo
+Corporation within the past week
+* A summary of each Issue brought before the Shareholders within the
+past week along with a description of any adjustments to those numbers
+within the past week
+* A listing of the Officers of Primo Corporation and their salaries.
+The CFOs report shall be published as soon as possible after the end of
+each calendar week. In addition, when the CFO publishes eir report, e
+shall be responsible for paying Officer Salaries, indicating as such in
+eir report, as indicated in Section 15 of this Charter.
+
+As Primo Corporation is a public company that attempts to operate
+'above the table', the CFO shall post a copy of eir report to the
+Agoran Public Form whenever it is published.
+
+14. There shall exist an Office titled "Vice President of Human
+Resources" (Synonym: VPHR). The VPHR is responsible for hiring
+Employees to carry out the will of the Shareholders of Primo
+Corporation, as described in this charter.
+15. Each week, each Officer of Primo Corporation shall be paid a
+salary, awarded in company stock. Initially, this salary shall be 5
+Shares.
+16. For any Agoran Decision, the VPHR may issue an Employment Notice by
+making an announcement to the Agoran Public Forum. The Employment
+Notice shall specify the following:
+* Job - The Agoran Decision in question
+* Goal - The position of the Primo Corporation (as determined by the
+VPHR) on that Decision (Either FOR or AGAINST)
+* Wage - A specified number of Shares to be awarded as compensation to
+a hired Employee for this job
+17. Any Agoran Player who does not hold an Office in Primo Corporation
+may respond to an Employment Notice by announcement in the Corporate
+Forum with clear intention to become an Employee of Primo Corporation.
+By doing so, they become a party to this agreement (if they are not
+already) and are bound by it. They also become an Employee of Primo
+Corporation for the duration of that Agoran Decision.
+When the results of the Agoran Decision related to a particular
+Employment Notice are announced, each Employee who voted in the same
+way on that decision as the Goal specified in the Employment Notice
+shall be compensated by receiving the number of Shares specified in the
+Wage portion of that Notice.
+18. The VPHR may not issue an Employment Notice on an Agoran Decision
+that has less than three days remaining in its voting period. The VPHR
+may withdraw or modify an Employment Notice at any time by making an
+announcement to the agoran Discussion Forum clearly stating as such.
+19. Shares are property owned by Agoran Players. They may be traded
+freely between players via announcement on the Public Forum. However,
+Shares are regulated by this charter and no Shareholder may adjust
+their number of Shares unless this charter, or a more powerful entity
+(Agoran law) allows it.
+20. The Corporate Forum shall be located at
+http://groups.google.com/group/primo-corporation. It is the
+responsibility of each Shareholder to ensure they are subscribed to the
+Corporate Forum. Primo Corporation operates above the table and does
+not prevent other persons from being subscribed to the Corporate Forum
+as observers.
+21. Upon initiation of this Charter, the Primo Corporation shall make
+an Initial Public Offering of Shares to all Agoran Players. Any Agoran
+player who wishes may once and only once obtain 50 Shares in Primo
+Corporation by making an announcement to the Corporate Forum. By doing
+so, they become a party to this agreement and are bound by it. This
+Initial Public Offering ends one week after the Charter is placed into
+effect. At that time, this item (#21) repeals itself from the Corporate
+charter.
+22. There shall exist an Office titled "Vice President of Internal
+Affairs" (Synonym VPIA). Whenever there is an ambiguity in the Primo
+Corporation Charter, or whenever there is a dispute between Primo
+Shareholders, Officers, and/or Employees regarding the Primo
+Corporation Charter, any Shareholder, Officer, or Employee of Primo
+Corporation may call the matter before the VPIA.
+When a matter is called before the VPIA, they shall investigate the
+issue in question and post an Investigation Report to the Corporate
+Forum. Each Investigation Report should be sequentially numbered so as
+to distinguish them apart, and should include the following:
+* A summary of the ambiguity or issue in dispute
+* The VPIA's recommended resolution of that issue, including what
+actions (if any) the Officers and Employees of Primo Corporation should
+take to act in accordance with the VPIA's recommendation.
+All Officers and Employees are obligated to follow the recommendations
+of the VPIA, unless otherwise directed by the Shareholders via Issue.
+The VPIA may at any time revise the recommendations for any previous
+investigation by re-issuing the Investigation Report using the same
+number and including the revised recommendations. Such revised
+Investigation Reports should clearly indicate that they are a revision
+of a previous report.
+
+}}}
+
+========================================================================

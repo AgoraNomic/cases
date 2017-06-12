@@ -1,0 +1,54 @@
+==============================  CFJ 2997  ==============================
+
+    Under the ruleset proposed by P7015, it is generally possible to
+    cause the Registrar to change the publicity of a forum by cashing a
+    promise.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Walker
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          17 Apr 2011 04:31:20 GMT
+Assigned to Walker:                     19 Apr 2011 07:02:13 GMT
+Judged FALSE by Walker:                 22 Apr 2011 16:30:51 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The proposed rule is only Power-2, but it purports to redefine what it
+means to publish a message, arguably conflicting with Rule 478.
+
+This might fall under R754's new "clearly intended" clause, but I'm skeptical.
+
+In order to avoid interpretations where the rule just simulates the
+effect of the author publishing the message, I chose an action that is
+secured at Power 3.
+
+========================================================================
+
+Caller's Evidence:
+
+Evidence:
+>    When a promise is cashed, the text of the promise is interpreted as
+>    if it were published by its author as a standalone statement;
+
+========================================================================
+
+Judge Walker's Arguments:
+
+I judge FALSE, concurring with the caller's arguments. There is a
+conflict between proposed Rule and R478 as the new Rule redefines (or,
+at least, adds to the definition of) publishing a message. R478
+explicitly secures Publicity and then allows the Registrar to change
+it without objection, meaning that this is the only way it can be
+changed (as per R2125 (c)): as a direct action of the Registrar.
+
+========================================================================

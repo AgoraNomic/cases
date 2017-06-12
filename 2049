@@ -1,0 +1,58 @@
+==============================  CFJ 2049  ==============================
+
+    This CFJ exists.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        27 Jun 2008 12:15:16 GMT
+Assigned to Murphy:                     27 Jun 2008 14:27:37 GMT
+Judged TRUE by Murphy:                  27 Jun 2008 14:44:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+[ais523]
+
+I act on behalf of ehird to cause ehird to submit a CFJ on the statement
+{{This CFJ exists.}}.
+
+I'm sufficiently confused now, what with all the name changes and everything,
+that I'm not at all sure whether this works or not.
+
+(Also, I secretly hope that the CotC will assign it to someone, who then
+judges FALSE, although I'm not sure what the chances of that are.)
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Event E1 = ehird creates a contract containing the claause "Anything may
+             act on behalf of ehird by announcement"
+      E2 = comex acted on ehird's behalf to cause em to deregister
+      E3 = ehird changes eir nickname to notehird
+      E4 = notehird changes eir nickname to ehird
+      E5 = ais523 claimed to act on ehird's behalf to cause em to
+             initiate this case
+
+These events occurred in this order.  The contract was not terminated by
+E2, nor was it terminated or amended between E3 and E4, thus it operated
+normally at E5.
+
+========================================================================
+
+Gratuitous Arguments by Quazie:
+
+Side note, I changed ehird's name on behalf of em, otherwise the logic is
+sound.
+
+========================================================================

@@ -1,0 +1,85 @@
+From nomic-official-owner@teleport.com  Mon Jan 15 08:22:31 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id IAA20499 for <blahedo@quincy.edu>; Mon, 15 Jan 1996 08:22:30 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id GAA14123 for nomic-official-outgoing; Mon, 15 Jan 1996 06:19:57 -0800
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id GAA14100 for <nomic-official@teleport.com>; Mon, 15 Jan 1996 06:19:53 -0800
+Message-Id: <199601151419.GAA14100@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA24047; Mon, 15 Jan 1996 15:18:18 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 843 Judgement: TRUE
+To: nomic-official@teleport.com
+Date: Mon, 15 Jan 96 15:18:18 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+
+======================================================================
+        ASSIGNMENT CFJ 843
+
+    The Rules in general should be interpreted so that if a
+    sentence says that 'event X happens and event Y
+    happens', where X and Y are both modifications of some
+    sort to the game state, the word 'and' is _not_ taken to
+    mean that Y cannot occur if X does not occur.
+
+
+======================================================================
+Judge: 		Swann (defaulted)
+		favor
+Judgement:	TRUE
+
+Eligible: 	Andre, Blob, Chuck, favor, Kelly, Steve, Vanyel, Zefram
+
+Not Eligible:	
+Caller:     	Morendil
+Barred:		
+On Hold:    	Dave Bowen
+1005:		KoJen, Michael, Pascal, Wes
+Defaulted:	Swann
+
+Effects:	Swann gains 3 Blots for defaulting on Judgement
+		Swann is not eligible to act as a Judge
+	      *	favor gains 5 Points for speedy Judgement
+		  (1 hour and 4 minutes - is that a record?)
+
+======================================================================
+
+History:
+  Called by Morendil, Mon, 1 Jan 1996 22:43:01 +0001
+  Assigned to Swann, 4 January 1995, 02:34 MET
+  Defaulted by Swann, 11 January 1995, 02:34 MET
+  Assigned to favor, 15 January 1995, 13:55 MET
+  Judged TRUE by favor, 15 January 1995, 08:59 EST
+
+======================================================================
+
+Reasons & arguments : none.
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+
+In the Judgement of CFJ 842, the Judge, a close personal
+friend of mine, wrote:
+
+>                                             The relevant
+> part of 1469/2 says "If A, then X and Y".  If some other
+> rule with a higher precendence forbids X, then if A, I
+> would expect that the effect of 1469/2 would be Y.
+
+This generalizes nicely into the Statement of this CFJ,
+and suggests that it should be Judged TRUE.  And in general
+it seems reasonable to assume that, absent any strong reason
+in the rest of the Rule in question to think otherwise,
+the connective "and" should be taken to mean, well, "and".
+Just as if the Rule had been written "Event X happens."
+"Event Y happens." rather than as "Event X happens and
+Event Y happens."
+
+Respectfully submitted,
+
+Judge favor

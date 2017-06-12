@@ -1,0 +1,174 @@
+======================================================================
+                               CFJ 1101
+
+  Rule 1567 should be interpreted such that a Player may only make
+  emself ineligible to Judge a CFJ which has already been called.
+
+======================================================================
+
+Judge:        Kolja A.
+Justices:     Morendil (J), Michael (C), lee (pro-S)
+
+Judgement:    TRUE
+
+Eligible:     Antimatter, Blob, Chuck, Crito, General Chaos,
+              Harlequin, Kolja A., lee, Macross, Michael, Morendil,
+              Murphy, Oerjan
+
+(* note an error was made in selecting the initial judge; Antimatter
+   and Harlequin were not given a chance of being selected. *)
+
+Not eligible:
+Caller:       Steve
+Barred:       -
+Disqualified: -
+On hold:      elJefe, Swann
+
+----------------------------------------------------------------------
+First Appeal eligibility:
+  On Hold:                elJefe, Oerjan, Swann
+  Originally ineligible:  Steve
+  Judge:                  Kolja A.
+  Default justices:       Morendil, Michael
+
+Eligible: Antimatter, Blob, Chuck, Crito, General Chaos, Harlequin,
+          lee, Macross, Murphy
+(Rolled a six on 0-8 sided dice: selection is lee)
+======================================================================
+
+History:
+  Called by Steve, Fri, 24 Jul 1998 16:37:14 +1000
+  Assigned to Kolja A., Mon, 27 Jul 1998 10:05:42 +0100
+  Judged TRUE, Mon, 27 Jul 1998 11:46:07 +0200
+  Published, Mon, 27 Jul 1998 11:32:26 +0100
+  Appealed by Antimatter, Wed, 29 Jul 1998 16:47:03 +0000
+  Appealed by Michael, Thu, 30 Jul 1998 09:21:44 +0100
+  Appealed by Crito,  Thu, 30 Jul 1998 11:51:39 -0400
+  Appeal begins, Wed, 5 Aug 1998 09:29:51 +0100
+  lee appointed to Board, Thu, 6 Aug 1998 10:20:49 +0100
+  (Board is Michael, Morendil and lee)
+  Motion 1 granted, Fri, 7 Aug 1998 12:18:33 +0200
+  Morendil OVERTURNS the judgement, Wed, 12 Aug 1998 05:03:45 +0100
+  Michael SUSTAINS the judgement, Wed, 12 Aug 1998 09:03:41 +0100
+  lee SUSTAINS the judgement, Wed, 12 Aug 1998 12:56:21 -0500
+  Final decision published, Fri, 14 Aug 1998 09:35:25 +0100
+
+======================================================================
+
+Appelate decisions
+----------------------------------------------------------------------
+Justiciar Morendil:
+
+I hereby overturn Judge's Kolja's decision. I disagree with eir
+statement that "a challenge of such custom in a CFJ is enough to
+change it". If the origin of a particular custom has some basis in
+interpretation of the Rules, then I contend that Rule 217 does not
+allow a Judge to return a contradictory Jugement merely because of
+personal preference.
+
+I am of the opinion that "specific" and related terms, as used in the
+Ruleset and with the meaning that previous Game Custom have imparted
+to these terms, do not necessarily imply exact, individual
+specification of an existing and narrowly identified entity.
+
+Phrases such as "I hereby ABSTAIN on all Proposals up for Vote",
+variously qualified by conditionals such as "if possible", "if I have
+not already done so", or "I delegate the Assessorship to whoever is
+willing to take it up for a week", have in the past been accepted as
+legal. In that context of allowing 'loose' specification, which
+sometimes reach absurd extremes, I fail to see why a particular Rule
+should be singled out for a different interpretation.
+
+----------------------------------------------------------------------
+Clerk of the Courts Michael:
+
+I hereby SUSTAIN the decision above.  The rule in question states that
+one may exempt oneself from judicial service for a specific CFJ by
+specifying that CFJ in a message to the Clerk of the Courts.  I
+believe the language requiring the mention of a specific CFJ thereby
+requires the request for exemption to be made when that CFJ actually
+exists.  A CFJ can only really be said to come into existence when
+submitted, as per Rule 991.
+
+----------------------------------------------------------------------
+pro-Speaker lee:
+
+I hereby SUSTAIN Judge Kolja A.'s ruling.  I find eir reasoning sound
+and within the Rules.
+
+I want to add to eir statement a note on logic.  If you make a
+statement 'All foo are blue' no foo need exist for this stamen to be
+true.  Once you make a statement 'Some foo are blue' then for this to
+be true, there must be at least one foo, and at least one foo must be
+blue.
+
+To say there are some CFJ's that are specific CFJ's where i am
+ineligible to judge, the CFJ's would have to exist in order for that
+statement to be true.
+
+======================================================================
+
+Original Judgement: TRUE
+
+Reasons and arguments:
+
+The question is not new to me; the practice of making oneself
+ineligible to judge all CFJs called in a certain period of time has
+always struck me as against the letter of rule 1567. This never
+bothered me very much, as I think it is nice to have this
+possibility. I consider this an interesting example where game custom
+quietly accepted a practice that is against the letter of a rule; I
+think that a challenge of such custom in a CFJ is enough reason to
+change it and go back to the rules proper.
+
+I hope, however, that noone will advocate changes in past CFJ
+assignments that respected ineligibilities illegal under this
+CFJ. Anyone who thinks about doing so should have formally challenged
+the practice when it was begun.
+
+======================================================================
+
+Motions
+-------
+
+1. Motion to Annotate:
+
+I hereby file a Motion with the Judge of this CFJ that R1567 be
+annotated with a copy of the Statement.  -- Steve
+
+<Granted>
+======================================================================
+
+(Caller's) Arguments:
+
+I begin with the general observation that being eligible to Judge a
+CFJ is a Nomic property of Players in the sense of R1011, and hence
+can only be changed by procedures specified in the Rules. Hence if the
+procedure described in R1567 for changing one's eligibility to Judge a
+CFJ does not permit Players to make themselves ineligible to Judge
+CFJs which have not yet been called (as I contend), then, since no
+other Rule specifies such a procedure, that action is simply not
+permitted by the Rules at all, and the Statement is TRUE.
+
+The first paragraph of R1567 itself states that:
+
+      A Player makes emself ineligible to be the Judge of a specific
+      CFJ by transmitting a notice to the Clerk of the Courts,
+      specifying the CFJ for which e wishes to be made ineligible.
+
+Attention should be drawn here to two points about this paragraph. The
+first is that it describes a procedure for making oneself ineligible
+to Judge 'a specific CFJ'. The second point is that the procedure
+described requires the the Player to specify 'the CFJ for which e
+wishes to be made ineligible'. I submit that a CFJ which has not yet
+been called and hence does not yet exist cannot meet the requirements
+of specificity in R1567. "All CFJs called in the next two weeks" does
+not name a specific CFJ, for example. Neither does "Any CFJ called by
+Chuck in the next month." Even "Any CFJ called by Chuck in the next
+three days concerning the interpretation of Rule 1567" does not, I
+claim, name a specific CFJ, even if Chuck actually makes a CFJ
+matching that description. 'A specific CFJ' can only refer to a CFJ
+which already exists in the full particularity of its details: its
+text, who called it, and when it was called.
+
+======================================================================

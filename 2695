@@ -1,0 +1,82 @@
+==============================  CFJ 2695  ==============================
+
+    c. awarded emself 70 x-points via the Contract B contest.
+
+========================================================================
+
+Caller:                                 BobTHJ
+
+Judge:                                  Pavitra
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by BobTHJ:                       18 Sep 2009 20:11:29 GMT
+Assigned to Pavitra:                    23 Sep 2009 22:27:11 GMT
+Judged FALSE by Pavitra:                24 Sep 2009 05:01:17 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+My intent when writing the rule was to create four limits
+for each contest (X-awarded, Y-awarded, X-revoked, Y-revoked). The
+text of the rule seems open to multiple interpretations however.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+I will immediately dispense with the interpretation that the limit is a
+real bound on a complex number of points, as "exceed" has no
+mathematical definition with respect to complex numbers as it does with
+respect to the reals.
+
+
+R2233 reads, in part:
+
+      The contestmaster of a contest CAN and SHALL award and revoke
+      points as directed by that contract up so long as the total
+      number of points awarded or revoked on any axis do not exceed
+      that contest's threshold index. Awards and revocations that
+      counteract a previous award or revocation for that contest that
+      was not in accordance with it's contract or that exceeded the
+      contest's threshold index do not count against this limit.
+
+The key words here appear to be "total", "any", and the "or" in "awarded
+or revoked".
+
+
+I interpret "any" axis to mean any given axis; that is, each axis.
+x-points and y-points are individually constrained.
+
+
+The plurality of the verb "do not exceed" implies that the subject of
+the key sentence is not the (singular) "total number of points". It
+cannot be "points", which is clearly enclosed in a prepositional phrase;
+could "or" be interpreted in such a way as to make "the total ...
+awarded or revoked" plural?
+
+I can imagine no reasonable interpretation for "or" other than that
+points awarded and points revoked both count towards the same total. The
+use of "do" rather than "does" must be treated as a R754(1) difference
+in grammar or dialect.
+
+
+"Total" has no further qualifiers or constraints on it, and I can see no
+excuse in the text of the rule for inventing any. In particular, the
+"total number of points awarded or revoked" on a particular axis is
+totaled over all players, over all time, and over all contracts or other
+mechanisms for awarding or revoking points.
+
+Rule 1586 suggests to me that x-points should be considered the same
+thing as pre-Axis points, which implies that no contract has ever
+awarded x-points.
+
+I suggest ignoring the text of this rule and letting the incorrect
+obvious interpretation ratify until the situation can be fixed
+legislatively.
+
+========================================================================

@@ -1,0 +1,191 @@
+==============================  CFJ 3272  ==============================
+
+    In the below-quoted message, Arkady spent a ruble.
+
+========================================================================
+
+Caller:                                 FKA441344
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by FKA441344:                    24 Sep 2012 13:31:12 GMT
+Assigned to G.:                         27 Sep 2012 01:27:43 GMT
+Judged FALSE by G.:                     27 Sep 2012 04:05:48 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Sep 19, 2012 at 11:17 PM, Arkady English
+<arkadyenglish+agora@gmail.com> wrote:
+> On 19 September 2012 18:03, Sean Hunt <scshunt@csclub.uwaterloo.ca> wrote:
+>> I hereby distribute each listed proposal, initiating the Agoran
+>> Decision of whether to adopt it.  For this decision, the eligible
+>> voters are the active first-class players at the time of this
+>> distribution, the vote collector is the Assessor, and the valid
+>> options are FOR and AGAINST (PRESENT is also a valid vote).  Then,
+>> I assign each listed proposal the ID number specified under 'NUM'.
+>>
+>> The Proposal Pool is empty.
+>>
+>> NUM  AI  CHAMBER       AUTHOR      TITLE
+>> 7309 3.0 Ordinary      scshunt     Conditional Destruction
+>> 7310 1.0 Plutocratic   scshunt     Richard Potato Boat
+>> 7311 2.0 Ordinary      Murphy      Ink rationing
+>> 7312 1.7 Ordinary      G.          Win by Clout
+>> 7313 1.0 Ordinary      Machiavelli Agora expects that every person
+>> will do eir duty
+>>
+>> {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+>>
+>> ID: 7309
+>> Title: Conditional Destruction
+>> Author: scshunt
+>> AI: 3.0
+>> Chamber: Ordinary
+>>
+>> Amend Rule 2337 by replacing:
+>>       Optionally, the author CAN, in the creating message, specify one
+>>       or more conditions required to be true for the promise to be
+>>       cashed, and/or one or more conditions required to be true for
+>>       the promise not to be destroyed when cashed.
+>> with:
+>>       Optionally, the author CAN, in the creating message specify one
+>>       or more of the following:
+>>
+>>          a) a title
+>>          b) one or more conditions required to be true for the promise
+>>             to be cashed;
+>>          c) one or more conditions required to be true for the promise
+>>             not to be destroyed when cashed; and
+>>          d) one or more conditions under which the author of the promise
+>>             can destroy it.
+>> and by appending:
+>>       If a promise has one or more conditions under which the author of
+>>       the promise can destroy it, and they are all satisfied, then the
+author
+>>       CAN destroy that promise with notice.
+>>
+>
+> FOR FOR
+>
+>> {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+>>
+>> ID: 7310
+>> Title: Richard Potato Boat
+>> Author: scshunt
+>> AI: 1.0
+>> Chamber: Plutocratic
+>>
+>> Enact a new rule reading:
+>>       scshunt CAN, by announcement, cause this rule to perform a
+>> specified Rule Change.
+>>
+>
+> I spend a ruble and vote AGAINST.
+>
+>> {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+>>
+>> ID: 7311
+>> Title: Ink rationing
+>> Author: Murphy
+>> AI: 2.0
+>> Chamber: Ordinary
+>>
+>> Amend Rule 2366 (Veto and Rubberstamp) by appending this text:
+>>
+>>       The above notwithstanding, a player holding the Speakership CANNOT
+>>       perform one of these actions if e already performed that action
+>>       for a different proposal earlier in the same week.
+>>
+>
+> FOR FOR
+>
+>> {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+>>
+>> ID: 7312
+>> Title: Win by Clout
+>> Author: G.
+>> AI: 1.7
+>> Chamber: Ordinary
+>>
+>> Enact the following Rule, Win by Clout, Power-1.7:
+>>
+>>       If a single Player has a voting limit on an Agoran Decision
+>>       that has a Chamber, and that voting limit, at the end of the
+>>       Decision's voting period, is greater than the combined voting
+>>       limits of all other entities on that decision, that player
+>>       satisfies the Victory Condition of Clout.
+>>
+>>       If a correct Victory Announcement is made for such a win, this
+>>       Victory Condition ceases to be a Victory Condition for Decisions
+>>       in the same Chamber for 21 days following the announcement.
+>>
+>
+> FOR FOR
+>
+>> {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+>>
+>> ID: 7313
+>> Title: Agora expects that every person will do eir duty
+>> Author: Machiavelli
+>> AI: 1.0
+>> Chamber: Ordinary
+>>
+>> Amend Rule 2143, "Official Reports and Duties", to read:
+>>
+>>       For each person:
+>>
+>>       a) If any task is defined by the rules as part of that person's
+>>           weekly duties, then e SHALL perform it at least once each
+>>           week, except if the Speed is Slow, in which case the duties
+>>           SHALL be completed once each fortnight.  If any information
+>>           is defined by the rules as part of that person's weekly
+>>           report, then e SHALL maintain all such information, and the
+>>           publication of all such information is part of eir weekly
+>>           duties.
+>>
+>>       b) If any task is defined by the rules as part of that person's
+>>           monthly duties, then e SHALL perform it at least once each
+>>           month.  If any information is defined by the rules as part
+>>           of that person's monthly report, then e SHALL maintain all
+>>           such information, and the publication of all such
+>>           information is part of eir monthly duties.
+>>
+>>       Any information defined by the rules as part of a person's
+>>       report, without specifying which one, is part of eir weekly
+>>       report.  Failure of a person to perform any duty required of em
+>>       within the allotted time is the Class-2 crime of Tardiness.
+>>
+>>       While performing weekly or monthly duties or publishing weekly
+>>       or monthly reports, persons SHALL NOT publish information that
+>>       is inaccurate or misleading.
+>>
+>>       Reports SHALL be published in plain text.  Tabular data must
+>>       line up properly when viewed in a monospaced font.  Publishing a
+>>       report that deviates from these regulations is the Class 2 Crime
+>>       of Making My Eyes Bleed.
+>>
+>
+> FOR FOR
+>
+>> {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+>>
+>> -scshunt
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The intent is not too unclear; but given (1) the fact that rubles can be
+spent with regard to raise anyone's voting limit, and (2) that such
+manipulations were performed by others for this very proposal, and (3)
+when it comes to intricate maneuvers for legalistic scams, it's more
+"fun" (er, Agoran) to insist on technicalities mattering, FALSE.
+
+========================================================================

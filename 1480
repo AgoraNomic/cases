@@ -1,0 +1,91 @@
+==============================  CFJ 1480  ==============================
+
+    A Speaker Transition did *not* commence on January 1.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           05 Jan 2004 16:19:08 GMT
+Order(s) issued:                        05 Jan 2004 16:19:08 GMT
+Assigned to Murphy:                     06 Jan 2004 02:41:13 GMT
+Judged FALSE by Murphy:                 06 Jan 2004 03:07:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1581/3 (Quarterly Speaker Change, Power=1) reads:
+      A Speaker Transition occurs upon the commencement of each
+      new quarter.
+and according to Rule 459/5 (Agoran Epochs, Power=1), this automatic
+event would occur on January 1:
+      Automatic events that happen daily, weekly, monthly, quarterly,
+      or yearly happen at the beginning of the corresponding Agoran
+      epoch.
+However the beginning of the first quarter on January 1 (and
+incidentally the second quarter on April 1) occurs during Agoran
+holidays by Rules 1870 and 1787.  And thus, the timing of speaker
+transition commencement is an event occuring during a holiday,
+and with both Power of 2 and claimed precedence, Rule 1769
+(Power=2) reads:
+      If some Rule bases the time of a future event upon the time of
+      another event, or requires that a Player perform some action
+      within some time of another event, and that other event occurs
+      during a Holiday, the time at which the Holiday ends shall be
+      used instead for the purpose of determining the time of the
+      future event or of the time by which the Player must perform the
+      specified action.
+
+      This Rule takes precedence over all Rules pertaining to the
+      timing of events, and over all Rules which require Players to
+      perform events before a specified time.
+
+It is possible, as some version of this issue has been in play for
+some time, that perhaps 50% of speaker transitions have been
+incorrectly announced and thus not completed ;).
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Rule 1769 reads, in part:
+
+      If some Rule bases the time of a future event upon the time of
+      another event, or requires that a Player perform some action
+      within some time of another event, and that other event occurs
+      during a Holiday, the time at which the Holiday ends shall be
+      used instead for the purpose of determining the time of the
+      future event or of the time by which the Player must perform the
+      specified action.
+
+Goethe points out that the quarterly Speakerly Transition is based upon
+the beginning of the quarter (Rule 1581), which in turn is based upon
+the beginning of the Agoran quarter (Rule 459).
+
+However, I interpret the phrase "future event" as follows:  if the
+timing of event X depends on the timing of event Y, then this portion
+of Rule 1769 applies only if event X would (in the absence of any
+Holidays) occur after event Y.  In this case, all three events occur
+simultaneously, so Rule 1769 does not apply.  (Amending Rule 1769 to
+make this interpretation explicit is left as an exercise for the
+student.)
+
+Since this is evidently Goethe's sole basis for alleging the truth of
+the statement, I hereby judge the statement FALSE.  I also deny Goethe's
+request that I order an official annotation of Rule 1581.
+
+Note that the ASAP requirement in Rule 402(ii) (Speaker Transition) *is*
+a future event (the deadline) based on the time of a prior event (the
+beginning of the Transition), and thus the time limit is extended due
+to Holidays in January and April.  This is, of course, exactly what
+Holidays are intended to do.  :)
+
+========================================================================

@@ -1,0 +1,119 @@
+==============================  CFJ 3245  ==============================
+
+    CfJ 3212 is a turtle
+
+========================================================================
+
+Caller:                                 Bucky
+Barred:                                 scshunt
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        07 Jul 2012 05:58:50 GMT
+Assigned to G.:                         16 Jul 2012 06:29:25 GMT
+Judged TRUE by G.:                      18 Jul 2012 19:50:41 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The
+ hypothetical does not arise from the CfJ itself, but rather from
+another (hypothetical) statement that happens to be identical to the
+CfJ's statement.
+
+========================================================================
+
+Caller's Evidence:
+
+==============================  CFJ 3212  ==============================
+
+It
+ is illegal for a player to announce intent to use Ratification Without
+Objection to ratify a document whose contents are identical to this
+sentence, without also specifying a reason for ratifying it.
+========================================================================
+
+(and more broadly the entirety of the case history archived at
+http://zenith.homelinux.net/cotc/viewcase.php?cfj=3212)
+
+
+and with this message also relevant:
+
+
+----- Original Message -----
+From: Sean Hunt <scshunt@csclub.uwaterloo.ca>
+To: agora-business <agora-business@agoranomic.org>
+Cc:
+Sent: Friday, July 6, 2012 11:43 PM
+Subject: Re: BUS: Declaration of Victory
+
+On Fri, Jul 6, 2012 at 9:39 PM, John Smith <spambait3@yahoo.com> wrote:
+> Admitted.  Trying again.
+>
+>
+ I, Bucky, satisfy the Victory Condition of Paradox (on CfJ 3212) while
+also not satisfying any Losing Conditions.  (This is a Victory
+Announcement)
+CoE: No you do not. The hypothetical is arising out of the case itself.
+>
+ Machiavelli satisfies the Victory Condition of Paradox  (on CfJ 3220)
+while also not satisfying any Losing Conditions. (This is a Victory
+Announcement)
+CoE: No e does not. The hypothetical is arising out of the case itself.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+To qualify as a turtle, a CFJ must be about:
+       "the possibility or legality of a rule-defined action (actual or
+       hypothetical, but not arising from that case itself...)"
+
+Now, technically, many hypothetical examples wouldn't arise until a
+case brought them up.  This is a triviality; it benefits the game to
+allow hypothetical conditions to be raised without going through the
+recordkeeping burden of setting them up, and it is clearly the purpose
+of the above clause to allow hypothetical situations to be considered.
+
+The test for whether a hypothetical situation is independent of the CFJ
+is this: *could* this hypothetical situation be set up in actuality,
+*without* the CFJ, and then a CFJ be called later to ask if the actual
+situation was UNDECIDABLE, and get the same result for substantially
+the same arguments?  If so, then the situation is sufficiently decoupled
+from the CFJ, and any self-referential requirement of the CFJ, so as to
+"not arise from the case itself".
+
+So, here's the situation in CFJ 3212, decoupled:
+
+Player A publishes the following statement 1:
+        It is illegal for a player to announce intent to use Ratification
+        Without Objection to ratify a document whose contents are
+        identical to this sentence, without also specifying a reason for
+        ratifying it.
+
+Player A then publishes statement 2:
+        I announce my intent to ratify statement 1, without objection.
+
+Player X (could be A) then publishes:
+    Inquiry CFJ: Player A violated Rule 2202 in announcing intent to
+    ratify statement 1 in statement 2.
+If this latter CFJ would be a turtle (i.e. can be judged UNDECIDABLE
+for substantially the same reasons as CFJ 3212), then CFJ 3212 is also
+a turtle.
+
+While I have some disquiet with the results of CFJ 3212 (and would
+generally support the different decision given by Judge Machiavelli), I
+find that the decoupled CFJ is substantially the same; that is, the
+unappealed (in the winning time frame) reasons given by Judge FKA441344
+would lead to UNDECIDABLE in the above case for substantially the same
+reasons as given in CFJ 3212.  Therefore, the original case discusses a
+hypothetical that, can be reasonably said, does not arise from the case
+itself, and is a turtle.
+
+========================================================================

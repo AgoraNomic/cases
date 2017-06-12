@@ -1,0 +1,160 @@
+======================================================================
+                               CFJ 882
+
+"Proposal 2737 failed."
+
+======================================================================
+
+Judge:       Michael
+
+Judgement:   TRUE
+
+Eligible:    Andre, Coren, elJefe, favor, KoJen, Michael, Murphy,
+             Oerjan, Steve, Vanyel
+
+Not eligible:
+Caller:      Morendil
+Barred:      Chuck, Swann, Zefram
+On hold:     -
+
+======================================================================
+
+History:
+  Called by Morendil, Sat, 9 Nov 1996 19:34:50 +0100
+  Assigned to Michael, Tue, 12 Nov 1996 12:24:06 +0000
+  Judged TRUE by Michael, Tue Nov 19 12:01:04 GMT 1996
+  Published, Tue, 19 Nov 1996 12:03:00 +0000
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+The caller has put his case well, and I seek in my reasoning here to
+merely make it even more explicit.  The proposal in question contained
+the following provision:
+
+  Let the following Rule be created, with an MI=1 if the Voting
+  Index of this Proposal is less than 2, with an MI=2 otherwise;
+
+  (Title: The Frankenstein Generator)
+  [...]
+
+Now, the Voting Index on this proposal was precisely 2, so that this
+provision clearly calls for the creation of a rule with an MI=2.
+(This is allowed by 1339/4, and the conditional nature of the
+specification is not prohibited there.)  So, Proposal 2737 had an
+Adoption Index of (at least) 2, as one of its constituent parts had an
+Adoption Index of two.  In order for it to pass, it must therefore
+gain a Voting Index of *greater* than two.  As we have already
+remarked, this did not occur, so the Proposal must have failed.
+
+======================================================================
+Evidence:
+
+From the Assessor's Report
+(Subject: OFF: Assessor's Report: 2734-2744
+ Date: Thu, 7 Nov 1996 21:37:07 +0100
+ Message-Id: <199611072037.VAA29283@logatome.micronet.fr>)
+
+               2  2  2  2  2  2  2  2  2  2  2
+               7  7  7  7  7  7  7  7  7  7  7
+               3  3  3  3  3  3  4  4  4  4  4
+               4  5  6  7  8  9  0  1  2  3  4
+
+Andre          A  -  F  A  F  F  F  -  A  F  F
+Michael        -  F  F  F  F  -  F  F  F  F  A
+Morendil       -  F  A  F  F  -  F  F  F  A  A
+Oerjan         F  F  F  F  -  F  F  F  F  F  -
+Scott          A  F  -  A  A  F  -  A  A
+Steve          A  F  F  F  F  -  F  F  F  F  F
+Swann          A  F  A 2F  F  F  F  - 3F  A  -
+Zefram         F  F  F  A  F  F  F  F  F  F  A
+
+F-A           -2 +7 +3 +3 +5 +5 +7 +4 +4 +3 -1
+
+FOR            2  7  5  6  6  5  7  5  6  5  2
+AGAINST        4  0  2  3  1  0  0  1  2  2  3
+ABSTAIN        2  1  1  0  1  3  1  2  0  0  2
+
+                       [^ note this column]
+
+and further in the same report:
+
+Let the following Rule be created, with an MI=1 if the Voting
+Index of this Proposal is less than 2, with an MI=2 otherwise;
+
+(Title: The Frankenstein Generator)
+
+     This Rule shall be known as the Frankenstein Generator, and can
+be ...
+
+======================================================================
+
+(Caller's) Arguments:
+
+The following is my take on the problem of determining the AIs of
+Proposals containing "conditional Rule Changes".
+
+Proposal 2737 contains the following provision :
+
+ Let the following Rule be created, with an MI=1 if the Voting
+ Index of this Proposal is less than 2, with an MI=2 otherwise;
+
+   <text omitted>
+
+Proposal 2741 contains the following provision :
+
+ Be it further resolved that if this Proposal attained a Voting Index
+ greater than 3, Rule 1339 ("Rule Changes") shall be amended by
+ deleting the paragraph reading
+
+   <text omitted>
+
+Except for the above provisions, the Adoption Index of either Proposal
+would have been 1. It is therefore necessary to examine these
+provisions and no other to determine the Aodption Indices of these
+Proposals.
+
+The Rules specify that Proposals may contain Rule Changes. It is
+therefore natural to assume that "a Rule Change", in the context of a
+Proposal, means "a provision that specifies some change to the
+Ruleset". This isn't just me beig pedantic; by that I mean that either
+of the above two provisions is exactly one Rule Change.
+
+I also want to mention Rule 116, which as you'll recall says that in
+the context of changing the Rules, anything which is not permitted is
+prohibited.
+
+This gives an easy resolution of the dilemma in the case of Proposal
+2741 : the above provision is _not_ a Rule Change. Its effects include
+possibly amending a Rule, and possibly not amending it; I therefore
+believe it is not one of the Rule Changes listed in Rule 105.
+
+Therefore, in my opinion, the AI of Proposal 2741 was 1, but the above
+provision had no effect. I stand by my denial of Zefram's COE
+regarding this matter.
+
+The case of Proposal 2737 isn't so easy. The above provision _is_ a
+Rule change, precisely a Creation. The Voting Index was determined at
+the End of the Voting Period on that Proposal to be exactly 2.
+
+Therefore, if this Rule Change specifies an MI at all, that MI was
+2.And in the words of Rule 1322, this Rule Change may not take effect
+unless its Power, i.e.  its Adoption Index, is not less than 2. Thus,
+the Adoption Index of this Proposal was 2 by 594, and the Proposal
+failed.
+
+The alternative is the interpretation that the Proposal did _not_
+specify an MI, which would in a straightforward manner result in an AI
+of 1, with the above provision creating an MI=1 Rule.
+
+In defense of that interpretation, I can only point out that during
+the whole of the Voting Period, the Proposal did _not_ have a Voting
+Index and therefore at that time did not specify an MI for the new
+Rule. Other Players might have no difficulty in imagining that the
+same text may specify a number when it had previously failed to do so
+for more than ten days, but I am not of that mettle. :)
+
+======================================================================

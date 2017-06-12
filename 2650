@@ -1,0 +1,307 @@
+==============================  CFJ 2650  ==============================
+
+    I CAN destroy The Pier by announcement.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Pavitra
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      07 Aug 2009 02:37:06 GMT
+Assigned to Pavitra:                    08 Aug 2009 16:12:27 GMT
+Judged UNDECIDABLE by Pavitra:          12 Aug 2009 00:46:37 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Now that I am an inactive player, I am ineligible to own The Pier. As
+such, according to R2166, it would be transferred to the LFD, but R2166
+contradicts itself directly by stating that fixed assets cannot be
+transferred. There is no way to properly resolve this; R217 says that
+the text of the rules take precedence over everything else. As a result,
+any attempted application of common sense, game custom, etc. will always
+be defeated one of the rule's contradictory clauses. As a result, the
+only appropriate judgment is UNDECIDABLE.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following pledge:
+{{
+This is a Public (Disclosure) Equitable Pledge entitled Pairs of Docks.
+coppro CAN terminate this pledge by announcement.
+
+No asset defined by this document has a recordkeepor.
+
+The Pier is a fixed asset. Owneship of The Pier is restricted to active
+players. coppro is the initial owner of The Pier.
+}}
+
+I go on hold.
+
+========================================================================
+
+Gratuitous Arguments by Pavitra:
+
+Nice try, but R217 actually says this:
+                         Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense,
+      past judgements, and consideration of the best interests of the
+      game.
+
+In particular, "the text is ... inconsistent" here. Therefore we are
+fully justified in using CSJI* to determine precedence.
+
+At any rate, you seem to have overlooked the following sentence from R2166:
+                                         If an asset would otherwise
+      lack an owner, it is owned by the Lost and Found Department.
+
+I argue that it is in the best interests of the game for this to mean
+that, upon your inactivation, The Pier became owned by the L&FD by
+another mechanism than transference.
+
+I've always said you're a friend without pier. (One bad pun begets another.)
+
+
+(* This really needs an acronym, considering how much it comes up and
+how verbose it is in full. CSJI: custom, sense, judgements, interests.)
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+Pavitra wrote:
+> Nice try, but R217 actually says this:
+>                          Where the text is silent, inconsistent, or
+>       unclear, it is to be augmented by game custom, common sense,
+>       past judgements, and consideration of the best interests of the
+>       game.
+>
+> In particular, "the text is ... inconsistent" here. Therefore we are
+> fully justified in using CSJI* to determine precedence.
+
+Fair. However, I would then argue that Agora is a Nomic. We even have a
+rule specifically saying that. Nomics seek to eliminate paradoxes by
+awarding those who find them, especially where the finding of such a
+paradox is nonfatal to the game, as in Agora. If we could simply wash
+away all inconsistencies by choosing a definite interpretation that we
+liked, there would be no paradox, making the winning condition quite
+useless. The Nomic game custom, even older than Agora's, is that a
+definite and explicit contradiction between two rules is a discovery
+that results in a reward for the discoverer.
+
+Furthermore, it is in the best interests of Agora that this CFJ be ruled
+UNDECIDABLE, as fixing Paradoxes in innocent situations such as this one
+is very good for Agora compared to them deing discovered after a
+significant bout of gameplay reliant on one behavior or the other. By
+providing an incentive for players to present Paradoxes in a harmless
+manner, the quality of Agora's ruleset is improved.
+
+> I argue that it is in the best interests of the game for this to mean
+> that, upon your inactivation, The Pier became owned by the L&FD by
+> another mechanism than transference.
+
+That also fails. There is no reason that, if the clause transferring it
+the LFD fails, it would lack an owner. It is owned either by me (the
+transfer fails due to it being a fixed asset) or by the LFD (the
+transfer succeeds due to me being inactive). As a result, a paradox of
+ownership
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+A Contradiction is not a Paradox. Why do people seem to shout "paradox!"
+at every inconsistency in the rules? A genuine paradox is indeed
+UNDECIDABLE, and good to catch via the CFJ system, with a reward for the
+person who catches it. However, in the mere case of a contradiction
+between rules, we have rules for resolving that (i.e. 1030, 217).
+
+In this case, note that rule 2166 states "Each asset has exactly one
+owner.", which means that it has an owner, and all we need to do is to
+find out who it is. In this case, no way "The Pier is a fixed asset. "
+overrules "If an asset would otherwise lack an owner, it is owned by the
+Lost and Found Department."; CANNOT means "Attempts to perform the
+described action are unsuccessful.", and platonically being given to the
+L&FD due to there being no valid owner is not an action.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+Reading the gratuitous and non-gratuitous arguments, it has become clear
+that the question in this case is not technical or mechanical but
+cultural. There appears to be no controversy that CSJI determines the
+outcome; the controversy is over what exactly that implies.
+
+I am therefore going to attempt to rule on what constitutes a
+Nomic-quality paradox in the fullest spirit of the game.
+
+
+
+We can gain a first approximation by examining the Rules.
+
+Suber's Rule 213, the probably undisputed origin of the tradition of
+Wins by Paradox, reads in part as follows:
+      If the rules are changed so that further play is impossible, or if
+      the legality of a move cannot be determined with finality, or if
+      by the Judge's best reasoning, not overruled, a move appears
+      equally legal and illegal, then the first player unable to
+      complete a turn is the winner.
+
+(I read "legal" and "illegal" in Suber's rule to mean "POSSIBLE" and
+"IMPOSSIBLE" in modern MMI jargon.)
+
+Rule 2110/5 (Win by Paradox) reads, in part:
+      A tortoise is an inquiry case on the possibility or legality of
+      a rule-defined action (actual or hypothetical, but not arising
+      from that case itself, and not occurring after the initiation of
+      that case) for which the question of veracity is UNDECIDABLE.
+
+For the definition of UNDECIDABLE, I quote Rule 591/30 (Inquiry Cases):
+      * UNDECIDABLE, appropriate if the statement was logically
+        undecidable or otherwise not capable of being accurately
+        described as either false or true
+
+The primary 'competitor' to UNDECIDABLE is generally UNDETERMINED, so I
+will also quote that here.
+      * UNDETERMINED, appropriate if the statement is nonsensical or
+        too vague, or if the information available to the judge is
+        insufficient to determine which of the FALSE, TRUE, and
+        UNDECIDABLE judgements is appropriate; however, uncertainty as
+        to how to interpret or apply the rules cannot constitute
+        insufficiency of information for this purpose
+
+
+The chief difficulty here is that the rules and precedent clearly imply
+a different conclusion than the one I want.
+
+It is obvious to me that, according to the Rules, any straightforward
+contradiction in Rule text automatically qualifies whoever notices it
+for a Win by Paradox.
+
+I feel, and I think that I am not alone in feeling this, that that
+_should not_ be the case.
+
+
+I would like to examine why.
+
+
+
+The intuitive sense that "mere" contradiction shouldn't qualify as a
+paradox implies that there must be some stronger sense of the word
+"paradox", a type of situation more truly paradoxical.
+
+The "contradiction" clause in R217, too, might be taken to mean that we
+now expect a higher standard of paradox than Suber envisioned, or even
+than our current definition of UNDECIDABLE implies.
+
+What, then, is that higher standard? What do we, implicitly,
+unwrittenly, expect of our paradoxes?
+
+
+Before proceeding further, I wish to more clearly name the three degrees
+of paradox I am trying to distinguish:
+  strong paradoxes, which satisfy the as-yet vague intuitive sense of
+what "deserves" a win;
+  weak paradoxes, which possibly might be either seemingly or genuinely
+unresolvable problems in the Ruleset, but which nevertheless don't
+"deserve" to be called paradoxes; and
+  falsidical paradoxes, which aren't paradoxes at all, but fallacious
+arguments that appear to demonstrate the existence of a strong or weak
+paradox.
+
+
+In 2005, Goethe (now G.) Won by Paradox, the first such win in recorded
+Agoran history. E played Discard Picking to obtain Not Your Turn, and
+then played Not Your Turn to prevent the play of Discard Picking. This
+created what we may call a causal or temporal paradox. This is a strong
+paradox, a paradox in the strongest, purest sense of the word.
+
+How can we generalize this? We can hardly require all strong paradoxes
+to be temporal, since we have carefully sanitized the Rules of all
+retroactivity. We must find a better definition of paradoxicality.
+
+(Since Goethe's win, there have been four more Wins by Paradox. One
+resulted from a CfJ directly on a straightforward liar paradox; one from
+non-statement CfJs that therefore had no truth value; and two from a
+(single) contract engineered to have undeterminable internal state.
+
+Each of these relied on deliberately exploiting loopholes in the Win by
+Paradox rules themselves, and so cannot really be considered precedent
+for what constitutes a proper paradox.)
+
+
+All causal paradoxes are strong paradoxes, but it is undesirable that
+all strong paradoxes be causal. (It may or may not be helpful, but I
+also believe that Curry's paradox is of the strong variety, or would be
+if finagled into an Agoran CAN.)
+
+My goal is to provide a general rule to distinguish between strong and
+weak paradoxes.
+
+
+I submit that strong paradoxes are based on subtle contradictions
+arising in non-obvious ways from seemingly consistent axioms (read:
+Rules), while weak paradoxes are based on direct contradictions present
+in the Rules explicitly.
+
+But this is much too subjective a criterion. It is hardly better than a
+simple rephrasing of the original question.
+
+A fairly good indicator seems to be that weak paradoxes are always "in
+effect" as long as the relevant Rules are broken, while strong paradoxes
+require some unusual combination of actions to bring about even after
+the problematic Rule text is in place.
+
+This criterion is somewhat stilted and certainly imperfect, but it is
+the least worst objective rule that I can think of.
+
+
+An example of a strong paradox by this rule:
+      The Approval Rating of a non-vacant office is a real number equal
+      to the ratio of votes for the current holder to all votes in the
+      most recent election for that office.
+If there are no votes in an election for a held office, what is the
+office's approval rating?
+
+An example of a weak paradox:
+      The Approval Rating of a non-vacant office is an index equal to
+      the ratio of votes for the current holder to all votes in the most
+      recent election for that office. The Approval Rating is an
+      integer.
+The rule contradicts itself straightforwardly (index/ratio vs. integer,
+no mechanism for rounding or truncation specified).
+
+Another weak paradox:
+      The Model Citizen is an imposed office, held by the player that
+      has least recently been an officer, or the longest-registered of
+      all such players in the event of a tie.
+Gaining MC immediately disqualifies one for the position, leading to a
+Gnarlier-style infinite loop.
+
+
+
+By this measure, The Pier's ownership would be a strong paradox, and
+therefore deserves a win.
+
+(This is fortunate. If it had been a weak paradox, I would have had to
+choose between awarding a win where it was undeserved and inventing a
+weak rationalization for ignoring the Rules.)
+
+
+
+I therefore judge that it is in the best interests of Agora for the
+Pier's ownership to be UNDECIDABLE. I extend my congratulations to H.
+Caller coppro for discovering the paradox and for drawing it out into
+action.
+
+========================================================================

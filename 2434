@@ -1,0 +1,38 @@
+==============================  CFJ 2434  ==============================
+
+    Rests are fungible.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  BobTHJ
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       26 Mar 2009 07:16:33 GMT
+Assigned to BobTHJ:                     28 Mar 2009 16:18:53 GMT
+Judged TRUE by BobTHJ:                  30 Mar 2009 17:03:40 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I suspect Rests are fungible even though the rules don't say they are.
+See CFJ 2176 (the most recent precedent on the matter), as well as
+certain older precedents (referenced in that case, or by a zenith-cotc
+search for "fungible").
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+Judge Goethe's arguments in CFJ 2176 are logical, and this situation
+is no different. The rules may not define rests to be fungible, but
+since rests do not have unique names nor distinguishing properties,
+they are fungible by dictionary definition. I judge TRUE.
+
+========================================================================

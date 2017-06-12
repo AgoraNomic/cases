@@ -1,0 +1,45 @@
+==============================  CFJ 2639  ==============================
+
+    Quazie is active.
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  ə
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ehird:                        23 Jul 2009 12:43:36 GMT
+Assigned to ə:                          24 Jul 2009 21:46:05 GMT
+ə recused:                              02 Aug 2009 16:17:27 GMT
+Assigned to G.:                         02 Aug 2009 16:22:42 GMT
+Judged TRUE by G.:                      02 Aug 2009 16:40:27 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+2009/7/23 Quazie <quazienomic@gmail.com>:
+> Quazie.Active = TRUE;
+>
+> While(Quazie.travelling == true){
+>   assert(!Quazie.payingAttentionTo(Agora));
+>   Quazie.is(Sorry);
+> }
+>
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Passes the Moron test.  TRUE.
+
+========================================================================

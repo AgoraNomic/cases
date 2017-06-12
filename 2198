@@ -1,0 +1,211 @@
+==============================  CFJ 2198  ==============================
+
+    BobTHJ and root won the game on September 26, 2008 UTC.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         26 Sep 2008 00:10:33 GMT
+Assigned to omd:                        28 Sep 2008 22:20:32 GMT
+omd recused:                            16 Oct 2008 05:58:25 GMT
+Assigned to ais523:                     23 Oct 2008 09:57:07 GMT
+Judged FALSE by ais523:                 24 Oct 2008 18:25:47 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I hereby identify the Embassy as a public contract.  Its members are
+BobTHJ and root.  Its text reads as follows:
+
+{{{
+1) These regulations shall compose the nomic ruleset of a public
+   partnership, known as the Embassy.
+
+2) The parties to this partnership generally CAN act on behalf of the
+   partnership as a whole, where not otherwise prohibited by these
+   regulations. The parties SHALL act collectively to ensure that the
+   partnership meets its legal obligations.
+
+3) Nomicity being important to the healthy functioning of this
+   partnership, any party CAN modify these regulations in any way by
+   announcement, with the consent of all other parties.
+
+4) Any person CAN join this partnership by announcement, with the
+   consent of all parties. Any party to this partnership CAN leave it
+   by announcement.
+
+5) Under the auspices of Agora's Rule 2148, this foreign nomic does
+   hereby grant the Ambassador of Agora the power 2; and the privilege
+   of effecting rule changes to any rule of Agora with power of at
+   most 2 by announcement, as explicitly permitted by these
+   regulations.
+
+6) If the Ambassador of Agora is a member of this contract, e MAY and
+   SHALL once perform the following actions, in order:
+
+   a) Enact a Rule of Agora with power 2, titled "Win by Diplomacy",
+      with the text:
+
+      Upon an announcement of a diplomatic win by the Ambassador that
+      names a set of persons, each person named in the announcement
+      satisfies the Winning Condition of Diplomacy. This rule then
+      repeals itself.
+
+   b) Announce a diplomatic win, naming the set of persons who are
+      party to this contract.
+
+   c) Amend Rule 2148 by replacing its second paragraph with this
+      text:
+
+      A foreign nomic may grant certain positions and perquisites to
+      Agora's ambassador. If so, the ambassador shall generally
+      exercise such perquisites in such manner as e sees fit, subject
+      to other rules and orders.
+
+7) If the Ambassador of Agora is a member of this contract, any party
+   CAN act on eir behalf to perform any actions required of em by
+   these regulations by virtue of eir holding the position of
+   Ambassador.
+}}}
+
+
+On behalf of H. Ambassador BobTHJ, I effect a rule change whereby a
+new Power-2 rule is enacted, titled "Win by Diplomacy", reading as
+follows:
+
+{{{
+      Upon an announcement of a diplomatic win by the Ambassador that
+      names a set of persons, each person named in the announcement
+      satisfies the Winning Condition of Diplomacy. This rule then
+      repeals itself.
+}}}
+
+
+On behalf of H. Ambassador BobTHJ, I announce a diplomatic win, naming
+the set of BobTHJ and root.
+
+
+On behalf of H. Ambassador BobTHJ, I effect a rule change whereby Rule
+2148 is amended, by replacing its second paragraph with this text:
+
+{{{
+      A foreign nomic may grant certain positions and perquisites to
+      Agora's ambassador. If so, the ambassador shall generally
+      exercise such perquisites in such manner as e sees fit, subject
+      to other rules and orders.
+}}}
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2148/2 reads, in part, "A foreign nomic may grant certain powers
+and privileges to Agora's ambassador."  "Power" is defined by R1688/4
+to be a non-negative rational number which, if positive, makes its
+possessor an instrument; per R105/3 an instrument can, as part of its
+effect, make rule changes.  "Privilege" is defined by R101/7 as
+something that exists in the absence of a binding agreement to the
+contrary.
+
+The privilege granted the Ambassador by the Embassy enabled the
+Ambassador to effect rule changes in accordance with the rules.  The
+power granted by the Embassy made the Ambassador an instrument and
+permitted em to change rules up to power 2.  This was used to make
+specific changes to the rules to enable the win and then close the
+loophole.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+First, I really like this scam; messing around with coincidences like
+that is to me one of the most elegant forms of scamming.
+
+There are two things to consider here: whether BobTHJ had a Power of 2
+and thus was capable of creating Power-2 rules, and whether BobTHJ had
+some other method of creating the rule in question.
+
+First, the powering-up of BobTHJ clearly failed. Although rule 2148
+states that the Embassy can grant Agora's Ambassador powers (including,
+presumably, a Power of 2), rule 2140 (which takes precedence over it)
+prevents the power-0 nomic in question elevating anything to power 2. I
+am not aware of any reasonable arguments against this; the way rule 2148
+is worded, it is clearly not granting the power in question itself.
+(Scams which rely on wording have to work on the literal wording of the
+rules; you can't rely on literal wording for part of the scam and then
+claim game custom on the same wording to reinterpret it a different
+way!)
+
+The case of the granted privilege is more interesting. Rule 101 has been
+amended since the scam took place, but the relevant part of R101/7, the
+relevant version, is its preamble:
+{{{
+     The rules may define persons as possessing specific rights or
+      privileges.  Be it hereby proclaimed that no binding agreement
+      or interpretation of Agoran law may abridge, reduce, limit, or
+      remove a person's defined rights.  A person's defined privileges
+      are assumed to exist in the absence of an explicit, binding
+      agreement to the contrary.  This rule takes precedence over any
+      rule which would allow restrictions of a person's rights or
+      privileges.
+}}}
+
+The language here is "the rules may define persons as possessing
+specific rights or privileges". In other words, it is clear that the
+intent of R101 at the time is that privileges are granted to persons by
+rules. Embassy is not a rule, so it certainly doesn't fit the game
+custom definition of what can grant a privilege. Game custom is not
+enough to stop a valid scam, though, as long as the scam is very
+thoroughly defended by the text of the rules.
+
+There is no real reason to believe that the grant of the privilege in
+question failed. However, it is far from certain what the privilege in
+question actually does when it's been granted. The privilege claims to
+make it possible for the Ambassador to modify power-2-or-lower rules in
+a specific manner; however, this is pretty strongly rebutted by rule
+105. Rule 105 makes it clear that only instruments can create rules, and
+takes precedence over most instruments itself. A privilege granted by a
+foreign nomic is not an instrument (unlike in the similar scam I
+attempted, which worked because the Monster was an instrument); the
+foreign nomic itself having a power of 0, it cannot elevate anything
+else into privilege status. Therefore, there are only two remaining
+scenarios:
+      * An instrument was involved in making the actual rule change the
+        scamsters claimed to make, or
+      * Rule 101 allowed the privilege to change the rules (or allowed
+        the privilege to allow the scamsters in question to change the
+        rules), despite rule 105.
+In the first case, the only plausible instruments seem to be rule 2148,
+and rule 101. Rule 2148, however, is merely allowing foreign nomics to
+grant privileges to a person; it is a huge and implausible stretch to
+assume that it itself is changing the rules (note that rule 2148 is not
+sufficiently powerful to allow persons to change rules directly).
+
+This leaves only rule 101, and the language above. Defined privileges
+are assumed to exist in the absence of an explicit binding agreement to
+the contrary; however, what we have here is an undefined privilege being
+caused to exist. This seems to be a situation entirely irrelevant to
+rule 101, whose purpose was then, at least partly, to cause privileges
+to exist. In the case of an already-existing privilege that was imposed
+some other way, rule 101 effectively does not state anything; it
+certainly doesn't allow the privilege to change the rules, or change the
+rules itself as a result.
+
+Therefore, it is clear that no sufficiently powerful instrument was used
+to enact "Win by Diplomacy", so the enactment failed, and thus the win
+was never awarded. I judge CFJ 2198 FALSE.
+
+========================================================================

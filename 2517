@@ -1,0 +1,51 @@
+==============================  CFJ 2517  ==============================
+
+    A single attempted action that fails in part fails completely.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Yally:                        10 May 2009 16:05:16 GMT
+Assigned to Murphy:                     10 May 2009 23:03:34 GMT
+Judged FALSE by Murphy:                 12 May 2009 00:12:20 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I vote PRESENCE on every Agoran Decision currently in its voting period.
+
+This fails in part as one can not vote PRESENT for elections.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Counterexample:  Resolving a proposal decision, where the proposal is
+adopted but only partly effective due to insufficient power.
+
+The caller's example is not actually a single action, but a single
+sentence triggering multiple actions.  This sort of sentence has
+generally been accepted as equivalent to multiple sentences triggering
+one action each (and thus the failure of one action does not imply the
+failure of the others), with exceptions such as
+
+  * a rule explicitly requiring more specificity (CFJ 1307: "I transfer
+    all my currencies to <entity>")
+
+  * ambiguity due to substantively different effects depending on the
+    order in which the actions are taken (Rule 1527 used to address
+    this issue explicitly)
+
+  * abusive disparity of effort between initiator and recordkeeper
+    (CFJ 1774: "I initiate 10,000 judicial cases")
+
+========================================================================

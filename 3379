@@ -1,0 +1,92 @@
+==============================  CFJ 3379  ==============================
+
+    I transferred 1 Yak to omd within 1 second of 17 Jul 2013 15:50:42
+    +0000.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           17 Jul 2013 16:25:52 GMT
+Assigned to ais523:                     23 Jul 2013 17:08:28 GMT
+Judged FALSE by ais523:                 26 Jul 2013 21:12:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Previous precedents [*] hold that a single message sent to multiple
+public fora is in fact only one message.  The only common time for this
+is the instant of initial sending.  If, however, the timing is set by
+each forum's receiving time, there is a conflict with this precedent,
+as it makes 2 messages which differ in the legal time of effect.
+
+The past precedents on message timing are frankly a muddle and possible
+at odds with actual practice.  This set of CFJs is meant to call
+attention to a side-effect of setting the timing on the server side.
+See evidence for timing evidence, the date chosen for the CFJ was the
+"traditional" time used (G.'s time of sending).
+
+[My personal belief is that the best overall way out of the muddle, in
+the absence of new legislation, is to use the sending time, UNLESS there
+is sufficient difference between the send and list receive times to
+suggest that something was hung up on the sender's side or that the
+sending time was set wrongly.  Yes this "sufficient difference" is
+squishy, but it still leaves things generally under the sender's control
+which is how we've generally played].
+
+[*] This is from my memory of the precedents.  Can do the research on
+exact case numbers later depending on if there's discussion on this or
+not.
+
+========================================================================
+
+Caller's Evidence:
+
+From headers, a single message from G.'s known email account, with
+the phrase 'I transfer 1 Yak from myself to omd':
+1.  was sent (left sender control) on     17 Jul 2013 15:50:42 +0000
+2.  was received by agora-business on     17 Jul 2013 15:54:22 +0000
+3.  was received by listserver.tue.nl on  17 Jul 2013 15:54:23 +0000
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 3378 TRUE, CFJ 3379 FALSE.
+
+The recent precedents have all been that a message becomes effective
+when it becomes available to its recipients (as opposed to the older
+TDoC game custom), and there's an older precedent that sending a message
+via multiple fora is still only one message (unless the headers indicate
+that it's intended to be multiple messages); I remember when I tried to
+scam via sending an intent to both backup lists in the hope that people
+wouldn't object to both intents, but that doesn't work.
+
+As such, in the case of a message sent via multiple fora, whichever
+forum relays the message first is the one whose timestamp should be
+respected; at that point, players are aware of the message, and the
+backup copy becomes redundant. (This is especially important given, say,
+the times in the past where the agora-* lists have been broken, the
+backup lists have been broken, and players have sent to both lists.)
+
+See also CFJ 2058 (read the judgement; the verdict is misleading because
+the statement was badly worded).
+
+Finally, CFJ 866 seems to be relevant background reading too (and also
+supports this verdict), and may be responsible for the TDoC confusion
+(in that it holds that the /recipient's/ TDoC is what matters, not
+the /sender's/ TDoC).
+
+This leaves open the issue of an email that's relayed in a timely manner
+to some recipients but not all of them, but that isn't at issue in this
+case.
+
+========================================================================

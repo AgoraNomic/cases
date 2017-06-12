@@ -1,0 +1,216 @@
+==============================  CFJ 3362  ==============================
+
+    A party can be a nomic.
+
+========================================================================
+
+Caller:                                 Walker
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+
+Judge:                                  G.
+Judgement:                              
+
+
+Judge:                                  OscarMeyr
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Walker:                       04 Jul 2013 23:47:51 GMT
+Assigned to G.:                         08 Jul 2013 17:14:35 GMT
+Judged FALSE by G.:                     08 Jul 2013 18:05:43 GMT
+Reconsideration requested by G.:        09 Jul 2013 17:04:28 GMT
+Assigned to G.:                         09 Jul 2013 17:04:28 GMT
+G. recused:                             19 Jul 2013 14:40:05 GMT
+Assigned to OscarMeyr:                  23 Jul 2013 17:09:55 GMT
+Judged TRUE by OscarMeyr:               25 Jul 2013 16:38:22 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+R2368:
+
+      A nomic is a system of rules that provides means for itself to
+      be amended arbitrarily. Nomics can be games, micronations,
+      simulations, and/or sovereign states.
+
+R2410:
+
+      A party member
+      CAN amend eir party's constitution by announcement when
+      authorised to do so by eir party's constitution.
+
+========================================================================
+
+Caller's Arguments:
+
+This case hinges on whether a nomic really "provides means for
+itself", or whether those means are provided by the Rules. I think the
+correct interpretation is that the Rules provide means for a party to
+provide means to amend itself, and therefore that a party is a nomic.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Agora explicitly gives two mechanisms for amending party constitutions:
+w/o objection and by announcement (R2410), thus precluding other methods
+(as constitutions are tracked by the Returning Officer and therefore
+regulated).  In particular, if a party's constitution purported to allow
+amendments to take effect via a non-Agoran forum, Agora would not
+recognize these changes as taking effect until Agoran PF announcement.
+Contrast this to a Protectorate, in which Agora would be allowed to make
+amendments, but via a mechanism described by the Protectorate, and the
+Protectorate's rules would *not* be tracked or otherwise regulated by
+Agora.
+
+If members of a party claimed that a change to the constitution had
+taken effect outside of the Agoran PF, then it might spawn a new nomic
+with the claimed constitution, but that new nomic would not be the same
+as the Agora-recognized party, and would lose any privileges or duties
+that it had as an Agoran party.  See the precedent of CFJ 1517 and the
+history Claustronomic for an example of this, wherein a divergence
+between a Contest's state as viewed by Agora versus as viewed by its
+regulations caused it to cease to be a Contest, but it remained (or
+perhaps became at the time of divergence) a separate, active nomic,
+while it lost its Agoran Contest ability to award Agoran points.
+
+So as a party, as defined by R2410, could not arbitrarily amend itself
+to create new change mechanisms that would actually take effect (i.e.
+be recognized by Agora), a party cannot a nomic.  FALSE.
+
+========================================================================
+
+Gratuitous Arguments by Fool:
+
+Now just a darn minute.
+
+R2410 allows a party constitution to amend itself arbitrarily. The fact that
+these amendments are mediated via R2410 and player announcement does not make
+it not  a Nomic.
+
+Precedent: PerlNomic (and thanks to woggle for educating me about PerlNomic
+while I was heckling Ambassador Abuse players on IRC). PerlNomic changes were
+mediated by code. So by the above logic, since PerlNomic could not legislate
+that its changes would not be mediated by code, it was not a Nomic. But it was
+recognised as a Nomic.
+
+And when you think about it, no Nomic compels its own rule following. All
+Nomics are implicitly mediated by something, and this is not subject to
+amendment. Usually this is by its players directly, but there are other
+possibilities.
+
+Therefore I intend, with two support (and without five Elder objections) to
+appeal. I call on the appellate court to substitute a verdict of GUILTY, and
+suggest the death penalty.
+
+========================================================================
+
+Gratuitous Arguments by Fool:
+
+Agreements, even if enforced within a nomic, can outlive it
+on occasion. It's possible to imagine a Party that has other
+extra-Agoran mechanisms for effective self-amendment (perhaps via
+referring to some external constitution). You can also imagine one that
+tries to hide its details from Agora, and to resist Agoran change
+(perhaps via retroactively self-amending if the rules try to change the
+way the agreement operates).
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+fwiw, I agree that "splintering off" doesn't count, but I think that a
+system of rules that exists in the context of a specific legal
+framework can still "provide means for itself" through that framework.
+ Even if the only mechanism for amendment is an unalterable one
+provided by that framework, the system of rules is providing a means
+for itself to be amended by virtue of choosing to exist in a framework
+that provides such a mechanism.  Although it is traditional for nomics
+to have rules that provide their own interpretation and be
+self-sufficient, I don't think that Rule 2368's definition of nomic
+requires them to do so.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Mainly, the sticking point is in the broadness of R2368's "arbitrary",
+coupled with the fact that the mechanism CAN be changed within Agora,
+but CAN'T be changed by the Party, so from the point of view of Agora,
+there is at least one thing thing that CAN be changed by Agora, but
+CANNOT be changed by the party, therefore it fails the arbitrary
+rules change test.
+
+(This is different than relying of the laws of physics, which are
+outside the bounds of any nomic).
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Sorry to keep on about this, but here's another thought:
+
+The traditional win condition:  "omd CAN make arbitrary rule changes
+by announcement."  Now, this allows arbitrary rules changes, even
+though it specifies a fixed mechanism.  Cool, a win.
+But the key is, omd CAN also change that mechanism by using the
+mechanism, so any arbitrary change can be made.
+
+However, the following would NOT satisfy said win condition:  "omd CAN
+make arbitrary rule changes by announcement, but not to this sentence".
+That would clearly not satisfy said win condition, as the exception
+makes it no longer arbitrary.
+
+The Agoran method for the Party making constitutional changes is
+similarly out of reach of the party, so it fails the test of "arbitrary"
+as Agora has used it specifically with respect to rules-document changes.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d6f4>:
+
+Having re-read through the arguments on both sides, I do think there's
+something unsatisfying about my judgement.
+
+As its judge, I file a motion to reconsider CFJ 3362.
+
+========================================================================
+
+Judge OscarMeyr's Arguments:
+
+I disagree with H. Judge G.'s claim that R2410 regulates parties in the way
+that CFJ 1517 held contests were regulated.  I draw this from my reading of
+R2410, that the Returning Officer reports each party's constitution, and is
+presumed informed of changes because amendments are handled "by announcement"
+and "without objection from another member." (cite: R2410/0, para 3, more than
+what the Caller submitted in evidence)
+
+Aside:  As best I can tell, "by announcement" is presently defined in
+R1728/32.  I don't see that rule saying the announcement must be ttPF, but I
+believe this requirement is derived from 18 years of game practice.
+
+With regard to H. Judge G.'s first gratuitous argument, e does have a point
+that Agora could place limits on how arbitrary a party's constitutional
+amendment can be.
+
+So I generally agree with Fool's first gratuitous argument, that under the
+current ruleset a party can be a nomic if its constitution sets it up that
+way.
+
+And as for Fool's second gratuitous argument, I have heard rumors that past
+Agoran-defined groups continued to exist even after the defining Rules were
+repealed.  [Rumors are ephemeral traitors.  If you are in possession of a
+rumor, please report it to Agoran Security and remove it from your memory.
+Agora is your friend.]
+
+So as reconsidering Judge, I find TRUE.  And in true Agoran tradition, I
+encourage someone to make a nomic party.
+
+========================================================================

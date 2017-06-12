@@ -1,0 +1,116 @@
+==============================  CFJ 2069  ==============================
+
+    There are no game-relevant actions or intents of action in the
+    message sent by comex with Message-ID:
+    <6bf32280807111120s54788104x1e5e3a3001cb1be5@mail.gmail.com>
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 omd
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+Appeal:                                 2069a
+Decision:                               REMAND
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           11 Jul 2008 19:14:45 GMT
+Assigned to BobTHJ:                     12 Jul 2008 15:46:54 GMT
+BobTHJ recused:                         14 Jul 2008 15:11:45 GMT
+Assigned to ais523:                     17 Jul 2008 05:55:17 GMT
+Judged FALSE by ais523:                 18 Jul 2008 16:01:09 GMT
+Appealed by omd:                        18 Jul 2008 19:27:32 GMT
+Appealed by root:                       18 Jul 2008 20:56:33 GMT
+Appealed by G.:                         18 Jul 2008 20:59:35 GMT
+Appeal 2069a:                           18 Jul 2008 20:59:35 GMT
+REMANDED on Appeal:                     13 Aug 2008 23:46:12 GMT
+Assigned to ais523:                     13 Aug 2008 23:46:12 GMT
+Judged FALSE by ais523:                 15 Aug 2008 19:54:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The precedent of CFJ 1971 strongly suggests that the following statement
+in the cited message:  "Disclaimer: Some or all of the statements in this
+message may be false." invalidates all information content, and therefore
+all actions or action intents, that might otherwise be contained in the
+message.   CFJ 1971 only allowed for "information-free" actions when such
+disclaimers are present, which might not be conceptually possible anyway.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Although I would like to note that the mentioned precedent is Goethe's
+own, I unfortunately concur with it (if I had remembered that CFJ, I
+wouldn't have included such a broad disclaimer).  The entire message
+is equivalent to "If 1 = 2, then I perform xxx actions".  This doesn't
+really count as me claiming that I perform the actions.  The only
+counter-argument is that whatever I say *later* in the message usually
+doesn't count toward what I did *earlier* in the message.  The
+disclaimer is suitably vague and distanced that, if Rule 2149 did not
+explicitly include it for its purposes, it wouldn't count toward the
+truth value of any of the previous statements, and therefore doesn't
+count for the purposes of Rule 478.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+Trivially FALSE; the verdict and existence of CFJ 1971 imply that there
+was at least one attempt to file a CFJ in that message.
+
+There is a deeper point underlying this, though, which I will file my
+own CFJ to clarify, which is if the message would have had a
+game-relevant action if it didn't file a CFJ, or if, for that matter, it
+was blank.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+> Trivially FALSE; the verdict and existence of CFJ 1971 imply that there
+> was at least one attempt to file a CFJ in that message.
+
+CFJ 1971 implies such actions are possible only if taking the action
+does not depend upon the truth value of the statement, a situation
+which may well not be the case for any game action.  If you argue that
+it is the case for initiating CFJs, you should maybe go into that with
+more detail.  I intend, with 2 support, to appeal this judgement.
+
+> There is a deeper point underlying this, though, which I will file my
+> own CFJ to clarify, which is if the message would have had a
+> game-relevant action if it didn't file a CFJ, or if, for that matter, it
+> was blank.
+
+I have already filed such CFJs.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I don't see how I failed to argue that the precedent of CFJ 1971 is that
+CFJs can be filed even with a disclaimer saying that the messages in
+question are not necessarily true; CFJ 1971 was itself filed with such a
+disclaimer, and yet exists. Besides, FALSE anyway, because the message
+announced at least one thing (the disclaimer itself) and an announcement
+could be a game-relevant action (for instance, CFJs can be called on
+it). So I again judge FALSE, and recommend that the appeals panel
+reassign this case if it is appealed once more, as I don't believe
+there's more to say on this.
+
+========================================================================

@@ -1,0 +1,319 @@
+From owner-nomic-official@teleport.com  Thu Feb  8 05:24:49 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA29774 for <blahedo@quincy.edu>; Thu, 8 Feb 1996 05:24:47 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA12142; Thu, 8 Feb 1996 03:06:01 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Thu, 8 Feb 1996 03:06:00 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA12128 for nomic-official-outgoing; Thu, 8 Feb 1996 03:06:00 -0800
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA12120 for <nomic-official@teleport.com>; Thu, 8 Feb 1996 03:05:56 -0800
+Message-Id: <199602081105.DAA12120@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA03463; Thu, 8 Feb 1996 12:03:33 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 855 Judgement: FALSE
+To: nomic-official@teleport.com
+Date: Thu, 8 Feb 96 12:03:33 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+
+			JUDGEMENT CFJ 855
+
+	"It is legal to transfer a complex number of Currency as long
+	as the number is evenly divisible by the Currency's MUQ and 
+	consists of a positive Real component."
+
+=======================================================================
+
+Judge:		KoJen
+Judgement:	FALSE
+
+Eligible:	Chuck, dcuman, favor, Jtael, KoJen, Steve, Wes, Zefram,
+		Morendil (if he is a Player)
+
+Not Eligible:	
+Caller:		Swann
+Barred:		Kelly
+On Hold:	Blob, Dave Bowen, elJefe
+1005:		Andre, Michael, Murphy, Pascal, Swann, Vanyel, Vlad
+
+Effects:	KoJen gains 3 Points for timely Judgement
+
+======================================================================
+
+History:
+  Called by Swann, 31 January 1996, 12:53 -0800
+  Assigned to KoJen, 2 February 1996, 15:01 MET
+  Judged FALSE by KoJen, 7 February 1996, 14:51 -0500
+
+======================================================================
+
+Arguments:
+
+The question is if it is legal to make transfers of the form a+bi, where
+i is the square root of negative one.  Transfers of complex or imaginary
+numbers are not explicitly forbidden, or even referred to, in the Rules
+regarding Currency Transfers.  We must look to what the transfer Rules
+do refer to and/or prohibit.
+
+Rule 1467 has this to say about transfers:
+
+     "The minimum unit quantity (MUQ) of a Currency is the smallest
+      amount of that Currency which may be transferred.  All
+      transfers, holdings, and calculations involving a given Currency
+      shall be rounded off to the nearest multiple of its MUQ.  The
+      MUQ of a given Currency is 1, unless another Rule specifies a
+      different MUQ for that Currency."
+
+Therefore, we have our first restriction.  In any transfer of the form
+a+bi, a+bi must be an integral multiple of the currency's MUQ.  Or,
+another way, a+bi must be equal to MUQ(x+yi) where x & y are integers.
+Since no current MUQ is greater than one, all cases where a & b are
+themselves integral are not forbidden by 1467.
+
+Rule 1468 has this to say about Treasuries:
+
+     "A Treasury may contain a positive, negative, or zero quantity of
+      a given Currency, unless otherwise prohibited by the Rules.
+
+This might seem to forbid the ability of a Treasury to hold quantities
+that are other than positive, negative, or zero-- but note that this
+is not a restrictive clause.  It doesn't forbid anything itself, it
+relies on other rules to do the forbidding for it.  There is nothing
+in this Rule that forbids a treasury's possessing an imaginary or
+complex amount of currency.  Of course I believe this means that
+possession of imaginary and complex currencies is neither prohibited or
+regulated by 1468, leaving them permitted and unregulated via 116 unless
+another Rule should pick up the slack.
+
+The only real Rule we have left is the much-beleaguered 1472.  Now since
+no Rule currently mandates complex transfers, let's see what it takes to
+make a Class II or III transfer legal:
+
+1472 says:
+
+     "It shall be legal to transfer Currencies between Treasuries,
+      provided this is done in accordance with the Rules.  Every
+      transfer shall involve a positive amount of exactly one
+      Currency. . .
+
+      A Class II or Class III Transfer is not permitted if the
+      Treasury from which the Currency is being transferred will
+      possess a negative quantity of that Currency after the transfer
+      has been completed."
+
+Assuming the transfer (initiator, detector, recordkeepor &c.) is
+otherwise legal, what does this tell us about the amounts involved?
+It says two things:
+
+I) You can't leave a negative number in a treasury.  However, as long
+   as we begin with a real amount of currency (even zero) and transfer
+   out a complex number, we're left with a complex number.  And taken as
+   a _whole_ (this is important for the next condition; Within
+   Treasuries we must consider whole amounts.  Within transfers we are
+   not so limited) complex numbers are neither positive or negative. We
+   need not worry about this condition.
+
+II) The transfer "shall _involve_ a positive amount of exactly one
+    Currency."  Note the wording.  It says "involve," not "be" or "is"
+    or "consist solely of."  The use of the word "involve" allows a
+    broad interpretation, where the "positive amount of exactly one
+    Currency" is not necessarily the whole of the transfer.  If I
+    were to transfer, say, 30+30i Win Tokens, there is no doubt that
+    there are 30 positive Win Tokens involved in the Transfer.  Since
+    there's no prohibition on including an imaginary component (even of
+    a different or non-existent currency) I contend that currency
+    transfers as described in my Statement are legal by virtue of rule
+    116.
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+
+My decision of CFJ 855 is FALSE.
+
+Reasoning: Implicit in the wording of the collective Currency Rules is the
+requirement that the units of all Currencies are restricted to real numbers.
+For example:
+
+Rules 1468 and 1472 mention "a positive amount of currency". However -- There
+is no such concept "positive" for complex numbers.
+
+
+Although we *could* simply say that 1468 and 1472 are inconsistent -- talking
+about complex quantities of currency yet also using the relation "positive" --
+there is no worthwhile reason to do so. Such an interpretation would only lead
+to chaos, and there is absolutely no reason why I should choose this
+interpretation over the other.
+
+
+======================================================================
+
+Evidence:
+
+----------------------------------------
+
+Rule 1467/1 (Mutable, MI=1)
+Definition of a Currency
+
+      A Currency is a type of Nomic Entity.  Only those Nomic Entities
+      which are specifically defined by the Rules as being Currencies
+      are Currencies.
+
+      A Currency must have a Name (which must not be the name of any
+      other Currency), a minimum unit quantity, a Recordkeepor, and a
+      Mintor.  The Mintor of a Currency is the Mint if it is not
+      otherwise defined.
+
+      The minimum unit quantity (MUQ) of a Currency is the smallest
+      amount of that Currency which may be transferred.  All
+      transfers, holdings, and calculations involving a given Currency
+      shall be rounded off to the nearest multiple of its MUQ.  The
+      MUQ of a given Currency is 1, unless another Rule specifies a
+      different MUQ for that Currency.
+
+      The Recordkeepor of a Currency is the Player who is required to
+      maintain a record of the amount of that Currency held in the
+      various Treasuries which exist.  If a Currency ceases to have a
+      valid Recordkeepor, the Banker (or, in eir absence, the Speaker)
+      shall fulfill that responsibility until a new Recordkeepor is
+      selected according to the appropriate procedures.  If no
+      procedure exists to select a new recordkeepor, all units of the
+      Currency are instead destroyed, and the Currency ceases to
+      exist.
+
+      The Mintor of a Currency is the Nomic Entity which is authorized
+      to create and destroy units of that Currency.  If the Mintor of
+      a Currency ceases to exist, all units of the Currency are
+      immediately destroyed, and the Currency also ceases to exist.
+
+      The Banker shall maintain a record of all existing Currencies
+      and their MUQs, Recordkeepors, and Mintors.
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1685, Sep. 1 1995
+
+----------------------------------------
+----------------------------------------
+
+Rule 1468/0 (Mutable, MI=1)
+Definition of a Treasury
+
+      A Treasury is a repository for holding Currencies.  Currencies
+      may exist only within a Treasury.  A Treasury may contain a
+      positive, negative, or zero quantity of a given Currency, unless
+      otherwise prohibited by the Rules.  Currencies may be
+      transferred between Treasuries only as specified in the Rules.
+
+      Only those Nomic Entities which are authorized by the Rules to
+      possess Treasuries may possess Treasuries.  No Treasury may be
+      possessed by more than one Nomic Entity.  The possession of
+      Treasuries may never be changed, once created.
+
+      Each Player and each Group has a Treasury of its own.
+
+      Whenever an Entity possesses only one Treasury, it shall be a
+      permissible and unambiguous abbreviation to state that the
+      Entity possesses the Currencies within its Treasury.
+
+[CFJ 802: If an Entity ceases to exist, its Treasury does too.]
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+
+----------------------------------------
+----------------------------------------
+
+Rule 116/0 (Semimutable, MI=3)
+Permissibility of the Unprohibited
+
+      Whatever is not prohibited or regulated by a Rule is permitted
+      and unregulated, with the sole exception of changing the Rules,
+      which is permitted only when a Rule or set of Rules explicitly
+      or implicitly permits it.
+
+History:
+Initial Immutable Rule 116, Jun. 30 1993
+Mutated from MI=Unanimity to MI=3 by Proposal 1483, Mar. 15 1995
+
+----------------------------------------
+----------------------------------------
+
+Rule 1472/2 (Mutable, MI=1)
+Transfer of Currencies
+
+      It shall be legal to transfer Currencies between Treasuries,
+      provided this is done in accordance with the Rules.  Every
+      transfer shall involve a positive amount of exactly one
+      Currency, which shall be transferred from exactly one Treasury
+      into exactly one other Treasury.  Every transfer has an
+      initiator, which is the Entity which causes the transfer to take
+      place.
+
+      A transfer which is explicitly and directly required to take
+      place by a Rule is initiated by that Rule, and is called a Class
+      I Transfer.
+
+      A transfer which is required to take place by an Entity (other
+      than the Rules) to which the Rules have granted the power to
+      require Currency Transfers to take place is initiated by that
+      Entity (_not_ the Rule which grants that power to that Entity),
+      and is called a Class II Transfer.
+
+      A transfer which is not required to take place, and which is
+      instead the consequence of a Player's action, is initiated by
+      that Player, and is a called a Class III Transfer.
+
+      For the purpose of this Rule, a Rule, or an Entity other than
+      the Rules to which the Rules have granted the power to require
+      Players to perform actions, which requires a Player to initiate
+      a transfer is _not_ requiring the transfer.  Such a transfer is
+      a Class III transfer initiated by that Player.  This Rule takes
+      precedence over any Rule which would require a Player to
+      initiate a transfer which is prohibited by this Rule.
+
+      A Class I transfer is not permitted if there is no Rule which
+      specifies a Player who is to detect and report the transfer.
+
+      A Class II transfer is not permitted if there is no Rule, or
+      Entity other than the Rules to which the Rules have granted the
+      power to require Players to perform actions, which specifies a
+      Player who is to detect and report the transfer.
+
+      A Class II or Class III Transfer is not permitted if the
+      Treasury from which the Currency is being transferred will
+      possess a negative quantity of that Currency after the transfer
+      has been completed.
+
+      A Class III Transfer is not permitted unless the transfer is
+      initiated by the Executor of the Owner of the Treasury from
+      which the Currency is being transferred.
+
+      This Rule takes precedence over any Rule which would permit a
+      transfer prohibited by this Rule.
+
+      The Recordkeepor of a Currency must be notified of a transfer
+      involving that Currency within seven days, unless another Rule
+      specifies a different time limit for reporting a certain type of
+      transfer.  For a Class I or Class II transfer, the notification
+      shall be made by the Player required to detect and report it.
+      For a Class III transfer, the notification shall be made by the
+      Player who initiated it.
+
+      Class I and Class II transfers take place at the time they are
+      required to take place.  Class III transfers take place at the
+      time they are reported.
+
+[CFJ 793: Notification may take place as part of an Official Report to
+ the Public Forum.]
+
+History:
+Created by Proposal 1601, Jun. 19 1995
+Amended(1) by Proposal 1649, Aug. 1 1995
+Amended(2) by Proposal 1702, Sep. 1 1995
+
+----------------------------------------

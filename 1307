@@ -1,0 +1,179 @@
+==============================  CFJ 1307  ==============================
+
+    Annabel's message, on or about 31 May 2001, reading in part "So I
+    transfer all of my currencies to the Bank, and then deregister" did
+    not have the effect of transferring any Currencies.
+
+========================================================================
+
+Caller:                                 Kelly
+
+Judge:                                  Evantine
+Judgement:                              
+
+
+Judge:                                  Elysion
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Kelly:                        10 Jul 2001 18:09:24 GMT
+Assigned to Evantine:                   15 Jul 2001 01:26:22 GMT
+Evantine recused:                       02 Aug 2001 01:20:20 GMT
+Assigned to Elysion:                    02 Aug 2001 01:23:41 GMT
+Judged TRUE by Elysion:                 08 Aug 2001 15:50:29 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I refer the Judge to the holding in CFJ 1302 and note that this
+situation is exactly analogous: a reasonable person would conclude
+that Annabel did not know what Currencies e intended to transfer, but
+merely intended to transfer whatever e had (unknown to em at the time)
+so as to achieve a desired result.
+
+========================================================================
+
+Caller's Evidence:
+
+From: Lenore McAllister <lenore@sdf.lonestar.org>
+Sender: owner-agora-business@gecko.serc.rmit.edu.au
+To: agora-business@gecko.serc.rmit.edu.au
+Subject: Re: BUS: Annabel = Quiet
+Date: Thu, 31 May 2001 01:58:59 +0000
+
+
+On Wed, May 30, 2001 at 11:25:24AM -0400, Garner, Will wrote:
+> I make Annabel Quiet.
+
+I don't want to become a Zombie, but I don't have enough time to play
+Agora. So I transfer all of my currencies to the Bank, and then deregister.
+
+--
+Lenore McAllister
+lenore@sdf.lonestar.org
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+Rule 1598(b) and (c) state:
+
+      (b) A valid Notice of Transfer must additionally:
+          (1) specify one or more Properties all of which are owned by
+              the transferor; and
+          (2) be sent by the Executor of the transferor, or by a
+              Limited Executor of the transferor with the authority to
+              execute transfers on behalf of that entity with respect
+              to all of the Properties involved.
+
+      (c) A transfer of a Property occurs only when its Recordkeepor
+          receives a valid Notice of Transfer.
+
+By (c) and the fact that Annabel's messages was sent to a PF, the statement
+is true if Annabel's message did not include a valid Notice of Transfer.
+(b)(1) requires a NoT to "specify" a nonempty set of Properties owned by the
+transferor. www.m-w.com provides just two definitions of "specify":
+
+    1 : to name or state explicitly or in detail
+    2 : to include as an item in a specification
+
+And two for "specification":
+
+    1 : the act or process of specifying
+    2 a : a detailed precise presentation of something or of a plan or
+          proposal for something -- usually used in plural
+      b : a statement of legal particulars (as of charges or of contract
+          terms); also : a single item of such statement
+    c : a written description of an invention for which a patent is sought
+
+Annabel identified the set-building criterium for the Properties e intended
+to transfer: all Properties e owned at the time. This is a well-defined set,
+and given perfect information about Property ownership it is this Judge's
+opinion that it would be sufficient to "specify" the Properties to be
+transferred. Unfortunately, we do not have perfect information. Thus, it may
+no longer possible to determine precisely what Properties are being
+transferred. We may or not be in error in what we believe is the correct
+gamestate, but we do not know (unless we ratify) whether there is any error.
+Does the statement refer to all Properties e actually owned? all Properties
+e was reported as owning? If the two cases are distinct, which is likely
+given that Officers occasionally make mistakes, then Annabel did not satisfy
+the first definition of "specify".
+
+The second definition of "specify" leads us to "specification". The first
+definition is circular. As for the second, (a) is not true in this case, and
+(b) and (c) do not apply. Thus, Annabel did not "specify" which Properties
+were to be transferred, and thus eir NoT was not valid. This implies that
+the statement is true.
+
+Thus, I hereby judge the statement in question to be TRUE.
+
+
+
+Since Notices of Transfer still lack a well-developed body of common law to
+govern them, I shall consider some points raised in the discussion from my
+proto-judgment. These represent this Judge's opinion only, not any official
+ruling. I hope, however, that they may prove useful to future Judges.
+
+Goethe suggested two alternate ways of interpreting Annabel's statement:
+
+1.  "I make a definite set of transfers of every property I know I have,
+     which are A instances of Currency X, B instances of Currency
+     Y...etc."
+
+2.  "If I have no instances of currency X, I transfer no instances;
+     If I have one instance of currency X, I transfer 1 instance;
+     If I have two...etc."
+
+(2), as Goethe points out, is invalid by CFJ 1302, a precedent which was not
+appealed and which, to the best of this Judge's knowledge, has not been
+seriously challenged. Goethe also says "[c]ase 1 is a definite intent to
+transfer a set # of currencies, and hence valid," but I must disagree with
+this statement. (1) requires the Recordkeepor to guess the values the
+transferror had in mind (unless the transferror listed the Properties e
+intended to transfer, but in which case we wouldn't be in this mess).
+Although it is likely the value last reported and modified by all transfers
+since the report, this begs even more questions. What if there was a
+transfer made solely to the Recordkeepor since the last report? What if the
+transferror had not yet received a message containing a NoT when e made the
+attempt? What if the transferror assumed an earlier transfer had succeeded
+when it actually failed (or vice versa)? Unless the Recordkeepor is psychic
+or the transferror includes an explicit listing, (1) is not a constitute a
+valid NoT in this Judge's opinion.
+
+Granted, the fact that these two mappings are invalid does not make _all_
+possible mappings or even the attempted NoT invalid. Oerjan presented a
+third mapping, which is indeed valid.
+
+3.  "For each of the Currencies I know that I possess (i.e. Stems,
+     Indulgences, Papyri and VEs), I perform n transfers of 1 MUQ of
+     that Currency, where n is a number (e.g. 1000000000) which I know
+     to be at least the number of MUQs I have of that Currency."
+
+(3) would have the same effect as (2) if the latter were valid (assuming n
+is greater than the actual quantity of currency possessed). However, (1) is
+a NoT based on the pragmatic gamestate and (3) is based on the platonic. If
+the believed gamestate differs from the actual gamestate, (1) and (3) may be
+distinct. Thus, the statement might have mappings to valid NoTs that lead to
+distinct gamestates.
+
+Murphy presented yet another mapping of the statment:
+
+4.  "Annabel's statement naturally maps to "For each Currency in which my
+     holdings are N > 0, I transfer N of that Currency to the Bank".
+
+However, this is equivalent to to (3) for sufficiently large n.
+
+
+
+Also, I recommend that someone mint a Currency with no direct relevance to
+the rest of the gamestate, proceed to make ambiguously worded transfer
+attempts, and CFJ on the results. That way, we could build up a body of
+judicial precedents to follow without giving the Recordkeepors of major
+Currencies any headaches (at least, no more than are normally caused by
+being a Recordkeepor in Agora).
+
+========================================================================

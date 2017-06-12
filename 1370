@@ -1,0 +1,60 @@
+==============================  CFJ 1370  ==============================
+
+    The message <3CD83F68.3070804@syllepsis.org> contains two valid,
+    successful Notices of Transfer.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Syllepsis
+Barred:                                 Maud
+
+Judge:                                  Taral
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       10 May 2002 02:29:52 GMT
+Assigned to Taral:                      15 May 2002 22:10:12 GMT
+Judged FALSE by Taral:                  22 May 2002 01:20:12 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+For the benefit of non-math geeks:  Syllepsis attempted to number eir Stems
+from #1 to #832, and then transfer #1 to #3, and #2 to #4.
+
+Argument for FALSE:  Syllepsis did not specify which bijection was chosen.
+
+Argument for TRUE:  Since Stems are fungible, Syllepsis did not need to
+specify which bijection was chosen.
+
+========================================================================
+
+Caller's Evidence:
+
+As evidence, here is the body of the message in question.
+
+> As the set S = {s: s is a stem possessed by Syllepsis on at exactly
+> 00:00 GMT May 5, 2002} is finite and has order 832, there exists a
+> bijection between S and [832] = {1,2,...832}.
+>
+> Let phi: S -> {1,2,...,832} denote one specific such bijection.
+>
+> Let (phi^-1) denote the inverse function of phi.
+>
+> I transfer the stem (phi^-1)(1) to (phi^-1)(3) and the stem (phi^-1)(2)
+> to (phi^-1)(4).
+
+========================================================================
+
+Judge Taral's Arguments:
+
+It is not permitted for a Player to transfer eir Stems to any entity
+other than the Bank. So the question of specificity and the entity-ness
+of Stems is irrelevant.
+
+========================================================================

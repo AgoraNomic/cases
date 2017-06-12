@@ -1,0 +1,113 @@
+==============================  CFJ 1481  ==============================
+
+    A Player's score is deemed to change at the time a Scorekeepor is
+    notified of a scoring event, not at the time of the scoring event
+    itself.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  t
+Judgement:                              
+
+
+Judge:                                  Blob
+Judgement:                              
+
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           30 Jan 2004 20:34:19 GMT
+Assigned to t:                          01 Feb 2004 07:44:20 GMT
+t recused:                              14 Feb 2004 16:41:41 GMT
+Assigned to Blob:                       14 Feb 2004 16:42:52 GMT
+Blob recused:                           22 Feb 2004 19:37:21 GMT
+Assigned to root:                       19 Mar 2004 04:25:26 GMT
+Judged TRUE by root:                    28 Mar 2004 04:43:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1929 reads:
+      The Rules may specify that certain events may cause a certain
+      Player to be Awarded Points (causing eir Score to be increased)
+      or Penalized Points (causing eir Score to be decreased). If said
+      event occurs, then any Player may notify the Scorekeepor of the
+      Award or Penalty. The Scorekeepor shall then note the change in
+      the affected Player's Score.
+
+This contains a self-contradiction.  On one hand, this rule explicitly
+states that "certain events" are what "cause" a Player to be awarded
+points.  If the event is what causes the change, than the change should
+be deemed to happen at the time of the event, even if the notification
+that allows the change to be recorded comes later.  On the other hand,
+as the change may not be recorded unless the Scorekeepor is notified,
+the Rule implies that the change occurs when both requirements are met;
+that is the time of the notification.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1929/7 (Power=1)
+Points
+
+      A Player's Score is a measure of that Player's unloserliness,
+      measured in Points. The Score of each Player is at all times an
+      integer. A Player who has not been Awarded or Penalized since
+      the last Team Win has a Score of zero Points.
+
+      The Rules may specify that certain events may cause a certain
+      Player to be Awarded Points (causing eir Score to be increased)
+      or Penalized Points (causing eir Score to be decreased). If said
+      event occurs, then any Player may notify the Scorekeepor of the
+      Award or Penalty. The Scorekeepor shall then note the change in
+      the affected Player's Score.
+
+      Such a notification must meet the following requirements, else
+      it is ineffective:
+         -- It must be sent within 7 days of the event
+         -- It must unambiguously describe the event
+         -- It must indicate the Rule allowing the Award or Penalty
+         -- It must be the first valid notification for that specific
+            event
+
+      If the event did not actually occur, and the notification is
+      challenged within 7 days for this reason, then the notification
+      is invalid and points do not change.
+
+      If the event did not actually occur, and the notification is not
+      challenged within 7 days for this reason, then the notification
+      is valid and points change.  If the notification is challenged
+      later, then the player may be penalized/awarded a number of
+      points equal to the original award/penalty.
+
+========================================================================
+
+Judge root's Arguments:
+
+I accept the caller's arguments as correct.  In addition, I find further
+support from the later part of Rule 1929, where it reads:
+
+      If the event did not actually occur, and the notification is not
+      challenged within 7 days for this reason, then the notification
+      is valid and points change.  If the notification is challenged
+      later, then the player may be penalized/awarded a number of
+      points equal to the original award/penalty.
+
+In the case that the event did not actually occur, then the time of the
+award could not possibly be the time of the event, and so the time of the
+notification must be used.  Thus, if R1929 is to be considered at all
+consistent regarding timing, it must follow that legitimate score changes
+happen at the time of notification as well.
+
+Therefore, I judge CFJ 1481 to be TRUE.
+
+========================================================================

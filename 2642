@@ -1,0 +1,58 @@
+==============================  CFJ 2642  ==============================
+
+    It is generally POSSIBLE, if allowed by Rule 2264, to act on behalf
+    of a player to deregister.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          30 Jul 2009 20:38:50 GMT
+Assigned to Murphy:                     31 Jul 2009 00:31:25 GMT
+Judged TRUE by Murphy:                  31 Jul 2009 00:41:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If "equivalent" means having the same effect, then acting on behalf of
+a person to send a message has the same effect as sending the message,
+but the message is not actually sent.  Rule 478, which takes
+precedence over the a.o.b. rules, requires an announcement to be
+contained in a public message.  Rule 2263 would still make the
+deregistration POSSIBLE so I believe the outcome should be TRUE/FALSE.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2263:
+
+      Acting on behalf of (syn. send messages on behalf of) a person
+      (the grantor) with a specified message is equivalent to sending
+      a public message authored by the grantor.
+
+Rule 478:
+
+      A public message is a message sent via a public forum, or sent
+      to all players and containing a clear designation of intent to
+      be public.  A person "publishes" or "announces" something by
+      sending a public message.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+Per R2263, acting on behalf of a person creates the legal fiction that
+that person sent a message.  R2263 has power equal to R478, and R478
+does not explicitly attempt to ignore legal fictions, so R2263 works
+as intended.
+
+========================================================================

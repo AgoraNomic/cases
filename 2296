@@ -1,0 +1,107 @@
+==============================  CFJ 2296  ==============================
+
+    Pavitra gained 20 points due to the Werewolves contract within the
+    past week.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Pavitra
+
+Judge:                                  harblcat
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       03 Dec 2008 21:25:31 GMT
+Assigned to harblcat:                   07 Dec 2008 05:13:06 GMT
+Judged TRUE by harblcat:                07 Dec 2008 22:49:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If the awards are treated as three ordered
+actions, then ais523 and Pavitra got 20 points each (VALID but
+ILLEGAL, they should have only gotten 18 each) and comex got
+nothing (INVALID).  If they are treated as three unordered actions,
+then the whole thing fails due to ambiguity; if they are treated as
+one single action, then the whole thing also fails.
+
+========================================================================
+
+Caller's Evidence:
+
+BobTHJ wrote:
+
+> On Sun, Nov 30, 2008 at 09:44, Ed Murphy <emurphy42@socal.rr.com> wrote:
+>> Parties to this contract are Murphy, root, Zefram, Wooble, ais523,
+>> ehird, Pavitra, avpx, comex, Quazie, 0x44, Charles, and Warrigal;
+>> all of these are first-class players of Agora, so the maximum points
+>> this contest can award in a given week is 5*12 = 60.  Per clause 5a,
+>> I award floor(60/3) = 20 points (in Agora) and a silver Trophy (in B,
+>> which may or may not work) to each of ais523, Pavitra, and comex.
+>>
+> CoE: avpx and Charles were not registered players when this
+> announcement was made (Charles has since registered). This means
+> Werewolves could only award a max of 55 points. This may subsquently
+> prevent Pavitra's win by high score.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Due to the adoption of Proposal 5971, the total award should only have
+been 45.  Thus, if the awards are treated as separable per player and
+ordered, then ais523 and Pavitra still got 20 points each, while comex
+got either 5 or 0 points (depending on whether eir award is treated as
+separable per player-and-point).
+
+========================================================================
+
+Judge harblcat's Arguments:
+
+Using the definition of 'each' as "every one individually," I consider
+that the sentence:
+
+"Per clause 5a, I award floor(60/3) = 20 points (in Agora) and a
+silver Trophy (in B, which may or may not work) to each of ais523,
+Pavitra, and comex."
+
+is a sentence containing three separate, ordered actions. Those
+actions are as follows (ignoring the actions in B Nomic):
+
+1) Award 20 points to ais523.
+2) Award 20 points to Pavitra.
+3) Award 20 points to comex.
+
+According to rule 2136 (Contests),
+
+"The total number of points a Contest MAY award in a given week is
+equal to 5 times the number of its parties that are active first-class
+players."
+
+However, "Points up to this total CAN be awarded by the contestmaster
+to other parties by public announcement, and MUST be awarded as
+explicitly described in the contract."
+
+I point out that, in order for Pavitra to have received 20 points,
+there need to be AT LEAST 40 points available for the contestmaster to
+award. In order for the contest to have at least 40 points, it needs
+to have 8 parties.
+
+While the total number of parties appears to vary depending on whom is
+doing the counting, there were at least 10 parties to the Werewolves
+Contract at the time of the point distribution, thus meaning the
+Contest MAY have awarded at least 50 points.
+
+The contesmaster CAN award those 50 points, and e did thusly:
+
+1) 20 points to ais523. At least 30 are left.
+2) 20 points to Pavitra. At least 10 are left.
+3) 20 points to comex. More than likely, there were NOT enough points
+for this, but that is the subject for another inquiry.
+
+========================================================================

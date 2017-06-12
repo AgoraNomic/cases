@@ -1,0 +1,87 @@
+======================================================================
+                               CFJ 920
+
+"Rule 114 should be interpreted such that a change to the rules such
+ that they instantaneously thereafter do not permit modification of
+ the rules is not prevented from occurring by Rule 114 if it leaves
+ the gamestate such that after some definite finite or infinitesemal
+ time interval the rules will again change such that the gamestate
+ then satisfies Rule 114's condition."
+
+======================================================================
+
+Judge:        Antimatter
+
+Judgement:    TRUE
+
+Eligible:     Andre, Antimatter, Blob, Chuck, Crito, elJefe, favor,
+              General Chaos, KoJen, Michael, Morendil, Murphy, Oerjan,
+              Steve, Swann, Vanyel
+
+Not eligible:
+Caller:       Zefram
+Barred:       -
+Disqualified: -
+On hold:      Harlequin
+
+======================================================================
+
+History:
+  Called by Zefram, Thu, 10 Apr 1997 18:35:42 +0100 (BST)
+  Assigned to Antimatter, Mon, 14 Apr 1997 09:43:31 +0100
+  Judged TRUE, Mon, 14 Apr 1997 22:00:02 -0800
+  Published, Thu, 17 Apr 1997 09:25:17 +0100
+
+======================================================================
+
+Judgement: TRUE
+
+Reasons and arguments:
+
+I concur with the [caller's] reasoning. It seems clear that waiting
+for any finite amount of time is indeed an player action.
+
+======================================================================
+
+Rule Interpretation Injunction Request:
+
+I further request that eir Honour issue an Injunction as permitted by
+Rule 789.  The only Relevant Rule is 114.
+
+----------------------------------------------------------------------
+
+I am issuing an Injunction to have the Rulekeepor annotate rule 114
+with the text of this CFJ and the list of relevant rules (rule 114),
+in accordance with the above request.
+
+======================================================================
+
+(Caller's) Arguments:
+
+This rather complex Statement requests you to consider circumstances
+in which two Rule Changes are to occur, separated by a non-infinite
+time interval.  For example, two Rule Changes within adopted Proposals
+in the same batch.  Furthermore, the first Rule Change, if applied,
+will make Rule Changes impossible, but the second Rule Change would
+then allow Rule Changes once more.  The relevant question is ``do
+these Rule Changes satisfy Rule 114's condition''?
+
+Instantaneously, at any time between the two Rule Changes, arbitrary
+modification of the rules is impossible, apparently violating 114's
+condition.  But if one merely waits for the second Rule Change to
+occur, then arbitrary modification is once again permitted, and Rule
+114 is then satisfied.  The real question is whether ``some
+combination of player actions'' may include the action of waiting for
+an event to occur.  Note that the Statement is limited to the case
+where the event will definitely occur, at a known time; you must
+therefore ignore the possibility of a third event intervening and
+preventing the event in question from occurring.
+
+It is my opinion that this Statement should be Judged TRUE.  Not only
+is waiting for a definite time interval quite clearly an action, but
+it is also in the best interests of the game for it to be possible to
+make extensive Rule Changes in one Proposal without having to check
+that each intermediate state satisfies 114.  The opinions previously
+expressed on this subject might also constitute game custom.
+
+======================================================================

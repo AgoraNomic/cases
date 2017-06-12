@@ -1,0 +1,155 @@
+=============================  CFJ 3456  =============================
+
+      OscarMeyr hasn't been a player since January 28th, 2014.
+
+======================================================================
+
+Caller:                      nichdel                                 
+
+Judge:                       G.            
+Judgement:                   TRUE            
+
+======================================================================
+
+History:
+
+Called by nichdel:           03 Aug 2016 16:15:29 GMT
+Assigned to G.:              23 Aug 2016 16:06:11 GMT
+Judged TRUE by G.:           23 Aug 2016 16:22:24 GMT
+ 
+======================================================================
+
+Caller's Arguments:
+
+So my concern with this is partially that I accepted a bet made by
+OscarMeyr here:
+
+https://www.mail-archive.com/agora-business@agoranomic.org/msg27587.html
+
+The conditions of this bet have come to fruition. I lost because
+proposal 7806 was submitted in that time and eventually adopted.
+
+None of the ABM's constitution requires either party of the bet to be
+a player for any of the bets effects to occur. The relevant parts:
+
+Budget Switches and Becomming a member:
+
+   Reference to a Budget Switch for a person in this Charter refer to
+   the Budget Switch for the pair consisting of that person and this
+   Organization.
+
+   Any non-member of this Organization can join it via flipping eir
+   Budget Switch to 25.
+
+Defining a bet:
+
+   A Bet is an announcement of the form "I bet X Expenditure that Y by
+   Z." or "I bet X Expenditure that Y before Z", where X is a positive
+   integer (the bet's Amount), Y is a description that could potentially
+   in the future apply to some subset of Agora's gamestate (the bet's
+   Subject), and Z is a time in the future (either an absolute time, or
+   a time described relative to some gamestate event, e.g. "the
+   resolution of an Agoran Decision to accept [a specific proposal]")
+   (the bet's Deadline).
+
+(That doesn't appear to even require you to be a member to make a bet,
+or a player...)
+
+Accepting a bet:
+
+   For each Bet, its Bet Acceptance is the first announcement before its
+   Deadline that quotes that Bet, and states that it accepts that Bet
+   (or, if the author of the Bet is the author of the announcement, that
+   it withdraws that Bet). If a Bet has a Bet Acceptance, then it is an
+   "Accepted Bet".
+
+(Again, doesn't appear to require that someone is a member or player.)
+
+Won bet actions:
+
+   The following two changes are Appropriate once for each Won Bet, if
+   both changes are made in the given order in the same message and with
+   no other actions taken in between:
+   - Flipping the Budget Switch for the author of its Bet Acceptance by
+      increasing it by the Bet's Amount; and
+   - Flipping the Budget Switch for the author of the Bet itself by
+      decreasing it by the Bet's Amount (or to 1, if this decrease would
+      take it below 1).
+
+The bet was made on the 15th of July, and I accepted on the 17th. At
+this time, the most recent Secretary report was more recent than the
+most recent Registrar report, and listed a budget switch for
+(OscarMeyr, ABM).
+
+Under the interpretation that OscarMeyr was a player during this time,
+I certainly owe some budget to em, regardless of current citizenship. If
+not, the ABM appears to indicate that my budget switch should decrease
+anyway. My CFJs are intended to clarify whether OscarMeyr's budget
+switch existed then or now and whether it needs to be changed for the
+betvictory. Also, the ABM probably needs some tweaks.
+
+======================================================================
+
+Judge's Arguments:
+
+The caller suggests that self-ratification of a switch that only exists for
+players had the indirect effect of making OscerMyer into a player.
+
+However, I take the public statement made by OscarMyer (in EVIDENCE) as
+evidence that OscarMyer did not intend to consent to being or becoming a
+player at any time since January 28th, 2014.
+
+Therefore, due to this clause (R869):
+
+                                     The Rules CANNOT otherwise bind a
+        person to abide by any agreement without that person's willful
+        consent.
+
+the state of OscarMeyr being a player (even for an instant) without
+willful consent is inconsistent with the rules, therefore the ratification
+would not make em a player as (R1551):
+
+                                                  Such a modification
+        cannot add inconsistencies between the gamestate and the rules
+
+Since adding a non-player switch is also inconsistent with the Rules
+(R2459), there is no possible modification to the gamestate that
+is not inconsistent.  Therefore the ratification simply fails (R1551):
+
+                                            If no such modification is
+        possible, or multiple substantially distinct possible
+        modifications would be equally appropriate, the ratification
+        fails.
+
+There are some situations under which a ratification of Citizenship might
+succeed.  For example, if a player was deregistered due to error, the
+ratification of em back into being a Player a Registrar's report, along with
+a statement from the person that e *wanted* to be a player (or participation
+evidence that showed e thought emself to be a player), might satisfy the
+consent clause.  But in this case, the indirectness of the ratification
+process (a switch secondary to Citizenship) and OscarMeyr's own statements
+that e thought e was not a player, are sufficient to establish lack of
+consent, thus failure of the ratification.
+
+======================================================================
+
+Judge's Evidence:
+
+Submitted by OscarMeyr to the public forum on 17-Aug-16:
+
+> Useful statements (as opposed to gratuitous arguments):
+>
+> The Registrar's report dated 30 Jul 2016 shows that statement 1 is TRUE.  That
+> report's player history section does not include 2014, at least in my email
+> reader; even so, I acknowledge that statement 2 is reasonably accurate.
+> 
+> OscarMeyr
+>
+>
+> The Registrar's report dated 24 Jun 2016 indicates that I last deregistered on
+> 28 Jan 2014.  So statement 2 is also TRUE.
+>
+> OscarMeyr
+
+======================================================================
+

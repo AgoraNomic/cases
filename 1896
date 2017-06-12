@@ -1,0 +1,72 @@
+==============================  CFJ 1896  ==============================
+
+    There exists a R2160 'position' that is not an office
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+Appeal:                                 1896a
+Decision:                               OVERRULE/TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          03 Feb 2008 22:32:33 GMT
+Assigned to Murphy:                     03 Feb 2008 22:52:01 GMT
+Judged FALSE by Murphy:                 03 Feb 2008 23:03:22 GMT
+Appealed by Murphy:                     03 Feb 2008 23:05:03 GMT
+Appealed by Iammars:                    03 Feb 2008 23:10:26 GMT
+Appealed by Jeremy:                     03 Feb 2008 23:40:25 GMT
+Appeal 1896a:                           03 Feb 2008 23:42:52 GMT
+OVERRULED to TRUE on Appeal:            04 Feb 2008 23:03:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+A lookup of 'position' on answers.com includes these as the only
+relevant definitions:
+
+5. A situation as it relates to the surrounding circumstances: in a
+position to bargain.
+8. A post of employment; a job.
+
+I argue that (8) is more appropriate, since (5) would not necessarily
+include offices.
+
+Furthermore, Rule 2160 notes
+> > (or, if the position is vacant, would so require if the position were
+filled)
+
+Makes sense for offices, and maybe other things (vote collector?) but
+is absolutely meaningless if a person is a position.
+
+Finally, 'position' *is* used elsewhere in the rules, but only in a
+rule about offices:
+
+Rule 2154/5 (Power=2)
+Replacing Officers
+      If intent to achieve consent for a nominee is announced as
+      above, then any other active player may be nominated for the
+      position with eir own consent by announcement, during the
+      minimum waiting period between intent and action defined for
+      Agoran Consent.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+A judgeship is such a position.  I judge FALSE.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+Aww, crap, I trivially FALSEd where I meant to TRUE.
+
+========================================================================

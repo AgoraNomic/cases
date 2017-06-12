@@ -1,0 +1,127 @@
+==============================  CFJ 2270  ==============================
+
+    Neither Proposal 5956 nor Proposal 5962 has been adopted.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 omd
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       17 Nov 2008 00:50:43 GMT
+Assigned to root:                       17 Nov 2008 09:23:02 GMT
+root recused:                           02 Dec 2008 07:41:32 GMT
+Assigned to ais523:                     02 Dec 2008 07:43:27 GMT
+Judged FALSE by ais523:                 08 Dec 2008 11:36:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2156 purports to define an eligible voter's voting limit, not
+merely eir initial or base voting limit.  Thus, after Rule 2126
+increased ehird's voting limit, Rule 2156 reasserted itself and
+reset it to eir caste.  Thus, the resolutions were ineffective
+because they mis-reported ehird's valid votes.
+
+Of course, this should be fixed so that Rule 2126's method works
+in some sort of useful method.  It should probably also be limited
+to the first four days of a proposal's voting period, to allow time
+for scams to be countered by democratization.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2126 (Notes), relevant excerpt
+
+      (7) A player CAN spend one Note to increase another player's
+          voting limit on an ordinary proposal whose voting period is
+          in progress by 1.
+
+Rule 2156 (Voting on Ordinary Decisions), relevant excerpt
+
+      The voting limit of an eligible voter on an ordinary decision is
+      eir caste at the start of its voting period, or half that (rounded
+      up) if the voter was in the chokey at that time.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+Strong precedent is that one-off increases work.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+What strong precedent?  I don't remember that clause being invoked
+even once (until now) since it was enacted.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+Well, the precedent caused by it being voted in with that intention? Just
+saying.
+
+Anyway I think that the definition of voting limit is an
+_initialization_ and thus
+it can be increased.
+
+Just my 2c.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+The only meaningful interpretation of an "increase in voting limit" here
+is something that causes the voting limit to be higher than it would
+otherwise be; applying an increase in voting limit to a player means
+they have more votes than their caste would suggest. This conflicts rule
+2156, but rule 2126 takes precedence.
+
+Also, appellant argument in CFJ 2196b: "Obviously it is preferable for a
+phrase in the rules to mean something than to mean nothing." Personally
+I disagree with this and think that rules actually mean nothing by
+default, but as the Judge there agreed with the appellants with no
+apparent controversy it seems reasonable that game custom suggests that
+a rule does mean something by default.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+R2156, in defining that a voting limit *is* a caste level (as opposed
+to saying "is set to" a caste level) constitutes a whole and complete
+definition of a particular voting limit.  As a definition, R2156 governs
+the properties of the voting limit that are possible to exist (R1586)--
+it is no more possible to set a voting level to deviate from a player's
+caste than it would be possible to set a voting limit to be a chunk of
+green cheese.  Such a definition constitutes an implicit claim of
+precedence for the purposes of R1030.  Since R2156 and R2126 are of the
+same power, and R2126 does not itself claim to have greater precedence,
+this claim should be sufficient to establish R2156's authority in the
+matter.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge FALSE on CFJ 2270 (i.e. it is NOT true that "Neither Proposal
+5956 nor Proposal 5962 has been adopted.", because one of them was),
+based on the protoprecedent of CFJ 2276a. (In other words, I judge here
+that proposal 5956 was adopted, for the same reasons that I attempted to
+judge in CFJ 2276a that proposal 5956 was adopted.)
+
+========================================================================

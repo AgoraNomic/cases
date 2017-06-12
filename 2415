@@ -1,0 +1,112 @@
+==============================  CFJ 2415  ==============================
+
+    The Promotor CAN distribute a proposal that is not in the Proposal
+    Pool.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          15 Mar 2009 22:48:52 GMT
+Assigned to ais523:                     16 Mar 2009 21:04:03 GMT
+Judged TRUE by ais523:                  23 Mar 2009 19:38:08 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1607 (The Promotor):
+      The Promotor CAN and MAY distribute a proposal in the Proposal
+      Pool at any time.
+
+
+R2125 (Regulation Regulations):
+      A regulated action is an action satisfying any of the following:
+...
+      d) The rules explicitly state that it MAY be performed while
+         certain conditions are satisfied.  Such an action MAY NOT be
+         performed except as allowed by the rules.
+
+R106 (Adopting Proposals):
+      A player specifically permitted by the Rules to distribute a
+      Proposal CAN distribute the proposal by publishing it with the
+      clear intent of distributing it.  When a proposal is
+      distributed, it is removed from the Proposal Pool.  The
+      distribution of a proposal initiates the Agoran decision of
+      whether to adopt the proposal, as described elsewhere.  Removing
+      a proposal from the Pool by a means other than initiating an
+      Agoran Decision to adopt it is secured.
+
+
+The statements were found TRUE and FALSE, respectively, in CFJ 1656,
+on which judgement we have been basing the 'created by the act of
+distribution' theory.  However, the rules have changed significantly
+since that judgement!  The text allowing any proposal to be
+distributed is gone, replaced with the above language which seems to
+restrict distributions to proposals in the Pool.  The language change
+was made last December by Proposal 6001, but we have still treated
+invalidly distributed proposals as effective: a quick search yields
+that Proposal 6017 was distributed and resolved despite having been
+retracted.  It failed anyway and we have self-ratification, but it
+would be nice to resolve the issue.
+
+In particular, for the second statement, either
+
+  (a) 'distributing a proposal' is an action and the state of being in
+      the Proposal Pool is a condition; FALSE, or
+  (b) 'distributing a proposal in the Proposal Pool' is an action;
+      TRUE.
+
+(CFJs 1546, 1656, 1669, and 1780 may be relevant to this case.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+As for CFJ 2415, I judge it TRUE, but with a caveat. A proposal can be
+distributed by the Promotor publishing it with the clear intent of
+distributing it, no matter whether it's in the Proposal Pool at the time
+or not. (Rule 106 doesn't care about the location at all, although the
+proposal gets removed from the Pool if it's there at the time.) However,
+in order to distribute a proposal, it must exist; and the only method of
+creating a proposal places it in the Proposal Pool. Therefore, in order
+to distribute a proposal that isn't in the pool, the proposal must
+previously have been removed from the pool. So in other words, it's
+possible for the Promotor to redistribute a proposal that has already
+been distributed; however, doing so does not change its ID number. If a
+new ID number is written next to the proposal name, it's therefore
+either a different proposal (which must have been submitted, or the
+attempt to distribute fails), or a lie.
+
+I also notice that I've never seen the Promotor attempt to redistribute
+an already-distributed proposal, and all purported distributions have
+used new ID numbers, so cases of CFJ 2415 are probably FALSE in
+practice.
+
+Note that it's possible for the Promotor to create and distribute a
+proposal in the same message; publishing a body of text with a clear
+indication that it's intended to be a proposal causes it to become a
+proposal, and attempting to distribute something is a clear intention
+that it's intended to be a proposal. Therefore, if the Promotor attempts
+to distribute a body of text not a proposal at the time, assigning a new
+ID number to it, it goes into and immediately out of the proposal pool,
+except that the Promotor is the author of the resulting proposal.
+
+A rather interesting bug comes up at this point. Rule 106 states that
+removing a proposal from the proposal pool initiates an Agoran Decision
+to adopt it, full stop. Rule 107 states that an Agoran Decision is
+initiated when a person authorized to initiate it publishes a valid
+notice that sets forth the intent to initiate the decision. This seems
+to be a clear contradiction (in the case that the notice is invalid or
+nonexistent); rule 106 takes precedence in this case. (This is all
+irrelevant to the CFJ, but possibly relevant to the intent behind it,
+and rather interesting.)
+
+========================================================================

@@ -1,0 +1,77 @@
+==============================  CFJ 3010  ==============================
+
+    An entity poorly qualified to judge a case is necessarily not
+    unqualified to judge that case.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  Walker
+Judgement:                              
+
+
+Judge:                                  Machiavelli
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      24 Apr 2011 10:47:58 GMT
+Assigned to Walker:                     25 Apr 2011 03:01:44 GMT
+Walker recused:                         15 May 2011 22:35:41 GMT
+Assigned to Machiavelli:                15 May 2011 23:23:53 GMT
+Judged TRUE by Machiavelli:             16 May 2011 19:19:07 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The question is basically as to whether being poorly qualified is a
+subset of qualified, one of three options for qualification, or a status
+completely indepedent of qualification.
+
+The reason this is relevant is that a judicial panel containing myself
+was assigned to case 3004a despite the fact that I was sitting at the
+time and thus poorly qualified to judge it. However, poor qualification
+does not firectly affect the qualification of the judicial panel
+(R2277). I am not sure if such an assignment was legal, since it is not
+clear if, due to being poorly qualified, I was not qualified.
+
+By the English interpretation, poorly qualified is still qualified I
+think. However, that's unclear at best, and R1871 says
+       * Sitting.  Sitting players are poorly qualified to judge, but
+         will generally become qualified when the CotC rotates the
+         bench.
+
+which implies that poorly qualified entities are not qualified (and by
+R1868, qualified is the default for a first-class player such as myself).
+
+Additionally, however, R1871 says
+        a) no entity is well-qualified to be assigned to any of them;
+
+This is the only use of "well-qualified", possibly as an antonym of
+poorly qualified. This could reinforce the notion that poorly qualified
+is a subset of qualified and that well-qualified means "qualified but
+not poorly qualified", or well-qualified could just be synonymous with
+"qualified".
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+In several previous cases, adding a qualifier to a
+term has been found to create a wholly independent term (i.e.
+not a subsetted term) if both are explicitly defined by the
+ruleset: most recently for "announcement" and "by announcement".
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+[CotC:  referring to CFJ 3009]
+
+For the reasons given above, I judge TRUE.
+
+========================================================================

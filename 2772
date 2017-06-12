@@ -1,0 +1,126 @@
+==============================  CFJ 2772  ==============================
+
+    The IBA is a player
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       01 Mar 2010 17:36:28 GMT
+Assigned to omd:                        06 Mar 2010 16:41:58 GMT
+omd recused:                            12 Mar 2010 17:23:07 GMT
+Assigned to scshunt:                    14 Mar 2010 09:04:16 GMT
+Judged TRUE by scshunt:                 21 Mar 2010 19:55:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+As far as I know, since contracts were repealed, the IBA's Citizenship
+switch has never been flipped; I can't find a rule that would imply that
+it could flip platonically, and nobody has tried to flip it
+pragmatically. Therefore, the CFJ comes down to the existence or
+otherwise of the switch in question. Rule 869 makes it clear that this
+is equivalent to whether the IBA is an entity.
+
+Rule 1586 provides for an entity to cease to exist if the documents
+defining it are repealed or amended to cease defining it. This is a
+rather confusing test in this case; the backing document for the IBA can
+either be considered a legal fiction (in which case it may or may not
+still exist), or an actual message that created it (in which case it
+definitely does). There is a sort of confusion with contract law here;
+if an actual document, in someone's email inbox, creates a contract, how
+can it then be amended? On the other hand, if it's a legal fiction, what
+rule creates/created that legal fiction, and does that legal fiction
+still exist? In any case, rule 1586 does not seem to cause the repeal of
+the backing document of another backing document to cause any entities
+defined by the backing document to cease to exist; if the IBA's backing
+document has disappeared, it wasn't by being amended (the IBA hasn't
+been amended since contracts ceased to exist) or by being repealed (not
+itself being a rule). So I can't find an interpretation in which rule
+1586 itself causes the IBA to cease to exist.
+
+Therefore, the point that remains to check, is whether the IBA continues
+to exist as an entity, despite not being an Agoran contract any more. It
+certainly seems possible for a construct within a nomic to survive the
+downfall of that nomic (Nomic World is dead, but the FRC still exists
+and is thriving); but it's hard to tell to what extent a former Agoran
+contract can continue to be an entity. In particular, is it deserving of
+a Citizenship switch?
+
+Also of relevance here may be CFJ 1992 (which found that any thing was
+an entity). So does "anything" include the IBA? Does "any thing"?
+
+Even if the IBA is deregistered, this case continues to be relevant. For
+instance, can we transfer assets to it? That also depends on whether or
+not it's an entity.
+
+========================================================================
+
+Caller's Evidence:
+
+Excerpt from rule 869:
+{{{
+      Citizenship is an entity switch with values Unregistered
+      (default) and Registered, tracked by the registrar.  A player is
+      an entity whose citizenship is Registered.  Changes to
+      citizenship are secured.
+}}}
+Excerpt from rule 1586:
+{{{
+      If the documents defining an entity are repealed or amended such
+      that they no longer define that entity, then that entity and its
+      properties cease to exist.
+
+      If the documents defining an entity are amended such that they
+      still define that entity but with different properties, then
+      that entity and its properties continue to exist to whatever
+      extent is possible under the new definitions.
+}}}
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+CFJs 2769 and 2772, which are effectively identical, are a stickier
+issue. They question whether or not the IBA ceased to be an entity and
+thus a player when the rules defining contracts were repealed. The
+definition of a contract was, prior to the repeal of Rule 1742, "[a
+binding agreement] goverened by the rules". This is key because it sets
+a fundamental principle that the rules did not provide for contracts'
+existence, merely their governance.
+
+Binding agreements not governed by the rules can and do exist, and are
+therefore valid Agoran entities. By legal convention, a binding
+agreement (I will avoid the term 'contract' when referring to real-world
+agreements) needs no physical existence; it can exist without any
+document behind it, such as when an agreement is formed at a grocery
+store to purchase a box of donuts.
+
+Rule 1586 provides for a means for an entity to cease to exist if the
+document backing it no longer defines that entity, but the real-world
+law of binding agreements indicates that agreements exist without any
+backing document; a document may exist to clarify the agreement, but it
+is not fatal to the existence of the agreement if the document is lost
+or destroyed. There are a few cases where a textual agreement is
+required for it to be enforceable (see the Statute of Frauds), but the
+lack of a text copy is not always fatal to the agreement (G 400 Holdings
+Ltd. v. Yeoman Development Company Limited, 2008 ABQB 667)
+
+In light of this, I find that the IBA and contracts in general did not
+cease to exist as entities when Rule 1742 was repealed, although they
+did cease to be subject generally to Agoran law. Accordingly, I judge
+CFJs 2769 and 2772 to both be TRUE.
+
+========================================================================

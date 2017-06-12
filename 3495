@@ -1,0 +1,82 @@
+=============================  CFJ 3495  =============================
+
+      A non-player can hold an office and judge judgments.
+
+======================================================================
+
+Caller:                      Publius Scribonius Scholasticus
+Judge:                       o           
+Judgement:                   FALSE           
+
+======================================================================
+
+History:
+
+Called by Publius Scribonius Scholasticus:   16 May 2017
+Assigned to o:                               19 May 2017
+Judged FALSE by o:                           22 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+(Called referenced Caller's arguments in CFJ 3488)
+ 
+======================================================================
+
+Judge's Arguments:
+
+We can address it in two parts:
+
+1. A non-player can hold an office.
+
+2. A non-player can judge judgements.
+
+The first appears to be true. Rule 1006 sets out the requirements of
+an Officeholder:
+
+> Officeholder is an office switch tracked by the ADoP, with possible
+> values of any person or "vacant”.
+
+However, it goes on to restrict the duration for which a non-player
+may hold an office:
+
+> If the holder of an office is ever not a player, it becomes vacant
+
+Thus it is impossible for a non-player to ever take action under an
+office, or to hold an office for any non-zero length of time. It may
+be possible for a non-player to interrupt the occupancy of an office,
+but it is not possible for a non-player to hold an office.
+
+The second is more complicated.
+
+Rule 991 allows the Arbitor to assign only players to a CFJ:
+
+> When a CFJ has no judge assigned, the Arbitor CAN assign any player
+> to be its judge by announcement, and SHALL do so within a week.
+
+(It also sets out some criteria restricting the set of eligible 
+players.)
+
+However, no rule requires that a judge be recused if they cease to be
+a player, and Rule 591 allows the assigned judge to deliver judgement
+regardless of eir status as a player:
+
+> When a CFJ is open and assigned to a judge, that judge CAN assign
+> a valid judgement to it by announcement, and SHALL do so in a
+> timely fashion after this becomes possible.
+
+It is indisputably possible for a player to cease being a player -
+by deregistration, for example - between being assigned to a CFJ and
+assigning judgement to it. As the rules make no provision for this
+case, by Rule 2125, it is unregulated:
+
+> The Rules SHALL NOT be interpreted so as to proscribe unregulated
+> actions.
+
+Therefore, under narrow but possible circumstances, a non-player can
+judge judgements.
+
+Thus, a non-player cannot hold an office, but can judge judgments.
+
+======================================================================

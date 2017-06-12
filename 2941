@@ -1,0 +1,110 @@
+==============================  CFJ 2941  ==============================
+
+    At the beginning of the first week to begin during a holiday, all
+    ergs will be destroyed due to R2282(a), but none will be created
+    due to R2282(b-d) until 72 hours after the holiday ends.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Roujo
+Judgement:                              TRUE
+
+
+Judge:                                  Roujo
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           20 Dec 2010 20:06:16 GMT
+Assigned to Roujo:                      10 Jan 2011 00:57:17 GMT
+Judged TRUE by Roujo:                   10 Jan 2011 03:41:42 GMT
+Reconsideration requested by Yally:     10 Jan 2011 15:57:18 GMT
+Reconsideration requested by Wooble:    10 Jan 2011 16:21:26 GMT
+Reconsideration requested by Roujo:     10 Jan 2011 16:21:27 GMT
+Assigned to Roujo:                      10 Jan 2011 19:35:19 GMT
+Judged FALSE by Roujo:                  11 Jan 2011 15:08:44 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2282/4 extract:
+        At the beginning of each week:
+         (a) All ergs and capacitors are destroyed; then
+         (b) For each capacitor destroyed in item (a), an erg is awarded
+             to its former owner.
+         (c) For each player, that player is awarded 6 ergs if e is the
+             Captain, 5 ergs if e is a Pilot, 3 ergs if e is a Marine,
+             and 4 ergs otherwise; then
+         (d) For each office, its holder is awarded a number of ergs
+             equal to the interest index of that office.
+
+
+Rule 1769/7 extract:
+        If some Rule bases the time of a future event (including the
+        time limit to perform an action) upon the time of another event,
+        and ...
+        b) the future event would occur during a Holiday, then the
+           future event occurs 72 hours after the end of that Holiday
+           instead.
+
+R2282(a) occurring platonically at the beginning of a week, is not
+based on the time of a previous event.  However, as indicated by the
+"then" at the end of (a), all of b-d are based on the time of (a),
+so are delayed.  This would also go along with the general intent
+of holidays by making it a pretty quiet time period, erg-wise!
+
+========================================================================
+
+Judge Roujo's Arguments:
+
+I judge CFJ 2941 TRUE. Having read the relevant rules, I agree with G.
+that R2282(b)  through R2282(d) are to be executed /after/ R2282(a),
+so I also think they're "future events" as far as R1769 is concerned -
+and thus, it happens 72 hours after the Holiday ends, per R1769.
+
+I have a comment regarding this, though: if this CJF is TRUE - and I'm
+judging it so -, and the 24th is a Monday - as it was in 2007 -, I
+think the following happens:
+
+- Ergs are destroyed, R2282(b-d) are delayed until 72 hours after the
+end of the holiday - which would be the January 7th -, so on January
+10th.
+- On the 31st, which would also be a Monday, ergs are destroyed
+/again/, and R2282(b-d) would be delayed again.
+- January 7th would be the first Monday out of the Holiday, so people
+would get Ergs per R2282(c) and (d) - no capacitors should exist then,
+I think.
+- On January 10th... R2282(b-d) would trigger /twice/, once for each
+time it was skipped during the holiday.
+
+That's potentially a lot of Ergs. =P
+
+========================================================================
+
+Judge Roujo's Arguments:
+
+Here's the message from omd that initiated this reconsideration:
+
+On Sun, Jan 9, 2011 at 11:57 PM, omd <c.ome.xk@gmail.com> wrote:
+> Nitpick (revising another message I sent to this forum): I think R1769
+> a) applies, so R1769 b) does not apply (because the time of the future
+> event becomes the time at which the Holiday ends, which is presumably
+> not during a Holiday). =A0Therefore it happens immediately as the
+> Holiday ends.
+
+Re-reading the rules... I have to agree, and I'm sorry to have missed
+this on my first judgement. Because both events are in the Holiday,
+R1769a) triggers - and not R1769b) - so the erg gaining will happen
+the moment the holiday ends. I thus judge this CFJ FALSE.
+
+Please note that we might get a problem when R2282a) triggers at the
+beginning of the non-holiday week, at the same time as the delayed
+R2282b-d) - which might even happen twice, as I pointed out in my
+previous judgement.
+
+========================================================================

@@ -1,0 +1,71 @@
+==============================  CFJ 1216  ==============================
+
+    A Player who holds a wage-earning Office at the time Salaries are
+    paid out is paid the Salary for that Office, regardless of the
+    amount of time e has held that Office.
+
+========================================================================
+
+Caller:                                 Taral
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Taral:                        16 May 2000 15:42:33 GMT
+Assigned to Murphy:                     17 May 2000 21:31:25 GMT
+Judged FALSE by Murphy:                 18 May 2000 10:51:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R1940 (Periodic Compensations) says that "each periodic compensation
+required to be paid out shall eb paid out by the Officer required to do
+so" and "... the Salary for each wage-earning Office are periodic
+compensations". This would lead one to believe that the Statement is TRUE.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1940/0 (Power=1)
+Periodic Compensations
+
+      The Rules may designate certain compensations to be periodic
+      compensations.  As soon as possible after the beginning of each
+      month, each periodic compensation required to be paid out shall
+      be paid out by the Officer required to do so.
+
+      The Minimum Income, the Distributor's Gratuity, the Speaker's
+      Gratuity, and the Salary for each wage-earning Office are
+      periodic compensations.
+
+      The Payroll Clerk shall pay out the Minimum Income to each
+      Player, and shall further pay out to each Player the designated
+      Salary for each Office that Player held for at least 12 days of
+      the previous month.
+
+      The Registrar shall pay out the Distributor's Gratuity to the
+      Distributor if the Distributor is a Player and was both the
+      Distributor and a Player for at least 12 days of the previous
+      month.
+
+      The Registrar shall pay out the Speaker's Gratuity to a Player
+      if that Player was Speaker for the whole of the previous month.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I Judge FALSE.
+
+Not all periodic compensations are required to be paid out.  If an Office
+is held by a Player who held that Office for less than 12 days of the
+previous month, then the Salary for that Office (if any) is a periodic
+compensation that is *not* required to be paid out that month.
+
+========================================================================

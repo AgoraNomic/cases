@@ -1,0 +1,58 @@
+==============================  CFJ 2971  ==============================
+
+    In general, a conditional attempts to register fail.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Bucky
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           31 Jan 2011 18:20:11 GMT
+Assigned to Murphy:                     27 Feb 2011 17:31:25 GMT
+Judged FALSE by Murphy:                 27 Feb 2011 18:04:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+A conditional expression of intent to register does not indicate
+"reasonably clearly and reasonably unambiguously that e intends to
+become a player at that time."  I.e. attaching conditions causes
+the message fail this R869 test.
+
+This is one situation where erring in the side of not allowing the
+registration is a better "tradition" for new players coming to grips
+with the game; we want to be *sure* that they've consented to join
+as per R101(iv).
+
+========================================================================
+
+Gratuitous Arguments by Bucky:
+
+A conditional intent to register should still pass the test if the condition
+itself is clearly and unambiguously true.  For example:
+
+"I register if I can legally do so" should work as stated, period.  The person
+posting it obviously intends to register.
+"I register if some player is currently Grand Vizier" should work right now;
+given the definition of Grand Vizier, the condition is clearly true.
+"I register if some player is currently Rulekeepor", where the occupancy of
+the office in question is under CfJ, should not work since it is not clear.
+"I register if doing so would let me make arbitrary gamestate changes by
+announcement" should not cause a registration right now, since the condition
+is clearly false.
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept Bucky's gratuitous arguments.
+
+========================================================================

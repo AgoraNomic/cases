@@ -1,0 +1,148 @@
+==============================  CFJ 2363  ==============================
+
+    Rule 2198 was amended recently.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  cmealerjr
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          01 Feb 2009 17:21:48 GMT
+Assigned to ais523:                     04 Feb 2009 07:40:53 GMT
+ais523 recused:                         05 Feb 2009 22:25:14 GMT
+Assigned to cmealerjr:                  10 Feb 2009 06:02:01 GMT
+cmealerjr recused:                      21 Feb 2009 19:40:31 GMT
+Assigned to Murphy:                     21 Feb 2009 19:43:06 GMT
+Judged FALSE by Murphy:                 21 Feb 2009 19:50:22 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I argue that this works because of Rule 2198:
+      Contract changes are secured.  If a contract specifies a
+      mechanism by which Contract Changes to it can be performed, then
+      such changes CAN be performed using that mechanism.
+
+This was attempted by ehird a while ago.  In CFJ 1958, Judge Wooble
+found that it didn't work (under a similar version of the rule).  E
+wrote:
+
+{
+The 'CAN' refers to performing such changes, and allows the
+specified mechanism to perform the changes. It does not make the
+specified mechanism possible. If it did, one could argue that a
+clause like "This contract can be changed by any Party with the
+consent of the other parties" authorized each party to give consent on
+behlaf of the other parties.
+}
+
+I don't agree with this.  Rule 2198 clearly states that changes CAN be
+performed using whatever mechanism is specified, not that the
+mechanism is allowed to make the change or that changes can be
+performed if the mechanism succeeds.  The only reasonable
+interpretation of the rule is that the mechanism is made POSSIBLE by
+the rule.  If the amendment doesn't work, then Contract Changes CANNOT
+be performed to Pairing using the mechanism specified, simple as that.
+
+The second statement is fallacious.  There are plenty of Rules that
+authorize similar mechanisms of consent: for example, Rule 1728
+(Dependent Actions).  Surely just because a Rule says I can make
+someone a Bard with two support, I'm not thereby authorized to act on
+behalf of people to support my intent.  If a Rule said that "Contract
+X can be changed by any Party with the consent of the other parties",
+I would not thereby be authorized to give consent on behalf of other
+parties.  What is the difference here?  Rule 2198 is authorizing the
+mechanism, not allowing anyone to carry out the mechanism by
+announcement.
+
+{
+In any event, the alternate reading of 2198 could not authorize a
+Player to make changes to the rules without explicitly turning that
+Player into an instrument capable of doing so; 2198 lacks the power to
+override R2140 by any other means, and we cannot read into 2198 an
+implicit transformation of a Player into an instrument.
+}
+
+I've addressed this by having Rule 2198 itself perform the amendments.
+
+========================================================================
+
+Caller's Evidence:
+
+I agree to the following:
+{
+   1. This is a public contract and a pledge, titled "Pairing".
+
+   2. Parties to this contract CAN make contract changes to it by the
+      following mechanism:
+
+       a. The party publishes a Pair, a document consisting of one
+       Rule amendment and one contract change.
+
+       b. When the Pair is published, Rule 2198 causes the amendment
+       and change to take effect.
+
+}
+
+I submit the following Pair:
+{
+1. Amend Rule 2198 by replacing the first paragraph with:
+
+      comex CAN cause this rule to perform a Rule Change by
+      announcement specifying the change.  This rule explicitly
+      permits itself to perform Rule Changes.
+
+2. Terminate "Pairing".
+}
+
+========================================================================
+
+Gratuitous Arguments by Wooble:
+
+as I judged in a case regarding a
+similarly-worded rule in B Nomic, the wording here uses the passive
+voice; the contract CAN be changed by any mechanism given in the
+contract itself, but the rule doesn't give any player the ability to
+change the contract, so it can't by extension give a player the
+ability to perform arbitrary actions specified in the contract.  Were
+the rule to be worded "any person CAN perform the actions specified in
+the contract to make contract changes" there would be a better
+argument for the CAN extending to the contract-specified actions.
+
+There's probably also a common sense argument to be made here; suppose
+I had a contract which said "Wooble CAN amend this contract by
+physically, not as a legal fiction, teleporting to the moon and
+leaving a document detailing the changes buried next to Neil
+Armstrong's footprints."
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I accept Wooble's gratuitous arguments (as I did eir similar arguments
+in B Nomic).  More succinctly:
+
+  1) X can do Y by doing Z
+  2) If X can do Z, then e can thereby do Y
+  3) X can do Z and thereby do Y
+
+#1 is generally equivalent to #2, but only equivalent to #3 if X is
+otherwise able to do Z.  A verdict of TRUE would depend on #1 being
+generally equivalent to #3.
+
+========================================================================

@@ -1,0 +1,167 @@
+From owner-nomic-official@teleport.com  Mon Jun 17 04:37:58 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id EAA11181 for <blahedo@quincy.edu>; Mon, 17 Jun 1996 04:37:57 -0500
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.7.5/8.7.3) with SMTP id CAA15261; Mon, 17 Jun 1996 02:33:57 -0700 (PDT)
+Received: by desiree.teleport.com (bulk_mailer v1.3); Mon, 17 Jun 1996 02:33:55 -0700
+Received: (from daemon@localhost) by desiree.teleport.com (8.7.5/8.7.3) id CAA15244 for nomic-official-outgoing; Mon, 17 Jun 1996 02:33:55 -0700 (PDT)
+Received: from heaton.cl.cam.ac.uk (exim@heaton.cl.cam.ac.uk [128.232.0.11]) by desiree.teleport.com (8.7.5/8.7.3) with SMTP id CAA15231 for <nomic-official@teleport.com>; Mon, 17 Jun 1996 02:33:51 -0700 (PDT)
+Received: from albatross.cl.cam.ac.uk [128.232.0.96] (exim)
+	by heaton.cl.cam.ac.uk with smtp (Exim 0.52 #1)
+	id E0uVagu-0006Yl-00; Mon, 17 Jun 1996 10:33:49 +0100
+Received: from mn200 by albatross.cl.cam.ac.uk with local (Exim 0.52 #1)
+	id E0uVagu-0002cR-00; Mon, 17 Jun 1996 10:33:48 +0100
+From: Michael Norrish <Michael.Norrish@cl.cam.ac.uk>
+To: nomic-official@teleport.com
+Subject: OFF: (CotC) CFJ 874 judged FALSE
+Message-Id: <E0uVagu-0002cR-00@albatross.cl.cam.ac.uk>
+Date: Mon, 17 Jun 1996 10:33:48 +0100
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+                               CFJ 874
+
+"Rule 833 should be interpreted to mean that if either
+ 1) a Proposal receives exactly one more Vote FOR than AGAINST, and
+    the Assessor Voted FOR that Proposal; or
+ 2) a Proposal receives exactly one more Vote AGAINST than FOR, and
+    the Assessor Voted FOR that Proposal;
+ then the Assessor's Vote does not count toward determining the F-A
+ award or penalty for that Proposal."
+ 
+
+======================================================================
+
+Judge:       Zefram
+
+Judgement:   FALSE
+
+Eligible:    Andre, Chuck, elJefe, favor, Jtael, KoJen, Michael, 
+             Oerjan, Steve, Swann, Vanyel, Zefram
+
+Not eligible: 
+Caller:      Morendil
+Barred:      Kelly
+Declined:    Murphy
+On hold:     
+
+======================================================================
+
+History:
+  Called by Morendil, Wed, 5 Jun 1996 00:08:01 +0100
+  Assigned to Murphy, Wed, 5 Jun 96 9:55:50 GMT
+  Declined by Murphy, Wed, 5 Jun 1996 13:17:45 -0500 (CDT)
+  Re-assigned to Zefram, Fri, 7 Jun 96 11:35:15 GMT
+  Andre makes himself ineligible, Fri, 7 Jun 96 14:06:45 METDST
+  Judged FALSE by Zefram, Fri, 14 Jun 1996 00:18:28 +0100 (BST)
+  Published, as of this message
+
+======================================================================
+
+Reasoning of the Judge:
+
+The question, as the Judge of CFJ 873 pointed out, is which meaning of
+the term "tiebreaking Vote" is appropriate.  I see three
+possibilities:
+
+1. It refers to the case where without the Assessor's Vote there would
+be equal numbers of Votes FOR and AGAINST the Proposal, and the
+Assessor's Vote resolves this tie.
+
+2. It refers to the case where without the Assessor's Vote the numbers
+of Votes would be such that no definitive result has been obtained, and
+the Assessor's Vote resolves this tie.
+
+3. It refers to the case where the normal process of Voting results in
+no definitive result being obtained, and the Assessor is empowered to
+make a casting Vote to resolve this tie, and does so.
+
+Case 3 was applicable under now-repealed legislation, but is now not
+possible.  It is thus a hypothetical case.  Case 2 is now also
+hypothetical, due to the same legislation.  Where voting would
+previously have been considered tied (allowing the Assessor to make a
+casting Vote), the Proposal now fails, which is most definitely a
+conclusive result.  Case 1, being purely a matter of numbers of Votes,
+is still relevant.
+
+The above paragraph might lead one to conclude that I will Judge TRUE,
+on the simple grounds that this is the only reasonable interpretation
+of the issue that would make the provision in question have any effect
+under current legislation.  This is not a valid legal argument in
+Agora; it is well established that Rules need not have any effect.  For
+example, Rule 1526 prohibited the Banker from taking advantage of
+certain knowledge of the Vototron.  As the Vototron and Rule 1526 never
+existed simultaneously, Rule 1526 was without inherent effect.
+
+I reach the conclusion, as did the Judge of CFJ 873, that the only way
+to determine the correct interpretation of the term is by reference to
+the English language itself.  And given that as a reference I would
+have to conclude that interpretation 3 is the correct one.  More
+precisely, I believe that the phrase "tiebreaking vote", in the context
+of a voting procedure, should generally be taken as referring to a
+situation in which the normal process of voting has reached no
+conclusion, and an individual is called upon to resolve the issue by
+casting an additional vote.  And thus I would Judge this CFJ FALSE.
+
+But there is another issue.  Note that in interpretations 1 and 2 above
+I have ignored the possibility of cases where the Assessor Votes both
+FOR and AGAINST the Proposal in question.  Indeed, there is significant
+ambiguity in the simple case of the Assessor casting two Votes the same
+way.  Had the Rule not referred specifically to the Assessor, there
+would be further ambiguities of this nature.  This issue does not
+directly affect the interpretation upon which I decided, but it does
+affect the interpretation referred to by the statement (interpretation
+1).
+
+Consider the case where a Proposal receives exactly one more Vote FOR
+than AGAINST and the Assessor has Voted both FOR and AGAINST the
+Proposal.  This case falls within the set of cases referred to by the
+statement.  In this case I suggest that there is no rational
+interpretation by which the Assessor can be said to have cast a
+"tiebreaking Vote".  Thus the interpretation suggested by the statement
+is not reasonable in this case, making the statement trivially FALSE.
+
+I therefore Judge this CFJ FALSE.  I suggest that the Caller would have
+more success in making a CFJ with more narrow scope, such as one
+referring specifically to the case of Proposal 2610 to which e refers
+in eir Arguments.  I hope that my analysis of the matter, above, will
+aid the Judge of such a CFJ.
+
+======================================================================
+
+(Caller's) Arguments:
+
+Relevant Rules : 833.
+
+R&A :
+
+Thanks to Murphy for the wording of that second attempt, and my 
+apologies to the CotC and all Agorans for the noise. :)
+
+An example :
+
+(From the Assessor's Report)
+2610  Antivirus                               FAILS 5-6 (1)
+F-A :  -1
+
+I note that if not for the Assessor's Vote, the Vote on this Proposal
+would have been a 5-5 tie.
+
+I therefore claim that the following in Rule 833 applies :
+
+---
+Rule 833/4 (Mutable, MI=1)
+Reward or Penalty for Proposing
+
+.../...
+      For the purpose of this Rule, Votes by Voting Entities which are
+      not Players do not count, nor does any tiebreaking Vote cast by
+      the Assessor.
+---
+
+Since no other Rule defines what a 'tiebreaking Vote cast by the
+Assessor' is any longer, I submit that this should be taken to have
+its usual meaning, that is, a Vote which breaks a tie.
+
+======================================================================

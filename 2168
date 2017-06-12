@@ -1,0 +1,37 @@
+==============================  CFJ 2168  ==============================
+
+    Normish is a nomic.
+
+========================================================================
+
+Caller:                                 Machiavelli
+
+Judge:                                  root
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Machiavelli:                  18 Sep 2008 22:48:02 GMT
+Assigned to root:                       23 Sep 2008 08:30:50 GMT
+Judged TRUE by root:                    25 Sep 2008 17:54:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Normish contains, is, or runs on a Linux server which contains a script
+allowing its users to alter the server's contents arbitrarily.
+Treating this as a nomic ruleset, this makes Normish a nomic.
+
+========================================================================
+
+Judge root's Arguments:
+
+If Normish is a nomic, then its operating system is its ruleset.  The
+standard set of tools in a Linux system, combined with root access,
+are sufficient to make arbitrary changes to the system, including
+replacing the operating system in its entirety.  I judge TRUE.
+
+========================================================================

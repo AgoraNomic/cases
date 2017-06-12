@@ -1,0 +1,144 @@
+==============================  CFJ 2425  ==============================
+
+    Murphy's recent attempt to cause Rule 2223 to amend itself to read
+    'This rule intentionally left blank' failed because it attempted to
+    claim indirect authority from the non-existent Rule 6130.
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 Murphy
+
+Judge:                                  ehird
+Judgement:                              FALSE
+
+Appeal:                                 2425a
+Decision:                               REMAND
+
+
+Judge:                                  ehird
+Judgement:                              FALSE
+
+Appeal:                                 2425b
+Decision:                               REMAND
+
+
+Judge:                                  ehird
+Judgement:                              
+
+
+Judge:                                  Yally
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       16 Mar 2009 16:39:09 GMT
+Assigned to ehird:                      23 Mar 2009 16:02:28 GMT
+Judged FALSE by ehird:                  23 Mar 2009 16:23:10 GMT
+Appealed by G.:                         24 Mar 2009 21:54:18 GMT
+Appealed by Murphy:                     24 Mar 2009 23:24:20 GMT
+Appealed by Taral:                      24 Mar 2009 23:59:46 GMT
+Appeal 2425a:                           24 Mar 2009 23:59:46 GMT
+REMANDED on Appeal:                     04 Apr 2009 16:16:22 GMT
+Assigned to ehird:                      04 Apr 2009 16:16:22 GMT
+Judged FALSE by ehird:                  07 Apr 2009 22:57:23 GMT
+Appealed by root:                       07 Apr 2009 23:16:07 GMT
+Appealed by woggle:                     07 Apr 2009 23:36:51 GMT
+Appealed by Murphy:                     07 Apr 2009 23:44:41 GMT
+Appealed by Machiavelli:                07 Apr 2009 23:47:01 GMT
+Appeal 2425b:                           07 Apr 2009 23:47:01 GMT
+REMANDED on Appeal:                     12 Apr 2009 19:27:28 GMT
+Assigned to ehird:                      12 Apr 2009 19:27:28 GMT
+ehird recused:                          26 Apr 2009 20:36:51 GMT
+Assigned to Yally:                      26 Apr 2009 20:38:17 GMT
+Judged FALSE by Yally:                  26 Apr 2009 22:17:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Ambiguous actions are normally taken to fail. I'm not sure whether the
+action Murphy tried was ambiguous enough to cause it to fail, but it
+certainly isn't completely clear-cut. Rule changes are held to a higher
+standard, as is shown by this quote from rule 105:
+{{{
+      Any ambiguity in the specification of a rule change causes
+      that change to be void and without effect.
+}}}
+
+========================================================================
+
+Judge ehird's Arguments:
+
+FALSE; it failed because of ambiguity (see above). If it didn't fail
+because of ambiguity this might be TRUE.
+
+========================================================================
+
+Appellant G.'s Arguments:
+
+)This requires that we follow the logic of CFJ 2424).
+
+========================================================================
+
+Judge ehird's Arguments:
+
+FALSE, again, it failed because of the above.
+
+========================================================================
+
+Appellant root's Arguments:
+
+I intend to appeal these with 2 support; I recommend REASSIGN since
+ehird seems intent on ignoring the appeal panel's instructions.
+
+========================================================================
+
+Appellant woggle's Arguments:
+
+For the record, I note (as a member of the appeals panel who recommended
+REMAND) that I do not mind ehird judging to the same outcome; however, I
+would've appreciated eir amending eir arguments to, for example,
+reference rules or explain what the R105 "specification of a rule
+change" is.
+
+========================================================================
+
+Appellant Murphy's Arguments:
+
+I support both of these.  The arguments so far can be summarized thusly:
+
+  ais523> In the situation "I award <points> to <player>", the method
+          matters because different limits are used up.
+
+  others> That only covers situations that have substantively different
+          side effects based on the method.  The situation actually at
+          hand does not.  Things break badly if one interprets such
+          situations as requiring specification anyway.
+
+   ehird> Preciseness is important.
+
+ehird's arguments do not address the specific claims made and rebutted
+by anyone else.  That is why they are less reasonable.
+
+========================================================================
+
+Appellant Machiavelli's Arguments:
+
+I support both of these, as ehird did not make a better judgement or
+submit new arguments.
+
+========================================================================
+
+Judge Yally's Arguments:
+
+I may be misinterpreting the statement, but in my mind it seems to be saying
+that making a failing attempt within an announcement causes the entire
+announcement to fail. This should not be. Just because some announcement
+attempts to gain authority from an invalid source, does not inherently cause
+it to fail. The rest of the announcement should be judged on its own merits.
+Therefore, I opine FALSE.
+
+========================================================================

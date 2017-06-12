@@ -1,0 +1,188 @@
+From nomic-official-owner@teleport.com Tue Jun 13 05:59:16 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id FAA29080 for <blahedo@quincy.edu>; Tue, 13 Jun 1995 05:45:53 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id DAA24551 for nomic-official-outgoing; Tue, 13 Jun 1995 03:45:20 -0700
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id DAA24527 for <nomic-official@teleport.com>; Tue, 13 Jun 1995 03:45:14 -0700
+Message-Id: <199506131045.DAA24527@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA14125; Tue, 13 Jun 1995 12:44:56 +0200
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: Judgement CFJ 769
+To: nomic-official@teleport.com
+Date: Tue, 13 Jun 95 12:44:56 METDST
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+----------------------------------------------------------------------
+
+======================================================================
+			JUDGEMENT OF CFJ 769
+      (Rule 1466 should be interpreted such that a Proposal...)
+======================================================================
+
+  Judgement:  UNDECIDABLE
+
+  Judge:   Michael
+
+  Eligible to Judge: TAL, Jon, Xanadu, elJefe, Michael, Ian, Vanyel,
+		     Swann, Andre, Kelly, Dave Bowen
+
+  Caller:  Chuck
+
+----------------------------------------------------------------------
+
+History:
+  Called Tue, 6 Jun 95 18:04:00 CST by Chuck
+  Assigned Fri, 9 Jun 1995 00:00 UTC to Michael
+  Judged UNDECIDABLE Tue, 13 JUN 1995 09:43 BST by Michael
+
+======================================================================
+
+Statement: 
+
+Rule 1466 should be interpreted such that a Proposal containing
+one or more Currency Directives, and no other Directives or
+Rule Changes which would require the Proposal to have a Mutability
+Index greater than 1, has a Mutability Index of 1.
+
+Requested Injunction:
+
+I also request that the Judge make an Injunction on the interpetation
+of Rule 1466, as described in Rule 789.  (Even though this request
+is not necessary for the Judge to make the Injunction.)
+
+Relevant Rules: 1466, 594, 993
+
+----------------------------------------------------------------------
+
+Arguments:
+
+My statement is a bit long, but this, I feel, is necessary.  Essentially,
+it says that the presence of a Currency Directive in and of itself
+in a Proposal does not require that Proposal to have an AI greater
+than 1.
+
+Rule 1466 states that "These Directives [Currency Directives] have
+an Adoption Index of 2."  An Adoption Index of a Directive is
+essentially meaningless, as no other Rule makes any reference to
+the AI of a Directive.
+
+Rule 594 sets the Adoption Index of Proposals, but is mainly
+concerned with Rule Changes.  It merely defers to other Rules
+which set a higher AI for certain Proposals.  1466 is *not*
+such a Rule, as it says nothing about the AI of any Proposals,
+only the AI of certain Directives.
+
+Rule 993, defining Directives, states, "The Adoption Index of a Proposal
+containing a Directive must be at least as great as that required
+by the Rule or Rules which define the type of Directive contained
+in the Proposal."  Rule 1466 makes *no* requirements about the
+AI of any Proposal.  Furthermore, both Rule 993 and Game Custom
+make clear that even if a Proposal contains only a single Directive,
+the Proposal is not the same as the Directive.
+
+Thus, there is no Rule which would require a Proposal of the sort
+defined in my statement (i.e. with one or more Currency Directives,
+and possibly other Directives and Rule Changes that do not require
+the Proposal to have an AI greater than 1) to have an AI greater
+than 1.  Thus, by Rule 594, such a Proposal has an AI of 1.
+
+
+----------------------------------------------------------------------
+
+References:
+
+1. Rule 1466
+2. Rule 594
+3. Rule 993
+
+======1. Rule 1466
+
+Rule 1466/0 (Mutable, MI=1)
+Currency Directives
+
+      There is a type of Directive, called a Currency Directive.
+      These Directives have an Adoption Index of 2. If adopted, they
+      have the effect of specifying the Currency holdings contained
+      in an Entity or Entities' Treasury or Treasuries. They may have
+      no other effects.
+
+History:
+Created by Proposal 1596, Jun. 2 1995
+
+======2. Rule 594
+
+Rule 594/1 (Mutable, MI=1)
+Proposals and Rule Changes
+
+      A Proposal may contain one or more Rule Changes.  If a Proposal
+      containing Rule Changes is adopted, the Rule Changes contained
+      in the Proposal shall take effect in the order they appear in
+      the Proposal.
+
+      The Adoption Index of a Proposal shall be the least Index which
+      is not less than the minimum Adoption Index which would allow
+      all the Rule Changes within the Proposal to take effect.  This
+      paragraph yields to any Rule which may require a higher Adoption
+      Index for a given Proposal.
+
+      In no case may a Proposal have an Adoption Index of less than 1.
+
+History:
+..
+Amended(1) by Proposal 1323, Nov. 21 1994
+
+======3. Rule 993
+
+Rule 993/1 (Mutable, MI=1)
+Directives
+
+      A Proposal may contain one or more Directives.  A Directive, if
+      adopted, causes some change in the Game State other than
+      changing a Rule.  No Directive may change any Rule.  Only those
+      Directives which are defined by the Rules may be placed in a
+      Proposal.
+
+      If a Proposal containing Directives is adopted, the Directives
+      shall take effect in the order that they appear in the Proposal,
+      and according to the Rule or Rule which define the type of each
+      Directive in question.
+
+      The Adoption Index of a Proposal containing a Directive must be
+      at least as great as that required by the Rule or Rules which
+      define the type of Directive contained in the Proposal.  Any
+      Proposal for which this is not true is not properly made.
+
+History:
+..
+Amended(1) by Proposal 1330, Nov. 22 1994
+
+======================================================================
+
+Judgement: 
+
+UNDECIDABLE
+
+Argument: 
+
+This is really unfortunate, but a mistake in the phrasing of this CFJ
+has meant that the obvious intent of the statement has been completely
+neutralised.  The ruleset does not discuss whether or not Proposals
+have Mutability Indices.  It is clear that rules do (see 1021), but
+the interesting Index attached to Proposals is Adoption Index.  The
+submitted argument accompanying the statement makes it clear that this
+was the intention.  I urge the caller of this CFJ to correct their
+mistake, and resubmit. 
+
+The rules do not say that Proposals don't have an MI, but if they do
+we can't know anything about them..
+
+Michael.
+
+======================================================================
+
+
+Andre

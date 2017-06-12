@@ -1,0 +1,125 @@
+=============================  CFJ 3467  =============================
+
+      天火狐 is a player.
+
+======================================================================
+
+Caller:                      ais523           
+                             
+Judge:                       G.           
+Judgement:                   FALSE           
+
+======================================================================
+
+History:
+
+Called by ais523:            10 Nov 2016
+Assigned to G.:               5 Jan 2017
+Judged FALSE by G.:          06 Jan 2017
+
+======================================================================
+
+Caller's Arguments:
+
+
+======================================================================
+
+Judge's Arguments:
+
+There are two separate questions here.  The first is whether the
+person that sent a message from Josh T's email address is registered
+as a player, and the second is whether that player's Agoran nickname
+is 天火狐.  (note: the CFJ is timed so that the judgement does not
+consider self-ratification of the Registrar's report).
+
+By the excellently-written precedent set by Judge Maud in CFJ 1460
+(https://cfj.qoid.us/1460), by-announcement actions taken in non-
+English languages generally fail.  The relevant part of the judgement
+is clear and subsequent rule changes have not altered its
+applicability:
+
+     "...submitting a purported communication to an officer in a
+      language one has no reason to believe that officer understands,
+      and which, as it turns out, the officer does not understand,
+      violates the Gricean maxims
+
+      (4) Avoid obscurity of expression.  and
+      (5) Avoid ambiguity.
+
+      Such a purported communication does not communicate, and so it
+      would not be unreasonable to hold that the purported
+      communication is no communication at all.
+
+      I therefore hold that an Agoran player need not regard, nor be
+      required to act upon, a message written in a language e does not
+      understand, whether or not it is sent to a public forum."
+
+However, registration is a special case for communication.  An intent
+to register must be "reasonably" clear (R869). CFJ 1263 explored this
+issue (https://cfj.qoid.us/1263).  At the time of CFJ 1263, the rules
+required a potential new player to publicly "request" registration
+(though the request was automatically successful upon publication). 
+CFJ 1263 found that saying "I hereby register" was close enough to a
+request, even though, by all grammatical considerations, it wasn't a
+request.  For standard by-announcement actions, "requesting" to do
+something would be very different than saying "I do something", but
+the difference was considered worth overlooking with the specific aim
+of not alienating new players.
+
+Interpretations of the registration clause over time (there have been
+many CFJs) have very much kept this "less nit-picky" tradition alive.
+In the context of modern translation engines, grammatical or other
+translation quirks are likely to be less confusing than the very real
+difference between a "request" and an "action" in English, and that
+was allowed by CFJ 1263.
+
+The translation given by Google Translate, as of the time of this
+judgement, is as follows:  "ladies and gentlemen, In order to think
+that it will be one of the players of this game, I try to register
+using the following nickname.  The sky fox".  This, I find, is
+"reasonably clear" for registration standards, so the person with the
+email address name Josh T did in fact register.
+
+However, does this mean eir appropriate Agoran nickname is 天火狐? 
+Maybe not.  The important question for the English-dominated Agora is
+clarity; as a non-Japanese speaker, I'm likely, at a glance, to assume
+any three Japanese characters probably refer to that person, even if
+substitutions are made, therefore an Latin alphabet character set is
+necessary, I believe, for clarity.
+
+Also, by sending a message to this board, e would likely expect us to
+translate it.  It seems strange to translate the content, but not the
+signature.  Therefore, "the sky fox" is a more likely claim for a
+nickname than 天火狐.  On the other hand "天" may have other
+connotations ("heaven" is one given), therefore 天火狐 will always be
+the most accurate rendition of eir signature.  Also, there is a
+problem with 天火狐; these characters on their own, when plugged into a
+translator, detect as Chinese, and are apparently the symbols used for
+the software package Firefox.
+
+In choosing between these when interpreting the registration message,
+I would suggest a middle ground - a transliteration, as this allows
+clarity in English, and allows us to assert the Japanese context of
+the original message, without changing the precise meaning of the name. 
+The Japanese transliteration of the name gives "ten higitsune", which
+seems clear.  Therefore I find that, by the registration message,
+"ten higitsune" registered, but it is inappropriate to say that 天火狐
+did so.  If e lets us know that e really wants eir nickname to be
+天火狐 (or "the sky fox") going forward, we should honor that, but only
+as long as there is no unclarity as to the sender, in individual
+messages.
+
+I find FALSE.
+
+======================================================================
+
+Judge's Evidence:
+
+Message sent to PF by Josh T <draconicdarkness at gmail>:
+  皆様、
+
+  このゲームのプレイヤの一名になると思うために、以下のあだ名を使って登録してみます。
+
+  天火狐
+
+======================================================================

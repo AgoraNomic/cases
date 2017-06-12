@@ -1,0 +1,78 @@
+From owner-nomic-official@teleport.com  Thu Feb  8 12:00:16 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id MAA04557 for <blahedo@quincy.edu>; Thu, 8 Feb 1996 12:00:15 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id JAA03434; Thu, 8 Feb 1996 09:53:16 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Thu, 8 Feb 1996 09:53:15 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id JAA03412 for nomic-official-outgoing; Thu, 8 Feb 1996 09:53:14 -0800
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id JAA03371 for <nomic-official@teleport.com>; Thu, 8 Feb 1996 09:53:10 -0800
+Message-Id: <199602081753.JAA03371@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA09297; Thu, 8 Feb 1996 18:50:44 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 857 Judgement corrected
+To: nomic-official@teleport.com
+Date: Thu, 8 Feb 96 18:50:44 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+
+			JUDGEMENT CFJ 857
+
+" The Rule that was created by Proposal 2448 should be interpreted so 
+that a Transfer occurs under its provisions each time a Player casts 
+the Votes it specifies, even if such Votes have no legal effect. "
+
+======================================================================
+
+Judge:		KoJen
+Judgement:	FALSE
+
+Eligible:	Andre, Chuck, Coren, dcuman, Doug, elJefe, favor, 
+		Ghost, Jtael, KoJen, Michael, Morendil, Wes, Zefram
+
+Not Eligible:	
+Caller:		Morendil
+Barred:		Kelly, Steve, Vanyel
+On Hold:	Blob, Dave Bowen
+1005:		Murphy, Pascal, Swann, Vanyel, Vlad
+
+Effects:	KoJen gains 5 Points for speedy Judgement
+
+======================================================================
+
+History:
+  Called by Morendil, 8 February 1996, 08:03 +0100
+  Assigned to KoJen, 8 February 1996, timestamp lost
+  Judged FALSE by KoJen, 8 February 1996, 12:19 -0500
+
+======================================================================
+
+Reasons & Arguments:
+
+The relevant Rule mentions that these Transfers occur 
+when the Player casts a Vote, not a _legal_ Vote. The other Rule in 
+the Ruleset which calls for a transfer resulting from the casting of 
+Votes on a Proposal is 312, which _does_ use the term "legal Vote".  
+
+On the other hand, the Threat Wins Rule only says that the action of 
+casting a particular number of Votes results in a transfer, though it 
+specifies neither a limit to the time period during which such an 
+action should be undertaken nor the time of occurrence of these 
+transfers.
+
+It is therefore my interpretation that Votes which are cast on 2448, 
+even if they are not legal, may result in the transfer occurring at 
+the time the message casting such Votes is sent.
+
+======================================================================
+
+Decision & Reasoning Judge:
+
+My decision on CFJ 857 is FALSE.
+
+Reasoning: Votes are platonic. There is no "Vote" if it is not a "legal
+Vote". Therefore in Proposal 2448, "Vote" can only be taken to mean "legal
+Vote".

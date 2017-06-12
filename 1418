@@ -1,0 +1,214 @@
+==============================  CFJ 1418  ==============================
+
+    If, after the end of an Election's Nominating Period, the Vote
+    Collector fails to publish a list of Candidates as soon as possible,
+    then the Election has no Winner - even if there was exactly one
+    Candidate at the end of the Nominating Period.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Steve
+Barred:                                 Taral
+
+Judge:                                  t
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       26 Oct 2002 03:40:21 GMT
+Assigned to t:                          05 Nov 2002 00:53:39 GMT
+Judged TRUE by t:                       13 Nov 2002 00:31:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Here is an excerpt from Rule 1445, with labels added in the left margin:
+
+(a)   * End of Nominations: As soon as possible after the end of the
+        Nominating Period, the Vote Collector shall publish a list of
+        all Candidates.  If e does not do this as soon as possible,
+        then the Election has no winner.
+
+(b)   If there are no Candidates, then the Election has no winner.
+
+(c)   If there is exactly one Candidate, then e is the winner of that
+      Election.
+
+(d)   If there are two or more Candidates, then a Referendum begins
+      when the Vote Collector publishes the list of Candidates.  This
+      is a standard Referendum, with the following exceptions:
+
+This CFJ is intended to resolve a possible conflict between (a) and
+(c).  I believe that (b) through (d) do not come into effect until
+the Vote Collector publishes the list required in (a).
+
+========================================================================
+
+Judge t's Arguments:
+
+The court finds this CFJ TRUE, but notes that the situation is more
+nefarious than it appears.
+
+Rule 1445 states that the Vote Collector of an Election shall publish a
+list of all candidates as soon as possible after the end of the Nominating
+Period and that if e fails to do that, the Election has no winner.
+However, the rule also states that if an Election has only one candidate,
+e wins the Election. The CFJ seeks to find which of these two outcomes
+take precedence.
+
+The end of the rule contains an effectiveness clause: "An Election takes
+effect when the Vote Collector correctly announces the identity of its
+winner." It is reasonable to conclude that this clause defines the only
+way in which the procedure defined by the rule may have an effect that is
+recognized by other rules. Therefore, in order for a Candidate to win an
+election, eir identity must be announced the Vote Collector while e is
+recognized the winner of the election by Rule 1445.
+
+Rule 1445 defines the possible winner of an Election in the following
+ways (listed in the order they appear in the Rule):
+
+    I. If the Vote Collector is deregistered before announcing the winner,
+       the Election has no winner.
+   II. If the Vote Collector fails to publish the list of Candidates,
+       the Election has no winner.
+  III. If there are no Candidates, the Election has no winner.
+   IV. If there is exactly one Candidate, e is the winner.
+    V. If there are several Candidates, a Referendum may either find one
+       of them a winner or result in the Election having no winner.
+
+A natural interpretation of the rule is that the selection of a Candidate
+as the winner of an Election is superceded by a result of no winner. Thus,
+the election ceases to have a winner when any such condition applies. In
+the case of this CFJ, there is a seven-day window period which the Vote
+Collector may publish the list of Candidates and announce a winner. After
+that time e may only announce that election has ended with no winner (but
+e is still required to publish the list of Candidates).
+
+However, the rule is poorly worded. The rule only takes an effect when the
+Vote Collector announces the identity of the winner but there is no
+requirement for em to do so in a set time (the rule does make em
+responsible for announcing the results). It is the court's opinion that
+this announcement is separate from any other announcement and publication
+required by that rule. Thus, even if the Vote Collector correctly
+publishes the fact that there was only one Candidate, e may decline to
+announce em the winner of the Election. Even worse, if the Vote Collector
+is deregistered before announcing the winner, it is not possible for em to
+announce that the Election has no winner (see Rule 1755 "No Non-Player
+Responsibilities"). In such a case, the Election may continue
+indefinitely. This seems like a serious bug in the Ruleset.
+
+========================================================================
+
+Judge t's Evidence:
+
+Rule 1445/16 (Power=1)
+Defaults for Elections
+
+      When an Election is required and the procedure is not defined
+      elsewhere, the following Standard Election Procedure shall be
+      used.  Details specified herein are defaults which may be
+      modified by other Rules for specific situations.
+
+      * Vote Collector: The Collector is responsible for taking
+        nominations, collecting and tallying the Votes, and announcing
+        the results.  The Vote Collector is the Speaker at the time
+        the Election begins.
+
+      * Disappearance of Vote Collector: If the Vote Collector
+        deregisters or is deregistered before announcing the winner of
+        the Election, then the Election has no winner.
+
+      * Nominator: A Nominator is an entity permitted to Nominate a
+        Candidate in an Election.  Only Active Players are Nominators.
+        Activity is measured at the time a Nomination is sent.
+
+      * Prospective: A Prospective is an entity permitted to be
+        Nominated as a Candidate in an Election.  Only Active Players
+        are Prospectives.  Activity is measured at the time a
+        Nomination is sent.
+
+      * Nominating: A Nominator Nominates a Prospective by sending a
+        message to the Vote Collector during the Nominating Period,
+        indicating the Election and the Prospective.  If the
+        Prospective is not explicitly identified, then it is the same
+        as the Nominator.
+
+      * Candidates: A Candidate for an Election is a Prospective who
+        has been Nominated in that Election.
+
+      * Retraction: A Nominator may retract eir Nomination by sending
+        a message to the Vote Collector during the Nominating Period,
+        indicating the Election and the Prospective.  If the
+        Prospective is not explicitly identified, then it is the same
+        as the Nominator.
+
+      * Declination: A Prospective may decline eir Nomination by
+        sending a message to the Vote Collector during the Nominating
+        Period, indicating the Election.  Upon doing so, e may not be
+        re-Nominated in that Election by anyone but emself.
+
+      * Mode of Nominations: There are three Modes of Nominations:
+        Selfish, Selfless, or Open.  The Vote Collector may specify a
+        Mode of Nominations when e announces the start of the
+        Election; if e does not, then the Mode is Selfish.
+
+        (a) In a Selfish Election, a Nominator may Nominate only
+            emself.
+        (b) In a Selfless Election, a Nominator may not Nominate
+            emself.
+        (c) In an Open Election, a Nominator may Nominate any
+            Prospective.
+
+      * Start of Nominations: The Nominating Period begins at the time
+        of the first correct and legal announcement that an Election
+        has begun, as defined in other Rules.  Such an announcement
+        must include the identity of the Vote Collector.
+
+      * Duration of Nominations: The Nominating Period lasts for one
+        Week.  All Nominations received by the Vote Collector outside
+        of the Nominating Period have no effect.
+
+      * Secrecy:  Nominations need not be kept secret.
+
+      * End of Nominations: As soon as possible after the end of the
+        Nominating Period, the Vote Collector shall publish a list of
+        all Candidates.  If e does not do this as soon as possible,
+        then the Election has no winner.
+
+      If there are no Candidates, then the Election has no winner.
+
+      If there is exactly one Candidate, then e is the winner of that
+      Election.
+
+      If there are two or more Candidates, then a Referendum begins
+      when the Vote Collector publishes the list of Candidates.  This
+      is a standard Referendum, with the following exceptions:
+
+      * Vote Collector: The Vote Collector for the Referendum is the
+        same as the Vote Collector for the Election.
+
+      * Vote Values: A Vote is the name of exactly one Candidate for
+        the given Election.  Words which are effectively synonymous
+        with these are also permissible.
+
+      * Failure of Referendum: If the Referendum fails for any reason
+        (e.g. Quorum is not achieved), then the Election has no
+        winner.
+
+      * Adoption: The winner of the Election is the Candidate for whom
+        the most Votes were cast.  If two or more Candidates are tied
+        for most Votes, then the Speaker shall choose one of those
+        Candidates, who becomes the winner when the Speaker announces
+        eir choice.  The Speaker shall announce eir choice as soon as
+        possible after the Vote Collector announces the results of
+        Voting.
+
+      * Effectiveness: An Election takes effect when the Vote
+        Collector correctly announces the identity of its winner.  The
+        effect of an Election is defined by other Rules.
+
+========================================================================

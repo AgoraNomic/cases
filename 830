@@ -1,0 +1,222 @@
+>From nomic-official-owner@teleport.com  Thu Nov 16 03:26:44 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id DAA25277 for <blahedo@quincy.edu>; Thu, 16 Nov 1995 03:26:40 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id BAA19365 for nomic-official-outgoing; Thu, 16 Nov 1995 01:21:23 -0800
+Received: from wing3.wing.rug.nl (wing3.wing.rug.nl [129.125.21.3]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id BAA19352 for <nomic-official@teleport.com>; Thu, 16 Nov 1995 01:21:18 -0800
+Message-Id: <199511160921.BAA19352@desiree.teleport.com>
+Received: by wing3.wing.rug.nl
+	(1.37.109.8/16.2) id AA03039; Thu, 16 Nov 1995 10:20:37 +0100
+>From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 830 Judgement: TRUE
+To: nomic-official@teleport.com
+Date: Thu, 16 Nov 95 10:20:36 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+======================================================================
+			JUDGMENT CFJ 830
+
+Rule 1529 should be interpreted as granting Statutes the power to
+legally bind Players within the Jurisdiction of the Compact with
+which the Statutes are associated.
+======================================================================
+
+Judge:		Zefram
+Judgement:	TRUE
+
+Eligible:	Andre, Chuck, Coco, Dave Bowen, elJefe, favor, KoJen, 
+		Michael, Morendil, Oerjan, Saltwater, Vanyel, Zefram
+
+Not Eligible:	
+Caller:		Steve
+Barred:		Wes
+On Hold:	
+1005:		
+
+Effects:	Zefram gains 3 Points for timely Judgement
+		The Rulekeepor must annotate 1529 with the Statement
+		  of the CFJ
+
+======================================================================
+
+History:
+  Called by Steve, 10 Nov 1995, 13:05 +1100 (EST)
+  Assigned to Zefram, 10 Nov 1995, 11:24 MET
+  Judged TRUE by Zefram, 15 Nov 1995, 16:32 +0000 (GMT)
+
+======================================================================
+
+Requested Injunction:
+
+I request that Rule 1529 be annotated with a copy of the Statement.
+
+======================================================================
+
+Arguments:
+
+First, the text of the relevant part of Rule 1529:
+
+      The Compact of an Organization consists of either or both of the
+      following elements:
+
+         i) Statutes; defined as that collective text which is legally
+            binding under the Rules, and must be obeyed by Players
+            within the Compact's Jurisdiction as if it was a part of
+            the Ruleset.
+
+
+Rule 1529 contains a definition of Statutes. But definitions have two
+different uses. They may be used to pick out what things will qualify
+as instances of the concept defined, which I call the 'definitive'
+use, and they may be used to indicate what properties a thing will
+have which is already known (by other means) to be an instance of the
+thing defined, which I call the 'descriptive' use.
+
+This distinction is a real one, and is in use elsewhere in the Rules.
+Consider, for example, Rule 206, which contains both uses:
+
+      A Voting Entity is an Entity which is generally authorized by
+      the Rules to cast a vote or votes on a Proposal...
+
+      ...only those Entities designated by the Rules to be Voting
+      Entities are Voting Entities. Players and Groups are Voting
+      Entities.
+
+The first sentence gives a decriptive definition: it says what
+properties things will have which we have antecedently indentified as
+a Voting Entity. The second sentence is a definitive definition: it
+states what will qualify as an instance of a Voting Entity. (And
+then the third sentence kicks in and gives two examples of things
+which qualify as Voting Entities, and hence have the properties
+ascribed to Voting Entities in the descriptive definition.)
+
+Conflating these two uses quickly leads to confusion. In the case
+of R.206, it would lead to the insistence that Players and Groups
+are not really Voting Entities, since no Rule, apart from Rule 206,
+says that Players and Groups are generally authorized by the Rules to
+cast a vote or votes on a Proposal. But that is as unnecessary as it
+is absurd: descriptive definitions are not intended to pick out
+instances of the thing defined.
+
+Similarly, in the case of Rule 1529, this conflation leads to
+the insistence that no Organizations really have any Statutes,
+since there is no Rule which says of a Group's Ordinances, or
+of a Contest's Regulations, or of the Compacts of any other
+kind of Organization, that they are collective texts which
+are legally binding under the Rules. But that, too, is absurd
+and unnecessary: other Rules, (specifically Rule 1533) tell
+us how Compacts are created, and so pick out which things
+are Compacts. The definition in Rule 1529 is clearly descriptive,
+indicating that things antecedently known to be Statutes are
+legally binding. Hence the Statement is TRUE.
+
+======================================================================
+
+Reasoning of the Judge:
+
+The definition of Statutes in Rule 1529 is the only one in the Rules.
+In fact, it is the only part of the Ruleset that states any of the
+properties of Statutes at all.  The other uses of the word "Statute"
+make use of it as a defined term.  Were it not for this use I might
+consider the definition in Rule 1529 to merely be giving the label
+"Statute" to certain Nomic Entities with the described properties.  But
+this use requires that Statutes be defined.
+
+Rule 1529 must therefore be taken as a definitive definition of
+Statutes (to use the Caller's phraseology).  I judge this CFJ TRUE.
+
+======================================================================
+
+Injunction:
+
+The CFJ having been judged TRUE, I make the following injunction:
+
+The Rulekeepor shall annotate Rule 1529 with the statement of this
+CFJ.
+
+======================================================================
+
+Evidence:
+
+1. Rule 1529.
+2. Rule 206.
+3. Rule 1533.
+
+----- 1. Rule 1529 -----
+
+Rule 1529/0 (Mutable, MI=1)
+Compacts: Statutes, and Warranties
+
+      The Compact of an Organization consists of either or both of the
+      following elements:
+
+         i) Statutes; defined as that collective text which is legally
+            binding under the Rules, and must be obeyed by Players
+            within the Compact's Jurisdiction as if it was a part of
+            the Ruleset.
+
+        ii) Warranties; defined as that collective text which requires
+            Players within the Compact's Jurisdiction to either obey
+            it or suffer penalties defined within the Rules or the
+            Compact.
+
+      A Compact may only possess those elements allowed it by the
+      Rules defining its Class of Organization.  If these Rules do not
+      specify, the Compact may only consist of Statutes.
+
+----- 2. Rule 206 -----
+
+Rule 206/5 (Mutable, MI=1)
+Voting Entities and Votes
+
+      A Voting Entity is an Entity which is generally authorized by
+      the Rules to cast a vote or votes on a Proposal, although other
+      Rules may withdraw this authorization from a Voting Entity in
+      specific circumstances without that Entity thereby ceasing to
+      be a Voting Entity. No Entity is permitted to vote on a
+      Proposal unless it is a Voting Entity, and only those Entities
+      designated by the Rules to be Voting Entities are Voting
+      Entities. Players and Groups are Voting Entities.
+
+      Each Voting Entity has two votes on a Proposal, unless another
+      Rule says otherwise. However, no such Entity shall have more
+      than five votes on any Proposal, regardless of what any other
+      Rule may say to the contrary. The casting of any votes in
+      addition to an Entity's first vote may only be achieved by the
+      casting of Extra Votes, if that is permitted, as specified in
+      other Rules.
+
+----- 3. Rule 1533 -----
+
+Rule 1533/0 (Mutable, MI=1)
+Creation of Organizations, and Their Compacts
+
+      Organizations (and, simultaneously, their initial Compacts) are
+      created in the following manner:
+
+      A set of Players, known as the Foundors, sends a message to the
+      Notary containing the following information:
+
+         i) The Class of the created Organization.
+        ii) The Unique Name of the particular Organization being
+            created.
+       iii) The inital Compact for the proposed Orginization.
+        iv) Any information required by Rules governing that specific
+            Class of Organization.
+
+      The Organization is created and is in force once the Notary
+      receives the above information from all required Foundors.
+
+      The set of required Foundors is specified within the Rules
+      defining the particular Class of Organization, but they must be
+      from within the Jurisdiction of the new Organization's Compact.
+      Additional restrictions on the set of Foundors can be made by
+      those Rules.
+
+      This Rule defers when other Rules specifically claim precedence
+      over its requirements. Otherwise, these requirements take
+      precedence.
+
+--------------------------------------------------------------------

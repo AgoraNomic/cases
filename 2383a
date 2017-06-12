@@ -1,0 +1,236 @@
+============================  Appeal 2383a  ============================
+
+
+Panelist:                               woggle
+Decision:                               OVERRULE/NOT GUILTY
+
+
+Panelist:                               omd
+Decision:                               AFFIRM
+
+
+Panelist:                               G.
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Appeal initiated:                       25 Feb 2009 21:15:31 GMT
+Assigned to woggle (panelist):          26 Feb 2009 18:21:14 GMT
+Assigned to omd (panelist):             26 Feb 2009 18:21:14 GMT
+Assigned to G. (panelist):              26 Feb 2009 18:21:14 GMT
+G. moves to AFFIRM:                     26 Feb 2009 19:12:34 GMT
+omd moves to AFFIRM:                    26 Feb 2009 19:59:53 GMT
+Final decision (AFFIRM):                26 Feb 2009 20:19:58 GMT
+woggle moves to OVERRULE/NOT GUILTY:    26 Feb 2009 20:19:58 GMT
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Guilt here is admitted.  The defendant and prosecution
+didn't give extenuating circumstances for higher or lower punishments.
+The reformation of the sentencing rules generally implies that Silence
+is the default (although this isn't set by precedent one way or the
+other).  Also, while precedent holds that you can generally not pay
+much too much attention to a SHOULD, it's uncertain whether you can
+recklessly, knowingly, and flagrantly disregard a SHOULD without
+breaching the Rules.  -G.
+
+========================================================================
+
+Panelist G.'s Arguments:
+
+I move to AFFIRM.  At issue is the precedent of what SHOULD means. Let me
+make this clear:  In the absence of a confession, it is correct to always
+assume reasonable doubt, and assume that a player gave some reasonable
+thought to ignoring a SHOULD.  However, (a) for the SHOULD language to
+have any meaning at all, it is reasonable to consider complete, utter
+and knowing reckless disregard for a SHOULD as a breach and (b) it is
+appropriate to take a defendant's confession of reckless disregard at
+face value; we do not need to protect players from themselves.  -Goethe
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+On Thu, 26 Feb 2009, Ed Murphy wrote:
+> Goethe wrote:
+>
+>> [Note: (not part of judgement) I assume we are judging on the
+>> culpability rather than the sentencing here?]
+>
+> Correct, I explicitly appealed culpability.
+
+Ok I certainly stand by Affirm then;  the place to take into
+account Sgeo being silly is in sentencing or a sentence appeal
+(e.g. considering discharge).  -g.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+If SHOULD as defined leads to an infinite regress, this does not mean
+it's impossible to breach. To be legal, Sgeo would have had to read the
+ruleset, or thought about reading the ruleset and decided not to, or
+thought about thinking about reading the ruleset and deciding not to and
+deciding not to, etc.. This is an infinite regress, but note that the
+higher elements in it are so ridiculously convoluted that I'm not
+certain humans are even capable of that level of indirected thinking. In
+any case, even if there are an infinite number of ways to not break the
+rule, that doesn't mean Sgeo didn't break the rule, if he met none of
+those conditions. (Compare the Metagoracontractian Metareligion; the
+whole concept of "contracts all the way down" was ridiculous, and ehird
+was rightly seen not to have been obligated by the infinite chain.
+Likewise, Sgeo cannot rely on an infinite chain of alternative
+obligations here; in order to meet the SHOULD, then he either has to do
+the task, or the rule-defined alternative, or the rule-defined
+alternative to the rule-defined alternative, etc. It is not the case
+that Sgeo platonically fulfils some sort of "obligation at infinity",
+just as it was not the case with ehird's contracts.)
+
+========================================================================
+
+Panelist omd's Arguments:
+
+I move to AFFIRM.  I have not carefully weighed the full implications
+of my failure to include arguments.
+
+========================================================================
+
+Panelist woggle's Arguments:
+
+I move to OVERRULE to NOT GUILTY. The definition of SHOULD in R2152 is
+either recursive or uses the ordinary language "should" itself to
+refer to the actual act of omission which the defendent has omitted.
+The present-day ordinary language 'should' does not usually express a
+requirement and is usually thus distinguished from 'shall'. The rules
+use of 'ENCOURAGED' and 'RECCOMMENDED' as synonymous for 'SHOULD'
+further suggests this interpretation. Indeed, the use of the word
+'should' seems to be a deliberate weakening of the same language in
+BCP 14 from which MMI is apparently derived ("the full implications
+_must_ be understood...." [emphasis added]). In light of this, it is
+not appropriate to interpret SHOULD as proscribing anything.
+
+And even if the above were not the better interpretation, surely the
+ambiguity on this matter would be sufficient to fail to satisfy
+R1504's condition (d) "the Accused could have reasonably believed that
+the alleged act did not violate the specified rule".
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+My issue here is that the defendant specifically and directly confessed
+to it.  If e'd provided either a defense like yours or complete silence,
+that would be fine - or at least enough for (d).  I think we need to
+take such confessions at face value, or do you think it's a judge's
+burden to decide when a defendant really "meant it"?  (And if so, isn't
+that a matter for sentencing anyway?)  We generally accept, prima facie,
+that what people say about unconfirmable matters (e.g. what they were
+thinking at the time) is true.  And people should have the right to say
+what they want, even self-damaging things; it's more harmful to the game
+to say "I know you confessed, but we're going to ignore that".  -G.
+
+========================================================================
+
+Gratuitous Arguments by woggle:
+
+(d) deliberately does not care about what the defendent actually
+thinks, only what e could have thought. Therefore, there is no reason
+to consider the defendent's admission in deciding whether it is
+acceptable.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Um, IIRC I wrote (d), and I beg to differ on it what it deliberately
+cares about.  -G.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+I agree that Sgeo did not meet any of the conditions, but the rules
+don't clearly define failure to meet any of the conditions as being a
+violation.  "SHOULD" is defined by Rule 2152, which also defines some
+things that clearly pertain to violations (sections 2, 5, and 6) and
+some other things that clearly don't (sections 1 and 4).  "should" is
+loosely defined by Rule 2152, giving Rule 754 an opportunity to get
+involved; ordinary-language definitions seem to run about 70% flat-out
+obligation and 30% "obligation, propriety, or expediency" equally
+weighted (except for order of appearance within a single clause).
+
+Rule 2152 is based on RFC 2119, which defines SHOULD non-recursively
+("the full implications must" etc.) and SHOULD NOT recursively ("the
+full implications should" etc.).
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+http://www.merriam-webster.com/dictionary/should
+http://dictionary.reference.com/browse/should
+
+http://www.ietf.org/rfc/rfc2119.txt
+
+========================================================================
+
+Gratuitous Arguments by Taral:
+
+I noticed this too:
+
+      6. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+         described action violates the rule in question.
+
+      7. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+         the described action, the full implications of failing to
+         perform it should be understood and carefully weighed.
+
+#6 explicitly says "violates the rule", and #7 makes no mention of
+violating the rule. However, I interpreted this as a simple omission
+-- a literal reading here results in a paragraph with no effect other
+than on a meta-game level.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Which, as noted, is exactly how I intended #7 to operate.  (We have
+other rules with even less significant effect.)  If the courts decide
+otherwise, then so be it, but until then I'm not conceding the issue.
+
+========================================================================
+
+Gratuitous Arguments by Taral:
+
+The problem is that SHOULD is used for several important functions. I
+read SHOULD as "should, unless you can justify yourself to a judge".
+
+========================================================================
+
+Gratuitous Arguments by Sgeo:
+
+As far as I remember, my confession was not that I violated a rule,
+just that I failed to throughly consider the consequences of not
+reading the ruleset during read the ruleset week.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+This-- and e contested the NoV (as far as I can see, the only message
+the defendant sent during the case!) with the following, which the
+CotC probably should have included in the case history:
+
+> I Contest this NoV on the basis that it is unclear whether it is
+> possible to violate a SHOULD.
+
+Whether or not someone confessing to breaking the rules should be
+considered guilty prima facie, this isn't that case.  Goethe, if you
+don't want the judge to have to look the case up, why did your proto
+remove the pre-trial phase?
+
+========================================================================

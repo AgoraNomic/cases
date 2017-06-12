@@ -1,0 +1,153 @@
+==============================  CFJ 2793  ==============================
+
+    The message quoted in evidence began a coup.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       04 May 2010 05:58:00 GMT
+Assigned to Machiavelli:                08 May 2010 17:47:14 GMT
+Machiavelli recused:                    08 May 2010 21:53:36 GMT
+Assigned to G.:                         09 May 2010 16:28:39 GMT
+Judged TRUE by G.:                      10 May 2010 17:32:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Given the original context of discussing recent mistakes, I
+also thought coppro was being intentionally ambiguous, which arguably
+means e /was/ being ambiguous (even if it was accidental).  Oh, and
+trivially FALSE if coppro isn't Admiral of the Navy for some reason.
+
+========================================================================
+
+Caller's Evidence:
+
+coppro wrote:
+
+> On 05/03/2010 08:44 AM, Geoffrey Spear wrote:
+>> On Mon, May 3, 2010 at 10:17 AM, Sean Hunt<rideau3@gmail.com>  wrote:
+>>> Since I started a coup last week.
+>>
+>> Care to provide a message-ID?
+>
+> http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2010-April/
+025537.html
+
+the body of which is as follows:
+
+> On 04/26/2010 03:54 PM, Ed Murphy wrote:
+>> coppro wrote:
+>>
+>>> On 04/26/2010 08:34 AM, Ed Murphy wrote:
+>>>> coppro wrote:
+>>>>
+>>>>>> 6713 0 3.0 Murphy Green Eliminate past repetitive wins
+>>>>> FORx12
+>>>>
+>>>> I have you at 2 rests, giving you a voting limit of 0 here
+>>>> (and 4 ->   6 on the others due to Chief Whip).
+>>>
+>>> Hrm. I have me at 1 Rest (which I gave myself), and I am certainly not
+>>> Chief Whip.
+>>
+>> Oh dear, when did that change?  I'll fix the DB later today.
+>
+> My last Formation of the Government when the Clout scam failed
+> accidentally ended up giving comex the Chief Whip and myself the Admiral
+> of the Navy by accident; and by the time I noticed I'd lost the power to
+> fix it.
+>
+> In other news, I announce the ceremonial shilling of the palace.
+>
+> -coppro
+
+comex's conversation with coppro regarding the above:
+
+> On Mon, May 3, 2010 at 6:45 PM, Sean Hunt <rideau3@gmail.com> wrote:
+>>> I'm still curious: what were you announcing about the Palace's official
+>>> coin?
+>>
+>> Oops, typo. Not fatal.
+>
+> Wait, really?  I thought you were being intentionally ambiguous.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+On one hand, we don't want to discard actions for trivial typos.  On
+the other hand, we should allow players to be able to claim an altered
+after the fact, or allow players to disguise certain public actions as
+others (e.g. AGAINT) - public should generally mean publicly transparent.
+What tests should we use on this?
+
+In no particular order:
+
+1.  Intent.  Did the actor, at time of posting, have intent to claim a
+deception based on the typo?  In the example of AGAINT, there was an
+intent to create a deliberate error for deception.  In this case, I take
+the actor's word, and the fact that e was surprised that no one had
+followed up on the coup, as evidence that eir intent was straightforward
+(nonwithstanding things like keyboard distance: things like auto-correct
+make that sort of proof hard to support).  Intent is not the most
+important test, as it only arises after ambiguity is raised, but it is
+worthy of consideration.
+
+2.  Rules Meaning.  Does the typo have its own meaning in the rules?  In
+the case of AGAINT, there were two potential rules-based meanings (AGAINST
+versus the private AGAINT=FOR deal).  In this case, "shilling" has not
+only no rules meaning, but no particular synonym for a rules meaning,
+especially in context of the palace.
+
+3.  Importance.  Do the rules place very specific extra requirements for
+clarity on this particular type of action (e.g. requiring "clear
+specification" etc.).  Not in this case.
+
+3.  Common meaning.  Does the typo have its own meaning outside of the
+rules, in common parlance?  "Shilling", in fact, does.  As a noun for a
+coin the sentence is nonsense, but as a verb it has a meaning in terms of
+a deliberate deception.  This could easily indicate that the actor was
+trying to make a rather obscure joke with the intent of it being non-
+effective.  Additionally, the context of the whole message (talking about
+correcting other errors) might support the joke idea. Several players
+clearly interpreted it this way.
+
+So, this action attempt passes the first three tests (the ambiguity was
+not intended, nor did it create an obvious ambiguity between two rules-
+based actions, nor does the action in question require extra certainty).
+It's meaning in common parlance is semi-nonsense, but not complete
+nonsense - sufficient enough that some other players, including relevant
+officers, thought it was intentional nonsense.  Should this accidental
+meaning be sufficient to invalidate the attempt?
+
+This is very, very much an edge case.  But in this judge's opinion, if we
+judge this to have failed, we are in fact, in this judge's opinion, acting
+against the best interests of the game.  It would in fact make it easier
+for players to introduce ambiguity through future AGAINT-type scams ("hey,
+that failed because I made a typo!")  Rather, I think it is better to accept
+actions that generally say what they mean, in order to limit ambiguity
+as to what game actions are actually performed.  This would force would-be
+scammers to be more ambiguous than this (e.g. "obviously" ambiguous) in
+order for their actions to be claimed to fail.
+
+Therefore I judge TRUE.  Semi-ironically, this likely means that "shilling"
+will enter Agoran vocabulary in a similar manner to AGAINT, thereby making
+it ambiguous enough to fail in future actions due to this clarifying
+judgement.
+
+========================================================================

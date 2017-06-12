@@ -1,0 +1,194 @@
+==============================  CFJ 1323  ==============================
+
+    If each of two entities owes the other some amount of the same
+    fungible property, then by agreement of the Prime Executors for the
+    two entities and without either entity forgiving the other's debt:
+    (a) if the debts are of equal amounts, both may be satisfied; and
+    (b) if the amount of one debt is less than that of the other, then
+    the amount of the latter debt may be reduced by that of the former,
+    and the former debt may be satisfied.
+
+========================================================================
+
+Caller:                                 Maud
+Motion:                                 1323.300
+Decision:                               DENY
+
+
+Judge:                                  Murphy
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Maud:                         30 Sep 2001 07:47:41 GMT
+Motion 1323.300 by Maud:                30 Sep 2001 07:47:41 GMT
+Assigned to Murphy:                     30 Sep 2001 09:11:05 GMT
+Assigned to G.:                         10 Oct 2001 10:01:37 GMT
+Murphy recused:                         10 Oct 2001 14:59:30 GMT
+Judged FALSE by G.:                     16 Oct 2001 17:46:26 GMT
+Motion 1323.300 DENIED by Maud:         16 Oct 2001 17:46:26 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+According to Rule 1596 (c), a debt may be satisfied when the debtor is
+deemed to have transferred the owed properties to the creditor.  If
+the two debts are of equal amounts, the results of one entity
+transferring property to the other and the latter returning it are to
+leave each entity with the amount of that property e had previously,
+and to satisfy both debts.  If the amount of one debt is less than
+that of the other, then the results of the entity that is debtor of
+the larger debt transferring property to the other and the latter
+returning it are to leave each entity with the amount of that property
+e had previously, to reduce the amount of the first debtor's debt by
+the amount of the transfer, and to satisfy the other debt.  In other
+words, the only differences are the satisfaction or reduction of debts
+and transfers that, taken together, don't change the amounts of
+property held by the two entities.
+
+Deemings of transfer are not regulated by the Rules, and so they are
+permitted except where that would not be in the best interests of the
+game.  It is in the best interests of the game for the deemings of
+transfer resulting in the satisfaction of the debts mentioned in the
+CFJ to be permitted, because doing so reduces unnecessary work on the
+part of the Recordkeepor of the property involved.
+
+========================================================================
+
+Motion 1323.300 by Maud:
+
+I submit a Motion pursuant to this CFJ that the Judge order the
+Rulekeepor to annotate Rule 1596 (Debt) with the text "Two entities that
+owe each other the same amount of a fungible property may cause both
+debts to be satisfied without forgiving the debts.".
+
+========================================================================
+
+Motion 1323.300 by Maud:
+
+The judgement is based on a mistaken interpretation of "voted upon".
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The Court chooses to rephrase the question slightly to highlight its
+implications.  Take the case where a Player incurs an auction debt e
+wishes to satisfy with an upcoming salary, but the Bank runs out of Stems
+to pay the salary.  [As pointed out by Blaise, even one unit of currency
+would be sufficient to satisfy both debts through repeated transfers, for
+it could be passed back and forth "N times." But since this "N times"
+would (possibly) require 2N sequential ping-pong messages, it imposes
+significant recordkeeping overhead.]
+
+If the Caller's Statement were judged True, not only would no transfers be
+required, but no 'cash in hand' would be required in the possession of
+either entity.  So the question can be rephrased as: "If neither entity
+has *any* Units of the 'cash in hand' to make eir part of the transfer,
+can the mutual debts be satisfied or deemed satisfied without resorting to
+forgiveness?" (The CFJ specifically forbids forgiveness).
+
+The Court can find two possible mechanisms through which the Rules might
+allow this mutual satisfaction to take place.  The first one is suggested
+by the Caller:
+
+> According to Rule 1596 (c), a debt may be satisfied when the debtor is
+> deemed to have transferred the owed properties to the creditor.
+
+Clearly, the currency cannot be transferred if it does not exist in the
+possession of either entity.  Can it be legally "deemed" to have been
+transferred, as 1596(c) allows, merely by mutual agreement between the two
+parties?
+
+Transfers themselves are strongly and specifically regulated by Rule 1598,
+and results in a change in Property possession, which is, in the words of
+1942 "the legal status of possessing a Property."  And in the words of
+Rule 1942 this legal status of ownership may not be changed "except in
+accordance with the Rules."  A "deemed transfer," while mentioned in
+1596(c), is not elsewhere defined, and thus not in accordance with the
+Rules.
+
+It could be argued that debts are a legal status independent of the
+Properties themselves; however, the only method given in 1596(c) for
+resolving the legal status of debts defers to the change in legal status
+of ownership governed by transfers, so the Court rejects this argument.
+
+It also could be argued that no *net* change in a fungible property is
+equivalent to no change in the legal status of possession overall and thus
+is not governed by Rule 1942 (As written in the CFJ Statement, we are
+considering fungible property).  As described in Rule 1467, "it is not
+necessary for the Recordkeepor of a Currency to track the individual
+ownership of each unit; rather, it is sufficient to maintain a record of
+the total number of units possessed by each entity which possesses any
+number of units of that Currency."  Further, the recordkeepor for a
+Currency is *not* a recordkeepor for debts of that Currency.
+
+However, the Court rejects this argument as well by virtue of Rule
+1598(e): "The Recordkeepor of a Property shall maintain a record of all
+transfers of that Property. E shall retain a record of each Notice of
+Transfer which e receives (whether valid or not) involving that Property."
+There is no reason to suppose that a "deemed" transfer would require a
+lesser standard of recordkeeping.  Since a recordkeepor is required to
+track both halves of a mutual deemed transfer even with no net change, a
+mutual deemed exchange *would* constitute a change in the legal status of
+ownership in creating a legal requirement for retaining the record.
+
+The second possible mechanism for mutual debt satisfaction may be
+consolidation.  Rule 1596(a) defines a debt as "an obligation arising
+under the Rules for one entity (the "debtor") to make a transfer of one or
+more Properties to some other entity (the "creditor")."  If an debtor has
+more than one obligation to the same creditor, can they be combined and
+treated as a single obligation (at the agreement of both parties)?  If so,
+can mutual obligations be combined into a resulting net obligation?
+
+The Court rejects this possibility as well.  The distinct nature of
+individual debts is strongly supported by game custom as well as by Rules
+implications; for example, in the satisfaction of multiple auction debts,
+or in the punishment for indebtedness which may be applied multiply for
+individually incurred debts.
+
+The Caller later (unofficially) clarified the issue of eir CFJ:
+
+> The claim is that the (mutual) creditors and debtors may agree to
+> construe the debts as being partially or fully satisfied (dependent on
+> the conditions outlined in the statement) and that this agreement is
+> sufficient for this change in debts to be approved by the rules.
+
+It is still possible that if two parties Agree that mutual, cancelling
+debts, are satisfied, that they would be considered satisfied.  For it is
+not the responsibility of anyone but the Creditor, the Debtor, and the
+Court (if involved in a dispute) to keep records of any debt.  However, by
+definition, it is possible that such an agreement constitutes forgiveness
+even if "forgiveness" is not mentioned in the agreement.
+
+  1596(d) A debt is forgiven when the creditor of a debt sends a
+          notice to the debtor that e is forgiving the debt.
+          Forgiveness may be for the entire debt or for any part
+          thereof.  The effect forgiving a debt is as if the debtor
+          had made a payment on the debt for the portion forgiven,
+          except that no transfer of property takes place thereby.
+
+Such an agreement could be made conditional upon the other's forgiveness
+of a mutual debt: since such a mutual agreement is not a transfer itself,
+it is not goverened by the precedent of forbidding conditional transfers.
+If it were allowed that such an agreement somehow did not constitute
+forgiveness but rather a "deemed transfer", it would leave an
+uncomfortable difficulty of determining into which category each agreement
+falls.
+
+It is better to assume, a priori, that such a mutual agreement constitutes
+forgiveness, even if the words "forgiveness" do not exist in the agreement
+text.  This is also the best simplification of recordkeeping, for only the
+debtor and creditor need be informed unless a dispute arises.  Since the
+mechanism of forgiveness is specifically forbidden from the Court's
+consideration, for the reasons outlined above the Court delivers JUDGEMENT
+of FALSE.
+
+========================================================================

@@ -1,0 +1,269 @@
+>From nomic-official-owner@teleport.com  Fri Jul 21 23:08:51 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id XAA07618 for <blahedo@quincy.edu>; Fri, 21 Jul 1995 23:06:48 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id KAA18693 for nomic-official-outgoing; Fri, 21 Jul 1995 10:09:11 -0700
+Received: from audumla.students.wisc.edu (students.wisc.edu [144.92.104.66]) by desiree.teleport.com (8.6.10/8.6.9) with ESMTP id KAA18478 for <nomic-official@teleport.com>; Fri, 21 Jul 1995 10:08:19 -0700
+Received: from [144.92.180.142] by audumla.students.wisc.edu;
+          id MAA14249; 8.6.9W/42; Fri, 21 Jul 1995 12:06:54 -0500
+X-NUPop-Charset: English
+Date: Fri, 21 Jul 95 12:05:06 CST  
+>From: "Charles E. Carroll" <ccarroll@students.wisc.edu>
+Message-Id: <43514.ccarroll@students.wisc.edu>
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 787
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Judgement of CFJ 787
+
+elJefe receives 5 points for speedy Judgement.
+
+============================================================
+
+CFJ 787
+
+Caller: Andre
+
+Statement: KoJen was in Violation of Rule 663 when he issued an
+  Injunction with CFJ 781.
+
+Barred: KoJen, TAL
+
+Requested Injunction:  That the annotation, asked for in said
+  Injunction, will be removed if already added to the Ruleset,
+  and will not be added to the Ruleset otherwise. 
+
+Judge: elJefe
+  Judgement: TRUE
+  Injunction: none
+
+Effects reported by COTC (* indicates new to this message):
+  JonRock gains 3 Blots
+ *elJefe gains 5 points due to speedy Judgement
+
+============================================================
+
+============================================================
+
+History:
+
+  Called by Andre, July 7 1995, 10:48 METDST
+  Assigned to JonRock, July 7 1995, 8:56 UTC
+  Defaulted by JonRock, July 14 1995, 8:56 UTC
+  Assigned to elJefe Fri, 21 Jul 1995 00:49:09 -0500
+  Judged TRUE by elJefe Fri, 21 Jul 1995 12:47:06 -0400
+  Judgement published {as of this message}
+
+============================================================
+
+Arguments of Caller (Andre):
+
+Rule 663 says, among other things:
+
+      A Judgement may not be accompanied by an Injunction unless it is
+      specifically permitted elsewhere in the rules. An Injunction 
+      must be completely consistent with all rules in effect at the 
+      time of issuance, and must be completely relevant to the matter
+      addressed in the corresponding judgement. 
+ 
+
+There are 3 Rules in the Ruleset which permit Injunctions, Rules 665, 789 and 
+908. Rules 908 and 665 do not apply, as they only apply if the CFJ alleges 
+a move is illegal, or if it alleges that someone violated the Rules, which 
+CFJ 781 did not. Furthermore the type of Injunction is mentioned only in Rule
+789. 
+ 
+However, Rule 789 clearly states that it can only be applied if the statement 
+is Judged TRUE, which it wasn't. And so there is no Rule allowing the 
+Injunction issued by KoJen, and so he was in Violation of Rule 663.
+ 
+============================================================
+
+Arguments of Judge (elJefe):
+
+Rule 663 says:
+
+  A Judgement may not be accompanied by an Injunction unless it is
+  specifically permitted elsewhere in the rules. 
+ 
+The only Rule which permits an injunction to annotate a Rule, is
+Rule 789.  Rule 789 only specifically permits such an injunction in 
+the case where the CFJ was Ruled TRUE, which CFJ 781 was not.
+
+Earlier judgements have dealt with the question of illegal injunctions
+(CFJs 697, 714, 716, 724, 729, 735, 736, 773, and 785), and where
+ruled TRUE have often issued injunctions of their own for a Formal
+Apology from the person issuing the illegal injunction.  In fact,
+CFJ 736 explicitly dealt with the question of whether the Game Move
+of making an injunction is can actually occur if the injunction is
+illegal, and held that such a move does occur, but without the
+effects it would have were it legal.
+
+Therefore I find that KoJen did accompany his Judgement of CFJ 781
+with an Injunction, and that this particular Injunction is not
+specifically permitted by any Rule, and this was in violation of
+Rule 663.
+
+I do not issue any injunction with this Judgement.  It is enough to note
+that no annotation has been made, and that the present statement is a
+statement "to the effect" that KoJen's Injunction does not meet the
+criteria for a valid Injunction, and that this judgement supports that
+contention. Therefore by Rule 663 it is illegal and has no legal force.
+
+============================================================
+
+Evidence provided by Caller (Andre):
+
+----------------------------------------
+
+Rule 663/1 (Mutable, MI=1)
+Injunctions--General
+
+      There shall be an entity known as an Injunction, which may 
+      accompany certain Judgements of TRUE, FALSE, or UNDECIDABLE as 
+      provided in the rules. An Injunction is a statement or series of 
+      statements specifying an action or actions which must take 
+      place. If a Judgement is is accompanied by an Injunction, that 
+      Injunction must be published with the Judgement. All players 
+      must abide by the Injunction beginning no later than 72 hours 
+      after its publication unless one of the following conditions
+      then apply: 
+        - The Judgement which the Injunction accompanies is undergoing
+          appeal, currently UNKNOWN as a consequence of the appeal 
+          process, or, has been appealed and SUSTAINED, but a proposal 
+          has been published which would overturn that decision if
+          passed, and said proposal has not failed. 
+        - The validity of the Injunction itself is questioned by a
+          pending CFJ. 
+        - A Judgement upholding the validity of the Injunction is 
+          undergoing appeal, currently UNKNOWN as a consequence of
+          the appeal process, or, has been appealed and SUSTAINED, but
+          a proposal has been published which would overturn that
+          decision if passed, and said proposal has not failed. 
+ 
+      A Judgement may not be accompanied by an Injunction unless it is 
+      specifically permitted elsewhere in the rules. An Injunction 
+      must be completely consistent with all rules in effect at the 
+      time of issuance, and must be completely relevant to the matter 
+      addressed in the corresponding judgement. 
+
+      If any Player believes that an Injunction or any part of it does 
+      not meet the criteria for a valid Injunction, e may submit a CFJ
+      to that effect. If the resulting Judgement supports the 
+      contention that the criteria are not met, the Injunction shall 
+      be considered illegal and shall have no legal force.
+ 
+      This rule takes precedence over all rules governing Injunctions.
+ 
+History: 
+...
+Amended(1) by Proposal 1487, Mar. 15 1995
+
+---------------------------------------- 
+ 
+Rule 789/1 (Mutable, MI=1) 
+Injunctions on Interpretations of Rules 
+ 
+      When a player makes a CFJ alleging that a Rule should be 
+      interpreted in a certain way, e shall also submit a list of 
+      Rules relevant to that CFJ, which must include the Rule in
+      question.  If the statement is Judged TRUE, the Judge may 
+      include with the Judgement an Injuction requiring the Rulekeepor 
+      to annotate the Rule in question with the Statement in the CFJ 
+      and the list of relevant Rules. 
+
+      The annotation shall remain only until one of the Rules in the 
+      list of relevant Rules is changed in any way; or until a CFJ
+      determines that the injunction no longer applies, as described 
+      below.  While it remains, it shall guide the application of that 
+      Rule. 
+
+      If a Player believes that the circumstances which led to the
+      Judgement no longer prevail and the annotation is therefore no 
+      longer applicable, e may submit a CFJ to that effect. If it is 
+      Judged TRUE, the annotation shall be stricken from the rule set.
+ 
+History: 
+... 
+Amended(1) by Proposal 1396, Jan. 29 1995 
+----------------------------------------
+
+============================================================
+
+Evidence provided by Judge (elJefe):
+
+CFJ 781 (excerpt)
+
+  ======================================================================
+  
+                          JUDGEMENT OF CFJ 781 (CORRECTED)
+                  ("The correct interpretation of Rule 1466...")
+
+  ======================================================================
+  
+  Judge:          Michael (defaulted)
+                  KoJen
+  
+  Judgement:      FALSE
+  
+  Caller:         Troublemaker At Large
+  
+  Eligible:       Andre, Chuck, Dave Bowen, elJefe, Ian, JonRock,
+                  Kelly, KoJen, Steve, SugarWater, Swann, Vanyel,
+                  Xanadu, Zefram
+  
+  Not Eligible:   Troublemaker At Large (caller)
+                  Blob (1005)
+                  Coren, Pascal (1005 & On Hold)
+                  Michael (defaulted)
+  
+  Effect:         Michael gains 3 Blots and is not eligible anymore
+                   as a Judge. BEWARE! The 10 Point loss given earlier
+                   does NOT apply.
+                  KoJen gains 3 Points for timely Judgement.
+                  Rule 1446 should be annotated as described in
+                  the Judge's Injunction
+  
+  ======================================================================
+  
+  History:
+    Called by TAL, June 22 1995, 13:16 SET
+    Assigned to Michael, June 23 1995, 09:00 UTC
+    Defaulted by Michael, June 30 1995, 09:00 UTC
+    Assigned to KoJen, June 30 1995, 15:50 UTC
+    Judged FALSE by KoJen, July 6 1995, 15:56 -0400
+  
+  ======================================================================
+  
+  Statement:
+  
+  The correct interpretation of Rule 1466 implies that it does not
+  limit the effect of a Currency Directive on adoption to only one
+  moment in time.
+  
+  Requested injunction:
+  
+  I request that the Judge make an Injunction on the interpetation
+  of Rule 1466, as described in Rule 789.  (Even though this request
+  is not necessary for the Judge to make the Injunction.)
+
+  ======================================================================
+  
+  Decision & Injunction:
+  
+  My judgement on CFJ781 is FALSE.
+  
+  Injunction: Rule 1446 shall be annotated as follows:
+  
+      This Rule should be interpeted such that a Currency Directive causes a
+      one-time change to a Treasury, in the same manner as in involuntary
+      transfer.
+
+...
+
+============================================================
+
+End of CFJ 787
+
+=============================================================

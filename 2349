@@ -1,0 +1,75 @@
+==============================  CFJ 2349  ==============================
+
+    Murphy is leaning.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Jan 2009 19:27:47 GMT
+Assigned to G.:                         23 Jan 2009 23:39:16 GMT
+Judged FALSE by G.:                     25 Jan 2009 00:56:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+These hinge around what "eir" refers to in each case. Both sentences
+have an "eir" which could either refer to something in the same
+sentence, or something in a previous sentence; the posture case is
+dubious due to the large separation between the sentences, whereas the
+key case is much less dubious as the sentences are consecutive and in
+the same paragraph. A construction like "ehird is the Monkey, and any
+player CAN change eir intelligence by announcement." has its eir pretty
+clearly referring to ehird. When split into two sentences, as "ehird is
+the Monkey. Any player CAN change eir intelligence by announcement.",
+does it still mean the same thing? On balance, I think it probably does,
+as long as the sentences are not so ridiculously far apart as to be
+implausible. So I recommend FALSE and TRUE on the two CFJs respectively.
+
+========================================================================
+
+Caller's Evidence:
+
+An excerpt from rule 1871/25:
+{{{
+      Posture is a player switch, tracked by the Clerk of the Courts,
+      with the following values:
+[...]
+      A player CAN flip eir posture to any non-standing value by
+      announcement.
+}}}
+
+On Tue, 2009-01-20 at 19:15 +0000, Alex Smith wrote:
+> On Tue, 2009-01-20 at 10:54 -0800, Kerim Aydin wrote:
+> > On Tue, 20 Jan 2009, Geoffrey Spear wrote:
+> > >> 6059 D 1 2.0 comex               "Voluntary" creation of rests
+> > > FOR
+> >
+> > I've found the scam here I believe; I'm not going to describe it
+> > while this is being voted for in case comex hasn't thought of it :),
+> > but I strongly recommend Against here.  -Goethe
+>
+> I flip Wooble's key to F#.
+>
+> I flip Murphy's posture to leaning and hawkishness to hugging.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The sentence in question:
+      A player CAN flip eir posture to any non-standing value by
+      announcement.
+is also a standalone paragraph, and sufficiently self-contained that
+"eir" clearly refers to "a player" and not the CotC who is mentioned
+as an aside a few paragraphs earlier.  FALSE.
+
+========================================================================

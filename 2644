@@ -1,0 +1,75 @@
+==============================  CFJ 2644  ==============================
+
+    The owner of a Local Election card CAN play it, causing it to be
+    destroyed.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  Walker
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       31 Jul 2009 14:09:50 GMT
+Assigned to Quazie:                     02 Aug 2009 16:10:20 GMT
+Quazie recused:                         16 Aug 2009 19:41:20 GMT
+Assigned to Walker:                     16 Aug 2009 19:49:17 GMT
+Judged FALSE by Walker:                 16 Aug 2009 20:15:55 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+R2256 says the card is destroyed, then later says it's not.
+ R2240 doesn't seem to apply, since the clauses of the rule don't
+claim to take precedence over one another; UNDECIDABLE seems like an
+appropriate judgment.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Contradiction != paradox. We have R217 for this sort of
+thing. ('Cretans' is brought up occasionally too, but that only applies
+to a rule claiming precedence over itself, specifically; maybe it should
+be generalised to all contradictions within rules.) Although it isn't
+obvious whether this is TRUE or FALSE, it's definitely one or the other.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+This has come up before, so it's worth mentioning:  it may be reasonable
+to consider that contradictory clauses in a rule contain implicit
+claims of precedence, (if a rule says "X is true" it is implicitly
+saying it generally takes precedence over statements that X is not
+true).  So R2240 could be applicable here.
+
+On the matter in hand, I should like to add that the paragraph that
+says the card is not destroyed and pretty direct, while the earlier
+sentence that sys the card is not destroyed is a bit less direct, so
+taken as a whole (in a natural reading) the later paragraph *might* be
+considered to be overriding or stronger (e.g. has a greater "as
+naturally written" claim of precedence, as if a "however" is strongly
+implied between the first paragraph and the second).  I'm not pushing
+this argument too strongly, just suggesting it.
+
+========================================================================
+
+Judge Walker's Arguments:
+
+While I am leaning towards G.'s arguments that R2256 contains an
+implicit claim of precedence, even without this claim R217 leads me
+towards this judgment. Common sense and the best interests of the game
+both indicate that Local Election cards could not be played when the
+CFJ was called.
+
+========================================================================

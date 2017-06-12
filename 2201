@@ -1,0 +1,44 @@
+==============================  CFJ 2201  ==============================
+
+    The ratification of the Short Logical Ruleset CAN cause the text of
+    a rule to change.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       30 Sep 2008 11:17:53 GMT
+Assigned to ais523:                     08 Oct 2008 11:43:17 GMT
+Judged TRUE by ais523:                  08 Oct 2008 11:45:52 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 105 takes precedence over Rule 1551 and claims the sole
+authority for changes to the Rules; thus ratification of the Ruleset
+CANNOT change the Rules and is wholly ineffective.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Rule 1551 is an instrument, and a therefore rule 105 allows it
+to make rules changes where permitted by rules other than rule 105, and
+rule 1551 permits itself to make changes. (Note that there is no
+'explicitly' involved here.)
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2201 TRUE, based on my own gratuitous arguments.
+
+========================================================================

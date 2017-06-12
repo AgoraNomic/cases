@@ -1,0 +1,119 @@
+==============================  CFJ 1991  ==============================
+
+    ehird has apologised as required by the judgement of the question on
+    sentencing of CFJ 1943.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  BobTHJ
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       07 Jun 2008 19:48:33 GMT
+Assigned to BobTHJ:                     08 Jun 2008 07:14:38 GMT
+Judged TRUE by BobTHJ:                  09 Jun 2008 14:43:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ehird recently submitted to the public forum a message with a
+subject line indicating that e probably intended it to be an
+apology related to CFJ 1943.
+
+There are several factors that could cause ehird to not have
+apologised correctly, leading to a judgement of FALSE. First, it
+should be noted that although ehird has submitted something to a
+public forum that contains the prescribed words, it was not clearly
+labeled as an apology at all (the only such labeling was in the
+subject line, which is not normative). On the other hand, the rules
+do not require apologies to be labeled as such.
+
+Another possible factor is that the word 'word' is not explicitly
+defined in the ruleset. A rough count of the number of words in
+ehird's message can be obtained by defining 'word' to be a
+sequence of characters surrounded by whitespace that contains at
+least one letter; such a count gives the value 193 (see the evidence
+section). However, there are many potential complicating factors.
+
+First, there are 6 occurences of the character sequence ' - '. This
+is not normally considered to be a word; however, automatic word-
+counting programs often count it as such. ehird has told me
+privately that e used such a program and obtained a count of 199.
+
+There are other things that might affect the count of words. By
+many definitions, "don't" is actually 2 words; however, "suprised" is
+not a word at all. Apparently "parttime" was a typo for "part time",
+thus meaning that ehird was planning a 200-word message. However,
+all of these are affected by rule 754/7(i):
+{{{
+      (1) A difference in spelling, grammar, or dialect, or the use of
+          a synonym or abbreviation in place of a word or phrase, is
+          inconsequential in all forms of communication, as long as
+          the difference does not create an ambiguity in meaning.
+}}}
+
+"don't" and "suprised" definitely don't create ambiguities in meaning
+(precedent is that typos are differences in spelling); therefore, rule
+754/7 states that these are immaterial differences. However, common
+sense suggests that they are not immaterial differences, as "don't" vs.
+"do not" certainly has an effect on the word count. Therefore, it seems
+to me that the ruleset contains a false statement, as long as there is
+a rule that cares about counting words. As a result, at least part of
+rule 1504/23 (the part about APOLOGY) would seem to contradict a rule
+with higher power (the APOLOGY section implies that word counts are
+relevant, whereas rule 754/7 states that under some circumstances they
+aren't) and thus be ineffective. As a result, I haven't got a clue
+what an appropriate judgement on this CFJ actually is.
+
+========================================================================
+
+Caller's Evidence:
+
+The following email message, which has been annotated to
+show a running count of the number of words so far at the end of
+each line (here defining 'word' to be a sequence of characters
+surrounded by whitespace that contains at least one letter):
+{{{
+From: agora-business-admin@agoranomic.org on behalf of Elliott Hird
+Sent: Sat 07/06/2008 19:33
+To: agora-business@agoranomic.org
+Subject: BUS: Apology (re: CFJ 1943)
+
+Oh dear, I apologise for my silliness in this matter - you see, today   13
+I just woke up and realised I had not submitted my apology, really      26
+terribly sorry, don't know how I can make it up to you, it is really    41
+awful when something like this happens you know (I think Plato wrote    53
+something about it) and so it distresses me quite a bit; so you can     67
+see what it results in - this kind of stuff pervades my life, which is  81
+a shame - anyway, I am very sorry, I had no 'schoolteacher' character   93
+(even parttime would do, I do not wish to impose life schedules) when  106
+I committed these crimes so I am afraid I had no moral basis to avoid  121
+committing such crimes - I am suprised that you offered such a modest  133
+punishment, for I would have personally imitated a caiman and put down 145
+something much more harsh - so I would like to say that I am part of   160
+the Ainu ethnic group and this severely impacts my thought processes   171
+and actions, making me commit crimes more often (no offense to the     183
+Ainu people) - I am truly sorry and I apologise profusely.             193
+}}}
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+R754 can be interpreted multiple ways, and its purpose of the rule is
+to prevent minor semantics and spelling errors from detracting from
+the overall function of public messages. As the caller points out, the
+word-count of the apology can be interpreted in a variety of different
+ways. Since R754 provides no clear guidance, and there is no previous
+precedent (as far as I am aware), it seems in the best interest of the
+game to count the words in such a manner that is favorable to ehird,
+since e made a good faith effort to fulfill eir sentence in writing a
+truly repentant apology. I therefore rule TRUE.
+
+========================================================================

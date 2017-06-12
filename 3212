@@ -1,0 +1,136 @@
+==============================  CFJ 3212  ==============================
+
+    It is illegal for a player to announce intent to use Ratification
+    Without Objection to ratify a document whose contents are identical
+    to this sentence, without also specifying a reason for ratifying it.
+
+========================================================================
+
+Caller:                                 Bucky
+
+Judge:                                  Machiavelli
+Judgement:                              FALSE
+
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  FKA441344
+Judgement:                              UNDECIDABLE
+
+========================================================================
+
+History:
+
+Called by Bucky:                        15 May 2012 02:10:43 GMT
+Assigned to Machiavelli:                26 May 2012 01:58:12 GMT
+Judged FALSE by Machiavelli:            26 May 2012 04:51:33 GMT
+Reconsideration requested by BuckyBot:  27 May 2012 17:47:23 GMT
+Reconsideration requested by omd:       27 May 2012 22:32:41 GMT
+Reconsideration requested by scshunt:   27 May 2012 22:35:24 GMT
+Assigned to Machiavelli:                27 May 2012 22:35:24 GMT
+Machiavelli recused:                    28 May 2012 02:16:33 GMT
+Assigned to omd:                        03 Jun 2012 17:22:48 GMT
+omd recused:                            19 Jun 2012 02:07:22 GMT
+Assigned to FKA441344:                  19 Jun 2012 02:08:50 GMT
+Judged UNDECIDABLE by FKA441344:        19 Jun 2012 19:27:49 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+If the statement were false, the announcement would clearly be Endorsing
+Forgery, since several minor changes make it correct ("it is legal for..."
+"...while also specifying...").  However, ratifying the statement also implies
+that the statement was factually incorrect at the time it was made, making it
+clearly illegal after the fact and thus correct (and legal).  The result is a
+contradiction.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2202/4 (Power=3)
+Ratification Without Objection
+
+      Any player CAN, without objection, ratify a public document,
+      specifying its scope. If that document is an official report or
+      a substantial portion thereof, until such a time as that report
+      or portion is again ratified, the date and scope of the
+      ratification become a part of the report.
+
+      Ratification Without Objection CANNOT cause the repeal,
+      amendment, enactment, or mutation of any Rule, rules to the
+      contrary notwithstanding.
+
+      A player SHALL NOT knowingly use or announce intent to use
+      Ratification Without Objection to ratify a (prior to
+      ratification) incorrect document when a corrected document could
+      be produced with reasonable effort, unless the general nature of
+      the document's error and reason for ratifying it is clearly and
+      plainly described in the announcement of intent.  Such
+      ratification or announcement of intent to ratify is the Class-8
+      Crime of Endorsing Forgery.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+Suppose that this statement is true in all cases. Then it is
+impossible for a player to attempt to ratify it without knowing that
+it is false in all cases. This is clearly wrong, however; not everyone
+knows that this statement is false in all cases.
+
+Suppose that this statement is false in all cases. Then it is
+impossible for a player to attempt to ratify it *while* knowing that
+it is false in all cases. It is, however, possible for a player to
+attempt to ratify it. We can only conclude that it is impossible to
+know that this statement is false in all cases.
+
+Suppose that this statement is true in some cases but false in others.
+Then it is possible for a player to attempt to ratify it with or
+without knowing that it is false in all cases. This means, however,
+that it is possible to know that it is false in all cases, which, in
+turn, implies that it is false in all cases. This is a contradiction.
+
+So the only consistent possibility is the following: this statement is
+false in all cases, but it is impossible to know this fact. I believe
+this conclusion is probably correct; after all, I still have doubts
+about it.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+I intend with 2 support to file a Motion to Reconsider this judgment.  It sets
+a disturbing precedent that believing there is a very small probability that a
+statement is true is enough to circumvent a knowingly-incorrect clause.  The
+argument could be extended to absurd conclusions - is it legal to intend to
+ratify any arbitrary statement because there is a nonzero probability that the
+ruleset has been modified to make the statement correct without the ratifier
+knowing about it?
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+I sort of like my judgement, but like I said, I do have my doubts. Now
+I think I prefer C. S. Lewis's resolution to the liar paradox—namely,
+that the statement "This statement is false" simply doesn't mean
+anything. As such, UNDETERMINED would be an appropriate judgement.
+Therefore, I recuse myself from CFJ 3212.
+
+========================================================================
+
+Judge FKA441344's Arguments:
+
+If the statement is true then it is false; if it is false it is true.
+TRUE and FALSE are both inappropriate. Several of the cases judged
+UNDECIDABLE are similar. I judge CFJ 3212 UNDECIDABLE.
+
+========================================================================

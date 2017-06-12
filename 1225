@@ -1,0 +1,320 @@
+==============================  CFJ 1225  ==============================
+
+    The Transfer Orders which Peekee issued in the email identified by
+    Message-ID: <20000524113533.52162.qmail@hotmail.com> were improperly
+    or invalidly executed.
+
+========================================================================
+
+Caller:                                 Wes
+
+Judge:                                  Palnatoke
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wes:                          28 May 2000 23:41:45 GMT
+Assigned to Palnatoke:                  29 May 2000 10:08:17 GMT
+Judged TRUE by Palnatoke:               30 May 2000 21:24:20 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Although the Rules are quite ambiguous regarding whether or not
+Peekee may have been successful in satisfying the Payment Order
+in question, they do provide a reasonable Appeal process for
+this type of situation in Rule 1809.
+
+Of course, once the Transfer Orders have been Vacated, they
+will cease to have *any* effect, including the possible effect
+of satisfying a particular Payment Order.
+
+We politely request that the Judge Vacate any or all of the
+Transfer Orders in question, per Rule 1809.
+
+========================================================================
+
+Caller's Evidence:
+
+>From owner-agora-business@gecko.serc.rmit.edu.au  Wed May 24 04:42:12 2000
+Return-Path: <owner-agora-business@gecko.serc.rmit.edu.au>
+Received: from gecko.serc.rmit.edu.au (gecko.serc.rmit.edu.au [131.170.42.16])
+        by mail3.aracnet.com (8.9.3/8.9.3) with ESMTP id EAA21337
+        for <magika@aracnet.com>; Wed, 24 May 2000 04:42:09 -0700
+Received: (from majordomo@localhost)
+        by gecko.serc.rmit.edu.au (8.8.5/8.8.5) id LAA21230
+        for agora-business-list; Wed, 24 May 2000 11:29:19 GMT
+Received: from fw.serc.rmit.edu.au (fw-in.serc.rmit.edu.au [131.170.42.1])
+        by gecko.serc.rmit.edu.au (8.8.5/8.8.5) with ESMTP id LAA21227
+        for <agora-business@gecko.serc.rmit.edu.au>; Wed, 24 May 2000 11:29:17
+GMT
+Received: (from mail@localhost)
+        by fw.serc.rmit.edu.au (8.9.3/8.9.1) id VAA77305
+        for <agora-business@gecko.serc.rmit.edu.au>; Wed, 24 May 2000 21:36:13
++1000 (EST)
+Received: from law-f101.hotmail.com(209.185.131.164) by fw.serc.rmit.edu.au
+via smap (V2.1)
+        id xma077303; Wed, 24 May 00 21:35:46 +1000
+Received: (qmail 52163 invoked by uid 0); 24 May 2000 11:35:33 -0000
+Message-ID: <20000524113533.52162.qmail@hotmail.com>
+Received: from 194.83.240.42 by www.hotmail.com with HTTP;
+        Wed, 24 May 2000 04:35:33 PDT
+X-Originating-IP: [194.83.240.42]
+From: "Alan Riddell" <pkpeekee@hotmail.com>
+To: agora-business@gecko.serc.rmit.edu.au
+Subject: BUS: Transfers and then a CFJ
+Date: Wed, 24 May 2000 12:35:33 BST
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed
+Sender: owner-agora-business@gecko.serc.rmit.edu.au
+Precedence: bulk
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+Status: RO
+
+I hereby Transfer 20 Stems to the bank to satisfy the Payment Order I owe in
+that Currency.
+
+(This will be denoted Transfer 1)
+
+Now please note,
+
+
+Rule 1598/8 (Power=1)
+Transfer Orders
+
+      A Transfer Order is an Order requiring the Recordkeepor of a
+      Currency to note the transfer of units of that Currency from one
+      entity to another.  A valid Transfer Order specifies exactly one
+      source entity, exactly one destination entity, exactly one
+      Currency, and a number of units of that Currency which is a
+      positive multiple of that Currency's MUQ.  If a Transfer Order
+      purports to satisfy a particular Payment Order and either that
+      Payment Order does not exist or cannot be satisfied by the
+      Transfer Order, then the Transfer Order is invalid.  Other Rules
+      may specify conditions which cause a Transfer Order to be deemed
+      invalid.
+
+As far as this Rule goes the Transfer 1 is valid.
+
+
+Rule 1817/0 (Power=1)
+Recordkeepors' Obedience to Transfer Orders
+
+      A Recordkeepor is required to abide by all valid Transfer Orders
+      submitted by the Executor of the owner of the units of Currency
+      to be transferred (or, with respect to any entity which lacks an
+      Executor, by any other person empowered by the Rules to execute
+      Transfer Orders on the behalf of such entities), except for
+      those transfers which would result in an entity possessing a
+      negative quantity of Currency.  Transfers shall be noted on the
+      Recordkeepor's records in the order in which they are received
+      by the Recordkeepor.
+
+
+Now this Rule does not state that Transfer 1 is invalid rather that the
+Recordkeepor is not "required" to abide by it.  This implies that e may
+choose to abide by it.  Also it should be noted that there is nothing to
+suggest that the Transfer has not been successfully executed.
+
+
+Rule 1732/3 (Power=1)
+Satisfaction of Payment Orders
+
+      A Payment Order is satisfied when a Transfer Order to the payee
+      of that Payment Order for the currency and amount named in that
+      Payment Order is successfully executed, provided that
+
+      (i) when that Transfer Order was submitted, its submitter
+      clearly indicated that that Transfer Order was being submitted
+      for the purpose of satisfying the Payment Order in question;
+
+      (ii) the Transfer Order has not satisfied any other Payment
+      Order;
+
+      (iii) the Payment Order has not already been satisfied or
+      vacated;
+
+      (iv) the Transfer Order would not have resulted in an entity
+      possessing a negative quantity of Currency.
+
+
+Now I have successfully executed a Transfer Order to the payee of a Payment
+Order for the correct amount of currency.  (It is not clear that this even
+requires the Transfer to be valid, but I think it is without question that
+it was executed)  It is clear that the first three conditions are met.
+Condition (iv) is less clear though,
+
+If the Recordkeepor does not abide by the above Transfer then I would argue
+that condition (iv) is met also.
+
+If the Recordkeepor for stems decides to abide by the above transfer then I
+might appear that I would possess a negative quantity of Currency.  However
+I argue that this is not the case, as it is impossible to possess a negative
+quantity of Currency.  Further more even if by some abstract means it was
+possible to possess a negative quantity of Currency, then it would seem
+equally possible to make payment Orders of negative amounts.  As all the all
+the Rules rely on phrases such as "a number of units of that Currency" I
+would always take this to mean a positive amount but if it was possible to
+own a negative amount of Currency then as the same phrase is used in,
+
+
+Rule 1578/5 (Power=1)
+Currency Recordkeepors
+
+      Each Currency shall have associated with it a Player (the
+      Recordkeepor).  The Recordkeepor of a Currency is required
+      to maintain a record of the number of units of that Currency
+      possessed by each entity which possesses them, along with
+      recent transfers of that Currency, as detailed elsewhere.
+<snip>
+
+It would seem that if it is possible to own a negative number of units of
+currency the equally Transfers for negative amounts must work also.  All of
+which is strongly against game tradition.   However, if it is the case
+consider the following,
+
+I hereby transfer -40 Stems to the Bank
+
+(This is a Transfer Order if possessing negative quantities of Currency are
+allowed.  I will denote it Transfer 2.)
+
+I hereby Transfer 20 Stems to the bank to satisfy the Payment Order I owe in
+that Currency.
+
+(Let this be denoted Transfer 3.)
+
+So if possessing negative amounts of Currency is allowed then Transfer 1
+will not have met condition (iv) from Rule 1732 however if the possession of
+negative amounts of currency is allowed then I argue by the similarity of
+language used that negative Transfer are also allowed.   As such Transfer 2
+works and Transfer 3 satisfies the Payment Order.  If not then Transfer 2
+fails and Transfer 3 is invalid as the Payment Order has been satisfied.
+
+Now the only argument I can think of against this is that Transfer 1 was not
+successfully executed is the Recordkeepor chooses not to abide by it.
+However, the way the Rules are written suggests that even successfully
+executed Orders can be invalid, vacated, or otherwise caused to have no
+effect.  So I see no reason why if the Recordkeepor should choose not to
+abide by my Transfer that this would cause it to be not be successfully
+executed.
+
+
+I hereby make a CFJ on the following statement,
+
+"There are no Payment Orders in Stems naming Peekee as the Payor"
+
+With arguments and evidence as above.
+
+
+Peekee
+
+PS  I hope there is not anything obvious that I have left out here.
+
+========================================================================
+
+Judge Palnatoke's Arguments:
+
+The TOs in question are:
+TO1: I hereby Transfer 20 Stems to the bank to satisfy the Payment Order I owe
+in that Currency.
+TO2: I hereby transfer -40 Stems to the Bank (This is a Transfer Order if
+possessing negative quantities of Currency are allowed.)
+TO3: I hereby Transfer 20 Stems to the bank to satisfy the Payment Order I owe
+in that Currency.
+
+
+Rule 1598/8 says, in part:
+
+                                                 If a Transfer Order
+      purports to satisfy a particular Payment Order and either that
+      Payment Order does not exist or cannot be satisfied by the
+      Transfer Order, then the Transfer Order is invalid.
+
+Rule 1732/3 says, in part:
+
+      A Payment Order is satisfied when a Transfer Order to the payee
+      of that Payment Order for the currency and amount named in that
+      Payment Order is successfully executed, provided that
+...
+      (iv) the Transfer Order would not have resulted in an entity
+      possessing a negative quantity of Currency.
+
+Since Peekee had no Stems at the time of TO1, the TO would have resulted in em
+possessing a negative quantity of Currency. Therefore the PO could not be
+satisfied. Hence, the TO is invalid.
+
+As to TO2:
+This is only a TO if possessing a negative quantity of a Currency is allowed.
+Rule 1467/6 says, in part:
+     There may exist Currencies, which are classes of entities.
+In other words, a Currency consists of a number of similar units, and a
+negative number of units cannot exist. A similar situation: We can imagine the
+existance of one Peekee, or no Peekee, or any positive number of Peekees, but
+there cannot be a negative number of Peekees.
+
+So, TO2 is not a TO.
+Besides, since transfering -40 Stems to the Bank seems to be the equivalent of
+transfering 40 Stems *from* the Bank, and Peekee is not the Executor of the
+said Bank, this TO would be invalid, too - and Peekee would probably be guilty
+of Misrepresentation.
+
+With TO1 invalid and TO2 not a TO, the situation for TO3 is the same as for
+TO1, so that one is invalid, too.
+
+All in all, the Statement is TRUE.
+
+The Caller moved that I Vacate the TOs in question, per Rule 1809. I hereby
+do.
+
+========================================================================
+
+Judge Palnatoke's Evidence:
+
+Rule 1467/6 (Power=1)
+Definition of a Currency
+
+     There may exist Currencies, which are classes of entities.
+     Each Currency shall have a Minimum Unit Quantity, abbreviated
+     MUQ, which shall be 1 unless otherwise specified.  All
+     transfers and holdings of each Currency shall be rounded off to
+     the nearest multiple of its MUQ.
+
+Rule 1598/8 (Power=1)
+Transfer Orders
+
+      A Transfer Order is an Order requiring the Recordkeepor of a
+      Currency to note the transfer of units of that Currency from one
+      entity to another.  A valid Transfer Order specifies exactly one
+      source entity, exactly one destination entity, exactly one
+      Currency, and a number of units of that Currency which is a
+      positive multiple of that Currency's MUQ.  If a Transfer Order
+      purports to satisfy a particular Payment Order and either that
+      Payment Order does not exist or cannot be satisfied by the
+      Transfer Order, then the Transfer Order is invalid.  Other Rules
+      may specify conditions which cause a Transfer Order to be deemed
+      invalid.
+
+Rule 1732/3 (Power=1)
+Satisfaction of Payment Orders
+
+      A Payment Order is satisfied when a Transfer Order to the payee
+      of that Payment Order for the currency and amount named in that
+      Payment Order is successfully executed, provided that
+
+      (i) when that Transfer Order was submitted, its submitter
+      clearly indicated that that Transfer Order was being submitted
+      for the purpose of satisfying the Payment Order in question;
+
+      (ii) the Transfer Order has not satisfied any other Payment
+      Order;
+
+      (iii) the Payment Order has not already been satisfied or
+      vacated;
+
+      (iv) the Transfer Order would not have resulted in an entity
+      possessing a negative quantity of Currency.
+
+========================================================================

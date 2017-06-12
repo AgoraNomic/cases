@@ -1,0 +1,58 @@
+==============================  CFJ 3122  ==============================
+
+    I am sitting.
+
+========================================================================
+
+Caller:                                 scshunt
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by scshunt:                      06 Nov 2011 21:35:03 GMT
+Assigned to ais523:                     10 Nov 2011 16:36:45 GMT
+Judged TRUE by ais523:                  13 Nov 2011 22:53:05 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I create and cash a Promise with the following text: {{ If I am
+supine, I sit. Otherwise I become supine. I then cash this promise}}
+and the following condition for not being destroyed upon cashing: {{I
+am a player of Agora.}}
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The promise in question was buggy, so I'll try to judge both what
+happened, and what would have happened if it had worked correctly.
+
+First off, the promise in question mentions "this promise". However,
+rule 2338 requires (as a MUST requirement) the message containing a
+promise cashing to provide all required context. The message is the sent
+message for the first cashing, so it succeeds. In the second cashing,
+the posture flip succeeds, but the reference to "this promise" has no
+referent in the message itself (much the same way as a rule created via
+proposal cannot meaningfully refer to "this proposal"), and so the
+attempt to cash the promise a third time is too ambiguous to succeed.
+AFAICT, Pavitra was sitting before the actions, and so after flipping
+eir posture twice, is sitting again now. I judge CFJ 3122 TRUE.
+
+The main interest in this CFJ, however, is what would have happened if a
+copy of the promise's text, converted to a message, had referred to the
+promise correctly (say by name). As far as I can tell, an actual
+infinite sequence of conditional actions would be created. However,
+Agora only allows conditional actions as shorthand; in particular,
+conditional actions that cannot be reasonably resolved are taken to not
+work at all due to ambiguity. As such, it makes the most sense to
+disallow any of the posture changes, as there's no other plausible place
+to break the infinite sequence of conditional actions. So the CFJ would
+also be TRUE in this case.
+
+========================================================================

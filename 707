@@ -1,0 +1,177 @@
+=============================  Inquiry 707  =============================
+
+    Steve legally voted FOR (and did not legally vote AGAINST) Proposal
+    1177. Hence, the votes on that Proposal were not 11 FOR, 13 AGAINST
+    as reported by the Speaker, but in fact were tied 12 FOR, 12
+    AGAINST.
+
+========================================================================
+
+Caller:                                 Steve
+Barred:                                 Kelly
+Barred:                                 Chuck
+Barred:                                 Wili
+
+Judge:                                  Vanyel
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Steve:                        13 Oct 1994 04:06:16 GMT
+Assigned to Vanyel:                     13 Oct 1994 13:21:53 GMT
+Judged FALSE by Vanyel:                 14 Oct 1994 22:37:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Firstly, the facts. I haven't the precise date-stamps on me, but I
+remember the approximate sequence of events: (times are GMT+1000)
+
+1. Early Tuesday morning. The Voting Period on the Grey Repeals
+   closes. Shortly afterward Speaker Chuck attempts to publish
+   the Results of the Grey Repeals. The attempt is a failure.
+
+2. Tuesday afternoon, about 1630, Steve sends a message both to
+   Speaker Chuck and to the Public Forum, arguing that he may still
+   vote on the Grey Repeals, as the Results have not been published.
+   The argument is reproduced below.
+
+3. Early Wednesday morning, about 0100, Speaker Chuck acknowledges
+   the failure of his first to publish the Results of the Grey Repeals,
+   and he resends them.
+
+Now, the Rules. The Voting Period is defined in Rule 693:
+
+      The prescribed Voting Period for a Proposal shall be seven days,
+      beginning at the time that the Proposal is distributed to all
+      Players.
+
+This is the time identified in (1). However, Rule 376 states in part:
+
+      The moment of the completion of the vote is defined by the date
+      and time given in the line starting with "Date:" of the Nomic
+      listserver message send by the Benevolent Speaker, announcing
+      the result of the vote on the corresponding proposal.
+
+So the "moment of the completion of the vote" is identified in (3).
+It is my contention that all votes received on the Grey Repeals
+before this time are legal votes in good standing. In particular,
+my vote FOR Proposal 1177 was a legal vote FOR that Proposal.
+
+My argument rests entirely on the premise that the time referred to
+in Rule 376 as "the moment of the completion of the vote" legally
+defines the latest time before which votes may be legally cast. In
+defence of this premise I appeal to nothing more or less than the
+Judge's intuitions about the meaning of this phrase. I concede
+that Rules 693 and, implicitly, 955, attempt to define a different
+and earlier time, namely (1), as the latest time before which votes
+may be legally cast. But Rule 376 takes precedence over both these
+Rules.
+
+========================================================================
+
+Judge Vanyel's Arguments:
+
+        As I see it, there are two issues in this CFJ: what time various
+posts should be considered to reach the Public Forum, and what the latest
+time votes can be cast is.
+        First I will consider which occurred first, Steve's Vote, or
+Chuck's post of the Rules.  I have set up a table of times at which
+events occurred: the time Sent, the time Teleport received and
+redistributed it, and the time it was Received by Kelly:
+
+(Times converted to GMT)
+
+                        Time/Date Sent Recd by Teleport Rec'd by Kelly
+
+Chuck's first posting:  12.10 05:05:56  12.10 15:10:27  12.10 15:22:15
+Chuck's second posting: 12.10 13:13:01  12.10 13:22:00  12.10 13:54:58
+Steve's posting:        12.10 08:46:29  12.10 08:46:40  12.10 09:00:01
+
+        So we see that if we take the Time/Date Sent, Chuck's posting
+of the Ruleset will have beaten Steve's post by over 3 hours.  However,
+if we take the Time/Date Recd (by Kelly, for that's who sent me the
+files), Steve's post was first.  Kelly has pointed out that her
+service is unreliable for timing; we can see through Chuck's second
+posting that it took the mail about a half hour to get there.  And
+her point that we cannot count on the "Received" datestamps are
+well taken; if this were the case, different Rules would at times
+apply to different people.  This is clearly unacceptable.
+        Yet, if we take the "Date" (ie Time Sent) datestamps, then
+we can also have problems; what if the posting got lost or delayed on
+its way to the listserver?  Clearly, the Players of Agora cannot be
+expected to follow Rules they never received.  Yet we also cannot count
+on individual Players Receiving posts at certain times.  Thus, I am
+forced to conclude that the best possible time to reckon by is the
+latest time which applies to all of Agora: the time when the listserver
+(at this time, nomic-discussion@teleport.com) receives the post.
+Reckoning in this manner, Steve's change-of-vote occurred almost
+five hours before the posting of results of the Grey Repeals by Chuck.
+        The second issue is whether Steve was legally able to change
+his Vote at that time.  There is no Rule specifically changing one's
+Vote, therefore it is allowed by Rule 116.  But did Steve try to change
+his Vote after he was no longer able to Vote on the "Grey Repeals"?
+        In Rule 693 it states that "The prescribed Voting Period for
+a Proposal shall be seven days, beginning at the time that the Proposal
+is distributed to all Players."  By this we have that the so-called
+"Voting Period" was over at the time of Steve's post, which was more
+than 7 days after the Grey Repeals were first posted.  By Rule 208
+we find that "At the end of the prescribed Voting Period on a
+Proposal, the Speaker shall reveal all Votes legally cast on that
+Proposal."  We know that the "Voting Period" had ended, yet the
+Speaker had not yet revealed the Votes legally cast.  The Speaker
+was derelict in his duties to reveal the Votes, but this does
+not negate the fact that the Voting Period was, in fact, over.
+        Thus, as the Voting Period was over, *even though Speaker
+Chuck had not revealed votes*, Player Steve was several hours too late
+to change his Vote.
+        HOWEVER, there is a Rule which throws a wrench into the analysis.
+It is Rule 376, "When Does a Rule Change Take Effect?".  It states that
+"The moment of the completion of the vote is definged by the date and
+time given in the line starting with "Date:" of the Nomic listserver
+message send by the Benevolent Speaker, announcing the result of the
+vote on the corresponding proposal.  Since 376 has a lower number than
+693, it takes precedence.  The major discrepancy becomes whether
+"vote" and "voting period" are the same.  In many democratic models,
+one can see the use of "end of vote" to mean, not the end of the ability
+of people to vote, but the completion of all aspects of the vote,
+including tallying and publication of the result.  I shall choose
+this interpretation because, I will admit, it is highly convenient
+to do so, and eliminates a Rule conflict.  Assuming this interpretation
+merely makes Rule 376 define when rule changes take effect (as was,
+most likely, the intent) and leaves the definition of the ability
+to vote to other Rules (specifically, 693).
+        In any case, I judge FALSE on this CFJ: Steve did, in fact,
+vote AGAINST 1177 and did *NOT* change his vote to FOR.
+
+========================================================================
+
+Judge Vanyel's Evidence:
+
+Relevant portions of the headers of the three messages:
+
+Steve's message:
+>Received: from teleport.com (desiree.teleport.com) by copper.ucs.indiana.edu
+>       (5.67b/9.7jsm/jls) id AA13140; Wed, 12 Oct 1994 04:00:01 -0500
+>Received: (from daemon@localhost) by teleport.com (8.6.9/8.6.9) id BAA24637
+        for nomic-discussion-outgoing; Wed, 12 Oct 1994 01:46:40 -0700
+>Date: Wed, 12 Oct 1994 18:46:29 +1000 (EST)
+
+Chuck's first post:
+>Received: from teleport.com (desiree.teleport.com) by copper.ucs.indiana.edu
+>       (5.67b/9.7jsm/jls) id AA27012; Wed, 12 Oct 1994 10:22:15 -0500
+>Received: (from daemon@localhost) by teleport.com (8.6.9/8.6.9) id IAA20866
+>       for nomic-official-outgoing; Wed, 12 Oct 1994 08:10:27 -0700
+>Date: Wed, 12 Oct 1994 01:05:56 -0400 (EDT)
+
+Chuck's second post:
+>Received: from teleport.com (desiree.teleport.com) by copper.ucs.indiana.edu
+>       (5.67b/9.7jsm/jls) id AA21903; Wed, 12 Oct 1994 08:54:58 -0500
+>Received: (from daemon@localhost) by teleport.com (8.6.9/8.6.9) id GAA08595
+>       for nomic-official-outgoing; Wed, 12 Oct 1994 06:22:00 -0700
+>Date: Wed, 12 Oct 1994 09:13:01 -0400 (EDT)
+
+========================================================================

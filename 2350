@@ -1,0 +1,80 @@
+==============================  CFJ 2350  ==============================
+
+    Any player can flip the Conductor's Key by announcement, at most
+    once per month.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 Jan 2009 19:27:47 GMT
+Assigned to omd:                        26 Jan 2009 07:48:04 GMT
+Judged FALSE by omd:                    26 Jan 2009 15:22:10 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+These hinge around what "eir" refers to in each case. Both sentences
+have an "eir" which could either refer to something in the same
+sentence, or something in a previous sentence; the posture case is
+dubious due to the large separation between the sentences, whereas the
+key case is much less dubious as the sentences are consecutive and in
+the same paragraph. A construction like "ehird is the Monkey, and any
+player CAN change eir intelligence by announcement." has its eir pretty
+clearly referring to ehird. When split into two sentences, as "ehird is
+the Monkey. Any player CAN change eir intelligence by announcement.",
+does it still mean the same thing? On balance, I think it probably does,
+as long as the sentences are not so ridiculously far apart as to be
+implausible. So I recommend FALSE and TRUE on the two CFJs respectively.
+
+========================================================================
+
+Caller's Evidence:
+
+An excerpt from rule 2126:
+{{{
+      Key is a player switch, tracked by the Conductor, with values
+      equal to the pitches that Notes can have, defaulting to C.  A
+      player CAN change eir Key to any value by announcement, unless e
+      has already done so during the current month.
+}}}
+
+On Tue, 2009-01-20 at 19:15 +0000, Alex Smith wrote:
+> On Tue, 2009-01-20 at 10:54 -0800, Kerim Aydin wrote:
+> > On Tue, 20 Jan 2009, Geoffrey Spear wrote:
+> > >> 6059 D 1 2.0 comex               "Voluntary" creation of rests
+> > > FOR
+> >
+> > I've found the scam here I believe; I'm not going to describe it
+> > while this is being voted for in case comex hasn't thought of it :),
+> > but I strongly recommend Against here.  -Goethe
+>
+> I flip Wooble's key to F#.
+>
+> I flip Murphy's posture to leaning and hawkishness to hugging.
+
+========================================================================
+
+Judge omd's Arguments:
+
+Out of context, the caller's arguments are valid.  However, it is
+customary in Agora to apply a standard of reasonableness to
+interpretation of communication.  As a general rule, it is more
+reasonable for players to be able to modify their own properties than,
+collectively, a single player's; so a sentence of the form "A player
+CAN X eir Y by announcement" is naturally biased towards the Y being
+the player's own.  While the monkey example is ambiguous (its meaning
+would depend on the definition of Intelligence, and context; and any
+such rule ought to be stated more clearly), in the case of Keys, the
+interpretation that players can change their own Keys is by far the
+most reasonable one.  Accordingly, FALSE.
+
+========================================================================

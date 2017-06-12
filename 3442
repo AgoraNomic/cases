@@ -1,0 +1,85 @@
+=============================  CFJ 3442  =============================
+
+      Points awards for voting are made at the end of the voting
+      period (rather than the time of resolution).
+
+======================================================================
+
+Caller:                     omd            
+
+Judge:                      G.                           
+Judgement:                  DISMISS            
+
+======================================================================
+
+History:
+
+Called by omd:              04 Nov 2014
+Assigned to G.:             10 Nov 2014
+Judged DISMISS by G.:       10 Nov 2014 
+
+======================================================================
+
+Caller's Arguments:
+
+Not that it really matters if they're being repealed, but -
+
+Rule 2421 only mentions "If the result of a decision is
+ADOPTED/REJECTED", without giving any specific time.  (It could be
+considered to refer to the "Whenever a proposal is adopted" earlier in
+the rule, but then the REJECTED part would never apply.)  Perhaps the
+most reasonable reading is "When a decision comes to have a result, if
+that result is ADOPTED" - but Rule 955 defines outcome as existing
+starting at the end of the voting period.
+
+======================================================================
+
+Caller's Evidence:
+
+Rule 2421/4 (Power=1)
+Points Awards
+
+      Whenever a proposal is adopted, its author and co-authors (if
+      any) earns a number of points equal to its adoption index,
+      rounded down. A given player cannot earn more than 15 points
+      this way in a single Agoran week.
+
+      The Purse of an Agoran decision to adopt a proposal is a number
+      of Points equal to 10 times the quorum on the decision, plus 10.
+      A Punter on such a decision is any player who cast a valid
+      unconditional ballot on the decision, and did not retract any
+      ballots on that decision.
+
+      If the result of a decision is ADOPTED, the Purse is split as
+      evenly as possible (rounding down) among all punters who voted
+      AGAINST it.  If the result of the decision is REJECTED, the
+      Purse is split as evenly as possible (rounding down) among all
+      punters who voted FOR it.
+
+======================================================================
+
+Judge's Arguments:
+
+This is a bit relevant to the Ribbons rule, which has a clause
+where the timing of "adopted" is important:
+       Lime (L): A person qualifies for a Lime Ribbon if three or more
+       proposals adopted in the preceding 7 days had that person as a
+       coauthor.
+
+R106 reads:
+        When a decision about whether to adopt a proposal is resolved,
+       if the option selected by Agora is ADOPTED, then the proposal in
+       question is adopted...
+
+So a Decision has a value of adopted from the end of the voting period,
+while the Proposal has that value when the decision is resolved.  This
+would lead to the points for the Proposal happening at the resolution,
+but the points for the Decision happening at the end of the voting
+period.
+
+So the statement is true for some "points for voting", not for others. 
+With the specific phrasing of the Statement, it's not clear in this
+statement if an AND or an OR should apply for the two types of points
+awards, so I DISMISS this case.
+
+======================================================================

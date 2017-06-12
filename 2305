@@ -1,0 +1,66 @@
+==============================  CFJ 2305  ==============================
+
+    If BobTHJ does not retract nor cast any further votes on the Agoran
+    decision on whether to adopt proposal 6011 for the rest of its
+    voting period, nor explicitly define eir current votes on that
+    proposal in the future, e will have at least one valid vote on that
+    decision"
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       08 Dec 2008 16:13:21 GMT
+Assigned to root:                       10 Dec 2008 22:41:53 GMT
+root recused:                           23 Dec 2008 00:19:27 GMT
+Assigned to Murphy:                     23 Dec 2008 00:27:00 GMT
+Judged TRUE by Murphy:                  23 Dec 2008 00:55:19 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The pledge defining SDONATE was terminated recently, so it's not clear
+that it has a meaning clear enough to be a conditional vote any more. Of
+course, this is simply fixed by retract/revote or stating what is meant;
+but this CFJ is about what would happen if it wasn't fixed. (Note that I
+don't think the text of the pledge was reasonably available during the
+voting period, because AFAIR Murphy deleted it from eir Notary website
+when e intended to terminate it, rather than when it was terminated.)
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+SDONATE was not defined by a pledge, merely by a standing definition
+announced and (at least as of the time this case was initiated) not
+retracted by BobTHJ.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+In this message:
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2008-November
+/015829.html
+
+BobTHJ wrote:
+
+> In all my future communications, a vote of SDONATE(x - y) should be
+> evaluated to be the posting of Sell Ticket with cost x and casting all
+> my valid votes endorsing the filler. If the ticket is not filled, the
+> vote should be evaluated as a DONATE(y) vote (per the PAC contract).
+
+========================================================================

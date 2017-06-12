@@ -1,0 +1,128 @@
+==============================  CFJ 3136  ==============================
+
+    If and when the Victory Announcement in the same message that
+    created this CFJ self-ratifies, if the rules regarding victory have
+    not changed since, then ais523 will Win the Game.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Pavitra
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       12 Dec 2011 07:26:43 GMT
+Assigned to Pavitra:                    14 Dec 2011 00:52:52 GMT
+Judged FALSE by Pavitra:                15 Dec 2011 03:20:03 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+First off, the Victory Announcement is unambiguously correct;
+CFJ 1980 is a turtle (the definition of "turtle" is the same as the
+definition of "tortoise" that was involved in the last win involving
+that CFJ), and has been so for more than a week (regardless of whether
+you consider it to have been a turtle before turtles were defined ora
+not; that's an interesting question, but one that doesn't AFAICT affect
+this case). Multiple Victory Announcements describing the same victory
+condition are all correct, according to rule 2343; the only potential
+reason why this might not lead to a win is that you don't gain a win if
+the person named has already won via the same events.
+
+Now, it's true that I've already got a win indirectly from CFJ 1980, but
+rule 2358, which currently defines the victory condition in question,
+doesn't use the same definition as the current rule. The win by paradox
+rule at the time of the original rule was (the since-repealed) rule
+2110/5, which grants a win to the initiator of a tortoise upon a win
+announcement that the tortoise has been a tortoise for no greater than
+four and no less than two weeks. In other words, the win was granted in
+response to making a certain correct statement, and the only reason the
+CFJ was relevant was that the statement would only be correct if the CFJ
+were judged UNDECIDABLE. Meanwhile, the current rule requires the CFJ to
+have been a turtle for only one week (a difference in the conditions
+already), and the Victory Condition itself is satisfied platonically,
+not pragmatically (although wins are pragmatic in the current ruleset,
+at least that Victory Condition is platonic). Thus, the tortoise-based
+win and turtle-based win, while similar, are not based on the same
+events (a one-week turtle is not the same event as a statement about a
+two-week tortoise, and even if both definitions existed at the same
+time, it would be possible to achieve the first but not the second).
+
+In other words, I recommend judging this CFJ TRUE.
+
+========================================================================
+
+Caller's Evidence:
+
+The next sentence of this message is a Victory Announcement, and this
+sentence serves to explicitly label it as a Victory Announcement.
+
+ais523 has satisfied the Victory Condition of Paradox (for CFJ 1980).
+
+the fact that CFJ 1980 was
+initiated by ais523 and has had a judgement of UNDECIDABLE for several
+years now
+
+the old ruleset archived at
+<http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-June/00
+4435.html>
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+"won via the same events" is an inherently vague statement
+and is clearly intended to be interpreted generally; only a moron in a
+hurry would think you have not won via the same events.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+The crux of this case is the phrase "via the same events". The chain of
+events leading to the tortoise victory has some but not all of its
+events in common with the chain of events leading to the claimed turtle
+victory.
+
+On one hand, it is not the case that the sequence of events via which
+the tortoise victory occurred is equal to the sequence of events via
+which the turtle victory would occur.
+
+On the other hand, there exists at least one event via which the
+tortoise victory occurred and via which the turtle victory would occur.
+
+The text of the rules and ordinary-language usage are, as far as I can
+tell, both silent on this distinction. This leaves common sense and the
+best interests of the game.
+
+The obvious answer is to say that common sense should treat the rules as
+meaning what they seem to mean, and that the best interests of the game
+should treat the rules as meaning what they are intended to mean.
+However, I do not believe that it is in the best interests of the game
+to categorically block scams; on the gripping hand, it is also against
+the best interests of the game to categorically treat any attempted scam
+as successful.
+
+As tempting as it is to judge on the basis of whether I think the scam
+is interesting or impressive, that is simply not the way Agora is
+played, or in other words it runs contrary to game custom. Scams are
+judged on purely formal terms, and therefore this question calls for a
+categorical answer.
+
+So, in the general case where the rules are silent and ordinary usage is
+ambiguous, how do we interpret?
+
+As far as I can tell, we usually interpret in the way that makes the
+rules not-broken. We treat the rules as meaning what they seem to mean
+and what they are intended to mean. This does not block scams
+categorically, because this standard only applies in a relatively narrow
+range of cases. There are a great many situations where the text of the
+rules clearly allows some form of deliciously horrible scammy brokenness
+or other. But when all else fails, choose the non-perverse reading.
+
+========================================================================

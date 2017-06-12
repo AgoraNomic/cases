@@ -1,0 +1,85 @@
+From owner-nomic-official@teleport.com  Sat Mar 30 16:17:46 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id QAA24348 for <blahedo@quincy.edu>; Sat, 30 Mar 1996 16:17:44 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id OAA13231; Sat, 30 Mar 1996 14:10:29 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Sat, 30 Mar 1996 14:10:28 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id OAA13204 for nomic-official-outgoing; Sat, 30 Mar 1996 14:10:28 -0800
+Received: from torii.triple-i.com (torii.triple-i.com [192.94.150.1]) by desiree.teleport.com (8.6.12/8.6.9) with ESMTP id OAA13191 for <nomic-official@teleport.com>; Sat, 30 Mar 1996 14:10:26 -0800
+Received: from siesta (siesta+.triple-i.com [192.94.150.7]) by torii.triple-i.com (8.6.9/8.6.9) with SMTP id OAA12263 for <nomic-official@teleport.com>; Sat, 30 Mar 1996 14:09:54 -0800
+Received: from pak by siesta (4.1/SMI-4.1)
+	id AA12172; Sat, 30 Mar 96 14:09:53 PST
+Date: Sat, 30 Mar 96 14:09:53 PST
+From: jlc@triple-i.com (Jeff Caruso)
+Message-Id: <9603302209.AA12172@siesta>
+Received: by pak (4.1/SMI-4.1)
+	id AA20752; Sat, 30 Mar 96 14:09:52 PST
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 862:  TRUE
+Cc: jlc@triple-i.com
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Precedence: bulk
+Status: RO
+
+======================================================================
+                      JUDGEMENT OF CFJ 862
+
+  The Rules in general should be interpreted such that a Win Token 
+  Transaction as described in Rule 1493 can cause a Player's Win Token 
+  holdings to be negative.
+
+======================================================================
+
+Judge:          Zefram
+Judgement:      TRUE
+
+Caller:         Morendil
+Barred:         
+On Hold:        Blob, Doug
+
+Eligible:       Andre, Chuck, Coren, dcuman, elJefe, favor, 
+                Jtael, Kelly, KoJen, Michael, Murphy, Steve,
+                Swann, Vanyel, Zefram
+
+Note: Zefram earns a Judicial Salary, which will be reported at
+the proper time.
+
+======================================================================
+
+History:
+  Called by Morendil, Wed, 27 Mar 1996 02:16:25 +0100
+  Assigned to Zefram, Wed, 27 Mar 96 06:43:59 PST
+  Judged TRUE by Zefram, Sat, 30 Mar 1996 03:37:33 +0000 (GMT)
+
+======================================================================
+
+Caller's Argument:
+
+         I believe Rules 1472 and 1493 are sufficiently amended
+from their form at the time the (IMHO ill-considered) Judgement of
+CFJ 809 was made that the question ought to be reconsidered. WTTs
+are no longer Currency Transfers, so 1472 cannot prohibit negative
+WT holdings anymore.
+
+-[Morendil]-
+Misspelled?  Impossible.  My modem is error correcting.
+
+======================================================================
+Decision of Judge Zefram:  TRUE
+
+Rule 1493 itself leaves open the possibility of negative Win Tokens by
+not explicitly considering the case.  As there is no general Rule
+prohibiting negative holdings of Currencies, and no specific Rule
+prohibiting negative holdings of Win Tokens, it is indeed possible for
+WTTs to result in negative WT holdings.
+
+I note that even if WTTs were Currency Transfers, and hence governed by
+Rule 1472, it would still be possible to have a negative number of
+WTs.  Rule 1472 does not actually prohibit negative Currency holdings,
+but is rather a definition of a Currency Transfer.  Rule 1472 in fact
+does not explicitly permit any types of Currency Transfer, but requires
+that some other Rule permit a type of Currency Transfer for it to be
+legal.
+
+======================================================================
+
+-zefram

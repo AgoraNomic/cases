@@ -1,0 +1,424 @@
+>From nomic-discussion-owner@teleport.com  Fri Nov 10 05:13:37 1995
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA07965 for <blahedo@quincy.edu>; Fri, 10 Nov 1995 05:13:31 -0600
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA13600 for nomic-discussion-outgoing; Fri, 10 Nov 1995 03:09:23 -0800
+Received: from aurora.cc.monash.edu.au (gardner@aurora.cc.monash.edu.au [130.194.1.91]) by desiree.teleport.com (8.6.12/8.6.9) with ESMTP id DAA13594 for <nomic-discussion@teleport.com>; Fri, 10 Nov 1995 03:09:17 -0800
+Received: (gardner@localhost) by aurora.cc.monash.edu.au (8.6.12/8.6.4) id WAA11981 for nomic-discussion@teleport.com; Fri, 10 Nov 1995 22:09:12 +1100
+>From: Steve Gardner <gardner@aurora.cc.monash.edu.au>
+Message-Id: <199511101109.WAA11981@aurora.cc.monash.edu.au>
+Subject: The Cereal Box CFJ (790)
+To: nomic-discussion@teleport.com (Nomic Mailing List)
+Date: Fri, 10 Nov 1995 22:09:09 +1100 (EST)
+X-Mailer: ELM [version 2.4 PL21]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Content-Length: 17005     
+Sender: owner-nomic-discussion@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Never mind, Vanyel, I've dug it up myself:
+
+===============================================================
+Judgement of CFJ 790
+
+Steve receives 3 points for Judgement.
+
+===============================================================
+
+CFJ 790
+
+Caller: Chuck
+
+Statement: The Registrar's report of July 12 is incorrect in that
+  it lists Swann as Notary, when in fact the Office is vacant. 
+
+Barred: Kelly, elJefe, Vanyel
+
+Requested Injunction: None
+
+Judge: Steve
+  Judgement: UNKNOWN
+  Injunction: none
+
+Effects reported by COTC (* indicates new to this report):
+  Brian gains 3 Blots for defaulting
+ *Steve receives 3 points for Judgement
+
+==============================================================
+
+==============================================================
+
+History:
+
+  Called by Chuck, July 17 1995, 14:12 CST
+  Assigned to Brian, July 18 1995, 12:48 UTC
+  Defaulted by Brian, July 25 1995, 12:48 UTC
+  Assigned to Steve Tue, 25 Jul 95 12:41:55 CDT
+  Judged UNKNOWN by Steve Mon, 31 Jul 1995 17:39:51 +1000 (EST)
+  Judgement published {as of this message}
+
+==============================================================
+
+Arguments of Caller (Chuck):
+
+On June 30, Registrar KoJen announced that the Office of Notary
+was vacant, and asked for volunteers.  On July 7, KoJen wrote:
+
+>Volunteers for the Vacant Office of Notary were Chuck and Swann. 
+> 
+>I will now randomly choose the Notary. 
+> 
+>I have a cereal box in my lunch bag. It is "Raisin Squares". I will now count 
+>the number of separate ingredients listed in the ingredients list. If it is 
+>even, Chuck is the new Notary. If it is odd, Swann is. 
+> 
+>The number is 13. 
+> 
+> 
+>The new Notary is Swann. 
+ 
+Rule 790 states, in part: 
+ 
+      [...] the Electioneer shall randomly 
+      choose one player from those who indicated a willingness to hold 
+      the Office, and that Player shall become that Officer.
+ 
+Thus, if there is no random selection, then the office is not filled.
+(Random is defined in Rule 1079.) 
+ 
+I maintain that KoJen's selection is non-random. 
+ 
+Rule 1079 demands that the probabilities be equal for a random 
+selection.  No one expects the probabilities of a random selection 
+to be perfectly equal (despite the fact that some Players have claimed 
+that I do); this is unreasonable for any method of random selection. 
+How large a tolerance is then reasonable?   IMO, for a choice between 
+two random alternatives, 51-49 is just on the border of being 
+reasonable, and 52-48 is clearly too large a bias. 
+ 
+Now, is it likely that the ingredients on KoJen's cereal boxes give 
+an equal distribution between even and odd ingredients? 
+ 
+Possible: yes.  Likely: no.  Let's assume, for a moment, that 
+the cereal boxes in a grocery store are equally distributed between 
+even and odd numbers of ingredients.  (Even this is probably
+invalid, but lets assume it for a moment.)  Does that mean that 
+KoJen's cereals are evenly distributed between even and odd?  No.
+ 
+KoJen, in all likelihood, does not buy every type of cereal in the 
+store with equal frequency.  I can't speak for KoJen, but it seems 
+likely that he buys, oh, 10 or so kinds of cereals regularly (with 
+any others making a negligibly small amount).  Are these split 5 odd, 
+5 even?  It's possible.  But it's also likely that they're split 
+6-4 or 7-3.  In order to be reasonably certain that the cereals 
+were biased no worse than 51-49, KoJen would have to buy on the 
+order of 10,000 cereals! 
+ 
+Objection 1.  "But it's equally likely that they're split 4 odd, 6 even 
+or 4 even, 6 odd, so overall the probability is 50-50."  This would 
+be true if KoJen bought a different 10 cereals every month.  But 
+for the most part, he probably buys the same cereals.  Thus, the 
+split is fixed at one value or the other. 
+ 
+Objection 2.  "But we don't know which way the split goes, so 
+it's still 50-50."  The fact that we don't know the probability of
+KoJen picking an odd or even cereal does not magically make that 
+probability 50-50.  Take, for example, the cereals in my apartment
+at the time I wrote this.  3 of them have an odd number of ingredients, 
+and 1 has an even number of ingredients.  Thus there is a 75-25 bias 
+towards odd.  Now what would the case be if I had not gone and 
+counted the ingredients on my cereals beforehand?  The probability 
+would still be 75 odd, 25 even.  The fact that I didn't know what 
+the probability was does not change the probability.  Likewise, 
+it is likely that KoJen's selection is biased.  The fact that 
+we do not know the bias does not change the fact that it *is* biased. 
+ 
+Objection 3.  "The assignment of Swann to odd and Chuck to even was 
+random."  No, this was an arbitrary assignment by KoJen.  He did 
+not use any method of chance, but assigned them arbitrarily.   Is 
+this random?  It may not be possible to predict in advance of KoJen's 
+decision which will end up with which, but I maintain that the selection 
+is not random.  It is impossible for the human brain, in and of itself, 
+to make a truly random selection.   Digits that you pick out of thin 
+air are not random.  If humans could pick randomly, we would not 
+need to bother with any other random devices at all--how many
+people would be willing to accept that? 
+
+Objection 4.  "But since KoJen didn't know whether odd or even was 
+more likely, he couldn't bias the outcome by assigning one player 
+or the other to odd or even."  Correction: he couldn't *intentionally* 
+bias the outcome.  No one is claiming he did.  But was his picking 
+either (Swann odd, Chuck even) or (Swann even, Chuck odd) out of 
+thin air truly random?  It was not, as we cannot make truly random 
+decisions without some external random device. 
+ 
+Objection 5.  "But weren't KoJen's assignments close to random?" 
+I'm not saying there was a huge, 90-10 bias in KoJen's assignments. 
+But it seems to me not unreasonable that there might be a 60-40 
+bias. 
+ 
+Objection 6.  "Don't the combined near-randomness of KoJen's 
+assignments and the cereal boxes make the selection random?" 
+They make it better, but still not close enough.  If KoJen's 
+assignments were biased 60-40 (not an unreasonable assumption, 
+IMO) and KoJen's cereal boxes were biased 60-40 (not an
+unreasonable assumption, IMO), then the final selection is 
+biased 52-48 (detailed explanation of this can be provided upon
+request), an unacceptable deviation from 50-50. 
+ 
+Thus, it is reasonably likely that KoJen's selection was nonrandom, 
+and thus, the office of Notary has remained vacant. 
+ 
+Objection 7: "You haven't proved that KoJen's selection was nonrandom; 
+the burden of proof is on you."  I will grant that I cannot prove 
+that KoJen's selection was nonrandom, but neither has anyone proven 
+that the selection was random.  The assertion that the burden of 
+proof lies on me is simply untrue.  In a CFJ, neither side 
+has the burden of proof--the caller is not required to prove 
+anything!  Rather, the burden is on the Judge to search out any 
+relevant information not included in the CFJ and arrive at the 
+correct conclusion emself, regardless of what the caller has 
+or has not "proven."  If e is unable to gather information which 
+is relevant to the truth of the CFJ, e must Judge UNKNOWN. 
+(See Rule 591.)
+
+============================================================
+
+Arguments of Judge (Steve):
+
+I am reluctant to deliver this Judgement, since I regard it as
+desirable that there should be a clear cut answer to the question of
+whether Swann is the Notary. However, careful consideration of
+the facts and arguments presented have led me inexorably to the
+conclusion that I am unable to obtain the information necessary
+to determine the truth or falsity of the Statement. Hence I must,
+by Rule 591, Judge UNKNOWN.
+
+There seem to me to be two issues to consider: (i) was KoJen's
+'coin' fair? That is, did KoJen's method of *selection* distribute
+probability equally between its two possible outcomes? (ii) was
+KoJen's *assignment* fair? That is, was his method of assigning
+Chuck to even and Swann to odd a fair one? Now, if the answer to
+*either* of these questions were 'yes', then that would suffice,
+in my opinion, to prove the fairness of KoJen's method as a whole.
+In that case, the Statement would be FALSE. To see this, consider
+the following two extreme and opposite cases:
+
+1. KoJen uses a completely biased method of selection, whose bias is
+known to him prior to making the selection, eg, "if today's date is
+even-numbered then Chuck is the Notary, otherwise Swann is the
+Notary", when KoJen already knows what today's date is. However,
+KoJen uses a completely fair method (such as flipping a fair coin) to
+make the assignment of Chuck to even-numbered days and Swann to
+odd-numbered days. 
+
+2. KoJen uses a completely biased method to make the *assignment*,
+but a completely fair method to make the selection.
+
+I think it's clear that in both these cases, the method as a whole
+is a fair one. Consider now the actual methods of assignment and 
+selection employed by KoJen. His method of selection is by now
+infamous - he looked at a cereal box he happened to have with him
+to see if the number of ingredients listed on it was odd or even.
+Less attention has been paid to his method of assignment, but it
+appears that KoJen simply picked his assignment of Chuck to even
+and Swann to odd out of his head. The question is: are either of 
+these methods demonstrably fair, in the sense given above (which
+is the sense of Rule 1079)? If either of them are demonstrably fair,
+the Statement is FALSE.
+
+But neither of the methods is demonstrably fair. Considering first
+KoJen's method of selection, we should need to know much more about
+which breakfast cereals KoJen buys, and about how the numbers of
+ingredients listed on them are distributed among the even and odd
+integers. (And why stop at breakfast cereals? Might not KoJen equally
+have employed some other foodstuff that happened to be at hand? Even,
+god forbid, a can of Nile Spice Black Bean Soup?) In the absence of
+this information, we cannot know whether KoJen's 'coin' was fair.
+
+Of course, all this would not matter if it could be demonstrated that
+KoJen's *assignment* was fair. That's the point of the argument I
+gave above. But was KoJen's assignment fair? Once again we seem to be
+confronted with insurmountable epistemological obstacles. It is
+apparently a part of widely accepted scientific wisdom that human
+beings are not particularly reliable generators of random numbers,
+(although I cannot cite specific scientific studies which confirm
+this).  But what this implies for a given human being's ability to
+choose randomly and fairly between two alternatives on a given
+occasion is entirely unclear. It seems to me that we should need to
+know a great deal not only about the neurophysiological mechanisms
+which underpin the making of such choices generally, but also about
+how they were operating in this specific instance. And once again,
+this is information which it seems we cannot have. So we cannot know
+that KoJen's assignment was fair, either.
+
+So, given that we cannot definitively answer 'yes' to either of the
+two questions above, the Statement cannot be FALSE. But it seems
+to follow relatively straightforwardly that the Statement also cannot
+be TRUE. For all we know, KoJen's method as a whole *might* have been
+fair. It also might not have been. We should need to know a great deal
+more than we do now - more, indeed, than we're ever likely to know - 
+to determine whether or not it was. Since this crucial information
+is unobtainable, I must Judge that the Statement is UNKNOWN.
+
+============================================================
+
+Evidence provided by Caller (Chuck):
+
+1. Rule 591 
+2. Rule 790 
+3. Rule 1079 
+4. KoJen's announcement of vacancy of the Office of Notary, Jun. 30 (some 
+   header information deleted) 
+5. KoJen's "selection" of the Notary, Jul. 7 (some header information 
+   deleted) 
+6. Registrar's Report of Jul. 12 (excerpts) 
+ 
+The complete text of documents excerpted in 4, 5, and 6 are available 
+upon request. 
+ 
+======1. Rule 591 
+ 
+Rule 591/2 (Mutable, MI=1) 
+Legal Judgements 
+ 
+      A legal Judgement is either TRUE, FALSE, UNDECIDABLE, or
+      UNKNOWN.  The Judgement of UNDECIDABLE is reserved for those 
+      statements which are logically neither TRUE nor FALSE.  The 
+      Judgement of UNKNOWN is for those statements for which the 
+      Judge is unable to obtain information necessary to determine 
+      whether the statement is TRUE, FALSE, or UNDECIDABLE. 
+ 
+      The Judge must make a reasonable effort to obtain all 
+      information necessary to determine whether the statement 
+      is TRUE, FALSE, or UNDECIDABLE. 
+ 
+      The Judgement must be accompanied by reasons and arguments, 
+      which include, but are not necessarily limited to, citations of 
+      deciding Rules, past Judgements, and game custom. A Judgement 
+      delivered without reasons and/or arguments is completely 
+      invalid. 
+ 
+      Such reasons and arguments form no part of the Judgement itself. 
+      However, the Clerk of the Courts must distribute the reasons and 
+      arguments along with the Judgement. 
+ 
+      Any evidence which is used to justify the Judgement, other than 
+      appeals to Game Custom or to common sense, must be presented by 
+      the Judge.  If the Judge introduces evidence beyond that 
+      submitted in the Call for Judgement, e must include this 
+      evidence in eir Judgement.  All such added evidence must be 
+      distributed as part of the reasons and arguments by the Clerk of 
+      the Courts. 
+ 
+History: 
+.. 
+Amended(1) by Proposal 1320, Nov. 21 1994 
+Amended(2) by Proposal 1487, Mar. 15 1995 
+ 
+======2. Rule 790 
+ 
+Rule 790/0 (Mutable, MI=1) 
+Filling Vacant Offices 
+ 
+      If, for any reason, an Office is vacant, that fact shall be 
+      announced by the Electioneer.  The Electioneer shall be the 
+      Registrar; or in eir absence, the Speaker.  All Players willing 
+      to hold the Office shall notify the Electioneer of that fact 
+      within three days of eir announcement of the vacancy.  At the 
+      end of the three day period, the Electioneer shall randomly 
+      choose one player from those who indicated a willingness to hold 
+      the Office, and that Player shall become that Officer.  This 
+      rule applies to Offices in general, and thus defers to Rules for 
+      specific Offices. 
+      (*Was: 689*) 
+ 
+======3. Rule 1079 
+ 
+Rule 1079/0 (Mutable, MI=1) 
+Definition of "Random" 
+ 
+      All occurrences of the word "random" or forms of it shall be 
+      taken to mean "any one of the choices with equally distributed 
+      possibility for each choice". 
+ 
+======4. KoJen's announcement of vacancy of the Office of Notary, Jun. 
+         30 (some header information deleted) 
+ 
+Date: Fri, 30 Jun 95 08:15:18 -0400 
+>From: cogen@ll.mit.edu (David Cogen) 
+To: nomic-official@teleport.com 
+Subject: OFF: vacancy of Notary 
+ 
+Notary Office is Vacant. (yawn.) 
+ 
+Anyone want it? Notify Registrar within 3 days. 
+ 
+-- KoJen 
+ 
+======5. KoJen's "selection" of the Notary, Jul. 7 (some header 
+         information deleted) 
+ 
+Date: Fri,  7 Jul 95 15:17:15 -0400 
+>From: cogen@ll.mit.edu (David Cogen) 
+To: nomic-official@teleport.com 
+Subject: OFF: Office of Notary 
+ 
+Volunteers for the Vacant Office of Notary were Chuck and Swann. 
+ 
+I will now randomly choose the Notary. 
+ 
+I have a cereal box in my lunch bag. It is "Raisin Squares". I will now count 
+the number of separate ingredients listed in the ingredients list. If it is 
+even, Chuck is the new Notary. If it is odd, Swann is. 
+ 
+The number is 13. 
+ 
+The new Notary is Swann. 
+ 
+-- KoJen 
+ 
+======6. Registrar's Report of Jul. 12 (excerpts) 
+ 
+===== Agora Nomic Registrar's Reports ================================= 
+ 
+      DATE OF LAST REPORT : 95.07.07 
+      DATE OF THIS REPORT : 95.07.12 
+ 
+===== 3.0 Officers (Blue Pages) ======================================= 
+ 
+{Listing of Officers, the Speaker; etc. Please see the full listing 
+(section  6) for email addresses.} 
+ 
+SPEAKER                 : Kelly 
+ 
+OFFICERS: 
+    Ambassador          : Kelly 
+    Archivist           : Vanyel 
+    Assessor            : Steve 
+    Assistant           : Vanyel 
+    Banker              : Andre 
+    Clerk Of The Courts : Andre 
+    Distributor         : Vanyel 
+    Herald              : Swann 
+    Justiciar           : Steve 
+    Notary              : Swann 
+    Promotor            : KoJen 
+    Registrar           : Ian 
+    Rulekeepor          : Chuck 
+    Scorekeepor         : Kelly 
+    Tabulator           : Ian 
+ 
+ 
+=================================================================
+
+End of CFJ 790
+
+=================================================================
+
+
+Steve Gardner                     |  "Justice? You get justice in the next
+Dept. of Philosophy, Monash Uni.  |   world, in this world you get the law."
+gardner@aurora.cc.monash.edu.au   |          --  William Gaddis --

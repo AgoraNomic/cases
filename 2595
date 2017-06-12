@@ -1,0 +1,97 @@
+==============================  CFJ 2595  ==============================
+
+    Tiger Jr. is a player.
+
+========================================================================
+
+Caller:                                 Tiger
+
+Judge:                                  scshunt
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Tiger:                        18 Jun 2009 08:19:37 GMT
+Assigned to scshunt:                    21 Jun 2009 01:21:01 GMT
+Judged TRUE by scshunt:                 21 Jun 2009 04:32:54 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+A pledge is an entity. Citizenship is an entity switch. A pledge is
+also a contract, and as such all its switches have the values its text
+states that they have.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 869 (Power=2)
+How to Join and Leave Agora
+
+      Citizenship is an entity switch with values Unregistered
+      (default) and Registered, tracked by the registrar.  A player is
+      an entity whose citizenship is Registered.  Changes to
+      citizenship are secured.
+
+      The verb "to be registered" means to become a player (i.e., to
+      have one's citizenship changed from Unregistered to Registered),
+      and the verb "to be deregistered" means to cease to be a player
+      (i.e., to have one's citizenship changed from Registered to
+      Unregistered).  Where the verb "to register" or "to deregister"
+      is used without an explicit direct object, the action is
+      implicitly reflexive.
+
+      A first-class person CAN (unless explicitly forbidden or
+      prevented by the rules) register by announcing that e registers,
+      wishes to register, requests registration, or requests
+      permission to register.
+
+      A second-class person CAN register with Agoran Consent.
+
+      A player CAN deregister by announcement. A person CANNOT
+      register within thirty days after being deregistered by any
+      means other than by a mechanism that the rules explicitly
+      describe as a means of honorable deregistration.
+
+      A player who is not a person and has never been a first-class
+      person CAN be deregistered by any player by announcement.
+
+Rule 2198/5 (Power=2)
+Making Contract Changes
+
+      Contract Changes CAN be performed as follows:
+
+        a) By agreement between all parties, if the contract's minimum
+           number of parties is at least two.
+
+        b) By a party without objection (any other party CAN object),
+           if the contract's minimum number of parties is less than
+           two.
+
+        c) Using a mechanism specified by the contract.
+
+        d) By the contract by announcement, if it is a person.
+
+      If a contract does not purport to regulate becoming a party to
+      it, then any person CAN become a party to it by announcement.
+
+      If a contract states that one or more of its switches have
+      certain values, then they do.
+
+      The rest of this rule notwithstanding, if the nature and/or
+      permissibility of a Contract Changes is ambiguous, then it has
+      no effect.
+
+      Contract changes are secured.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+The rules are clear enough. TRUE.
+
+========================================================================

@@ -1,0 +1,107 @@
+==============================  CFJ 2137  ==============================
+
+    If a partner acts on behalf of a partnership to cast a vote, that
+    vote is still cast by that partner, and is thus subject to that
+    partner's voting limit.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Quazie
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       15 Aug 2008 06:42:55 GMT
+Assigned to G.:                         15 Aug 2008 07:09:28 GMT
+Judged FALSE by G.:                     15 Aug 2008 17:39:51 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+These are possible reductio ad absurdum examples in favor of
+overturning the precedent of CFJs 2050 and 2090.
+
+Note the judgement of CFJ 1895, which draws a distinction between
+"act on behalf of" (contracts) and "act as if e held a particular
+office/position" (deputisation).
+
+========================================================================
+
+Judge G.'s Arguments:
+
+For the following, we shall refer to the person authorized to act
+on behalf of someone else as the "Holder" of a Power of Attorney (PoA),
+and the someone else who gave it as the "Grantor" of the PoA.
+
+The language of "acting on behalf of someone" has (in the last several
+years) been fraught with difficulty.  Even when power of attorney was
+defined in the Rules (e.g. R1842/1) , there were questions of whether
+a Holder's message of:
+
+   "I act on behalf of AFO to cause the AFO to cast a vote on..."
+
+was the same as:
+
+   "Acting on behalf of the AFO, I cast a vote on..."
+
+Strictly literally, the first one reads as if the Holder were treating
+the AFO as a puppet (i.e. an avatar), and the second reads as if the
+preamble was meaningless and the Holder was casting the holders' votes.
+Neither one is precisely what is intended.  Judge root, in CFJ 1312,
+explored this language issue, and found that flexibility is desirable
+when choosing the exact grammar and tenses of an "act on behalf of"
+attempt.  Provided that the identity of the Holder, the Grantor, and the
+intent to act "on behalf of" is reasonably clear, the varied forms of
+stating the message are inconsequential to what legal fiction the message
+creates in Agora: we should treat then all as setting up the same type
+of legal fiction regardless of form.
+
+The question is, what does this legal fiction consist of?
+
+What is really going on is the following:
+  "Acting as a communications agent for the Grantor, I hereby
+   send the message that the Grantor announces "I do X."
+or seen from the outside (third person), it is clear that what we mean
+is that "the Holder announces that the Grantor casts the Grantor's votes
+by (the Grantor's) announcement."
+
+Assuming this legal fiction is a "double announcement" is necessary to
+avoid conundrum.  On one hand, as a "communications agent", the Holder
+is not an automatic machine; e as discretion over the circumstances of
+the message; for example, the timing of sending the message (e.g. the
+domain of control).  As such, we have held in the past that the message
+itself comes from the Holder, not the Grantor (CFJ 1303, and the
+underlying nature of "persons" from CFJ 1895).  So one tradition holds
+that "messages" are always sent by the Holder ("the holder announces").
+On the other hand, for Speech Acts, it is the Act of Announcement that
+causes the action to happen. In CFJ 1719, where Zefram found that:
+            "... game custom is generally permissive in this respect.
+ It is entirely possible for one person to send a message on behalf of
+ the other."
+So for the action to be successful, we must use the a different tradition,
+that "the Grantor Announces".
+
+Fortunately, these are not mutually exclusive.
+
+Therefore, this court finds that an "on behalf of" message contains two
+announcements, one "physical" announcement made by the Holder and one
+"legal fiction" announcement made by the Grantor.  Note that legal fiction
+announcements may have different properties than "actual" announcements
+(e.g. domain of control) but this does not mean they are ineffective.
+
+For this CFJ, the important realization is that the content of the
+Holder's announcement is merely that the Grantor announces something, and
+the success or failure of the Holder's announcement is based solely on
+whether the Holder has PoA authority for acting on behalf of the Grantor
+for making the Grantor's announcement, and *not* based on whether the
+Grantor's announced action is or can be successful.  Therefore, the
+Holder's announcement in general has no direct bearing on the Holder's
+assets or votes.
+
+========================================================================

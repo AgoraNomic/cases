@@ -1,0 +1,85 @@
+==============================  CFJ 2118  ==============================
+
+    A judicial finding has determined that X, for the purposes of R2125
+    and R2161, if and only if a CFJ directly inquiring into the veracity
+    of either X or not X has a judgment of TRUE or FALSE respectively.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  Quazie
+Judgement:                              
+
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       04 Aug 2008 13:01:43 GMT
+Assigned to Quazie:                     09 Aug 2008 14:32:43 GMT
+Quazie recused:                         23 Aug 2008 16:44:41 GMT
+Assigned to BobTHJ:                     26 Aug 2008 23:30:10 GMT
+BobTHJ recused:                         27 Aug 2008 14:41:31 GMT
+Assigned to ais523:                     08 Sep 2008 01:32:44 GMT
+ais523 recused:                         08 Sep 2008 18:15:54 GMT
+Assigned to G.:                         14 Sep 2008 01:29:41 GMT
+Judged FALSE by G.:                     15 Sep 2008 06:20:46 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+"judicial finding" is not defined by the rules.  However,
+the best interests of the game and common sense dictate that such a
+finding should not include a judge's statement that e "finds" X in the
+reasoning behind a judgment completely unrelated to X, but rather an
+appealable direct judgment into the veracity of X.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+Consider what would happen if, in judging a criminal case, a judge
+said, "The defendant has stated that e has no intention to follow this
+rule in the future. Since ignoring this rule forever is a very serious
+offense, I sentence em to EXILE for 60 days; this sentence covers not
+only this offense but any future time the defendant breaches this
+rule. Therefore, e CANNOT be punished for violating it again."
+
+========================================================================
+
+Judge G.'s Arguments:
+
+CFJ 1690 set out a principle that an extended set of indirect inferences
+is insufficient to result in a direct judicial finding in cases where the
+Rules require one.  In that example, a judgement finding or challenge Y
+that requires several steps of inference to get to X (e.g. Y -> P -> Q -> X)
+does not sufficiently constitute a judicial finding of X.
+
+However, this CFJ statement is too strict in the other direction.  For
+example, if X is inarguably and clearly a member of set P, and a judicial
+finding is clear that all members of set P are regulated, this "single step"
+inference would satisfy a finding of X.  In essence, just as in determining
+clarity of communication, the directness of the inference must be
+determined on a case-by-case basis.
+
+While this court generally errs in the direction of this CFJ being true
+in *most* cases, the "if and only if" statement in conjunction with the
+broad and hypothetical nature of this CFJ statement would even disallow
+the most strong and obvious inferences; if only to prevent these strong
+and obvious inferences from failing due to strict technicality, this court
+finds FALSE.
+
+========================================================================

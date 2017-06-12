@@ -1,0 +1,139 @@
+==============================  CFJ 1530  ==============================
+
+    Quazie's Hand is Free.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Manu
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           16 Feb 2005 01:42:42 GMT
+Assigned to Manu:                       20 Feb 2005 00:27:29 GMT
+Judged TRUE by Manu:                    22 Feb 2005 23:21:02 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+While everyone else's hands are currently frozen, the freezing
+occured because of an event [R2075] flipping a stuck switch
+[R2074].  Because Quazie's hand wasn't explicitly Frozen, it is
+in the default state [R2040], which is the first listed state
+in R2074, that is, Free.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 2074/0 (Power=2)
+Hand Flux
+
+       Flux is a stuck switch for Gamblers with states Free and Frozen.
+       Rules to the contrary nonwithstanding, a Gambler with frozen
+       flux may not play, discard, or transfer cards from eir hand, nor
+       may the Deckmastor satisfy pending draws for that hand.
+
+       The Deck's flux shall always be free, rules to the contrary
+       nonwithstanding.
+
+Rule 2075/1 (Power=1)
+Winning Hands
+
+       The Deckmastor's Budget shall contain between one and three
+       Winning Hands, each of which is a list of cards with a hand size
+       at least two greater than the Maximum Hand Size.
+
+       If a Gambler's Hand is identical to a winning hand at any
+       particular moment, any Gambler has 72 hours from that moment to
+       announce that a Gambler holds or has held a winning hand.
+
+       If the announcement is false, the Deckmastor shall, as soon as
+       possible, transfer 1 card at random from the announcing
+       Gambler's Hand to the Deck.
+
+       If the announcement is true, the holding Gambler Wins the Game,
+       and is awarded the boon of Pokerface and the defined regular
+       Patent Title Champion.
+
+       Exactly one week after a true announcement, the Flux of all
+       Gamblers except the Deck shall become frozen.  The Deckmastor
+       shall transfer random cards from the hands of each frozen
+       gambler to the deck, until each frozen gambler has either (a) a
+       hand size equal to or less than the Minimum hand size or (b) no
+       cards.  Then, the Deckmaster shall deal cards to the winner up
+       to the maximum hand size.  When these tasks have been peformed,
+       the Flux of every Gambler shall become free.
+
+       If no one has won the game in the last six months, then any
+       Gambler may announce a Skunk, which shall trigger the effects of
+       a true announcement of a win above, except that no boon shall be
+       awarded nor shall extra winner's cards be dealt.
+
+Rule 2040/1 (Power=2)
+Switches
+
+       A switch is a set of states associated with a class of entities.
+       Each switch shall have a default state, which if not otherwise
+       specified shall be the first state mentioned in the rule
+       defining the switch.
+
+       The recordkeepor for a class of entities shall also maintain
+       records of any switches associated with that class, as well as
+       the current state of the switch for each entity of the class.
+       If the recordkeepor is required to publish a report, that report
+       shall include records of these switches.  The rules may require
+       a different player to maintain and report these records.
+
+       Whenever an entity is created in a class of entities associated
+       with a switch, it shall be in the state of the switch specified
+       by the order or provision creating it; if no state is specified,
+       it shall be in the default state of the switch.
+
+       Whenever an entity joins a class of entities associated with a
+       switch, the entity shall be in the default state of the switch.
+
+       A player who may flip a switch on an entity to some state may do
+       so by announcement.  In eir announcement, e must indicate the
+       entity, switch, and new state.  When a switch on an entity is
+       flipped to some state, the entity shall come to be in that state
+       and simultaneously cease to be in any other state of the switch.
+
+       A switch is loose unless the rules define it as stuck.
+
+       An executor of an entity may flip any of the loose switches on
+       that entity, unless the rules otherwise prohibit doing so.
+
+       The stuck switches on an entity can be flipped only when the
+       rules so indicate.
+
+       Whenever a switch is created, or becomes associated with a class
+       of entities, then each entity in the class that had previously
+       been in a state that is now a state of the switch shall continue
+       to be in that state; all other entities in the class shall be in
+       the default state of the switch.
+
+========================================================================
+
+Judge Manu's Arguments:
+
+I must agree with Goethe's argument that "[...]Because Quazie's hand
+wasn't explicitly Frozen, it is in the default state [R2040], which is
+the first listed state in R2074, that is, Free."
+
+According to R2075: "When these tasks have been peformed, the Flux of
+every Gambler shall become free." - while it explicitely declares that
+the Flux will be switched from Frozen to Free after the Deckmastor's
+maintenance tasks, nothing in the Rules defines the arrival of new
+Gamblers while all active decks are Frozen.
+
+Rule 2040 (Switches) has a Power of 2 and R2075 has a Power of 1.
+Thus, I view that Flux's default state (Free) is still valid.
+On that, I return a judgement of TRUE for CFJ 1530.
+
+========================================================================

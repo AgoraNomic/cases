@@ -1,0 +1,305 @@
+==============================  CFJ 1607  ==============================
+
+    Non-Unanimous (Voting index not Unanimity) Agoran Decisions may not
+    be adopted.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Zefram
+
+Judge:                                  Cecilius
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           12 Jan 2007 20:48:00 GMT
+Assigned to Cecilius:                   31 Jan 2007 13:03:46 GMT
+Judged FALSE by Cecilius:               02 Feb 2007 11:04:40 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In this argument, I use "Unanimity" and "Unanimous" interchangeably (by common
+language, Unanimity is the state of being Unanimous).
+
+Part 1.  Why Agoran Decisions in general can't be adopted.
+
+"Index" is no longer defined in the Rules, and thus they may not be numbers,
+and no ordering of indices is implied in the Rules.    But adopting Agoran
+Decisions requires a comparison of indices, with the value 1, and with each
+other, which requires an ordering.  Since this ordering is not defined, in
+general, we must fall on the "otherwise" clause in the last sentence of R955
+which requires that REJECTION be the option selected.
+
+Part 2.  Why Unanimous Proposals may be adopted.
+
+One other aspect of Agoran common custom is that this is a legal
+game before a logic/mathematical one, and we've used in the past
+legal reasonableness to sidestep the more trivial paradoxes.  Especially true
+in the current, slimmed-down ruleset.
+
+In legal terms, "Unanimous" means "having the agreement and consent of all".
+(Merriam Webster).
+
+By Rule 1503, the Rules are a binding agreement between players,
+and the proposal process is defined (prima facie) as a means of
+determining consent to changes in the terms of the rules as an
+agreement.  Note that the "proposal process" includes proposals
+with and without rules changes.
+
+A part of this process (R955) legally declares a decision index
+to be "Unanimous" under certain voting results, without further definition of
+the term Unanimous.  Unanimous does not in fact have a mathematical
+definition, implying the legal or common language usage is a better guide.  We
+should use the legal
+sense of the term, in that certain conditions (quorum and no
+AGAINST votes) legally determine that all parties to the agreement have
+consented to a change in that agreement.  Note that this
+declaration occurs prior to the index comparison.
+
+And if all parties to an agreement have consented, it would substantially
+abridge the rights of the Players in R101 if we *didn't* assume prima facie
+that the change was valid.  Therefore,
+not accepting a definition of "Unanimous" as consent to change,
+and throwing out the change, would legally violate R101.
+
+This consideration surpasses the consideration of an undefined
+numerical ordering comparison in R955, in that R101 is superior to R955, both
+in its claim over rights and numerical precedence
+(R1030, fortunately, Power is not an "index", R1688).
+
+[Note that this only applies as long as "Unanimous" as defined
+in the Rules is reasonably like the common language definition.  Currently, a
+vote that meets quorum and has no AGAINST votes
+is unanimous by the Rules and by common sense: if the rules were re-written so
+that "unanimous" were defined as "if the dictator says so", that would be so
+far different from the common language definition that we should throw out the
+prima facie argument and declare the definition as contrary to R101 rights.]
+
+Finally, to opine that indices and Unanimity are both broken would result in a
+violation in R1698, as no proposals at all
+could be adopted.
+
+Note that this does not apply to Agoran Decisions that are not Proposals,
+which are not considered prima facie protective of rights by R1503.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1503/6 (Power=3)
+Rules Violations
+
+      In general, the Rules shall be adjudicated as if the Rules were
+      a binding agreement between all Players, entered into by every
+      player as a part of becoming a Player.  An actual or alleged
+      Rule violation shall be treated as the violation of a binding
+      agreement to be bound by the Rule or Rules in question.
+
+      The proposal, fora, and registration processes shall, prima
+      facie, be considered to be protective of a Player's rights and
+      privileges with respect to making and changing the agreement to
+      be bound by the rules.
+
+      Other rules may further differentiate the treatment of rules
+      violations from the treatment of violations of other types of
+      agreements.
+
+Rule 955/10 (Power=3)
+Determining the Will of Agora
+
+      To determine which option on a particular Agoran decision was
+      selected by Agora, the vote collector shall perform the
+      following steps in order after the voting period has ended.
+
+      (a) E shall invalidate any ballots which the rules require em to
+          invalidate, and no others.
+
+      (b) E shall count the number of distinct voters who submitted
+          ballots which remain valid.  If this number is less than the
+          quorum and there is more than one available option, then the
+          option selected by Agora is FAILED QUORUM.  Otherwise, the
+          decision achieved quorum.
+
+      (c) If the decision is whether to adopt a proposal, e shall
+          determine the voting index as follows:
+
+          (1) if the strength of FOR is positive and the strength of
+              AGAINST is zero, then the voting index is Unanimity; but
+
+          (2) if the strength of FOR is zero, then the voting index is
+              zero; otherwise,
+
+          (3) the voting index is the ratio of the strength of FOR to
+              the strength of AGAINST.
+
+          If the voting index exceeds one and meets or exceeds the
+          adoption index of the decision, and if further quorum was
+          achieved, then the option selected by Agora is ADOPTED.
+          Otherwise, the option selected by Agora is REJECTED.
+
+Rule 101/4 (Power=3)
+Agoran Rights and Privileges
+
+      The rules may define persons as possessing specific rights or
+      privileges.  Be it hereby proclaimed that no binding agreement
+      or interpretation of Agoran law may abridge, reduce, limit, or
+      remove a person's defined rights.  A person's defined privileges
+      are assumed to exist in the absense of an explicit, binding
+      agreement to the contrary.  This rule takes precedence over any
+      rule which would allow restrictions of a person's rights or
+      privileges.
+
+         i. Every person has the privilege of doing what e wilt.
+
+        ii. Every player has the right to perform an action which is
+            not regulated.
+
+       iii. Every person has the right to invoke judgement, appeal a
+            judgement, and to initiate an appeal on a sentencing or
+            judicial order binding em.
+
+        iv. Every person has the right to refuse to become party to
+            a binding agreement.  The absense of a person's explicit,
+            willful consent shall be considered a refusal.
+
+         v. Every person has the right to not be considered bound by
+            an agreement, or an amendment to an agreement, which e has
+            not had the reasonable opportunity to review.
+
+        vi. Every player has the right of participation in the fora.
+
+       vii. Every person has the right to not be penalized more than
+            once for any single action or inaction.
+
+      viii. Every player besides the Speaker has the right to
+            deregister rather than continue to play.
+
+      Please treat Agora right good forever.
+
+Rule 1698/0 (Power=3)
+The Proposal System Is Protected
+
+      It must always be possible to adopt Proposals within a 4 week
+      period. Any change to the game state which would result in
+      this condition becoming false is cancelled and does not take
+      place, any Rule to the contrary notwithstanding.
+
+========================================================================
+
+Judge Cecilius's Arguments:
+
+*[1] *The Call for Judgement (cfj) in question was called by Goethe on 12
+January 2007 on the statement .Non-Unanimous (Voting index not Unanimity)
+Agoran Decisions may not be adopted.. As well as the cfj statement, Goethe
+provided a two-part argument and references to four specific rules.
+
+*[2] *On 31 January 2007, this cfj was assigned to me for a decision.
+
+
+   Agoran Decisions can not generally be adopted
+
+
+     Summary of Part 1 of Goethe.s Arguments
+
+*[3] *In Part 1 of eir arguments, Goethe argues that, the term /index/ no
+longer being defined by the rules, indices can no longer be limited to
+numbers, and no ordering is implied.
+
+*[4] *E further argues that the adoption of Agoran Decisions requires a
+comparison of indices, which requires an ordering.
+
+*[5] *Because such an ordering is not defined, e argues that the last sentence
+of Rule 955 requires REJECTION of any Agoran Decision.
+
+
+     Judge.s Response
+
+*[6] *For convenience, in this Decision, I will refer to the paragraph numbers
+above ([3] through [5]) to refer to the portions of Geothe.s arguments that
+each summarizes. Where I quote dictionary definitions in this Decision, I
+quote the Merriam-Webster Online Dictionary.s first definition for the word in
+question.
+
+*[7] *I first look at the term /index/. The first dictionary definition reads
+.a device (as the pointer on a scale or the gnomon of a sundial) that serves
+to indicate a value or quantity..
+
+*[8] *There may be some basis, under that definition, for indices to be
+understood as numbers through metonymic reference to the value or quantity
+indicated. However, the evidence would need to be much clearer for me to
+consider that to be generally true. So I concur with the paragraph [3]
+argument, insofar as it applies to all indices as a group.
+
+*[9] *Goethe.s paragraph [4] attempts to build on the paragraph [3] argument,
+however it does not clearly reflect the terms of the rule in question.
+
+*[10] *Specifically, this portion of eir argument is grounded in Rule 955, and
+its final section:
+
+.If the voting index exceeds one and meets or exceeds the adoption index of
+the decision, and if further quorum was achieved, then the option selected by
+Agora is ADOPTED. Otherwise, the option selected by Agora is REJECTED..
+
+This section requires that, for ADOPTION, (i) the voting index must exceed
+one, (ii) the voting index must meet or exceed the adoption index of the
+decision, and (iii) quorum must be achieved.
+
+*[11] *The paragraph [4] argument mis-states the terms of Rule 955 in that it
+attempts to infer from the general terms of paragraph [3] that the ordering
+required by that rule is always undefined. But these are not generic indices
+that are being compared.
+
+*[12] *The term /voting index/ is defined by paragraph (c) of Rule 955 as .the
+ratio of the strength of FOR to the strength of AGAINST..
+
+*[13] *Looking to the Merriam-Webster Online Dictionary, /ratio/ is first
+defined as .the indicated quotient of two mathematical expressions..
+
+*[14] *The same dictionary first defines /quotient/ as .the number resulting
+from the division of one number by another..
+
+*[15] *Insofar as concerns the term /voting index/, the common English
+language interpretation of its Rule 955(c) definition is sufficient to
+conclude that it refers to a number.
+
+*[16] *I now turn to the term /adoption index/. That term is defined in Rule
+106, which states .The default adoption index of a proposal is one.. Rule 106
+also provides for the proposer to modify the adoption index of a proposal by
+announcement, before its distribution.
+
+*[17] *While the repeal of the definition of /index/ may not require an
+/adoption index/ to be a number, there is nothing to prevent it from being so,
+and in fact its default setting is numeric.
+
+*[18] *The comparison required for adoption of Agoran Decisions is a
+comparison of the voting index and the adoption index, and not of some generic
+indices.
+
+*[19] *In those cases where the adoption index is a number (i.e. has not been
+changed from a number to something else), and thus both items being compared
+are numbers, there is an implied numerical ordering from the common language
+interpretation of the terms of that Rule 955.
+
+*[20] *For that reason, Goethe.s paragraph [5] argument does not apply to all
+non-Unanimous Agoran Decisions, because there are some for which a numerical
+ordering applies.
+
+*[21] *In passing, I note that there may be situations where the adoption
+index is not a number and where it is possible that no implied ordering can be
+found to allow adoption of a given Agoran Decision. However, a detailed
+consideration of this issue would be far beyond the terms of the Statement for
+which judgement has been called in this matter.
+
+*[22] *Having found sufficient cause under Part 1 of Goethe.s argument to
+judge that some non-unanimous Agoran Decisions may be adopted (those with a
+number as an adoption index), I need not consider the arguments e raises in
+Part 2 of eir arguments to make my decision.
+
+*[23] *For the foregoing reasons, I judge CFJ 1607 as FALSE.
+
+========================================================================

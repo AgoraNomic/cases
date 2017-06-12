@@ -1,0 +1,212 @@
+==============================  CFJ 3129  ==============================
+
+    Do or did  I register.  ?
+
+========================================================================
+
+Caller:                                 ehird
+
+Judge:                                  Pavitra
+Judgement:                              MALFORMED
+
+
+Judge:                                  Pavitra
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by ehird:                        05 Dec 2011 21:02:38 GMT
+Assigned to Pavitra:                    06 Dec 2011 08:54:14 GMT
+Judged MALFORMED by Pavitra:            06 Dec 2011 22:45:51 GMT
+Reconsideration requested by omd:       07 Dec 2011 00:51:13 GMT
+Reconsideration requested by Murphy:    07 Dec 2011 01:08:58 GMT
+Reconsideration requested by ehird:     07 Dec 2011 20:27:16 GMT
+Assigned to Pavitra:                    07 Dec 2011 20:27:16 GMT
+Judged UNDETERMINED by Pavitra:         08 Dec 2011 05:16:46 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Do or did
+
+I register.
+
+? (CFJ.)
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+Trivially TRUE;
+whoever initiated this case did register at some point, though
+not necessarily recently.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+If the above-quoted message failed to initiate a judicial case,
+then I initiate one with the statement "Do or did I register. ?"
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+On 6 December 2011 08:37, Elliott Hird <penguinofthegods@googlemail.com>
+wrote:
+> I intend the newlines to be a vital part of the statement.
+
+Oh, and (non-)arguments: The three possible ambiguous temporal points
+that the CFJ's statement could be evaluated at is also intended to be
+relevant.
+
+========================================================================
+
+Gratuitous Arguments by Machiavelli:
+
+to me, "did I register?" sounds like it's asking about a
+specific time period (in this case, the time that the ehird's message
+was sent), much the way that "did you buy milk at the gas station?" is
+asking only about the most recent trip outside.
+
+========================================================================
+
+Gratuitous Arguments by ehird:
+
+I was going for an ambiguity with the fact that the
+indication of the message's CFJ nature, and thus arguably the calling
+of the CFJ, occurs after the isolated registration statement; so "did
+I register?" would be TRUE as I would have done so immediately prior.
+
+But at the same time, spatially, "did I" appears before the
+registration statement.
+
+And "do [...] I register" can be read as one statement, such that the
+CFJ is interpreted to be referring to events at the same time as the
+registration, in which case it would be TRUE.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+See CFJ 1267.
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+First, the caller's stated intention that "the newlines be a vital part
+of the statement" is wholly irrelevant, as whitespace insensitivity is
+Rule rather than custom.
+
+R754(1):
+                                                    A difference
+          between two nonempty spans of whitespace is inconsequential
+          in all forms of communication for all purposes.
+
+The original message therefore reads, in full:
+{
+Do or did I register. ? (CFJ.)
+}
+
+I accept H. CotC Murphy's reading that the "(CFJ.)" is not part of the
+statement text.
+
+I considered trying to treat "Do or did I register." as a statement or
+speech act, and "?" as the entire CFJ statement, but "Do or did I
+register." simply does not work as a non-question. Furthermore, it
+clearly does not work as a question either, because it is -- obviously
+deliberately -- terminated in a period.
+
+R754(1) is no help here, because the difference is one of punctuation
+(grammar) rather than whitespace, and the difference does in fact create
+an ambiguity of meaning.
+
+I am forced to conclude that the entire message is malformed and
+meaningless. The only sense that can be extracted is that there was a
+CFJ called, and that it was supposed to have something to do with
+registration by the caller, possibly past and/or hypothetical.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+I intend to call for reconsideration with two support: "Do I or did I
+register?" is a well-formed yes/no question per R591.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+Support.  omd's text within quotes differs from the statement by a
+period and an instance of whitespace, but is nevertheless reasonably
+close, whereas no other well-formed statement or yes/no question is.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d56c>:
+
+[CotC: Thu, 8 Dec 2011 00:04:26 +0000 if eir ambiguous registration was
+ineffective]
+
+========================================================================
+
+Judge Pavitra's Arguments:
+
+I accept the arguments for reconsideration given by omd and Murphy. Per
+CFJ 3130, ehird did not register by means of the message in which e
+called this case. However, ehird did register at some point in the
+distant past. It thus remains to determine the temporal scope of the
+question.
+
+In the absence of any specific times named, there are three potentially
+reasonable interpretations of the question:
+
+1) Do/did I register in this message?
+According to CFJ 3130, FALSE.
+
+2) Do/did I register in the unspecifiedly-recent past?
+According to the Registrar's report, ehird's most-recent registration
+before this CFJ was 26 February 2009. FALSE by any sensible standard of
+"recent".
+
+3) Do/did I register at any point in the past?
+TRUE.
+
+The rules usually invoked to resolve questions of interpretation of a
+text seem to have been written with the assumption that the text to be
+interpreted is part of a Rule. R217 is wholly without effect here, as is
+the first paragraph of R754(2).
+
+As far as I can tell, the possible relevant bits of Rule are 754(3) and
+(4). Since "do" and "did" are by no stretch of the imagination
+"primarily used in mathematical or legal contexts", we have to go by
+ordinary-language meaning.
+
+Some considerations:
+
+1. It seems to me that the most natural phrasing of sense 3) would be
+"Have I [ever] registered?".
+
+2. The inclusion of "do" may indicate the speaker trying to focus on
+present or near-present ("on or about right now").
+
+3. Contrariwise, the separate inclusion of "do" as distinct from "did"
+may indicate that "did" focuses specifically on the past.
+
+These considerations do not seem sufficient to decide between the
+various plausible interpretations of the CFJ statement. This fundamental
+ambiguity is, I think, confirmed by the ongoing controversy in a-d
+regarding how best to interpret the meaning of "did".
+
+While it is generally the responsibility of a judge to resolve ambiguity
+rather than to verify it, ambiguity is generally in the Rules
+themselves. The conditions for appropriateness of UNDETERMINED in R591
+draw this distinction explicitly.
+
+So, in summary, UNDETERMINED.
+
+========================================================================

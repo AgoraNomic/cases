@@ -1,0 +1,41 @@
+==============================  CFJ 3155  ==============================
+
+    If a report that contains a "recent history" section is ratified, it
+    also ratifies the fact that any missing events pertaining to that
+    report, that might have otherwise occurred between the earliest and
+    latest recorded events, did not occur.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           26 Jan 2012 19:26:23 GMT
+Assigned to Murphy:                     05 Feb 2012 21:08:08 GMT
+Judged FALSE by Murphy:                 05 Feb 2012 21:32:47 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Ratification by omission works?
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+If "history" is interpreted as implicitly meaning "complete history of
+certain types of event during a certain date range", then any such
+omission would cause ratification to fail, either because the report is
+inconsistent (Rule 1551, paragraph 3) or because the omission has no net
+effect (e.g. submitting and retracting a judicial case) and it's equally
+appropriate to include or exclude it (Rule 1551, paragraph 2).  It's in
+the best interest of the game to avoid this.
+
+========================================================================

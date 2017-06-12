@@ -1,0 +1,119 @@
+==============================  CFJ 2852  ==============================
+
+    G. cast 7 valid ballots on the decision to adopt proposal 6830.
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 Murphy
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           09 Sep 2010 22:15:09 GMT
+Assigned to Wooble:                     09 Sep 2010 22:33:44 GMT
+Judged FALSE by Wooble:                 10 Sep 2010 02:28:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Arguments:
+from G.
+> Information about what my voting limit would be at the time of resolution
+> was NOT available at the end of (or during) the voting period.  So at
+> the very least, conditional voting requires you to use a value from
+> within the voting period.
+
+from ais523:
+> CoE: when G. says "FOR" and does not clarify it, e means that e casts a
+> number of votes equal to eir current voting limit (rule 2280). The fact
+> that if e had cast more votes, they would have been valid, does not
+> change the number of votes e actually cast. (i.e. voting "FOR" means
+> "FOR x my voting limit", not "FOR x 1000000" or whatever).
+
+========================================================================
+
+Caller's Evidence:
+
+On Thu, 9 Sep 2010, Kerim Aydin wrote:
+> On Thu, 9 Sep 2010, Ed Murphy wrote:
+>
+> > G. wrote:
+> >
+> > >> On 9 September 2010 09:01, Ed Murphy <emurphy42@socal.rr.com> wrote:
+> > >>> G.           7P    7P    7P    7P
+> > >
+> > > CoE:  I cast a number of votes equal to my voting limit AT THE TIME.
+> >
+> > Denied.  Rule 2280 does not explicitly state this, and Rule 2156
+> > suggests that your voting limit at the time of resolution is what
+> > matters.  (Interpreting otherwise would also make it more tedious
+> > to record votes, as the Assessor would have to check the state of
+> > the list at each time someone cast a vote on an ordinary proposal,
+> > probably in addition to checking it at the end of either the voting
+> > or the resolution period.)
+>
+> Information about what my voting limit would be at the time of resolution
+> was NOT available at the end of (or during) the voting period.  So at
+> the very least, conditional voting requires you to use a value from
+> within the voting period.
+
+I contest/CoE G.'s votes on all of 6822-6833, pending the resolution of
+the following CFJ.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+As the author of the Implicit Votes rule, I (IIRC)
+initially considered either defining the concept of an infinite number
+of votes or setting some large number, but decided on "voting limit"
+(i.e. voting limit at the time, since voting limit in the future is
+not a defined quantity at the time of the vote) for simplicity.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+I judge CFJ 2852 FALSE.  Following the precedent of CFJ 2802, when a
+player casts a vote of AGAINST, implicitly voting a number of times
+equal to eir voting limit, the number of votes cast is determined at
+the time of the vote. G. submitted 2 valid ballots on the decision,
+the first with 1 vote AGAINST, which was retracted, and the second
+with 1 vote denouncing omd.  At no time during the voting period was
+G.'s voting limit 7; even if e had explicitly cast 7 votes AGAINST the
+proposal only 2 would have counted.
+
+For reference--Timeline:
+
+Fri, 27 Aug 2010 02:46:36 -0600 - Herald's report lists G. as Cabinet
+Secretary (rubberstamp, no effect on voting limit)
+
+Wed, 1 Sep 2010 09:58:57 -0400 - P6830 is distributed
+
+Wed, 1 Sep 2010 08:40:55 -0700 (PDT) - G. votes AGAINST all decisions
+in their voting periods
+
+Wed, 1 Sep 2010 14:38:31 -0700 (PDT) - e retracts all votes and votes
+DENOUNCE OMD
+
+Sat, 4 Sep 2010 10:41:04 -0700 (PDT) - list of succession is
+randomized, G. is at position 14
+
+Wed, 8 Sep 2010 09:58:57 -0400 - voting period ends
+
+Wed, 8 Sep 2010 20:30:10 -0700 (PDT) - list of succession published;
+shows G. with Influence of 2
+
+Wed, 8 Sep 2010 20:51:52 -0700 (PDT) - rebellion succeeds; G. moves to
+2nd on list of succession, with influence 7
+
+Thu, 09 Sep 2010 00:01:28 -0700 - decision to adopt P6830 is
+purportedly resolved.
+
+========================================================================

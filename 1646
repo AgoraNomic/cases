@@ -1,0 +1,102 @@
+==============================  CFJ 1646  ==============================
+
+    Quazie's VC spending in the message identified by message ID
+    <4635317D.8030401@gmail.com> took effect in the Agoran week
+    beginning at 00:00 UTC on 30 April 2007.
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       30 Apr 2007 00:39:20 GMT
+Assigned to Taral:                      04 May 2007 20:21:22 GMT
+Judged TRUE by Taral:                   18 May 2007 22:44:34 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Game custom is not entirely decided on when a message is effective.
+A couple of rules have in the past referred explicitly to the "Date:"
+header, but this was generally regarded as a bug, because that header can
+be arbitrarily wrong.  We have the common practice of using the "Date:"
+in cases where it is reasonably correct and the precise timing is not
+significant, but there is also explicit precedence for ignoring the
+"Date:" header entirely where it is manifestly wrong.
+
+We've previously had the standard (I'm not sure how formal) that a message
+was effective when it left the player's domain of technical control.
+This can generally be judged by the first Received: header added (which
+is the one that appears last in the message).  Another possible standard
+would be when the message reaches the PF (the first Received: header added
+by the listserver), and another would be when the message was sent to the
+listserver's output (the last Received: header added by the listserver).
+In this case, these three standards give times of 00:00:06, 00:00:07,
+and 00:01:04 UTC, assuming that all clocks are accurate.  Each of these
+times is rounded down to the next second, so actually that 00:00:06 means
+"anywhere between 00:00:06 inclusive and 00:00:07 exclusive".
+
+I note that varying rules on the PF mean that judgements and game custom
+on this issue from particular periods of the game are not necessarily
+applicable now.
+
+========================================================================
+
+Caller's Evidence:
+
+these are the headers from Quazie's message that contain dates,
+up to the last one added by the PF listserver:
+
+> >Received: from yzma.clarkk.net (localhost [127.0.0.1])
+> >     by yzma.clarkk.net (Postfix) with ESMTP
+> >     id 3AF5A8067E; Sun, 29 Apr 2007 19:01:04 -0500 (CDT)
+> >Received: from py-out-1112.google.com (py-out-1112.google.com
+[64.233.166.183])
+> >     by yzma.clarkk.net (Postfix) with ESMTP id 785CC80680
+> >     for <agora-business@agoranomic.org>; Sun, 29 Apr 2007 19:00:07 -0500
+(CDT)
+> >Received: by py-out-1112.google.com with SMTP id f31so1255755pyh
+> >        for <agora-business@agoranomic.org>; Sun, 29 Apr 2007 17:00:07
+-0700 (PDT)
+> >Received: by 10.35.75.1 with SMTP id c1mr10221091pyl.1177891206799;
+> >        Sun, 29 Apr 2007 17:00:06 -0700 (PDT)
+> >Received: from Quazies-FUNK-O-TRON.local ( [69.241.241.81])
+> >        by mx.google.com with ESMTP id u2sm11376690pyb.2007.04.29.17.00.06;
+> >        Sun, 29 Apr 2007 17:00:06 -0700 (PDT)
+> >Date: Sun, 29 Apr 2007 19:59:57 -0400
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Rule 683 states: An eligible voter on a particular Agoran decision
+submits a ballot to the vote collector by publishing a valid notice
+indicating which one of the available options e selects.
+
+Rule 478 states: A player "publishes" or "announces" something by
+sending a public message.
+
+It is a fact that, with current computer email programs, the act of
+"sending" takes a certain amount of time; namely, the duration of the
+initiating SMTP transaction. This is marked by the Received: header --
+2007/04/30 00:00:06 GMT according to the posted emails.
+
+In the interest of fairness, unavoidable delays, i.e. those outside of
+the normal control of the player, cannot be considered in the
+determination of the time of sending. Similarly, avoidable delays
+should necessarily be included in the duration of the act of sending.
+There is analogy with real life: a letter is not sent when one
+encloses it in the envelope; it is sent when one places it in the
+mailbox and it therefore leaves one's person. Indeed, to decide
+otherwise would permit players to arbitrarily backdate announcements
+and announced actions, which would be notably against the good of the
+game (perhaps not the spirit, though *grin*).
+
+========================================================================

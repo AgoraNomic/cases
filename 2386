@@ -1,0 +1,86 @@
+==============================  CFJ 2386  ==============================
+
+    On or about Wed, 18 Feb 2009 22:28:36 +0000, a rule was created or
+    amended to contain the text "comex and ais523 were here".
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  Wooble
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       18 Feb 2009 23:44:44 GMT
+Assigned to Wooble:                     21 Feb 2009 07:52:42 GMT
+Judged TRUE by Wooble:                  25 Feb 2009 14:09:00 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+TRUE if and only if comex succeeded in changing the
+adoption index and text of Proposal 6072, *and* getting the changed text
+to take effect even though many players clearly intended their votes to
+support a much different effect.
+
+========================================================================
+
+Caller's Evidence:
+
+This is when ais523 deputised to resolve the
+decision on Proposal 6072.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+CFJ2376 established that the text of Proposal 6072 was changed to a
+form that would insert the required language in R2238; the only
+remaining issue is whether the Agoran Decision to adopt it was a
+decision to adopt the proposal as it was distributed or in the form it
+had when the decision was resolved.
+
+R107(a) specifically uses the example "the adoption of proposal 4781"
+as a matter to be decided.  It doesn't refer to the adoption of a
+proposal with a specific text, but to the adoption of a proposal with
+a specified ID.
+
+While the rules offer no guidance specifically regarding the text of a
+proposal, game custom in another area does give a bit of guidance.
+When a proposal references a rule by number, changes made by the
+proposal are taken to effect the rule in the form it had when the
+decision to adopt the proposal is resolved, not the form it had when
+the proposal was submitted.  When a proposal quotes a part of a rule
+to replace with other text, and the original text ceases to be part of
+the rule before the proposal takes effect, the proposal is deemed to
+have failed rather than to change the rule to what it would be if it
+was replaced with the old version of itself plus the changes made by
+the proposal.
+
+Analogously, the decision to adopt a proposal contains a reference to
+the proposal by ID, and when the decision is resolved the reference is
+followed and the current version of the proposal takes effect.  That
+the decision to adopt it and the essential parameters of the proposal
+itself aren't linked by anything more than this reference can be seen
+in the explicit ability for Support Democracy to change an essential
+parameter of a decision (whether it's Democratic or Ordinary) without
+affecting the proposal itself, as well as the power of the Wielder of
+Veto to affect the AI of a decision to adopt a proposal without
+affecting the proposal itself.
+
+ I judge CFJ 2386 TRUE.
+
+Tangentially, the message resolving the decision to adopt P6072
+contained a factual error, but not one that would cause it to fail.
+In eir resolution, ais523 claimed that a VI >= 3 was required for the
+proposal to pass.  It was not; the AI of the proposal itself was
+increased to 3, but the AI of the decision to adopt it was never
+increased.  R208 does not require an accurate statement of the VI
+required for the proposal to pass, just an accurate tally of the
+votes.
+
+========================================================================

@@ -1,0 +1,48 @@
+=============================  CFJ 3494  =============================
+
+      Immediately after my most recent deregistration, I had a Balance
+      Switch with a value greater than 0.
+
+======================================================================
+
+Caller:                      G.            
+
+Judge:                       Aris           
+Judgement:                   FALSE
+
+======================================================================
+
+History:
+
+Called by G.:                16 May 2017
+Assigned to Aris:            19 May 2017
+Judged FALSE by Aris:        28 May 2017
+
+======================================================================
+
+Caller's Arguments:
+
+Rule 2483/2 reads in part:
+        Agora, each player, and each organization have corresponding
+        switches known as Balance switches.
+ 
+I deregistered when my Heir switch was empty (thus no automatic balance
+transfer was triggered by Rule 2485).  Did my balance switch cease existing
+at the moment I was no longer a player?  (within 24 hours of deregistering, 
+I tried to trigger the rest of R2485, but that might have been after my 
+balance ceased existing).
+
+======================================================================
+
+Judge's Arguments:
+
+This decision is largely per caller's arguments. I note that the rules
+seem to intend this to be true, and it's in the best interests of the
+game for it to be true. However, Rule 2162/2, clause 1, says "[n]o other
+entity [than one of the type designated] possesses an instance of ... 
+[a] switch", Rule 2483/2 states that "Agora, each player, and each
+organization have ... Balance switches", and Rule 869/3 says that "[a]
+player CAN deregister (cease being a player) by announcement." My hands
+are rather tied. I judge CFJ 3494 FALSE.
+
+======================================================================

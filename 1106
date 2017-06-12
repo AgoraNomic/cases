@@ -1,0 +1,169 @@
+======================================================================
+                               CFJ 1106
+
+  In calculating the success of the Revolt of 3 Sep 1998, Swann should
+  be counted as only one player for the purposes of determining the
+  total number of players.
+
+======================================================================
+
+Judge:        Blob
+
+Judgement:    FALSE
+
+Eligible:     Antimatter, Blob, Chuck, Crito, General Chaos,
+              Harlequin, Kolja A., Macross, Michael, Morendil, Murphy,
+              Proglet, Steve
+
+Not eligible:
+Caller:       Lee
+Barred:       -
+Disqualified: -
+On hold:      elJefe, Oerjan, Swann
+
+======================================================================
+
+History:
+  Called by Lee, Thu, 3 Sep 1998 23:40:41 -0500
+  Assigned to Blob, Tue, 8 Sep 1998 10:50:49 +0100
+  Judged FALSE, Wed, 9 Sep 1998 13:32:45 +1000
+  Published, Wed, 9 Sep 1998 09:19:59 +0100
+
+======================================================================
+
+Judgement: FALSE
+
+Reasons and arguments:
+
+The caller stated that:
+>
+> The rule Rule 1837/0 (Power=1) does not mention a Revolt, just a
+> rebellion.
+
+Which is true, but irrelevant, because 1837 was amended on Aug 3 1998
+to read:
+
+Rule 1837/1 (Power=1)
+The Miscreant
+
+      Let there exist the Patent Title of "Miscreant".
+
+      If any Player has more than ten Blots, the Player with the most
+      Blots earns the Title of Miscreant.  If no Player has the most
+      number of Blots, there is no Miscreant.  The Miscreant loses
+      eir Title of Miscreant if eir number of Blots drops below ten,
+      if another Player gains as many Blots as em, or if another
+      Player gains more Blots than em.
+
+      The Herald shall announce in the Public Forum whenever a Player
+      receives or loses this Title, as soon as possible after such
+      award or revocation occurs.
+
+      A Player with the Title Miscreant counts as two Rebellious
+      Players when determining the outcome of a Revolt. This rule
+      takes precedence over any other rule determining the outcome
+      of a Revolt.
+
+The rule now explicitly mentions "the outcome of a Revolt", and has
+the necessary precedence clause to change the method described in
+1664.
+
+The question still stands as to whether the Miscreant is counted twice
+when determining "the number of Players at the time of the Call for
+Revolt", required by R1664. Does counting the Miscreant as "two
+Rebellious Players", mean counting em as two players for the total?
+
+In the absence of any other ruling discovered by this judge, either in
+the ruleset or in the history of past judgements, the decision comes
+down to one of common sense. It seems to me, necessary that being
+counted as two Rebellious Players, also implies being counted as two
+Players. R1664 makes it clear that both the selection of the random
+integer, and the comparison to the number of Rebellious Player are
+part of determining the outcome of the Revolt, so the last paragraph
+of R1837 affects them both. Swann, as the Miscreant, was therefore
+correctly counted twice, both for the number of Players and the number
+of Rebellious Players at the time of the Revolt.
+
+======================================================================
+
+(Caller's) Arguments:
+
+The rule Rule 1837/0 (Power=1) does not mention a Revolt, just a
+rebellion. Rule 1664/6 (Power=1)does not mention a Miscreant, but does
+include a clear way to calculate the success of a revolt.
+
+Evidence:
+
+Rebellion
+
+      Any Player is either Abiding or Rebellious. A new Player is
+      always Abiding when e becomes a player. A Player can switch from
+      Abiding to Rebellious or from Rebellious to Abiding by sending a
+      message to the Public Forum saying e does change so. The
+      Registrar shall maintain a list of all Players that are
+      Rebellious. This list is known as the Red Pages, and is part of
+      the Registrar's Report.
+
+      A Player may Call for a Revolt at any time, by sending to the
+      Public Forum saying e does so. A Call for Revolt is only
+      effective if the following conditions are met:
+
+         i) The player posting the Call is Rebellious,
+        ii) No other effective Call for Revolt has been made that
+            week,
+       iii) A successful Revolt has not occurred for a month or more.
+
+      As soon as possible after an effective Call for Revolt has been
+      posted, the Registrar must determine whether the Revolt
+      succeeds, as outlined below, and post the result to the Public
+      Forum.
+
+      The result of a Revolt is determined as follows: The Registrar
+      selects a random integer from 1 to the number of Players at the
+      time of the Call for Revolt. If this number is less than or
+      equal to the number of Rebellious Players at the time of the
+      Call for Revolt, then the Revolt succeeds, otherwise it fails.
+
+      If a Revolt succeeds, then the following events occur (in
+      order):
+
+         - The Registrar shall vacate all Blots of each Rebellious
+           Player.
+         - The Registrar shall pay out 2 VT to each Rebellious
+           Player.
+
+         - A Speaker Transition occurs
+         - All Players that hold one or more Offices in the normal
+           fashion cease to hold those in a normal fashion and hold
+           them temporarily instead.
+         - All Rebellious Players become Abiding again
+
+      If a Revolt does not succeed, then:
+
+         - All Rebellious Players gain 2 Blots.
+         - The Player who Called for Revolt gains 2 (additional) Blots
+
+      The Registrar shall execute all Payment Orders required by this
+      rule.
+
+      The Registrar is authorised to vacate any payment orders this
+      rule requires em to vacate.
+
+Rule 1837/0 (Power=1)
+The Miscreant
+
+      Let there exist the Patent Title of "Miscreant".
+
+      If any Player has more than ten Blots, the Player with the most
+      Blots earns the Title of Miscreant.  If no Player has the most
+      number of Blots, there is no Miscreant t.  The Miscreant loses
+      eir Title of Miscreant if eir number of Blots drops below ten,
+      if another Player gains as many Blots as em, or if another
+      Player gains more Blots than em.
+
+      A Player with the Title Miscreant counts as two Players towards
+      the tally needed for Rebellion.  If a Rebellion occurs in which
+      the Miscreant was a Rebel, the Title of Miscreant is revoked
+      from the Miscreant.
+
+======================================================================

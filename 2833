@@ -1,0 +1,128 @@
+==============================  CFJ 2833  ==============================
+
+    If I publish a message stating "I vote FOR on all Agoran Decisions
+    in their  voting period" but do not further reference any particular
+    group of decisions, I have "clearly identified" the matter to be
+    decided for all Decisions in their voting period, for the purposes
+    of R683(b).
+
+========================================================================
+
+Caller:                                 G.
+Barred:                                 omd
+
+Judge:                                  Yally
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           13 Aug 2010 23:13:12 GMT
+Assigned to Yally:                      14 Aug 2010 02:46:41 GMT
+Judged TRUE by Yally:                   20 Aug 2010 15:20:28 GMT
+Yally recused:                          20 Aug 2010 15:20:28 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+1.  Can you "clearly identify" something by a blanket specification, without
+specifically referencing the fact that you are aware that the something
+exists?
+
+2.  If so, can you identify something without acknowledging that it exists?
+
+A note that, if the voting sentences in the CFJ statements are taken to be
+conditionals (conditional on decisions existing, R2127 seems to restrict
+itself to conditional specification of option selected, but is silent on
+conditional specification of matter to be decided.  Taken with R2280 on
+implicit votes, it implies that permission to be general or conditional has
+to be found in the rules for each separate part of the voting specification
+of R683.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 683/15 (Power=3)
+Voting on Agoran Decisions
+
+      An eligible voter on a particular Agoran decision submits a
+      ballot to the vote collector by publishing a valid notice
+      indicating which one of the available options e selects.  To be
+      valid, the ballot must satisfy the following conditions:
+
+      (a) The ballot is submitted during the voting period for the
+          decision, and the submitter is an eligible voter at the
+          time of submission.
+
+      (b) The ballot clearly identifies the matter to be decided.
+
+      (c) The ballot clearly identifies the option selected by the
+          voter.
+
+      (d) The voter has not publicly retracted the ballot during the
+          voting period.  ("Changing" a vote is equivalent to
+          retracting it and casting a vote with the new value.)
+
+      Among the otherwise-valid votes on an Agoran decision, only the
+      first N submitted by each entity are valid, where N is the
+      entity's voting limit on that decision.  The voting limit of an
+      entity that is not an eligible voter on an Agoran decision is
+      zero.  The voting limit of an eligible voter on an Agoran
+      decision is one, except where rules say otherwise.
+
+      The strength of an option is the number of valid ballots
+      selecting that option.
+
+      Other rules may place further constraints on the validity of
+      ballots.  This rule takes precedence over any rule that would
+      loosen the constraints specified by this rule.
+
+Rule 2127/6 (Power=1)
+Conditional Votes
+
+      If a vote on an Agoran decision is submitted conditionally (e.g.
+      "FOR if <X> is true, otherwise AGAINST"), then the selected
+      option is evaluated based on the value of the condition(s) at
+      the end of the voting period, and is clearly specified if and
+      only if the value of the condition(s) can be reasonably
+      determined (without circularity or paradox) from information
+      reasonably available during the voting period.  If the option
+      cannot be clearly identified, a vote of PRESENT is cast.
+
+      Casting a vote endorsing another voter is equivalent to
+      conditionally casting a vote whose value is the same as the most
+      common value (if any) among that voter's valid votes on that
+      decision.
+
+      Casting a vote denouncing another voter is equivalent to
+      conditionally casting a vote whose value is opposite to the most
+      common value (if any) among that voter's valid votes on that
+      decision.  FOR and AGAINST are opposites.
+
+Rule 2280/0 (Power=3)
+Implicit Votes
+
+      When an eligible voter on an Agoran decision attempts to cast
+      ballots without explicitly specifying the number of ballots to
+      be cast (e.g. "FOR" instead of "FOR*1" or "FOR*3"), e casts a
+      number of ballots equal to eir voting limit on that decision.
+
+========================================================================
+
+Judge Yally's Arguments:
+
+Because the rules do not define what clearly identifying a decision
+means, it seems logical to me to take the common sense, literal
+definition of that phrase to infer that "clearly identifying" in this
+case means to explicitly say which decisions are under the
+identification and which are not. Because there is always a definite
+set of Agoran decisions in their voting period, and often times the
+vote FOR is a valid option, this is successful. I therefore judge this
+case to be TRUE. The rule is obviously trying to prevent against such
+behavior as "I vote FOR the best Agoran decision currently in its
+voting period," because that type of statement is ambiguous.
+
+========================================================================

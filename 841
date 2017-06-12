@@ -1,0 +1,138 @@
+From owner-nomic-official@teleport.com  Wed Jan 24 05:38:03 1996
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.21]) by Shamino.quincy.edu (8.6.12/8.6.9) with ESMTP id FAA09549 for <blahedo@quincy.edu>; Wed, 24 Jan 1996 05:37:51 -0600
+Received: from localhost (daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA08294; Wed, 24 Jan 1996 03:34:43 -0800
+Received: by desiree.teleport.com (bulk_mailer v1.3); Wed, 24 Jan 1996 03:34:39 -0800
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.12/8.6.9) id DAA08252 for nomic-official-outgoing; Wed, 24 Jan 1996 03:34:35 -0800
+Received: from wing2.wing.rug.nl (wing2.wing.rug.nl [129.125.21.2]) by desiree.teleport.com (8.6.12/8.6.9) with SMTP id DAA08198 for <nomic-official@teleport.com>; Wed, 24 Jan 1996 03:34:15 -0800
+Message-Id: <199601241134.DAA08198@desiree.teleport.com>
+Received: by wing2.wing.rug.nl
+	(1.37.109.8/16.2) id AA17945; Wed, 24 Jan 1996 12:33:53 +0100
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: CFJ 841 Judgement: FALSE
+To: nomic-official@teleport.com
+Date: Wed, 24 Jan 96 12:33:53 MET
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+
+The texts with (M) before it are only true in the Gamestate in which
+Morendil became Speaker in December
+The texts with (S) before it are only true in the Gamestate in which
+Swann became Speaker in December
+
+======================================================================
+        ASSIGNMENT CFJ 841
+
+      "Rule 1469 should be interpreted so that when the
+      destruction of a Treasury which contains a negative
+      amount of any Currency is required by the Rules, that
+      Treasury is destroyed even if the transfer of the
+      negative Currencies within does not happen."
+
+======================================================================
+
+Judge: 		Swann (defaulted)
+		(M) Blob (defaulted)
+		favor
+Judgement:	FALSE
+
+Eligible: 	Andre, favor, Kelly, Murphy, Steve, Vanyel, Vlad
+		(S) Blob, Chuck, Morendil
+
+Not Eligible:	
+Caller:     	Morendil
+Barred:		
+On Hold:    	Dave Bowen
+1005:		KoJen, Michael, Pascal, Wes
+		(M) Chuck, Morendil
+Defaulted:	Swann
+		(M) Blob
+
+Effects:	Swann gains 3 Blots for defaulting on Judgement
+		Swann is not eligible to be a Judge
+		(M) Blob gains 3 Blots for defaulting
+		(M) Blob is not eligible to be a Judge
+		favor gains 5 Points for speedy Judgement
+
+======================================================================
+
+History:
+  Called by Morendil, Mon, 1 Jan 1996 22:43:01 +0001
+  Assigned to Swann, 4 January 1995, 02:40 MET
+  Defaulted by Swann, 11 January 1995, 02:40 MET
+  (M) Assigned to Blob, 15 January 1995, 13:50 +0100
+  (M) Defaulted by Blob, 22 January 1995, 13:50 +0100
+  Assigned to favor, 23 January 1995, 12:52 MET
+  (M) Judged FALSE by favor, 23 January 1996, 10:23 EST
+  (S) Judged FALSE by favor, 23 January 1996, 10:45 EST
+
+======================================================================
+
+Reasons & arguments : none.
+
+Relevant Rules : 1472, 1469. I respectfully request of the Judge an
+Injuction to annotate Rule 1469 with this Statement.
+
+=====================================================================
+
+Reasons and Arguments, Judge:
+
+The Statement is, I fear, FALSE only on extremely narrow and
+uninteresting, yet unavoidable, grounds.  As my esteemed
+colleague noted in the Judgement of CFJ 842:
+
+> Rule 1469/2 doesn't say anything about what happens when
+> Treasury-destruction in general occurs; it just talks about
+> what happens when a Treasury-possessing entity is destroyed.
+
+Therefore any statement of the form "Rule 1469 should be
+interpreted so that <some general statement about all
+Treasury-destructions>" is FALSE on its face.  There could
+be other instances of Treasury-destruction, unrelated to
+the destruction of a Treasury-possessing entity, and since
+1469 would be silent on them, it seems clear that it cannot
+be interpreted as having any bearing whatever upon them.
+
+Note that a related Statement such as
+
+      "Rule 1469 should be interpreted so that when an
+      Entity which possesses a Treasury is destroyed, or
+      ceases to be permitted to possess a Treasury, the
+      Treasury is destroyed even if the transfer of the
+      negative Currencies within does not happen."
+
+would have been judged TRUE (see the Judge's arguments
+in CFJ's 842 and 843).  And so, of course, would have
+been
+
+      "The Rules should be interpreted so that when the
+      destruction of a Treasury which contains a negative
+      amount of any Currency is required by the Rules, that
+      Treasury is destroyed even if the transfer of the
+      negative Currencies within does not happen."
+
+for the uninteresting reason that *any* statement of
+the form "The Rules should be interpreted so that when
+X is required by the Rules, X occurs" must be TRUE.
+
+It is possible to argue that if a Statement like "The
+Rules generally should be interpreted so that X" is TRUE,
+then so is any statement of the form "Rule ZZZZ should
+be interpreted so that X".  If that were correct, I should
+Judge the Statement in this CFJ to be TRUE, on the grounds
+that it says "Rule 1469 should be interpreted so that
+if the Rules require X to occur, then it does occur".
+
+But I think this would be misleading; while it is true
+in logic that every statement implies a tautology, we
+are dealing with human language here, not logic, and
+"Rule 1469 should be interpreted so that X" is not merely
+a more complex way of saying "If Rule 1469, then X".
+
+The injunction is, of course, denied.
+
+Respectfully submitted,
+
+Judge favor

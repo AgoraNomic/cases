@@ -1,0 +1,73 @@
+==============================  CFJ 2835  ==============================
+
+    CFJ 2830a has been judged.
+
+========================================================================
+
+Caller:                                 Murphy
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       17 Aug 2010 04:55:07 GMT
+Assigned to ais523:                     22 Aug 2010 12:12:12 GMT
+Judged FALSE by ais523:                 25 Aug 2010 07:49:39 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Relevant sequence of events:
+
+  1) Murphy opined AFFIRM without prejudice
+  2) Warrigal opined AFFIRM without prejudice
+  3) Warrigal changed to REMAND without prejudice
+  4) G. opined OVERRULE without prejudice
+  5) Murphy changed to REMAND without prejudice
+  6) G. allegedly changed to REMAND without prejudice
+
+Rule 911's panel-majority clause specifies "immediately after" with
+only two possible targets:
+
+  a) "all members have so published".  This occurred at #4, but
+     there was no majority opinion at that time.
+
+  b) "the time limit for so publishing has ended".  This hasn't
+     happened yet.
+
+Thus, if there's no majority when the last panelist weighs in, then all
+panelists have until the end of the time limit to change their minds,
+even if a majority happens to be achieved somewhere in between.  Which
+may have been intentional.
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 911, relevant excerpt:
+
+      As soon as possible after a judicial panel is assigned, each
+      member of the panel SHALL publish an appeals opinion indicating
+      a valid judgement to assign to the case -- only the last such
+      published opinion for each member is used to determine the
+      outcome.  Each member SHOULD choose an appropriate judgement,
+      and include arguments for eir choice.  If, immediately after
+      either all members have so published or the time limit for so
+      publishing has ended, a majority of the members have opined for
+      the same judgement, the panel acts to deliver the judgement in
+      question.  If the panel publishes a valid judgement via another
+      mechanism specified in the Rules, the requirement for individual
+      members to publish individual opinions is waived.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The rule is unambiguous (although quite possibly broken), and the caller's
+arguments are correct.
+
+========================================================================

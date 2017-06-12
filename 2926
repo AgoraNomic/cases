@@ -1,0 +1,153 @@
+=========================  Criminal Case 2926  =========================
+
+    omd violated rule 2202, committing the Class 8 Crime of Endorsing
+    Forgery, by knowingly announcing intent to ratify an incorrect
+    document without objection, without specifying the general nature of
+    the document's error, and when a corrected document could be
+    produced by reasonable effort (e.g. by inserting the word "not").
+
+========================================================================
+
+Caller:                                 ais523
+Barred:                                 omd
+
+Judge:                                  scshunt
+Judgement:                              GUILTY/TIME OUT
+
+Appeal:                                 2926a
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Called by ais523:                       15 Dec 2010 19:52:01 GMT
+Defendant omd informed:                 15 Dec 2010 19:52:01 GMT
+Assigned to scshunt:                    20 Dec 2010 02:01:25 GMT
+Judged GUILTY/TIME OUT by scshunt:      20 Dec 2010 03:29:07 GMT
+Appealed by omd:                        20 Dec 2010 03:46:23 GMT
+Appeal 2926a:                           20 Dec 2010 03:46:23 GMT
+AFFIRMED on Appeal:                     06 Jan 2011 00:00:00 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, 2010-12-15 at 14:45 -0500, omd wrote:
+> I intend, Without Objection, to ratify the following document (which
+> isn't even incorrect!):
+> {
+> If this document is ever ratified, at the time it is ratified, Rule
+> 1551 will change the power of Rule 2324 to 3 but make no other
+> gamestate changes.
+> }
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I see that this was intended to exploit the actual wording of
+ratification; however, stating "ever ratified" implies that the document
+is only correct if ratification has the same meaning forever. Making
+statements about the future - forever after! - is fraught with danger in
+a nomic. (Another possibility why this document might be incorrect; rule
+2324 might be repealed, or already have power 3, at the time.)
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+ais523 has pointed out that the document is
+incorrect because the definition of ratification could be changed in
+the (far) future.  This is a technicality, of course, especially as I
+could have avoided charges simply by noting the incorrectness, or by
+changing it from "ever" to "in the next few days"; however, as I am
+actively trying to exploit the rules, it is reasonable to give me the
+maximum punishment for any rule violation whatsoever.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+omd has submitted and distributed an urgent proposal to change the
+definition of ratification to one in which the document in question
+would not be true even if ratified. Had e forgotten about a proposal
+(6938) that e not only wrote emself, but distributed in the previous 2
+hours?
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Actually, I'm not sure the document is incorrect; rather,
+its correctness is indeterminate, as it refers to future events.  If I
+had been more specific about time frames (the document is meant to be
+ratified before 6938 passes), it would have been correct despite the
+future reference, as it's of the form "if X, then Y", where Y would
+logically follow from X.  However, it cannot be considered incorrect
+unless (X and not Y) actually occurs.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+First, I will discuss the factual truth of the document. The idea behind
+it was to set up a retroactive game state which would then immediately
+cause the effect of raising a rule's power. By making this statement
+conditional on the ratification, e hoped to avoid the law against
+ratifying a false document. This, unfortunately for em, does not work,
+as there is no gamestate by which Rule 1551 would actually make that
+change. Agoran precedence has long held that no entity can set up a
+delayed effect of this form, so there is no reason that ratification
+would suddenly be able to do so.
+
+I do not believe the reasonability defense applies here as there is no
+Agoran precedence by which this could possibly occur, and ais523 very
+recently judged that ratification can fail due to the impossibility of
+the desired game state.
+
+Accordingly, I judge this case GUILTY.
+
+Now, for punishment. DISCHARGE is clearly inappropriate as this is not
+an extraordinary circumstance and it would certainly not be unjust to
+provide some punishment. As omd has a dictatorship, a material
+punishment seems silly, SILENCE and FINE are not good punishments. As
+this is clearly a rule breach of high severity, due to being the most
+severe crime defined in the rules - neither COMMUNITY SERVICE nor
+APOLOGY seem appropriate. Therefore I sentence omd to TIME OUT 7.
+
+========================================================================
+
+Appellant omd's Arguments:
+
+On Sun, Dec 19, 2010 at 10:29 PM, Sean Hunt <scshunt@csclub.uwaterloo.ca>
+wrote:
+> This, unfortunately for em, does not work, as there is no
+> gamestate by which Rule 1551 would actually make that change. Agoran
+> precedence has long held that no entity can set up a delayed effect of this
+> form, so there is no reason that ratification would suddenly be able to do
+> so.
+
+There is no delayed effect here.  The document is a sort of prophecy,
+which states that something will happen in its future.  Looking at it
+from the present, we can say the prophecy is true if Rule 1551 does
+actually make the specified change at the time of ratification, false
+if ratification has occurred but the change has not, and still
+undetermined otherwise.  If the document does ever get ratified, Rule
+1551 will change the gamestate so that it is true, but in the mean
+time, it is neither true nor false.
+
+> I do not believe the reasonability defense applies here as there is no
+> Agoran precedence
+
+precedent, but I think the above argument is reasonable even if the
+court ends up disagreeing with it (although it's moot because the
+document won't be ratified).
+
+> Accordingly, I judge this case GUILTY.
+
+Note also that, whether or not it was actually illegal, I have already
+been punished for this particular action: I NoVed myself for violating
+Rule 2215 (Truthiness), and closed the NoV.
+
+========================================================================

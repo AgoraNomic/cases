@@ -1,0 +1,133 @@
+==============================  CFJ 2844  ==============================
+
+    I have CFJed on this exact statement, except with 'United' and
+    'City' exchanged.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       26 Aug 2010 22:48:22 GMT
+Assigned to scshunt:                    28 Aug 2010 00:05:46 GMT
+Judged FALSE by scshunt:                28 Aug 2010 08:48:28 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+Note that the Date: stamps are incorrect; to be precise, they're both
+too early by quite a way. I should have made care to ensure those were
+the same too.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+The datestamps showing up in my mailbox are:
+Date: Thu, 26 Aug 2010 17:48:22 -0500 (CDT)
+Date: Thu, 26 Aug 2010 17:49:45 -0500 (CDT)
+
+which are past, and match the time received by agoranomic.org in timezone as
+well as time.  On the other hand, your explanatory message has the datestamp:
+Date: Fri, 27 Aug 2010 00:00:14 +0100
+
+I'm guessing that at some stage either my mailreader or agoranomic corrected
+for receipt from the future?  In which case, agoranomic automatically stopped
+the scam by choosing an intelligent timing (the same one as the precedent
+IIRC).
+
+========================================================================
+
+Gratuitous Evidence by Taral:
+
+For the record, the emails were received in this order:
+
+Aug 26 17:55:00 yzma postfix/cleanup[16068]: 717A0812E5:
+message-id=<unitedcity@example.com>
+Aug 26 17:55:00 yzma postfix/cleanup[16047]: 2CB1C812E4:
+message-id=<cityunited@example.com>
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+I honestly cannot bother to get a free capacitor out of these two cases,
+they are so straightforward - there is no reason to even vary a bit from
+established precedent.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2010-August
+/032300.html
+
+ais523 wrote:
+
+> On Thu, 2010-08-26 at 16:16 -0700, Kerim Aydin wrote:
+>> Gratuitous:
+>> The datestamps showing up in my mailbox are:
+>> Date: Thu, 26 Aug 2010 17:48:22 -0500 (CDT)
+>> Date: Thu, 26 Aug 2010 17:49:45 -0500 (CDT)
+>>
+>> which are past, and match the time received by agoranomic.org in timezone
+as
+>> well as time.  On the other hand, your explanatory message has the
+datestamp:
+>> Date: Fri, 27 Aug 2010 00:00:14 +0100
+>>
+>> I'm guessing that at some stage either my mailreader or agoranomic
+corrected
+>> for receipt from the future?  In which case, agoranomic automatically
+stopped
+>> the scam by choosing an intelligent timing (the same one as the precedent
+IIRC).
+>
+> The original mails weren't datestamped at all.
+>
+> More interestingly, the Agora-binding datestamp - the Received: stamp
+> where the message leaves my TDoC and enters Taral's - is actually before
+> the time at which I actually sent the email, which is clearly
+> exploitable if that precedent continues to hold. I assumed it would show
+> the time I sent the email, rather than the time I started to compose it,
+> which makes no sense given the circumstances.
+>
+> I bet BlogNomic is laughing at us right now! (It has a persistent
+> technical problem in that blog posts are given the date and time people
+> started to write them, rather than the time they finished, meaning that
+> they often accidentally end up out of order.)
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2010-August
+/032306.html
+
+ais523 wrote:
+
+> On Thu, 2010-08-26 at 19:41 -0400, omd wrote:
+>> On Thu, Aug 26, 2010 at 7:38 PM, Kerim Aydin <kerim@u.washington.edu>
+wrote:
+>> > I'm not sure how the "received by" agoranomic date can be before you sent
+it,
+>> > unless someone has their clock wrong.  That agoranomic date is consistent
+>> > with the time my server received it a few mins later and the time I saw
+it
+>> > a few minutes after that.  -G.
+>>
+>> It matches when e began the message (in the SMTP session) not when e
+>> finished it.
+>
+> You can start sending the email, but stop halfway through, and later on,
+> finish sending the email (and you don't need to have specified all the
+> content of the email by this point). For some reason, the timestamp
+> given is the timestamp when you started sending, even though you might
+> have decided what to put in the email some time later than that.
+
+See also CFJ 2496.
+
+========================================================================

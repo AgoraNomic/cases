@@ -1,0 +1,92 @@
+==============================  CFJ 3287  ==============================
+
+    The Promise quoted above can be cashed.
+
+========================================================================
+
+Caller:                                 Roujo
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Roujo:                        05 Nov 2012 14:10:29 GMT
+Assigned to omd:                        11 Nov 2012 19:18:13 GMT
+Judged FALSE by omd:                    12 Nov 2012 02:02:19 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 2338 states:
+    { An entity CAN cash a promise in eir possession by announcing
+      that e does so, provided either that all conditions required to
+      be true for the promise to be cashed are true and determinate,
+      or it has no such conditions. }
+Basically, to cash a promise, the cashing condition must be
+determinate and true. However, here's an excerpt from the cashing
+condition of the quoted promise:
+    { [...] and multiple copies
+      of this promise cannot be cashed by the same player in the same
+      message. }
+As far as I can tell, nothing in the rules prevents multiple copies of
+a promise to be cashed in the same message. Because of that, the
+cashing condition will always evaluate to false and the promise cannot
+be cashed, rule changes notwithstanding.
+
+========================================================================
+
+Caller's Evidence:
+
+On Sun, Nov 4, 2012 at 11:35 PM, Alex Smith <ais523@bham.ac.uk> wrote:
+> I submit 12 promises to the Tree:
+>
+> Text: {{{I transfer an ais523 trading card to the person who cashed this
+> promise.}}}
+> Cashing condition: {{{The person who cashed this promise transferred a
+> trading card to ais523 that ais523 did not own a copy of before the
+> transfer earlier in the same message as the cashing, and multiple copies
+> of this promise cannot be cashed by the same player in the same
+> message.}}}
+> Destruction by author condition: {{{The current year is 2013 or
+> later.}}}
+
+========================================================================
+
+Judge omd's Arguments:
+
+This is what I noticed on IRC.  The full quote is:
+
+Cashing condition: {{{The person who cashed this promise transferred a
+trading card to ais523 that ais523 did not own a copy of before the
+transfer earlier in the same message as the cashing, and multiple copies
+of this promise cannot be cashed by the same player in the same
+message.}}}
+
+Although the interpretation didn't even strike ais523, not only is the
+text in question clearly within a brace-delimited section labeled as a
+"cashing condition", it's anded with another statement that's written
+in the "correct" style as a condition.  It's well precedented that
+when a literal interpretation of a message is well-formed, it should
+generally be preferred; in CFJ 3246 it was held that "it is entirely
+reasonable for 'this promise is not destroyed upon cashing' to be a
+condition for cashing", and I find that this case is analogous:
+"multiple copies of this promise cannot be cashed by the same player
+in the same message" is indeed literally a condition for cashing.
+
+This would create a paradox: if multiple copies of the promise can be
+cashed, etc., then the condition is false, so the promise cannot be
+cashed at all, so multiple copies can't; but if they can't, then there
+is nothing to prevent multiple copies in particular from being cashed,
+so they can.  Thus the cashing condition is not R1023 determinate, so
+cashing fails.
+
+FALSE.
+
+I order ais523 to place a large notice on eir home page stating that
+eir cashing condition was inaccurate.
+
+========================================================================

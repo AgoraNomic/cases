@@ -1,0 +1,140 @@
+==============================  CFJ 3063  ==============================
+
+    Rule 2344 contains the text "Murphy CAN cause this rule to make
+    arbitrary rule changes by announcement."
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Walker
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           06 Jul 2011 15:03:15 GMT
+Assigned to Walker:                     07 Jul 2011 02:17:03 GMT
+Judged FALSE by Walker:                 12 Jul 2011 17:25:18 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The "with notice" should have taken care of the R101 objection underlying
+the CFJ3034 judgement, when the second attempt was made (see Evidence).
+
+ais523's gratuitous arguments in CFJ3034 have yet to be answered.  As a
+counterargument to ais523, I'll note that the R105 "when permitted by other
+rules" is satisfied by the fact that the Rules state that the President CAN
+take actions, which makes any such actions POSSIBLE unless prohibited (and
+instruments of sufficient power are not prohibited from changing the rules).
+
+Note that in R105 the "when permitted" clause is a particularly weak type of
+permission, not being "explicit" and being next to the "instrument generally
+CAN" clause.  Together, this implies that if the Rules say that an Instrument
+CAN take an action generally unless prohibited, that is sufficient permission
+for R105; the protections to rule changes come from R1688 and R2140
+preventing entities from becoming instruments in the first place.
+
+========================================================================
+
+Caller's Evidence:
+
+Murphy's public message on Tue, 21 Jun 2011 15:10:56 -0700:
+> I wrote:
+>
+>> G. wrote:
+>>
+>>> On Wed, 15 Jun 2011, Ed Murphy wrote:
+>>>> [Disclaimer:  I attempt this, but it may be ineffective for some
+>>>> reason that I haven't noticed.]
+>>>>
+>>>> As Speaker, I cause the (now Power=1) President to amend Rule 2344
+>>>> (Anarchy) by appending this text:
+>>>>
+>>>>       Murphy CAN cause this rule to make arbitrary rule changes
+>>>>       by announcement.
+>>>>
+>>>> CFJ:  Rule 2344 was amended in the same message that this case
+>>>> was initiated.
+>>>>
+>>>> Evidence:  the above text.
+>>> Gratuitous:  R101(iv).
+>> I intend, with notice, to cause the President to amend Rule 2344
+>> (Anarchy) by appending this text:
+>>
+>>       Murphy CAN cause this rule to make arbitrary rule changes
+>>       by announcement.
+> [Disclaimer:  same as before.]
+>
+> I do so.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Also, it's important to note that the rules don't give Proposals any more
+permission than they give the president; R106 says that Proposals can and do
+make changes in general and provide a mechanism (just as the president can
+take actions in general by way of a different mechanism) and relies on the
+fact that instruments are not further prohibited from making actual rule
+changes, so can do so.
+
+So if the President can't, then neither can Proposals.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+CFJ 2213 is highly relevant.  I misremembered the
+precedent as stating that making rule changes is not an "action", but
+in fact it's the exact opposite.
+
+However, I still disagree: Rule 103 (or 2326) does not allow the
+President to take arbitrary actions, in the sense of "any gamestate
+change that can be written as one".  Even without Presidential Power,
+that includes control over any number of gamestate quantities; the
+President was supposed to be a virtual player, not a god.  R103
+explicitly does not make POSSIBLE any otherwise IMPOSSIBLE action:
+
+      The Speaker CAN, by announcement, cause the President to take
+      actions that are not otherwise IMPOSSIBLE, except for
+      deregistration.
+
+Arguably this still applies because Rule 2326 makes it POSSIBLE for
+the President to take arbitrary actions in general:
+
+      A first-class Player CAN cause the President to take actions
+      Without Objection, or with Agoran Consent.
+
+but, as above, I think the implication is "actions that the President CAN
+take".
+
+========================================================================
+
+Judge Walker's Arguments:
+
+Rule 105 states:
+
+     Where permitted by other rules, an instrument generally can,
+     as part of its effect,
+
+     (rule changes)
+
+So it's clear that for the President must receive permission from some
+other rule in order to be able to make rule changes. The relevant
+clause is:
+
+     The Speaker CAN, by announcement, cause the President to take
+     actions that are not otherwise IMPOSSIBLE,
+
+In other words, the Speaker CAN cause the President to take actions
+that are otherwise POSSIBLE - made possible by other rules. Unlike
+proposals, which have R2350 (Except as prohibited by other rules, a
+proposal that takes effect CAN, as part of its effect, apply the
+changes that it specifies) the President has no such clause allowing
+to make changes in such a general way. I judge FALSE.
+
+========================================================================

@@ -1,0 +1,56 @@
+==============================  CFJ 1900  ==============================
+
+    Zefram CAN register.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Zefram
+
+Judge:                                  root
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       03 Feb 2008 22:45:09 GMT
+Assigned to root:                       03 Feb 2008 22:52:26 GMT
+root recused:                           18 Feb 2008 18:41:47 GMT
+Assigned to G.:                         19 Feb 2008 01:00:08 GMT
+Judged FALSE by G.:                     21 Feb 2008 19:40:21 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+BobTHJ had an overdue Vote Market obligation to deregister.  Zefram
+allegedly deputised to deregister BobTHJ.
+
+Rule 2169 (Deputisation) was recently generalised from "office" to
+"position", specifically with "vote collector" in mind; extending it
+to apply to "person subject to a contractual obligation" may or may
+not be too great a stretch.  In addition, unlike previous cases of
+deputisation, this one involves an action targeting the actor (though
+Zefram specified that e was deregistering BobTHJ, and that e was not
+in any way directly causing emself to be deregistered).
+
+If either "X is a player" statement is true, then the corresponding
+"X CAN register" statement is false; Rule 869 (How to Join and Leave
+Agora) defines ""to be registered" as applying only to non-players,
+and does not make an exception for "to register".  If either "X is a
+player" statement is false, then the corresponding "X CAN register"
+statement depends on how Rule 869's normal 30-day limit is affected
+by the unusual targeting situation.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Trivial given CFJ 1898:  this Court find FALSE.
+
+========================================================================

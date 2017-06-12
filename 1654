@@ -1,0 +1,30 @@
+==============================  CFJ 1654  ==============================
+
+    item (a) in rule 683 requires that for a ballot to be valid its
+    submitter must be an eligible voter at the time that that the
+    ballot's validity is determined
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  omd
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       06 May 2007 00:19:24 GMT
+Assigned to omd:                        11 May 2007 06:32:41 GMT
+Judged TRUE by omd:                     14 May 2007 00:42:51 GMT
+
+========================================================================
+
+Judge omd's Arguments:
+
+TRUE.  Rule 955 (a) requires the voting collector to invalidate ballots
+including those which, by rule 683 (a), are submitted by noneligible voters.
+Furthermore, rule 955 (b) would not allow the counting of non-voters.
+
+========================================================================

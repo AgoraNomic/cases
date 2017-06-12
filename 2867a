@@ -1,0 +1,151 @@
+============================  Appeal 2867a  ============================
+
+
+Panelist:                               Machiavelli
+Decision:                               AFFIRM
+
+
+Panelist:                               Taral
+Decision:                               AFFIRM
+
+
+Panelist:                               Murphy
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Appeal initiated:                       24 Sep 2010 11:23:40 GMT
+Assigned to Machiavelli (panelist):     04 Oct 2010 00:54:37 GMT
+Assigned to Taral (panelist):           04 Oct 2010 00:54:37 GMT
+Assigned to Murphy (panelist):          04 Oct 2010 00:54:37 GMT
+Murphy moves to AFFIRM:                 04 Oct 2010 01:24:41 GMT
+Taral moves to AFFIRM:                  04 Oct 2010 02:10:16 GMT
+Machiavelli moves to AFFIRM:            11 Oct 2010 00:54:37 GMT
+Final decision (AFFIRM):                11 Oct 2010 00:54:37 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+omd wrote:
+> On Wed, Sep 22, 2010 at 5:19 PM, ais523 <callforjudgement@yahoo.co.uk>
+wrote:
+> > Further gratuitous arguments: This is a case of "if X, then ..." where X
+> > is impossible being trivially true. It's different from "if the rules
+> > were somehow modified such that X could come about, then most
+> > likely ...", which is what the judgement addresses.
+>
+> Gratuitous: CFJ 1895
+>
+> Further gratuitous: By that argument, what ratification does is
+> completely indeterminate (or was before the "minimally" clause was
+> added; now it just does nothing?).
+
+CFJ 1895 states that counterfactuals with an impossible condition are
+"rejected"; in other words, the counterfactual interpretation of the
+statement in question is absurd. If so, then the other possible
+interpretation - that it's a simple logical implication, like it always
+has been - makes more sense. The fact is that, in the past, it always
+has been possible to initiate the decision in question (maybe via an erg
+or Card expenditure), so it's been very much a case of an if-then; it
+used to be true that "IF an Orange decision is initiated, THEN ais523's
+voting limit on it is...". Thus the victory condition generally wasn't
+achieved. In general, with an implication, the narrower the if part, the
+easier it is to meet; with an if part so narrow as to be impossible, the
+implication is always correct.
+
+>From the point of view of the (meaningless) counterfactual
+interpretation, I point out that allowing an ordinary democratic
+decision would require such a radical rules change (separating it into
+two separate switches, perhaps?) that's it's hard to predict /what/
+voting limits would be in that case. None of the existing voting limit
+rules would likely apply, unless they were modified to allow for
+different concepts of "ordinary" and "democratic", as the two are by
+definition mutually exclusive (rule 2196).
+
+G. wrote:
+> I think you're both off-base here at where the impossibility lies.
+> "an ordinary decision with a specified Chamber" is simply duplicative
+> language, as saying it's an ordinary decision specifies that the
+> chamber is ordinary.  If you specify a different chamber, it's not an
+> ordinary decision, so has no bearing whatsoever on clout.
+>
+> So it's just like saying "In situations where X=1 and a value for
+> X is specified, Y is true" which simply means that if X is not equal
+> to 1, the phrase isn't invoked or evaluated at all.
+>
+> So basically, it's impossible to specify a non-ordinary chamber for
+> a decision whose chamber is ordinary, so it's impossible to apply a
+> clout win to non-ordinary decisions.
+
+The problem with this interpretation is that it assumes that the rule
+suddenly changed meaning when an entirely different rule was amended,
+something that fails to meet judicial precedent in all sorts of ways
+(CFJ 2585 comes to mind, but I suspect there are others). The language
+of the rule is ambiguous, in that it could mean "decision whose Chamber
+is explicitly specified at the creation of the decision" (which would be
+equivalent to just "decision" in the context of rule 2134 under the
+current ruleset, but might not be under other hypothetical ruleset),
+G.'s interpretation, or "decision with a Chamber specified in the win
+announcement", the obviously intended meaning of the rule, and the one
+that we've actually been using up to now. Before the definition of
+Chamber changed, the first interpretation was completely absurd, and the
+second one perfectly sensible and intended. It makes no sense that
+changing the meaning of Chamber from one pseudo-switch (or actual
+switch? I can't remember) to another pseudo-switch would suddenly cause
+"specified" to have a different meaning!
+
+In other words, the only plausible reading of the rule, given its
+history, is "In situations where X=1 and X=A for some A, Y is true",
+rather than "In situations where X=1 and a value for X is specified, Y
+is true".
+
+========================================================================
+
+Panelist Murphy's Arguments:
+
+If an impossible counterfactual is interpreted as implying anything,
+particularly that the Clout condition would be satisfied, then it
+equally implies that the Clout condition wouldn't be satisfied.  This
+is hardly a satisfactory (ahem) view IMO; here are all the others
+that I can come up with, all of which agree with the original judgement:
+
+  a) If a decision were somehow both ordinary and democratic, then
+     Rule 1950 would prevent the Clout condition from being satisfied
+     (the original judgement).
+
+  b) If a decision were somehow both ordinary and democratic, then
+     it would not have *a* (i.e. exactly one) specified Chamber, which
+     would prevent the Clout condition from being satisfied.  (This is
+     the weakest of these three possibilities, as "a" can also be
+     interpreted as "at least one".)
+
+  c) A decision both ordinary and democratic is so at odds with the
+     current ruleset that it cannot be meaningfully interpreted (the
+     CFJ 1895 argument) without further context (e.g. a hypothetical
+     set of rule changes), so in particular it cannot be interpreted
+     that the Clout condition would be satisfied by it.
+
+This argument by ais523:
+
+> The problem with this interpretation is that it assumes that the rule
+> suddenly changed meaning when an entirely different rule was amended,
+> something that fails to meet judicial precedent in all sorts of ways
+> (CFJ 2585 comes to mind, but I suspect there are others).
+
+doesn't hold water either.  CFJ 2585 pertained to a contract attempting
+to re-define some terms used but not defined by the Town Fountain rule,
+without any rule backing.  In contrast, Rule 2134's use of "Chamber" was
+governed by R754(2) before Rule 2290 was repealed (they both had Power 2
+and R2134 made no attempt to reject R2290's definition), and by R754(3)
+or (4) afterward (CFJ 2854).
+
+========================================================================
+
+Panelist Machiavelli's Arguments:
+
+[no opinion given]
+
+========================================================================

@@ -1,0 +1,36 @@
+==============================  CFJ 1383  ==============================
+
+    root's transfer of an instance of a nameless currency to nothing was
+    valid.
+
+========================================================================
+
+Caller:                                 teucer
+
+Judge:                                  root
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by teucer:                       30 May 2002 23:29:43 GMT
+Assigned to root:                       09 Jun 2002 06:35:43 GMT
+Judged FALSE by root:                   09 Jun 2002 15:43:31 GMT
+
+========================================================================
+
+Judge root's Arguments:
+
+It has been previously established that the creation and transfers of
+a nameless currency were valid.  However, R1598(a) reads:
+
+      (a) A Notice of Transfer is a message which sets forth the
+          intent to transfer one or more Properties from one entity
+          (the "transferor") to some other entity (the "transferee").
+
+Since nothing is not an entity, but rather the empty set of entities,
+the transfer in question had no transferee, and so the transfer was
+invalid.  I hereby return a judgement of FALSE.
+
+========================================================================

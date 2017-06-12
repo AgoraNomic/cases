@@ -1,0 +1,51 @@
+==============================  CFJ 2364  ==============================
+
+    An Enforceable judgement in an equity case CAN generally create an
+    ability for arbitrary persons to act on behalf of persons bound by
+    the judgement
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       02 Feb 2009 11:06:48 GMT
+Assigned to G.:                         10 Feb 2009 06:02:51 GMT
+Judged FALSE by G.:                     10 Feb 2009 16:37:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+An equity judgement is no longer a contract, but it's been established
+that a contract is not necessary to allow act-on-behalf. I'm trying to
+establish exactly where the boundaries lie; equity judgements are
+somewhat contract-like, after all. (It would certainly be a useful
+ability in trying to create equations for party-inactivity situations.)
+
+========================================================================
+
+Judge G.'s Arguments:
+
+R2169/11 specifically states:
+      If a party fails to act as specified, e is in violation of this
+      Rule; in such a situation, the judge CAN act on the party's
+      behalf to fulfill said obligations Without 3 Objections, or the
+      party may be subjected to a criminal punishment other than
+      DISCHARGE for violating this Rule, but not both.
+By specifying the judge as holding this ability (and specifying the
+mechanism), this is an implicit reservation of this ability for the
+judge, and the mechanism specificity indicates (exceptio probat
+regulam) that this ability generally CANNOT be delegated to arbitrary
+persons.   Further evidence for this restriction is found in the
+previous paragraph:  "this requirement does not create the ability to
+perform regulated actions that the party CANNOT otherwise perform."
+FALSE.
+
+========================================================================

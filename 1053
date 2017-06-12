@@ -1,0 +1,188 @@
+====================================================================== 
+
+CFJ 1053 
+
+          "Elde is Blob's Executor in Probate."
+
+====================================================================== 
+
+Judge:       Oerjan
+Judgement:   TRUE
+
+Justices:    Morendil (S), Andre (C), elJefe (J) 
+Decision:    SUSTAIN
+
+Eligible:    Andre, Calabresi, ChrisM, Chuck, Crito, elJefe,
+	     General Chaos, Harlequin, Michael, Kolja A., Murphy,
+	     Oerjan, Steve, Vir, Vlad, Zefram
+
+Ineligible:  Blob (defaulted) 
+Caller:      Murphy Barred: On request:  Vanyel On hold:
+
+======================================================================
+
+History:
+
+  Called by Murphy, 08 Oct 1997 23:23:37 -0700
+  Assigned to Blob, 10 Oct 1997 20:49:59 +0200 (MET DST)
+  Blob defaults
+  Assigned to Oerjan, 22 Oct 1997 22:19:34 +0200 (MET DST)
+  Oerjan judges TRUE, 28 Oct 1997 21:31:09 +0100 (MET)
+  Appealed by Steve, 6 Nov 1997 12:51:56 +1100 (EST)
+  Appealed by General Chaos, 05 Nov 1997 21:54:26 -0500
+  Appealed by Crito, 06 Nov 1997 09:48:56 -0500
+  Assigned to Morendil, Andre, and elJefe, 7 Nov 1997 11:40:07 +0100
+  Justice elJefe: overturn and judge FALSE, 8 Nov 1997 00:11:12 +0000
+  Justice Morendil: sustain, 12 Nov 1997 14:32:06 +0100
+  Justice Andre: sustain, 13 Nov 1997 16:48:08 +0100
+
+======================================================================
+(Caller's) Arguments:
+
+Morendil becomes Elde's EiP.
+Rule 1738 says that Elde's EiP is eir Executor, so Morendil is Elde's
+  Executor and succeeds in reregistering Elde.
+Elde becomes Blob's EiP.
+By a similar argument, Elde is Blob's Executor and succeeds in reregistering
+  Blob.
+Elde is deregistered.
+No Rule states that a Player who is deregistered loses eir Executor or EiP,
+  so Morendil is still Elde's Executor and EiP.
+Rule 1478's statement that Executors must be Players takes precedence over
+  Rule 1738's claim that Blob's EiP (Elde) is eir Executor, so Elde is no
+  longer Blob's Executor.
+However, no Rule states that an EiP who is deregistered ceases to be EiP,
+  so Elde is still Blob's EiP.
+
+When Elde ceased to be Blob's Executor, e did not cease to be Blob's EiP -
+precisely because the equality of EiP and Executor (which exists only because
+Rule 1738 says so) is broken by way of Rule 1478 starting to take precedence
+over Rule 1738.
+
+======================================================================
+Decision & Reasoning Judge:
+
+I judge TRUE.
+
+As the Caller argues, no Rule requires an EiP to remain a Player after e has
+been selected.
+
+======================================================================
+Decision of Justiciar elJefe:  Overturn and judge FALSE
+
+CFJ 933 established that all units of currency had disappeared on 15 July, and
+no new ones were minted before October.  Thus I find that when Blob deregistered
+on 6 August, e possessed no units of any currency.
+
+Thus Blob was not placed into Probate by Rule 1601.  Unless the Rules authorize
+the Notary to place people into Probate arbitrarily, or to appoint an EiP for
+entities not in Probate (which I doubt), I find that Blob was never in Probate
+
+Further, when Elde was deregistered on 25 July he also had no Currencies and
+thus was never in Probate, and so Morendil could not be his EiP.  Thus
+Morendil's attempt to reregister him had no effect.  When the Notary attempted
+to appoint an EiP for Blob, Elde was not a Player.
+
+For both (or either) of these reasons, the Notary's attempted appointment of
+Elde as Blob's EiP had no effect.
+
+Thus Elde was never an Executor in Probate for Blob.
+
+-----------------------------
+Addendum: I now realize that this misreads Rule 1601 and is incorrect. -- elJefe
+
+======================================================================
+Decision of Speaker Morendil:  Sustain
+
+Judge Oerjan argues that a person, when assigned as a Player of Agora the status
+of Executor in Probate, by authority of the Notary, retains this status even if
+e later ceases to be a Player.
+
+The Caller, for their own part, argued that even though, when a person ceases to
+be a Player, e may no longer be an Executor, the status of Executor in Probate
+is granted independently from that of Executor and may therefore be retained.
+
+Rule 1478 (Executors) states, in part :
+
+      The Executor of an entity is a Player who is empowered by the 
+      Rules to act on behalf of that entity, as if e was that entity. 
+
+Rule 1738 (Executors in Probate) states, in part : 
+
+      The Executor in Probate of an entity is the Executor of that 
+      entity. 
+
+The above provision in 1478 establishes two distinct effects of the law :
+
+* that only some persons, namely Players, may qualify as Executors
+
+* that a person who is designated as an Executor is empowered to act on the
+   behalf of some other entity.
+
+These consequences, let me add, are not deduced from the bare statement "The
+Executor of an entity is a Player who is empowered, etc." and its wording, but
+rather by construing this provision in the light of other provisions pertaining
+to Executors.
+
+(Judge Kolja A. in 1065 : "The sentence quoted from 1478 is not a _definition_
+of "Executor", but an assignment of certain powers to the executor.")
+
+For instance, Rule 1735 states that "The Chancellor is the Executor of the
+Bank." This is clearly seen as granting on a particular Player the status of
+Executor of some particular entity, with the associated prerogatives.
+
+The above provision in Rule 1738 is quite similar to that in 1735. It identifies
+a particular Player - one who has been designated by the Notary as the Executor
+in Probate of a particular entity - and grants that Player the status of
+Executor.
+
+In both cases, should the person granted the status of Executor cease to be a
+Player, e would therefore cease to qualify for this status under Rule 1478, and
+eir continued exercise of the 'powers of Executor' with respect to the entity e
+was previously the Executor of would therefore be inconsistent with Rule 1478.
+
+However, that person's identification as either Chancellor or Executor in
+Probate of the relevant entity may be obtained independently of that person's
+status as a Player.
+
+For instance, we have recently been made aware that a person could come to hold
+an Office without necessarily being a Player. Such a situation could conceivably
+apply to the Chancellor; in this case, I would interpret Rule 1735, not as
+dictating that that person cannot be Chancellor, but only that that person
+cannot be the Bank's Executor.
+
+The part of Rule 1738 which assigns to a person the status of Executor in
+Probate of a particular entity reads as follows :
+
+      Whenever there is an entity in Probate which does not have an 
+      Executor in Probate, the Notary shall nominate a Player to be 
+      that entity's Executor in Probate.. 
+
+This provision could conceivably interpreted such that, to qualify as an
+Executor in Probate, a person must be a Player at all times; however, it could
+also be interpreted, in a manner more consistent with recent custom that a
+Candidate in an Election may come to hold Office even while no longer a Player,
+such that a person must only be a Player at the time of their appointment as EiP
+to qualify for that status.
+
+I therefore see no strong reason to overturn Judge Oerjan's Judgement, and - I
+must add, with some reluctance - Sustain the original Judgement of TRUE.
+
+======================================================================
+Decision of Justice Andre:  Sustain
+
+Nowhere do the Rules say that the Executor in Probate needs to be a Player. The
+only thing they say is that to be elected as an Executor in Probate one needs to
+be a Player.
+
+The Appellants have argued that R1478 says that an Executor of an Entity is a
+Player, and R1738 that an EiP is an Executor, and thus an EiP must be a Player.
+However, this is not how Agoran logic works. In Agora this means that the two
+Rules, in a case when an EiP is not a Player, are in conflict. In Agora this
+means that the lower precedence Rule's requirements are void. However, even if
+R1738 would be the lower precedence Rule here (which I doubt), this still only
+means that Elde is not Blob Executor, but not that Elde is not Blob EiP.
+
+Thus I find the Judgement CORRECT. 
+
+======================================================================

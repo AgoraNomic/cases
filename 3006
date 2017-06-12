@@ -1,0 +1,70 @@
+==============================  CFJ 3006  ==============================
+
+    Notice of Violation 20110420a is valid.
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 Yally
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       21 Apr 2011 05:22:41 GMT
+Assigned to ais523:                     24 Apr 2011 03:43:18 GMT
+Judged TRUE by ais523:                  28 Apr 2011 20:28:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The relevant events are as follows (all times are UTC):
+
+  (a) 4 Apr 15:58:55  CFJ 2982 (failure to report) judged GUILTY /
+                        TIME OUT, Yally becomes inactive
+  (b) 4 Apr 16:54:36  Yally appeals CFJ 2982, becomes active (CFJ 2984)
+  (c) 4 Apr 22:35:56  CFJ 2982 affirmed on appeal, Yally becomes
+                        inactive
+  (d) 4 Apr 23:23:20  Yally becomes active
+  (e) 6 Apr 15:40:47  CFJ 2985 (violating TIME OUT) judged GUILTY /
+                        TIME OUT, Yally becomes inactive
+  (f) 6 Apr 19:00:28  Yally becomes active
+
+NoV 20110420a has two possible targets, (d) and (f), but it's reasonably
+clear that (f) was intended.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+There may be ambiguity because Yally was subject to
+two TIME OUT sentences as of (f).
+
+========================================================================
+
+Judge ais523's Arguments:
+
+The conditions for invalidity on an NoV are quite narrow. Even
+if the act identified is ambiguous, that might be options for finding
+the accused NOT GUILTY, but not for invalidity. (I think "NoV: ais523
+violated the power-3 rule 101 by nkep" could be a valid NoV, although
+not a particularly meritorious one without a further clarification as to
+what exactly nkep meant in that case.) The only clause on which
+invalidity could be found would be (2), which bans substantially
+duplicate NoVs; but this NoV does not seem to be a duplicate (becoming
+active during two TIME OUT periods is different from becoming active
+during one; whatever specific breach is being alleged, it isn't "Yally
+became active during the first of eir two TIME OUT periods", so this is
+definitely a different set of circumstances from the first NoV). Note
+that this line of reasoning means that it's likely possible to NoV
+someone twice for the same crime, if circumstances have changed in the
+meantime; but this does not cause a double-jeopardy situation, as rule
+1504 prevents them both being used to find the accused GUILTY, so doing
+so would not accomplish much but wasting the court's time. I judge CFJ
+3006 TRUE.
+
+========================================================================

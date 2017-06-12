@@ -1,0 +1,75 @@
+==============================  CFJ 1582  ==============================
+
+    Conclaves have a quorum of 5.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Manu
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           21 Feb 2006 17:06:46 GMT
+Assigned to Manu:                       27 Feb 2006 02:20:41 GMT
+Judged FALSE by Manu:                   01 Mar 2006 07:43:42 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 879 (power-2) reads in part "The quorum for an Agoran decision is one
+third the number of eligible voters, rounded up, with a minimum of five..."
+
+Rule 786 (power 1) reads in part "The convening of a conclave initiates an
+Agoran Decision to determine the Pope, a decision in which quorum is zero..."
+
+This is actually a conflict, as the higher power Rule doesn't explicitly defer
+to the lower power rule for determining the quorum of decisions.  Without that
+deference (e.g., language in 879 like "other rules may set quorum for specific
+types of decisions"), Rule 786 shouldn't be allowed to override rule 879.  So
+in this conflict, the higher power rule (879) wins and sets conclave quorm
+quintuply.
+
+========================================================================
+
+Judge Manu's Arguments:
+
+Rule 1482 (Power 3) reads:
+
+      In a conflict between Rules with different Power, the Rule with
+      the higher Power takes precedence over the Rule with the lower
+      Power.
+
+It is clear then that Rule 879, which has a Power of 2, takes precedence
+over Rule 786, which has a lower Power.
+
+The caller explains that "the higher power Rule doesn't explicitly defer
+to the lower power rule" but even if it was the case, CFJ 1103 established
+that this would not be enough:
+
+      In the case of conflict between Rules of unequal Power, the higher
+      Powered Rule cannot defer to the lower Powered Rule, unless the
+      higher Powered Rule takes precedence over Rule 1482."
+
+Therefore, Rule 786 (Default Procedure for Conclaves) fails to override
+the generic Quorum Rule 879.
+
+BUT.
+
+The actual Call for Judgement states that "Conclaves have a quorum of 5."
+The specific Conclave about which this CFJ was originally made has a
+quorum of 5, according to the reasons I explained before.
+
+But because this CFJ claims that all Conclaves in general have a quorum
+of 5 (since plural is used), which is definitely not true since Rule 879
+says that "The quorum for an Agoran decision is one third the number of
+eligible voters, rounded up, with a minimum of five...", because a minimum
+is not supposed to always apply and because I humbly fear that giving a
+TRUE judgement to this CFJ would make it irrelevant, I give a judgement
+of FALSE.
+
+========================================================================

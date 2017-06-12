@@ -1,0 +1,95 @@
+==============================  CFJ 2626  ==============================
+
+    Earlier today I nkeplwgplxgioyzjvtxjnncsqscvntlbdqromyeyvlhkjgteaqnn
+    eqgujjpwcbyfrpueoydjjked.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  ə
+Judgement:                              IRRELEVANT
+
+========================================================================
+
+History:
+
+Called by ais523:                       06 Jul 2009 18:07:48 GMT
+Assigned to ə:                          10 Jul 2009 05:49:53 GMT
+Judged IRRELEVANT by ə:                 14 Jul 2009 19:59:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+The issue here is about how much evidence needs to be given
+for act-on-behalf to work. Contracts can generally use their own
+definitions; but what about private parts of public contracts?
+Certainly, if this works, it shouldn't be able to.
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, 2009-07-06 at 10:58 -0700, Kerim Aydin wrote:
+> On Mon, 6 Jul 2009, comex wrote:
+> > On Mon, Jul 6, 2009 at 1:06 PM, Kerim Aydin<kerim@u.washington.edu> wrote:
+> >> That aside, it's a more general issue.  Let's say I have a detailed ...
+> >
+> > I've agreed to a private contract with ais523 called Fookie II.  It
+> > contains the following text:
+> >
+> > 4. Any party to this contract CAN
+> > nkeplwgplxgioyzjvtxjnncsqscvntlbdqromyeyvlhkjgteaqnneqgujjpwcbyfrpueoydjjk
+> > (as defined by this contract) on behalf of any other party by
+> > announcement.
+> >
+> > I hereby act on behalf of ais523 to retract eir vote on Proposal 6397.
+> > Note: This fails if Fookie II does not define nkep appropriately.
+>
+> Sure.  Works fine.  And then ais523 has X amount of time to protest if
+> nkep doesn't mean what you claim it means.  If ais523 doesn't protest,
+> the public doesn't need to know what nkep means, except that all
+> parties believe it allows the PoA to function.  -G.
+
+But what if I protest? Does the action happen anyway? If not, then
+there's no point in putting the act-on-behalf clause in the contract;
+just put in a SHALL, as it comes to the same thing anyway.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+If the alleged grantee is obviously paying attention to the
+game and doesn't protest that it fails, our current custom is to prima
+facie assume that it works [CFJ 1290 is relevant in cases where a game-
+participating grantee is pointedly silent].  This doesn't seem particularly
+dangerous, if we allow private contracts in the first place we are
+allowing all kinds of private dealings like this, and we really can't stop
+or detect problems in any of them unless a party protests, we pretty much
+have to take at face value that if two parties show that a private
+understanding was reached, it was.   -G.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+It does not make much sense for secret information to have
+effects on platonic gamestate; it is a lot more sensible for private
+contracts to be limited to affecting the results of court cases
+concerning them indirectly. Breach of a private contract can be
+punished; that's enough to make private contracts useful. Also, putting
+the onus on a party protesting is very dangerous; they might not be
+aware that the action had happened. (At least one non-player is party to
+a contract, for instance.) With a public contract, everyone can see for
+emself that the action is legal; with a private contract, there is a
+huge onus on the parties. (Also, consider private contracts with a
+secrecy clause, such as the (possibly defunct) UNDEAD. Suppose one
+player acts on behalf of another claiming that a secret contract (which
+the second is party to, but the first isn't) allows them to. The second
+player cannot then object without revealing information that e is
+contractually obligated to keep secret. This gives a rather simple and
+efficient method of busting the secrecy of such contracts; object, or be
+enslaved.)
+
+========================================================================

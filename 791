@@ -1,0 +1,613 @@
+>From nomic-official-owner@teleport.com Fri Jul 21 01:08:52 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id AAA01246 for <blahedo@quincy.edu>; Fri, 21 Jul 1995 00:55:38 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id WAA00179 for nomic-official-outgoing; Thu, 20 Jul 1995 22:54:57 -0700
+Received: from audumla.students.wisc.edu (students.wisc.edu [144.92.104.66]) by desiree.teleport.com (8.6.10/8.6.9) with ESMTP id WAA00145 for <nomic-official@teleport.com>; Thu, 20 Jul 1995 22:54:43 -0700
+Received: from [144.92.181.90] by audumla.students.wisc.edu;
+          id AAA40020; 8.6.9W/42; Fri, 21 Jul 1995 00:51:59 -0500
+X-NUPop-Charset: English
+Date: Fri, 21 Jul 95 00:49:35 CST  
+>From: "Charles E. Carroll" <ccarroll@students.wisc.edu>
+Message-Id: <2984.ccarroll@students.wisc.edu>
+To: nomic-official@teleport.com
+Subject: OFF: Judgement of CFJ 791
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+Judgement of CFJ 791
+
+Zefram receives 5 points for speedy Judgement.
+
+==============================================================
+
+CFJ 791
+
+Caller: Kelly
+
+Statement: The Assessor's Report of 12 July 1995 is in error, in that
+  it listed several Players as having cast extra Votes on various
+  Proposals, when in fact it is not legally permitted for any Player
+  whatsoever to cast an extra Vote. 
+
+Barred: elJefe, Steve
+
+Requested Injunction: none
+
+Judge: Zefram
+  Judgement: FALSE
+  Injunction: none
+
+Effects reported by COTC (* indicates new to this report):
+ *Zefram receives 5 points for speedy Judgement.
+
+=============================================================
+
+=============================================================
+
+History:
+  Called by Kelly, July 18 1995, 03:06 EST5
+  Assigned to TAL, July 18 1995, 13:55 UTC 
+  Assigned to Zefram, July 19 1995, 06:28 UTC
+  Judged FALSE by Zefram, Thu, 20 Jul 1995 21:27:50 +0100 (BST)
+  Judgement published {as of this message}
+ 
+==============================================================
+
+Arguments of Caller (Kelly):
+
+Rule 206/3 allows a Player to cast "any votes in addition to an 
+Player's first vote [...] by the casting of Extra Votes, as specified 
+in other Rules."
+ 
+however, there is no Rule which allows a Player to "cast" "Extra
+Votes".  a Player may (Rule 1442/5) "use" "Extra Votes" to cast "extra 
+Votes".  I believe that the capitalization is _very_ significant.
+that's not casting "Extra Votes", but rather "extra Votes".  Extra 
+Votes are a Currency, while extra Votes are Votes above and beyond the 
+first Vote granted by 206.  Rule 206 specifically requires that the 
+casting of extra Votes may only be achieved by the casting of Extra
+Votes--and yet, as I have said, there is no procedure for casting 
+Extra Votes.  I am not even sure what it might mean to cast a Currency 
+on a Proposal.
+
+Rule 754 cannot apply in this case, as 754 only applies when an error 
+does not introduce an ambiguity, and I believe that a change of
+capitalization of the word "Extra" in Rule 206 would completely change 
+the meaning of this Rule, so it seems quite clear to me that the error 
+_does_ introduce an ambiguity of meaning. 
+ 
+Since there is no legal means specified in the Rules for the casting 
+of Extra Votes upon Proposals, no Player may cast a vote beyond the
+first granted by Rule 206.  The Assessor's allegation that various 
+Players did legally cast extra Votes is therefore in error. 
+ 
+Therefore, the 1 extra Vote supposedly cast by elJefe, and the 3 extra
+Votes supposedly cast by Steve, on Proposal 1612, are invalid, and 
+therefore this Proposal fails 4 to 7; and the 1 extra Vote supposedly 
+cast by Swann on Proposal 1613 is invalid, and therefore this Proposal 
+passes 8 to 3. 
+ 
+==============================================================
+
+Arguments of Judge (Zefram):
+
+Rule 206/3 states:
+
+      ...  The casting of any votes in addition to a Player's first
+      vote may only be achieved by the casting of Extra Votes, as
+      specified in other Rules.
+
+I interpret this as defining "Extra Votes" as a class of Nomic Entities
+that is a subclass of the class "Votes".  Extra Votes consequently have
+some of the characteristics of Votes, including that they may be "cast"
+on Proposals.  The casting of Votes (including Extra Votes) on
+Proposals has certain well-defined effects described elsewhere in the
+rules, particularly in Rule 955/2.  The fact that Extra Votes are also
+a Currency, while Votes are not, is entirely irrelevant to this.
+
+Hence the application of the word "use" to Extra Votes in Rule 1442/5
+is unambiguous, as casting is the only way to use Votes, including
+Extra Votes.  It is possible to cast Extra Votes on a Proposal, because
+they are Votes.
+
+==============================================================
+
+Evidence presented by Caller (Kelly):
+
+I. Rule 206/3 
+II. Rule 1442/5 
+III. Rule 754/0 
+IV. Assessor's Report of 12 July 1995 
+V. Claim of Error on Exhibit IV 
+VI. elJefe's Denial of COE (exhibit V) 
+ 
+-------I. 
+ 
+Rule 206/3 (Mutable, MI=1) 
+Players and Votes
+ 
+      Each Player has two votes per Proposal, unless another Rule 
+      specifically says otherwise, and no Player shall have more than 
+      five votes on any Proposal, regardless of what any other Rule
+      may say to the contrary. The casting of any votes in addition 
+      to a Player's first vote may only be achieved by the casting of 
+      Extra Votes, as specified in other Rules.
+ 
+ 
+History: 
+Initial Mutable Rule 206, Jun. 30 1993 
+Amended(1) by Proposal 1479, Mar. 15 1995 
+Amended(2) by Proposal 1553, Apr. 14 1995 
+Amended(3) by Proposal 1565, Apr. 28 1995 
+ 
+-------II. 
+ 
+Rule 1442/5 (Mutable, MI=1) 
+Using Extra Votes 
+
+      Provided that e possesses sufficient Extra Votes, a Player may 
+      use them to cast extra Votes on a Proposal up to the maximum 
+      allowed to them for that Proposal, as specified in other Rules. 
+
+History: 
+Created by Proposal 1479, Mar. 15 1995 
+Amended(1) by Proposal 1533, Mar. 24 1995
+Amended(2) by Proposal 1538, Apr. 4 1995 
+Amended(3) by Proposal 1544, Apr. 14 1995 
+Amended(4) by Proposal 1565, Apr. 28 1995 
+Amended(5) by Proposal 1601, Jun. 19 1995 
+ 
+-------III. 
+ 
+Rule 754/0 (Mutable, MI=1) 
+Spelling and Grammar Errors 
+ 
+      Differences in spelling, grammar, or dialect, or the 
+      substitution of a word or phrase by a synonym or abbreviation, 
+      are inconsequential in all forms of Nomic communication, as long
+      as there is no ambiguity in meaning. In other words, the meaning 
+      or validity of such communication is not altered in any way by 
+      such discrepancies. 
+      (*Was: 435*)
+ 
+-------IV. 
+
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by copper.ucs.indiana.edu 
+(8.6.11/8.6.11) with ESMTP id JAA16717 for <sgoehrin@copper.ucs.indiana.edu>; Wed, 12 Jul 1995 09:16:39 
+-0500 
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id HAA15532 for nomic-official-
+outgoing; Wed, 12 Jul 1995 07:04:33 -0700 
+Received: from torii (torii.triple-i.com [192.94.150.1]) by desiree.teleport.com (8.6.10/8.6.9) with ESMTP id 
+HAA15512 for <nomic-official@teleport.com>; Wed, 12 Jul 1995 07:04:28 -0700 
+Received: from Camex.COM (Camex.COM [134.54.1.1]) by torii (8.6.9/8.6.9) with SMTP id HAA26669 for 
+<nomic-official@teleport.com>; Wed, 12 Jul 1995 07:03:54 -0700 
+Received: from zeus.Camex.COM by Camex.COM (4.1/SMI-4.2) 
+ id AA09409; Wed, 12 Jul 95 10:03:50 EDT 
+Received: by zeus.Camex.COM (5.x/SMI-SVR4) 
+ id AA01346; Wed, 12 Jul 1995 10:03:12 -0400
+Date: Wed, 12 Jul 1995 10:03:12 -0400 
+>From: jlc@camex.Camex.COM (Jeff Caruso) 
+Message-Id: <9507121403.AA01346@zeus.Camex.COM> 
+To: nomic-official@teleport.com
+Subject: OFF: Report on COE, and Corrected Assessor's Report 
+Sender: owner-nomic-official@teleport.com 
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com 
+ 
+COE Accepted. 
+ 
+------------------------------------------------------------------------- 
+Steve claimed: 
+> I Claim that the above Assessor's Report is in Error, in that Proposal 
+> 1612 passed. 
+>  
+> Argument: 
+>  
+> I intend to argue that Proposal 1612 actually had an AI of 1, not 2, and 
+> hence that the Proposal passed. The argument is an argument from precedent. 
+> For consider CFJ 779, which I include here in full, with the arguments 
+> presented by Caller Chuck and Judge Michael: 
+ 
+[CFJ 779, and Rule 1453 deleted]
+ 
+> It should be apparent that Rule 1453 contains precisely the same faulty 
+> language that Chuck noticed in Rule 1466. So a consistent application
+> of the Judgement in CFJ 779 assigns to Proposal 1612 an AI of 1, not 
+> 2. Since the Proposal received 8 votes in favour and 7 against, the 
+> Proposal passes. 
+ 
+Steve is quite correct. The wordings are precisely the same, and  
+Michael's ruling in Chuck's CFJ 779 should apply to Proposal 1612. 
+ 
+Therefore, I issue the following corrected Assessor's report: 
+ 
+---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+---------------------------------------------------------------------------- 
+ 
+Assessor's Report, Mon Jul 10 15:34:45 EDT 1995, for Proposals 1608-1618, 
+as corrected July, 1995 and July 12, 1995. 
+ 
+=============================================================================
+Num. AI  Proposer      Title                               RESULT 
+ 
+1608     JonRock       Clean Up the F-A Rule               FAILS  1-7 (4)
+1609     JonRock       Encourage EV Expenditure            FAILS  0-8 (4) 
+1610     JonRock       I'm Sick And Tired...This Typo      PASSES 6-2 (4) 
+1611 [1] JonRock       Award JonRock the OoM               FAILS  0-11 (1) 
+1612 [1] Steve         Steve the Machiavellian             PASSES 8-7 (1) 
+1613     Swann         Fix 1440                            PASSES 9-3 (1) 
+1614     Steve         A Coercive Proposal (!)             NOT A PROPOSAL 
+1615     Steve         Another Coercive Proposal           NOT A PROPOSAL 
+1616     Andre         Send a Condoleance to Thring        FAILS  4-6 (2) 
+1617     Steve         Bring back EV scarcity              PASSES 7-3 (2) 
+1618 [2] Steve         Definition of 'Active Player'       PASSES 10-1 (1) 
+ 
+ 
+Note: the quorum for 1608-1618 was 8. 
+ 
+Proposals 1608-1609 were disowned.  No voting points or proposer  
+penalties are given for these proposals. 
+
+1614 was declared "not a Proposal" by CFJ 786. 1615 is treated  
+identically. No voting points or proposer penalties are given  
+for these, nor are the results reported.
+ 
+Interestingly, _none_ of the Powers cast turned out to have any 
+effect, except for the Influence(4) power Steve cast on himself. 
+ 
+Proposals 1611-1612 actually had an A.I. of 1, consistent 
+with the ruling in CFJ 779. 
+ 
+============================================================================= 
+Result of Proposals 1608-1618 
+ 
+               1  1  1   1  1  1        1  1  1  
+               6  6  6   6  6  6        6  6  6  
+               0  0  1   1  1  1        1  1  1  
+               8  9  0   1  2  3        6  7  8  
+ 
+Bowen          A  A  A   A  A  A        A  A  A  
+Brian          F  A  F   A  A  F        -  F  F
+Chuck          A  A  -   A  A  A        A  A  F  
+ElJefe         A  A  -   A 2F  F        A  F  F  
+Kelly          -  -  F   A  A  F        A  A  F
+KoJen          A  A  F   A  A  A        F  -  F  
+Michael        -  -  -   -  -  -        -  -  -  
+Steve          A  A  F   A 4F  F        A  F  F  
+Swann          -  -  -   A  A 2F        F  F  F  
+TAL            A  A  A   A  F  F        A  F  F  
+Vanyel         -  -  F   A  F  F        F  F  F  
+Zefram         A  A  F   A  A  F        F  F  F  
+ 
+F-A            -  -  4 -11  1  6       -2  4  9 
+ 
+FOR            1  0  6   0  8  9        4  7 10  
+AGAINST        7  8  2  11  7  3        6  3  1  
+ABSTAIN        4  4  4   1  1  1        2  2  1  
+ 
+A.I.           1  1  1   1  1  1        1  1  2  
+PASSES?        N  N  Y   N  Y  Y        N  Y  Y  
+
+ 
+*** Scorekeepor, please note: 
+
+Andre             -2 (-2 F-A) 
+Bowen             +7 (+7 Voting) 
+Brian             +7 (+7 Voting) 
+Chuck            +57 (+7 Voting +50 Oracle 1612) 
+ElJefe            +7 (+7 Voting) 
+JonRock           -6 (-7 F-A +1 Short 1610) 
+Kelly             +7 (+7 Voting) 
+KoJen            -43 (+7 Voting -50 Oracle 1612) 
+Michael           +7 (+7 Voting) 
+Steve            +33 (+14 F-A +2 PP 1617 +2 PP 1618 +5 Repeal 1617 
+                      +1 Short 1612 +1 Short 1617 +1 Short 1618 +7 Voting) 
+Swann            +13 (+6 F-A +7 Voting) 
+TAL               +7 (+7 Voting) 
+Vanyel            +7 (+7 Voting) 
+Zefram            +7 (+7 Voting) 
+ 
+=============================================================================
+Powers Cast: 
+ 
+(Card transfers are not shown; the recordkeepor is the Banker.)
+ 
+Date: Sat, 1 Jul 95 11:36:31 CST   
+  Chuck cast the Oracle Power on KoJen for Proposal 1612. 
+ 
+Date: Sat, 1 Jul 95 11:36:51 CST   
+  Chuck cast one Quiet Power on Kelly, for Proposal 1612. 
+ 
+Date: Sun, 2 Jul 95 04:31:25 CST   
+  Chuck cast another Quiet Power on Dave Bowen for Proposal 1612. 
+ 
+Date: Sun, 2 Jul 95 04:55:57 CST   
+  Chuck cast one Reversal power on JonRock for Proposal 1611. 
+ 
+Date: Fri,  7 Jul 95 11:01:39 -0400 
+  KoJen predicts Proposal 1612 will fail. 
+ 
+Date: Mon, 10 Jul 1995 15:40:01 +1000 (EST)
+  Steve cast the other Reversal power on Andre for Proposal 1612. 
+  Steve cast the Influence (4 votes) Power on himself for Proposal 1612. 
+
+ 
+============================================================================= 
+Extra Votes: Official Report of the Recordkeepor 
+============================================================================= 
+ 
+Name        6/1  6/6 6/12 6/19  7/1 7/10 
+==========  ===  ===  ===  ===  ===  === 
+Andre        5    5    5    4    4    4 
+Bowen        3    3    3    3    3    3 
+Brian       --   --   --   --   --    0 
+Chuck       10   10   15   14   15   18 
+Coren       12   12   12   12   12   12 
+elJefe       0    0    0    0    4    4 
+Ian          0    0    0    0    0    0 
+JonRock      3    3    3    3    3    3 
+Kelly       11   11   11   18   18   18 
+KoJen        6    6    6    6    6    3
+Michael     40   40   40   40   36   36 
+Pascal       3    3    3    3    3    3 
+Steve       11   11   11   11   11   10
+SugarWater  --   --   --    0    0    0 
+Swann       14   14   14   14   14   14 
+TAL          6    6    1    1    0    1 
+Vanyel       4    3    3    2    2    2 
+Xanadu       2    2    2    2    2    2 
+Zefram      --   --   --    0    0    0 
+ 
+TOTAL      133  132  132  136  133  133 
+ 
+Number of Players currently Registered:  19 
+Threshhold for EV creation            :  95 
+ 
+============================================================================= 
+Extra Votes cast: 
+  7/6:   Swann FOR 1613 
+  7/9:   Steve FOR 1612 
+  7/10:  Steve FOR 1612 (two more)
+  7/10:  elJefe FOR 1612 
+ 
+=============================================================================
+Transfers since 7/1: 
+  7/9:   Steve to TAL:     1 
+ 
+============================================================================= 
+Other EV changes: 
+  7/10:  Under the Oracle Rule, 3 EV's are transferred from KoJen 
+         to Chuck. 
+ 
+============================================================================= 
+Correction of Error in Previous Report: 
+ 
+  TAL's extra vote cast on 6/23 was not destroyed, and so was available  
+  to be transferred to Chuck when TAL transferred 1 EV on 6/29. 
+ 
+ 
+============================================================================= 
+=============================================================================
+Text of Adopted Proposals: 
+ 
+---------------------------
+ 
+Proposal 1610 (JonRock) AI=1 
+I'm Sick And Tired Of Looking At This Typo 
+(amends a rule) 
+ 
+Amend Rule 478 by replacing '"' with '.'. 
+ 
+--------------------------- 
+ 
+Proposal 1612 (Steve) 
+Steve the Machiavellian 
+ 
+The following Directive is hereby adopted: that Steve be awarded the Patent 
+Title of the Order of Machiavelli. 
+ 
+--------------------------- 
+
+PROPOSAL 1613 (Swann) AI=1 
+Fix 1440 
+(Amends a Rule)
+ 
+Amend Rule 1440/0 to read as follows: 
+ 
+      A Player may Erase eir Blots by spending five Points for each 
+      Blot Erased. A Player may Erase any number of Blots as long as e 
+      does not reduce eir Point total below zero.  A Player with less 
+      than five Points may not Erase Blots. 
+ 
+      The Player must notify both the Scorekeepor and the Tabulator, 
+      in the Public Forum, of the number of Blots e is erasing, and the 
+      number of Points e is spending to do so. 
+ 
+      If this requires more Points than the Player has at the time of 
+      the request, then no Blots are erased, and no Points are lost. 
+ 
+      If there are sufficient Points, the Player's Point and Blot totals are 
+      reduced by the requested amount.
+ 
+      Other rules may define additional methods of Erasing Blots. 
+
+--------------------------- 
+ 
+Proposal 1617 (Steve) AI=1, protoed 
+Bring back EV scarcity 
+ 
+Repeal Rule 1480. 
+ 
+--------------------------- 
+ 
+Proposal 1618 (Steve) AI=2, protoed 
+Definition of 'Active Player' 
+ 
+Amend Rule 1016 by appending to the first paragraph the sentence: "An 
+Active Player is a Player who is not On Hold." 
+ 
+------------------------------------------------------------------------- 
+-------------------------------------------------------------------------
+------------------------------------------------------------------------- 
+ 
+- elJefe, Assessor of Agora Nomic
+ 
+****************************************************************** 
+  Dr. Jeffrey L. Caruso <jlc@triple-i.com> 
+  Information International 
+ 
+-------V. 
+ 
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by copper.ucs.indiana.edu 
+(8.6.11/8.6.11) with ESMTP id CAA19984 for <sgoehrin@copper.ucs.indiana.edu>; Thu, 13 Jul 1995 02:28:13 
+-0500 
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id AAA28543 for nomic-business-
+outgoing; Thu, 13 Jul 1995 00:18:47 -0700 
+Received: from mizar.astro.indiana.edu (mizar.astro.indiana.edu [129.79.160.43]) by desiree.teleport.com 
+(8.6.10/8.6.9) with SMTP id AAA28528 for <nomic-business@teleport.com>; Thu, 13 Jul 1995 00:18:42 -0700 
+Received: from poverty by mizar.astro.indiana.edu with uucp 
+ (Smail3.1.28.1 #7) id m0sWIXg-0001v4C; Thu, 13 Jul 95 02:18 EST 
+Received: by poverty.bloomington.in.us (V1.17-beta/Amiga)
+   id <3c6g@poverty.bloomington.in.us>; Thu, 13 Jul 95 02:15:26 EST5 
+Date: Thu, 13 Jul 95 02:15:26 EST5 
+Message-Id: <9507130715.3c6g@poverty.bloomington.in.us>
+>From: kelly@poverty.bloomington.in.us (Kelly Martin) 
+To: nomic-business@teleport.com 
+Subject: BUS: COE: Assessor's Report 
+Sender: owner-nomic-business@teleport.com 
+Precedence: bulk 
+Reply-To: nomic-discussion@teleport.com 
+ 
+I claim that the most recent Assessor's Report is in error, in that it 
+listed several Players as having cast extra Votes on various 
+Proposals, when in fact it is not legally permitted for any Player 
+whatsoever to cast an extra Vote. 
+ 
+Reasoning: 
+ 
+Rule 206/3 allows a Player to cast "any votes in addition to an 
+Player's first vote [...] by the casting of Extra Votes, as specified 
+in other Rules."
+ 
+however, there is no Rule which allows a Player to "cast" "Extra 
+Votes".  a Player may (Rule 1442/5) "use" "Extra Votes" to cast "extra
+Votes".  I believe that the capitalization is _very_ significant. 
+that's not casting "Extra Votes", but rather "extra Votes".  Extra 
+Votes are a Currency, while extra Votes are Votes above and beyond the 
+first Vote granted by 206.  Rule 206 specifically requires that the 
+casting of extra Votes may only be achieved by the casting of Extra 
+Votes--and yet, as I have said, there is no procedure for casting 
+Extra Votes.  I am not even sure what it might mean to cast a Currency 
+on a Proposal. 
+ 
+Rule 754 cannot apply in this case, as 754 only applies when an error 
+does not introduce an ambiguity, and I believe that a change of  
+capitalization of the word "Extra" in Rule 206 would completely change 
+the meaning of this Rule, so it seems quite clear to me that the error 
+_does_ introduce an ambiguity of meaning. 
+ 
+Since there is no legal means specified in the Rules for the casting 
+of Extra Votes upon Proposals, no Player may cast a vote beyond the
+first granted by Rule 206.  The Assessor's allegation that various 
+Players did legally cast extra Votes is therefore in error. 
+
+Therefore, the 1 extra Vote supposedly cast by elJefe, and the 3 extra 
+Votes supposedly cast by Steve, on Proposal 1612, are invalid, and 
+therefore this Proposal fails 4 to 7; and the 1 extra Vote supposedly 
+cast by Swann on Proposal 1613 is invalid, and therefore this Proposal 
+passes 8 to 3. 
+ 
+Respectfully submitted this 13th day of June, 
+ 
+Kelly Martin, Speaker 
+-- 
+kelly martin                                 <kelly@poverty.bloomington.in.us> 
+ 
+      It is not by their choice that Scientologists continue to practice 
+     Scientology. 
+ -- Andrew Milne (a Scientologist), on alt.religion.scientology 
+ 
+-------VI.
+ 
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by copper.ucs.indiana.edu 
+(8.6.11/8.6.11) with ESMTP id KAA12699 for <sgoehrin@copper.ucs.indiana.edu>; Thu, 13 Jul 1995 10:10:19
+-0500 
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id IAA27237 for nomic-business-
+outgoing; Thu, 13 Jul 1995 08:07:42 -0700 
+Received: from torii.triple-i.com (torii.triple-i.com [192.94.150.1]) by desiree.teleport.com (8.6.10/8.6.9) with 
+ESMTP id IAA27201 for <nomic-business@teleport.com>; Thu, 13 Jul 1995 08:07:35 -0700 
+Received: from Camex.COM (Camex.COM [134.54.1.1]) by torii.triple-i.com (8.6.9/8.6.9) with SMTP id 
+IAA10416 for <nomic-business@teleport.com>; Thu, 13 Jul 1995 08:07:02 -0700 
+Received: from zeus.Camex.COM by Camex.COM (4.1/SMI-4.2) 
+ id AA01474; Thu, 13 Jul 95 11:07:00 EDT 
+Received: by zeus.Camex.COM (5.x/SMI-SVR4) 
+ id AA05813; Thu, 13 Jul 1995 11:06:21 -0400 
+Date: Thu, 13 Jul 1995 11:06:21 -0400 
+>From: jlc@camex.Camex.COM (Jeff Caruso) 
+Message-Id: <9507131506.AA05813@zeus.Camex.COM> 
+To: nomic-business@teleport.com 
+Subject: BUS: Re: Kelly's Claim of Error 
+Sender: owner-nomic-business@teleport.com
+Precedence: bulk 
+Reply-To: nomic-discussion@teleport.com 
+
+Kelly responds to me: 
+> Jeff> Rule 206 says that players may cast up to two votes.  It says that 
+> Jeff> votes beyond the first may be cast only by casting Extra Votes.   
+> Jeff> Rule 1442 explicitly allows a player to cast extra votes provided  
+> Jeff> they have enough Extra Votes.  Rule 754 and Rule 116 should fill  
+> Jeff> in any remaining gaps. 
+>  
+> 754 cannot be applied when an error causes a change in meaning.  i 
+> believe this is clearly the case. 
+>  
+> you haven't explain howed one can "cast" a Currency on a Proposal.  if 
+> you're saying that i can cast Currencies on Proposals, then i hereby 
+> cast 5 Points on Proposal 1625.  tell me, what the hell did i just do?
+ 
+I agree with you: this reading of Rule 206 is meaningless.  Therefore 
+the other reading (with the capitalization reading "extra Votes") 
+is the only meaningful one, and Rule 754 applies.
+ 
+... 
+> Rule 1442 does not allow anybody to cast Extra Votes; it allows
+> Players to cast extra Votes.  because changing the capitalization 
+> changes the meaning, Rule 754 _does not apply_: Rule 754 can only be 
+> used when an error does not introduce ambiguity of meaning.  Rule 116 
+> doesn't apply either because Rule 206 is specific and exclusionary. 
+ 
+Interesting claim: reading it two different ways changes the meaning, but 
+one of the ways has no meaning.  I don't think you can maintain both of  
+these claims.  But you needn't convince me, just the Courts. 
+ 
+... 
+> Jeff>  [...] 
+> 
+> not posted to the PF, so even if you are responsible, this has no
+> weight. 
+ 
+You're quite right; I'm really messing up on these To: lines today, as  
+when I posted a "private" reply to nomic-discussion. Sorry, Agorans!
+ 
+I re-iterate, in the Public Forum: 
+
+Steve should rule on this ASAP.  If by some wacky twist of the 
+rules _I_ am the one responsible for ruling on this claim, then 
+I DENY the claim for the reason cited. 
+ 
+- elJefe 
+ 
+****************************************************************** 
+  Dr. Jeffrey L. Caruso <jlc@triple-i.com> 
+  Information International 
+ 
+-- 
+ 
+============================================================
+
+End of CFJ 791
+
+============================================================

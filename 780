@@ -1,0 +1,195 @@
+From nomic-official-owner@teleport.com Fri Jun 23 07:44:46 1995
+Return-Path: nomic-official-owner@teleport.com
+Received: from desiree.teleport.com (desiree.teleport.com [192.108.254.11]) by Shamino.quincy.edu (8.6.9/8.6.9) with ESMTP id HAA12880 for <blahedo@quincy.edu>; Fri, 23 Jun 1995 07:37:40 -0500
+Received: (from daemon@localhost) by desiree.teleport.com (8.6.10/8.6.9) id FAA12242 for nomic-official-outgoing; Fri, 23 Jun 1995 05:35:52 -0700
+Received: from wing4.wing.rug.nl (wing4.wing.rug.nl [129.125.21.4]) by desiree.teleport.com (8.6.10/8.6.9) with SMTP id FAA12231 for <nomic-official@teleport.com>; Fri, 23 Jun 1995 05:35:42 -0700
+Message-Id: <199506231235.FAA12231@desiree.teleport.com>
+Received: by wing4.wing.rug.nl
+	(1.37.109.8/16.2) id AA04782; Fri, 23 Jun 1995 14:35:42 +0200
+From: Andre Engels <csg419@wing.rug.nl>
+Subject: OFF: Judgement CFJ 780
+To: nomic-official@teleport.com
+Date: Fri, 23 Jun 95 14:35:42 METDST
+Mailer: Elm [revision: 70.85]
+Sender: owner-nomic-official@teleport.com
+Precedence: bulk
+Reply-To: nomic-discussion@teleport.com
+Status: RO
+
+
+			JUDGMENT CFJ 780
+	("That KoJen violated Rule 1023 when he distributed...")
+
+======================================================================
+
+Judge:		Zefram
+
+Judgement:	UNDECIDABLE
+
+Caller:		Steve
+
+Eligible:	Chuck, Dave Bowen, elJefe, Ian, JonRock, Kelly,
+		Michael, SugarWater, Troublemaker At Large, Vanyel,
+		Xanadu, Zefram
+
+Barred:		KoJen, Andre, Swann
+
+Not Eligible:	Steve (caller)
+		Andre, KoJen, Swann (barred)
+		Blob (1005)
+		Coren, Pascal (On Hold & 1005)
+
+Effects of this CFJ:
+  Zefram receives 5 points for speedy judgements
+
+======================================================================
+
+History:
+  Called by Steve, Jun 22 1995, 13:06 +1000 (EST)
+  Assigned to Zefram, Jun 23 1995, 08:22 UTC
+  Judged UNDECIDABLE by Zefram, Jun 23 1995, 12:11 +0100 (BST)
+
+======================================================================
+
+Statement:
+
+That KoJen violated Rule 1023 when he distributed a Proposal numbered
+1607, and that he therefore incurs a 10 point penalty under that Rule.
+
+======================================================================
+
+Requested Injunction:
+
+That KoJen be penalized 10 points under Rule 1023, and that he submit
+a Formal Apology under Rule 908 for his violation of Rule 1023.
+
+======================================================================
+
+Reasons and Arguments:
+
+Rule 1036 requires the Promotor assign numbers to Proposals "as soon
+as possible" after receiving them. Rule 1023 defines "as soon as possible"
+to mean "within a week, and no later than any other action which e is
+subsequently required to perform". I allege that there were other actions
+which the Promotor was required to perform prior to (to be precise, no
+later than) his distribution of the Proposal which he numbered 1607,
+namely, the numbering of other Proposals which he had received prior
+to that one, and after he had received Proposal 1606. If the Judge
+believes that there were other such Proposals, then e should (in my
+view) Judge the Statement TRUE.
+
+======================================================================
+
+Decision: UNDECIDABLE
+
+======================================================================
+
+Reasoning of judgment:
+
+Steve's argument is largely logically correct, and refers to rules
+accurately.  Specifically, if KoJen received any valid Proposals before
+he distributed Proposal 1607, then e was required by Rule 1036 (and
+1023) to number them before distributing Proposal 1607.  If he received
+them before receiving Proposal 1607, then he was required by Rule 1036
+(and 1023) to number them before numbering Proposal 1607.
+
+This would seem to indicate that he violated Rule 1023 in the course of
+violating Rule 1036, which required him to number such Proposals before
+numbering Proposal 1607.  That argument, however, arrives at the
+conclusion that he neglected to number these proposals by assuming that
+he numbered them in the manner required by Rule 109.  It is not
+possible to rule out the possibility that he in fact numbered such
+proposals before numbering Proposal 1607, but numbered at least one of
+the involved proposals (definitely including the Proposal distributed
+as Proposal 1607) incorrectly, and distributed them out of order.  Such
+action would violate Rules 109 and 1036, but not 1023 as Proposals are
+not required to be distributed As Soon As Possible.
+
+It is noted that had the Statement referred to Rule 1036 instead of
+Rule 1023, then it would have had the intended effect of requiring a
+determination of whether any Proposals of the type discussed above were
+actually submitted.
+
+======================================================================
+
+References and Evidence:
+
+----------------------------------------------------------------------
+
+Rule 109/2 (Semimutable, MI=3)
+Proposal Numbers
+
+      The Promotor shall give each submitted Proposal a Number for
+      reference.  The Number of a Proposal shall be the least integer
+      greater than all other Numbers previously assigned to a Proposal
+      (including numbers assigned to Proposals later determined to
+      have been incorrectly submitted), or 301, whichever is greater.
+
+History:
+Initial Immutable Rule 109, Jun. 30 1993
+Mutated from MI=Unanimity to Rule 1057, MI=3 by Proposal 1057,
+  Sep. 20 1994
+Amended to Rule 1067 by Proposal 1067, Oct. 4 1994
+Renumbered from 1067 to 109 by Rule 1295, Nov. 1 1994
+Amended(1) by Proposal 1435, Feb. 14 1995
+Amended(2) by Proposal 1530, Mar. 24 1995
+
+----------------------------------------------------------------------
+
+Rule 1023/2 (Mutable, MI=1)
+Definition of "As Soon As Possible"
+
+      Whenever a Player is required to perform a certain action 
+      "as soon as possible", e is required to perform that action 
+      within a week, and no later than any other action e is
+      subsequently required to perform.  Failure to observe these time
+      requirements shall result at a minimum in the incursion of a 10
+      point penalty; other Rules may impose further penalties.
+      However, activity of a purely discussionary nature is excluded
+      from the ordering requirement, and may be conducted at any time.
+
+      This Rule does not deprive actions which do not conform to its 
+      requirements of whatever effects they would otherwise have. 
+      Rather, this Rule defines the latest time at which actions to be 
+      performed "as soon as possible" may be performed without
+      incurring a Penalty.  It takes precedence over other Rules which
+      define a later latest time for the performance of these actions.
+      Other Rules may impose earlier latest times, and if so, this
+      Rule defers to them.
+
+      This Rule defers to Rules which describe the responsibilities of
+      Players who are On Hold.
+      (*Was: 805/907*)
+
+History:
+Created by Proposal 805 [date unknown]
+Amended by Proposal 907 [date unknown]
+Amended by Proposal 1023, Sep. 5 1994
+Amended(1) by Proposal 1413, Feb. 1 1995
+Amended(2) by Proposal 1434, Feb. 14 1995
+
+----------------------------------------------------------------------
+
+Rule 1036/2 (Mutable, MI=1)
+Making and Distributing Proposals
+
+      Let there be an Officer called the Promotor.
+      The Promotor shall receive a weekly salary of 3 Points.
+      A Proposal by a Player shall be made by submitting it to the
+      Promotor. As soon as possible after receiving the Proposal, the
+      Promotor shall assign the Proposal a Number.
+      Within seven (7) days of the receipt of the Proposal, and not
+      later than any subsequently received Proposal, the Promotor
+      shall distribute the numbered Proposal to all Players.
+
+      At the same time e shall distribute any text not part of the
+      proposal which is required to be submitted with it, but eir
+      failure to do so shall not deprive the act of distributing the
+      Proposal of the effects which it would otherwise have.
+
+History:
+...
+Amended(1) by Proposal 1530, Mar. 24 1995
+Amended(2) by Proposal 1546, Apr. 14 1995
+
+======================================================================

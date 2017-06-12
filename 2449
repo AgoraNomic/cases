@@ -1,0 +1,39 @@
+==============================  CFJ 2449  ==============================
+
+    If a legal voter votes to endorse an officer, but, after the casting
+    of the original voter's vote and before the resolution of the
+    decision, the holder of that office changes, then the voter has
+    endorsed the final officer rather than the initial.
+
+========================================================================
+
+Caller:                                 Yally
+
+Judge:                                  Machiavelli
+Judgement:                              
+
+
+Judge:                                  ais523
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Yally:                        14 Apr 2009 23:01:14 GMT
+Assigned to Machiavelli:                15 Apr 2009 05:12:22 GMT
+Machiavelli recused:                    20 Apr 2009 18:50:39 GMT
+Assigned to ais523:                     20 Apr 2009 21:30:32 GMT
+Judged TRUE by ais523:                  26 Apr 2009 20:02:07 GMT
+
+========================================================================
+
+Judge ais523's Arguments:
+
+I judge CFJ 2449 TRUE. Rule 2127, game custom, and common sense all
+suggest that everything about an endorsement is determined at the end of
+the voting period; otherwise, endorsing someone who had not yet voted
+would have the effect as not voting at all, because they wouldn't be a
+voter on that decision (despite being an eligible voter).
+
+========================================================================

@@ -1,0 +1,188 @@
+==============================  CFJ 1625  ==============================
+
+    proposal 4805 succeeded in amending rule 2101 (prior to repealing
+    it)
+
+========================================================================
+
+Caller:                                 Zefram
+
+Judge:                                  Peter
+Judgement:                              
+
+
+Judge:                                  Pineapple Partnership
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       01 Apr 2007 18:23:41 GMT
+Assigned to Peter:                      06 Apr 2007 23:15:51 GMT
+Peter recused:                          25 Apr 2007 23:15:47 GMT
+Assigned to Pineapple Partnership:      25 Apr 2007 23:26:31 GMT
+Judged FALSE by Pineapple Partnership:  29 Apr 2007 05:32:27 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Immediately before P4805, R2101 had the title "Library Cards",
+and defined two classes of cards.  P4805, which is available at
+<http://axiom.anu.edu.au/~michaeln/agora/vreports/vr20050620.txt>,
+contained a clause that attempted to amend a rule thus:
+
+|Amend Rule 2101 (The New Raffle) to read:
+|
+|      As soon as possible after the 13th day of the third month of
+|      each quarter, the Deckmastor shall randomly select a copy of a
+|      Raffle Ticket in the possession of a Player and announce eir
+|      selection, unless no such copy exists.  Upon this announcement,
+|      the Player in possession gains three instances of the ephemeral
+|      Patent Title "Fortune's Fool", and each Raffle Ticket in the
+|      possession of a Player is automatically discarded.
+
+A later clause of P4805 (its last one, in fact) attempted to repeal a
+rule thus:
+
+|Repeal Rule 2101
+
+It appears that the author of P4805 intended to amend R2093, which had
+the title "The New Raffle" and text similar to the replacement text
+in P4805 quoted above.  Obviously the repeal clause was sufficiently
+clear and unambiguous to successfully repeal R2101.  For this reason
+the question of whether the rule had been amended before its repeal did
+not affect subsequently published rulesets, which is probably why this
+hasn't been CFJed before.
+
+The question is how the description "Rule 2101 (The New Raffle)" is
+to be interpreted, in a situation where (a) there is a rule 2101 but
+its title is not that indicated and (b) there is a rule titled "The New
+Raffle" but its number is not that indicated.  There are three feasible
+interpretations: (a) it refers to R2101, despite the non-matching title;
+(b) it refers to "The New Raffle" (R2093) despite the non-matching
+number; (c) it is too ambiguous or unclear, so the amendment clause
+cannot be executed.
+
+I think the matter is firmly resolved by the provisions of rule 1339
+that were in effect at the time.  It said
+
+      Exact precision is required in the specification of Rule
+      Changes; any ambiguity or irregularity in the specification of a
+      Rule Change causes it to be void and without effect.
+
+I think the situation qualifies for the description "ambiguity or
+irregularity", and that therefore neither R2101 nor R2093 could have
+been amended by the clause in question.  I urge a judgement of FALSE on
+these grounds.
+
+For the record, at the time Rulekeepor Michael recorded P4805 as having
+successfully amended R2101 before repealing it.  This is shown by eir
+RCS log entry:
+
+|4805  Goethe     amend  2068  rule loses DM's budget, gains
+|                                requirement to create/destroy cards
+|                                according to "Quotas"
+...
+|                 amend  2101  New Raffle amended (BUT, this rule is
+|                                "Library cards")
+...
+|                 repeal 2101  so much for library cards
+
+========================================================================
+
+Caller's Evidence:
+
+Rule 1339/6 (Power=3)
+Precision in Rule Changes
+
+      Exact precision is required in the specification of Rule
+      Changes; any ambiguity or irregularity in the specification of a
+      Rule Change causes it to be void and without effect.
+
+      Variations in whitespace or capitalization in the quotation of
+      text in an existing Rule to be removed or replaced does not
+      create an irregularity or ambiguity, for the purpose of this
+      Rule.  Any other variation, however, does.
+
+History:
+Created by Proposal 1339, Nov. 29 1994
+Amended(1) by Proposal 1414, Feb. 1 1995
+Amended(2) by Proposal 1440, Feb. 21 1995
+Mutated from MI=1 to MI=3 by Proposal 1532, Mar. 24 1995
+Amended(3) by Proposal 1754, Oct. 21 1995
+Amended(4) by Proposal 2671, Sep. 26 1996
+Amended(5) by Proposal 2741 (Zefram), Nov. 7 1996, substantial
+Amended(6) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
+<this version>
+Repealed by Proposal 4811 (Maud, Goethe), 20 June 2005
+
+----------------------------------------------------------------------
+
+Rule 2093/0 (Power=1)
+The New Raffle
+
+      The following class of cards is defined:
+
+      * Caption: Raffle Ticket
+        Elements: Grafty
+
+      As soon as possible after the 13th day of the third month of
+      each quarter, the Deckmastor shall randomly select a copy of a
+      Raffle Ticket in the possession of a Player and announce eir
+      selection, unless no such copy exists.  Upon this announcement,
+      the Player in possession gains three instances of the ephemeral
+      Patent Title "Fortune's Fool", and each Raffle Ticket in the
+      possession of a Player is automatically discarded.
+
+History:
+Created by Proposal 4692 (root), 18 April 2005
+<this version>
+Repealed by Proposal 4818 (Goethe), 10 July 2005
+
+----------------------------------------------------------------------
+
+Rule 2101/2 (Power=1)
+Library Cards
+
+      The following classes of cards are defined:
+
+      * Caption:  Library Renewal
+        Elements: Budgeted
+        Exploit:  You may indicate a number 1 through 5.  As soon as
+                  possible after you do this the Speaker must randomly
+                  discard that many cards from the Library's hand.  If
+                  there are fewer cards in the Library's hand then the
+                  number you indicate the Speaker must discard them
+                  all.
+
+      * Caption:  Library Card
+        Elements: Budgeted, Limited [Faculty Members][1]
+        Exploit:  Check a card out from the Library for no fee.
+
+History:
+Created by Proposal 4712 (Quazie), 18 April 2005
+Amended(1) by Proposal 4714 (Quazie), 18 April 2005
+Amended(2) by Proposal 4744 (Quazie, root), 5 May 2005
+<this version>
+Possibly Amended(3) by Proposal 4805 (Goethe, Manu), 20 June 2005
+  [subject of this CFJ]
+Repealed by Proposal 4805 (Goethe, Manu), 20 June 2005
+
+========================================================================
+
+Judge Pineapple Partnership's Arguments:
+
+In addition to agreeing to the caller's arguments, the court notes
+that the proposer of proposal 4805 (Goethe) was in the habit of using
+both numbers and names of rules in amendment clauses as a back-up,
+specifically to ensure that a clause would have no effect if the wrong
+rule number was accidentally used (Goethe, pers. comm).
+
+While intent is not evidence, it does suggest this to be a reasonable
+assumption and useful precedent: you can refer to rules by number or
+names, or both, but if they disagree in a single reference, it adds
+enough ambiguity to nullify the rule change.
+
+========================================================================

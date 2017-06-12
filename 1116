@@ -1,0 +1,67 @@
+==========================================================================
+                               CFJ 1116
+
+  The VT Payment Order labeled "RVTPO 822" in message "Message-Id:
+  199902031535.qaa0783-@wsinfm15.win.tue.nl Subject: OFF: Officer
+  Salaries" (salary paid to Justiciar Crito) was improperly executed.
+
+==========================================================================
+
+Called by:           Crito
+
+Judge:               Murphy
+Judgement:           FALSE
+
+Judge selection:
+
+Eligible:            Chuck, elJefe, Kolja. A, Morendil, Murphy, Peekee, 
+                     Steve, Vlad
+
+Not eligible:
+Caller:              Crito
+Barred:              Andre
+Had their turn:      Ørjan, Macross, Blob, General Chaos
+Already served:      -
+Defaulted:           -
+By request:          -
+On Hold:             Ørjan, lee
+
+==========================================================================
+
+History:
+
+  Called by Crito:                         Thu, 04 Feb 1999 13:38:42 -0500
+  Assigned to Murphy:                      Fri, 05 Feb 1999 23:04:48 +1100
+  Judged FALSE by Murphy:                  Tue, 09 Feb 1999 01:05:56 -0800
+  Judgement published:                     as of this message
+
+==========================================================================
+Caller's Arguments:
+
+R910 states "The Justiciar does not receive a fixed weekly salary."
+R1007 states "Unless otherwise specified, the Salary for an Office
+              shall be equal to the Basic Salary."
+
+I contend that the above statement in R910 constitutes a specification
+of the salary for the Justiciar.  Because the (lack of) salary is
+specified in R910, the above statement in R1007 prevents it from setting
+the salary of the Justiciar to the Basic Salary.  I should remind the
+Judge that if e were to find this CFJ TRUE, e must then vacate the
+referenced Payment Order.
+
+==========================================================================
+Judge's Arguments:
+
+I Judge the statement FALSE.  "X does not exist" is not equivalent to "X
+is zero".  For a concrete example, consider these hypothetical Rules:
+
+     Rule 3000A
+     The Justiciar's Salary is zero VTs.
+
+     Rule 3000B
+     The Justiciar's Salary is one VT.
+
+Clearly 3000A and 3000B conflict.  But the relevant clause of 910/6 does
+not conflict with 3000B, so it cannot be equivalent to 3000A.
+
+==========================================================================

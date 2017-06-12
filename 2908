@@ -1,0 +1,82 @@
+==============================  CFJ 2908  ==============================
+
+    There is a proposal in the Proposal Pool with the text "Repeal Rule
+    217."
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Wooble
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          24 Nov 2010 23:04:38 GMT
+Assigned to Wooble:                     25 Nov 2010 18:31:07 GMT
+Judged FALSE by Wooble:                 03 Dec 2010 20:42:16 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Like the Subject header, both the From and Cc headers are intended for
+metadata rather than actual message content.
+
+========================================================================
+
+Caller's Evidence:
+
+I recently sent two messages.  Relevant bits of the first:
+{
+From: "I submit the following proposal (AI=3D3, Distributable via fee):
+{ Repeal Rule 217. }" <c.ome.xk@gmail.com>
+To: agora-business@agoranomic.org
+Date: Tue, 23 Nov 2010 21:26:04 -0500
+
+What's up?
+}
+...and of the second:
+{
+From: omd <c.ome.xk@gmail.com>
+To: agora-business@agoranomic.org
+Cc: "I retract my most recent proposal." <c.ome.xk@gmail.com>
+
+On Tue, Nov 23, 2010 at 9:26 PM, I submit the following proposal
+(AI=3D3, Distributable via fee): { Repeal Rule 217. }
+
+<c.ome.xk@gmail.com> wrote:
+> What's up?
+
+Just CCing myself, nothing to see here.
+}
+
+In Gmail, the From header is prominently displayed in the interface,
+but the Cc header is not shown unless you click "show details".
+
+========================================================================
+
+Gratuitous Arguments by scshunt:
+
+I think it's FALSE; while it may be either that the first
+succeeded and the second did, or vice versa, I find it hard to believe
+the first will succeed but the second will not.
+
+However, the judge should not shortcut this and use that without
+properly addressing the case at hand.
+
+========================================================================
+
+Judge Wooble's Arguments:
+
+If I'm the judge of this CFJ (and I don't believe I am), I judge
+FALSE; either both the submission and retraction worked or they both
+failed.  I'm not going to bother offering an opinion on which is the
+case, because setting important precedent in a ruling I'm probably not
+making would be stupid and either way the result is the same.
+
+(Please don't remand :P)
+
+========================================================================

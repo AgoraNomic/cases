@@ -1,0 +1,81 @@
+==============================  CFJ 2474  ==============================
+
+    Quazie registered via eir recent public message stating "May I
+    register?"
+
+========================================================================
+
+Caller:                                 Quazie
+
+Judge:                                  ais523
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Quazie:                       27 Apr 2009 17:22:30 GMT
+Assigned to ais523:                     27 Apr 2009 23:44:35 GMT
+Judged FALSE by ais523:                 29 Apr 2009 11:22:28 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+Messages were sent in the following order:
+
+1 - "I registered"
+2 - Private message to Yally
+3 - Public capitol message
+4 - Public 'May I' message
+
+========================================================================
+
+Gratuitous Arguments by Yally:
+
+I recommend the following judgments:
+
+4. TRUE, as requesting permission to register constitutes registering.
+
+========================================================================
+
+Judge ais523's Arguments:
+
+CFJ 2474 is more interesting. Quazie certainly requested permission to
+register in an announcement; is this the same as announcing that one
+requests permission to register? Rule 869 seems ambiguous as to whether
+the "or requests permission to register" is part of "by announcing
+that"; however, the meaning in which requesting permission to register
+is a separate mechanism, rather than possible announcement, is
+grammatically incorrect. In the case of a statement which is ambiguous,
+with one grammatically correct meaning and one grammatically incorrect
+meaning, the correct one should be the one that is taken. This is backed
+up by the fact that the other meaning could arguably allow
+deregistration-timeoutted players to register by requesting permission
+to do so, creating a contradiction between rule 869 and itself;
+likewise, a self-contradictory meaning should not be taken to be the
+correct one when an ambiguous rule has another meaning which makes
+sense, fits in with game custom, and contains no contradictions.
+Therefore, I judge CFJ 2474 also FALSE; requesting permission to
+register is not the same as announcing that you do so. This is a
+slightly strange situation with respect to ISIDTID; requesting
+permission to register fails due to not being by announcement, whereas
+announcing that one requests permission to register is a false
+statement, but succeeds at registering (rather than at requesting
+permission)! The weird case here where announcing that one performs an
+action actually performs an entirely different action may quite possibly
+cause problems with rule 2215; however, they did not come up in this
+particular case, and even if they may affect the legality of a
+hypothetical registration attempt, they do not affect its possibility,
+nor the legality of /this/ attempt. (Announcing that one requests to
+register may come up against a similar problem; announcing that one
+wishes to register most likely doesn't, as it would be an unlikely
+announcement unless the person in question did indeed wish to register,
+and even if e didn't, that would be very difficult to prove. And
+announcing that one registers doesn't, because in that case the
+announcement about the action accurately describes the action. Note that
+this means that "I register." could be illegaly misleading (depending on
+circumstances) if the player attempting it is barred from registering
+for some reason, whereas "I wish to register." couldn't.)
+
+========================================================================

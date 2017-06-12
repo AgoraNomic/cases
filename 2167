@@ -1,0 +1,56 @@
+==============================  CFJ 2167  ==============================
+
+    ais523 is the Monsterkeepor.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  omd
+Judgement:                              
+
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       18 Sep 2008 21:09:52 GMT
+Assigned to omd:                        23 Sep 2008 08:29:49 GMT
+omd recused:                            08 Oct 2008 11:40:45 GMT
+Assigned to Murphy:                     08 Oct 2008 11:41:58 GMT
+Judged TRUE by Murphy:                  16 Oct 2008 05:19:53 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+ais523 is the Mad Scientist; "Monsterkeepor" is not a rule-defined term,
+and it is unclear if this is a synonym or not. If not, what should it
+mean?
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+"Monsterkeepor" appears only once in the rules, in Rule 2193 (The
+Monster):
+
+      Monsters are assigned to, ordered within, or moved between
+      categories, and categories are added, changed, or empty
+      categories removed, as the Monsterkeepor sees fit.
+
+The rules otherwise define "<X>keepor" more or less consistently as
+"player with the duty of keeping track of <X>" (Rulekeepor, Scorekeepor,
+recordkeepors).  By extension, the "Monsterkeepor" is the player with
+the duty of keeping track of Monsters, i.e. the Mad Scientist.
+
+The clause in question loses precedence to Rule 1681 (The Logical
+Rulesets) with regard to any Monsters that are rules, and would be
+harmless if any non-Rule Monsters existed for it to apply to, so there
+is no best-interests-of-the-game reason not to follow the above
+interpretation.
+
+========================================================================

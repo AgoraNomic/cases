@@ -1,0 +1,75 @@
+==============================  CFJ 3502  ==============================
+
+      It is possible to create an agency such that its acronym contains
+      at least one integer symbol (e.g. 0-9).
+
+========================================================================
+
+Caller:                       Quazie
+
+Judge:                        o
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by Quazie:             20 May 2017
+Assigned to o:                20 May 2017
+Judged TRUE by o:             22 May 2017
+
+========================================================================
+
+Caller's Arguments:
+
+Agencies might be a limited resource of (26^3) possible existing agencies.
+From my reading of rule 2461, it seems like a number is likely not possible
+within an agency's Acronym, as numbers aren't words, but I wouldn't be
+surprised if non-english words would allow us to get to more than
+(26^3) agencies [More language bits!].
+
+Parts of 2461:
+..
+
+            a) A title, which must be exactly three words, not
+               counting conjunctions, articles or prepositions.
+
+..
+
+      An Agency, once created, SHOULD be referred to by the acronym
+      formed from its title with conjunctions, articles, and
+      prepositions removed. The acronym of an agency must be unique
+      and any attempt to create or amend an Agency such that two
+      Agencies would have the same acronym is INEFFECTIVE.
+
+========================================================================
+
+Judge's Arguments:
+
+Rule 2467 sets out the vital attributes of an Agency. Most relevantly,
+its acronym:
+
+> An Agency, once created, SHOULD be referred to by the acronym formed
+> from its title with conjunctions, articles, and prepositions removed.
+
+and its title:
+
+> a) A title, which must be exactly three words, not counting
+> conjunctions, articles or prepositions.
+
+The term “word” is not restricted by the rules, and therefore has its
+common definition. Moreover, Agoran convention permits the use of
+numerals as words. See, for example, the identifier of this call for
+judgement. Therefore, an Agency may have a numeral in its title, which,
+being neither a conjunction, an article, or a preposition, would
+necessarily be used to form its acronym.
+
+It isn’t clear how a numeral should be compressed to form part of an
+acronym. It is conceivable that the first digit of a numeral should be
+used in place of the whole numeral, and this appears to be consistent
+with the rules regarding Agency names and acronyms.
+
+Therefore, it is possible for an Agency’s acronym to contain a digit -
+an integer symbol, as defined.
+
+========================================================================

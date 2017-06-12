@@ -1,0 +1,125 @@
+==============================  CFJ 1576  ==============================
+
+    Goethe successfully played Corporate Bankruptcy on or about Oct. 31,
+    2005.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  Maud
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                           31 Oct 2005 19:01:28 GMT
+Assigned to Maud:                       09 Nov 2005 15:59:00 GMT
+Judged TRUE by Maud:                    17 Nov 2005 00:30:11 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+On October 31, Goethe had a corporate bankruptcy card in eir hand, and was a
+shareholder.  He posted the following:
+    I play Corporate Bankruptcy and pay a fee of 3 to do so.
+
+The cardbook definition of Corporate Bankruptcy reads "Costly [3]", and that
+means, according to the costly element, that there is a "fee of 3" to play
+that card.  Since Goethe is a shareholder, the Limited element of the card
+does not impose additional fees.
+
+But fees, in themselves, are nowhere defined.  Are fees regulated?
+
+In the case of cards, they are, but indirectly.  Rule 2106 states that a
+gambler plays a card by "...noting any fees required to play the card".  This
+is the only mention of fees in the ruleset.  The Caller suggests that that
+fees are regulated by as defined in R101(b); that is, R2106 gives a condition
+to be satisfied to play a card ("noting any fees).  So if a fee for a card is
+noted as Goethe did, that should be sufficient to play the card.
+
+========================================================================
+
+Caller's Evidence:
+
+Deckmastor Report of Oct 31: http://www.agoranomic.org/cgi-bin/mailman/private
+/agora-official/2005-October/002468.html
+
+> From the Cardbooks:
+
+
+       * Costly [X a natural number]: There is a fee of X to play this
+         card, in addition to any other fees.
+
+[...]
+
+       * Caption:   Corporate Bankruptcy
+         Frequency: Unique
+         Elements:  Limited [Shareholders] [3], Costly [3]
+         Exploit:   Transfer each Stock Card not held by the deck to
+                    the deck.
+
+First paragraph of R2106:
+      A gambler plays a card with an Exploit by announcement,
+      specifying the card to be played, indicating any entities or
+      values mentioned in an Indication of the card's Exploit, and
+      noting any fees required to play the card.  A card without an
+      Exploit cannot be played.
+
+Rule 101/2
+
+      Any player is permitted to perform an action which is not
+      regulated.  An action is regulated if:
+
+      (a) the action is prohibited;
+
+      (b) the rules indicate that if certain conditions are satisfied,
+          then some player is permitted to perform the action;
+
+      (c) the action would, as part of its effect, modify information
+          for which some player is required to be a recordkeepor;
+
+      (d) the action would, as part of its effect, make it impossible
+          to make arbitrary modifications to the rules by any
+          combinations of actions by players; or
+
+      (e) the courts have held that the action is regulated, and this
+          finding has not been overturned.
+
+      A player besides the Speaker is always permitted to deregister
+      rather than continue to play.  Please treat Agora right good
+      forever.
+
+========================================================================
+
+Judge Maud's Arguments:
+
+The main question is whether noting a fee is regulated.  Rule 101
+provides five individually sufficient tests for regulation.  It is
+in the best interests of the game that an action be considered
+unregulated unless it passes one of these tests.
+
+The action of noting a fee does not pass the tests in 101 (a), (b),
+or (d).  The action of *paying* a fee may have been held to be
+regulated, but the action of *noting* a fee has not, and so the
+test (e) fails.  Hence the only relevant test is (c):
+
+      (c) the action would, as part of its effect, modify information
+          for which some player is required to be a recordkeepor.
+
+Playing a card, as part of its effect, modifies information tracked
+by the Deckmastor, in particular the holder of that card.  Even though
+noting a fee could be an action required to be performed in order to
+play the card, it would be possible to note a fee without thereby
+playing a card.  Therefore a modification of tracked information is
+not part of the effect of the action of noting a fee, and test (c)
+fails.  Hence the action of noting a fee is unregulated and so
+by rule 101 generally permitted to be performed.  As all other
+necessary conditions for playing Corporate Bankruptcy were satisfied,
+Goethe successfully played the card.
+
+I therefore enter a judgement of TRUE.
+
+========================================================================

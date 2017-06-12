@@ -1,0 +1,69 @@
+==============================  CFJ 1960  ==============================
+
+    If a player's voting limit on an Agoran decision reduces during that
+    decision's voting period, then all votes that that player has
+    already cast on that decision are no longer valid.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Machiavelli
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by ais523:                       20 May 2008 08:52:42 GMT
+Assigned to Machiavelli:                21 May 2008 23:37:34 GMT
+Judged FALSE by Machiavelli:            22 May 2008 00:06:33 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 683/14 states, in part:
+      Among the otherwise-valid votes on an Agoran decision, only the
+      first N submitted by each entity are valid, where N is the
+      entity's voting limit on that decision.  The voting limit of an
+      entity that is not an eligible voter on an Agoran decision is
+      zero.  The voting limit of an eligible voter on an Agoran
+      decision is one, except where rules say otherwise.
+This has the effect of reducing the number of potentially valid votes that a
+player has on a decision to eir voting limit, which appears to be intended,
+but does not explain what happens if such a voting limit changes. I can think
+of ways in which the rule might be interpreted such that either the
+invalidation happens at the instant of the vote (so that, for instance, a
+player who enters the Chokey during an Agoran decision still has eir full
+EVLOD of votes on it if e voted on it earlier; this would lead to judgements
+of TRUE and FALSE respectively), or that the invalidation happens at the end
+of the voting period (causing that hypothetical player to lose eir later votes
+on that decision, but not eir earlier votes, leading to judgements of FALSE
+and FALSE respectively). Also, it's not entirely obvious what happens if a
+player's voting limit decreases and e has made multiple non-identical votes at
+the same time. I suspect the answer to these CFJs are TRUE and FALSE
+respectively, because rule 683 is mostly about the act of voting, but am not
+sure.
+
+========================================================================
+
+Judge Machiavelli's Arguments:
+
+If a ballot is submitted during the voting period by an eligible
+voter, has not been retracted, and clearly identifies the vote and
+what decision it's on, it's valid, unless the voting limit clause
+invalidates something. That clause does not invalidate the first N
+votes, so assuming N is at least one, a valid vote will remain.
+Therefore, I judge FALSE.
+
+It's usually easy to tell which votes are the "first": if I were to
+vote "FORx2, AGAINSTx2" and then get chokeyed, only my FOR votes would
+count, and if I were to vote "AGAINSTx2, FORx2" and get chokeyed, only
+my AGAINST votes would count. I might argue that the clause of R683/14
+stating "the ballot [must] clearly identif[y] the option selected by
+the voter" means that stating "I vote every possible option once" is
+invalid, because which order the votes are in is not specified, but
+that's irrelevant at the moment. (Hmm, maybe I should try that.)
+
+========================================================================

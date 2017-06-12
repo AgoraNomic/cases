@@ -1,0 +1,39 @@
+==============================  CFJ 2931  ==============================
+
+    Given the current Ruleset, the Fearmongor is required to perform eir
+    duties once for the week of Dec 27 and once for the week of Jan 3.
+
+========================================================================
+
+Caller:                                 G.
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                           16 Dec 2010 19:17:33 GMT
+Assigned to scshunt:                    20 Dec 2010 07:03:32 GMT
+Judged FALSE by scshunt:                22 Dec 2010 01:35:57 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Both of those weeks are entirely during a holiday.  For Report weekly duties,
+it's generally taken that one report (after the holidays) makes up for all
+reporting during the holidays.  For the fearmongor, each weekly duty would
+have a different effect (different proposals chosen).  So when the holiday
+is over, do I have to do the duties twice with different outcomes (true) or
+does doing it once satisfy both requirements (false)?
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+I judge FALSE for CFJ 2931. There is nothing in the rules that says that doing
+it once couldn't satisfy multiple different requirements.
+
+========================================================================

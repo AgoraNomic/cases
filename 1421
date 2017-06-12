@@ -1,0 +1,165 @@
+==============================  CFJ 1421  ==============================
+
+    In a private message (submitted as evidence) sent to Sir Toby on
+    Fri, 20 Dec 2002 11:23:32 +1100 (EST), Steve made a valid bid of
+    0.25 Indulgences for (+8, +6) in the December Land Auctions
+    initiated in a public message (also submitted as evidence) sent by
+    Sir Toby on Tue, 17 Dec 2002 10:03:39 -0800 (PST).
+
+========================================================================
+
+Caller:                                 Sir Toby
+Barred:                                 Steve
+
+Judge:                                  Murphy
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Sir Toby:                     27 Dec 2002 07:49:53 GMT
+Assigned to Murphy:                     31 Dec 2002 04:11:51 GMT
+Judged FALSE by Murphy:                 31 Dec 2002 09:34:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+My argument deals soley with Rule 1887's definition of a bid. Since the
+Auction was a Vickrey auction, bids were allowed to be sent privately.
+
+My message initiating the Land Auctions for December identifies 10
+distinct Land Auctions, numbered 1 through 10. The remainder of my
+argument will identify each Auction by its number, as identified in my
+original message initiating the Land Auctions for December.
+
+Steve's bid lists 5 Auctions that e is placing a bid on, all listed on
+seperate lines. The second Auction e lists is ambiguous in that it refers
+to Auction #3 but it contains the details of Auction #4. The purpose of
+these CFJs is to determine the effect of that bid. I don't particularly
+care either way, but I offer four possible outcomes based upon the
+interpretation of the rules:
+
+Perhaps it places a bid for Auction #3, because thats the Auction number
+it lists. Perhaps it places a bid for Auction #4, because thats the
+Auction described by the details following the Auction number. Perhaps it
+places bids for both Auction #3 and Auction #4 because it effectively
+describes both Auctions. Or, perhaps it has no effect since the Auction it
+is describing is ambiguous.
+
+========================================================================
+
+Caller's Evidence:
+
+Sir Toby's message initiating the December Land Auctions:
+
+### START ###
+Date: Tue, 17 Dec 2002 10:03:39 -0800 (PST)
+From: "Jeff Weston (Sir Toby)" <jjweston@kenny.sir-toby.com>
+Reply-To: agora-discussion@agoranomic.org
+To: agora-official@agoranomic.org
+Subject: OFF: [Mapkeepor] Land Auctions for December
+
+I announce the beginning of ten Land Auctions. Each Auction is for one
+unit of Land, as described below. The Auctions are being conducted in
+Indulgences, the Starting Bids are 0.001 Indulgences, and the Auctioneer
+is Sir Toby. The Auctions are Vickrey Auctions, so bids may be public or
+private.
+
+For those that are interested, there are 17 units of Land eligible for
+auction this month. I am restricted to only auction off 10 units of Land
+per month by Rule 2004. I have chosen which units of Land to auction off
+according to the order in which units of Land were changed from Aether,
+with land with earlier times being auctioned off first.
+
+#   Location  Type   Time it Changed from Aether
+--  --------  -----  ---------------------------
+1   ( 0, +1)  Black  [Thu, 24 Oct 2002 23:23:23]
+2   (+4, +2)  White  [Tue, 29 Oct 2002 01:26:35]
+3   (+8, +6)  White  [Fri, 01 Nov 2002 09:50:28]
+4   (+4,  0)  Black  [Fri, 01 Nov 2002 20:09:48]
+5   (+2, +2)  Black  [Fri, 01 Nov 2002 20:15:18]
+6   (+6, +2)  White  [Thu, 07 Nov 2002 17:36:54]
+7   (+5, +1)  Black  [Thu, 07 Nov 2002 17:39:21]
+8   (+7, +9)  White  [Fri, 15 Nov 2002 11:06:02]
+9   (+3, +2)  Black  [Wed, 20 Nov 2002 08:12:45]
+10  (+2, -4)  White  [Wed, 20 Nov 2002 08:14:13]
+
+--
+Jeff Weston (Sir Toby)
+### END ###
+
+Steve's message to Sir Toby sent on Fri, 20 Dec 2002 11:23:32 +1100 (EST):
+
+### START ###
+Date: Fri, 20 Dec 2002 11:23:32 +1100 (EST)
+From: Steve Gardner <gardner@sng.its.monash.edu.au>
+To: "Jeff Weston (Sir Toby)" <jjweston@kenny.sir-toby.com>
+Subject: Re: OFF: [Mapkeepor] Land Auctions for December
+
+On Tue, 17 Dec 2002, Jeff Weston (Sir Toby) wrote:
+
+> I announce the beginning of ten Land Auctions. Each Auction is for one
+> unit of Land, as described below. The Auctions are being conducted in
+> Indulgences, the Starting Bids are 0.001 Indulgences, and the Auctioneer
+> is Sir Toby. The Auctions are Vickrey Auctions, so bids may be public or
+> private.
+>
+> #   Location  Type   Time it Changed from Aether
+> --  --------  -----  ---------------------------
+> 2   (+4, +2)  White  [Tue, 29 Oct 2002 01:26:35]
+> 3   (+4,  0)  Black  [Fri, 01 Nov 2002 20:09:48]
+> 5   (+2, +2)  Black  [Fri, 01 Nov 2002 20:15:18]
+> 7   (+5, +1)  Black  [Thu, 07 Nov 2002 17:39:21]
+> 9   (+3, +2)  Black  [Wed, 20 Nov 2002 08:12:45]
+
+I bid 0.25 Indulgences in each of the above Land Auctions.
+
+--
+
+
+Steve Gardner                     |  Each writer creates their own
+School of Computer Science        |  precursors.
+ and Software Engineering         |
+gardner@sng.its.monash.edu.au     |           -- Jorge Luis Borges
+### END ###
+
+Rule 1887, Section (h):
+
+### START ###
+      (h) Bidding: a bid is a public message from a bidder identifying
+          the Auction e is bidding in, and specifying the amount of
+          eir bid. Each bidder may make as many bids as e likes during
+          the Auction.  A bid is only valid if it satisfies the
+          following conditions:
+          (1) it is made after the start of the Auction, and before
+              its end;
+          (2) the amount of the bid is a multiple of the MUQ of the
+              Auction Currency; and
+          (3) the amount of the bid is no less than the Starting Bid.
+### END ###
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I interpret this as one bid for (+4,  0) with "3" being a typo.  I believe
+this most closely matches what Steve actually did / intended to do.
+
+========================================================================
+
+Judge Murphy's Evidence:
+
+Excerpt from Sir Toby's message initiating the Auctions:
+
+    3   (+8, +6)  White  [Fri, 01 Nov 2002 09:50:28]
+    4   (+4,  0)  Black  [Fri, 01 Nov 2002 20:09:48]
+
+Excerpts from Steve's bid:
+
+    > 3   (+4,  0)  Black  [Fri, 01 Nov 2002 20:09:48]
+
+    I bid 0.25 Indulgences in each of the above Land Auctions.
+
+========================================================================

@@ -1,0 +1,69 @@
+==============================  CFJ 1833  ==============================
+
+    In this message, comex submitted a CFJ on the statement "I'm
+    Spartacus!"
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Zefram
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          18 Dec 2007 20:38:42 GMT
+Assigned to Zefram:                     19 Dec 2007 22:04:27 GMT
+Judged TRUE by Zefram:                  20 Dec 2007 23:36:45 GMT
+
+========================================================================
+
+Judge Zefram's Arguments:
+
+At the time that that CFJ might have been submitted, the AFO and comex
+had a contract (which I take to be validly formed) which included the
+provision:
+
+      By joining this contract, comex authorizes the AFO to submit
+      CFJs on eir behalf by announcement.
+
+The question, then, is whether such authorisation gives the AFO the
+capability that it purports to, to act on comex's behalf in limited
+circumstances.  The judicial precedents to consider are CFJ 1695 and
+CFJ 1719.
+
+CFJ 1695 concerns a member of a partnership acting on behalf of the
+partnership.  The judgement determined that this was possible, if
+the mechanism is explicitly created by the partnership's contractual
+provisions.  The judgement was based on a rights argument: to deny
+a partnership this capability would deny em the right to participate
+in the fora.  This argument is not directly applicable to the present
+case, because comex clearly has the capability to participate in the
+fora directly.  Indeed, for an entity to qualify as a first-class person
+it is required to be able to communicate by email, so this rights issue
+categorically cannot arise with a non-partnership player.
+
+CFJ 1719 concerns one first-class player acting on behalf of another
+first-class player, by means of a web interface that can be used by
+one person to send email with authorial markings referring to the other.
+The judgement found that this was permitted.  The argument finds in favour
+of a fairly general acceptance of delegation of message sending, referring
+to precedents of cron-based automation, Deb & Bob, and partnerships.
+It does not set out specific limits for the acceptability of delegation.
+
+CFJ 1719's argument suggests that it is acceptable in principle for
+the AFO to act on behalf of comex, where authorised, provided that the
+mechanism used is reasonable.  The specific mechanism in this case, of
+the AFO announcing that it is acting on behalf of comex while announcing
+an action, is eminently reasonable, particularly because it is very clear
+about what is happening.  It is a mechanism with which we have a great
+deal of experience, being the only (visible part of) mechanism used by
+partnerships so far.
+
+I therefore find that this type of delegation works, and so comex
+(via the AFO (via comex)) did indeed submit a CFJ on the statement
+"I'm Spartacus!".  CFJ 1833 is TRUE.
+
+========================================================================

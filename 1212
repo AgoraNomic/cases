@@ -1,0 +1,217 @@
+==============================  CFJ 1212  ==============================
+
+    Wes became the High Oligarch on Wed, 3 May 2000 12:48:35 +0300.
+
+========================================================================
+
+Caller:                                 t
+
+Judge:                                  Peekee
+Judgement:                              TRUE
+
+Appeal:                                 1212a
+Decision:                               REASSIGN
+
+
+Judge:                                  Elysion
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by t:                            04 May 2000 11:10:21 GMT
+Assigned to Peekee:                     04 May 2000 12:14:28 GMT
+Judged TRUE by Peekee:                  07 May 2000 15:38:18 GMT
+Appealed by Steve:                      08 May 2000 03:27:46 GMT
+Appealed by Taral:                      08 May 2000 18:29:14 GMT
+Appealed by Elysion:                    08 May 2000 20:53:56 GMT
+Appeal 1212a:                           08 May 2000 20:53:56 GMT
+REASSIGNED on Appeal:                   19 May 2000 20:41:16 GMT
+Assigned to Elysion:                    20 May 2000 13:02:45 GMT
+Judged TRUE by Elysion:                 25 May 2000 00:52:59 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Rule 1937 defines how Vacancies in the Oligarchy are filled. It states
+that when there is no High Oligarch "The Low Oligarchs select a Middle
+Oligarch to become High Oligarch." In May 1 00:00:00 GMT, the monthly
+rotation happened (Rule 1938), leaving the seat of High Oligrach open. As
+required by Rule 1937, the Low Oligarchs harvel, Michael and t then
+announced their selection. Wes was chosen to be the High Oligarch by an
+unanimous vote.
+
+Unfortunately, Rule 1938 doesn't define clearly the precise time when Wes
+became the High Oligarch. Three possibilities come to mind:
+
+1) When the required majority has been attained. In this case, this
+happened at Wed, 3 May 2000 09:49:12 +0100, as can be seen from the
+evidence.
+
+2) When all Low Oligarchs have announced their selection. In this case,
+this happened at Wed, 3 May 2000 12:48:35 +0300.
+
+3) After the selection deadline of three days has passed, which in this
+case happened at Thu, 4 May 2000 00:00:00 GMT.
+
+In any case, even if 2) or 3) should be found to be true, apparently all
+Oligarchs are still required to announce their selections, even if it
+would have no effect. This fact does give some support to the statement.
+However, the Rule only mentions what should be done when a selection
+requiring a majority vote does not have a decisive result, not what
+happens when it does.
+
+I attach all three Low Oligarchs' announcement as well as the pertinent
+Rule (R1937) as evidence.
+
+========================================================================
+
+Caller's Evidence:
+
+harvel's announcement
+---------------------
+
+Date: Tue, 02 May 2000 21:35:06 EDT
+From: Michael Slone <mpslon01@msuacad.morehead-st.edu>
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+To: agora-business <agora-business@gecko.serc.rmit.edu.au>
+Subject: BUS: Oligarch selection
+
+(Hoping this works)
+
+I hereby select Wes to become High Oligarch.
+
+--
+Low Oligarch harvel
+What a fabulous "reward"! Why not add the "reward" of not being thrown
+into gaol, while we're at it?
+                -- Blob, in agora-discussion
+
+Michael's announcement
+----------------------
+
+Date: Wed, 3 May 2000 09:49:12 +0100 (BST)
+From: Michael Norrish <Michael.Norrish@cl.cam.ac.uk>
+Reply-To: agora-discussion@gecko.serc.rmit.edu.au
+To: agora-official@gecko.serc.rmit.edu.au
+Subject: OFF: Oligarch selection
+
+I select Wes to become High Oligarch.
+
+Low Oligarch Michael.
+
+t's announcement
+----------------
+
+Date: Wed, 3 May 2000 12:48:35 +0300 (EEST)
+From: t <ttkorkia@itu.st.jyu.fi>
+To: Agora business <agora-business@gecko.serc.rmit.edu.au>
+Subject: oligarchism
+
+I select Wes to become the High Oligarch.
+
+Wes has been chosen to become the High Oligarch, with 3 votes in favor of
+em and 0 votes in favor of Elysion. There is now a Middle Oligarch
+vacancy.
+
+Now, the question is, whether Wes became the High Oligarch just now or
+already when Michael made eir selection which guaranteed that Wes would be
+chosen. Doesn't matter in this situation but it might in some other
+circumstances. Does anybody want to cfj?
+
+   tttttttttttttttttttttttttttttttttttttttttttttttttteemu korkiakangas
+                        http://www.iki.fi/scurra/ TTTTTT scurra@iki.fi
+
+Rule 1937
+---------
+
+Rule 1937/0 (Power=2)
+Filling Vacancies in the Oligarchy
+
+      Vacancies in the Oligarchy are filled as follows, in order.
+
+      1) If there is no High Oligarch:
+         a) The Low Oligarchs select a Middle Oligarch to become High
+            Oligarch.
+         b) If there are no Low Oligarchs, then the Speaker selects a
+            Middle Oligarch to become High Oligarch.
+         c) If there are no Middle Oligarchs, then the Speaker selects
+            a Low Oligarch to become High Oligarch.
+         d) If there are no Middle Oligarchs or Low Oligarchs, then
+            the Speaker conducts three Auctions:  one for High
+            Oligarch, one for the two Middle Oligarchs, and one for as
+            many Low Oligarch positions for which no Auction is
+            already in progress.
+
+      2) If a Middle Oligarch position is vacant:
+         a) The High Oligarch selects a Low Oligarch to become a
+            Middle Oligarch.
+         b) If there are no Low Oligarchs, then the High Oligarch
+            conducts a single Auction for L+M positions in the
+            Oligarchy, where L and M are, respectively, the number of
+            vacant Low and Middle Oligarch positions for which no
+            Auction is already in progress. The High Oligarch then
+            selects M of the new Oligarchs to be Middle Oligarchs.
+
+      3) If a Low Oligarch position is vacant:
+         a) The High Oligarch conducts an Auction for the number of
+            Low Oligarchy positions for which no Auction is already in
+            progress.
+
+      Any selection required by this Rule must be announced within
+      three days. A Player may not change eir selection once e has
+      announced it.
+
+      A Player required to make selection who fails to do so within
+      three days commits the Class 2 Infraction of Oligardiness, which
+      any Player may detect and report.
+
+      Selections performed by two or more Oligarchs are by majority vote.
+      If a single Oligarch who is required to make a selection fails
+      to do so, or if a selection to be performed by majority vote
+      does not produce a decisive result within three days, then the
+      Oligarchs' selections (if any) are cancelled and the Speaker is
+      required to make the selection instead.
+
+========================================================================
+
+Judge Peekee's Arguments:
+
+I hereby Jusge this TRUE.
+
+As wes was selected by the other Oligarchs at such a time when then had all
+given their choice.  As described in 2) of the callers arguement.
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+Rule 1937 does not specify when the selection caused Wes to become High
+Oligarch. There are three likely
+possibilities:
+
+        a) When the selection cannot be changed by further selections by
+the remaining Oligarchs
+
+        b) When all Oligarchs have selected
+
+        c) When 3 days have passed
+
+If only 2 Low Oligarchs have selected, and both selected Wes, the third
+is still required to make a selection, even though the group selection
+is already determined. Thus, the selection process does not end at (a).
+Rule 1937 provides for two ways to end the process, (b) and (c)
+(whichever occurs first). In this particular case, (b) occurred first.
+
+The relevant phrase of the algorithm is "The Low Oligarchs select a
+Middle Oligarch to become High Oligarch." Clearly, after the selection
+process is completed and a Middle Oligarch is chosen, e becomes High
+Oligarch. Although it could be argued that rule 1937 never says when the
+selection causes the Middle Oligarch to become High Oligarch, it is this
+judge's opinion that the most reasonable interpretation of rule 1937 is
+that the change occurs immediately after the process is completed. I
+therefore judge this statement TRUE.
+
+========================================================================

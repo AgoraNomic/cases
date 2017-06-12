@@ -1,0 +1,263 @@
+============================  Appeal 2278a  ============================
+
+
+Panelist:                               Elysion
+Decision:                               AFFIRM
+
+
+Panelist:                               root
+Decision:                               AFFIRM
+
+
+Panelist:                               ais523
+Decision:                               AFFIRM
+
+========================================================================
+
+History:
+
+Appeal initiated:                       20 Nov 2008 16:46:59 GMT
+Assigned to Elysion (panelist):         25 Nov 2008 20:35:05 GMT
+Assigned to root (panelist):            25 Nov 2008 20:35:05 GMT
+Assigned to ais523 (panelist):          25 Nov 2008 20:35:05 GMT
+ais523 moves to AFFIRM:                 30 Nov 2008 17:50:00 GMT
+Elysion moves to AFFIRM:                04 Dec 2008 22:23:19 GMT
+root moves to AFFIRM:                   12 Dec 2008 06:46:30 GMT
+Final decision (AFFIRM):                12 Dec 2008 10:35:48 GMT
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+I don't agree with either line of argument, actually. In my
+interpretation of what happens, "is" specifies a value for the voting
+limit; the Notes rule specifies a way to increase it, which takes
+precedence, and therefore sets its own value, which is 1 more than it
+would have been otherwise. Caste says the voting limit is 1: Notes says
+the voting limit is 1+50, and Notes wins. For something which is
+platonically set with an "is", an increase clearly also platonically
+sets it to a higher value than its previous platonic value; as the value
+isn't a floating property like a switch, there's no other interpretation
+of "increase" that makes sense.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+I recommend REMAND with instructions to explicitly evaluate the two
+competing interpretations:
+
+  +S) 2126 takes precedence, so 2156 implicitly defines the initial
+      limit and 2126's increases stick.
+
+  -S) Even though 2126 takes precedence, 2126 only attempts to operate
+      once and 2156 attempts to operate conditionally, so 2126's
+      increases happen but 2156 comes along afterward and resets things.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+An increase that remains in effect for an infinitesimal amount of time
+is no increase at all.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+R2156, in defining that a voting limit *is* a caste level (as opposed
+to saying "is set to" a caste level) constitutes a whole and complete
+definition of a particular voting limit.  As a definition, R2156 governs
+the properties of the voting limit that are possible to exist (R1586)--
+it is no more possible to set a voting level to deviate from a player's
+caste than it would be possible to set a voting limit to be a chunk of
+green cheese.  Such a definition constitutes an implicit claim of
+precedence for the purposes of R1030.  Since R2156 and R2126 are of the
+same power, and R2126 does not itself claim to have greater precedence,
+this claim should be sufficient to establish R2156's authority in the
+matter.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+This actually argues in comex's favour. It is indeed possible to set a
+voting limit to a different value. This does not create an implicit
+claim of precedence for R2156 though; far from it! It means that R2126
+has the claim of precedence, as it's claiming to do something R2156
+claims is impossible. Imagine R1 saying "Goethe CAN deregister by paying
+1 Stem" and R2 saying "Goethe CANNOT deregister"; R1 clearly takes
+precedence here, due to the direct conflict. If it had been R1 saying
+"Goethe CAN deregister by paying 1 Stem" and R2 saying "Every second,
+Goethe becomes unable to deregister", then it's no longer so clear;
+there might not be a conflict due to deregistration-ability becoming
+some sort of flip-state there. When there's an obvious direct conflict
+between two rules, as there is here, there isn't an implicit claim of
+precedence on either; there's an explicit clash, and the more powerful
+rule, or the rule with the lower number, takes precedence.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+On Thu, 2008-11-20 at 13:04 -0800, Kerim Aydin wrote:
+> An important missing piece in your argument is that I used R1586 to
+> argue for definitional preference. R2 is actually in conflict with R1586
+> as well as R1.  In particular from R1586:
+>                                                          "then that
+>       entity and its properties continue to exist to whatever extent
+>       is possible under the new definitions."
+>          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> It is not possible for the Voting Index to be Green Cheese under its
+> definition as a number.  As R2 would allow me to set it against the R1
+> "new definitions", R2 is in conflict with R1586 (and in the current case,
+> by numerical precedence, R1586 wins).
+This argument fails utterly: quote the first half of that sentence
+{{{
+      If the documents defining an entity are amended such that they
+      still define that entity but with different properties,
+}}}
+and the then clause fails to apply. No way is spending a Note to
+increase voting limit /amending/ the rules that define voting limit.
+
+Also, you seem to have numerical precedence backwards, although I don't
+think it affects your argument.
+
+> Finally, we're *both* making implicit claims.  You're claiming the fact
+> that someone CAN set a numerical index to Green Cheese is an implicit
+> definition that the numerical index has a defined green cheese state.
+> I'm saying that the definition implicitly claims precedence (which only
+> works at the same Power to override numerical precedence) and forbids
+> a green cheese state under R1586 as it is not possible under the new
+> definitions.  I still find my implicit claim far less of a stretch than
+> yours.
+R1030:
+{{{
+      If two or more Rules with the same Power conflict with one
+      another, then the Rule with the lower ID number takes
+      precedence.
+
+      If at least one of the Rules in conflict explicitly says of
+      itself that it defers to another Rule (or type of Rule) or
+      takes precedence over another Rule (or type of Rule), then such
+      provisions shall supercede the numerical method for determining
+      precedence.
+
+      If all of the Rules in conflict explicitly say that their
+      precedence relations are determined by some other Rule for
+      determining precedence relations, then the determinations of
+      the precedence-determining Rule shall supercede the numerical
+      method for determining precedence.
+
+      If two or more Rules claim to take precedence over one another
+      or defer to one another, then the numerical method again
+      governs.
+}}}
+
+Implicit claims don't affect precedence; R1030 explicitly requires
+precedence claims to be explicit. There is definitely no comparison of
+strength of implicit claims! If there is a claim on both sides, or a
+claim on neither side, go numerical; and R2126 beats R2156, with R1586
+being irrelevant.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+Several interpretations have been thrown out, including (extended from
+Murphy's post):
+
+ +S) 2126 takes precedence, so 2156 implicitly defines the initial
+     limit and 2126's increases stick.
+
+ -S) Even though 2126 takes precedence, 2126 only attempts to
+     operate once and 2156 attempts to operate conditionally, so
+     2126's increases happen but 2156 comes along afterward and
+     resets things.
+
+ +G) Even though 2126 takes precedence, it defers to Rule 2156
+     because the latter is defining a term used by the former (and
+     Rule 754 takes precedence over both).
+
+ -G) Rule 2156 defines voting limit as caste, so an attempt to
+     increase voting limit is in fact a failed attempt to increase
+     caste.
+
+ +A) Rule 2126's "increase" should be interpreted such that upon an
+     increase, Rule 2126 defines the voting limit as one higher than
+     it would otherwise be, in the fashion of an RPG.
+
+Wooble's judgement agreed with -S, but e gave the issue only a
+perfunctory treatment.
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+-G') Rule 2156 defines voting limit as caste, so an attempt to increase
+     voting limit on one proposal alone is an attempt to simultaneously
+     change and not-change caste, thus ineffective.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+A very quick summary of the arguments (I'll flesh them out
+later):
+
++G No rule 754 doesn't say that, and anyway you didn't
+consider the effect of rule 683 in this; rule 754 merely
+says everything's talking about the same thing.
+
+-G/-G': Voting limit isn't caste now, but caste at the
+start of the voting period. Trying to change that
+retroactively isn't something that can sanely be implied
+into a rule, especially given the "by default" in rule
+754.
+
++S/-S: The rules don't try to define a switch here, we
+shouldn't imply one into them unless absolutely necessary.
+(Actually, rule 2156 is ambiguous, and the alternative
+interpretation makes it clear that +S is correct, but
+nobody's suggested that interpretation before and it would
+be against game custom.)
+
++A: The only correct one, see my earlier arguments for now,
+I'll explain in more detail later.
+
+========================================================================
+
+Panelist ais523's Arguments:
+
+Regardless of the prior judge's arguments, there is
+another reason why this CFJ is clearly TRUE; even without
+a failure of the scam in question, proposal 5962 would
+still fail. This panel judges CFJ 2278a AFFIRM, but with
+an error rating of 90, as the judge's result was correct
+for the wrong reasons.
+
+========================================================================
+
+Gratuitous Arguments by ais523:
+
+First, CFJs 2277a and 2278a. comex attempted to buy Murphy's vote on
+"proposal 5952", meaning 5962. Although this is a simple typo, it causes
+enough ambiguity that comex's attempt to buy Murphy's vote on proposal
+5962 clearly fails. (Whether comex succeeded in buying Murphy's vote on
+proposal 5952 is another matter, but ultimately irrelevant to both that
+proposal and to the CFJs at hand.) As Murphy's vote was reported
+incorrectly, the initial attempt to resolve proposal 5962 failed; and
+even if ehird had a boosting voting power, the proposal would still
+apparently have failed. So uncontroversially, CFJs 2277 and 2278 are
+indeed both TRUE, although judge Wooble's reasoning was highly incorrect
+(as will be shown later). As a result, I intended the above verdict, to
+AFFIRM Wooble's result with a high error rating (for the correct verdict
+but the wrong reasoning).
+
+========================================================================
+
+Panelist root's Arguments:
+
+[support actually given by CotC Murphy]
+
+========================================================================

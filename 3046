@@ -1,0 +1,137 @@
+==============================  CFJ 3046  ==============================
+
+    (see evidence)
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  woggle
+Judgement:                              MALFORMED
+
+========================================================================
+
+History:
+
+Called by ais523:                       28 Jun 2011 22:17:51 GMT
+Assigned to woggle:                     03 Jul 2011 17:47:05 GMT
+Judged MALFORMED by woggle:             03 Jul 2011 18:54:53 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+The statement of this CFJ is the headers of Math321's
+registration email, as I received it.
+
+X-Apparently-To: callforjudgement@yahoo.co.uk via 212.82.110.45; Tue, 28
+ Jun 2011 17:13:07 +0000
+Received-SPF: none (domain of agoranomic.org does not designate
+permitted
+ sender hosts)
+X-YMailISG: Ez1mfLkWLDvOqy5W8Ck7U3k6l8z8dZJ1HOlgial2_MolTdqv
+ TZ0kZm.rg35krpS4yJvZXrW_S37M0ULasBz38_u0nk9Q8pbMgMlnNyqOGgL_
+ z65kdywq8L1K.p9wW2199A.Hk00c071QfwGu2GSDQ0jgveMO5IxgfdySTSNa
+ 8FOykyumIvTLwtb8F_fYvSnyH_Nc6OXcO_0uFGrnfNts03M3gG5rcJkL7Xu.
+ 6n1in.YlkWBTjeRbkurJKkdnNKaMHJRzJxUgoTaB3o4hC7SkKKJa7kANjSUb
+ 0Ka7DaRqCaoY.Kd5x7BrNJ9LCVRILz5nYYuw9bUh7dn7hC9dpEvxc6ZwBP2V
+ OBXXxCDPOKwk.GYwagVAvfLJxY_DFutOdcS32SzRlkwRF0a_6MANb9o2.Ase
+ ACEM4xMD6DmiLyQYNmKneaIFcGpHOKJ3YYOJrF638BsbY8AtRgI5MKo_6kd3
+ GFR.pTY72OXiUtOE7hx1oBvOuRRslqoV9wCN7mQ7bLwVNgEG251Uwsevb5ay
+ uAKhmOmQ7G4zZc0ziu7LazfjVez5RjpfGffR1papbuSzDIcw5WuTR0xUdJLo
+ FxxT7CE3BsoQeNcBQP5aAHQwEuOuXAJ2AhUW9zjyTICDyDlw1N2glamKtCNa
+ Wkc0pyc_Qt8yPIf5dU0jlCnpjmpt5.O64bH9vlbS0SAUHBQoo5iaBHioNfn_
+ oEcGV_MtPHnpiYbPRu_bicBEPecIseKjeXlvXLGP1w2YkzyYsDxGglbeuKMs
+ aM6UA7A5FTUJyU.H4Ofc6U0v3n1JZSMY5IJ7xl7iokItk_M9qQyIlxmUvJJt
+ kETgr.Ydq6OPXoEDXsvr52i9FyMdq8PBaqqXYjHVx8Ucgg8MavWr9RoNrK1d
+ 4OVJsPSov7AD8cHJZ3vc1yNPkP_QWhkGYRbGiivhnmsDi9C0t_Bvvrv.cOXi
+ 2mLGh36U6Pq6zlOrovkMRf8FwsreV3s9jo0aRPaAjKwx7EkSXgO4T_3eNMr_
+ ut4amtiOHIzVWYM-
+X-Originating-IP: [66.93.216.11]
+Authentication-Results: mta1012.mail.ukl.yahoo.com  from=agoranomic.org;
+ domainkeys=fail (bad syntax);  from=ymail.com; dkim=permerror (bad sig)
+Received: from 127.0.0.1  (EHLO yzma.clarkk.net) (66.93.216.11) by
+ mta1012.mail.ukl.yahoo.com with SMTP; Tue, 28 Jun 2011 17:13:07 +0000
+Received: from yzma.clarkk.net (localhost [127.0.0.1]) by
+yzma.clarkk.net
+ (Postfix) with ESMTP id 6A8E2811AF; Tue, 28 Jun 2011 12:13:02 -0500
+(CDT)
+Delivered-To: agora-business@yzma.clarkk.net
+Received: from nm24-vm4.bullet.mail.ne1.yahoo.com
+ (nm24-vm4.bullet.mail.ne1.yahoo.com [98.138.91.184]) by yzma.clarkk.net
+ (Postfix) with SMTP id 39D9C81179 for <agora-business@agoranomic.org>;
+Tue,
+ 28 Jun 2011 12:12:43 -0500 (CDT)
+Received: from [98.138.90.48] by nm24.bullet.mail.ne1.yahoo.com with
+NNFMP;
+ 28 Jun 2011 17:12:42 -0000
+Received: from [98.138.89.175] by tm1.bullet.mail.ne1.yahoo.com with
+NNFMP;
+ 28 Jun 2011 17:12:42 -0000
+Received: from [127.0.0.1] by omp1031.mail.ne1.yahoo.com with NNFMP; 28
+Jun
+ 2011 17:12:42 -0000
+X-Yahoo-Newman-Id: 459280.42032.bm@omp1031.mail.ne1.yahoo.com
+Received: (qmail 25241 invoked by uid 60001); 28 Jun 2011 17:12:42 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ymail.com;
+s=s1024;
+ t=1309281162; bh=ae05/aBzujaFE52sOL1FoUV8oSijBy2kIC4sP5Of1FA=;
+ h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME
+-Version:Content-Type;
+ b=r65KSIcharyvW8Wfx5mVtogCqKp54glVUsbYAC5zB47hpAyGRtAisPSPEJ3ELqHu0c5VN
++Ty0immZwvpk+Dzhya2Ss
++VO07aq5EzLGfzTRm/V9yoi0Y2D32pn9Kjo0qth7PAqY7tAnG0ySc3LmXUMvkfvga202/rvdaA9gCV
+BWk=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s1024; d=ymail.com;
+ h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME
+-Version:Content-Type;
+ b=tTQWZVFPdznx21M08KjdYoRQ3U12jP9bOTlEMLKZpec/ywrqo86ZpIt99MegNSvH/ExhfeOtS0u
+E6Qdsq5RYFtkLRRQxxU1WSdkc5CPUfNYFrqMaTxUR8cPvhyUSQ3ypJzZuXcCE9fW6EPJiZ5X3DcFUT
+0/vex8euG1pEv327YE=;
+X-YMail-OSG: 7gOI2zoVM1l6GILcXRS6SCsIvkrZo1NXmrXVQuZQVgrjXWr
+ TE_FDbxrom.1kGg4mxuoTNjjmlO42BRLyUSs5oUFwubuBcbrTMur62Sotahm
+ NIO5u9k01ekCvm227jRygkzr3DGLUQ9YLDCs8nrNuqOLD9PQlCkeJgUqTXfc
+ gyjWgACgbjdO9UbwgRQb7nBhHyBfxhfE8ilZ4tDPIrHZq2AKJAExMtoseF4p
+ ClhnKkBGEjGXbY7nDJ8dIwt_ElgYqWf9ptrzLbHT1go.jiCE0.tuMijEiaWN
+ 07yxZP7TQ1QHUSWHTahg4_sjL9HPYj1.ANvlMxtPXaw--
+Received: from [69.211.139.37] by web121006.mail.ne1.yahoo.com via HTTP;
+ Tue, 28 Jun 2011 10:12:41 PDT
+X-Mailer: YahooMailWebService/0.8.112.307740
+Message-ID: <1309281161.97750.YahooMailNeo@web121006.mail.ne1.yahoo.com>
+From: Joshua Murphy <math321@ymail.com>
+To: Business Agora <agora-business@agoranomic.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+boundary="0-635342777-1309281161=:97750"
+Subject: BUS: Registration
+Sender: agora-business-admin@agoranomic.org
+Errors-To: agora-business-admin@agoranomic.org
+X-BeenThere: agora-business@agoranomic.org
+X-Mailman-Version: 2.0.11
+Precedence: bulk
+Reply-To: agora-discussion@agoranomic.org
+X-Reply-To: Joshua Murphy <math321@ymail.com>
+List-Help: <mailto:agora-business-request@agoranomic.org?subject=help>
+List-Post: <mailto:agora-business@agoranomic.org>
+List-Subscribe:
+ <http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+ <mailto:agora-business-request@agoranomic.org?subject=subscribe>
+List-Id: Agora Nomic public communications (PF)
+ <agora-business.agoranomic.org>
+List-Unsubscribe:
+ <http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business>,
+ <mailto:agora-business-request@agoranomic.org?subject=unsubscribe>
+List-Archive:
+ <http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/>
+Date: Tue, 28 Jun 2011 10:12:41 -0700 (PDT)
+X-Evolution-Source: pop://callforjudgement@pop.mail.yahoo.co.uk:995/
+
+========================================================================
+
+Judge woggle's Arguments:
+
+I hereby judge CFJ 3046 MALFORMED.
+
+(Disclaimer: this is ineffective if CFJ 3046 does not exist.)
+
+========================================================================

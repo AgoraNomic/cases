@@ -1,0 +1,64 @@
+==============================  CFJ 2981  ==============================
+
+    It is generally possible for the Rulekeepor to assign rule ID
+    numbers.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  Murphy
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                          21 Mar 2011 01:36:29 GMT
+Assigned to Murphy:                     21 Mar 2011 02:00:09 GMT
+Judged TRUE by Murphy:                  21 Mar 2011 02:21:04 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+http://www.mail-archive.com/agora-discussion@agoranomic.org/msg26185.html
+
+Does anyone have an argument for why this isn't broken?
+
+[CotC: the following is from the message archived at the above URL]
+
+DIS: power controls mutability
+omd
+Thu, 13 Jan 2011 12:03:05 -0800
+
+Summary of a discussion on ##nomic:
+
+Rule 2141's authorization of the Rulekeepor to assign ID numbers to
+rules is unsuccessful, because ID numbers are a substantive aspect of
+a rule (as they affect precedence), so Rule 2140 (Power Controls
+Mutability) prevents em (who has Power 0) from modifying it.  2140
+takes precedence.
+
+Except that it might not, because by the time Rules 2140 and 2141 were
+purportedly assigned ID numbers (shortly after they were created in
+April 2007), their bodies were already in place and in conflict about
+whether they could be assigned ID numbers-- with the normal ID number
+precedence mechanism impotent to resolve the conflict.
+
+Either way, just about every conflict since then that involved a rule
+with ID number > 2141 actually involved a rule with no ID number, and
+was thus indeterminate, unless this was somehow fixed by ratification.
+
+(Before Rules 2140 and 2141 were enacted, the equivalent of Power
+Controls Mutability only applied to proposals, so it was not an
+issue.)
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+I interpret "modify" as limited to changing an existing value, not
+initializing an aspect that previously lacked a value.
+
+========================================================================

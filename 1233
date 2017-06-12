@@ -1,0 +1,115 @@
+==============================  CFJ 1233  ==============================
+
+    Rule 1927 should be interpreted as requiring the Executor of the
+    Bank to announce eir intent to mint Bank Currencies between seven
+    and fourteen days prior to actually minting them.
+
+========================================================================
+
+Caller:                                 Steve
+Barred:                                 Kelly
+Barred:                                 lee
+
+Judge:                                  Elysion
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Steve:                        03 Jul 2000 04:31:32 GMT
+Assigned to Elysion:                    06 Jul 2000 05:28:25 GMT
+Judged FALSE by Elysion:                11 Jul 2000 21:13:58 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+For reference, the text of Rule 1927/0:
+
+      The Executor of a Bank Currency may Mint new units of that
+      Currency, subject to the following restrictions:
+
+      a) E announces eir intent between seven and fourteen days
+         prior to the time of minting.
+      b) Either e is a member of the Cabinet at the time e mints
+         the currency, or eir action has the support of two Cabinet
+         members.
+
+The issue here concerns the interpretation of R1927 in light of the
+somewhat sloppy formulation ("Executor of a Bank Currency") used in the
+Rule. I shall argue that sense can still be made of the Rule.
+
+Kelly and lee have both pointed out, quite correctly, that there is no
+such thing as the "Executor of a Bank Currency". The Bank has an
+Executor, and the various Bank Currencies have Mintors. On this basis,
+they argue that R1927 is completely without effect, since it attempts to
+restrict the behaviour of a non-existent entity.
+
+I think such an interpretative principle is far too harsh. A much better
+principle here is that we should make the best sense we can out of a
+Rule. A Rule should be disregarded as meaningless only as a last resort,
+when all other attempts to make sense of it have failed. In this case,
+it is clearly possible to make sense out of the Rule.
+
+The Rule would make perfect sense if it began with the phrase "The
+Mintor of a Bank Currency..." The concepts of 'Mintor' and 'Executor'
+are closely related, most especially in the context of dealing with
+Currencies. So we are dealing here with what is clearly a "semantic
+typo" - an unintended slip from one word or concept to a closely related
+one. In this case, we should have no more difficulty in interpreting the
+meaning of the Rule than we should if we encountered a literal typo,
+say, a reference to "the Mintor of a Bonk Currency". Would Kelly and lee
+argue that reference to a "Bonk Currency" is meaningless because the
+Rules do not define any such thing? I doubt it, and I certainly hope
+not, for we know that the Ruleset is littered with typos. Past Judges
+have been generous in interpreting Rules in which literal typos occur,
+and I argue that the Judge in this case should be similarly generous in
+interpreting R1927.
+
+If this interpretation is allowed, the truth of the Statement follows. By
+R1470, the Bank is the Mintor of every Bank Currency. Hence "the Mintor
+of a Bank Currency" refers to the Bank. By R1478, the Executor of the
+Bank is empowered to act on behalf of the Bank, and so the provisions of
+R1927 apply to em when e attempts to do so. This is what the Statement
+alleges.
+
+========================================================================
+
+Judge Elysion's Arguments:
+
+This CFJ rests on the interpretation of "Executor of a Bank Currency."
+As has been pointed out, taken literally there is no such entity.
+However, Steve argues that since the intended phrase is "Mintor of a
+Bank Currency," and the concepts of Executor and Mintor in the context
+of currency are similar, it should be interpreted as "Mintor of a Bank
+Currency." Steve presents the example of referring to a "Bonk Currency"
+to support this. The "Bonk" example is based on the fact that "Bonk
+Currency" makes no sense in the context of the rules or common English
+usage. Until recently, "Executor of a Bank Currency" made sense in the
+context of the rules. Does "Executor of a Bank Currency" make sense in
+these contexts anymore? Certainly, the concepts of an Executor and a
+Bank Currency make sense, but do they make sense in combination?
+
+Consider the phrase "Executor of a Zombie." If there are no Zombies,
+this phrase refers to a null set, but it is still meaningful to describe
+the properties an Executor of a Zombie would have if there were any.
+Similarly, it is meaningful to describe the properties of an Executor of
+a Bank Currency, even if there are none. Although this interpretation
+may not be the one intended by proposal authors, it is this judge's
+opinion that the literal interpretation should be followed if
+meaningful.
+
+========================================================================
+
+Gratuitous Arguments by Elysion:
+
+[Elysion denied the following motion]
+
+Motion 1233.1:
+
+    If the Judge finds the CFJ TRUE, I politely request that e Order
+    the Rulekeepor to Annotate Rule 1927 with the Statement of the
+    CFJ.
+
+========================================================================

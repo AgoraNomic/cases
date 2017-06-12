@@ -1,0 +1,66 @@
+==============================  CFJ 2854  ==============================
+
+    A decision to adopt the proposal "voter defaults" exists.
+
+========================================================================
+
+Caller:                                 Wooble
+
+Judge:                                  G.
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by Wooble:                       07 Sep 2010 19:59:50 GMT
+Assigned to G.:                         10 Sep 2010 08:24:07 GMT
+Judged TRUE by G.:                      10 Sep 2010 16:17:57 GMT
+
+========================================================================
+
+Gratuitous Evidence by Wooble:
+
+I assume the office of Promotor.
+
+
+This distribution of proposals 6834-6841
+initiates the Agoran Decisions on whether to adopt them.  The eligible
+voters are the active players at the time of this distribution, and
+the vote collector is the Assessor. The valid options on each decision
+are FOR and AGAINST (PRESENT is also a valid vote). Each proposal is
+hereby assigned the corresponding ID number listed with it. Each proposal
+is Ordinary, the the Chamber of each proposal is the body consisting of
+the active players of Agora at the time of this distribution
+
+NUM  I AI  SUBMITTER           TITLE
+6834 1 3.0 G.                  voter defaults
+
+========================================================================
+
+Caller's Arguments:
+
+the attempted re-distribution applies the everyday language
+use of the undefined term 'Chamber' from the ruleset, namely, the
+deliberative body considering the proposal.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+I agree with the Caller's arguments that Chamber, in the sense now
+used in the rules, means voting body.  However I disagree that this
+simply means "all active players."  Instead, I note that the terms
+"Ordinary" and "Democratic" are not defined by a named switch, but
+are just something a decision is (R2196).  Therefore, I find that
+the most obvious current meaning of "chamber" is whether a decision
+is ordinary or democratic.  This means that this essential parameter
+is listed twice in the rules (as "chamber" and as "whether a
+proposal is ordinary or democratic") but backup is fine.  So then,
+"Chamber" was mislabeled in the distribution attempt, but in this
+situation I find the mislabeling wholly insignificant for any
+practical purpose, as the ordinary/democratic information was clearly
+there, and the mislabeling it wouldn't confuse anyone to the values
+or legal ramifications of this essential parameter.    TRUE.
+
+========================================================================

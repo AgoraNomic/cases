@@ -1,0 +1,118 @@
+==============================  CFJ 3022  ==============================
+
+    scshunt gained points for CFJ 3011.
+
+========================================================================
+
+Caller:                                 Walker
+
+Judge:                                  ais523
+Judgement:                              
+
+
+Judge:                                  omd
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Walker:                       05 May 2011 21:21:24 GMT
+Assigned to ais523:                     19 May 2011 02:47:30 GMT
+ais523 recused:                         27 May 2011 11:48:15 GMT
+Assigned to omd:                        16 Jun 2011 01:35:34 GMT
+Judged FALSE by omd:                    16 Jun 2011 04:27:05 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+On 5 May 2011 21:43, Sean Hunt <scshunt@csclub.uwaterloo.ca> wrote:
+> On 05/05/11 11:35, Sean Hunt wrote:
+>>
+>> On 04/28/11 06:42, Ed Murphy wrote:
+>>>
+>>> Detail: http://zenith.homelinux.net/cotc/viewcase.php?cfj=3011
+>>>
+>>> ============================== CFJ 3011 ==============================
+>>>
+>>> I can cash a promise made in the same message in which this CFJ
+>>> was called.
+>>>
+>>> ========================================================================
+>>
+>> The condition is that 'this condition is false'. This is an instance of
+>> the liar's paradox; the statement is a self-contradiction. We do not
+>> accept the law of the excluded middle here in Agora (see the existence
+>> of the UNDECIDEABLE judgment), and thus it is the case that the
+>> condition is neither true nor false. Since the promise can only be
+>> cashed if its conditions are true, FALSE.
+>>
+>> -scshunt
+>
+> I transfer omd's promise from the Tree and cash it, congratulating myself.
+>
+> -scshunt
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+At the time scshunt judged CFJ 3011, e had not cashed the promise,
+so its time limit did not apply to em.  Interpreting that the
+promise retroactively qualified em for the point award is too much
+of a stretch, though it might be interpreted that the promise
+applied/applies to all judges who could cash it.
+
+========================================================================
+
+Gratuitous Evidence by Murphy:
+
+Message creating the promise in question:
+
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-business/2011-April/02
+8207.html
+
+Timing of subsequent relevant actions (all UTC):
+
+Thu 28 Apr 13:42:02  scshunt is assigned to CFJ 3011
+Thu  5 May 18:35:02  scshunt judges CFJ 3011
+Thu  5 May 18:36:30  scshunt judges CFJ 3007
+Thu  5 May 20:43:57  scshunt cashes the promise
+
+========================================================================
+
+Judge omd's Arguments:
+
+In this case, I've changed my mind:
+(1) "within any time limits for doing so" means "within whatever time
+limits for doing so exist", thus "within all time limits for doing
+so", not "within any time limit for doing so".
+
+(2) Furthermore, a time limit, like any requirement, must exist in the
+context of some penalty or system of denoting failure, i.e. a system
+of governance.  Whatever the penalty is-- perhaps violation of a
+real-life contract, perhaps someone politely pointing out the limit
+has been violated or him shooting me-- it essentially resembles an
+external jurisdiction, and Agora generally ignores matters of external
+jurisdictions.
+
+(3) But even if my promise is considered to assume Agora's
+jurisdiction (by analogy with promises' ability to impose certain
+obligations, I suppose, as precedent states that the ability to act on
+behalf is a type of obligation), by CFJ 2361, the withholding of the
+promise's reward for not judging a case within a year is not
+considered a penalty because it isn't "certain" that a judge would
+"get it anyway"; someone else might cash the promise in the meantime,
+or the judge might not want it.  Thus, the time limit for obtaining
+the reward is not considered a time limit for judging.
+
+(4) As far as I know, the weakest effect we have ever considered a
+penalty is my attempt to register on my birthday being judged
+ineffective; and that was a R101 case, where tradition is generally to
+interpret the rule as broadly as possible, whereas the author of Judge
+Points clearly did not intend it to apply to contracts.  The lack of a
+faceless, template note of congratulation is a much weaker effect, and
+would not be considered a penalty in any case.
+
+========================================================================

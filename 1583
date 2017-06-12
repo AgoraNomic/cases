@@ -1,0 +1,67 @@
+==============================  CFJ 1583  ==============================
+
+    Sherlock played Corporate Bankruptcy on February 10th, 2006.
+
+========================================================================
+
+Caller:                                 Sherlock
+Barred:                                 G.
+
+Judge:                                  Taral
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Sherlock:                     24 Feb 2006 19:37:36 GMT
+Assigned to Taral:                      27 Feb 2006 02:20:54 GMT
+Judged FALSE by Taral:                  06 Mar 2006 21:24:25 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+  Goethe argues that I did not satisfy R2106, which states:
+
+      A gambler plays a card with an Exploit by announcement,
+      specifying the card to be played, indicating any entities or
+      values mentioned in an Indication of the card's Exploit, and
+      noting any fees required to play the card.  A card without an
+      Exploit cannot be played.
+
+  I would contest this, however.  Fees were nowhere defined in the
+  ruleset at the time, so I don't believe the rules either enabled or
+  required me to pay any.  The Merriam-Webster dictionary defines a fee
+  as "a sum paid or charged for a service".  Without a better definition
+  provided by the rules, I think we have to believe that R2106 means a fee
+  of this type.  Since no other rules define a process for paying or
+  charging an amount for a service, what amount would I have been
+  "required" to note?
+
+========================================================================
+
+Judge Taral's Arguments:
+
+At the time of the CFJ, the card "Corporate Bankruptcy" was defined thus:
+
+      * Caption:   Corporate Bankruptcy
+        Frequency: Unique
+        Elements:  Limited [Shareholders] [3], Costly [3]
+        Exploit:   Transfer each Stock Card not held by the deck to
+                   the deck.
+
+And the "Costly" element defined thus:
+
+      * Costly [X a natural number]: There is a fee of X to play this
+        card, in addition to any other fees.
+
+This definitively states that there is a fee, and one can reasonably
+assume that, regardless of what definition one selects for the word
+"fee", the same definition must be used for both R2106 and this
+element. The possibility that this fee might be otherwise without
+effect does not negate the requirement to note its existence.
+Therefore I find that there was a requirement to note a fee of 3 to
+play the card, and that Sherlock failed to meet that requirement.
+
+========================================================================

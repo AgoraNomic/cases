@@ -1,0 +1,211 @@
+==============================  CFJ 3171  ==============================
+
+    ais523 is inactive.
+
+========================================================================
+
+Caller:                                 omd
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                          16 Feb 2012 19:49:33 GMT
+Assigned to G.:                         24 Feb 2012 00:32:58 GMT
+Judged FALSE by G.:                     24 Feb 2012 23:04:02 GMT
+Reconsideration requested by omd:       25 Feb 2012 04:28:47 GMT
+Reconsideration requested by ehird:     26 Feb 2012 20:07:39 GMT
+Reconsideration requested by G.:        26 Feb 2012 21:45:09 GMT
+Assigned to G.:                         26 Feb 2012 21:45:09 GMT
+Judged FALSE by G.:                     26 Feb 2012 21:45:09 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+I create a Slave Golem in my possession, naming it "Mr. Incredible".
+
+I cause Mr. Incredible to make each of the following players inactive:
+Arkady, ais523, davidcjackman, ehird, Flameshadowxeroshin, G.,
+Machiavelli, Murphy, Pavitra, Sonny Jim, 441344, woggle, and Yally.
+
+      The owner of a Slave Golem CAN cause it to take actions that
+      are not otherwise IMPOSSIBLE by announcement.
+
+========================================================================
+
+Caller's Arguments:
+
+Making ais523 inactive is an action that is "not otherwise
+IMPOSSIBLE"-- in particular, ais523 can do it by announcement, and any
+player can do it without objection.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+Rule 2125/7 (Regulation Regulations) in combination with R101(i) does
+put an implicit, blanket of "IMPOSSIBLE to change except as explicit in
+the Rules" over regulated quantities.  Thus, a rule that permits
+"otherwise IMPOSSIBLE" actions does not override the fact that it is
+generally IMPOSSIBLE to change regulated quantities except by mechanisms
+explicitly permitted, such as without objection in this case.
+
+This blanket IMPOSSIBILITY is implicit rather than explicit (i.e. "where
+the rules are silent") though in R101(i), it exists as a direct exceptio
+probat regulam.  It hinges on the definition of "otherwise" with respect
+to implicit limitations; a case could be made either way (and may have
+to rely on "best interests", unfortunately).
+
+========================================================================
+
+Gratuitous Arguments by Murphy:
+
+The first method being limited to the announcer is an
+inherent part of it, and similarly without-objection is an inherent
+part of the second.  Past exceptions to this common-sense approach
+have depended on alternate constructions, e.g. "the Vizier can do
+anything that an officer can do" allowing em to resign an office
+held by someone else.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+It seems to me that "make ais523 inactive" is the action,
+ais523 is the actor, and "by announcement or without objection" is the
+method - if ais523 made emself inactive, and then someone used a
+dictatorship rule to make ais523 inactive, you would say they took the
+same action.*  The rule refers to the possibility of the action, not
+the actor or method.
+
+* (a dictatorship rule rather than the existing without objection
+method because even though Dependent Actions simply allows you to
+perform the action by announcement once you have approval, "I do X"
+and "without objection I do X" are visually different and
+instinctively I would consider them separate actions; it probably
+doesn't matter)
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+It has been discovered that R2130 contains the text "Changes to Activity
+are Secured."  R2130 is power-2.  By R1688:
+       A Rule that secures a change, action, or value (hereafter the
+       securing Rule) thereby makes it IMPOSSIBLE to perform that
+       change or action, or to set or modify that value, except as
+       allowed by an Instrument with Power greater than or equal to the
+       change's Power Threshold.
+The Slave Golems Rule is also power-2, and reads:
+    The owner of a Slave Golem CAN cause it to take
+    actions that are not otherwise IMPOSSIBLE by announcement.
+
+This shifts the burden somewhat so that the Slave Golems rule must
+explicitly allow the change.  But "otherwise" does not explicitly
+allow, in fact it defers to other rules (like R1688 on security).
+
+========================================================================
+
+Judge G.'s Arguments:
+
+The full clause in question in R2361 reads "The owner of a Slave Golem
+CAN cause it to take actions that are not otherwise IMPOSSIBLE by
+announcement."  The 'otherwise', here, must refer to the rest of the
+ruleset (i.e. "otherwise = other than as a result of this clause").
+
+Currently, changes in Activity are Secured in Rule 2130 (note: it was
+discovered, in the course of this scam, that Proposal 6959 added the
+Security, although the Rulekeepor inadvertently did not record this
+change.  If for some reason Proposal 6959's change to R2130 failed, this
+judgement should be revisited, as the implied limitation via Regulation
+Regulations is a little more tenuous).
+
+This makes activity IMPOSSIBLE to change except as allowed by a power-2
+rule (R1688).  While R2361 is in fact Power-2, it has discounted itself
+from providing that allowance by deferring to the rest of the ruleset
+with 'otherwise'.  Therefore, it is in fact 'otherwise' impossible for
+a person to switch another person's activity in the manner attempted.
+
+========================================================================
+
+Request for reconsideration by <function player at 0xb6d4d5dc>:
+
+I intend to call for reconsideration of this judgement with two
+support.  Changing Activity is regulated per R2125 c) and e) and thus
+impossible to perform "except as allowed by the rules", while Rule
+1688 states that securing an action makes it impossible "except as
+allowed by an Instrument with Power greater than or equal to the
+change's Power Threshold".  Since all the rules in question are
+Instruments with Power >= 2, the restrictions are equivalent in this
+case, so it doesn't make sense for the judgement to hinge on whether
+or not it's secured.
+
+Moreover, if the judge's arguments are extended to apply to regulated
+actions, then neither Slave Golems nor the President can actually do
+anything, which common sense suggests is the wrong interpretation.
+(In the gratuitous arguments for this case, I anticipated an argument
+that the "action" includes the person doing it and/or method, which
+would separate changing someone else's activity from the ordinary
+things Mr. Incredible was 'supposed' to be able to do, but this
+judgement does not make any such distinction.)
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Disputant omd's arguments are either purposefully or idiotically
+obtuse.  I have clearly and directly stated in my original
+judgement why security is applicable in spite of the rules in
+question being >=2.  It is clear in context that the "otherwise"
+merely adds a method ("by announcement of owner") to things that
+are POSSIBLE for a second class player to do given the rest of the
+ruleset.    As the "otherwise" clause does not in itself add a
+single new permission, but only a method for the owner, the fact
+that the clause is power-2 does not get around the security.  To
+twist the meaning to adding broader general permissions is a
+willful misreading and an unsupported interpretation.
+
+However, you may not agree with this.  Therefore, I'll formally
+add the argument that does not depend on Security, which provides
+the same result using Regulation Regulations.
+
+It is clear that the CAN clauses in R2130 for flipping activity
+list "certain conditions" for the CANs.  The "certain conditions"
+are as follows:
+
+A.  The ability to flip one's own activity is conditional on
+the switch being one's own;
+B.  The without objection is conditional on the dependent method
+being satisfied (method can be a "condition" in R2125(c); e.g.
+"the condition that this method is used").
+
+Since these are the only two specified conditions for flipping
+activity, by R2125(c) it CANNOT be done except as specified.  In
+other words, in standard language, it is indeed "otherwise
+IMPOSSIBLE" (otherwise than under those specific conditions) to
+flip activity; which is the exact limitation that R2361 places on
+the golems.
+
+That slaves' powers are not much right now (i.e. that slaves are
+fairly useless) is not the problem of this rule.
+
+========================================================================
+
+Judge G.'s Evidence:
+
+Rule 2125/7 (Power=3)
+Regulation Regulations
+[extract]
+       c) The rules explicitly state that it CAN be performed while
+          certain conditions are satisfied.  Such an action CANNOT be
+          performed except as allowed by the rules.
+
+========================================================================

@@ -1,0 +1,49 @@
+==============================  CFJ 1701  ==============================
+
+    to qualify as a member of a partnership one must be responsible for
+    all of the partnership's obligations.
+
+========================================================================
+
+Caller:                                 Zefram
+Barred:                                 root
+Barred:                                 omd
+Barred:                                 BobTHJ
+
+Judge:                                  Human Point Two
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Zefram:                       11 Jul 2007 15:05:31 GMT
+Assigned to Human Point Two:            18 Jul 2007 20:26:09 GMT
+Judged FALSE by Human Point Two:        21 Jul 2007 04:11:45 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Legal partnerships in most jurisdictions make all partners answerable
+for any legal failing of the partnership, and that's the semantic that
+I intended when drafting R2145/2.  I didn't necessarily encode that
+semantic correctly in the rule text, however.  The question centres on
+the interpretation of the word "collectively".
+
+========================================================================
+
+Judge Human Point Two's Arguments:
+
+Most jurisdictions support a type of partnership in which some or
+all partners are responsible for a proper subset of the partnership's
+obligations.  Rule 2145 should therefore be interpreted as requiring
+only what it explicitly says it requires.
+
+Rule 2145's definition of "partnership" explicitly requires each of a
+partnership's obligations to be devolved onto at least one of its
+parties, but its definition of "member" does not explicitly require
+each member (party responsible for at least one of those obligations)
+to be responsible for all of them.
+
+========================================================================

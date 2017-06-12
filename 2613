@@ -1,0 +1,72 @@
+==============================  CFJ 2613  ==============================
+
+    The Speaker CAN publish an Honors List.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Taral
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       25 Jun 2009 11:39:08 GMT
+Assigned to Taral:                      25 Jun 2009 15:30:03 GMT
+Judged TRUE by Taral:                   02 Jul 2009 21:41:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+These CFJs are about the Gregorian calendar
+(which rule 1023 implies is the one in use, at least for months; maybe
+for month naming too). You see, when the calendar in question was
+decreed by Pope Gregory XIII, it was slightly different from what is
+commonly used nowadays; in particular, the year started on 25 March, and
+to introduce an extra day into leap years, leap years had an extra 24
+February (as opposed to adding a nonexistent 29 February, as is commonly
+done today). The calendar has had that form through much of its history;
+for instance, the UK changed to officially starting years on 1 January
+in the year 1751/1752 (depending on which year-start date you choose to
+measure the changeover date in); so it took that form for about 169
+years in the UK, and certainly for the rest of Pope Gregory's lifetime.
+A calendar that starts on January 1, or that has its leap year on
+February 29, thus cannot be properly considered Gregorian.
+
+Many countries have since changed to the 'modern' calendar, identical to
+the Gregorian except in terms of what months and days are called, and
+when they start; however, such a change was never made by Agora itself,
+and there is no reason it should be beholden to the laws of any given
+macronation. Therefore, it is plausible to conclude that 'Gregorian'
+references the original Gregorian calendar. In such a case, it is
+impossible to perform actions on February 29, because such a date never
+exists; and as today is June 25 (July 25?), we've just missed the start
+of a month, so the Speaker's too late to publish an Honours List.
+
+========================================================================
+
+Gratuitous Arguments by omd:
+
+The fact that the year starts on March 25 has nothing to
+do with the starts of months.
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+We may not be tied to the calendar of any particular nation,
+but we sure seem to be tied to Unix timestamps.  -G.
+
+========================================================================
+
+Judge Taral's Arguments:
+
+Seriously? The term "Gregorian calendar" is used extensively to denote
+the modern calendar. "The Gregorian calendar is the internationally
+accepted civil calendar." (Wikipedia) "The calendar currently in
+worldwide use for secular purposes..." (Scienceworld)
+
+========================================================================

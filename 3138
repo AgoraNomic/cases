@@ -1,0 +1,161 @@
+==============================  CFJ 3138  ==============================
+
+    A Promise titled "I want blood!" exists.
+
+========================================================================
+
+Caller:                                 Pavitra
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Pavitra:                      28 Dec 2011 06:58:12 GMT
+Assigned to G.:                         14 Jan 2012 20:15:51 GMT
+Judged FALSE by G.:                     16 Jan 2012 05:14:35 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Does the Holiday extend the period for collecting Objections?
+I think it doesn't, because 1728(a) is worded in terms of relative
+durations measured backward from the time of the attempted resolution,
+rather than forward from the time of initiation.
+
+========================================================================
+
+Caller's Evidence:
+
+On 12/27/2011 04:51 PM, Pavitra wrote:
+> Having received no objections, I do so.
+>
+> On 12/20/2011 04:23 PM, Pavitra wrote:
+>> For each Promise quoted below, I intend without objection to destroy
+>> that Promise.
+>>
+>>>
+------------------------------------------------------------------------------
+>>> Quantity: 2
+>>> Title: I want blood!
+>>> Author: scshunt
+>>> Owner: Tree
+>>> Cashing:
+>>> A proposal has been adopted which imposes a penalty or makes it
+>>> illegal for players to fail to vote on a distribution since the
+>>> publication of this promise, and the cashier was its author.
+>>>
+>>> Text: I transfer 5 points to the cashier.
+>>>
+------------------------------------------------------------------------------
+>>> Title: Vote Issue Series G1
+>>> Author: G.
+>>> Owner: Tree
+>>> Copies: 5
+>>> Cashing:
+>>> The casher of this promise transfers 3 points to G. in the message in
+>>> which e cashes this promise.
+>>>
+>>> Text:
+>>> I vote X on Y, where Y is a decision currently in its voting period,
+>>> and X is a valid option for said decision, and both X and Y are
+>>> specified in the context sent with this message.
+>>>
+------------------------------------------------------------------------------
+>>> Title: G1 vote guarantee
+>>> Author: G.
+>>> Owner: Tree
+>>> Copies: 5
+>>> Cashing:
+>>> The casher of this message had previously cashed a promise of Vote Issue
+>>> Series G1, and G. emself (outside the cashing of another promise)
+>>> changed eir vote on the specified decision, and the casher has not
+>>> cashed a different G1 Vote guarantee for that decision.
+>>>
+>>> Text: I transfer 6 points to the casher of this promise.
+>>>
+------------------------------------------------------------------------------
+>>> Title: (2011-04-25 scshunt 2)
+>>> Author: scshunt
+>>> Owner: Tree
+>>> Cashing:
+>>> The entity cashing this promise, in the same message as e cashes it,
+>>> transfers me 10 points and either transfers me an additional 30 points
+>>> and destroys this promise, or else transfers it to the Tree.
+>>>
+>>> Destruction: This promise is not destroyed upon cashing.
+>>> Text:
+>>> Let N be the number of the specified proposal.
+>>>
+>>> I retract any votes on the Proposal N and vote to ENDORSE the player
+>>> cashing this promise.
+>>>
+------------------------------------------------------------------------------
+
+========================================================================
+
+Gratuitous Arguments by G.:
+
+A scam, based on the holiday timing of dependent actions using a
+similar version of R1728 wording, was sorted out by CFJ 2321, which
+may or may not contain relevant arguments.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+An announcement of intent to perform an action creates a time limit for
+performing that action based on that intent.  While this is written
+backwards in R1728/32, this phrase in Rule 1769/8 is the relevant one:
+
+     If some Rule bases the time of a future event (including the
+     time limit to perform an action) upon the time of another event...
+
+Here, the backwards writing doesn't matter: R1728 bases a future time
+limit on the past event, it doesn't "base" the past event on the future
+event (the only way to do this would be if the future event legally
+moved the past event's time; this was what was rejected in CFJ 2321).
+
+Therefore, if an intent is announced *within* a holiday, it is governed
+by clause (a) of R1728, and the timing is treated as if the intent (the
+"other" event) was announced at the end of the holiday - and therefore
+the intent CAN only be resolved between 4-14 days after the holiday
+ends.  Note that this clause is read to come before the operation of
+clause (b), below.
+
+Now, if the intent is announced *before* the holiday, but the relevant
+time limits would fall within the holiday, clause (b) is relevant, and
+things get confusing.   Does "time limit to perform an action" refer to
+both the time at which one can first perform the action (4 days later)
+as well as the final time limit for performing the action (14 days
+later)?
+
+First, the final time limit (14 days) is clearly moved if it falls
+within the holiday.  After that time, the action can't be performed,
+so it's a true "time limit for performing the action."  Therefore this
+final time limit (if it falls within the holiday) is moved to 72 hours
+after the holiday.
+
+What about the 4-day time limit, before which the action cannot be
+performed?  Well, it's the time limit for inaction, not the time limit
+for action - there exist times after the 4 days at which the action
+can be performed.  As such, I find that it is *not* covered by either
+clause (a) or (b), and the timing is not affected.  The result is that
+the announcer can resolve the intent any time between 4 days after
+announcing and 72 hours after the holiday ends.
+
+This permissiveness gives latitude to the officer/person performing the
+action, so is generally in keeping with the holiday rule helping these
+duties.  While it creates a danger that a "dangerous intent" can be
+resolved within a holiday, note that the intent still needs be announced
+before the holiday when people are still required to (generally) pay
+attention.
+
+Result here:  Intent announced before holiday, resolved within holiday
+but more than 4 days later, therefore successful.  Promises were
+destroyed, therefore FALSE.
+
+========================================================================

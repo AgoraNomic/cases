@@ -1,0 +1,120 @@
+==============================  CFJ 1807  ==============================
+
+    root won the game at or around Sat, 24 Nov 2007 23:29:13 UTC.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  BobTHJ
+Judgement:                              TRUE
+
+Appeal:                                 1807a
+Decision:                               REMAND
+
+
+Judge:                                  BobTHJ
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by root:                         25 Nov 2007 06:34:11 GMT
+Assigned to BobTHJ:                     28 Nov 2007 14:07:27 GMT
+Judged TRUE by BobTHJ:                  28 Nov 2007 15:55:31 GMT
+Appealed by Zefram:                     28 Nov 2007 16:08:50 GMT
+Appealed by Taral:                      28 Nov 2007 17:08:10 GMT
+Appealed by Murphy:                     30 Nov 2007 04:10:00 GMT
+Appeal 1807a:                           30 Nov 2007 17:00:24 GMT
+REMANDED on Appeal:                     03 Dec 2007 16:02:25 GMT
+Assigned to BobTHJ:                     03 Dec 2007 19:13:10 GMT
+Judged TRUE by BobTHJ:                  07 Dec 2007 16:53:14 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+In a message dated Sat, 17 Nov 2007 15:29:13 -0800, Judge Murphy
+entered a judgement of UNDECIDABLE in CFJ 1787, which has not since
+been appealed.  The statement in CFJ 1787 is "It is permissible to
+judge the question on veracity in this case FALSE."  This statement
+concerns the permissibility of a rule-defined action, but not one that
+is either prior or hypothetical.
+
+At the time of the judgement, Rule 2110/2 read:
+
+      If an inquiry case on the possibility of a rule-defined action
+      or the permissibility of an action results in a judgement of
+      UNDECIDABLE, and that judgement is not appealed within a week,
+      then the initiator of the inquiry case wins the game if e is a
+      player.  This can only occur once per inquiry case.
+
+During the following week, Proposal 5297 amended Rule 2110 to read:
+
+      If an inquiry case on the possibility of a prior or hypothetical
+      rule-defined action, or the permissibility of a prior or
+      hypothetical action, results in a judgement of UNDECIDABLE, and
+      the judgement is not appealed within a week (or is upheld via an
+      appeal decision of AFFIRM), then the initiator of the inquiry
+      case wins the game by paradox if e is a player.  This can only
+      occur once per inquiry case.
+
+Rule 2110/2 may be interpreted as setting in motion a seven-day clock
+at the time the UNDECIDABLE judgement is entered; when the clock
+expires, it exerts its effects regardless of whether Rule 2110/2 still
+exists.  This interpretation allows this CFJ to be TRUE, but it is
+unsatisfactory, as it permits rules to act outside their lifetimes.
+
+>From an alternative standpoint, after Rule 2110/2 was replaced with
+Rule 2110/3, the former version could no longer affect the game in any
+way; thus it could not cause a win, and this CFJ would be FALSE.  This
+interpretation is troubling when applied to other rules; for example,
+a ratification that is underway when Rule 1551 is suddenly amended
+might cease to be effectual.
+
+Instead, I propose a compromise interpretation: a process defined by
+the rules, such as the process of ratification or the "seven-day
+clock" of Rule 2110, is a rule-defined entity.  This interpretation
+allows the following paragraph of Rule 1586/3 to be invoked:
+
+      If the Rules defining an entity are amended such that they still
+      define that entity but with different properties, then that
+      entity and its properties continue to exist to whatever extent
+      is possible under the new definitions.
+
+Using this definition, the "clock" initiated by Rule 2110/2 continued
+to count down under Rule 2110/3 until it ultimately expired and
+awarded root a win, making this case TRUE.  I believe that this
+interpretation best exemplifies game custom and the best interests of
+the game.
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+I accept the caller's arguments and hereby judge TRUE.
+
+========================================================================
+
+Appellant Zefram's Arguments:
+
+Rule 2110 (either version) is not expressed as setting up a delayed
+action.  root/BobTHJ's interpretation of rule 1586 might well apply in
+some places that are so expressed, but it cannot apply here.  Rule 2110
+is expressed as an instantaneous condition, which becomes true at the end
+of an appeal-free week following a relevant judgement.  The condition
+in R2110/2 never became true while R2110/2 was in force, because the
+week had not expired.  The condition in R2110/3 never became true,
+because the judgement at issue did not meet its eligibility criterion.
+
+========================================================================
+
+Judge BobTHJ's Arguments:
+
+Accepting the appellant's arguments, I still find this question to be
+TRUE. The CFJ called by root can be determined to be about a
+hypothetical action: the judgment of that CFJ. Therefore, it does meet
+the requirements for R2110/3, and root is awarded a win.
+
+========================================================================

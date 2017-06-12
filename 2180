@@ -1,0 +1,263 @@
+==============================  CFJ 2180  ==============================
+
+    The message sent by "agoran@live.com" on "Mon, 15 Sep 2008 20:15:58
+    +0000" was successful in submitting a proposal.
+
+========================================================================
+
+Caller:                                 Anonymous
+
+Judge:                                  Sir Toby
+Judgement:                              UNDETERMINED
+
+========================================================================
+
+History:
+
+Called by Anonymous:                    23 Sep 2008 20:14:34 GMT
+Assigned to Sir Toby:                   28 Sep 2008 21:57:19 GMT
+Judged UNDETERMINED by Sir Toby:        04 Oct 2008 22:06:05 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+I argue for a TRUE judgement in this case.
+
+========================================================================
+
+Judge Sir Toby's Arguments:
+
+The message sent by "agoran@live.com" on "Mon, 15 Sep 2008 20:15:58
++0000" (see evidence 1) attempted to submit a proposal. The question is
+whether or not the message was successful in submitting a proposal.
+
+Rule 106 (see evidence 2) defines what a proposal is and how it is
+submitted. Rule 106 says this about proposals: "A proposal is a document
+outlining changes to be made to Agora, including enacting, repealing, or
+amending rules, or making other explicit changes to the gamestate."
+Clearly the message in question contains a proposal, as it outlines
+changes to be made to Agora. Rule 106 says this about submitting
+proposals: "A player submits a proposal by publishing it with a clear
+indication that it is intended to become a proposal, which places the
+proposal in the Proposal Pool." There is a clear indication that the
+document is intended to become a proposal. The only question remaining
+is whether or not the author of the message is a player.
+
+The message in question was signed "Anonymous", so we don't know who
+sent it. While there has been some speculation regarding who sent the
+message, no one has either confirmed or denied sending the message. The
+message does claim that the author is a player.
+
+Rule 2170 (see evidence 3) provides guidance for claims of identity and
+states the following: "A public message's claim as to who published it
+is self-ratifying, unless the claim is self-contradictory, or a
+challenge of identity pertaining to the claimed publisher has been
+issued within one month before its publication." Rule 2201 (see evidence
+4) discusses self-ratification and states the following: "Any public
+document defined by the rules as self-ratifying is ratified one week
+after its publication, unless explicitly and publicly challenged during
+that period via one of the following methods, explaining the scope and
+nature of the perceived error." One of the options defined in Rule 2201
+for challenging a document is a "claim of error", and is stated as
+follows: "A claim of error, appropriate for matters of fact.  The
+publisher of the original document SHALL respond to a claim of error as
+soon as possible, either publishing a revision or denying the claim.  If
+e denies the claim, then the original document is ratified one week
+after the denial, unless it is challenged again (subject to the same
+requirements) during that period."
+
+This judge is aware of no challenge of identity pertaining to the
+claimed publisher within one month before the publication of the message
+in question. However, on "Mon, 15 Sep 2008 14:20:33 -0600" root issued a
+claim of error regarding the claim that the author of the message in
+question is a player (see evidence 5). This judge is aware of no
+response from the author of the message in question regarding the claim
+of error. The end result is that the claim that the author of the
+message is a player did not self-ratify. This does not necessarily mean
+that the author is not a player, it just means that we cannot depend
+upon ratification of the claim.
+
+Rule 2139 (see evidence 6) specifies that the Registrar's report
+includes information sufficient to identify and contact each player. The
+most recent Registrar's report (see evidence 7) does not have any
+mention of "agoran@live.com".
+
+Without a ratified claim of identity for the author of the message in
+question or sufficient information in the Registrar's report to to
+determine the identity of the author of the message in question, this
+judge finds insufficient information to determine if the author of the
+message in question is a player. As a result, this judge renders a
+judgement of UNDETERMINED for CFJ 2180.
+
+========================================================================
+
+Judge Sir Toby's Evidence:
+
+<evidence id="1">
+From: invalid invalid <agoran@live.com>
+To: <agora-business@agoranomic.org>
+Subject: BUS: Try 2: Repeal Partnerships
+Date: Mon, 15 Sep 2008 20:15:58 +0000
+
+I am already a player.
+I submit the following proposal, titled "Repeal Partnerships" (AI=2, II=0):
+
+{{
+
+Repeal Rule 2144 (Limited Partnerships).
+
+Repeal Rule 2145 (Partnerships).
+
+Amend Rule 2178 (Public Contracts) by deleting this text:
+
+     A partnership CAN identify its contract as a public contract by
+     publishing its text and membership.
+
+}}
+
+-- Anonymous
+</evidence>
+
+
+
+<evidence id="2">
+Retrieved from:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-October/
+005076.html
+
+Rule 106/13 (Power=3)
+Adopting Proposals
+
+      A proposal is a document outlining changes to be made to Agora,
+      including enacting, repealing, or amending rules, or making
+      other explicit changes to the gamestate.
+
+      A player submits a proposal by publishing it with a clear
+      indication that it is intended to become a proposal, which
+      places the proposal in the Proposal Pool.  That player is its
+      author (syn. proposer).  The author of a proposal may remove it
+      from the Pool by announcement.
+
+      A person is a co-author of a proposal if and only if e is
+      distinct from its author, and unambiguously identified by its
+      author as being its co-author at the time of submission.
+
+      The adoption index of a proposal is an integral multiple of 0.1
+      from 1.0 to 9.9.  It may be set by the proposer at the time of
+      submission, or otherwise defaults to 1.0.
+
+      Determining whether to adopt a proposal is an Agoran decision.
+      For this decision, the adoption index is the adoption index of
+      the proposal, and the vote collector is the Assessor.
+
+      If the option selected by Agora on this decision is ADOPTED,
+      then the proposal is adopted, and unless other rules prevent it
+      from taking effect, its power is set to the minimum of four and
+      its adoption index, and then it takes effect.  It does not
+      otherwise take effect.
+
+      Preventing a proposal from taking effect is a secured change.
+      This rule takes precedence over any rule which would permit a
+      proposal to take effect.
+</evidence>
+
+
+
+<evidence id="3">
+Retrieved from:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-October/
+005076.html
+
+Rule 2170/2 (Power=3)
+Who Am I?
+
+      Rules regarding persons pertain to those persons directly, not
+      to rule-defined avatars or other entities representing those
+      persons within Agora.
+
+      A person SHALL NOT make a public statement intended to mislead
+      others as to the identity of its publisher.
+
+      A public message's claim as to who published it is
+      self-ratifying, unless the claim is self-contradictory, or a
+      challenge of identity pertaining to the claimed publisher has
+      been issued within one month before its publication.
+
+      The Executor of a public message is the first-class person who
+      sends it, or who most directly and immediately causes it to be
+      sent.  The executor of an action performed by announcement is
+      the executor of the announcement.
+</evidence>
+
+
+
+<evidence id="4">
+Retrieved from:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-October/
+005076.html
+
+Rule 2201/0 (Power=3)
+Self-Ratification
+
+      Any public document defined by the rules as self-ratifying is
+      ratified one week after its publication, unless explicitly and
+      publicly challenged during that period via one of the following
+      methods, explaining the scope and nature of the perceived error:
+
+      a) An inquiry case, appropriate for questions of legal
+         interpretation.
+
+      b) A claim of error, appropriate for matters of fact.  The
+         publisher of the original document SHALL respond to a claim
+         of error as soon as possible, either publishing a revision or
+         denying the claim.  If e denies the claim, then the original
+         document is ratified one week after the denial, unless it is
+         challenged again (subject to the same requirements) during
+         that period.
+</evidence>
+
+
+
+<evidence id="5">
+From: "Ian Kelly" <ian.g.kelly@gmail.com>
+To: agora-business@agoranomic.org
+Subject: Re: BUS: Try 2: Repeal Partnerships
+Date: Mon, 15 Sep 2008 14:20:33 -0600
+
+On Mon, Sep 15, 2008 at 2:15 PM, invalid invalid <agoran@live.com> wrote:
+> >
+> > I am already a player.
+
+CoE: The executor of the quoted message might not be a player.
+
+-root
+</evidence>
+
+
+
+<evidence id="6">
+Retrieved from:
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-October/
+005076.html
+
+Rule 2139/1 (Power=1)
+The Registrar
+
+      The Registrar is an office; its holder is responsible for
+      keeping track of players.
+
+      The Registrar's report includes, for each player:
+
+      a) Information sufficient to identify and contact em.
+      b) The date on which e most recently became a player.
+</evidence>
+
+
+
+<evidence id="7">
+http://www.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-October/
+005078.html
+</evidence>
+
+========================================================================

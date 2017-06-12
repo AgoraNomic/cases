@@ -1,0 +1,40 @@
+==============================  CFJ 2476  ==============================
+
+    The statement of CFJ 2469 is about the possibility of winning the
+    game by announcement.
+
+========================================================================
+
+Caller:                                 root
+
+Judge:                                  scshunt
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by root:                         27 Apr 2009 18:38:07 GMT
+Assigned to scshunt:                    30 Apr 2009 07:05:45 GMT
+Judged FALSE by scshunt:                01 May 2009 02:40:41 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Without the clause "Interpreting 'If ... then' in the
+logical sense" in the statement of CFJ 2469, I would argue for TRUE.
+However, the presence of that clause transfers the subject of the
+statement from being "about" the possibility of winning the game to
+simply being "about" the truth value of a logical construct.
+
+========================================================================
+
+Judge scshunt's Arguments:
+
+As per root's arguments, CFJ 2469 is about a logical construct, and will
+indeed be the same no matter the consequent. As a result, the inquiry
+can hardly be considered related to any given consequent, or indeed
+"about" it. FALSE.
+
+========================================================================

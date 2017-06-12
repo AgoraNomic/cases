@@ -1,0 +1,102 @@
+==============================  CFJ 3518  ==============================
+
+      When a player performs a dependent action, e is the recordkeepor
+      of supporters and/or objectors to the action, for the purposes of
+      R2125. 
+
+========================================================================
+
+Caller:                       G.
+
+Judge:                        ais523
+Barred:                       CuddleBeam
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by G.:                 29 May 2017
+Assigned to ais523:           29 May 2017
+Judged FALSE by ais523:       05 Jun 2017
+
+========================================================================
+
+Caller's Arguments:
+
+Does this clause of R1728:
+      The actor SHOULD publish a list of supporters if the action
+      depends on support, and a list of objectors if it depends on
+      objections.
+mean that the actor is "required to be a recordkeepor" of supporters
+and/or objectors, for the purpose of R2125:
+      An action is regulated if:  [...]        (3) the action would,
+      as part of its effect, modify information for which some player
+      is required to be a recordkeepor.
+
+If so, supporting and objecting to an action would modify the record,
+and supporting/objecting (and withdrawal of same) would be regulated
+actions. 
+
+Argument for FALSE:
+"Should" isn't really a requirement, it's a suggestion.
+
+Argument for TRUE:
+The SHOULD means the person, by R2152, should understand and carefully 
+weigh the reasons for not publishing the lists of supporters/objectors.
+It's not possible to understand the consequences of not doing so without
+tracking them (in particular, the consequences of incorrectly attempting
+to perform the action).  And a weak requirement (a "should report", not
+a "must report") is still a requirement.
+
+========================================================================
+
+Judge's Arguments:
+
+If I remember correctly, "recordkeepor" was at one point defined in the
+rules. Currently, there are only two uses: in rule 2125, and rule 2438
+(which defines the Tailor as the recordkeepor of Ribbons). Rule 2438
+immediately goes on to define the Tailor as tracking the Ribbon switch
+in eir monthly report, which fits the previous and common usage of
+"recordkeepor" (as the player who is responsible for reporting on a
+specific subset of the gamestate).
+
+Does rule 1728 create a recordkeepor-like obligation? I don't think so.
+As worded, the rule doesn't imply "MUST track, and SHOULD publish"; it
+just says "SHOULD publish". One plausible reason for not publishing a
+list of supporters and/or objectors is that you weren't tracking them.
+(For example, suppose in a quiet period, which has no Agencies or
+similar constructs, you intend to perform an action without 3
+objections, and only 2 messages are sent to the public fora between the
+intent and resolution. It's obvious that the action can be resolved
+even if you don't scour the messages in question for objections.)
+
+Another argument for FALSE is that the requirement (if it exists) to
+track the lists of supporters and objectors is instantaneous; there's
+no requirement to do so after resolving the action (obviously), but
+also no requirement to do so beforehand (because you can simply choose
+to not resolve your intent). As such, there are no records to update;
+you're compiling a list at a specific instant, rather than keeping one
+maintained over time. I think this is a weaker argument than the above,
+but still easily strong enough to decide the CFJ by itself (implying
+that even if rule 1728 had a SHALL not a SHOULD, a dependent actor
+still wouldn't be a recordkeepor of support and objection).
+
+I should also note that the above argument implies that the question is
+only of academic interest; even if a dependent actor /were/ a
+recordkeepor, they would be so only instantaneously, and thus rule 2125
+would only make supporting/objecting regulated instantaneously. Given
+that support and objection happen /before/ the dependent action, rather
+than at the same time as it, rule 2125 can't have any impact on whether
+they're possible/legal or not.
+
+Out of interest, does anyone know if the Assessor was ever defined as a
+recordkeepor of votes? I don't think this has been the case in any
+remotely recent ruleset, even when the recordkeepor concept was widely
+used for other offices, but may have been the case in the distant past
+back when votes were submitted to the Assessor rather than made
+publicly.
+
+I judge CFJ 3518 FALSE.
+
+========================================================================

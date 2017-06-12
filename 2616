@@ -1,0 +1,113 @@
+==============================  CFJ 2616  ==============================
+
+    Mojo's Disclosure has been flipped.
+
+========================================================================
+
+Caller:                                 allispaul
+
+Judge:                                  BobTHJ
+Judgement:                              
+
+
+Judge:                                  G.
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by allispaul:                    27 Jun 2009 17:14:51 GMT
+Assigned to BobTHJ:                     29 Jun 2009 07:06:18 GMT
+BobTHJ recused:                         29 Jun 2009 13:53:38 GMT
+Assigned to G.:                         03 Jul 2009 21:12:40 GMT
+Judged FALSE by G.:                     06 Jul 2009 04:59:19 GMT
+
+========================================================================
+
+Caller's Evidence:
+
+> Judge Tanner Swett's Arguments:
+>
+> TRUE, because unless you believe a
+> contract is a forum, you have no reason to attempt to flip its
+> Publicity to Public; any attempt to do so is almost certainly an
+> attempt to flip its Disclosure to Public.
+>
+> ========================================================================
+>
+
+I agree to the following:
+{
+This is a pledge and contract called Mojo.  Any player CAN join or
+leave this contract at any time.  allispaul CAN terminate this
+contract by announcement.
+}
+Its list of parties is {allispaul}.
+
+I flip Mojo's Sentiment to Public.
+
+========================================================================
+
+Judge G.'s Arguments:
+
+Technically, to provide full specification for flipping a switch, four
+pieces of information are needed:
+
+1.  The entity involved;
+2.  The class that the entity is a member of that is associated with
+     the switch;
+3.  The name of the switch;
+4.  The resulting state of the switch.
+
+Most often, (2) and (3) are implied by (1) and (4).  For example, "I sit"
+is short for "(1) I, (2) being a player, and thus having (3) a posture
+switch, set it to (4) sitting".  This works as long as the switch state
+is unique in the ruleset (not a state of any other switch) and the entity
+is clearly a member of the class associated with that switch.
+
+"Public", however, is the state of both the Publicity switch (for fora)
+and the Disclosure switch (for contracts) so there is possibility for
+ambiguity in the switch name.  How precise does one have to be?  Here's
+some situations:
+
+a.  "I make Entity X public."  Here, if (2) class is clear from (1) the
+entity's name, it should work;  in other words, if X is clearly a
+contract, this works to switch Disclosure.  If X is clearly a forum, it
+works to switch Publicity.  If X is both a contract and a forum, or
+its status as one or the other is unclear, it is unclear and doesn't
+work.
+
+b.  "I make Contract X's Publicity public."  This is the situation of
+CFJ 2611, for which the Caller quotes the Judge's arguments.  Here we
+have two competing senses; Contract X is a contract, but only fora have
+Publicity.  This is very much a borderline case.  Here, the CFJ 2611
+judge subjectively found that the contextual evidence is that the intent
+to refer to 'Contract X' and not "Forum X" was clear, while the intent
+to refer to "publicity" instead of "disclosure" was ruled a non-
+substantial error, fueled perhaps by the similarity between between
+"publicity" and "public".
+
+As a borderline case, the judge made a subjective but reasonable
+borderline call.  In other words, since (of 1-4 above) (1) and (4) were
+specified, and (2) "contract not forum" could be strongly inferred from
+(1) and not mistaken, the error in (3) could be treated as noise and -
+since three of the four items were specified - the call could be made
+to assume the correct element (3) of Disclosure instead of Publicity.
+Note that the borderline nature of this means it only works as long as
+the new state, entity, and contract-ness (and non-forum-ness) of the
+entity were straightforwardly and abundantly clear, and the actual
+intent of the actor and context of the action reasonably clear as well.
+
+c.  "I make Contract X's Sentiment Public".  Here we've added a
+different ambiguity: it is possible for a Contract to have a Sentiment
+switch as well as a Disclosure switch.  So while we've specified
+(1) and (2) correctly, we either have (3) correct and (4) in error, or
+vice-versa.  It's not possible to tell from this if we should accept
+that "sentiment" is correct (and "public" is wrong) or if "public" is
+correct (and "sentiment" is wrong).  With at least two plausible
+corrections that could be made to infer a successful action, there are
+not enough clues to infer the correct specification, so the action was
+not clearly communicated.
+
+========================================================================

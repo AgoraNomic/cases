@@ -1,0 +1,44 @@
+==============================  CFJ 2637  ==============================
+
+    Sending a public message is equivalent to acting on behalf of onself
+    (in the absence of an attempt to act on behalf of someone else), and
+    is thus restricted by the rule "Acting on Behalf".
+
+========================================================================
+
+Caller:                                 Murphy
+Barred:                                 scshunt
+
+Judge:                                  Taral
+Judgement:                              FALSE
+
+========================================================================
+
+History:
+
+Called by Murphy:                       21 Jul 2009 21:57:28 GMT
+Assigned to Taral:                      24 Jul 2009 21:50:04 GMT
+Judged FALSE by Taral:                  01 Aug 2009 05:51:15 GMT
+
+========================================================================
+
+Judge Taral's Arguments:
+
+The equivalence in question is not a mathematical equivalence, but
+legal equivalence. Legal equivalence is shorthand for the construction
+of legal fiction. "Doing A is equivalent to doing B" means that when
+one purports to do A, a legal fiction is created that B happened
+instead. This process is in no way implicitly bidirectional in the way
+that mathematical equivalences are.
+
+For the more mathematically inclined, one can frame the problem in
+terms of uninstantiated existentials. "For some entities X and Y and
+some action Z, X posting that e acts on behalf of Y to do Z is
+equivalent to Y doing Z." Inverting this equivalence results in an
+undefined X!
+
+The upshot of all this is that "sending a message" is still a plain
+action, not some sugar for an unknown entity acting on behalf of you
+to send a message.
+
+========================================================================

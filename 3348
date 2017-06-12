@@ -1,0 +1,45 @@
+==============================  CFJ 3348  ==============================
+
+    This is a CFJ.
+
+========================================================================
+
+Caller:                                 ais523
+
+Judge:                                  Walker
+Judgement:                              TRUE
+
+========================================================================
+
+History:
+
+Called by ais523:                       24 Jun 2013 11:29:20 GMT
+Assigned to Walker:                     27 Jun 2013 17:22:15 GMT
+Judged TRUE by Walker:                  01 Jul 2013 03:07:24 GMT
+
+========================================================================
+
+Caller's Arguments:
+
+Clearly, just calling a CFJ by itself works. How many levels
+of ISIDTID indirection are needed before announcing that you announce
+something stops working?
+
+========================================================================
+
+Judge Walker's Arguments:
+
+I judge both TRUE. As I believe was noted in discussion, "I attempt to
+do X" is a commonly accepted longhand for "X". There is an added
+implication of "this might fail, but I'm not sure", but this adds
+little or no ambiguity to the message: certainly not enough for the
+action to fail. In fact, simply writing "X", as players would now have
+to do if I had ruled FALSE, would be less helpful to recordkeepers as
+they would not get the helpful pointer to double-check the success of
+the action, which is clearly not in the interests of the game.
+
+I believe than any (finite) number of "I attempt to do"-s would work,
+provided that the meaning of "X", when separated from the rest of the
+message, is still clear and unambiguous.
+
+========================================================================
