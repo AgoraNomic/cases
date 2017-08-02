@@ -8,7 +8,7 @@
 Caller:                       ais523
 
 Judge:                        Murphy
-Judgement:                    
+Judgement:                    FALSE 
 
 ========================================================================
 
@@ -16,6 +16,7 @@ History:
 
 Called by ais523:             10 Jun 2017
 Assigned to Murphy:           10 Jun 2017
+Judged FALSE by Murphy:       23 Jun 2017
 
 ========================================================================
 
@@ -83,5 +84,71 @@ Rule 2162/8 (excerpt):
          report is self-ratifying, and implies that other instances
          are at their default value.
 }}}
+
+========================================================================
+
+Judge Murphy's Arguments:
+
+(Note: This disagrees with Gaelan's interpretation in CFJs 3463-64.)
+
+It's in the best interest of the game to allow uncontroversial
+claims to self-ratify and thus become correct, even if they
+previously contained undiscovered errors, and even if those errors
+are later discovered (because it's simpler to design equity patches
+than retroactively recalculate gamestate). By extension, it's in the
+best interests of the game to allow a mostly-correct set of claims
+to mostly-self-ratify.
+
+Rule 2162 (Switches), relevant portion:
+
+      3. Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's (weekly, if not specified
+         otherwise) report includes the value of each instance of that
+         switch whose value is not its default value; a public
+         document purporting to be this portion of that officer's
+         report is self-ratifying, and implies that other instances
+         are at their default value.
+
+Per best-interests, this should not be interpreted as requiring an
+exact specification of all such values; acknowledging a dispute is
+sufficient, and such an explicit acknowledgment prevents the switch in
+question from being included in "implies that other switches".
+
+The effect of ratification is to minimally modify the gamestate so that
+the ratified material is as true and accurate as possible.
+
+  * A self-contradictory statement can't be true or accurate, but in a
+    set of mostly independent claims, only the ones involved in self- or
+    mutual contradiction are affected. (A report of Shiny holdings where
+    the grand total didn't match the sum of parts would arguably be
+    completely ineffective if ratified, but that's beyond the scope of
+    this case.)
+
+  * A statement of "X's Y is disputed", even if true and accurate and
+    ratified, does not claim the exact value of X's Y, thus ratification
+    leaves that exact value unchanged.
+
+The October 2016 Tailor's Report included rows for "Alexis" and
+"scshunt" as if they were two different people (later found to be false)
+with two different sets of ribbons. While we can explicitly create a
+legal fiction of "A and B are two different people" (as with Maud and
+Annabel several years ago), it's beyond the the reasonable scope of
+ratification to do so implicitly. Thus those two rows were mutually
+contradictory (even though that wasn't generally known until later),
+thus self-ratification made no changes based on those two rows. But it
+did include "ais523 has a White Ribbon".
+
+The May 2017 Tailor's Report stated that Alexis's Ribbon Ownership
+was disputed, thus self-ratification made no change based on that
+portion. But, again, it did include "ais523 has a White Ribbon".
+
+scshunt had a White Ribbon, then deregistered on 16 Sep 2015, then
+Alexis allegedly registered on 14 Sep 2015 and gained a White Ribbon
+on 16 Sep 2015. Ribbons are a person (not player) switch and are not
+otherwise lost upon deregistration, and scshunt/Alexis has not won via
+Ribbons since then (eir 3 wins by Renaissance, the old name for Raising
+a Banner, all preceded this deregistration). Thus, e has a White Ribbon,
+ais523 also has a White Ribbon, and the statement ("Alexis doesn't but
+ais523 does") is FALSE.
 
 ========================================================================

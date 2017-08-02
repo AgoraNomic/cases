@@ -1,0 +1,53 @@
+==============================  CFJ 3542  ==============================
+
+      All Players except Cuddlebeam now have enough Trust Tokens to win
+      the game.
+
+========================================================================
+
+Caller:                       CuddleBeam           
+
+Judge:                        Quazie
+Judgement:                    
+
+========================================================================
+
+History:
+
+Called by CuddleBeam:         20 Jul 2017                    
+Assigned to Quazie:           21 Jul 2017       
+
+========================================================================
+
+Caller's Arguments:
+
+This isn't consequential to other actions/offices, it's just related to
+Trust Tokens which people have been hardly using lately anyway.  Here, I
+attempt to grant Trust Tokens via that "a Trust Token" means any kind of
+Trust Token, much how "a banana" can be a rotten banana, my banana, your
+banana, a ripe banana, etc.
+
+Note that this treads into fairly abstract territory due to how open "a X"
+can be via the banana reasoning.
+
+
+--------*------
+
+Note R2452: "Any player can issue a Trust Token to another person by
+announcement."
+
+Be a TrustToken[A, B] a Trust Token such that player A would issue to
+player B if A posted a message of "I grant a Trust Token to B", where B is
+Player B's name, to a-b;
+
+Once, for each player except Murphy, I issue a Trust Token[A, B] to Murphy,
+where A is that player and B is Murphy, to Murphy.
+
+Then, I do the same, again, but for the beneficiary to be another player
+instead of Murphy (for example, "Once, for each player except Ais523, I
+issue a Trust Token[A, B] to Ais523, where A is that player and B
+is Ais523, to Ais523."), until I have done the sequence for all Players
+(except myself, because I can't issue myself Trust Tokens).
+
+========================================================================
+

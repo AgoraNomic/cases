@@ -1,24 +1,27 @@
-==============================  CFJ 3513  ==============================
+==============================  CFJ 3513  =============================
 
       In a message dated Mon, 22 May 2017 15:31:30 -0400, Publius
       Scribonius Scholasticus initiated an Agoran Decision.
 
-========================================================================
+=======================================================================
 
 Caller:                       G.
 
-Judge:                        nichdel
+Judge:                        Quazie
 Barred:                       Publius Scribonius Scholasticus
-Judgement:                    
+Judgement:                    TRUE
 
-========================================================================
+=======================================================================
 
 History:
 
 Called by G.:                 22 May 2017
 Assigned to nichdel:          24 May 2017
+nichdel recused:              12 Jun 2017
+Assigned to Quazie:           12 Jun 2017
+Judged TRUE by Quazie:        12 Jun 2017
 
-========================================================================
+=======================================================================
 
 Caller's Arguments:
 
@@ -43,7 +46,7 @@ R2482.  If the clause is *not* non-functional, then the announcement
 limiting options to "announced" players is simply incorrect and therefore
 invalid.
 
-========================================================================
+=======================================================================
 
 Caller's Evidence:
 
@@ -53,4 +56,61 @@ the Herald as the vote collector. I would be in favor of all watchers
 (Ørjan and others) and G. putting emselves into the race. The ballots
 should be cast in an instant runoff format.
 
-========================================================================
+=======================================================================
+
+Judge Quazie's Arguments:
+
+R2482 states
+{{{
+  If nobody has done so in the previous 180 days, the Herald CAN
+  initiate a Victory Election, a type of Agoran decision. On such
+  a decision, all players are valid options; non-player persons
+  can also become valid options during the voting period by
+  announcement. The vote collector is the Herald, and the voting
+  method is instant runoff.
+
+  Upon the resolution of the decision, if the outcome is a person,
+  then that person wins the game.
+}}}
+with the key phrase being:
+{{{
+  non-player persons can also become valid options 
+  during the voting period by announcement.
+}}}
+
+PSS's Agoran Decision states:
+{{{
+  True, the CoE having been successful, I hereby initiate a Victory Election
+  with all players, announced non-players, and PRESENT as valid options and
+  the Herald as the vote collector. I would be in favor of all watchers
+  (Ørjan and others) and G. putting emselves into the race. The ballots
+  should be cast in an instant runoff format.
+}}}
+with the key phrase being:
+{{{
+  [...] announced non-players and PRESENT as valid options
+}}}
+
+I believe that the two key phrases are synonymous.  I go so far as to note 
+that it doesn't even say WHO must do the announcing, so by voting for a 
+non-player I believe that perhaps counts as an announcement of an intent 
+to make em a valid voting option.
+
+As a result, if R2482 allows the Herald to start a victory election, 
+then PSS did so.
+
+So, the question is: is having announced non-persons as a special subset too 
+much of a burden for the average player?
+
+If it's not too much of a burden for an officer to collect votes in public
+messages, it seems like it isn't too much of a burden to expect someone to
+follow the current activity and see who is, and isn't, an announced non-player
+especially if my earlier conjecture is correct, and voting for someone
+counts as an announcement.
+
+I don't think that keeping up with a weeks worth of messages on the public
+forum is too ambiguous.
+
+I vote CFJ 3513 as TRUE.
+
+=======================================================================

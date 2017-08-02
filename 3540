@@ -1,0 +1,69 @@
+==============================  CFJ 3540  ==============================
+
+      The message quoted in Evidence has created a publicly-made pledge.
+
+========================================================================
+
+Caller:                       G.                       
+
+Judge:                        Publius Scribonius Scholasticus
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by G.:                                    18 Jul 2017
+Assigned to Publius Scribonius Scholasticus:     18 Jul 2017               
+Judged TRUE by Publius Scribonius Scholasticus:  20 Jul 2017
+
+========================================================================
+
+Caller's Arguments:
+
+I'm wondering the extent to which the current pledge mechanism can be
+used to form private but enforceable contracts.  Do the full details of
+the pledge need to be known for it to be "public"?  Or is it enough to
+make a public announcement that a pledge has been made?
+
+Obviously, no punishment can be applied unless the text becomes known to
+the Referee or other carding authority.  It would be great if the judge
+could explore different possibilities; e.g. what happens if the plaintext
+becomes known to the Referee?  What if the plaintext is made public after
+the fact, by someone alleging the pledge has been broken?
+
+I'm not a player, but if there's a difference between the player and non-
+player case, hopefully the judge can also opine on the differences and say
+what would happen if the above pledge were made by a player.  (Obviously
+non-players can't be punished as the rule is written, but there's nothing
+to say they can't make pledges).
+
+========================================================================
+
+Caller's Evidence:
+
+On Tue, 2017-07-18 at 12:05 -0700, Kerim Aydin wrote:
+>
+> I hereby pledge to perform as specified in a document 82 characters in
+> length with the following SHA-1 hash:
+>                               0ed8c48c11070dfa911ff4b6e465a999cc7cc4a1
+
+========================================================================
+
+Judge Publius Scribonius Scholasticus's Arguments:
+
+I find CFJ 3540 to be TRUE because the message clearly communicates what
+is being pledged to a public forum. However, I find that this pledge is
+ineffective and can not be broken because there is no way to determine
+which document with the specified hash and character constraint e is
+referencing. If e were to redo this pledge with reference to a specific
+document identified more specifically in an unambiguous way or to every
+document fulfilling such a description, it would be an effective pledge.
+As to the question of privately communicated pledges raised in
+discussion, I find that those would also be effective if there were some
+means by which it could be legally verified that the message is that
+which the pledge was made on. This could be done via a combination of
+hashing functions and private communication or via some of smart
+contracts, blockchains, or document depositories.
+
+========================================================================

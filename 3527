@@ -1,0 +1,89 @@
+==============================  CFJ 3527  ==============================
+
+      ais523 has 0 shinies.
+
+========================================================================
+
+Caller:                       omd
+
+Judge:                        V.J Rada
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by omd:                19 Jun 2017       
+Assigned to V.J Rada:         19 Jun 2017
+Judged FALSE by V.J Rada:     21 Jun 2017               
+
+========================================================================
+
+Caller's Arguments:
+
+First of all, does 0.5 count as an "amount" per Rule 2483?
+
+If so, Rule 2483 purports to decrease my balance by 0.5 and increase
+ais523's balance by 0.5, which in both cases would mean setting
+balance to an impossible value.  Does that trigger this clause from
+Rule 2162?
+
+      If an instance of a switch would otherwise fail to have a
+      possible value, it comes to have its default value.
+
+...Or does "No other values are possible for instances of that switch",
+also from Rule 2162, simply forbid the change altogether?  (Rule 2162
+has precedence over Rule 2483.)
+
+========================================================================
+
+Caller's Evidence:
+
+On Mon, 2017-06-19 at 18:23 -0400, omd wrote:
+> I pay ais523 0.5 shinies.
+
+========================================================================
+
+Judge V.J Rada's Arguments:
+
+Can a decimal amount of Shinies be transferred? I find that it cannot. The 
+word "amount" is ambiguous enough for other considerations to come into 
+play, and the intent of the rules, other clauses in the ruleset, and 
+consequences all point towards an interpretation that only integers can be 
+transferred. I find this CFJ false.
+
+This CFJ comes from omd, who attempted to give 0.5 Shinies to ais523
+and called for judgement on whether ais523 had 0 Shinies. His legal 
+theory was that because decimals are an impossible value for Balance
+Switches, ais523's Switch would reset to its default: 0. However the 
+threshold question is, can this decimal transfer have any effect?
+
+"Any player CAN pay Agora, any other player, or any organization any 
+amount by announcement, unless it would make eir own balance
+negative.", states rule 2483. Is a decimal quantity an amount? Because 
+amount is undefined, I look to the ordinary meaning. It is clear that "an
+amount of money" includes any number of parts or subparts of monetary
+units, but "an amount of coins" implies an integer of coins, not half a 
+coin. Shinies are like coins. The ruleset cabins Balance Switches to
+only integers and no other value. Others have proposed a different 
+physical analogy. Balance Switches are like the switch on a radio: it's 
+a knob but it only changes at integers. Whatever the analogy
+preferred, the words "an amount of money" is more naturally interpreted
+as an integer amount.
+
+The consequences of allowing players to transfer to other players non-
+integer amounts of money would be disastrous. It is very probable
+(although I do not decide it) that a player would be able to immediately
+null another player's balance with such a transfer. A financial system
+open to such mischief would be a great shame. Additionally, allowing
+decimals could open the way to more complicated mathematical 
+constructs, which would be a nightmare to track if it worked.
+
+This trick also has, as far as I know, no support in game practise, at
+least in the current economic system.
+
+For the foregoing reasons, the transfer between omd and ais523
+never occurred. ais523 has (I believe) 66 shinies, the judgement
+is FALSE
+
+========================================================================

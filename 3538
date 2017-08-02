@@ -1,0 +1,204 @@
+==============================  CFJ 3538  ==============================
+
+      In the message to agora discussion stating "haha suck it", 
+      V.J. Rada broke a Pledge.
+
+========================================================================
+
+Caller:                       V.J. Rada                       
+Barred:                       CuddleBeam
+
+Judge:                        omd
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by V.J. Rada:          05 Jul 2017                    
+Assigned to omd:              05 Jul 2017 
+Judged TRUE by omd:           07 Jul 2017   
+
+========================================================================
+
+Caller's Arguments:
+
+1. Pledge and promise are synonyms in ordinary meaning.
+ Does that mean a promise counts as per the rules?
+2. Can a post to A-D have the effect of breaking a pledge,
+even if it doesn't have other game effects?
+3. Pledges to refrain from an action have to be for a limited
+time. Does that include the practically unlimited period of the
+sun's existence?
+
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Jul 5, 2017 at 10:26 AM, V.J Rada <vijarada@gmail.com> wrote 
+to Agora-Business:
+> I promise not to post in agora discussion within the period of
+> the sun's existence
+
+On Wed, Jul 5, 2017 at 10:27 AM, V.J Rada <vijarada@gmail.com> wrote
+to Agora-Discussion:
+> haha suck it
+
+========================================================================
+
+Gratuituos Arguments by ais523:
+
+"Pledge" and "Promise" have both had formal definitions in Agora in
+the past (which made it clear that they were two different things),
+but both of these definitions have since been repealed. Have these
+influenced game custom? Or does the fact that the definitions were
+repealed mean that any precedents from the time no longer apply?
+
+Under the old definition of "pledge", players have been punished in
+the past for actions unconnected with any Agoran fora. For example, a
+player pledged to ascend a game of NetHack on a public NetHack server
+(unrelated to the Agoran mailing lists) and failed to do so, leading
+to a CFJ ruling that a rule was violated.
+
+The first paragraph of rule 478 contains "it is hereby resolved that
+no Player shall be prohibited from participating in the Fora". This
+has in the past been taken to mean that rules penalising people for
+communicating via the Fora (as opposed to communicating something in
+particular via the Fora) have no effect. Does that apply in this
+case?
+
+Note that IIRC there's more than one discussion forum (##nomic on
+irc.freenode.net is the other one, but it's an IRC channel not a
+mailing list). If it does apply, did the /making/ of the pledge
+violate rule 478?
+
+========================================================================
+
+Judge omd's Arguments:
+
+On Wed, Jul 5, 2017 at 6:25 PM, Alex Smith <ais523@alumni.bham.ac.uk> 
+wrote:
+> > > 1. Pledge and promise are synonyms in ordinary meaning.
+> > > Does that mean a promise counts as per the rules?
+
+Previously, Rule 2450 (Pledges) stated in its entirety:
+
+      Breaking a publicly-made pledge is a cardable offense.
+
+In this version, it's pretty clear that the rule doesn't define a
+special game object called a Pledge or anything; rather, it refers to
+ordinary-language pledges, and identifies a subset of them (those that
+were publicly made, where "public" presumably refers to the
+definitions in Rule 478) as relevant to the game.
+
+11 days ago, it was amended by "Betterer Pledges" to add the following
+(the online ruleset still hasn't been updated to reflect this):
+
+    If a publicly-made pledge says that the creator of a pledge will do
+    something, without providing a time limit, then e SHALL in a timely manner
+    in order to not break said pledge.
+
+    A player CANNOT make any pledge that would create new obligations for
+    any other person or office, without the other party's explicit consent.
+
+The first of those two paragraphs doesn't make a difference, but the
+latter arguably does: by stating circumstances under which a player
+CAN make a pledge, the rule is effectively creating its own definition
+of "pledge".  Nevertheless, it is still vague enough about what
+constitutes a pledge that this new definition should be understood as
+a refinement or modification of the ordinary-language definition, not
+a replacement.
+
+Thus, there is no specific wording required to make a pledge; arguably
+even a simple future-tense statement like "I will do X" might count,
+though I'm not ruling on that here.  In this case, "I pledge" and "I
+promise" mean basically the same thing in ordinary language, and V.J.
+Rada's message was sent to a public forum, so e indeed made a
+"publicly-made pledge".
+
+Incidentally, the CFJ statement:
+
+> > I CFJ on "In the message to agora discussion stating "haha suck
+> > it", V.J. Rada broke a Pledge."
+
+seems to assume there *is* something special called a "Pledge", but
+I'll interpret it as referring to "publicly-made pledge".
+
+> > > 2. Can a post to A-D have the effect of breaking a pledge,
+> > > even if it doesn't have other game effects?
+
+Yes.  The rules don't exist in a bubble: they can pay attention to
+whatever aspects of the 'real world' they want to.  Most rule-defined
+actions are explicitly required to be performed via the public fora,
+but even there, the gamestate depends on /who/ performed a given
+action, which is not knowable solely by reading the fora - a
+longstanding loophole with a long history of exploitation, most
+recently by scshunt.
+
+I could imagine a hypothetical game custom that the gamestate must be
+knowable by reading the fora, and rules that, on their face, refer to
+the external world must instead be interpreted as referring to a
+reasonable observer's /model/ of the world, based on reading the fora.
+Under such a custom, for example, if an existing player tried to
+create a sockpuppet - i.e. started sending messages under a new
+pseudonym, pretending to be a different person - we would say that a
+reasonable forum reader would perceive the sockpuppet as a distinct
+person, therefore the game should treat em as distinct.  But we
+definitely don't have that custom!  Under actual Agoran precedent, the
+game ignores the deception: any messages e sends attempting to take
+actions 'as the sockpuppet' are treated the same as if sent from eir
+usual alias, affecting eir existing status as a player (even at the
+cost of massive gamestate recalculation when the sockpuppetry is
+revealed).
+
+By the same principle, since Rule 2450 sets no explicit limitations on
+what a pledge can refer to, or what sorts of actions can break one, we
+should take it at its word, not read anything into it about public
+fora.
+
+> > > 3. Pledges to refrain from an action have to be for a limited
+> > > time. Does that include the practically unlimited period of the
+> > > sun's existence?
+
+Unless I'm missing something, there's no such requirement about
+pledges to refrain from an action.
+
+TRUE: V.J. Rada indeed broke a publicly-made pledge.
+
+However...
+
+> > Gratuitous arguments:
+> > [...]
+> > The first paragraph of rule 478 contains "it is hereby resolved that
+> > no Player shall be prohibited from participating in the Fora". This
+> > has in the past been taken to mean that rules penalising people for
+> > communicating via the Fora (as opposed to communicating something in
+> > particular via the Fora) have no effect. Does that apply in this
+> > case?
+> > Note that IIRC there's more than one discussion forum (##nomic on
+> > irc.freenode.net is the other one, but it's an IRC channel not a
+> > mailing list). If it does apply, did the /making/ of the pledge
+> > violate rule 478?
+
+I agree that the pledge, if effective, would be a severe enough
+restriction on V.J. Rada's participation in the Fora as to run afoul
+of Rule 478 (as even though e is not strictly required to send
+messages to agora-discussion to participate, we have a strong
+expectation that players will).  Although Rule 478 uses the word
+"shall", that doesn't necessarily mean "SHALL", and both game custom
+and the best interests of the game strongly favor giving the clause
+teeth.  When it comes to attempts to prohibit participation through
+the legal system, it should be interpreted as overriding such
+prohibitions altogether, not merely criminalizing their creation.
+Thus, even though V.J. Rada broke a pledge, e did not break the rules,
+because Rule 478 overrides Rule 2450 as to whether e MAY send messages
+to agora-discussion.  Nor did e break the rules by making the pledge,
+as this was merely a failed attempt to prohibit emself from
+participating in the fora, which Rule 478 definitely doesn't
+criminalize.  (I leave open the question of whether Rule 478 ever
+creates criminal liability, e.g. if someone prohibits participation by
+technical means, or by legal means that take precedence over that
+rule.)
+
+========================================================================
+

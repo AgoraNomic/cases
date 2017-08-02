@@ -6,10 +6,13 @@
 
 Caller:                       Gaelan
 
-Judge:                        CuddleBeam
 Barred:                       o
-Judgement:                     
 
+Judge:                        CuddleBeam
+
+Judge:                        Murphy
+
+Judgement:                    TRUE
 
 ========================================================================
 
@@ -17,15 +20,18 @@ History:
 
 Called by Gaelan:             23 May 2017
 Assigned to CuddleBeam:       24 May 2017
+CuddleBeam Recused:           28 Jun 2017
+Assigned to Murphy:           28 Jun 2017
+Judged TRUE by Murphy:        29 Jun 2017
 
 ========================================================================
 
 Caller's Arguments:
 
-I don’t believe I committed a crime. o claimed that I committed
-Forgery; there is no crime named “Forgery” in the ruleset, the only
-match in the SLR for “forgery” is the crime of Endorsing Forgery
-(“Ratification Without Objection” 2202/6). There are several problems
+I don't believe I committed a crime. o claimed that I committed
+Forgery; there is no crime named 'Forgery' in the ruleset, the only
+match in the SLR for 'forgery' is the crime of Endorsing Forgery
+('Ratification Without Objection' 2202/6). There are several problems
 with this:
 There is no crime named Forgery.
 I explicitly noted that the attempt at apathy was separate from the
@@ -33,17 +39,17 @@ report, therefore (assuming that worked) it was not within a ratified
 document.
 Reports are self-ratified, not ratified without objection.
 Therefore, there is no evidence that I broke the rules. Even so, a
-Pink Slip is not appropriate. 2476/0 “Pink Slips” states that a pink
+Pink Slip is not appropriate. 2476/0 'Pink Slips' states that a pink
 slip is appropriate "for abuses of official power for personal
 gain.  A Pink Slip CANNOT be issued unless the reason indicates the
-specific office or offices whose power was abused.” The ability to
+specific office or offices whose power was abused." The ability to
 send long messages to a public forum in which one could hide a
 dependent action is not a power granted to the Rulekeepor by the
 rules; it provides an alibi, but that is not a rule-defined power.
 
 I believe it is very clear that the issuance of the Pink Slip was
 against the rules. However, the rules regarding Cards is a mishmash
-of CAN NOTs and SHALL NOTs, and I’m not sure if any of the CAN NOTs
+of CAN NOTs and SHALL NOTs, and I'm not sure if any of the CAN NOTs
 were triggered, hence the two CFJs.
 
 ========================================================================
@@ -56,10 +62,10 @@ Caller's Evidence:
 > wrote:
 > 
 > The following section is not a portion of the report:
-> For the purposes of this section, The Sentence is “I intend,
-> without objection, to declare [word], specifying myself.”
+> For the purposes of this section, The Sentence is "I intend,
+> without objection, to declare [word], specifying myself."
 > I execute The Sentence, substituting [word] for a word
-> beginning with “ap” that is a synonym for “not caring.”
+> beginning with "ap" that is a synonym for "not caring."
 
 This appears to be an attempt to abuse the office of Rulekeepor
 for personal gain, in the form of initiating a victory by Apathy
@@ -82,3 +88,37 @@ risk.
 -o
 
 ========================================================================
+
+Judge Murphy's Arguments:
+
+Taking things step by step:
+
+  * Rule 2426 (Cards) says "A type of Card may have a defined set of
+    circumstances for which it is appropriate". Such a type of Card is
+    only appropriate in those circumstances.
+
+  * Pink Cards are such a type.
+
+  * Those circumstances did not hold here. Being able to publish the
+    Rulesets without it automatically seeming suspicious is merely a
+    circumstance of being Rulekeepor, not something that the rules
+    directly empower em to do. If the Rulekeepor is late reporting, then
+    anyone could deputise to do it (and that also wouldn't automatically
+    seem suspicious), which is still a circumstance of the office but
+    applies to someone who started out not holding it.
+
+  * So the Pink Card was not appropriate, and issuing it violated Rule
+    2426's final SHALL NOT.
+
+  * All rule violations are offenses, and thus cardable as at least one
+    of Green/Yellow/Red, though which are appropriate is subjective.
+
+Gaelan certainly abused this circumstance of being Rulekeepor, but
+that's not what Pink Cards currently address. Possibly that rule should
+be amended to broaden their scope.
+
+TRUE.
+
+========================================================================
+
+

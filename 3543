@@ -1,0 +1,42 @@
+==============================  CFJ 3543  ==============================
+
+      No rule other than rule 2166 can be a backing document.
+
+========================================================================
+
+Caller:                       CuddleBeam          
+
+Judge:                        Aris
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by CuddleBeam:         09 Jul 2017                    
+Assigned to Aris:             24 Jul 2017 
+Judged FALSE by Aris:         31 Jul 2017
+
+========================================================================
+
+Caller's Arguments:
+
+- CFJ 3532 ("Assets with multiple backing documents can't exist")
+- R2166 states "An asset is an entity defined as such by a rule", however,
+this is in itself a definition of what an asset is - it is an entity
+defined as such by a rule. So R2166 is a backing document.
+- Given that "Assets with multiple backing docs can't exist", and R2166
+itself is a backing document (applicable to *all* assets), no other backing
+document can exist in the ruleset.
+
+========================================================================
+
+Judge Aris's Arguments:
+
+This case is similar to CFJ 3532. The assets rule does not create or 
+attempt to create any specific class of assets. Although it is necessary
+for an asset defined by another rule to be an asset, the sine qua non
+(without which not) standard was rejected in CFJ 3532 as being against
+both the intent and the clear textual meaning of the rule. FALSE.
+
+========================================================================

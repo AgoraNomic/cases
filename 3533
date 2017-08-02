@@ -1,0 +1,166 @@
+==============================  CFJ 3533  ==============================
+
+      V.J. Rada initiated three elections on 27 June.
+
+========================================================================
+
+Caller:                       V.J. Rada 
+
+Judge:                        omd
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by V.J. Rada:          30 Jun 2017                    
+Assigned to omd:              30 Jun 2017                  
+Judged TRUE by omd:           02 Jul 2017
+
+========================================================================
+
+Judge omd's Arguments:
+
+On 27 June, e indeed attempted to do so:
+> Because I am rather bored, I initiate elections for Prime Minister, 
+> Herald and Report or by announcement.
+
+The case turns on this clause of Rule 2154, describing a condition
+under which elections can be initiated:
+
+      1. by announcement, if e is the ADoP, if the office has been
+         deputised for within the past two weeks, or if no election
+         has been initiated for the office either since the last time
+         a player won the game or within the past 90 days;
+
+In short, "if A, if B, or if C": there was debate over whether this
+means "if A, [and] (if B or if C)", or just "if A, or if B, or if C".
+
+Grammatically, the latter seems more plausible, as "A, B,
+[conjunction] C" is a standard way to write lists in English: the
+conjunction is usually "and" but "or" works too.  Two random examples
+from different sources:
+
+      "Use commas to separate three or more words, phrases, or clauses
+      in a series."
+
+      "input source: The device, file, block, or other entity that
+      supplies characters to refill the input buffer."
+
+We don't usually write "A or B or C".  When all the clauses start with
+"if", we do sometimes write "if A, or if B, or if C", but "if A, if B,
+or if C" is still grammatical and common.  Indeed, it can arguably be
+seen as more grammatically correct.  Examples:
+
+      "An ambiguous condition exists if fileid is invalid, if there is
+      an I/O exception reading fileid, or if an I/O exception occurs
+      while closing fileid."
+
+      "CG_INVALID_PARAMETER_ERROR is generated if name is NULL or not
+      a valid identifier, if type is not a simple scalar, vector, or
+      matrix-type, or if nelements is not a positive number."
+
+Given that this construction is not only grammatically correct, but
+arguably the 'most correct' way to express such a list, it would only
+be reasonable to pick the alternate interpretation if the usual R217
+factors strongly favored it, e.g. if the rule didn't make sense
+otherwise.  In this case, the rule basically makes sense either way,
+although under the "A and (B or C)" interpretation, where only the
+ADoP can take advantage of that clause, the language seems somewhat
+awkward to me.  Usually we would prefer to say "The ADoP CAN initiate"
+rather than "A player CAN initiate ... if e is the ADoP".  That
+applies to both interpretations, but under the "A and (B or C)"
+interpretations, we could write something like
+
+      An election generally CAN be initiated only for an elected
+      office for which no election is already in progress.
+
+      The ADoP CAN initiate an election for a specified office by
+      announcement, if the office [...]
+
+      Any player CAN initiate an election for a specified office by
+      announcement.
+
+...whereas under the "A or B or C" interpretation, splitting each of
+the enabling conditions (ADoP, deputised, no election recently, with 4
+support) into its own clause would result in 4 different paragraphs
+repeating "initiate an election for a specified office", which feels
+considerably more verbose than repeating it just twice.
+
+Anyway, that doesn't really matter, because there's a different R217
+factor strongly in favor of "A or B or C": game custom, in the form of
+past versions of Rule 2154, along with what passes for legislative
+history.  The language in question dates back to 2009, when Proposal
+6411 inserted this text:
+
+     A player CAN initiate an election for a specified elected office
+     for which no election is already in progress
+
+       a) by announcement, if e is the IADoP, or the office is vacant,
+          or no election has been initiated for the office within 90
+          days before the announcement;
+
+       b) with 4 Supporters, otherwise.
+
+which unambiguously specifies "A or B or C".  Later the rule was
+amended to remove the "vacant" option, so it was down to just "A or
+C"; then in 2014, Proposal 7658 was adopted:
+
+--
+ID: 7658
+Title: Election Danger
+Author: scshunt
+Adoption Index: 2
+
+Amend Rule 2154 (Election Procedure) by replacing
+      a) by announcement, if e is the IADoP, or no election has been
+         initiated for the office within 90 days before the
+         announcement;
+with
+      a) by announcement, if e is the IADoP, if the office has been
+         deputised for within the past two weeks, or if no election has
+         been initiated for the office either since the last time a player
+         won the game or within the past 90 days;
+
+[Add two ways to shake up offices a bit more. A mad scramble for
+elections after a win could be interesting and will possibly lower
+incumbent advantage, since offices represent such a huge source of
+points.]
+--
+
+The result is the same as the current version of the clause, except
+with the old name for ADoP.
+
+The proposal annotation purports to "add two ways to shake up
+offices".  Under the "A or B or C" interpretation, it does add two
+ways: 'office has been deputised for' and 'no election since last win'
+(as opposed to in the last 90 days).  Under the "A and (B or C)"
+interpretation, it instead makes it much *more* difficult to shake up
+offices, as now there are no conditions under which random players can
+initiate elections by announcement.
+
+Knowing scshunt, there's a slight chance that the proposal annotation
+was meant as intentional deception, as part of a scam.  However,
+scams, to be successful, need to be supported by exceptionally clear
+language in the rules, because judges will typically try their best to
+rule against them under various R217 grounds.  A phrase which could be
+interpreted perfectly well in the intended way, in addition to a
+(hypothetically) scammy way, would be a very poor basis for a scam.
+Thus I believe scshunt did not intend the proposal to be a scam: he
+expected the text to be interpreted as "A or B or C", and so (of
+course) did the other players who voted for it.
+
+Thus, game custom is also in favor of "A or B or C".  I judge that
+this is the correct interpretation.
+
+Finally, to check the facts: in the 30 days prior to 27 June, there
+was an attempt to initiate elections for Secretary, Superintendent,
+and Tailor, but no others.  Prime Minister, Herald, and Reportor are
+all elected offices, and I judge that V.J. Rada's typo in "Report or"
+is insignificant.  Finally, V.J. Rada appears to have been a player at
+the time.
+
+TRUE.
+
+========================================================================
+

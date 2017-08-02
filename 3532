@@ -1,0 +1,219 @@
+==============================  CFJ 3532  ==============================
+
+      Shinies are assets.
+
+========================================================================
+
+Caller:                       omd 
+
+Judge:                        Aris 
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by omd:                28 Jun 2017     
+Assigned to Aris:             29 Jun 2017
+Judged TRUE by Aris:          08 Jul 2017                  
+Motion to Reconsider filed:   10 Jul 2017
+Judged TRUE by Aris:          23 Jul 2017
+
+========================================================================
+
+Caller's Arguments:
+
+The recently resurrected rule 2166 says:
+
+      An asset is an entity defined as such by a rule (hereafter its
+      backing document), and existing solely because its backing
+      document defines its existence.
+
+The latest version of Rule 2483 (Economics) purports to define shinies
+as assets, but does it satisfy the second condition?  The meaning of
+"because" here is somewhat ambiguous, but I suggest a useful test is
+whether an entity would cease to exist if, hypothetically, its backing
+document (rule) were repealed.  In this case, shinies are primarily
+defined by Rule 2483, but are also explicitly mentioned in Rule 2491
+(Estate Auctions) and Rule 2484 (Payday).  For example:
+
+      At the start of each month, if Agora's Balance is not 0 or less,
+      Agora SHALL pay each player 10 shinies.
+
+(There are also references to "Balance" in Rules 2485 and 2487.)
+
+If Rule 2483 were repealed, it seems likely that the mentions of
+"shinies" (perhaps "Balance" as well) in those rules would still be
+interpreted as referring to game-defined objects, given the lack of
+any obvious alternative referent.  That would probably be sufficient
+to establish shinies as a part of the gamestate, and (given the lack
+of any intermediate period in which they're not defined) preserve the
+existence of shinies existing prior to the repeal.  Thus shinies fail
+the test: they wouldn't cease to exist if Rule 2483 were repealed.
+Does that mean they don't exist "solely because" of Rule 2483, and
+hence are not assets?
+
+See also: CFJs 1922 and 2309, which addressed that clause but wrt
+assets defined by contracts, not rules.
+
+========================================================================
+
+Judge Aris's Arguments:
+
+This call for judgment inquires whether the "existing solely" clause
+(hereinafter The Clause) of Rule 2166, which defines assets, prevents assets
+referenced by multiple rules from existing. I turn first to the relevant text
+of the rule, which is as follows:
+
+  An asset is an entity defined as such by a rule (hereafter its backing
+  document), and existing solely because its backing document defines its
+  existence.
+
+Clearly The Clause prevents, say, the sun from being defined as an asset. This
+is good, because if the sun could be an asset the rules might make it
+destructible, and then we'd be forced to accept, for game purposes, that there
+was no sun. It would be even more problematic if we accepted persons, and
+therefore players, as assets. Obviously the rules are free to make such
+definitions anyway (although we might argue over whether they would have any
+effect, considering the interests of the game). However, in the past
+we've allowed contracts to define assets, explaining the necessity of such
+restrictions.
+
+The Clause prevents another class of situations as well. It prevents
+two different rules from defining the same asset. In older forms, it has done
+the same for a rule and a contract (CFJs 1922-1923). The question raised here is
+whether even referencing an asset would create such a situation. This raises
+interesting questions about the way we interpret the rules. It has long been
+understood that even if a term used in the rules is undefined, we are obliged to
+try our best to figure out what it means. Thus, even without the rule defining
+shinies, we would "interpret them into existence". Without shinies, pending
+would be impossible, and we would be unable to pay out salaries, among other
+problems. So, it is apparent that we might consider shinies existent even
+without the intervention of their defining rule, arguably triggering The Clause.
+
+The historical interpretation of The Clause, however, does not support this
+argument. There are no precedents that clearly apply to this situation, although
+in CFJ 3381 the Honorable Judge ais523 appears to assume in passing that such
+things are possible. But our current situation is not unprecedented, there are
+merely no applicable _judicial_ precedents. Rule 2166 is not a new rule. It was,
+in fact, a rather aged rule at time it was repealed, and it only seems new to
+us because of its recent reenactment. One example of a similar situation is the
+point, which was the general unit of currency under this [1] ruleset. I can find
+no record of anyone complaining that they didn't exist.
+
+If we were to ignore history, would we find? Well, the idea that we interpret
+terms in the rules in a way that gives them effect is largely a matter of
+tradition. No rule says that, in the absence of a definition from either
+conventional English or the rules, we have to try to interpret the rules the way
+they are intended to be read. Another consideration is the interests of the
+game; certainly it would seem to be in the game's best interest to have a
+definition for shinies, and all of the clarifications of their behavior that
+come with it.
+
+I know all the Platonists (if that is the right term, perhaps Logicians would
+be better) in the crowd out jeering at me for refusing to consider the matter
+logically, a priori, from the wording on up. I will therefore close with two
+arguments that I hope will placate them. First, the doctrine that the rules and
+the terms in them must be given meaning in accordance with common sense exists
+to make the game playable. If every typo or invented but undefined term stopped
+the game, then the game would long since have ended. We have to keep playing,
+and in order to keep playing, we often need to interpret the rules the way they
+are intended to be read. The core thesis of the doctrine is that the rules need
+to have their common sense meaning; using it to rob the rules of what they are
+plainly intended to mean violates that principle. It would essentially be using
+the doctrine to violate its own basis for existence.
+
+Second, and perhaps most convincingly, the argument that the rules conflict
+with each other is only valid under circumstances that are themselves internally
+inconsistent. If we view the rules Platonically/logically, then only one rule
+attempts to define assets. If we consider the rules Pragmatically/legally, then
+their common sense intent shines through. It is only when we look at one rule
+one way and another rule another way that a contradiction between rules arises.
+As it is a longstanding principle of rule interpretation that, if reasonably
+possible, we will attempt to construe the rules so that no contradiction occurs,
+it is sensible to here use the only consistent interpretation, which also
+happens to be the only one that doesn't violate the plain meaning of any of
+the rules in question.
+
+I conclude my judgment by noting that there may in fact be one judicial
+precedent that has some real bearing on this situation. Once there was a
+contract that defined an asset called a "prop". I don't really know the details
+of the situation, but even after the contract stopped existing, people still
+acted like props existed. They were informally handed around and reported on,
+as if they still existed. Later that contract was brought back, and a CFJ was
+called to inquire into whether The Clause prevented them from being assets.
+I realize that this is completely different from our current situation, and
+that principles of rule interpretation are stronger and more established
+than most informal traditions. Still, both are matters of tradition and
+the collective imagination, and the fact remains that the one line verdict
+of CFJ 2344, which to the best of my knowledge has not been overturned, judged
+that props were a valid asset.
+
+I judge CFJ 3532 TRUE.
+
+[1] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2008-July/004749.html
+
+
+========================================================================
+
+Judge Aris's Arguments:
+
+(on Motion to Reconsider)
+
+Addendum to my previous verdict, available here [1]
+
+omd has moved that I reconsider my judgment, requesting that I show my chain
+of logic and how my reading is consistent with the rule. There are several
+ways the current rule is ambiguous. I thank ais523 for showing that the rule
+text doesn't make a clear distinction between an asset and a type of asset,
+which may lead to disturbing ambiguities. I also briefly considered arguing
+that the definition of 'exist' is unclear (some dictionaries mention objectivity
+as a criterion). However, after several weeks of reflection, I believe I have
+found an interpretation that doesn't even require the rule to be ambiguous,
+although if it is, Rule 217 favors this interpretation as I showed in my
+original verdict.
+
+Rule 2166 states that assets must be "existing solely because its backing
+document defines its existence." In the caller's arguments, e suggested that "a
+useful test [for determining whether an asset complies with The Clause]
+is whether an entity would cease to exist if, hypothetically, its backing
+document (rule) were repealed." The caller was right that this test is useful
+in many cases, but it is misleading to apply it in this one. The problem is that
+"existing" is the present participle of the verb "to exist". It is thus asking
+a question about what is causing the asset to exist right now, not under
+hypothetical circumstances. To illustrate the problem, imagine two power 1.0
+rules, A and B, as follows:
+
+  Rule A
+  Marks are an asset.
+
+  Rule B
+  If no other rule defines marks, then they are an asset [alternately, an entity
+  with X properties, it doesn't matter].
+
+Are marks an asset? Yes, because currently only Rule A attempts to define them.
+This is true despite the fact that if Rule A were repealed, Rule B would take
+over and define them instead. I will refer to Rule B as being "dormant".
+
+Obviously, the current case is not so clear, or we probably wouldn't be here
+arguing about it. Rule 2483 says "shinies (sg. shiny) are an indestructible
+liquid currency [a type of asset]..." Other rules refer to them, and may
+imply things about their properties. However, we do not generally believe that
+these rules are causing them to exist. The rule that defines shinies is Rule
+2483. Other rules may regulate their behavior, or even expand on their
+properties, but to interpret these rules to define them requires us to read in
+something that is nowhere in their text. The situation would change
+significantly if Rule 2483 were repealed. Then, in order to make the statements
+within those rules true, we would have to interpret the statements as acting
+like a definition, and we would be forced to suppose most of the properties
+of shinies in accordance with Rule 217. This is not the case at present,
+and the defining potential of these rules, the potential to cause shinies to
+exist, is dormant.
+
+I reinstate and affirm my previous judgement of TRUE.
+
+[1] https://www.mail-archive.com/agora-business@agoranomic.org/msg28843.html
+
+
+========================================================================
+
