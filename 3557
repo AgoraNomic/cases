@@ -1,0 +1,124 @@
+==============================  CFJ 3557  ==============================
+
+      My most recent attempt to flip the Floating Value to 22 was 
+      ineffective.
+
+========================================================================
+
+Caller:                       o  
+
+Judge:                        Aris
+Judgement:                    FALSE
+
+========================================================================
+
+History:
+
+Called by o:                  04 Sep 2017         
+Assigned to Aris:             05 Sep 2017     
+Judged FALSE by Aris:         13 Sep 2017
+
+========================================================================
+
+Gratuitous Arguments by G:
+
+The issue is that, the way the rule is written, it's unclear whether it
+was IMPOSSIBLE or merely ILLEGAL.
+
+Is there a "SHALL implies CAN by announcement" in the ruleset currently?
+If not, is it in precedent, and does it mean the implied SHALL NOT is
+a CANNOT, or merely a SHALL NOT?  And does the timing of the report
+publication (second time in a week) matter?
+
+Rule text:
+       Floating Value is a natural switch. When e publishes eir Weekly
+       Report, the Secretary SHALL flip the Floating Value to Agora's
+       shiny balance.
+
+========================================================================
+
+This case boils down an interpretation of the application of Rule 2152
+("Mother, May I?") to Rule 2497 ("Floating Value"). The full text of both
+rules is in the evidence below. To summarize the situation, the main questions
+of the case are:
+
+  1. Can the Secretary ever set the floating value?
+  2. Can the Secretary set the floating value incorrectly?
+
+
+The problem is that the rule never directly allows the Secretary to set the
+floating value. Instead, it provides that "[...] the Secretary SHALL flip the
+Floating Value to Agora's shiny balance." There are several interesting
+precedents about whether SHALL implies CAN, all arising from cases called by G.
+CFJ 2120 states (apparently in accordance with previous precedent which I
+couldn't find) that, where there is a SHALL without any reasonable mechanism to
+fulfill it, it implies CAN by announcement. This resolves question 1 in the
+affirmative. The same case also ruled that where time limits are specified, 
+they apply to the SHALL, but not the CAN. This arrangement was specified to
+cause the deputization rules to continue working, and is affirmed.
+
+A second precedent comes from CFJ 2412. There, it was ruled that were
+one rule says "SHALL" (but not CAN) and a second rule says "SHALL NOT"
+(but not CANNOT) the implied CAN still works.
+
+Neither of these cases address required circumstances other than time.
+I think that given that this whole business is based on common law
+interpretation of implications, the primary guideline is to figure out
+what exactly the rule is implying. In cases like this one, where
+the rule is essentially "X SHALL do Y correctly", the correctness
+of the action is essential to its success. If the rule was attempting
+to specify so complex a concept as 'X CAN do Y, and SHALL do so correctly'
+it would have said so. Note that this is completely different from cases
+where the rule specifies when the condition is one of encouragement (such
+as making it mandatory to do Y within a certain time), rather than limitation.
+Question 2 is accordingly answered in the negative. I note that while
+this ruling is clearly against the interests of the game in this specific case,
+it is likely to be helpful in many other cases. I judge this CFJ FALSE.
+
+========================================================================
+
+Judge's Evidence:
+
+Rule 2497/0, "Floating Value", Power 1.0:
+
+  Floating Value is a natural switch. When e publishes eir Weekly Report, the
+  Secretary SHALL flip the Floating Value to Agora's shiny balance.
+
+Rule 2152/7, "Mother, May I?", Power 3.0:
+
+
+    The following terms are defined.  These definitions are used
+    when a rule includes a term in all caps, and provide guidance in
+    determining the ordinary-language meaning of a term when a rule
+    includes a term otherwise.  Earlier definitions take precedence
+    over later ones.  If a rule specifies one or more persons in
+    connection with a term, then the term applies only to the
+    specified person(s).
+
+    1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
+       perform the described action are unsuccessful.
+
+    2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED: Performing
+       the described action violates the rule in question.
+
+    3. NEED NOT, OPTIONAL:  Failing to perform the described action
+       does not violate the rules.
+
+    4. SHOULD NOT, DISCOURAGED, DEPRECATED:  Before performing the
+       described action, the full implications of performing it
+       should be understood and carefully weighed.
+
+    5. CAN: Attempts to perform the described action are successful.
+
+    6. MAY: Performing the described action does not violate the
+       rules.
+
+    7. MUST, SHALL, REQUIRED, MANDATORY:  Failing to perform the
+       described action violates the rule in question.
+
+    8. SHOULD, ENCOURAGED, RECOMMENDED:  Before failing to perform
+       the described action, the full implications of failing to
+       perform it should (in the ordinary-language sense) be
+       understood and carefully weighed.
+
+========================================================================

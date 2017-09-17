@@ -8,9 +8,8 @@ Caller:                       Publius Scribonius Scholasticus
 
 Judge:                        Sprocklem
 
-Judge:                        Quazie
-
-Judgement:                    
+Judge:                        G.
+Judgement:                    TRUE
 
 ========================================================================
 
@@ -18,6 +17,9 @@ History:
 
 Called by Publius Scribonius Scholasticus:   20 Jun 2017                  
 Assigned to Sprocklem:                       21 Jun 2017
+Sprocklem Recused:                           14 Sep 2017
+Assigned to G.:                              14 Sep 2017
+Judged TRUE by G.:                           15 Sep 2017
                
 ========================================================================
 
@@ -102,5 +104,77 @@ The Registrar
       The Registrar is also responsible for tracking any switches that
       would otherwise lack an officer to track them, unless the switch
       is defined as untracked.
+
+========================================================================
+
+Judge's Arguments:
+
+I'm taking it as self-evident that the verb "to register" and "to
+deregister" are generally synonymous with "flipping the Citizenship
+switch to the indicated value (Registered or Unregistered)."  This is
+implicit from context in R869, but not explicitly defined (there are
+alternate interpretations, but they don't hold up under scrutiny; I can
+add an aside if challenged).
+
+So the question is, does the verb "to register" in Rule 869 mean
+"flipping the Citizenship switch from Unregistered to Registered", or
+does it include "setting the Citizenship switch to Registered, even if
+it's already set to Registered"?
+
+Or in general, if you purport to flip a switch to X by announcement, and
+it's already in X, have you "flipped the switch" for legal purposes
+(assuming you CAN switch it to X if it was not X, of course).
+
+Rule 2162/2 reads:  "To flip an instance of a switch" is to make it come
+to have a given value. "To become X" (where X is a possible value of
+exactly one of the subject's switches) is to flip that switch to X."
+
+Rule 2162 is explicit, and if a person tries to flip a switch to X, when
+it was already at X, that person can't be said to have "made the switch
+to come to have that value."  You can't become something you already
+are.  This is consistent with common usage:  if I touch a light switch
+that's already on, and someone asks "did you turn on that light?", the
+correct answer would be no.
+
+For other practical game effects, if you tried to pay a fee to flip a
+Proposal to pending, and it was already pending, you'd probably not want
+to lose the money, and the general consensus is that the whole
+transaction fails (note, this has not been fully adjudicated, this is a
+consensus from discussion).
+
+For registration in particular, since registration is only implicitly
+defined, we can look at the common definition:  "to enter or cause to be
+entered formally in a register." or "to enroll (a student, voter, etc.)
+in a school or course of study, on the voting rolls, etc."  Since we
+subscribe to the "one person = one player" (i.e. no avatars) theory, if
+you tried to register twice, it would be pointed out that your name is
+already in the registrar's report as enrolled, and you would have done
+nothing.
+
+There is one issue with the "you must change a switch to have flipped
+it" interpretation.  There are instances in the Rules that an Officer is
+required to flip a switch to a certain value.  If the switch already has
+that value, and "flipping it to the same value" doesn't count as
+flipping it, then the Officer CANNOT perform eir duty.  In fact, if the
+switch later comes to have a different value, someone could deputize for
+the old duty to set it back. This is an unfortunate consequence.
+
+However, a look at the rules says this is a minor problem (compared e.g.
+to forcing people to lose currency for no-op transactions), and easily
+fixed with a specific text addition to the rules such as "if a person is
+REQUIRED to flip a switch to a certain value, and it is already at that
+value, then attempting to flip it to that value, or announcing that is
+it at that value, fulfills the duty."  There are no switches so urgent
+that things will break in the mean time.
+
+So in balance, the "no change" = "no flip" is textually correct, and
+also, on balance, in the better interests of the game.
+
+So, to sum up.  R869 says "A person CAN (unless explicitly forbidden or
+prevented by the rules) register".   If a person is already registered,
+the Switches rule generally prevents em from doing so again.
+
+For this CFJ, the recent attempt of omd to register failed, and eir
+registration date is the 3rd of February, 2011.  I find TRUE.
 
 ========================================================================

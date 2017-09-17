@@ -8,7 +8,7 @@
 Caller:                       CuddleBeam           
 
 Judge:                        Quazie
-Judgement:                    
+Judgement:                    FALSE
 
 ========================================================================
 
@@ -16,6 +16,7 @@ History:
 
 Called by CuddleBeam:         20 Jul 2017                    
 Assigned to Quazie:           21 Jul 2017       
+Judged FALSE by Quazie:       25 Aug 2017     
 
 ========================================================================
 
@@ -51,3 +52,13 @@ is Ais523, to Ais523."), until I have done the sequence for all Players
 
 ========================================================================
 
+Judge's Arguments:
+
+[delivered on behalf of Quazie by G.]
+
+If I issue you a trust token, you have been issued a trust token by me,
+even if I claim it was issued by someone else (excepting situations like
+Agencies, for which there is no evidence in this case).  This is
+straightforward language use.  FALSE.
+
+========================================================================

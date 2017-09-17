@@ -1,26 +1,128 @@
-==============================  CFJ XXXX  ==============================
+==============================  CFJ 3429  ==============================
 
-
+      Rule 2437 contains the text "omd CAN cause this rule to amend 
+      itself by announcement."
 
 ========================================================================
 
-Caller:                       
+Caller:                       omd 
 
-Judge:                        
-Judgement:                    
+Judge:                        G. 
+Judgement:                    FALSE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by omd:                30 Sep 2014    
+Assigned to G.:               02 Oct 2014       
+Judged FALSE by G.:           09 Oct 2014
+
+========================================================================
+
+(historical note:  The judgement of FALSE by G. was entered into Moot,
+but due to bugs in the Moot process, the Moot failed and the judgement
+remained - see CFJ 3438 for details).
 
 ========================================================================
 
 Caller's Arguments:
 
+           It was sent 6 hours before the traditional 4 day waiting
+period considered sufficient for public notice.  However, this
+deadline is not set in stone by any rule; the relevant clause merely
+reads that:
 
+      A rule change which would otherwise take effect without its
+      substance being subject to general player review through a
+      reasonably public process is wholly prevented from taking
+      effect.
+
+While it may be best practice to wait 4 days, it seems implausible to
+me that in any practical sense anyone has been deprived of the
+opportunity to review this change by only having 90 hours rather than
+96 hours.
+
+From a more theoretical perspective, while the 4 day number is based
+on dependent actions, deputisation currently has a 2 day minimum wait,
+implying that a mere 2 days is sufficient for some partial notice
+(e.g. to the former officeholder, who is about to be deposed, or
+perhaps to anyone else who might notice errors in the intended report,
+to avoid confusing the issue - I can't speculate what the original
+intent of that waiting period was.)  Compared to that, 90 hours is an
+eternity.
 
 ========================================================================
 
+Judge G.'s Arguments:
+
+The clause in question reads:
+      A rule change which would otherwise take effect without its
+      substance being subject to general player review through a
+      reasonably public process is wholly prevented from taking
+      effect.
+     
+In order to interpret this clause in the current Ruleset, it's important
+to look at its history.
+
+When this clause was written as part of Rights, it was part of a
+deliberate attempt to make Agora the "top agreement" in a world of
+possible agreements.  In that sense, "agreements subject to review"
+might include everything from Agoran Rules, to painfully-explicit
+regulatory text, to handshake deals - basically anything that one or
+more parties wanted to bring to Agora to adjudicate. 
+
+In this sense, it was expected that "reasonable review" would be
+extremely contextual.  For an agreement of two parties, "hey, would you
+trade me 1 wheat instead of 2 corn like we agreed to?"  "sure." is all
+you need.  However, an extremely formal contract, or especially a sub-
+Nomic, might require looking at detailed procedural loopholes and
+multistep processes.
+
+While "reasonable" differed between contract types, it did not tend to
+differ within a contract type.  For example, you wouldn't suddenly
+start treating a very formal contract like a handshake deal (or vice
+versa) as was convenient. 
+
+However, given that the Clause governed both formal and informal
+processes, it was inevitable that they mix.  To that end, a "general
+understanding" (or custom) was formed that, if a formal process was
+lacking in "reasonable review", one could essentially spawn an informal
+sub-agreement, e.g. posting the rule change text with clear intent. 
+This "mixing" of formal and informal within a single context of the
+"Agoran Rules Agreement" was not formally recognized, but was generally
+accepted.
+
+However, that text has been moved, and the context of Agora being the
+adjudicator of other agreements is gone.  The text is now in R105 under
+the context of Rule Changes only, and informal agreements in general are
+no longer an "official" (that is, enforceable in court) part of Agora.
+
+Under the new rules, it's important to ask:  does that "reasonably
+public process" apply to this sort of mixed process, or does it apply
+to rules-defined processes only?   
+
+If the former, we can go down the line of deciding whether 4 days is the
+minimum reasonable time.  (I have no problem deciding on a minimum
+explicit time limit for the rule in question, and in this specific case,
+I'd choose 4 days).
+
+If the latter, we'd apply the standard to Rule authorizing the Rule
+Change ("by announcement"), and say that, since "by announcement" is
+inadequate, no amount of informal process can fix it, and the attempt
+fails[*].
+
+I think, honestly, that there's arguments for both sides, and this is
+a good opportunity for a Moot. 
+
+But my personal interpretation is that the new context is formal, for
+reasons I'll give during the (expected) Moot.  Under that, I judge this
+statement FALSE. 
+
+[*] One special edge case:  If the complete text of a Rule Change is
+specified in a Rule and needs no substitutions; (e.g. "the Officer CAN
+cause this rule to repeal itself by announcement"), then this "future
+change" is reviewed during the process that inserts that text  (e.g. via
+the proposal that did so).
+
+========================================================================

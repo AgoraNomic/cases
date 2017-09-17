@@ -1,26 +1,72 @@
-==============================  CFJ XXXX  ==============================
+==============================  CFJ 3428  ==============================
 
-
+    If a player X deputises for the IADoP to resolve an IADoP election,
+    and the winner of the election is a player Y other than X, then,
+    one second after the deputisation, barring any intervening effects,
+    Y will be the IADoP.
 
 ========================================================================
 
-Caller:                       
+Caller:                       Warrigal         
 
-Judge:                        
-Judgement:                    
+Judge:                        Sprocklem
+Judgement:                    TRUE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Warrigal:           24 Aug 2014         
+Assigned to Murphy:           04 Sep 2014
+Murphy Recused:               02 Oct 2014
+Assigned to Sprocklem:        02 Oct 2014
+Judged TRUE by Sprocklem:     03 Oct 2014                  
 
 ========================================================================
 
 Caller's Arguments:
 
-
+    Y certainly has a better claim to the office than X, so the Rule
+    2154 effect ought to happen after the Rule 2160 effect.
 
 ========================================================================
 
+Caller's Evidence:
+    Rule 2154 "Election Procedure" says that Y becomes the IADoP, but
+    Rule 2160 "Deputisation" says that X becomes the IADoP.
+
+========================================================================
+
+Judge Sprocklem's Arguments:
+
+The first relevant rule here is Rule 2160: Deputisation, which reads:
+> Any player (a deputy) CAN perform an action as if e held a
+> particular office (deputise for that office) if all of the
+> following are true:
+> 
+> [...]
+> 
+> When a player deputises for an elected office, e becomes the
+> holder of that office.
+
+Note here that the player becomes the holder WHEN e deputizes, not after.
+
+The second relevant rule, Rule 2154: Election Procedure, reads:
+> Upon the resolution of this decision, its outcome, if a player,
+> is installed into office, and the election ends.
+
+
+Note here that the elected player becomes, unconditionally, the
+officeholder WHEN the decision is resolved.
+
+Lastly, Rule 478: Fora reads:
+> Actions in messages (including sub-messages) are performed in
+> the order they appear in the message, unless otherwise specified.
+
+Keeping these timings in mind, and the fact that the deputisation occurs
+before resolution, the elected player must take over the office from the
+deputising player, ending up with the office.
+
+I judge CFJ 3428 TRUE.
+
+========================================================================

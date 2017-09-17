@@ -1,26 +1,442 @@
 ==============================  CFJ 3534  ==============================
 
-     (Placeholder text until I get to a better text editor for UTF-8)
+      In the below quoted message, a CFJ was initiated on the phrase 
+      'I call for judgement on the following statement'.
 
 ========================================================================
 
-Caller:                       
+Caller:                       Quazie                       
 
-Judge:                        
-Judgement:                    
+Judge:                        ais523                     
+Judgement:                    FALSE                    
+Judgement:                    FALSE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Quazie:             28 Jun 2017         
+Assigned to ais523:           29 Jun 2017       
+Judged FALSE by ais523:       29 Jun 2017    
+Entered into Moot:            29 Jun 2017
+Remanded to ais523 by Moot:   07 Jul 2017
+Judged FALSE by ais523:       14 Jul 2017
 
 ========================================================================
 
-Caller's Arguments:
+Caller's Evidence:
 
+On Wed, Jun 28, 2017 at 16:16 Kerim Aydin <kerim@u.washington.edu> wrote:
 
+I call for judgement on the following statement : أدعو إلى إصدار حكم بشأن البيان التالي
 
 ========================================================================
 
+Judge's Arguments (pre-Moot):
+
+The arguments so far have hinged on the message in question being
+ambiguous, but is that really the case? I believe that, given the
+method via which it was sent, the original message cannot reasonably be
+interpreted as being in Arabic.
+
+What's notable here is that an encoding of text can convey the meaning
+of the text in two different ways; either using a visual ordering, in
+which the sequence of bytes is corresponds to the positions of the
+individual characters on the page; or a logical ordering, in which the
+sequence of bytes corresponds to the order in which the characters they
+represent have meaning (i.e. bytes that appear earlier in the byte
+stream correspond to letters closer to the start of words, words closer
+to the start of sentences, and so on). A visual ordering would not help
+resolve the ambiguity in respect to the CFJ. A logical ordering would,
+though, as the bytes are conveying not only the appearance of the text
+in this case, but also the intended reading order.
+
+The standard referenced in the message for the understanding of the
+bytes it contains is ISO-8859-6 (which cannot be obtained from ISO
+without payment, but Ecma have a standard Ecma-114 which they claim is
+equivalent). The body of the standard contains no opinion on whether
+the text it's used to represent is in logical or visual order. However,
+email clients in practice appear to interpret it as being in logical
+order; in my client, the bytes <C3><CF><D9><E8>, corresponding to the
+Arabic letters «أ» then «د» then «ع» then «و», are rendered as the
+Arabic word «أدعو» (in other words, they're rendered right to left, the
+normal logical order of Arabic, and the opposite order that they appear
+in the bytestream).
+
+The word in question is a real Arabic word, translating to "I invite" /
+"I call" / "I appeal". If we reverse the order of the letters, to get
+«دعوأ», this is no longer a real Arabic word, strongly implying that
+the message was meant to be in logical order; if the message were meant
+to be in visual order, the Arabic text would therefore have been
+written backwards (i.e. left to right, when right to left is the
+language's normal writing order).
+
+I can also see how my email client interprets the message by asking it
+to word-wrap it:
+
+I call for judgement on the following statement : أدعو إلى إصدار حكم
+بشأن البيان التالي
+
+This word-wrapping is clearly incompatible with an Arabic
+interpretation of the message, as it would have split the Arabic in
+half with some English text in the middle.
+
+In other words, I'm not seeing any sensible way to interpret the
+English text as coming "after" the Arabic text. The message itself
+contains an indication that the Arabic text comes second.
+}}}
+
+I judge CFJ 3534 ("In the below quoted message, a CFJ
+was initiated on the phrase 'I call for judgement on the following
+statement'") FALSE, and CFJ 3535 ("In the below quoted message, a CFJ
+was initiated on the phrase 'أدعو إلى إصدار حكم بشأن البيان التالي'")
+TRUE.
+
+========================================================================
+
+Judge's Arguments (post-Moot):
+
+CFJ 3534 was remanded, so here's the new judgement. I'm beginning to
+think I should just mark every judgement I make as a thesis; this one's
+certainly long enough to count…
+
+I didn't realise at the time of the original judgement that this case
+was going to be such a big deal. Thinking about it, though, it speaks
+to a pretty fundamental issue: what it means, precisely, to communicate
+via email. There are a number of intertwined issues here:
+
+ * Whether game-relevant actions can be taken in languages other than
+   English and Spivak
+ * Whether the intent of the poster of a public message poster matters
+   when interpreting the message
+ * What portions of a message, other than the basic appearance of its
+   text, are relevant when interpreting the message
+
+I'll start off with the issue about the language: is it possible to
+take actions in languages not commonly used in Agora? Contrary to what
+many people have suggested in the discussion fora, it seems that
+there's a long history of this type of action succeeding; for example,
+CFJ 1439 found that an action in Turkish, with an accompanying
+translation in the message, was capable of succeeding. CFJ 1460
+subsequently found that an action in Turkish, with an accompanying
+translation, was not capable of succeeding.
+
+The translation was probably needed in this case, though. Here's what I
+assume the Turkish sections of the messages in question were meant to
+look like:
+
+Bir tane 'Blot'u benden zefer taraftarle, aklamağım amaçım size
+bildiriyorum. Zefer taraftarle, ben bir tane 'Blot'u benden
+aklamağım.
+
+Bu demeçin kararı için ben bağırım:  Bu bir bağırış kararı için
+değil.
+
+And here are machine translations of those corrected messages:
+
+I will inform you of one of my goals, "Blot", from the side of me.
+Zefer supporters, I have laid one 'Blot' on me.
+
+For the sake of this statement I am a coward: it is not a shouting
+decision.
+
+Even nowadays, those actions would be very hard to interpret for a
+typical Agoran player without the translation. As an example, I assume
+from context that "zefer" (left untranslated by a machine-translator)
+means "zero", but I couldn't find the word in question in my usual
+dictionary (which lists words in a wide range of languages, thus
+allowing you to look up a word without knowing which language it's in),
+and could not easily find definitions of the word via a search engine
+either. (I found a website claiming that the word means "zero" in Dari,
+a language spoken in Afghanistan, but the website in question did not
+give a meaning for the word in Turkish specifically.) This is, of
+course, most likely due to asymmetries in the Internet coverage of
+various languages – modern machine translators work via imitating
+translations made by humans, and as shown by the searches, there isn't
+a lot of source material for Turkish – but the conclusion is still much
+the same; a player of Agora has little chance of being able to
+interpret a message written in this particular style Turkish without
+the aid of a native speaker, given that the words used aren't in
+typical dictionaries, visible via basic Internet searches, or found via
+machine translators. (For what it's worth, the translator I used gives
+the Turkish translation for «zero» as «sıfır», a word that's much more
+commonly used and reliably translated.)
+
+So there's reasonable uncertainty about what the statements in question
+meant. Providing a translation clears that up, but if Agorans in
+general have no way to understand what the action does, it's
+ineffective because information hasn't been communicated. In Agora, we
+perform (most) actions by stating that we perform them, the "by
+announcement" mechanism. Notably, this means that it's the meaning of
+the message that matters, not the way in which it's stated. And there
+doesn't seem to be much reason to doubt the precedent that actions that
+can't generally be understood by the Agoran population with reasonable
+effort can't succeed.
+
+What about languages which are easier to translate? Arabic is a good
+example here. Take the Arabic portion of G's more recent message:
+
+أدعو إلى إصدار حكم بشأن البيان التالي
+
+and a machine translation of it:
+
+I call for a ruling on the following statement
+
+This is much clearer than the Turkish was! I think every Agoran is
+likely to easily interpret this as referring to a call for judgement
+(an interpretation made all the clearer by the rest of the post). In
+this case, the language in which the message has been written isn't a
+barrier to communication; for widely-used languages like Arabic,
+machine translation is high-quality these days, and most Agorans are
+highly likely to understand the statement. (This is likely to happen
+even if English is not the native language of the Agoran in question;
+for example, if we machine translate the Arabic in question directly
+into Japanese (a language which at least one Agoran appears to favour),
+we get:
+
+私は、次の文で判断を下すために呼び出します
+
+which is clear enough that even re-machine-translating it into English,
+as "I call to make a judgment with the following sentence", still
+clearly refers to a CFJ.)
+
+All in all, then, I don't believe the precedents with respect to
+language usage need to change. CFJ 1460 holds that a player cannot
+incur an obligation from a message e is incapable of understanding. I'd
+prefer to generalise that a bit: a message is incapable of
+communicating information, and thus of taking actions which require the
+communication of information to function, unless Agorans in general are
+capable of understanding what it means. Note that this means that over
+time, as dictionaries become more comprehensive and machine translation
+becomes more effective, the range of languages which can be used for
+Agoran actions increases, because the amount of effort required to
+understand a particular language will become lower. Incidentally, this
+also means that messages are interpreted on a case by case basis,
+rather than languages as a whole being allowed or disallowed; it's easy
+to imagine a situation in which an easily translatable message in a
+given language can be widely understood by Agorans, but text which is
+less easily translatable is too hard to understand.
+
+Note that it's also worth noting that English doesn't really have a
+special status here, except inasmuch as it's the language that seems to
+have the most general understanding among Agorans as a whole. Indeed,
+many forms of communication that are common in Agora can't easily be
+said to be in English. A sentence like "I transfer each Slave Golem to
+eir recordkeepor." could have been perfectly understandable by all
+Agorans back when Slave Golems existed, but I don't feel comfortable
+claiming that the sentence makes sense in English (and indeed, machine
+translators seem to assume that "eir recordkeepor" is a proper noun,
+due to a lack of any evidence to the contrary). (In fact, I'd be hard
+pressed to even translate the sentence in question into English; "eir"
+is fairly unique among pronouns in that it can be applied to an
+inanimate object that is also a person, a situation that often arises
+at Agora but rarely arises in other contexts, and thus has no
+corresponding English word that it can be translated to.)
+
+In other words, the language barrier is not really an impact for this
+particular CFJ. However, there's another barrier here, a technological
+barrier. Four of our five recognised fora use email as a means of
+communication, and, perhaps due to an analogy between email and paper
+mail, the perception among players is often that what they send will
+have the same appearance as what the other members of the list receive.
+In many cases, though, this is not true, especially when using
+codepaths and settings which are rarely tested (such as communicating
+in a language that isn't habitually used with that email client).
+
+First, a quick primer on how email works behind the scenes. It's fairly
+well understood that each message has body text, and, separately from
+that, headers; the headers contain a lot of contextual surrounding the
+email, with the most user-visible being the addresses (to/from), the
+subject line, and the date, whereas the body text typically contains
+the actual message that the email is trying to convey. The headers are
+self-contained, and also contain a guide as to how to interpret the
+body text.
+
+One notable situation in which the headers are relevant is related to
+the use of alphabets. There are two common ways to represent an email's
+body text, but perhaps the most common for languages with relatively
+small alphabets (and the method actually used by all three of G.'s
+emails mentioned here) is the "8-bit method", which assigns a number
+from 0 to 255 inclusive to each possible letter of each alphabet used
+in the message; email body text is effectively just a series of numbers
+in this range, so the assignment mentioned in the headers can be used
+to turn it into an understandable message. (The other commonly used
+method is called Unicode, which I told my email client to use to send
+this email because it contains characters in so many different
+languages, but it isn't relevant here because none of the relevant
+messages used it, so I won't discuss it further.) This conversion
+*must* be done to make any sense of the message, but this is typically
+considered the job of the email client, and thus something that people
+don't generally have to worry about. In order to avoid having to
+specify which number corresponds to which letter as an explicit mapping
+(which would lead to something of an infinite regress), each letter has
+a well-known mapping that's programmed into the majority of email
+clients; for example, the letter «A», used in many European languages
+(including English), is consistently represented by the number 65.
+
+Now, there's a problem with this way of doing things: taking all the
+languages in existence into account, there are a lot more than 256
+distinct letters. This means in practice that some numbers are assigned
+to more than one letter, but these would typically be letters from
+languages which are rarely used together. As such, the email headers
+specify (in an abbreviated form) the list of alphabets that are used in
+the body of the email; this will always be a set of alphabets which
+have no letters with overlapping corresponding numbers, and thus it's
+possible to unambiguously determine which words are being
+communiciated. (This also applies recursively; the headers also contain
+information on how to interpret letters in the headers themselves.)
+
+Unfortunately, many email clients seem to mess this system up. If the
+recipient's email client violates the standard systems for doing
+things, I don't see it as much of an issue; the action should logically
+still work, because the recipient could determine the actual content of
+the email via, e.g., visiting one of the online message archives. If
+the *sender*'s email client violates the relevant standards, though,
+it's quite possible that the recipient's email clients will not be able
+to figure out what the message means (and because the process of
+correcting a "misencoded" email is fairly technical and can be
+timeconsuming, I don't think that fixing misencodings is something that
+we can reasonably require recipients to do).
+
+Now, when I spoke about G.'s Turkish messages above, I hinted that I
+had to correct them. The reason is that G.'s email client had just the
+sort of issue I mentioned above; although there were Turkish characters
+in the email, it failed to recognise this and put contrary suggestions
+in the headers. For example, here's the subject line of the second
+email:
+
+Mutluðuz 1st Nisan, Agora!
+
+That «ð» might well look very out of place to someone who knows
+Turkish. What's happened here is that despite being intended to contain
+what I assume was the Turkish letter «ğ» (which is encoded as the
+number 240 when Turkish is in use), the list of alphabets specified for
+the subject line in question omitted Turkish. What it did include,
+however, was Icelandic, whose letters have codes that clash with those
+of Turkish (the issue of being unable to send an email containing both
+Turkish and Icelandic text was presumably decided to be only a minor
+issue back when the 8-bit method was designed). The Icelandic letter
+«ð» is also encoded using the number 240, and because the subject line
+was precise about what languages were in use, no reasonable email
+client would have displayed it as anything other than a «ð» here; it's
+not like email clients can read Turkish, or aware that (as far as I can
+tell) «Mutluðuz» isn't a real word in any language. In other words, the
+sender's intent is being subverted by eir own email client here. The
+body text of the email had a similar issue; the headers claim that the
+body text used *only* the English alphabet, which is blatantly a false
+statement, so the text would actually have displayed to its recipients
+more like this:
+
+Bu deme?in karar? i?in ben ba??r?m:  Bu bir ba??r?? karar? i?in
+de?il.
+
+Unsurprisingly, this would have been even harder for a non-Turkish
+speaker to decipher than the original Turkish was. In cases like this,
+I don't think it's reasonable to argue that it's the original intent of
+the sender that matters when trying to decipher an email into the
+corresponding text; in a language which had no overlap with English,
+such as Arabic, an email saying "????? ??? ????? ??? ???? ??????
+??????" could not be reasonably be considered to communicate any useful
+information (purely knowing the lengths of the words isn't very
+useful). Going by the apparent intent of the sender is also problematic
+when it comes to scams (in which the sender's apparent intent and
+*actual* intent are often pretty different). It seems to me that the
+text that the message actually contains, when interpreted according to
+typical rules for interpreting messages in the medium, is what we need
+to go by to determine what information is being communicated.
+
+Onto the present email. I assume that G.'s either using a new email
+client nowadays, or if it's the same one that it at least understands
+Arabic better than Turkish, because eir email contained a correct
+specification of the alphabets in use this time (the specification was
+"the English alphabet, plus the subset of the Arabic alphabet used for
+Arabic itself", which is an excellent description of the actual text
+that the email contains). There was still a deviation between what was
+actually contained in the email and the apparent intent of its sender,
+though.
+
+I'm going to digress into a bit of a thought experiment here: suppose
+we didn't play Agora by email, what other media could we use instead?
+One possibility would be to play via paper mail (assuming we were
+willing to allow for multi-day message sending delays and pay for
+postage). In this case, the content of a message would be fairly clear;
+it would be the physical object that the message consists of, which
+would typically convey information via its visual or possibly tactile
+properties. Alternatively, we could perhaps play via telephone; in this
+case, the message conveyed would entirely consist of sound waves. The
+interesting thing here is that even though Agora is mostly medium-
+agnostic, the different media communicate different aspects of the
+presentation of the information. For example, in a letter, the
+positions of the characters on the page are observable information; you
+can say "the first character of this letter is an inch from the left
+hand side of the page" or the like. However, things like the tone of
+voice to use when reading the message are completely missing, whereas
+that information would be naturally conveyed in a phone call. In either
+case, we'd likely need to have rules about what properties of the
+messages are relevant and need to be preserved in things like
+quotations; rule 2429 might talk about, for example, variations in font
+or in tone of voice being insignificant, rather than its current
+mention of "whitespace" (which is basically a collective term for
+things like breaks between words, paragraphs, and pages, which are
+often observable in email but not always in other means of
+communication).
+
+Now, because different aspects of information are communicated over
+different media, the medium of communication used makes a big
+difference to what statements are clear and what statements are
+ambiguous. There are a number of jokes and puns that only work when
+spoken, or only work when written, because they rely on an ambiguity
+between two words with the same pronunciation but different spelling,
+and vice versa. One particularly relevant distinction here is that when
+written, English text followed by Arabic text looks indistinguishable
+from Arabic text followed by English text (because the languages write
+in opposite directions); however, when spoken, it's always completely
+clear which comes first (because although Arabic is written from right
+to left, it isn't spoken from end to start, but rather uses the same
+start-to-end "speaking direction" as English).
+
+I assume that when G. sent eir email, e was expecting it to preserve
+the visual layout of the email, and leave the speaking direction
+ambiguous. Eir email client, however, did the opposite; it went and
+sent the email with a specified speaking direction, and left the visual
+layout ambiguous (the message doesn't contain any formatting characters
+at all, as it happens, other than the leading and trailing newlines).
+It was therefore left up to the individual email clients as to how to
+display it on a page; I assume some displayed it as intended, but some
+email clients word-wrap it (mine, when viewing it in a reply/quote),
+and email clients also disagree as to the writing direction (mine
+writes it left to right, but omd's writes it right to left; left to
+right is obviously correct based on the content of the post, but with
+no visual formatting information in the email, guessing the opposite is
+an entirely reasonable guess for a computer, especially as "English +
+X" alphabet pairs are very commonly used for 8-bit encodings, but
+mentioning Arabic would be very unusual unless it were actually
+necessary, so "Arabic was mentioned, this is probably primarily right
+to left" is an entirely understandable heuristic). So in other words,
+when the email is displayed onscreen, email clients can reasonably
+disagree about how it looks; but if a text-to-speech system is used to
+speak the email out loud, it would be expected to be pronounced the
+same way regardless of how the email client would lay it out on screen.
+
+Even if G.'s email happens to render in an email client in the way it
+was intended, there are plenty of potential clues (such as copying-and-
+pasting the email to a text editor with a narrow window and seeing how
+it wraps, or attempting to select part of the text and the colon at the
+same time) that a nontechnical user could use to determine the speaking
+order of the message. As such, I think a fixed speaking order for the
+message has been conveyed fairly well, which would remove the
+ambiguity. On the other hand, the intended *reading* order of the
+message hasn't been conveyed at all (and the fact that it was
+intentionally ambiguous doesn't really change things). So, relying on
+information that's in the email that was actually sent, rather than the
+email that G. meant to send, we have to interpret this message using
+its stated reading order, in which the English comes before the Arabic.
+
+Incidentally, if the email in question were sent visually (e.g. as an
+image), it would lead to no CFJs being created; ambiguity about the
+language in which a message is written is not really any different from
+ambiguity caused by, e.g., a word that means more than one thing.
+
+I re-judge CFJ 3534 FALSE.
+
+========================================================================

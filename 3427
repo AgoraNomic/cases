@@ -1,26 +1,89 @@
-==============================  CFJ XXXX  ==============================
+==============================  CFJ 3427  ==============================
 
-
+      If G. publishes a formal apology that does not contain the words I
+      attempted to prescribe above, this will suffice to let em cast
+      votes other than PRESENT within the next 30 days.
 
 ========================================================================
 
-Caller:                       
+Caller:                       ais523 
 
-Judge:                        
-Judgement:                    
+Judge:                        omd
+Judgement:                    FALSE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by ais523:             03 Aug 2014       
+Assigned to Murphy:           04 Sep 2014
+Murphy Recused:               02 Oct 2014
+Assigned to omd:              02 Oct 2014
+Judged FALSE by omd:          07 Oct 2014                  
 
 ========================================================================
 
 Caller's Arguments:
 
-
+"prescribed" appears in Rule 2427, in a context that makes it appear as
+though it is a reference to another rule. However, the word does not
+appear elsewhere in the ruleset, and in particular, the rule for
+awarding Red Cards (2426) does not mention prescribed words at all.
 
 ========================================================================
 
+Gratuitous Arguments by G.:
+
+Does it matter that I deregistered during the time in question? 
+If "inaction" is treated as no action, it doesn't matter (because
+it would "suffice" for me not to deregister.  If "inaction" is
+treated as the act of not acting, it does matter (because, as
+proven by my actions, it's wasn't enough for me to apologize, I'd
+also have to had refrained from deregistering).
+
+========================================================================
+
+Judge omd's Arguments:
+
+> CALLER'S ARGUMENTS
+> "prescribed" appears in Rule 2427, in a context that makes it appear as
+> though it is a reference to another rule. However, the word does not
+> appear elsewhere in the ruleset, and in particular, the rule for
+> awarding Red Cards (2426) does not mention prescribed words at all.
+
+When poorly defined terms or dangling references are used in the
+rules, they may be ignored as nonsensical, but in the case that there
+is exactly one overwhelmingly most reasonable referent, it is often
+preferable to interpret them as referring to it.  There is a good
+precedent on this, which I am somehow entirely unable to find - I
+think woggle wrote it.  In any case, where the rule refers to
+"prescribed words" in the context of a punishment semi-arbitrarily
+imposed by the Referee, it seems fitting that the Referee should be
+able to do the prescribing as part of the imposing.
+
+> GRATUITOUS ARGUMENTS BY G.
+> Does it matter that I deregistered during the time in question?
+> If "inaction" is treated as no action, it doesn't matter (because
+> it would "suffice" for me not to deregister.  If "inaction" is
+> treated as the act of not acting, it does matter (because, as
+> proven by my actions, it's wasn't enough for me to apologize, I'd
+> also have to had refrained from deregistering).
+
+It doesn't matter, because judgements are supposed to be (somewhat
+garbledly) "based on the facts of the case at the statement at the
+time the CFJ was initiated", and you hadn't deregistered when it was
+called.  The statement is most reasonably interpreted as asking about
+G. hypothetically performing an action soon after the CFJ is called,
+without any random other things messing up the gamestate first, or
+other special cases (such as the depressing fact that no proposals
+were actually distributed from this case's initiation until very
+shortly before 30 days afterward).
+
+> STATEMENT
+> If G. publishes a formal apology that does not contain the words I
+> attempted to prescribe above, this will suffice to let em cast votes
+> other than PRESENT within the next 30 days.
+
+FALSE, e would need the prescribed words.
+
+========================================================================

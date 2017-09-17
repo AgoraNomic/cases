@@ -1,26 +1,128 @@
-==============================  CFJ XXXX  ==============================
+==============================  CFJ 3430  ==============================
 
-
+       Rule 2429 is paradoxical.
 
 ========================================================================
 
-Caller:                       
+Caller:                       nichdel                  
 
-Judge:                        
-Judgement:                    
+Judge:                        ais523
+Judgement:                    FALSE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by nichdel:            06 Oct 2014        
+Assigned to ais523:           06 Oct 2014                
+Judged FALSE by ais523:       09 Oct 2014
 
 ========================================================================
 
 Caller's Arguments:
 
+Rule 2429 states "Whitespace is generally insignificant, except for
+paragraph breaks."
 
+Every definition of "whitespace" I checked (list at the end) includes
+or does not reasonably bar the "space" character from being
+whitespace.
+
+Thus, Rule 2429 by its own logic also says
+"Whitespaceisgenerallyinsignificant,exceptforparagraphbreaks."
+Arguably this string is meaningless, though it's reasonably possible
+to decipher the original format of the sentence.
+
+However, Rule 2429 also says "Whites pace is generally in significant,
+except for paragraph break s." Since this is not only nonesense but
+also nonesense that refers to an unindentified "break s," this is
+clearly a different meaning that the meaning implied by the version
+currently on the SLR.
+
+The second and third renderings of 2429 have a different meaning than
+the first and say nothing about whether or not whitespace is
+significant. If whitespace is not significant, then rule 2429 (and
+most other rules) have extremely ambiguous meanings, many of which do
+not say that whitespace is significant. Therefore if Rule 2429 is
+true, it both does and does not say that whitespace is insignificant,
+in the exact same sentence and the exact same clause of that sentence.
+
+Definitions:
+https://en.wiktionary.org/wiki/white_space#English
+
+http://dictionary.reference.com/browse/whitespace
+
+https://en.wikipedia.org/wiki/White_space
 
 ========================================================================
 
+Gratuitous Arguments by Rulekeepor omd:
+
+THE SHORT LOGICAL RULESET
+
+Supplemental Edition (Single Rule)
+
+----------------------------------------------------------------------
+
+Rule 217/11 (Power=3)
+Interpreting the Rules
+
+
+      Wh    en  interpr  et     in
+       ga  nd  ap     pl yi     ng
+        ther   ul     es ,t     he
+         te    xt     of th     er
+         ul    es     ta ke     sp
+         re    ce     de nc     e.
+         Wh     erethet   extissi
+
+         len    t,       in
+        co ns   is       te
+       nt   ,o  ru       nc
+      le     ar ,i       ti
+      stobeaugm en       te
+      db     yg am       ec
+      us     to m,common sense,pa
+
+       stjudg  em     en  ts,and  co    ns
+      id    er at     io no    ft he   be
+      st       in     te re       st  so
+       fthega  me     .D ef       initi
+            on sa     nd pr       es  cr
+      ip    ti on     si nt    he ru   le
+       sareon   lytobea   pplied  us    in
+
+      gdirect,forwardreasoning;inparticular,anabsurditythatcanbeconcludedfromthe
+      assumptionthatastatementaboutrule-definedconceptsisfalsedoesnotconstitutep
+      roofthatitistrue.Definitionsinlower-poweredRulesdonotoverrulecommon-sensei
+      nterpretationsorcommondefinitionsoftermsinhigher-poweredrules.Rulestotheco
+      ntrarynotwithstanding,anyrulechangethatwould(1)preventapersonfrominitiatin
+      gaformalprocesstoresolvemattersofcontroversy,inthereasonableexpectationtha
+      tthecontroversywilltherebyberesolved;or(2)preventapersonfromcausingformalr
+      econsiderationofanyjudicialdeterminationthateshouldbepunished,iswhollyvoid
+      andwithouteffect.
+
+----------------------------------------------------------------------
+
+========================================================================
+
+Judge ais523's Arguments:
+
+There are two sensible readings of rule 2429. One is as the presumably
+intended "It is insignificant what choices in whitespace are made when
+representing rules as text"; with this interpretation, nothing is
+broken. However, it somewhat contradicts rule 2141, which implies that a
+rule content is text itself, rather than being a sequence of words that
+is merely represented as text.
+
+The other reading is "In general, it is possible to add or remove
+whitespace (other than paragraph breaks) from a rule without changing
+its meaning". As written, this is simply a false statement, and as the
+caller points out, it cannot sensibly be interpreted as a legal fiction.
+The situation is similar to that of a hypothetical rule which states
+"This rule can be interpreted with an interpretation other than the
+obvious one". I don't see a paradox or contradiction there, just a lie.
+
+I judge CFJ 3430 FALSE.
+
+========================================================================

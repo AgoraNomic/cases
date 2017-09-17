@@ -1,26 +1,99 @@
 ==============================  CFJ 3435  ==============================
 
-     (placeholder text until I get to a better text editor for UTF-8)
+      In the below quoted message, a CFJ was initiated on the phrase 
+      'أدعو إلى إصدار حكم بشأن البيان التالي'.
 
 ========================================================================
 
-Caller:                       
+Caller:                       Quazie                       
 
-Judge:                        
-Judgement:                    
+Judge:                        ais523
+Judgement:                    TRUE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Quazie:             28 Jun 2017         
+Assigned to ais523:           29 Jun 2017       
+Judged TRUE by ais523:        29 Jun 2017
+  
+========================================================================
+
+Caller's Evidence:
+
+On Wed, Jun 28, 2017 at 16:16 Kerim Aydin <kerim@u.washington.edu> wrote:
+
+I call for judgement on the following statement : أدعو إلى إصدار حكم بشأن البيان التالي
 
 ========================================================================
 
-Caller's Arguments:
+Judge's Arguments:
 
+The arguments so far have hinged on the message in question being
+ambiguous, but is that really the case? I believe that, given the
+method via which it was sent, the original message cannot reasonably be
+interpreted as being in Arabic.
 
+What's notable here is that an encoding of text can convey the meaning
+of the text in two different ways; either using a visual ordering, in
+which the sequence of bytes is corresponds to the positions of the
+individual characters on the page; or a logical ordering, in which the
+sequence of bytes corresponds to the order in which the characters they
+represent have meaning (i.e. bytes that appear earlier in the byte
+stream correspond to letters closer to the start of words, words closer
+to the start of sentences, and so on). A visual ordering would not help
+resolve the ambiguity in respect to the CFJ. A logical ordering would,
+though, as the bytes are conveying not only the appearance of the text
+in this case, but also the intended reading order.
+
+The standard referenced in the message for the understanding of the
+bytes it contains is ISO-8859-6 (which cannot be obtained from ISO
+without payment, but Ecma have a standard Ecma-114 which they claim is
+equivalent). The body of the standard contains no opinion on whether
+the text it's used to represent is in logical or visual order. However,
+email clients in practice appear to interpret it as being in logical
+order; in my client, the bytes <C3><CF><D9><E8>, corresponding to the
+Arabic letters «أ» then «د» then «ع» then «و», are rendered as the
+Arabic word «أدعو» (in other words, they're rendered right to left, the
+normal logical order of Arabic, and the opposite order that they appear
+in the bytestream).
+
+The word in question is a real Arabic word, translating to "I invite" /
+"I call" / "I appeal". If we reverse the order of the letters, to get
+«دعوأ», this is no longer a real Arabic word, strongly implying that
+the message was meant to be in logical order; if the message were meant
+to be in visual order, the Arabic text would therefore have been
+written backwards (i.e. left to right, when right to left is the
+language's normal writing order).
+
+I can also see how my email client interprets the message by asking it
+to word-wrap it:
+
+I call for judgement on the following statement : أدعو إلى إصدار حكم
+بشأن البيان التالي
+
+This word-wrapping is clearly incompatible with an Arabic
+interpretation of the message, as it would have split the Arabic in
+half with some English text in the middle.
+
+In other words, I'm not seeing any sensible way to interpret the
+English text as coming "after" the Arabic text. The message itself
+contains an indication that the Arabic text comes second.
+}}}
+
+I judge CFJ 3534 ("In the below quoted message, a CFJ
+was initiated on the phrase 'I call for judgement on the following
+statement'") FALSE, and CFJ 3535 ("In the below quoted message, a CFJ
+was initiated on the phrase 'أدعو إلى إصدار حكم بشأن البيان التالي'")
+TRUE.
+
+Given that I've now determined the existence of a CFJ in G.'.s original
+message, I number it CFJ 3536, assign it to myself if I haven't already
+done so, and judge it DISMISS (it machine-translates to "I call for a
+ruling on the following statement", is clearly intended to mean "I call
+for judgement on the following statement" from context, and it has no
+following statement to refer to, given that it's the last statement in
+the original email).
 
 ========================================================================
-

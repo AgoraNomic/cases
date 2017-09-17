@@ -1,26 +1,202 @@
 ==============================  CFJ 3544  ==============================
 
-      (placeholder until I reach a decent UTF-8 editor)
+      C♥U is an agency.
 
 ========================================================================
 
-Caller:                       
+Caller:                       Publius Scribonius Scholasticus   
 
-Judge:                        
-Judgement:                    
+Judge:                        grok
+Judgement:                    FALSE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Publius Scribonius Scholasticus:  23 Jul 2017                    
+Assigned to grok:                           24 Jul 2017
+Judged FALSE by grok:                       27 Jul 2017
 
 ========================================================================
 
 Caller's Arguments:
 
+Agencies are defined as follows in R2467:
 
+"An Agency is a document empowering persons to act on behalf 
+<http://agoranomic.org/ruleset/#Rule2466> of another player."
+
+C♥U was created by CuddleBeam. CuddleBeam is not a player. C♥U
+does not empower any persons to act on behalf of a player. Regardless
+of whether it exists, it is no longer an agency.
+
+========================================================================
+
+Judge's Arguments:
+
+I. Background
+
+CFJ 3544 raises a number of questions of agencies without player
+Directors. Cuddlebeam deregistered on 21 July 2017. While registered,
+Cuddlebeam was the Director of at least two agencies, C♥N and C♥U,
+both established on 27 May 2017.
+
+In eir most recent Superintendent report, Publius Scribonius
+Scholasticus reported both of the former player Cuddlebeam's agencies
+as active agencies. An existing CoE disputes that the two agencies are
+still agencies.
+
+
+II. Summary of Decision
+
+Ultimately, this case will provide answers to a number of gameplay and
+rule questions (as cases I receive tend to do, for some reason). The
+decision of the court in this instance will provide guidance on the
+following:
+
+- What constitutes an agency
+- Checking of the status of agencies as defined in R2467
+- The Superintendent's responsibilities in reporting agencies without players
+- An agent's ability to activate an agency with a non-player Director
+- nichdel's proposition of a "legal fiction player."
+
+I will state in advance that I anticipate this case opinion may be a
+source of consternation to some users. This is an issue that requires
+a lot of guidance to maintain a reasonable gamestate, so I intend to
+use this CFJ in context as an opportunity to provide preemptive
+answers to questions about how Agora should proceed in its wake.
+
+I find the statement "C♥U is an agency" FALSE for the following reasons.
+
+
+III. What is an Agency?
+
+The majority of our information on this CFJ comes from R2467.
+Agency-like legal objects have existed before, from my knowledge, but
+we are largely without precedent for questions of R2467.
+
+First is a question of the essential, constitutional elements of an
+agency. What makes up an agency, quantified? We know that an agency
+"[empowers] persons to act on behalf of another player." We also know
+that agencies can only be established by players, and that an agency
+must have a title, a non-empty list of agents, and a description of a
+set of actions with reasonably determinable results.
+
+All four parts in the last sentence are certainly core elements of an
+agency. The one of most curiosity here is "empowering persons to act
+on the behalf of another player." This sentence indicates to me that a
+constitutional element of an agency is a Director that is also a
+player.
+
+Finally, the document must be submitted publicly to Agora to create an
+agency. This seems obvious, but there are two reasons I include it
+here. First, for completeness and in the interest of setting good
+precedent. In adjudicating, completeness is next to godliness.
+
+Second, the first sentence of R2467 specifically outlines that
+agencies are, first and foremost, documents. It is clear through the
+text that an agency is a type of document; a descriptor given to
+documents that meet certain requirements. This will be important
+later.
+
+By this interpretation, I reasonably believe that an agency is only an
+agency as long as all six of the following elements are true:
+- The founding document was submitted publicly to Agora,
+- The Director is a player,
+- The Agency was established by a player,
+- The Agency has a title of exactly three words, not counting
+conjunctions, articles, or prepositions,
+- The Agency has a non-empty list of persons identified as Agents,
+- The Agency has a non-ambiguous, non-circular, non-paradoxical set
+of powers with reasonably determinable results.
+
+
+IV: Checking legal status of Agencies
+
+There is static language at the beginning of R2467 which aides in this
+decision. We first look at the full first sentence of 2467:
+
+"An Agency is a document empowering persons to act on behalf of another player."
+
+This outline gives us a strict definition of what agencies are. The
+key element is verb tense--the simple present "is" tells us that an
+agency will be that thing. Most importantly, we can infer by double
+negation that a document that does not empower persons to act on
+behalf of another player is not an agency.
+
+Further, the simple present tells us that this is not a switch, but a
+static-based status. As long as a document meets that definition, it
+is an agency. Again, we can infer by double negation: as long as a
+document does not meet that definition, it is not an agency.
+
+This is where I differ from PSS. PSS claims that there is no process
+allowing the document to cease being an agency. My interpretation is
+that there is a static description of certain qualities that make a
+document into an Agency, and if it does not have all of those
+qualities then it is not an Agency. By my interpretation, there does
+not need to be an activating process, and the static effect of R2467
+removes agency status from documents that don't meet the requirements.
+
+This is where I can easily make my decision: Because the Director of
+C♥U is not a player, C♥U does not empower persons to act on behalf
+of a player. Therefore, C♥U is not an agency. (This is also true of
+C♥N, and any other former agencies with non-player Directors.)
+
+
+V: Implications
+
+This section will attempt to preemptively answer future rules
+questions raised in gratuitous arguments. I will sort it in
+subsections by expected issue.
+
+
+i. Responsibilities of the Superintendent
+
+I am of the opinion that the Superintendent should not be responsible
+for tracking documents that purport to be agencies but do not meet the
+six requirements listed in this decision. In some cases, it may be
+prudent for the Superintendent to continue to mention documents that
+meet a certain number of requirements for an Agency, or that have an
+invalid Director, for sake of completeness. This is especially true if
+a former agency for a deregistered player is allowed to remain in
+expectation of eir re-registration, to limit the propensity to scam.
+
+
+ii. Using an "agency" with a non-player Director
+
+I'm fairly certain that, since a document that purports to be an
+agency with a non-player Director is not an agency, there would be no
+effect if a player attempted to activate its powers. I'm honestly not
+even convinced anyone could do anything with it; since it is not an
+agency and not a player, the non-agency should not be recognized by
+the ruleset. As such, it should not be able to affect the gamestate in
+any way.
+
+I'm fairly convinced that a player using a former agency to attempt to
+communicate does not meet the burden of being a "person" under R869,
+so I personally am not worried about a player attempting to register
+through these entities.
+
+All this said, I do believe these documents still exist and are
+self-ratified even after the player that controls them deregisters.
+They are a legal fiction, but fortunately one with no reasonable
+ability to affect the gamestate.
+
+
+iii. Legal defunct "Agencies"
+
+In nichdel's gratuitous arguments, e makes an argument that defunct
+'Agencies' are legal entities. I believe it was mislabeled as "if the
+CFJ is true, then [this]," when it is the reality caused by a FALSE
+decision. I believe eir analysis is correct: Nobody has to track it,
+but if someone registers as Cuddlebeam other than the person who
+previously registered as Cuddlebeam, they'll be in for a thrill.
+
+
+VI: Decision
+
+I find the statement "C♥U is an agency" FALSE, as the document
+founding it does not empower persons to act on behalf of a player.
 
 ========================================================================
 

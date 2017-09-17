@@ -1,0 +1,44 @@
+==============================  CFJ 3554  ==============================
+
+      When nichdel resolved proposal 7867, he neither published a duty-
+      fulfilling report nor resolved an Agoran Decision, for the 
+      purposes of the rule "Rewards."
+
+========================================================================
+
+Caller:                       o
+
+Judge:                        ais523
+Judgement:                    TRUE
+
+========================================================================
+
+History:
+
+Called by o:                  30 Jul 2017  
+Assigned to ais523:           01 Aug 2017
+Judged TRUE by ais523:        24 Aug 2017          
+
+========================================================================
+
+Caller's Arguments:
+
+Resolving proposal 7867 occurred before the rule was enacted, and
+therefore is not governed by the rules changes in that proposal.
+
+(This is more of a sanity-check CFJ than anything. I don’t care
+_what_ the outcome is, only that we all agree on which outcome
+should apply.)
+
+========================================================================
+
+Judge's Arguments:
+
+"Meeting a Reward Condition" is something that happens actively,
+at a particular point in time. You can't meet a Reward Condition that
+doesn't exist, so the condition can only be met if it exists at the
+time. This means that you can't claim a reward for something that's now
+rewardable, if it wasn't rewardable when it happened, even if it
+happened in the last 24 hours.
+
+========================================================================
