@@ -1,26 +1,81 @@
-==============================  CFJ XXXX  ==============================
+==============================  CFJ 3550  ==============================
 
-
+      Nichdel has 1 Stamp (nichdel) and 9 Shinies.
 
 ========================================================================
 
-Caller:                       
+Caller:                       o        
 
-Judge:                        
+Judge:                        Quazie
 Judgement:                    
 
 ========================================================================
 
 History:
-
-Called by:                    
-Assigned to:                  
+                              
+Called by o:                  01 Aug 2017  
+Assigned to Quazie:           01 Aug 2017       
 
 ========================================================================
 
 Caller's Arguments:
 
+First, my apologies to whichever poor sap gets to judge this, because
+you get to do some forensic accounting. I keep fairly complete
+records, so feel more than free to request further evidence.
 
+The core of this CFJ is a transaction nichdel performed immediately
+prior to the passage of proposal 7867:
+
+On Jul 29, 2017, at 7:12 PM, Nic Evans <nichdel@gmail.com> wrote:
+
+> I transfer 7 shinies to ASaAA.
+
+(Re: BUS: Transfer)
+
+However, according to my records, at this time nichdel had a balance
+of 2 Shinies. Per rule 2483 (“Economics”) in effect at that time:
+
+> Any player CAN pay Agora, any other player, or any organization any
+> amount by announcement, unless it would make eir own balance
+> negative. Any attempt to PAY any amount that would make any
+> player's or any organization's balance negative is INEFFECTIVE,
+> rules to the contrary notwithstanding.
+
+Paying 7 Shinies with a balance of 2 Shinies would make nichdel’s
+balance -5 Shinies, and therefore the payment is ineffective.
+
+No other payments have ever been made to ASaAA, so its balance was,
+and remained, zero.
+
+Subsequently, proposal 7867 passed, which zeroed all players’
+balances, and reset Agora’s balance to 1,000 Shinies. (Organization
+balances were not affected, a fact which appears to have been
+intentional in hindsight.)
+
+Afterwards, after some minor paperwork cleanup, nichdel performed the
+following trivially-successful transactions, quoted above:
+
+* Received 50 shinies from Agora via a Welcome Package (nichdel: 50
+sh)
+* Paid 40 shinies to Agora to create 1 stamp in eir own possession
+(nichdel: 10 sh, 1 stamp)
+* Paid 1 shiny to ASaAA (nichdel: 9 sh, 1 stamp; ASaAA: 1 sh)
+
+Finally, e attempted to have ASaAA pay em 8 shinies in exchange for a
+stamp. E noted this as a single transaction. Since ASaAA does not
+have 8 Shinies, by rule 2483:
+
+> Any organization CAN pay Agora, any player, or any other
+> organization by announcement by a member of said organization, as
+> specified in the charter of said organization, unless it would make
+> the organization's balance negative. Any attempt by any player to
+> cause an organization to pay any amount that would make that
+> organization's balance negative is INEFFECTIVE, rules to the
+> contrary notwithstanding.
+
+This payment cannot succeed, and therefore neither can the
+transaction it is part of.
 
 ========================================================================
 
