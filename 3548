@@ -1,26 +1,100 @@
-==============================  CFJ XXXX  ==============================
+==============================  CFJ 3548  ==============================
 
-
+      A player that announces intent to perform an action without N
+      objections does not need to wait four days before performing it.
 
 ========================================================================
 
-Caller:                       
+Caller:                       V.J. Rada          
 
-Judge:                        
-Judgement:                    
+Judge:                        Murphy
+
+Judge:                        G. 
+Judgement:                    TRUE
 
 ========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by V.J. Rada:          31 Jul 2017                    
+Assigned to Murphy:           31 Jul 2017
+Murphy Recused:               26 Aug 2017
+Assigned to G.:               26 Aug 2017
+Judged TRUE by G.:            27 Aug 2017     
 
 ========================================================================
 
 Caller's Arguments:
 
+The operable text is "If the action is to be performed *With N
+Objections*, With N Agoran Consent, or With Notice, if the intent
+was announced at least 4 days earlier."
 
+"With N objections" is meant to say "Without N objections" but
+there is no time period enumerated for performing an action without
+N objections. I guess a time period should be read in as a matter
+of common law (to stop people from ratifying themselves winners
+instantly) but still.
 
 ========================================================================
 
+Judge's Arguments:
+
+If the Rules state an action CAN be performed Without N Objections, it
+must satisfy all of a set of conditions (1)-(6) in Rule 1728 to be
+performed.
+
+I'll assume that the attempted action in question meets conditions
+1,3,4, and 6 as these vary depending on the situation, and aren't the
+subject of the CFJ.
+
+For condition (5), "Agora is Satisfied with the announced intent, as
+defined by other rules", R2124 is fairly straightforward, Agora is
+satisfied:
+
+       1. if the action is to be performed Without N Objections, then
+          it has fewer than N objectors;
+
+It is clear that, at the moment an Intent is posted, then the intent
+has no Objections, as "A person CANNOT support or object to an
+announcement of intent before the intent is announced".  So for a
+Without N Objections intent, condition (5) is true when the intent is
+posted.  Any other reading would break Dependent actions entirely.
+
+So, condition (2) reads: 
+        2. If the action is to be performed With N Objections, With N
+           Agoran Consent, or With Notice, if the intent was announced
+           at least 4 days earlier.
+
+Textually, this does not apply to Without N Objections, only With N
+Objections, so by the text, this condition is met (i.e. doesn't apply)
+for a Without N Objections action.
+
+The only counter-argument I can see is as follows:  "Since there's no
+method called "With N Objections", it's obviously a typo, and it's clear
+that we should read it as applying to "Without N Objections."  This is
+the "common law" interpretation that the Caller suggests.
+
+However, such an interpretation goes against R217:  "When interpreting
+and applying the rules, the text of the rules takes precedence."
+Furthermore, I don't think it's in the "best interests of the game" to
+interpret this as a typo and say "With = Without".  A large part of the
+fun in the game is looking for textual loopholes, and when one is
+painfully clear, we should abide by it, and it's for the good of the
+game to permit this kind of classic Agora Nomic gameplay. 
+
+Also, the History is worth noting.  The "with N Objections" text was
+inserted into R1728 by Proposal 7815 (Alexis, aranea), 28 October 2016.
+Alexis has been known for inserting purposeful scams in the rules, and
+for using loopholes (most recently, just around this same time, see
+R2486), and changing a negative to a positive is a classic way to sneak
+in a loophole.  It is quite possible that this was purposeful, so we
+can't say the "intent" of the Proposal, which was correctly adopted, was
+or wasn't to insert a loophole.  Whether or not it was purposeful, it is
+for the good of the game that we respect and accept that this very
+textually clear loophole was fully vetted by the voters, and allow it to
+function and for whomever finds it to exploit it.
+
+TRUE.
+
+========================================================================
