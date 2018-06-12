@@ -1,0 +1,116 @@
+===============================  CFJ 3639  ===============================
+
+      This is a CFJ.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         Aris
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 01 Jun 2018 06:27:09
+Assigned to V.J. Rada:                            05 Jun 2018 02:48:01
+V.J. Rada recuses emself:                         05 Jun 2018 05:40:57
+Assigned to Aris:                                 05 Jun 2018 15:24:26
+Judged TRUE by Aris:                              11 Jun 2018 23:44:30
+
+==========================================================================
+
+Caller's Arguments
+
+Is this a future conditional? At the time this message was sent, the
+caller couldn't have known whether the CFJ would be called or not.
+
+As for other potential issues, I think there's fairly established
+precedent that is is in fact possible to use a third-party mail service
+to send an email and have it count as a public action. On the other
+hand, there isn't much evidence in the quoted email as to who the
+sender was. (Circumstantial evidence does make it seem likely that it
+was me, though; and the action should succeed regardless of who sent
+it, given that anyone can call a CFJ.)
+
+Finally, is the "comment" field of a set of automated dice roll results
+sufficient to take an action by announcement? It's part of the message
+body, but may not be labelled clearly enough.
+
+==========================================================================
+
+Caller's Evidence:
+
+On Thu, 2018-05-31 at 23:27 -0700, roller@pbegames.com wrote:
+> ---- Signed section - include this line ----
+> 
+> Results:
+> Results sent via email.
+> Summary: Possibly a CFJ
+> 
+> --------------------------------------------------
+> Roll One
+> Generating 1 rolls of d6, 1 per line.
+> Comment: If this dice rolls an odd number, I call for judgement on
+> the statement "This is a CFJ".
+> 
+> 5
+
+==========================================================================
+
+Judge's Arguments
+
+Can a person take an action in the comment field of a dice server
+message? Not only the outcome of this CFJ, but even the very existence
+thereof, depends on it.
+
+First off, I judge this CFJ TRUE. Iff the CFJ exists, it must be true,
+so that seems like a pretty safe action. Now for the interesting bit.
+
+First off, precedent is clear that there is no future conditional, or
+other difficulty arising from the fact that the caller did not by eir
+own hand send the entire message, in this case. Long tradition allows
+users to send messages via automated process. Particularly relevant is
+CFJ 1719, which states in part
+
+  "We've always accepted messages being sent with some degree of
+   automation in their composition, and messages initiated by a cron
+   job, as being authored by the responsible person.  Often it's not
+   even possible to tell whether these kinds of automation have been
+   applied, so attempting to make a distinction would be impractical and
+   contrary to the best interests of the game."
+
+That CFJ goes on to rule that a web form allowing all comers to use a
+player's email is a valid way for a player to delegate their power to
+send messages. Nothing nearly so extreme is present in this case.
+Additionally, any argument that the message is a future conditional
+rests on a misapprehension as to the time of the message's evaluation. A
+message is evaluated when it is sent via the public forum, which,
+according CFJ 1905, happens when most persons who have arraigned to
+receive messages via the forum get it. By the time this occurs, the
+conditional is resolvable from the information in the message itself.
+
+The ambiguity as to the caller is far more disturbing. However, I see
+nothing in the rules that requires this information to be clear. In the
+absence of such a provision, the only case where clearly naming the
+sender of the message is required is if that information forms part of
+the definition of the action (e.g. moving three right on the map).
+Although the caller of the CFJ matters for the purpose of determining
+eligibility to judge it, among other things, it is not so crucial as to
+form part of the definition of the action. A proposal to address this
+bug will be forthcoming shortly, as soon as I figure out a way to phrase
+it that isn't terrible.
+
+Remaining is the question of whether a comments field is a suitably
+clear place to take a game action. In general, marking part of a message
+as intended for comments would likely negate any action purportedly
+taken in that section. However, in the particular context of messages
+sent via dice server, it is a well known convention that the comments
+field is the part of such a message that contains free text. Not
+allowing messages in that area would also be very inconvenient. I
+therefore determine that for this specific purpose a comments field.
+
+I rule that this CFJ exists and has been judged TRUE.
+
+==========================================================================
