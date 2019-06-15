@@ -1,0 +1,57 @@
+===============================  CFJ 3636  ===============================
+
+      If an Agoran Decision were now initiated, the quorum would be 8.
+
+==========================================================================
+
+Caller:                        V.J. Rada
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by V.J. Rada:                              29 Apr 2018 08:23:15
+Assigned to G. (self-assigned):                   04 May 2018 17:55:42
+Judged TRUE by G.:                                04 May 2018 17:55:42
+Motion to Reconsider filed by G.:                 08 May 2018 12:07:06
+Judged FALSE by G.:                               08 May 2018 12:07:06
+
+==========================================================================
+
+Caller's Arguments:
+
+The official Assessment recently published listed 9 voters on the most
+recent proposal, which would make the quorum 7. However, I contended
+that I used PSS to vote FOR that proposal. The language I used was "I
+also have PSS vote as I do". The question is whether that language runs
+afoul of rule 2466 which institutes a "requirement that the agent
+must, in the message in which the action is performed, uniquely
+identify the principal and that the action is being taken on behalf of
+that person.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+According to R2466, for A to act on behalf of B to do C, the pieces of
+information needed are the identities of A and B, a clear statement of the
+action C, and a clear statement of the relationship of A and B (i.e. that
+A is acting on behalf of B). Any reasonably clear grammatical construction
+that specifies all these elements should work.
+
+In context, "I also have PSS vote as I do" (where the votes in question
+were also in the message) does the trick.  I was concerned initially that
+"I have PSS" doesn't get enough of the sense of acting-on-behalf.  This
+might be true if the acting permission came from an obscure contract that
+no one remembered very well.  But in recent game context, the
+zombie-master relationship is sufficiently clear.
+
+The voters on the proposal that determined quorum at the time of the CFJ
+(Proposal 8041) were thus:
+       Aris, Corona, Trigon, V.J. Rada, Quazie, ATMunn, Kenyon, G., PSS
+With 9 voters, quorum was 7.  I judge FALSE.
+
+==========================================================================

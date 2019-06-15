@@ -1,0 +1,48 @@
+===============================  CFJ 3637  ===============================
+
+      If the Rules say you CAN do something by paying assets, without
+      specifying a destination for the payment, you CAN do it by
+      transferring those assets to anyone.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     30 Apr 2018 15:15:17
+Assigned to G. (via Certiorari):                  30 Apr 2018 22:09:34
+Judged FALSE by G.:                               30 Apr 2018 22:09:34
+
+==========================================================================
+
+Caller's Arguments:
+
+Straightforward argument for TRUE:
+R2166 overrides common definitions by making "pay" a synonym for transfer:
+> An asset generally CAN be transferred (syn. paid, given) by
+> announcement by its owner to another entity, subject to
+> modification by its backing document.
+
+Straightforward argument for FALSE:
+Payments without destination are error-trapped by this later clause in
+R2166:
+> If a rule, proposal, or other
+> competent authority attempts to increase or decrease the balance
+> of an entity without specifying a source or destination, then the
+> currency is created or destroyed as needed.
+so if "payment without destination" is a method in the rules for doing
+something, it happens via asset destruction only (not transfer).
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+    FALSE, based on the Caller's Arguments for FALSE.
+
+==========================================================================

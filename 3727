@@ -1,0 +1,232 @@
+===============================  CFJ 3727  ===============================
+
+      D. Margaux has more than 0 blots.
+
+==========================================================================
+
+Caller:                        D. Margaux
+Barred:                        Aris
+
+Judge:                         Falsifian
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             27 May 2019 14:11:26
+Assigned to G.:                                   27 May 2019 20:11:09
+G. recuses emself:                                28 May 2019 05:58:43
+Assigned to Falsifian:                            28 May 2019 21:53:44
+Judged TRUE by Falsifian:                         04 Jun 2019 13:25:46
+
+==========================================================================
+
+Judge's Arguments:
+
+1. Arguments
+============
+
+There was a long conversation on the discussion list, starting around
+when D.  Margaux called a CFJ (later withdrawn) on the thread "[Referee]
+Recusal (attn H. Arbitor)" in May 2019, and continuing on the thread
+"Proto-judgements of CFJs 3726 and 3727" in June 2019. I will not try to
+repeat everything here.
+
+2. Sequence of events (all times UTC)
+=====================================
+
+2019-05-20 01:25
+
+ The Referee publishes a weekly report specifying that D. Margaux has 0
+ blots.
+
+2019-05-20 20:32
+
+ In the following message, D. Margaux publishes a document and declares
+ intent to ratify it at a particular time. (I have reformatted it and
+ removed the quotations of messages it is in reply to.)
+
+ > I intend without objection to ratify the following document as true
+ > at the time 00:00 GMT on 20 May 2019:
+ >
+ > { For purposes of this document, “Politics Rules” and “Spaaace Rules”
+ > have the meaning ascribed to those terms in Proposal 8177.
+ >
+ > Any switch created directly by any of the Politics Rules or the
+ > Spaaace Rules has its default value.
+ >
+ > There are no currently existing entities or switches created by the
+ > Clork pursuant to the Politics Rules or by the Astronomor pursuant to
+ > the Spaaace Rules. }
+ >
+ > The document is false; the reason for ratifying it is that the
+ > subgames are defunct.
+
+2019-05-21 10:20
+
+ D. Margaux deputises as Astronomor and Clork to publish the following
+ weekly reports:
+
+ {there are no entities in existence for which the Astronomor is the
+ recordkeepor other than those created directly by the Rules. All
+ switches for which the Astronomor is recordkeepor have their default
+ value.}
+
+ {there are no entities in existence for which the Clork is the
+ recordkeepor other than those directly created by the Rules. All
+ switches for which the Clork is recordkeepor have their default value.}
+
+2019-05-25 22:02
+
+ omd Points eir Finger at D. Margaux for publishing inaccurate
+ information in the above reports.
+
+2019-05-25 22:54
+
+ D. Margaux, the Referee, authorizes the Arbitor, Aris, to act on eir
+ behalf to "investigate and conclude the investigation of the finger
+ pointed".
+
+2019-05-26 22:43
+
+ Aris attempts to act on D. Margaux's behalf to impose the Cold Hand of
+ Justice on D. Margaux and fine em 2 blots, with the following message:
+
+ > Alright. There was a clear rule violation here, as the information
+ > in the report was inaccurate. The violative conduct was undertaken
+ > for the good of the game, but there were also other options available
+ > (proposal, or ratification without objection, which would have been
+ > unlikely to cause any problems done correctly). Ordinarily, a rule
+ > violation for the good of the game would be a forgiveable one blot
+ > fine. Under the circumstances though, some additional penalty is 
+ > warranted for failing to adequately consider and discuss options that
+ > would have avoided violating the rules.
+ >
+ > I act on behalf of D. Margaux to impose the Cold Hand of Justice on 
+ > D. Margaux, penalizing em with a forgiveable fine of 2 blots. The
+ > required words are {optimize, preferentially, consider, 
+ > supersubtilize, adjudication, law, good, bad, future, duty}.
+
+2019-05-26 22:50
+
+ D. Margaux attempts to ratify without objection the document e earlier
+ announced intent to ratify.
+
+2019-05-27 14:11
+
+ D. Margaux calls what is later named CFJ 3727.
+
+2019-05-27 19:58
+
+ Aris calls what is later named CFJ 3726.
+
+2019-05-27 20:32
+
+ The reports D. Margaux published 7 days earlier self-ratify.
+
+3. D. Margaux's attempt to ratify without objection failed.
+===========================================================
+
+D. Margaux attempted to ratify a document by ratification without
+objection (Rule 2202). Performing actions "without objection" is
+described by Rules 1728 and 2595, and requires that "A person (the
+initiator) published an announcement of intent that ... specified the
+action intended to be taken and the method(s) to be used".
+
+D. Margaux's announcement stated that they intended to ratify the
+document "as true at the time 00:00 GMT on 20 May 2019", but Rules 2202
+(Ratification Without Objection) and 1551 (Ratification) did not provide
+em with a method to accomplish that: ratification by default applies to
+the time a document was published, which was not 00:00 GMT. Rule 1551
+describes an exception "if the document explicitly specifies a
+different past time as being the time the document was true", but D.
+Margaux's document, helpfully delimited with {...} notation, does not
+contain that date.
+
+The effect of ratification can depend critically on the time at which
+the document is ratified to be true at. For example, if a
+statement were ratified saying that a player had 1000 Coins, and the
+player had attempted to pay 1000 Coins to win the game at some time, it
+would be significant whether the statement were ratified as true before
+the attempt to pay the fee or after. Therefore, D. Margaux's intent to
+ratify the document as true at 00:00 GMT was significantly different
+from the ratification e later attempted to perform using Rule 2202, so
+the action failed condition 1 of Rule 2595, and was unsuccessful.
+
+4. The self-ratification of D. Margaux's reports
+================================================
+
+After D. Margaux's reports self-ratified, the gamestate may have been
+modified in a way that effects the truth or falsehood of the statements
+in the CFJs.
+
+However, Rule 591 ("Delivering Judgements") says:
+
+> The valid judgements for an inquiry case are as follows, based on
+> the facts and legal situation at the time the inquiry case was
+> initiated, not taking into account any events since that time:
+
+The words "at the time the inquiry case was initiated" establish how far
+back in the timeline we should look to judge the cases, but the text
+does not stop there: it explicitly says "not taking into account any
+events since that time". I believe that to take into account the
+self-ratification event by using the modified gamestate would be to
+disregard this text of the rule.
+
+Therefore I will not take the self-ratification of these reports into
+account.
+
+However, I would like to point the interested reader to my first proto
+judgement [0] and the ensuing discussion. I wrote that judgement before
+I realized that D. Margaux's attempt to ratify without objection failed,
+and it contains my opinion that when the rules refer to past events,
+that generally is affected by ratification. The "not taking into account
+any events since that time" text is not relevant to that judgement.
+
+5. Judgement
+============
+
+As explained in the previous section, I will ignore the
+self-ratification of D.  Margaux's reports here.
+
+I believe that Aris's attempted imposition of the Cold Hand of Justice
+by levying a fine (2019-05-26 22:43 message) met the requirements of
+Rule 2557, so it remains only to check that it does not run afoul of any
+of the conditions in Rule 2531 ("Any attempt to levy a fine is
+INEFFECTIVE if...").
+
+Condition 1 of Rule 2531:
+
+The attempt in Aris's message included the value the fine (2 blots) and
+the name of the person being fined (D. Margaux). The sentence performing
+the action did not specify the specific reason for the fine (message is
+copied earlier: "I act on behalf of D. Margaux to impose..."). However,
+Aris states the message earlier in the same message "...the information
+in the report was inaccurate" which is part of eir attempt, so Condition
+1 does not trigger.
+
+Conditions 2 and 3 of Rule 2531:
+
+The officer reports were false at the time they were published. For
+example, The Astronomor's 2019-03-05 weekly report states that many
+players own Spaceships, and that part of the report has long since
+self-ratified (under Rule 2166), but D. Margaux's report claims no
+Spaceships exist.
+
+Therefore, ignoring the ratification of the more recent reports,
+D. Margaux did commit a rule-breaking action, so these two conditions do
+not apply.
+
+Conditions 4 through 8 are straightforward.
+
+Therefore, assuming D. Margaux's reports never self-ratified, the
+attempted imposition was EFFECTIVE.
+
+I cannot find evidence that D. Margaux expunged any blots after the fine
+was levied, so D. Margaux still has at least 2 blots.
+
+I judge CFJ 3726 TRUE.
+I judge CFJ 3727 TRUE.
+
+==========================================================================

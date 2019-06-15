@@ -1,0 +1,84 @@
+===============================  CFJ 3651  ===============================
+
+      At least one Agoran regulation exists.
+
+==========================================================================
+
+Caller:                        Aris
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   06 Jul 2018 06:54:34
+Assigned to G.:                                   08 Jul 2018 21:11:05
+Judged TRUE by G.:                                16 Jul 2018 17:36:18
+
+==========================================================================
+
+Caller's Arguments:
+
+The birthday tournament should still work though. The dubious section
+is "By doing so e promulgates those regulations as a special temporary
+title of the ACORN. This title may thereafter be amended only by the
+Herald or eir designee without objection, to correct minor typos."
+There is no longer an ACORN, and we can't tell from textual context
+what it would mean for there to be one, so it fails to work as
+intended. The next sentence could behave in one of two ways. 1)
+Sentence 1 has failed completely, so there's no such thing as a title.
+Sentence 2 fails. 2) Sentence 1 succeeds in defining something called
+a "title of the ACORN", and putting these proposals in it. Sentence 2
+works.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+Rule 2495 (The Birthday Tournament) contains the following text:
+      After adequate time for discussion of the Birthday Tournament's
+      regulations, the Herald (or delegate) CAN initiate a sanctioned
+      tournament with a specified, finalized set of regulations,
+      Without 3 Objections. By doing so e promulgates those regulations
+      as a special temporary title of the ACORN.
+
+The Herald met these preconditions (time for discussion following a set
+of proposed regulations, and w/o 3 objections for the final set of
+regulations). However, following the passage of Proposal 8056, "special
+temporary title of the ACORN" was no longer defined. 
+
+CFJ 1500 set a long-standing precedent that, when a rules-definition is
+repealed, any instances of that word still in the ruleset revert to
+their common definition.  In the case of CFJ 1500, the term "politician"
+was defined as a specific game-role.  When the definition was repealed,
+but a use of the term was left in the ruleset, it reverted to the common
+definition of "anyone who plays the game politically (runs for offices,
+votes, etc.) is a politician".  Furthermore, CFJ 3580 found that even in
+obscure, hypothetical situations (like "destroy the universe") we use
+common definitions.
+
+However, "special temporary title of the ACORN", if given this standard,
+produces nonsense - (the temporary title of an oak tree seed?).  But -
+the capitalization is clearly significant in ACORN, and the use of the
+definite article ('the ACORN') tells us this is a proper noun - a named
+thing.  And named things are governed by a different set of precedents.
+In particular, CFJs 1519-1520 found that named things generally keep
+being "that thing" even when the definition is lost, unless later
+explicitly overridden.  And that "thing" is a document containing
+regulations, both before the repeal, and implicitly in the current
+rules: if you assume "title of the ACORN" is a document or part of one,
+the rules text makes perfect sense.
+
+Before repeal, ACORN was a particular document. In the context in the
+current Rules, "title of the ACORN" refers to a part of a document.  We
+don't really have to delve into whether we're talking about the "old"
+ACORN or whether the tournament created an entirely new document called
+"special temporary title of the ACORN". What matters is that there is a
+document or part of a document, that contains the regulations (they
+exist), and the regulations can be amended as per R2495.
+
+I find CFJ 3650 TRUE and CFJ 3651 TRUE.
+
+==========================================================================

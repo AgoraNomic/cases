@@ -1,0 +1,88 @@
+===============================  CFJ 3643  ===============================
+
+      In the above-quoted message, Corona published a self-ratifying
+      report.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         V.J. Rada
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 18 Jun 2018 16:19:23
+Assigned to Gaelan:                               24 Jun 2018 21:48:55
+Gaelan recused:                                   23 Jul 2018 00:06:24
+Assigned to V.J. Rada:                            23 Jul 2018 00:06:24
+Judged TRUE by V.J. Rada:                         23 Jul 2018 04:22:11
+
+==========================================================================
+
+Caller's Arguments:
+
+Precedent says that a disclaimer stating that the content of
+a message is false is enough to prevent it taking actions by
+announcement. Is the same true of self-ratifying reports?
+
+See CFJs 1971 (particularly relevant), 2069, 2830, 3000 for more
+information. (Information about these CFJs is available at
+https://faculty.washington.edu/kerim/nomic/cases/).
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+On Mon, 2018-06-18 at 18:01 +0200, Corona wrote:
+> This report is intentionally false, with the sole deviation from
+> reality being re-ratifying the items generated
+> in facilities on June 4, which have been accidentaly ratified out of
+> existence by the last report.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+A report was published with a disclaimer stating that a specific
+information contained in it is false. Did the disclaimer invalidate
+the report? The rule that has so far applied is that a disclaimer that
+states information contained in a message may be false invalidates any
+actions in that message depending on the truth or falsity of any
+information, but not actions (including calling CFJs) that make no
+statement as to the truth or falsity of anything.
+
+This comes from CFJ 1971. In this CFJ, ais523 attached to a message
+calling that selfsame CFJ, a disclaimer stating (among other things)
+that "Any statements in the above message are not necessarily true"
+but that "any game actions I take in the above message still have an
+effect". G. submitted the argument that a disclaimer such as the one
+above could invalidate game actions which depend on truth or falsity.
+The judge adopted that argument in a one-sentence judgement. This
+precedent has been affirmed and reaffirmed as recently as CFJ 3000.
+The application of this precedent is clear: any game action that is
+"truth-based", in that it explicitly or implicitly asserts the truth
+of information not obvious, is invalid with a disclaimer (eg. Ribbons
+are invalid because they implicitly certify that the recipient is
+eligible. CFJs are valid because all they assert is that the caller is
+a person).
+
+However this is not relevant here. Self-ratification does not involve
+any actions but is simply an automatic method for making documents
+true. Documents are portions of public messages. The document at issue
+here is "a list of all instances of that class [of assets] and their
+owners" (Rule 2166). Some rules make a portion of a message that
+purports to give certain information self-ratifying, under which the
+disclaimer's inclusion would be ambiguous. But the disclaimer is
+unambiguously not part of a "list".
+
+In sum, the CFJ 1971 line of precedents forbids truth-based actions
+where a disclaimer is present. Disclaimer's don't stop someone from
+publishing merely words which constitute a document. And at least in
+this case, the disclaimer isn't part of the self-ratifying document.
+
+Corona the Treasuror published a self-ratifying report. CFJ 3646 is TRUE.
+
+==========================================================================

@@ -1,0 +1,110 @@
+===============================  CFJ 3634  ===============================
+
+      Rule 2532, "Zombies", enables zombie owners to act on behalf of
+      their zombies.
+
+==========================================================================
+
+Caller:                        Aris
+Barred:                        G.
+
+Judge:                         V.J. Rada
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   19 Apr 2018 07:04:56
+Assigned to V.J. Rada:                            29 Apr 2018 06:44:50
+Judged TRUE by V.J. Rada:                         30 Apr 2018 07:53:43
+
+==========================================================================
+
+Caller's Arguments:
+
+If Quazie bid in the auction, e committed a violation of Rule 2550,
+"Bidding", and in particular the provision that "A person SHALL NOT
+bid on an Auction if it would be impossible for em to pay that amount
+at the conclusion of the Auction." Quazie did not have any money at
+the time of the bid, and did not get any by the end of the auction. We
+clearly do not hold em culpable for this violation, given that we do
+not in general hold people responsible for violations they could not
+reasonably have avoided, but the violation remains nevertheless.
+
+If Corona successfully caused Quazie to bid, e violated Rule 2466,
+"Acting on Behalf", and specifically the provision that "A person
+SHALL NOT act on behalf of another person if doing so causes the
+second person to violate the rules." What remains in question is
+whether or not Corona's action succeeded. There are three
+possibilities: it succeeded, it failed in this specific case, or it
+never works at all. I believe that it is one of the later two.
+
+The crucial question is one of interpreting Rule 2532, "Zombies".
+which states that "A zombie's master, if another player, is allowed to
+act on behalf of the zombie (i.e. as the zombie's agent) to perform
+LEGAL actions." The phrase "allowed to" is ambiguous, it could mean
+CAN or MAY, although I find it somewhat unlikely that it means both of
+them at once. If it means CAN, then the action failed because the
+action was ILLEGAL, and the affixed conditional resolves to false.
+
+I believe that the phrase probably means MAY. Granted, the Rule 217
+factors suggest that the phrase means CAN, but I don't think that they
+can overturn the presumption to the contrary in this case. I'm not
+saying that "allow' can never mean "enable', but reading "allowed to"
+to mean "able to" doesn't really sound right. For instance, seems
+reasonable for someone to say "I will allow you to open your mind",
+but (to my ears) it sounds ridiculous to say that "you are allowed to
+open your mind". I think the only reason there even appears to be
+ambiguity is because of preconceived notions of what the zombie rule
+means. Reading the text without judgement, the MAY reading is the
+obvious one. Under this reading, there is no provision anywhere that
+says that an owner CAN act on behalf of a zombie, so e can't.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+I am called to judge the following CFJs, presenting two questions of
+statutory interpretation. The first CFJ has the statement " 'Rule
+2532, "Zombies", enables zombie owners to act on behalf of their
+zombies.". The second CFJ has the statement "Corona has violated of
+Rule 2532, "Zombies", and/or Rule 2466, "Acting on Behalf", by causing
+Quazie to violate Rule 2550 "Bidding". The first CFJ is TRUE. The
+second CFJ is FALSE.
+
+The first CFJ regards the phrase in Rule 2532 "Zombies" stating that
+"A zombie's master, if another player, is allowed to act on behalf of
+the zombie (i.e. as the zombie's agent) to perform LEGAL actions."
+Does this clause enable masters to act on behalf of their zombies when
+actions are legal (consequently dooming platonically illegal actions)?
+Or does this clause merely clarify that such acting is not prohibited
+by criminal law?
+
+I find where the term "allowed" is used in place of the terms of art
+MAY and CAN, it generally means both, barring significant context
+militating the other way. Agora acts differently than real life laws
+do. In Agora, some actions are treated as if they simply do not count.
+And some expose the actor to consequences. These actions are separated
+by the terms of art MAY and CAN, which in English tend to be synonyms
+in legal contexts. "Allowed" is not a term of art. It simply means, in
+ordinary English, that a certain action is permitted, and the speaker
+(here, the Rules) shall not impede it. In Agora, where we have two
+ways of disallowing actions, "allowed" encompasses both within its
+broad reach. If the term was meant to mean CAN, that is the word that
+should be used. The implications of this interpretation on Rule 2532
+are clear. Only LEGAL actions can be performed on behalf of Zombies.
+But if a rule of lower precedence would criminalize acting on behalf
+of a Zombie to perform otherwise LEGAL actions, such a rule would not
+stand. The statement of the first CFJ is TRUE.
+
+The second CFJ is easier to resolve, and does not require me to reach
+the underlying issue. There are two options advocated for. One is that
+Quazie's bid was legal, allowing Corona to act on behalf of Quazie in
+order to place the bid. The other argument is that Quazie's bid was
+ILLEGAL. If it was so, the bid never happened, and Corona's attempt to
+act on behalf of Quazie did nothing. In either case (and the CFJ's
+statement does not require me to reach the underlying issue), Corona
+violated neither of the referenced rules. The second CFJ is FALSE.
+
+==========================================================================

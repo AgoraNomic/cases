@@ -1,0 +1,70 @@
+===============================  CFJ 3729  ===============================
+
+      The Lost and Found department owns no more than 87 Coins.
+
+==========================================================================
+
+Caller:                        Falsifian
+
+Judge:                         D. Margaux
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Falsifian:                              24 May 2019 02:09:43
+Assigned to D. Margaux:                           02 Jun 2019 22:17:07
+Judged TRUE by D. Margaux:                        02 Jun 2019 22:50:49
+
+==========================================================================
+
+Caller's Arguments:
+
+I think the CFJ is TRUE. I'm calling it because the 2019-02-18
+Treasuror weekly report implies otherwise:
+> Lost & Found       + 30c.  2019-02-03 21:25  Deregistration of pokes
+> pokes              - 30c.  2019-02-03 21:25  Deregistration
+I can't figure out why that "+ 30c." would have happened.
+
+R2576 says that the Lost and Found Department owns things that "would
+otherwise lack an owner", but I don't think there was any point at
+which {the 30 Coins formerly owned by nichdel} existed and lacked an
+owner. Even if we imagine an instant of time between when nichdel
+ceased to be a Player and when eir 30 Coins were destroyed by the
+first paragraph of R2576, nothing in the Rules says that at that
+instant nichdel could not own those Coins, so the Coins did not lack
+an owner. After the 30 Coins were destroyed, those 30 Coins do not
+exist, so there likewise aren't 30 Coins that lack an owner at that
+time either.
+
+Caller's Evidence:
+
+From the Treasuror weekly report published 2019-05-09, which has
+self-ratified by now:
+>       87    Lost and Found Department
+
+From R2576, "Ownership":
+"If an asset's backing document restricts its ownership to a class of
+entities, then that asset ... is destroyed if it is owned by an entity
+outside that class."
+"If an asset would otherwise lack an owner, it is owned by the Lost
+and Found Department."
+
+On Fri, 24 May 2019 at 01:39, Falsifian wrote:
+> Having given notice, I hereby deregister nichdel. RIP.
+
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+TRUE. Under R2483, coins can be owned by Agora, players, and contracts.
+Nichdel owned 30 coins. Nichdel was a player, and so could own coins,
+but then became a non-player, and at that point could not. When e was
+deregistered, the coins became owned by a non-player person, and where
+therefore destroyed by R2576.  Nichdel did not cease to exist, so the
+coins never lacked an owner and the Lost & Found never became the owner
+of those coins.
+
+==========================================================================

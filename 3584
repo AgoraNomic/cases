@@ -1,0 +1,104 @@
+===============================  CFJ 3584  ===============================
+
+      Telnaior attempted to publish a Notice of Honour that was invalid
+      solely because she had already posted a valid Notice of Honour
+      within the current week.
+
+==========================================================================
+
+Caller:                        Telnaior
+Barred:                        V.J. Rada
+
+Judge:                         o
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Telnaior:                               22 Oct 2017 04:29:48
+Assigned to o:                                    30 Oct 2017 00:57:32
+Judged TRUE by o:                                 02 Nov 2017 02:19:10
+
+==========================================================================
+
+Gratuitous Arguments by G:
+
+Just a note, as Caller it's nice to provide, if not logical arguments,
+a quick summary of events, e.g. "Telnaior attempted to publish one
+notice of honour, but it only said 'notice of honour' in the Subject
+line and not the message.  If it succeeded anyway, the second attempt
+failed."
+
+Gratuitous Evidence by G.:
+
+First attempt:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2017-October/036517.html
+
+Second attempt:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2017-October/036518.html
+
+There was a lot of discussion of past precedents for subject lines:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2017-October/047233.html
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2017-October/047237.html
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+I judge CFJ 3584 to be TRUE.
+
+The issue at question here is whether Telnaior’s first attempt to issue
+a Notice of Honour succeeded. The second attempt is obviously valid on
+its face, and could only have failed if the first attempt succeeded
+(thus locking em out of issuing any further Notices of Honour for the
+remainder of the week), so if the first attempt succeeded, then this CFJ
+is TRUE.
+
+The requirements for a Notice of Honour to succeed are, as given in rule
+2510 (“Such is Karma”):
+
+> For a Notice of Honour to be valid, it must: 1. Be clear that it is a
+> Notice of Honour, and be the first valid Notice of Honour
+> that player has published in the current week; 2. Specify any other
+> player to gain karma, and provide a reason for specifying that
+> player; and 3. Specify any player to lose karma, and provide a reason
+> for specifying that player.
+
+Telnaior’s first message, posted with the subject "BUS: Notice of
+Honour”, reads
+
+> Found it :D
+> Alexis gains a Karma for being helpful, Gaelan loses a Karma for being
+> slack on reporting (I think he's Rulekeepor?)
+
+The text of the message, considered without the Subject: header, meets
+every criterion clearly, save one: “It must be clear that it [the
+message] is a Notice of Honour.” While the text of the message can only
+be meaningfully interpreted as a Notice of Honour, the absence of
+explicitness could concievably put the clarity of this message into
+question. With the addition of the subject line, however, the message is
+explicit and clear, and meets the criteria of a successful Notice of Honour.
+
+The tests outlined in CFJ 3409 outline criteria under which an email
+message’s subject line may be taken to be part of the message:
+
+> 1.  Are there multiple actions that can be inferred?
+> 2.  Is there a real doubt as to what is intended?
+> 3.  Is timing an issue?  (multiple events in the message).
+> 4.  Is anything purposefully obfuscated?
+> 5.  Does the message text infer the type of action that can be made
+> clear from the subject line?
+
+Telnaior’s message quoted above contained only a single action which can
+be inferred. There is no real doubt as to eir intent. Timing was not an
+issue; Notices of Honour are not time-sensitive in any way. No part of
+the message was purposfully obfuscated. Finally, the message text is
+perfectly consistent with exactly and only the type of action in the
+subject line.
+
+I find that Telnaior’s first Notice of Honour, above, succeeded, and
+therefore that their second failed solely because e had previously
+issued a notice of honour that week.
+
+==========================================================================

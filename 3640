@@ -1,0 +1,80 @@
+===============================  CFJ 3640  ===============================
+
+      FAILED QUORUM was awarded a Medal of Honor.
+
+==========================================================================
+
+Caller:                        Aris
+
+Judge:                         V.J. Rada
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   11 Jun 2018 05:56:24
+Assigned to V.J. Rada:                            17 Jun 2018 18:44:37
+Judged FALSE by V.J. Rada:                        17 Jun 2018 23:12:41
+
+==========================================================================
+
+Caller's Evidence:
+
+Corona wrote:
+> Sure.
+>
+> I award FAILED QUORUM a Medal of Honour for May 2018. Wear it proudly,
+> FAILED QUORUM!
+>
+> ~Corona
+
+
+Gratuitous Arguments from G.:
+
+However, by ais523's logic, from the previous Decision you're supposed
+to award a Medal to FAILED QUORUM...?
+
+
+Gratuitous Arguments from ais523:
+
+Huh, some fun rulesey stuff going on here. As far as I can tell,
+it's impossible to meaningfully vote on this, but it cannot fail quorum;
+rather, at the end of the voting period (which the Herald SHALL end
+early, and CAN do so by resolving it in the same message) it ends
+with a null outcome. The outcome of the vote is then awarded a Medal of
+Honour. Again as far as I can tell, there's nothing restricting
+what sort of entity can own a Medal of Honour, so it looks like the
+Medal owned by the null outcome is going to become a tracked part of the
+Herald report.
+
+Unfortunately, the rules don't allow for the null outcome to get a
+win if this happens six times, but I think we should give it an honorary
+win by proposal if the situation ever comes up.
+
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+This is a judgement of CFJ 3640, the statement of which is "FAILED
+QUORUM was awarded a Medal of Honor". In May 2018, an Agoran Decision
+validly began to select either Aris or ATMunn as receiving a Medal of
+Honor. The Decision did not reach quorum.
+
+The language used in the Medal of Honor rule says that the outcome of
+the Agoran Decision will be awarded a Medal of Honor. The outcome of
+that Decision was unambiguously FAILED QUORUM. Therefore, the rule
+unambiguously required a medal to be awarded to FAILED QUORUM.
+
+However that's not the end of things. Medals of Honor are assets, in
+fact currencies, which have restricted ownership. The rule Assets
+operates at a higher power than Medals of Honor and bans assets being
+owned by anything other than players, contracts and Agora. Therefore,
+the Herald COULD NOT award a medal of honour here. However, the Herald
+was _still_ obligated by the SHALL to do so. This is a rare example of
+a SHALL and a CAN in contradiction.
+
+FAILED QUORUM has no Medal of Honour, this CFJ is FALSE.
+
+==========================================================================
