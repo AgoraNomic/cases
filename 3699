@@ -1,0 +1,65 @@
+===============================  CFJ 3699  ===============================
+
+      A Spaceship owned by the Lost and Found Department is in Sector
+      05.
+
+==========================================================================
+
+Caller:                        Telnaior
+
+Judge:                         Trigon
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Telnaior:                               29 Jan 2019 16:51:11
+Assigned to Trigon:                               29 Jan 2019 17:12:22
+Judged TRUE by Trigon:                            02 Feb 2019 07:59:10
+
+==========================================================================
+
+Caller's Arguments:
+
+This basically comes down to whether or not the Spaceship in question
+was destroyed upon transfer to the Lost and Found Department when I was
+deregistered by FAGE. (I'm guessing the spaceship from zombie-me was
+self-ratified out of existence by now regardless, which simplifies
+things a little).
+
+--------------------------------------------------------------------------
+
+Judge Trigon's Arguments:
+
+Events leading up to this CFJ:
+
+1. No spaceship existed in Sector 05 on January 21
+2. Telnaior registering on January 29 created a new spaceship
+3. Telnaior deregistered the same day
+4. Telnaior registering again created another new spaceship
+
+The main point of ambiguity is that when Telnaior deregistered during
+Event 3, we don't know where eir spaceship went.
+
+So what /could/ have happened to it?
+
+Possibilities:
+
+1. It was destroyed because it left the class of entities its ownership
+    was restricted to (Rule 2576 'Ownership' ¶1), or
+2. It is owned by the Lost and Found Department because any entity which
+    would otherwise lack an owner is owned by it (Rule 2576 'Ownership'
+    ¶2).
+
+Since these are in the same rule, which one takes precedence? We need to
+look to Rule 2240 ('No Cretens Need Apply') for clarification. This rule
+says that if one does not claim precedence over the other, the later
+clause wins out. If the "rules to the contrary notwithstanding" in the
+second paragraph doesn't already make Possibility 2 win out -- I won't
+state either way because I don't know -- the clause supporting it comes
+in ¶2 of Rule 2576, after Possibility 1.
+
+I judge TRUE.
+
+==========================================================================

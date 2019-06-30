@@ -1,0 +1,50 @@
+===============================  CFJ 3702  ===============================
+
+      Gaelan's (only) ship is at Sector 4.
+
+==========================================================================
+
+Caller:                        CuddleBeam
+
+Judge:                         D. Margaux
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by CuddleBeam:                             01 Feb 2019 17:46:33
+Assigned to ATMunn:                               03 Feb 2019 21:14:26
+ATMunn Recused:                                   12 Feb 2019 21:21:15
+Assigned to D. Margaux:                           12 Feb 2019 21:21:15
+Judged TRUE by D. Margaux:                        12 Feb 2019 21:21:15
+
+==========================================================================
+
+Caller's Arguments:
+
+> I spend 3 energy to move to sector (4->5 5->6 6->7).
+
+It's not players who spend energy to move, it's ships. And you can cause
+the ship to make a payment to move.
+
+From Rule 2592/0:
+
+      Any player CAN, by announcement, cause a Pilotable Spaceship e
+      owns to pay 1 Energy to move to a Sector adjacent to its Location.
+
+--------------------------------------------------------------------------
+
+Judge D. Margaux's Arguments:
+
+I judge CFJ 3702 TRUE.  The Rule says that a "player CAN, by announcement,
+cause a Pilotable Spaceship e owns to pay 1 Energy to move to a Sector
+adjacent to its Location."  The question seems to be whether a player CAN
+perform that action by saying "I spend X energy," when technically it is
+the spaceship (not the player) that is spending energy.  In my view, it is
+clear and unambiguous what action Gaelan was attempting to perform, and an
+ordinary Agoran would immediately understand the action being performed.
+It might be different if there were an ambiguity (e.g., if Gaelan had owned
+multiple ships), but absent that I believe the action succeeds.  TRUE.
+
+==========================================================================

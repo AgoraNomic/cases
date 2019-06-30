@@ -1,0 +1,89 @@
+===============================  CFJ 3747  ===============================
+
+      Jason Cobb made an announcement of intent to banish the Ritual
+      with 2.1 Agoran Consent that meets the clarity standards of
+      R2595/0.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Aris
+
+==========================================================================
+
+History:
+
+Called by G.:                                     25 Jun 2019 18:02:42
+Assigned to Aris:                                 30 Jun 2019 20:03:52
+
+==========================================================================
+
+Caller's Evidence:
+
+On 6/24/2019 11:17 PM, Jason Cobb wrote:
+> This is probably the easiest way to do this:
+>
+> For each number X that is an integral multiple of 0.1 not less than
+> 1.0 and not exceeding 5.0, I do the following:
+> {
+> I declare intent, with X Agoran Consent, to banish The Ritual,
+> pursuant to Rule 2596 ("The Ritual").
+>
+> I engage in DIABOLICAL LAUGHTER about the intent created in the
+> previous sentence.
+> }
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+tl;dr it probably works, but some recent rule changes *might* mean some
+old precedents need to be revisited via CFJ.
+
+Longer answer:  There's some deep precedents around this type of thing.
+ Strictly speaking you haven't declared intent at all these different
+levels - you've just *said* you did.  To actually do it, you have to
+write all of those out (all 501 of them).  However, it was long-ago
+recognized that absolutely requiring 501 statements was a pain in the
+butt for everyone and was actually *less* clear than a loop like you
+did, because someone could hide something in a long list.  So we (wholly
+through precedent) found that "shorthand" works (e.g. a loop procedure)
+- on the condition that it would be fairly trivial to write out the
+whole thing anyway.
+
+The logic is as long as you're just saving us all a little time and the
+looping is really clear, it's just a shorthand.  But if you try to do
+things that would be "hard to impossible" to write out in full, it fails
+because you're saying you did something that you couldn't practically do.
+
+So, for example, you couldn't use an infinite loop to make an infinite
+series of intents.   You couldn't use a finite but "excessively large"
+loop either - there's an email size limit on the archives (a bit bigger
+than the FLR, idk exactly) so the idea is if it was really long, we'd
+say "since a fully-written out email wouldn't be possible to send, a
+loop of that size doesn't work either".
+
+In your case 501 single-line intents is pretty small, so no problem.
+
+HOWEVER.  That's the general case for all actions.  We recently changed
+the langauge for intents in particular.  We changed:
+>      1. A person (the initiator) announced intent to perform the
+>         action, unambiguously and clearly specifying the action and
+>         method(s)
+to:
+>      1. A person (the initiator) conspicuously and without obfuscation
+>          announced intent to perform the action, unambiguously and
+>          clearly specifying the action and method(s)
+
+The addition of "conspicuously and without obfuscation" was purposefully
+added for the sole purpose of cracking down on attempts to hide intents,
+including through algorithmic processes that are opaque.  This is one of
+the strictest communication standards in the rules, and we haven't put
+too much case law into figuring out what it means.
+
+Does your loop meet these standards - it seems *reasonably* clear to me,
+but in light of the new stringent standards I wouldn't be too horribly
+surprised if a CFJ found the other way.
+
+==========================================================================

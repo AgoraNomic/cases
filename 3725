@@ -1,0 +1,73 @@
+===============================  CFJ 3725  ===============================
+
+      Aris’s attempt to distribute Proposal 8164 in the message below
+      was EFFECTIVE.
+
+==========================================================================
+
+Caller:                        D. Margaux
+
+Judge:                         Aris
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             08 Mar 2019 00:08:06
+Assigned to twg:                                  08 Mar 2019 00:15:57
+twg recused:                                      30 Apr 2019 19:35:05
+Assigned to Aris:                                 30 Apr 2019 19:35:05
+Judged TRUE by twg via Aris:                      30 Apr 2019 19:35:05
+
+==========================================================================
+
+Caller's Arguments:
+
+
+Either ATMunn already distributed the proposal, in which case it is no
+longer in the proposal pool and this CFJ is FALSE. Or else it is
+PARADOXICAL whether ATMunn distributed it, in which case this CFJ is also
+PARADOXICAL (which is what I think is true).
+
+But this CFJ can’t be TRUE. There’s no way that this proposal is
+non-PARADOXICALLY still in the proposal pool. That is because ATMunn has
+already distributed this proposal _unless_ the ADOPTION of this proposal
+fixed intents retroactively, which yields a PARADOX regarding whether this
+proposal is in the pool.
+
+
+Caller's Evidence:
+
+
+On Thu, Mar 7, 2019 at 6:56 PM Aris wrote:
+>
+> To be painfully clear, I distribute the below proposal, initiating the
+> Agoran Decision of whether to adopt it, and removing it from the
+> proposal
+> pool. For this decision, the vote collector is the Assessor, the quorum
+> is
+> 5, the voting method is AI-majority, and the valid options are FOR and
+> AGAINST (PRESENT is also a valid vote, as are conditional votes).
+>
+> [Same note as last time.]
+>
+> On Thu, Mar 7, 2019 at 3:53 PM Aris wrote:
+>
+> > As Promotor, I distribute Proposal 8164 as follows.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+As discussed in the judgement to CFJ 3723, a ratification event on
+2019-03-03 changed the gamestate to whatever it would have been had
+Proposal 8164 not been distributed on 2019-02-28. This, of course,
+includes the presence of Proposal 8164 in the Proposal Pool.
+
+As Proposal 8164 was in the Proposal Pool at the time the H. Promotor
+attempted to distribute it on 2019-03-07, this attempt was EFFECTIVE.
+
+I judge CFJ 3725 TRUE.
+
+==========================================================================

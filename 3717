@@ -1,0 +1,68 @@
+===============================  CFJ 3717  ===============================
+
+      twg is the Speaker.
+
+==========================================================================
+
+Caller:                        D. Margaux
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             17 Feb 2019 20:28:20
+Assigned to Aris:                                 17 Feb 2019 20:56:35
+Judged FALSE by Aris:                             26 Feb 2019 07:46:56
+
+==========================================================================
+
+Caller's Arguments:
+
+1) I won by cheating a while back (sorry!), and I think that triggered
+ATMunn’s obligation to reappoint me as a new speaker (even though I was
+already speaker).
+
+2) Subsequently, Gaelan won by apathy, and that victory was upheld as
+valid in a CFJ. (But maybe intents are broken? So is it really clear
+that e actually did win by apathy?)
+
+3) Then I declared a intent to deputise for PM “to appoint a new
+speaker” (or similarly generic language), which G. challenged as perhaps
+not specific enough to be a proper intent.
+
+4) Then twg and I declared victory by apathy (probably?—but again, that
+doesn’t work if intents are broken; and if intents _are_ broken, then
+how did Gaelan win?).
+
+5) I then declared an intent to deputise for PM to appoint twg
+specifically to be speaker.
+
+and then 6) I executed those intents by deputising as PM to appoint twg
+to be speaker (if laureled); otherwise Gaelan (if laureled); otherwise
+D. Margaux.
+
+So, the questions are—did twg and I win by apathy (or are intents
+broken)? If we did win, then both CFJs are TRUE (I think).
+
+If we didn’t win by apathy, the other question is whether my “general”
+intent was enough to deputise for PM? If so, then I am PM but twg isn’t
+Speaker. And in that case, is Gaelan the Speaker or am I?
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+I judge both of these FALSE. It’s pretty clear that dependent actions in
+general are broken. Furthermore, intents generally have to specify what
+action is to be performed. If a proposal said “A new Speaker is appointed”,
+everyone would be confused, and want to know who the the new Speaker was.
+This example indicates that the specification isn’t specific enough to
+specify an action. A more effective phrasing might be “For each player P, I
+intend to deputize for the PM appoint P Speaker”. I will not at this time
+rule whether stating an intent “for each person” would be overly broad,
+although personally I think it should work.
+
+==========================================================================

@@ -1,0 +1,73 @@
+===============================  CFJ 3720  ===============================
+
+      Whether or not a Proposal CAN make a Secured change is determined
+      by the power and precedence of R1688, as deferred to by R106.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Trigon
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     21 Feb 2019 18:10:39
+Assigned to Trigon:                               23 Feb 2019 14:58:16
+Judged TRUE by Trigon:                            24 Feb 2019 23:32:09
+
+==========================================================================
+
+Caller's Arguments:
+
+If R1688 were written as a definition:  "Secured-N is defined as
+meaning the secured thing CANNOT be changed by an instrument of
+power < N", then when a Rule A contains "X is Secured-N", that Security
+would have the precedence of Rule A when resolving rules conflicts, as
+the CANNOT would be contained, via definition, in Rule A.
+
+However, if R1688 was a direct prohibition "If a Rule states that
+something is Secured-N, then that thing CANNOT be changed by an
+instrument of power < N", then the CANNOT is a direct prohibition in
+R1688 that is invoked by Rule A, and the functioning of Security would
+have the precedence of R1688.
+
+The current language, though, is confusing to me.  It reads:
+"A Rule that makes a change, action, or value secured (hereafter the
+securing Rule) thereby makes it IMPOSSIBLE to perform that change or
+action..."
+
+This says that it's the Rule (Rule A) that "makes" it impossible.
+This could be read as "the text contained in Rule A makes it
+IMPOSSIBLE as per R1688" (putting the IMPOSSIBLE in R1688).  It could
+also be read as "Rule A is the one 'making' it impossible, therefore
+what matters is the power of Rule A".
+
+This is important for the relationship between Proposals and Security
+as per R106.   R106 reads in part:  "Except as prohibited by other
+rules, a proposal that takes effect CAN and does, as part of its
+effect, apply the changes that it specifies."
+
+Deference clauses only work between rules of the same power (R1030).
+If it's R1688 that applies the CANNOT for security, then R106 defers
+to R1688, and R1688 prevents secured changes from being made by
+proposals of too-low power.  So a TRUE judgement would imply "things
+are working as intended."  However, if the CANNOT is assumed to be in
+Rule A, then the deference doesn't work, and R106 overrules Rule A
+whenever Rule A is of a power<3, which means proposals CAN make
+changes even if their power is "too low" for the level of security.
+
+I think it would be pretty important to make sure that the actual
+CANNOT prohibition is considered to be "part of" Rule 1688 for the
+purposes of precedence, so I hope this is TRUE.  But if not, a
+legislative fix is needed.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+I judge this CFJ TRUE based on the caller's arguments.
+
+==========================================================================

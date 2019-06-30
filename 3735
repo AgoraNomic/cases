@@ -1,0 +1,124 @@
+===============================  CFJ 3735  ===============================
+
+      There was only one valid bid, namely for 1 coin by CuddleBeam.
+
+==========================================================================
+
+Caller:                        Baron von Vaderham
+
+Judge:                         Falsifian
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Baron von Vaderham:                     14 Jun 2019 06:29:31
+Assigned to Falsifian:                            14 Jun 2019 16:45:11
+Judged TRUE by Falsifian:                         18 Jun 2019 06:08:58
+
+==========================================================================
+
+Caller's Arguments:
+
+Trigon bid 2 Mexican pesos.
+Mexican pesos are coins.
+Valid currency for this auctions is coins
+
+Since Trigon bid two coins, and nowhere was it stated that the only
+legal tender was an AGORAN coin, I argue that there were TWO valid bids.
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+omd wrote:
+> Sent: Thursday, June 13, 2019 10:49:21 PM
+> To: agora-business at agoranomic.org
+> Subject: BUS: Re: OFF: Dollar Auction
+>
+> On Wed, Jun 5, 2019 at 12:29 AM omd  wrote:
+> > I hereby initiate an Auction.  I am the Auctioneer and the Announcer;
+> > the currency is coins, and the minimum bid is one coin.
+> >
+> > This Auction contains a single lot, and that lot contains a single\
+> > item, namely,
+> >
+> > ONE UNITED STATES DOLLAR.
+>
+> As the Announcer, I announce the end of this Auction.  There was only
+> one valid bid, namely for 1 coin by CuddleBeam.  E is the winner of
+> the only lot, and is now required to transfer payment.
+
+--------------------------------------------------------------------------
+
+Gratuitous arguments from V.J. Rada
+===================================
+
+> Words take their ordinary meaning when not defined by the rules. Coins
+> are
+> defined by the rules as "the official currency of Agora tracked by the
+> Treasuror" under rule 2483 "Coins". A currency is "a class of asset
+> defined
+> as such by its backing document". A backing document is a rule or
+> Contract.
+> Therefore pesos, which are defined by the laws of Mexico, are not coins.
+
+Timeline
+========
+
+All times are UTC.
+
+2019-06-05 07:29
+
+  omd initiates an auction, specifying "the currency is coins".
+
+2019-06-05 12:57
+
+  Cuddle Beam announces: "I bid 1 coin."
+
+2019-06-06 21:24
+
+  Trigon announces: "I bid TWO UNITED STATES DOLLARS."
+
+2019-06-07 01:59
+
+  Trigon announces: "I bid TWO MEXICAN PESOS."
+
+Judgement
+=========
+
+The below is essentially V.J. Rada's argument, plus a bit more about
+what "UNITED STATES DOLLARS" and "MEXICAN PESOS" are.
+
+Rule 2550 regulates bidding in auctions:
+
+> A person authorized to bid on an Auction CAN do so by
+> announcement, specifying the amount of the Auction's currency to
+> bid.
+
+The Rules define a currency as "a class of asset defined as such by its
+backing document". Rule 2166 ("Assets") defines assets to be entities
+"defined as such by a document that has been granted Mint Authority by
+the Rules", and defines the only kinds of document that have Mint
+Authority: rules and contracts.
+
+The question is: did either of Trigon's bids specify an amount of the
+auction's currency?
+
+The auction's currency is "coins". The rules only define one currency
+called "coins". I don't know whether any contracts exist that also
+define currencies called "coins", but if there are any they haven't been
+seen in a while. So it's clear that omd was referring to the currency
+"Coins" defined by Rule 2483.
+
+In the ordinary language sense, "UNITED STATES DOLLARS" and "MEXICAN
+PESOS" are units of currency. They could conceivably refer to coins, but
+they only way the could refer to Agoran Coins is if Trigon was using
+Agoran jargon I'm not aware of, and that doesn't seem likely. (Slightly
+relevant: G. recently posted on the discussion list about CFJ 3663,
+which has some observations about jargon.)
+
+I judge CFJ 3735 TRUE.
+
+==========================================================================

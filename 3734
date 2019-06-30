@@ -1,0 +1,114 @@
+===============================  CFJ 3734  ===============================
+
+      A Player with Blots CAN destroy a Blot in eir possession if e has
+      neither gained blots nor expunged any blots from emself in the
+      current Agoran week.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         V.J. Rada
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             11 Jun 2019 02:10:58
+Assigned to V.J. Rada:                            12 Jun 2019 05:18:31
+Judged FALSE by V.J. Rada:                        14 Jun 2019 05:15:55
+
+==========================================================================
+
+Caller's Arguments:
+
+I argue that when a player announces that e expunges a Blot from emself,
+then e is the one destroying the Blot. Thus, under Rule 2577, the Blot
+CANNOT be destroyed, as it was not destroyed "by a proposal or rule,
+other than [Rule 2577], specifically addressing the destruction of
+indestructible assets or that asset in particular", but rather by the
+Player.
+
+I argue that Rule 2240 ("No Cretans Need Apply") does not apply, as the
+definition of an asset being "indestructible" does not occur in Rule
+2555, but Rule 2555 rather defers to Rule 2577 for the definition, and
+then later attempts to override the definition in Rule 2577. Thus the
+conflict is between two Rules, rather than within the text of a certain
+rule.
+
+If the above two arguments are found valid, then Rule 1030 ("Precedence
+between Rules") states that the Rule with the higher Power takes
+precedence. In this case that is Rule 2577. This would mean that Blots
+CANNOT be destroyed.
+
+I thus argue that the ruling on this CFJ should be FALSE.
+
+
+Caller's Evidence:
+
+Excerpt from Rule 2555/2 ("Blots")
+[Power=2]
+
+      Blots are an indestructible fixed currency with ownership
+      restricted to persons.
+
+      [...]
+
+      To expunge a blot is to destroy it.
+
+      [...]
+
+      If a player has neither gained blots nor expunged any blots from
+      emself in the current Agoran week, e CAN expunge 1 blot from
+      emself by announcement.
+
+
+Excerpt from Rule 2577/1 ("Asset Actions") [Power=3]
+
+      An asset generally CAN be destroyed by its owner by announcement,
+      subject to modification by its backing document. An indestructible
+      asset is one defined as such by it backing document, and CANNOT be
+      destroyed except by a proposal or rule, other than this one,
+      specifically addressing the destruction of indestructible assets
+      or that asset in particular; any other asset is destructible.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments
+
+According to rule 2577, an indestructible asset "CANNOT be destroyed except
+by a proposal or rule, other than this one". Rule 2555 provides that Blots
+are an "indestructible fixed currency", and according to Rule 2578, "[a]
+currency is a class of asset". Rule 2555 also provides that "If a player
+has neither gained blots nor expunged any blots from emself in the current
+Agoran week, e CAN expunge [destroy] 1 blot from emself by announcement.".
+The question is whether this method of destroying a blot is "by a proposal
+or rule".
+
+Unfortunately my answer is that it is not. The word "by" either refers to a
+method of performing something ("by announcement" or "by shooting someone",
+say) or to an agent that must perform something ("This asset can only be
+destroyed by Jeff). "[A] proposal or rule" is unambiguously an _agent_
+rather than a method. It is not an action that can be taken, it is
+unambiguously the actor in this case. Therefore, the definition at power 3
+of indestructible assets overrides the power 1.7 provision for players to
+destroy Blots "by announcement". I fully adopt the caller's argument
+regarding Rule 2240. The latter clause doesn't conflict with the
+designation of Blots as indestructible, just the higher-power
+_consequences_ of that designation.
+
+Therefore, as it stands, only a proposal or rule can expunge blots, and it
+must do by its own terms. The consequences of this are limited due to
+self-ratification, and easy legislative fixes are available. Rule 2555 can
+easily be amended to _itself_ destroy the blots or "by" can be changed to
+"as provided by". But as it stands, the rules specify an agent or actor who
+must destroy indestructible assets, and that agent is not "a player" "by
+announcement"
+
+I am a pragmatist and I like to find plausible interpretations that lead to
+obviously intended outcomes. In fact, if Agora wasn't so determinedly
+textualist, I would do so here. But our traditions allow me no ability to
+manufacture ambiguity where there is none. This CFJ is FALSE.
+
+==========================================================================

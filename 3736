@@ -1,0 +1,205 @@
+===============================  CFJ 3736  ===============================
+
+      When the Referee MUST impose the Cold Hand of Justice, e CAN do so
+      by announcement.
+
+==========================================================================
+
+Caller:                        D. Margaux
+
+Judge:                         omd
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             14 Jun 2019 15:27:27
+Assigned to omd:                                  14 Jun 2019 16:52:30
+Judged FALSE by omd:                              15 Jun 2019 03:04:38
+omd files Motion to Reconsider:                   17 Jun 2019 02:31:57
+Judged FALSE by omd:                              17 Jun 2019 04:43:12
+
+==========================================================================
+
+Caller's Arguments:
+
+omd wrote:
+> I initially read the CAN as attaching to the preceding SHALL
+> rather than the following one.  When read as intended, it authorizes
+> the Referee to perform two actions.  One is to "announce" the Finger
+> Pointing to be Shenanigans, which e doesn't need authorization to do.
+> The other is imposing the Cold Hand of Justice, which e does need
+> authorization for, but... even with this proposal, I don't think
+> anything states *how* e can impose the CHoJ (i.e. by announcement).
+
+I don’t think our recent CFJs have addressed whether the Referee CAN
+impose the CHoJ by announcement. This logic implies that e CANNOT, and I
+think I agree with it. What a mess.
+
+--------------------------------------------------------------------------
+
+Judge omd's Original Arguments (pre-motion):
+
+The rabbit hole goes pretty deep:
+
+
+From Rule 2478:
+------------------------------------------------------------------------
+      When a player Points a Finger, the investigator SHALL investigate
+      the allegation and, in a timely fashion, SHALL conclude the
+      investigation by:
+
+      - Imposing the Cold Hand of Justice on the perp, as described
+        elsewhere; or
+------------------------------------------------------------------------
+
+From Rule 2557:
+------------------------------------------------------------------------
+      When the rules authorize an investigator to impose the Cold Hand
+      of Justice for a violation, e CAN do so by levying a fine on the
+      perp with a minimum of 1 and a maximum of 2x the base value of the
+      violation, within the following guidelines:
+------------------------------------------------------------------------
+
+From Rule 2555:
+------------------------------------------------------------------------
+      To Levy a Fine of N on a person, where N is a positive integer, is
+      to grant em N blots. To expunge a blot is to destroy it.
+------------------------------------------------------------------------
+
+From Rule 2577:
+------------------------------------------------------------------------
+      To grant an entity an asset is to create
+      it in eir possession.
+------------------------------------------------------------------------
+
+There are actually two cases of poor drafting here.
+
+First, Rule 2478 does not explicitly state than an investigator CAN
+impose the Cold Hand of Justice, merely that e SHALL.  Does that
+actually "authorize" em to do so (Rule 2557), or does it merely create
+an obligation that's impossible to satisfy?  I initially thought the
+latter.  However, the wording ("SHALL conclude the investigation by...
+imposing the CHoJ") is fairly similar to "SHALL do X by announcement",
+which has been treated in the past as equivalent to "CAN do X by
+announcement, and SHALL" - see CFJ 1765 [1].  So I'll say it does
+trigger Rule 2557.
+
+Second, Rule 2557 does not mention a mechanism such as "by
+announcement", and as far as I can tell, neither does any of the other
+rules involved.  Does it work anyway?
+
+Well, to start with, when Rule 2557 says "e CAN do so by levying a
+fine", does that imply "e CAN levy a fine", or is it simply saying
+that e CAN impose the CHoJ, assuming e has some existing mechanism of
+levying a fine?
+
+After all, if a rule says that, e.g., someone "CAN do X by
+announcement", which is roughly short for "CAN do X by announcing that
+e does X", it is not saying that e CAN announce that e does X.  That
+wouldn't make sense, because according to the definitions in Rule 478,
+the ability to announce something is a matter of external reality
+rather than part of the gamestate.  Instead, e needs an existing
+mechanism of announcing that e does X, which fortunately exists, and
+the rule is giving such an announcement the effect of actually doing
+X.
+
+Still, in this context, common sense suggests that Rule 2557 is trying
+to authorize em to levy a fine.  If not, the rule would only make
+sense if the investigator were someone separately empowered to levy
+arbitrary fines, and "authoriz[ing] an investigator to impose the
+[CHoJ]" would effectively just mean permitting such a fine to satisfy
+the rules' desire for punishment for a given violation, as opposed to
+being treated as unrelated.  But that interpretation seems strained
+given the wording, due to (among other things) the use of "authorize"
+and the mention of minimums and maximums.  Besides, the rules don't
+give anyone the power to levy arbitrary fines, and AFAIK never have,
+for as long as the current iteration of blots have existed.
+
+So Rule 2557 authorizes em to levy a fine, but doesn't say how.  In
+that case, CFJ 3425 [2] is on point:
+
+> Therefore, any "attempt" to perform a CAN, where the CAN is not qualified
+> by a method, will succeed if we can say that a legal "attempt" took place.
+
+> For an attempt to change a regulated quantity, the attempt must
+> communicate with the recordkeepor, and we generally require clear
+> communication.  A message to a discussion forum would not qualify, as
+> following a discussion forum is not required.  However, sending a public
+> message would clearly legally communicate the attempt to all players,
+> and so would be a legal "attempt" to perform the action.
+
+I'll honor the precedent here.  When the Referee is authorized to
+impose the CHoJ, e can create Blots by communicating eir attempt to do
+so to the recordkeepor for Blots – and sending a public message is one
+way of doing so.
+
+This does create an odd result, because the recordkeepor for Blots
+is... the Referee emself!  Sending a public message is *one* way for
+em to communicate with emself, but e could also do so purely mentally;
+there are no grounds to deny em that ability, as long as e understands
+clearly what e means to communicate to emself.  That seems a little
+like an absurdity, but not really, or at least it's not much worse
+than the result in CFJ 3425.  It's odd that the Referee can change
+important gamestate without telling anyone, true, but not that much
+odder than being able to change it by only telling one other person.
+It's odd that we can never know for sure what the Referee thought to
+emself, but then, so too can two people communicate and refuse to
+reveal what was said, or even lie about it.  (And even when two people
+are involved, there is no requirement that the means of communication
+be electronic or durable; they could communicate verbally, if they
+were physically nearby.)
+
+The Referee is, at least, obligated to publicize the results of eir
+actions indirectly, in the form of eir weekly report on Blot holdings.
+Though that doesn't help if e's acting in bad faith: even when mental
+actions are involved, eir report is still merely descriptive of the
+gamestate, not something that normatively establishes it; in other
+words, it can be false.  (Unless it self-ratifies.)
+
+But again, not so different from CFJ 3425.  Thus, in spirit, this CFJ is
+TRUE.
+
+But there are two technicalities regarding the actual CFJ statement:
+
+>       When the Referee MUST impose the Cold Hand of Justice, e CAN do so
+>       by announcement.
+
+One is the same as in CFJ 3425:
+
+> FALSE on a technicality; the action succeeds, but via the announcement of
+> attempt and R2152, not "CAN by announcement" as per R478.  This
+> technicality is important, as it ensures that "CAN by method X" isn't
+> severable into "CAN (by announcement attempt) by method X".
+
+The other is that the condition in the CFJ statement, "the Referee
+MUST impose the Cold Hand of Justice", is overly broad; it could be
+true if, e.g., the Referee pledged to impose the CHoJ on someone who
+has not been finger-pointed, which would *not* allow em to do so.
+
+For both of those reasons, I judge CFJ 3736 FALSE.
+
+[1] https://faculty.washington.edu/kerim/nomic/cases/?1765
+[2] https://faculty.washington.edu/kerim/nomic/cases/?3425
+
+--------------------------------------------------------------------------
+
+Judge omd's Final Arguments:
+
+I overlooked the "only using the methods" clause, which indeed
+postdates CFJ 3425 (it dates to 2017, while CFJ 3425 was judged in
+2014).
+
+Levying a fine is certainly a regulated action, and Rule 2125 takes
+precedence over all of the Cold Hand of Justice-related rules due to
+higher power, so it seems that imposing the Cold Hand of Justice is
+impossible after all.
+
+I note in passing that there might be odd results if a similar
+situation occurred (rule claiming to make something POSSIBLE without
+specifying a method) with a rule that takes precedence over Rule 2125.
+
+I re-judge CFJ 3736 FALSE, and earn another 5 coins for doing so.
+
+==========================================================================

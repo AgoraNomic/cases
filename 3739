@@ -1,0 +1,122 @@
+===============================  CFJ 3739  ===============================
+
+      A person earns a Cyan Ribbon when e temporarily deputises for an
+      office.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Falsifian
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     16 Jun 2019 18:34:55
+Assigned to Falsifian:                            18 Jun 2019 07:50:37
+Judged TRUE by Falsifian:                         22 Jun 2019 02:29:03
+
+==========================================================================
+
+Caller's Arguments:
+
+From Rule 2438 (Ribbons):
+      Cyan (C): When a person deputises for an office, that person earns
+      a Cyan Ribbon.
+
+The question is whether "temporary deputisation" is a sub-category of
+"deputisation" (deserving of a Ribbon) or if the qualifier makes it
+something totally separate and not ribbon-earning.
+
+From Rule 2160 (Deputisation):
+      5. the deputy, when performing the action, announces that e is
+         doing so by deputisation or by temporary deputisation
+      [...]
+      When a player deputises for an elected office, e becomes the
+      holder of that office, unless the action being performed would
+      already install someone into that office, and/or unless the
+      deputisiation is temporary.
+
+The "deputisation or by temporary deputisation" implies they're
+distinct things and not sub-categories, but the "unless the
+deputisation is temporary" implies one is a sub-category of the other
+(these are the only usages in the whole Ruleset of the term
+"temporary".
+
+It makes some kinda sense that a ribbon reward is reserved for when
+you actually take on an office, but I don't have a prejudice
+otherwise: FWIW when I wrote the "temporary" rule I didn't think about
+ribbons at all so there was no particular intent.
+
+--------------------------------------------------------------------------
+
+Gratuitous argument from R. Lee:
+
+> Gratuitous argument. Even if "deputisation" or "temporary
+deputisation" are
+> totally distinct categories, the Cyan Ribbon category uses the word
+> "deputises" rather than "deputisation". A person who engages in "temporary
+> deputisation", even if distinct from "deputisation" still engages in the
+> _verb_ "deputising".
+
+--------------------------------------------------------------------------
+
+Gratuitous argument from ais523:
+
+> The origin of the "you get a Cyan Ribbon for deputising" rule is older
+> than the "you gain an office by deputising for it" rule (although the
+> former hasn't been in the ruleset continuously, it was repealed for a
+> while and came back later). So at the time the concept was created,
+> deputising had no connotation of taking on the office at all, only of
+> helping to keep Agora running despite delinquency in the reports.
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Arguments:
+
+Rule 2438 (Ribbons) says: "When a person deputises for an office, that
+person earns a Cyan Ribbon." As R. Lee points out, this uses the verb
+"deputises" rather than the noun "deputisation". The rules don't
+directly define that verb, so let's use some common sense.
+
+The only other references to the verb "deputise" I see are in Rule 2160
+(Deputisation):
+
+> A player (the deputy) CAN perform an action ordinarily reserved
+> for an office-holder as if e held the office if
+...
+> 4. either (i) the office is vacant, (ii) the aforementioned time
+>    limit expired more than fourteen days ago, or (iii) the deputy
+>    announced between two and fourteen days earlier that e intended
+>    to deputise for that office for the purposes of the particular
+>    action; and
+...
+> When a player deputises for an elected office, e becomes the
+> holder of that office, unless the action being performed would
+> already install someone into that office, and/or unless the
+> deputisiation is temporary.
+
+Both of these uses imply that to use temporary deputisation is to
+deputise. The first, "...e intended to deputise for that office..."
+would still make sense if "deputise" were defined more narrowly, though
+in my opinion it would be strange. The second, though, is more clear:
+"When a player deputises ... e becomes ... unless ... the deputisation
+is temporary." There would be no reason for that "unless" if the verb
+"deputises" didn't include temporary deputisation.
+
+The caller argues "It makes some kinda sense that a ribbon reward is
+reserved for when you actually take on an office". It may be in the best
+interests of the game for this to be the case, but deputisation only
+barely requires a player to "take" an office, since e can resign
+immediately after deputisation, so this does not seem like a strong
+argument. (I am not sure whether the player would be required to fulfill
+that office's weekly and monthly duties because e held the office at
+some point during that week or month, but even if that were the case, I
+think the common-sense argument about the meaning of the verb "deputise"
+would be hard to deny.)
+
+I judge CFJ 3739 TRUE.
+
+==========================================================================

@@ -1,0 +1,81 @@
+===============================  CFJ 3698  ===============================
+
+      D. Margaux committed at least 1,000,000,000 rule violations.
+
+==========================================================================
+
+Caller:                        D. Margaux
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             22 Jan 2019 12:44:12
+Assigned to G.:                                   30 Jan 2019 17:20:52
+Judged FALSE by G.:                               30 Jan 2019 21:06:13
+
+==========================================================================
+
+Judge G.'s Arguments:
+
+The text containing the alleged violations was:
+> Pursuant to Rule 2542, as Arbitor, I award myself 1,000,000,000 favours in
+> COS.
+
+The rule text in question in R2542 is:
+>      The following officers CAN by announcement award Favours in the
+>      listed Parties, but SHALL NOT do so except as required by rule.
+>
+>      - Arbitor and Referee: the Party holding Justice.
+
+The attempt to award 1,000,000 favors was governed by a "CAN but SHALL NOT
+except as required", and the favour award(s) weren't required, so these are
+the alleged violations.  So the question is (1) did it succeed and (2) if it
+did succeed, did it amount 1,000,000,000 penalties?  By R2531(7), a single
+instance of "conduct" (i.e. a single act) can only be punished once - this
+reduces to the question "was an award of 1,000,000,000 favors written as a
+single sentence a single act of conduct?"
+
+First, on the success (By R2531(2), we don't punish failed attempts at rules
+violations unless No Faking applies).  One question is whether "award" means
+anything in the context of Favours.  There's no explicit definition of the
+process - (when this was first enacted a couple years ago, "award" did have
+an explicit definition for assets IIRC).  As a common definition "award"
+means "to give something" so it should amount to the recipient getting it -
+the question is whether there's a source.  Fortunately, R2577 defines
+"granting" assets as creating them in the recipient's possession, and I find
+that "award" is a close enough synonym to "grant" in this context for this
+to work (evidence:  in my real life budgeting, "grants and awards" is a
+specific line item category and everyone uses them interchangeably for the
+most part).
+
+I can find no other reason that the act(s) would have failed, so they
+succeeded.
+
+How many acts?  A single act of granting (of N favours) can be performed
+practically as N acts of 1 favour.  CFJ 3597 made it clear, though, that
+they are not wholly interchangable, and it depends on the authorizing rule
+in question.   In CFJ 3597, it was found that when the rules say "you have
+to spend N coins to perform single act X", those have to be made as a single
+payment (a single act). So if you try to transfer N coins when you only have
+N-1 coins, the whole thing fails a single act, you don't transfer a partial
+sum.  Conversely, R2449 makes it clear that the award of a champion is a
+single once-only award per win.  So if I say "I award the patent title
+Champion to D. Margaux 500 times" and D. Margaux only won 499 times, it's
+treated as if I wrote out 500 awards with 499 succeeding and the last one
+failing.
+
+So it depends on the text of the rule in question.  In this case, R2542
+pluralizes "favours" in "CAN...award favours"; moreover, later it describes
+an award of 3 favours as a requirement for a single act.  This suitably
+implies that, by default, a single statement "awarding N favours" is a
+single act.  (I say "by default" because it's likely possible to override
+this - for example by saying "I make N awards of 1 each").
+
+Therefore, this award of 1,000,000,000 favours in this situation was a
+single act, and a single rules violation.  I find FALSE.
+
+==========================================================================

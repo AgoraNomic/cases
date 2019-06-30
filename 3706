@@ -1,0 +1,160 @@
+===============================  CFJ 3706  ===============================
+
+      All Players are parties to the Rules as a contract.
+
+==========================================================================
+
+Caller:                        CuddleBeam
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by CuddleBeam:                             09 Feb 2019 18:36:37
+Assigned to G.:                                   10 Feb 2019 18:39:05
+Judged TRUE by G.:                                14 Feb 2019 00:12:39
+
+==========================================================================
+
+Caller's Arguments:
+
+I don't know how the retroactive nature of the Agora-contract works - if
+everyone is now a party of the Agora-contract, ie. a player of Agora, or if
+only people who have registered while the contract rule was in place - but
+a few curious things that now could happen because of it regardless.
+
+- Agora-contract can never fall below two players, because of R1742: "A
+contract automatically terminates if the number of parties to it falls
+below two", and Anti-Ossification is Power 4. Amusingly, the whole consent
+deal has less priority than Anti-Ossification, so even if you don't want to
+stay as a player the rules will NON-CONSENSUALLY keep you as a player to
+ensure it's survival.
+- You can change the rules if everyone agrees to it, without needing a
+proposal for it. R1742: "A contract may be modified, including by changing
+the set of parties, by agreement between all existing parties."
+- R1742: "Parties to a contract governed by the rules SHALL act in
+accordance
+with that contract." - redundant but it would mean that breaking SHALLs,
+will mean blots for two things, the direct SHALL you broke and this one.
+Cool stuff.
+- Assets are BOTH public and private now, lmao. R2166: "A rule defined
+asset is public; one defined by a contract is private."
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+- First and foremost, Agora is [an instance of] a game of Nomic (R101,
+R1698).  As this is specified in some of our highest-precedence rules,
+anything that conflicts with Agora being a game would be overruled.
+
+- An instance of game, by societal convention (i.e. social contract), is
+an agreement of a set of persons (players, or parties) to abide by a
+certain set of rules when interacting in contexts covered by those
+rules.  This agreement includes the rules text and a set of persons who
+are playing.
+
+- Players of games, by societal convention, are “bound” to those rules –
+in the sense that it’s considered rude to pick up your ball and go home
+before the rules say the game is over.  Furthermore, the agreement-
+nature of the game (including polite ways to leave the agreement) is
+explicitly contained in R869.
+
+- The rules are governed by the rules.  This is a tautology.
+
+- Therefore the “binding agreement to abide by the rules, as governed by
+the rules” is a consequence of Agora’s “game nature”. It is a single
+entity; e.g. the assets of “Agora as game” and “Agora as agreement” are
+the same (R1586).
+
+- R1742 states that “Any group of two or more consenting persons (the
+parties) may make an agreement among themselves with the intention that
+it be binding upon them and be governed by the rules. Such an agreement
+is known as a contract.”  This simply applied the label “contract” to
+this type of agreement.
+
+- Therefore, the “contract” label applies to Agora.
+
+- But importantly, since the agreement is a consequence of Agora’s
+game-nature in addition to R869, Agora is not “just” a contract.  If the
+definition of the label in R1742 is repealed, Agora continues to exist
+as a game (R1586).
+
+- If the label is used to grant abilities or limitations to inheritors
+of that label (e.g. “a contract CAN”), then those abilities or
+limitations are also granted to Agora, but are (by agreement) subject to
+the usual rules for precedence, power, etc.
+
+- However, an explicit statement using the label (e.g. “All contracts
+are destroyed”) would include “Agora is destroyed” as part of its
+effects, to be applied to whatever power the statement is given (see CFJ
+3580).
+
+- So beware of blanket directives applied to Contracts at power-3.
+
+- The current definition of Contract in R1742 was adopted on 01-Jul-18
+(Proposal 8054).  Prior to that, the definition for “Contract” was such
+that it did not apply to Agora.  The previous definition (R2520)
+included “An entity can only become a contract through the appropriate
+ruleset defined procedures” and the defined procedures never occurred
+for Agora.  So the power-3 clause in Proposal 8054 (“Destroy all
+contracts.”) did not apply to Agora.
+
+- Phew!
+
+- Rules currently applying to contracts (as a label) thus have the
+effect of applying those rules to Agora, subject to the relative
+precedence of those rules.
+
+- Now, before final judgement, some due diligence.  If “contracts”
+includes Agora, are any rules-references to contracts dangerous to
+Agora?  Here's the list:
+
+1.  “A contract may be modified, including by changing the set of
+parties, by agreement between all existing parties.”  (R1742)  Yes, it
+can – “without objection” is a rules agreed-to method of determining
+unanimous consent.  By agreeing to the rules, the parties have already
+agreed that other methods, such as everyone saying “I agree”, don’t
+work for Agora, due to power/precedence/etc. of this clause relative to
+others.
+
+2.  “A contract may also terminate by agreement between all parties.”
+(R1742) Some hoops would have to be jumped through as part of the
+agreement-to-terminate (e.g. repealing the protective rules) but again,
+this is fine, putting it here does not override existing higher-power
+protections.
+
+3. “A contract automatically terminates if the number of parties to it
+falls below two.” (R1742) This one is interesting, as it adds a stealth
+protection – the second-to-last person in Agora may be prevented from
+deregistering due to R1698.  (that might not be the exact mechanism, but
+R1698-effectsd would overrule any termination implied by R1742).
+
+4.  “A party to a contract CAN perform any of the following actions as
+permitted by the contract's text:...” (R1742).  Yup, if the rules
+permit, the players can do those things.  Which would be true if this
+clause didn’t exist.
+
+5.  “Contracts have Mint Authority.” (R2166).  So do rules, so this adds
+nothing.
+
+6.  “ownership of an asset is restricted to Agora, players, and
+contracts.” (R2576). The lists includes Agora and contracts so changes
+nothing.  Same with the more specific asset limitations (e.g. coins).
+
+7.  The thing with allies and space battles isn’t an issue.
+
+- Therefore, there is nothing in the current ruleset that fails to treat
+Agora Right Good by applying the label of “Contract” to it as per R1742,
+the only danger is being sure that future proposals or other instruments
+that say “all Contracts are [X]” are proofed against harming the rules.
+But given that all power-3 proposals have some danger of overruling
+everything, that particular concern doesn't particularly keep me up at
+night.
+
+- I find TRUE.
+
+==========================================================================

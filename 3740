@@ -1,0 +1,269 @@
+===============================  CFJ 3740  ===============================
+
+      In Rule 2125, "required to be a recordkeepor" refers only to
+      recordkeepors as defined in Rule 2166.
+
+==========================================================================
+
+Caller:                        omd
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by omd:                                    17 Jun 2019 04:58:04
+Assigned to G.:                                   18 Jun 2019 07:51:13
+Judged FALSE by G.:                               30 Jun 2019 18:24:58
+
+==========================================================================
+
+Caller's Arguments:
+
+Or is it simply an ordinary-language reference to the act of keeping
+records?
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+------------------------------------------------------------------------
+Rule 2125/10 (Power=3)
+Regulated Actions
+
+      An action is regulated if: (1) the Rules limit, allow, enable, or
+      permit its performance; (2) describe the circumstances under which
+      the action would succeed or fail; or (3) the action would, as part
+      of its effect, modify information for which some player is
+      required to be a recordkeepor.
+
+      [..]
+------------------------------------------------------------------------
+Rule 2166/28 (Power=3)
+Assets
+
+      [..]
+
+      The recordkeepor of a class of assets is the entity (if any)
+      defined as such by, and bound by, its backing document. That
+      entity's report includes a list of all instances of that class and
+      their owners. This portion of that entity's report is
+      self-ratifying.
+------------------------------------------------------------------------
+
+I think this is when the language was first introduced, in 2005:
+
+https://github.com/comex/flr/commit/e7e0a863c1fa13ba405d022a559693ee80f993a5
+
+The ruleset at the time did not define "recordkeepor":
+
+https://raw.githubusercontent.com/comex/flr/e7e0a863c1fa13ba405d022a559693ee80f993a5/current_flr.txt
+
+------------------------------------------------------------------------
+
+Judge G.'s Arguments
+
+First, I'm going to take it for granted that "required" in the quoted
+part of R2125 should be read REQUIRED - that is, "required by the
+rules".  No other reading makes sense really.
+
+So there are two ways to interpret "Recordkeepor" as used in R2125.  The
+first is as Agoran dialect for the generic concept of "record keeper".
+If so, then other synonymous phrases in the rules would make someone a
+recordkeepor for R2125 purposes. For example, requiring someone to "to
+track" something (switches in R2162) or making something part of an
+officer's report ("a list of players interested in judging" in the
+Arbitor's Report in R991) would make someone a keeper of the record of
+the tracked quantities, and therefore a Recordkeepor for the purposes of
+R2125.  I'll call this the "loose" definition.
+
+The other interpretation is that Recordkeepor in R2125 is a term of art
+that only applies when the rules explicitly require someone to be a
+"recordkeepor", using that word and spelling.  This is the "strict"
+definition.
+
+Either definitions has its plusses and minuses in terms of current
+gameplay.  The strict definition may leave some things unregulated that
+we think should be regulated.  Conversely, the loose definition would
+regulate things like "the list of interested judges" which are generally
+handled informally (and have no formal mechanism for changing).
+
+In the current ruleset, "rulekeepor" is associated with specific records
+in two situations.  The first is for Assets, e.g. in R2555:
+>      The Referee is an office, and the recordkeepor for blots.
+However, other assets use the "tracked by" language instead of the
+"recordkeepor" term, e.g in R2483:
+>      Coins [...] are tracked by the Treasuror.
+
+This seems to argue for the loose definition ("tracked by = recordkeepor
+but this mapping is actually an explicit mapping for assets found in R2166:
+>      For a class of assets to be "tracked by" an entity is for that
+>      entity to be its recordkeepor.
+This makes the link between "tracked by" and "recordkeepor" explicit,
+but only for assets, so this doesn't tell us much about the general
+case. In fact it argues for the "strict" definition, because if we were
+using the loose definition generally, we wouldn't need this text to
+exist for assets.
+
+The single other context for "recordkeepor" in the current ruleset is
+found in R2438:
+> The Tailor is an office, and the recordkeepor of Ribbons.
+
+However, the issue is that this phrase has no actual legal effect.
+Ribbons, per se, do not exist as a regulatable quantity.  R2438 states
+that Ribbon *ownership* is a person switch "tracked by the Tailor". And
+"tracked by" for switches maps to a specific set of responsibilities in
+R2162:
+>      3. Optionally, exactly one office whose holder tracks instances of
+>         that switch. That officer's (weekly, if not specified
+>         otherwise) report includes [...]
+This maps "tracked by" to reporting requirements for switches, bypassing
+the "recordkeepor" term entirely.  Further, ribbon ownership is clearly
+regulated by the R2125's "limit, allow, enable, or permit" clause, so
+additionally calling someone the "recordkeepor" for ribbons adds no
+regulation nor reporting requirement.
+
+So what can we make of this usage, and what does it mean?  The answer is
+historical. And since dialect develops over time, a historical view of
+the term may provide insights.
+
+"Recordkeepor" has a deep Agoran history.  It was first introduced circa
+1994 in Rule 612/0: [0]
+>      A Player is defined as the Recordkeepor for a Currency if e is
+>      required to keep an accurate record of the number of that
+>      Currency owned by each player and non-player Nomic entity which
+>      is permitted to own that Currency.
+
+A couple things to note about this definition:
+
+First, Recordkeepor is specific to currencies; strictly speaking,
+"Recordkeepor for a Currency" is explicitly defined, but no other type
+of recordkeepor is defined or used in the rules.  This argues in favor
+of strict interpretation.
+
+Second, it is applied operationally - any time another rule requires
+someone to generally keep a record of a currency, that makes em the
+"Recordkeepor" for that currency.  So synonyms could be used to require
+someone to keep currency records, and that defines em as a recordkeepor.
+This argues in favor of loose interpretation.
+
+Some help - either interpretation seems possible at the introduction of
+the term.
+
+Jumping to the first ruleset in the mailman archives (Nov 2002), R1064/9
+says: [1]
+>      If a Player is mandated by the Rules to maintain a set of
+>      records, these records must be available for perusal, unless
+>      such records are designated by the Rules as private.  A Player
+>      who maintains such records must provide a copy of these Records
+>      to any other Player upon request within one week.
+
+Note that, if "recordkeepor" were interpreted loosly as an allowable
+synonym, "If a Player is mandated by the rules to maintain a set of
+records" could be replaced easily with "If a Player is recordkeepor
+for", the fact that it wasn't indicates that "recordkeepor" wasn't a
+common synonym for the concept of keeping records.  Further, at the
+time, "recordkeepor" was strictly defined for assets in R1942/2 (in this
+era, assets were known as property):
+>      Each property shall have a recordkeepor, which is a player
+>      required to maintain a record of who owns that property.
+
+Again here, the fact that "recordkeepor" has to be explicitly equated
+with the concept of keeping records argues against it being a common
+term for record keeping, and argues for the strict definition.  However,
+we also see general uses in that ruleset:
+Rule 1975/3:
+>      The Assistant Director of Personnel (ADoP) is an office; its
+>      holder is recordkeepor for offices
+Rule 1955/7:
+>      (a) The Grand Warden of the Oligarchy (GWotO) is an office; its
+>          holder is recordkeepor of Oligarchs
+In each case, "Offices" or "Oligarchs" was a general umbrella concept
+(similar to "Ribbons" today) and the actual kept records were detailed
+separately (e.g. for the Oligachy "a list of all Oligarchs, the identity
+of the Speaker, and the date of the next quarterly Speaker transition.")
+
+This "general use" language was introduced in a restructuring of Offices
+performed by Proposal 4250('Omnibus Office Reform') in Februray 2002.
+While a copy of this proposal is not available to this judge, Murphy's
+Agoran Weekly Journal of the time summarizes part of the proposal as
+follows: [2]
+> Proposal 4250 - Adopted 2/18
+> [...]
+> Rules defining Offices are conformed to this template:
+> "The _____ is an office; its holder is recordkeepor of/for _____ and is
+>    responsible for _____.
+>   "The _____'s Weekly/Monthly Report shall include _____.
+
+At this point, "recordkeepor" becomes a very general term, referring to
+the *category* of records a particular Officer tracks, but without
+detailing individual record types (that's left for the Weekly/Monthly
+report definition).
+
+This brings us to Proposal 4833 (6 August 2005) that introduced the
+concept of regulation and tied it to "recordkeepor": [3]
+> Change the title of rule 101 (Obey the Rules) to "Agora May I?",
+> and amend it to read:
+>
+>      Any player is permitted to perform an action which is not
+>      regulated.  An action is regulated if:
+>      [...]
+>      (c) the action would, as part of its effect, modify information
+>          for which some player is required to be a recordkeepor;
+
+However at the time of Proposal 4833's adoption, "recordkeepor" had
+changed. Switches had been introduced to the ruleset, and
+assets/properties were not generally defined.  Recordkeepor was now
+defined in terms of switches (again, a strict definition): [4]
+>      The recordkeepor for a class of entities shall also maintain
+>      records of any switches associated with that class, as well as
+>      the current state of the switch for each entity of the class.
+
+So for example in Rule 2091/1:
+>       The Secretary of the University (SotU) is an office; its holder
+>      is recordkeepor for the University.
+
+"The University" wasn't itself a record, but an entity, and every switch
+associated with the university was part of the required recordkeeping.
+"The University" as a concept wasn't regulated, but all of the switches
+associated with it were.  The "regulation" cascaded from the concept of
+being "recordkeepor for the university" to each tracked switch.
+
+So here, we have "strict but cascading" - the "recordkeepor" is a term
+of art that cascades down to specific records, all of which are under
+the "recordkeepor requirement".  But the strict term is still necessary
+at the top of the cascade.  Interpreting it more loosely would have been
+dangerous at the time, because it might stretch regulation into general
+concepts (e.g. regulate everything remotely connected to "the University").
+
+And that's where we are today.  "Recordkeepor" historically has always
+had some kind of strict definition, but that definition might cascade to
+other properties (e.g. with Ribbons, to all Ribbon switches).  That
+seems to be the most reasonable.  By explicitly using the term
+"recordkeepor" in a rule, this regulates all records that are placed
+under that term.  But if the term is nowhere used explicitly for a set
+of records (e.g. in the case of the Arbitor, for the "list of interested
+judged"), then the R2125 regulation due to recordkeepor does not apply.
+
+This brings a sort of mixed verdict for the CFJ statement.
+"Recordkeepor" in R2125 refers strictly to instances where the term is
+used in the rules, and any records cascading from that explicit use.
+Currently, this only applies to the R2166 definition cited by the
+caller, but also the "Ribbons" that cascades recordkeeping to Ribbon
+switches in general (duplicating the "tracked by" lanugage for
+switches in R2162).
+
+While this is FALSE due to that Ribbons useage, the more general records
+(e.g. interested judges) are not regulated by this R2125 clause.
+
+I find FALSE.
+
+[0]http://www.fysh.org/~zefram/agora/rules_text.txt
+[1]https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2002-November/000004.html
+[2]http://zenith.homelinux.net/awj/20020309.txt
+[3]https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2005-August/002403.html
+[4]https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2005-July/002388.html
+
+==========================================================================

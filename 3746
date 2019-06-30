@@ -1,0 +1,42 @@
+===============================  CFJ 3746  ===============================
+
+      An Agoran decision to select the winner of the election has a
+      voting method of AI-Majority.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         R. Lee
+
+==========================================================================
+
+History:
+
+Called by G.:                                     23 Jun 2019 22:38:15
+Assigned to R. Lee:                               30 Jun 2019 20:03:14
+
+==========================================================================
+
+Caller's Arguments:
+
+Rule 1950 (Decisions with Adoption Indices, Power=3):
+       Adoption index is an untracked switch possessed by Agoran
+       decisions and proposals, whose value is either "none" (default)
+       [...]
+       For any Agoran decision with an adoption index, the voting method
+       is AI-majority.
+
+This states outright that Agoran decisions have AIs, and any decision with
+an AI has a voting method of AI-majority.  The fact that the value of the AI
+is "none" doesn't mean the AI is nonexistent.
+This directly conflicts with the last part of this clause in R2154
+(Power=2), but R1950 wins the conflict due to having power=3:
+       1) If the election is contested, initiate an Agoran decision to
+          select the winner of the election (the poll). For this
+          decision, the Vote Collector is the ADoP, the valid options are
+          the candidates for that election (including those who become
+          candidates after its initiation), and the voting method is
+          instant runoff.
+
+==========================================================================

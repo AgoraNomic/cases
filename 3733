@@ -1,0 +1,232 @@
+===============================  CFJ 3733  ===============================
+
+      On June 7, 2019, omd earned 5 Coins for publishing a
+      duty-fulfilling report.
+
+==========================================================================
+
+Caller:                        Falsifian
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Falsifian:                              08 Jun 2019 15:08:40
+Assigned to G.:                                   12 Jun 2019 05:17:38
+Judged FALSE by G.:                               13 Jun 2019 15:48:25
+Motion for G. to reconsider filed:                18 Jun 2019 01:23:42
+Judged FALSE by G.:                               18 Jun 2019 01:23:42
+
+==========================================================================
+
+Caller's Arguments:
+
+V.J. Rada said there's some precedent, but we haven't been able to
+find it. omd found CFJ 3551, which isn't quite the same situation: in
+it, H. Judge o decided that publishing a revision to a report in
+response to a claim of error fulfills a duty for the purpose of the
+Rewards rule.
+
+Ignoring precedent, I think it's TRUE. R2143 defines "official duty
+for an office", but I don't see "duty" defined in the rules. The first
+definition in Wiktionary is "That which one is morally or legally
+obligated to do". omd was both legally (in the sense that the rules
+required em) and morally (in the sense that one should do what one
+promises) obligated to publish that report.
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+omd  wrote:
+ > I pledge to publish a report, at least once in the current week, about
+ > whether or not I am wearing a hat.
+ >
+ > I publish the following report:
+ > {
+ > I am not wearing a hat, although my bicycle helmet is on the desk in
+ > front of me.
+ > }
+ >
+ > I earn 5 Coins for publishing a duty-fulfilling report.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+There are three terms that have to be evaluated for this CFJ: "Duty",
+"Fulfilling", and "Report".
+
+Duty
+
+I agree with the Caller that the term is not defined in the rules, and
+therefore we use a common definition.  In context, though, the
+appropriate definition not the general "moral obligation"[*] but "a task or
+action that someone is required to perform."  In this case, "required"
+is a keyword, and our meaning of REQUIRED is not so far from the common
+definition that it should be not used:  by the Rules, a duty is a task a
+person is REQUIRED to perform (or not perform).  Since this is the
+Rules, outside requirements don't count as duties (e.g. the report I was
+required to give to my boss doesn't count). Keeping pledges counts for this.
+
+Fulfilling
+
+This can be read two ways.  (1) A publication that has previously
+fulfilled a duty (including someone else's duty) counts or (2) the act
+of publication being rewarded must be the duty-fulfilling act.  I find
+that the best reading, reasonably supported by the grammar and clearly
+supported by the intent,  is that the publication is not
+"duty-fulfilling" unless the act of publication being rewarded is
+fulfilling a duty (otherwise the publication is a *copy* of a
+duty-fulfilling report, which is not the same thing).  So republishing
+other peoples' formerly duty-fulfilling reports doesn't count.
+Sorry.
+
+Report
+
+I agree that "report" is not explicitly defined by the rules.  However,
+several implications about "reports" are made in R2143/27.  There's two
+options here:  (1) a "report" is anything fitting the common definition
+of report, or (2) a "report" is limited to documents described in R2143.
+I'll look at both options.
+
+The relevant common definition of "report" is "an account given of a
+particular matter, especially in the form of an official document".
+The "especially" in the common definitions, in itself, is not enough to
+limit reports to what Agora defines as "official".  Therefore, by this
+interpretation, any REQUIRED published account of information would be a
+"report".  We allow synonyms, so the keyword "report" need not be used
+in setting up the requirement.
+
+Under this interpretation, the Assessor makes reports of votes is
+resolving decisions.  An auction announcer makes reports of bids at the
+end of an auction, etc.  Any time a player is REQUIRED to provide any
+factual information, would would constitute a duty-fulfilling report of
+said information.  Further, since basic by-announcement assertions are
+factual, fulfilling ANY required duty by announcement would be a report
+of doing so.  If we use the common definition, I can't find any lines to
+draw that don't seem artificial (e.g. restricting it to the term
+"report" or requiring report-like formatting, etc.).  Therefore, to go
+by the common definition is to let pretty much anything qualify.
+
+This is obviously not intended, and probably causes many problems, but
+in the absence of R2143 I would support this interpretation for the
+purposes of Rewards.  The question is, then, does R2143 adequately limit
+the scope of "Report" to a more limited subset of documents?
+
+R2143 reads in part:
+      Any information defined by the rules as part of a person's report,
+      without specifying which one, is part of eir weekly report.
+
+Further, the rules provides extended guidelines and REQUIREMENTS for
+weekly reports, thereby regulating the production of weekly reports.
+Since weekly reports are regulated, and depend on the definition of
+their contents, and since "person's reports" in general are mapped to
+weekly reports, defining something as "part of a person's report" is a
+regulated action, only doable as explicitly described by the rules - and
+this doesn't include pledges. [**]
+
+I find this more limited scope of "report" more compelling for the
+following reasons:
+
+- Fits the intent (not a requirement, but nice).
+
+- In common language, it's supported by the "Official" in the common
+definition:  "especially in the form of an official document".
+
+- If we accept that "every publication duty is a report", then the rules
+are implicitly defining lots of actions to be part of a person's report.
+ But that puts them on the "weekly report" timescale, which contradicts
+whatever timeline those other duties have -quite a mess.
+
+These aren't slam dunk arguments, but to me they are more compelling
+than the "everything is a report" alternative.
+
+This Court finds FALSE.
+
+[*] Finding "moral obligations" both proscribes the unregulated, and is
+contextually subjective, e.g. similar to "humiliation" in CFJ 3644.
+
+[**] To be clear, R2143 described how a player CAN fulfill eir duty - by
+"the publication of all such information".  This describes the
+circumstances under which the duty would succeed or fail as per R2125
+(via the publication of "all information").  Therefore the contents (the
+"all information") is regulated, as determining whether all information
+is contained is part of determining success.
+
+--------------------------------------------------------------------------
+
+Judge's Evidence:
+
+Rule 2143/27 (Power=1)
+Official Reports and Duties
+
+      For each person:
+
+      1. If any task is defined by the rules as part of that person's
+         weekly duties, then e SHALL perform it at least once each week.
+         If any information is defined by the rules as part of that
+         person's weekly report, then e SHALL maintain all such
+         information, and the publication of all such information is
+         part of eir weekly duties.
+
+      2. If any task is defined by the rules as part of that person's
+         monthly duties, then e SHALL perform it at least once each
+         month. If any information is defined by the rules as part of
+         that person's monthly report, then e SHALL maintain all such
+         information, and the publication of all such information is
+         part of eir monthly duties.
+
+      Any information defined by the rules as part of a person's report,
+      without specifying which one, is part of eir weekly report.
+      Failure of a person to perform any duty required of em within the
+      allotted time is the Class-2 crime of Tardiness.
+
+      An official duty for an office is any duty that the Rules
+      specifically assign to that office's holder in particular
+      (regardless of eir identity).
+
+      A person SHALL NOT publish information that is inaccurate or
+      misleading while performing an official duty, or within a document
+      purporting to be part of any person or office's weekly or monthly
+      report.
+
+      Reports SHALL be published in plain text. Tabular data must line
+      up properly when viewed in a monospaced font. Publishing a report
+      that deviates from these restrictions is the Class 2 Crime of
+      Making My Eyes Bleed.
+
+      Officers SHOULD maintain a publicly visible copy of their reports
+      on the World Wide Web, and they SHOULD publish the address of this
+      copy along with their published reports.
+
+      A convergence is any change to the gamestate that has, in
+      accordance with the rules, been designated as such. A change to
+      the gamestate SHOULD NOT be designated as a convergence unless it
+      is designed to resolve gamestate ambiguity. Designating a change
+      as a convergence is secured; any player CAN do so with 3 Agoran
+      Consent. When officeholders provide historical information, they
+      NEED NOT accurately document the changes made by the convergence
+      or related ambiguities, provided that they instead note that the
+      convergence occurred. Information about a convergence (but not the
+      resulting state) is inherently uncertain and is thus excluded from
+      self-ratification.
+
+
+Excerpt from Rule 2496/12 (Power=1)
+Rewards
+
+      A player CAN, by announcement, earn the set of assets associated
+      with a reward condition exactly once in a timely fashion each time
+      e fulfills it, provided the announcement specifies the action that
+      e performed and the amount of assets e earns as a result.
+      [...]
+      * Publishing a duty-fulfilling report: 5 coins. For each office,
+        this reward can only be claimed for the first weekly report
+        published in a week and the first monthly report published in a
+        month.
+
+==========================================================================

@@ -1,0 +1,72 @@
+===============================  CFJ 3741  ===============================
+
+      A zombie auction was initiated on June 6.
+
+==========================================================================
+
+Caller:                        Falsifian
+
+Judge:                         Murphy
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Falsifian:                              19 Jun 2019 16:01:21
+Assigned to Murphy:                               21 Jun 2019 22:31:00
+Murphy recused:                                   30 Jun 2019 18:30:20
+Assigned to G.:                                   30 Jun 2019 18:30:20
+Judged TRUE by G.:                                30 Jun 2019 18:30:20
+
+==========================================================================
+
+Caller's Arguments:
+
+For context, Rance said:
+
+> R2549 says "An Auction also CANNOT be initiated unless the Auctioneer is
+> able to give away each item in each of the Auction's lots."
+>
+> If Agora was unable to transfer the zombie ownership at the time the
+> auction was initiated, does that mean the initiation failed in the first
+> place?
+
+But I think the initiation worked, because R1885 says "the Registrar
+CAN put that zombie ... up for auction", and R1885 has higher power
+than R2549. R2549 describes the method for initiating auctions (by
+announcement), and R1885 says that the Registrar CAN, so my attempt
+satisfied both of the R2125 conditions: "A Regulated Action CAN only
+be performed as described by the Rules" and "only using the methods
+explicitly specified in the Rules for performing the given action."
+The CANNOT that appears later in R2549 that Rance quotes is overruled
+by the CAN by the higher-powered R1885.
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+From the Registrar's June 6 announcement with subject "June Zombie Auction":
+
+> I initiate a zombie auction, with the following lots (each zombie a
+> separate lot) ordered as follows (highest-bid first):
+>
+> 1. Publius Scribonius Scholasticus
+> 2. Corona
+> 3. Hālian
+> 4. Tarhalindur
+>
+> Agora is the Auctioneer, and the Registrar is the Announcer. The
+> currency is Coins with a minimum bid of 1.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments
+
+CFJ 3741 is practically identical to CFJs 3693-3694, and no one has
+presented explicit counterarguments to the reasoning in those CFJs.
+I find TRUE.
+
+==========================================================================

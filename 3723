@@ -1,0 +1,311 @@
+===============================  CFJ 3723  ===============================
+
+      The Assessor currently CAN and MAY resolve an Agoran Decision
+      whether to adopt Proposal 8164 to be ADOPTED.
+
+==========================================================================
+
+Caller:                        D. Margaux
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             07 Mar 2019 14:20:10
+Assigned to twg:                                  07 Mar 2019 14:27:38
+twg recused:                                      30 Apr 2019 19:35:05
+Assigned to Aris:                                 30 Apr 2019 19:35:05
+Judged FALSE by twg via Aris:                     30 Apr 2019 19:35:05
+
+==========================================================================
+
+Caller's Arguments:
+
+The judgements for at least one (and maybe all) of these CFJs should be
+PARADOXICAL.
+
+A few weeks back, ATMunn was indisputably Prime Minister and Gaelan
+attempted to win by apathy. Gaelan’s attempted win would have been
+successful except that without-objection intents were broken at that
+time. Shortly thereafter, I published an intent to appoint Gaelan
+specifically to be Speaker (it was not a general “appoint a speaker”
+intent; I specifically said I intended to appoint Gaelan). Then I
+attempted to execute that intent and deputise for Prime Minister to do
+so. That deputisation would be EFFECTIVE if Gaelan had won by apathy and
+had been laureled. As a result, if intents are fixed retroactively, then
+Gaelan was retroactively laureled and my deputisation succeeded in
+installing me as Prime Minister retroactively.
+
+After I attempted that deputisation, I next acted on behalf of ATMunn to
+attempt to distribute by Manifesto a proposal to fix dependent actions
+retroactively. I believe a quorum attempted to vote FOR and no one
+attempted to vote AGAINST.
+
+Soooooo.... I think that the Assessor can’t resolve this proposal
+without resulting in a PARADOX.
+
+To put it another way:
+
+[1] If dependent actions are NOT fixed retroactively, then ATMunn was
+Prime Minister at the time of the below message and the attempted
+distribution of Proposal 8164 was EFFECTIVE;
+
+[2] If the distribution of Proposal 8164 was EFFECTIVE, then in a timely
+fashion the Assessor CAN and MUST resolve it to be ADOPTED;
+
+[3] If the Assessor resolves Proposal 8164 ADOPTED, then that
+retroactively fixes dependent actions, thereby making me Prime Minister
+retroactively at the time of the attempted distribution of Proposal 8164;
+
+[4] If I was Prime Minister at the time of the attempted distribution of
+Proposal 8164, then the attempted distribution by me-acting-as-ATMunn
+was INEFFECTIVE, the proposal was never properly distributed, and
+therefore the Assessor CANNOT and MUST NOT resolve it to be ADOPTED (and
+a CoE to challenge a purported ADOPTION would be proper and would
+prevent ratification);
+
+[5] If Proposal 8164 is not ADOPTED, then dependent actions are NOT
+fixed retroactively;
+
+[6] Return to step 1 above and repeat.
+
+Sorry all!
+
+I think we can fix this by a proposal that
+retroactively-retroactively-fixes the gamestate.  But in the meantime, I
+think these CFJs are PARADOXICAL...?
+
+
+Caller's Evidence:
+
+> On Feb 27, 2019, at 8:34 PM, D. Margaux <dmargaux000@gmail.com> wrote:
+>
+> Pursuant to the Living Zombie contract, I hereby cause ATMunn to issue
+the Cabinet Order of Manifesto to distribute the below proposal,
+initiating the Agoran Decision of whether to adopt it, and removing it
+from the proposal pool. For this decision, the vote collector is the
+Assessor, the quorum is 5, the voting method is AI-majority, and the
+valid options are FOR and AGAINST (PRESENT is also a valid vote, as are
+conditional votes).
+>
+>
+> Proposal ID: 8164   
+> Title: Correction to Agoran Satisfaction, Version 2.4
+> Author: Falsifian
+> Co-authors: ais523, D. Margaux, G., twg
+> Adoption Index: 3.1
+> Text:
+>
+> The gamestate, excluding the rules, is changed to what it would have
+> been if the text of the following amendment to Rule 2124 had determined
+> whether Agora was Satisfied with any intents attempted after Proposal
+> 7815, rather than the text of what Rule 2124 was at that time. To the
+> extent allowed by the rules, this change is designated as a convergence.
+>
+> Rule 2124 is amended by replacing its text with the following:
+>
+>      A Supporter of an intent to perform an action is an eligible
+>      entity who has publicly posted (and not withdrawn) support (syn.
+>      "consent") for an announcement of that intent. An Objector to an
+>      intent to perform an action is an eligible entity who has publicly
+>      posted (and not withdrawn) an objection to the announcement of
+>      that intent.
+>
+>      The entities eligible to support or object to an intent to perform
+>      an action are, by default, all players, subject to modification by
+>      the document authorizing the dependent action. However, the
+>      previous sentence notwithstanding, the initiator of the intent is
+>      not eligible to support it.
+>
+>      Agora is Satisfied with an intent to perform a specific action
+>      unless at least one of the following is true:
+>
+>      1. The action is to be performed Without N Objections, and there
+>         are at least N Objectors to that intent.
+>
+>      2. The action is to be performed With N support, and there are
+>         fewer than than N Supporters of that intent.
+>
+>      3. The action is to be performed with N Agoran Consent, and the
+>         number of Supporters of the intent is less than or equal to N
+>         times the number of Objectors to the intent.
+>
+>      The above notwithstanding, if an action depends on objections, and
+>      an objection to an intent to perform it has been withdrawn within
+>      the past 24 hours, then Agora is not Satisfied with that intent.
+>
+>      The above notwithstanding, Agora is not satisfied with an intent
+>      if the Speaker has objected to it in the last 48 hours.
+>
+>      A person CANNOT support or object to an announcement of intent
+>      before the intent is announced, or after e has withdrawn the same
+>      type of response.
+
+--------------------------------------------------------------------------
+
+Judge's Arguments:
+
+This CFJ is the second of three that comprise an attempt by D. Margaux to
+Win by Paradox, the other two being CFJ 3722 and CFJ 3724. As background
+information, Agora is currently experiencing a minor crisis: new player
+Falsifian discovered on 2019-02-14 that Rule 2124/23, "Agoran
+Satisfaction", contains text that has unintended effects, with the result
+that:
+
+    Agora is not Satisfied with an intent to perform an action unless it
+    is to be performed With Notice or With T Notice. In particular,
+    Gaelan's recent attempt to Declare Apathy on February 7, 2019 was
+    ineffective, and D. Margaux's dependent actions in their recent
+    message that starts 'I thought for sure people would object...' were
+    ineffective.
+
+This interpretation was confirmed by the H. Judge Trigon in CFJ 3712. As a
+result, it is now known that all attempts to perform dependent actions
+other than With Notice or With T Notice since the erroneous text was
+introduced in Proposal 7815 on 2016-10-28 were INEFFECTIVE.
+
+Proposal 8164 seeks to solve the problem retroactively:
+
+    The gamestate, excluding the rules, is changed to what it would have
+    been if the text of the following amendment to Rule 2124 had
+    determined whether Agora was Satisfied with any intents attempted
+    after Proposal 7815, rather than the text of what Rule 2124 was at
+    that time. To the extent allowed by the rules, this change is
+    designated as a convergence.
+    
+    Rule 2124 is amended [such that it works as intended.]
+
+Unfortunately, it has transpired that the method by which Proposal 8164
+was distributed relies upon the failure of dependent actions. D. Margaux
+asserts that this means Proposal 8164, upon taking effect, changes the
+gamestate to whatever the gamestate would be had it not taken effect,
+creating a paradox.
+
+
+
+In CFJ 3722, we established that on 2019-02-28, then-Prime Minister ATMunn
+issued a Cabinet Order of Manifesto, distributing Proposal 8164 and
+initiating an Agoran decision about whether to adopt it. The voting period
+for Agoran decisions is currently 7 days, as specified by Rule 107/20, and
+indeed during the 7 days following the distribution of Proposal 8164,
+several players attempted to vote on the decision.
+
+The H. Assessor recorded these attempted votes as they were announced,
+producing a preliminary tally of votes as follows:
+
+    +----------------+-----+
+    |AI              | 3.1 |
+    |Quorum          |  5  |
+    +----------------+-----+
+    |Corona     Z 7b.|  F  |
+    |D. Margaux    PM|FFFF |
+    |G.              | FFF |
+    |Falsifian       | FFF |
+    |L.         Z 1b.|+FFF |
+    |twg          4b.| FF  |
+    +----------------+-----+
+    |FOR             | 16  |
+    |AGAINST         |  0  |
+    |Ballots         |  6  |
+    |Resolved        |ADOP.|
+    +----------------+-----+
+
+    Key:
+    #b. Possesses # blots [-floor(#/3) voting strength]
+    PM  Prime Minister [+1 voting strength]
+    Z   Zombie
+    +   Extricated conditional
+
+I believe this tally of attempted votes to be complete and accurate; and
+therefore, if the Agoran decision currently exists, and if all the above
+attempts to vote in it were EFFECTIVE, then clearly the Assessor now CAN
+and MAY resolve it ADOPTED.
+
+
+
+However, does the Agoran decision in question exist?
+
+We know that ATMunn held the office of Prime Minister on 2019-02-28.
+However, this is inconsistent with the Associate Director of Personnel's
+weekly report of 2019-02-24, which states in part:
+
+Office             Holder[1]  Since         Last Election   Complexity
+------------------------------------------------------------------------
+Prime Minister    *D. Margaux 2019-02-16    2018-11-25          1
+------------------------------------------------------------------------
+
+It is apparent that the Associate Director of Personnel incorrectly
+believed one or more of D. Margaux's attempts to deputise for Prime
+Minister on 2019-02-16 to have succeeded. E was clearly aware that some
+uncertainty existed, as evidenced by the following disclaimer at the top
+of eir report:
+
+    [Disclaimer: Depending on laurels, D. Margaux's message on Feb 16 may
+    have installed Gaelan or D. Margaux as Speaker instead of twg.]
+
+However, this refers only to the holder of Speaker, not the holder of
+Prime Minister, and in any case, in CFJ 3643, the H. Judge V.J. Rada held
+that a disclaimer attached to a self-ratifying official report does not
+prevent the self-ratification of that report. Therefore, and given that
+it was not doubted at any point by any player, the incorrect report
+self-ratified 7 days after its publication, on 2019-03-03.
+
+
+
+Rule 1551/19 explains very clearly what happens when a document is
+ratified:
+
+    When a public document is ratified, rules to the contrary
+    notwithstanding, the gamestate is modified to what it would be if,
+    at the time the ratified document was published, the gamestate had
+    been minimally modified to make the ratified document as true and
+    accurate as possible; however, if the document explicitly
+    specifies a different past time as being the time the document was
+    true, the specified time is used to determine the minimal
+    modifications. Such a modification cannot add inconsistencies
+    between the gamestate and the rules, and it cannot include rule
+    changes unless the ratified document explicitly and unambiguously
+    recites either the changes or the resulting properties of the
+    rule(s). If no such modification is possible, or multiple
+    substantially distinct possible modifications would be equally
+    appropriate, the ratification fails.
+
+The Associate Director of Personnel's incorrect report was published on
+2019-02-24, so we must determine the minimal modification to the gamestate
+needed at that time to make it true and accurate. Clearly, this simply
+means changing the officeholder of Prime Minister to D. Margaux and the
+officeholder of Speaker to twg.
+
+The ramifications of this self-ratification are clear. In a hypothetical
+game history where D. Margaux became Prime Minister on 2019-02-24, e
+clearly could not have acted on behalf of ATMunn to issue a Cabinet Order
+on 2019-02-28, as ATMunn would no longer have been the Prime Minister.
+Proposal 8164 would therefore never have been distributed. As a result,
+the self-ratification changed the gamestate to what it would have been
+if Proposal 8164 had not been distributed, annihilating the then-extant
+Agoran decision on whether to adopt it.
+
+
+
+If the Agoran decision initiated on 2019-02-28 no longer exists, it
+clearly CANNOT be resolved. To the best of my knowledge, there is no
+other Agoran decision on the adoption of Proposal 8164 that was initiated
+more than 7 days ago. It is therefore IMPOSSIBLE to resolve such a
+decision, ADOPTED or otherwise.
+
+I judge CFJ 3723 FALSE.
+
+Furthermore, I would like to note that the situation could have been much
+worse if the incorrect Associate Director of Personnel report had 
+happened to have been published _after_ the attempted Cabinet Order. This
+might have resulted in the Assessor resolving the Agoran decision ADOPTED,
+making Proposal 8164's retroactive changes to the gamestate immediately
+before the Agoran decision was retroactively nullified. This would have
+generated a truly alarming mess for the Rulekeepor.
+
+So let's try not do this again, please.
+
+==========================================================================

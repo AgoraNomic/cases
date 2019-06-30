@@ -1,0 +1,110 @@
+===============================  CFJ 3721  ===============================
+
+      G. has earned 5 coins for the Herald's Report of 17-Feb-2019.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        twg
+
+Judge:                         D. Margaux
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     05 Mar 2019 20:48:49
+Assigned to D. Margaux:                           05 Mar 2019 21:09:25
+Judged TRUE by D. Margaux:                        06 Mar 2019 17:14:41
+
+==========================================================================
+
+Caller's Arguments:
+
+
+I plan to provide proof to the judge of the CFJ that a statement
+containing the required earnings information hashes to the
+previously-published hash.
+
+CFJ 3714 implied fairly strongly that it is not required to state the
+coins earned "to someone else".  It was "stated" in a written form,
+and the hash of the written form is the proof that I did so at that
+particular time.  CFJ 3714 strongly suggested that "stating it" in
+Discussion would work, with the only question being the burden of
+proof that the statement was, in fact, made in some form (since
+Discussion is visible to others, that satisfies the burden of proof).
+I don't see how, if Discussion would work (as CFJ 3714 specifically
+allows), "stating it" to a hash generator with proof that statement
+was made at that time is any different.
+
+I don't think any application would be retroactive, I think it would
+be "evidence previously unavailable is now revealed".  But because I'm
+interested in that retroactivity question, I haven't provided the
+original statement text at this point in time.
+
+Addendum:  Didn't notice that the evidence of the statement had been
+clipped off this thread.  The message in question is this one:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2019-February/040091.html
+
+--------------------------------------------------------------------------
+
+Judge's Evidence:
+On Tue, Mar 5, 2019 at 1:28 PM Kerim Aydin <kerim@uw.edu> wrote:
+>
+> For the record, I have emailed the requested information to the Judge.
+
+Judge's Arguments:
+
+
+Under Rule 2496/11, a player CAN earn a reward for publishing a
+duty-fulfilling report by "stating how many assets e earns as a result
+of the action."  The Rule does not require that this statement be made
+by announcement.  In this case, the Caller wrote down the number of
+assets e earned and sent it to an online hashing tool with the intent
+for it to qualify as a Rule 2496/11 "statement." The Caller also
+published the resulting hash as confirmation that e did, in fact, send
+that purported "statement" to the online hashing tool before the
+deadline.  The Caller privately informed me that the hashed text was
+"I claim a reward of 5 coins for my most recent Herald's Weekly
+Report."  I am satisfied that hashing that text does yield the hash
+value that e published within the deadline.
+
+The question is whether, on those facts, did the Caller in a timely
+manner "stat[ed] how many assets e earn[ed]," as those terms are used
+in Rule 3721?  In my view, the Caller did do so for the following
+reasons:
+
+Rule 3721 does not require that a Caller "publish" or "announce" the
+number of assets e earned.  As a result, a public message is not
+required to satisfy that Rule.  Instead, it is required only that the
+Caller "stat[e]" the number of assets constituting the award within
+the time period.
+
+The Rules do not define what is entailed in this kind of
+"stat[ement]," so we look to the ordinary meaning of the word. The
+relevant meaning of "state" is "express something definitively or
+clearly in speech or writing."  Here, the hash is satisfactory proof
+that the Caller had "express[ed]" the right number of assets
+"definitively [and] clearly in . . . writing" at the time that e
+submitted that text to the hashing website.
+
+The Rule does not require the Caller to make the "stat[ement]" to any
+particular audience, and so it seems to be enough if the Caller within
+the relevant time period expresses the correct number of assets in
+some sort of medium outside of eir own mind (whether written, typed,
+spoken, etc.).
+
+Theoretically, the Caller could have submitted the text to the hashing
+website before the report was published, and I have considered judging
+this CFJ "DISMISS" for insufficient information based on that
+possibility.  The Caller assures me, however, that e did submit the
+text to the hashing website within the time allotted, and the fact
+that e did publish the corresponding hash value within the time period
+corroborates that assertion.  In light of that corroboration, and in
+the absence of any reason to think otherwise, I do believe that e did
+submit it to the hashing website within the relevant time period.
+
+Therefore, I judge CFJ 3721 TRUE.
+
+==========================================================================

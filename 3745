@@ -1,0 +1,74 @@
+===============================  CFJ 3745  ===============================
+
+      There exists an Agoran Decision to adopt a proposal with the title
+      'It's caused enough trouble already' and with a valid adoption
+      index.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         D. Margaux
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             23 Jun 2019 22:07:24
+Assigned to D. Margaux:                           30 Jun 2019 20:02:27
+
+==========================================================================
+
+Gratuitous Arguments by G.:
+
+When you submit a proposal, it is "optional" to include an adoption index
+(R2350).  The default value in R1950 is "none" so that likely means the
+result (if you submit without specifying at all) is a proposal with "AI =
+none".
+
+If you submit with an invalid (but optional) AI, I'm not at all sure
+whether it invalidates the proposal creation or sets it at default.
+
+For example, in the case of Rule Changes, if you say "Amend Rule XXXX
+([Title])", including the [Title] is optional, but if you specify the
+title incorrectly, precedent holds that it invalidates the whole rule
+change as overly ambiguous, though that relies on the "Any ambiguity..."
+clause in R105 specific to Rule Changes.  
+
+Falsifian specified an (invalid) AI of 0.5 when submitting the proposal
+in question. So for more general by-announcement actions, does
+specifying an invalid but optional parameter invalidate the whole process?
+
+--------------------------------------------------------------------------
+
+Gratuitous Evidence by G.:
+
+On 6/23/2019 9:08 AM, James Cook wrote to agora-business:
+> I create a proposal with the following attributes and text:
+> 
+> Title: It's caused enough trouble already
+> Adoption index: 0.5
+> Co-authors: none (empty list)
+> Text: Repeal Rule 2596 (The Ritual).
+> 
+
+Rule 2350/11 (Power=3)
+Proposals
+
+       A proposal is a type of entity consisting of a body of text and
+       other attributes. A player CAN create a proposal by announcement,
+       specifying its text and optionally specifying any of the following
+       attributes:
+
+       * An associated title.
+
+       * A list of co-authors (which must be persons other than the
+         author).
+
+       * An adoption index.
+
+       Creating a proposal adds it to the Proposal Pool. Once a proposal
+       is created, neither its text nor any of the aforementioned
+       attributes can be changed. [...]
+
+==========================================================================

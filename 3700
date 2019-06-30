@@ -1,0 +1,109 @@
+===============================  CFJ 3700  ===============================
+
+      In the message quoted in evidence, D. Margaux earned at least 1
+      coin.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        twg
+
+Judge:                         Murphy
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     01 Feb 2019 14:18:51
+Assigned to Trigon:                               03 Feb 2019 21:14:26
+Judged TRUE by Trigon:                            06 Feb 2019 17:32:12
+Trigon files Motion to Reconsider:                07 Feb 2019 15:56:47
+Trigon recuses emself:                            07 Feb 2019 15:56:47
+Assigned to Murphy:                               07 Feb 2019 15:58:35
+Judged TRUE by Murphy:                            10 Feb 2019 18:05:48
+
+==========================================================================
+
+Caller's Arguments:
+
+The requirement for earning a reward is explicit and literal in R2496: a
+player does it by "stating how many assets e earns as a result".  Accepting
+quang in this context means accepting that you can state how many assets you
+earn by NOT stating how many assets you earn.  This is more nonsensical than
+is usual even for Agora, and if Rule text and words are going to mean
+anything, it simply shouldn't work. 
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+On 1/29/2019 9:17 AM, D. Margaux wrote:
+> I quang Arbitor and Registrar 
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by twg:
+
+Counter-argument: To "quang" an office was earlier defined as being to
+earn 5 coins for publishing that office's most recent report, and
+appears now to have entered common Agoran parlance (totally
+unintentionally on my part, I assure you). The set of assets "5 coins"
+is part of the definition of "quang", and therefore a statement that one
+quangs _is_ a statement that one earns 5 coins.
+
+A similar situation would be if somebody said, "I earn a number of coins
+1 greater than 4 for publishing the most recent Arbitraryofficor
+report." E would not have explicitly used the digit "5" in the string of
+characters making up eir statement, but it quite clearly means exactly
+the same thing as "I earn 5 coins for publishing the most recent
+Arbitraryofficor report.", and should be acceptable to R2496.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by CuddleBeam:
+
+It's invalid because they obviously didn't shimmy the dimmies.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+The message was "I quang Arbitor and Registrar", and the question is
+whether "quang" satisfies Rule 2496's "stating how many assets" even if
+you don't quote the original non-rules definition:
+
+  1) To "quang" an office is to earn 5 coins for publishing that
+     office's most recent report.
+
+  2) To "quang" a player is to act on the player's behalf to transfer
+     all eir liquid assets to oneself.
+
+If Rule 2496 said "explicitly stating", then I would judge FALSE. But it
+doesn't.
+
+If these were the only definitions publically claimed, then I believe it
+would still count as "stating". They're reasonably easy to find in the
+archives (from about one month ago), it's reasonably obvious that #1 is
+the one that applies, the Treasuror is likely familiar with #1 by now,
+and the amount stated in #1 (5 coins) involves no further computation or
+lookup.
+
+The issue is muddled by these competing definitions, publically claimed
+prior to this CFJ:
+
+  3) I quang twg to Cuddlebeam.
+     "Quang" means to publish a notice of honour, -1 to twg for trying
+     to force double-meanings onto "Quang", +1 to CuddleBeam for
+     flooping the whoop.
+
+  4) I quang the whoop.
+     "Quang" means to floop.
+
+However, as #1 is still the only one that causes the message quoted in
+evidence to evaluate to something meaningful, I still think it's clear
+enough.
+
+TRUE.
+
+==========================================================================
