@@ -1,0 +1,59 @@
+===============================  CFJ 3754  ===============================
+
+      Rule 2598 has been repealed.
+
+==========================================================================
+
+Caller:                        twg
+
+Judge:                         G.
+
+==========================================================================
+
+History:
+
+Called by twg:                                    05 Jul 2019 14:03:40
+Assigned to G.:                                   08 Jul 2019 01:28:49
+
+==========================================================================
+
+Caller's Arguments:
+
+Argument for FALSE - R2598 says/said:
+
+      8. Any player CAN with Agoran Consent trigger this Rule.  When
+         this Rule is triggered, the following events happen in order:
+         (a) the Politics Rules are automatically repealed in ascending
+         numerical order (unless Politics has been Revived), (b) the
+         Spaaace Rules are automatically repealed in ascending numerical
+         order (unless Spaaace has been Revived), and (c) this Rule is
+         automatically repealed.
+
+It's not clear to me that those events can/could actually occur - the
+rule is/was just stating that they happen, rather than stating that it
+(or something else with Power >= 3.0) makes them happen. R105 is pretty
+unambiguous that rule changes can only be caused by instruments, which
+is why we have verbose things like this in R106:
+
+      When a decision about whether to adopt a proposal is resolved, if
+      the outcome is ADOPTED, then the proposal in question is adopted,
+      and unless other rules prevent it from taking effect, its power is
+      set to the minimum of four and its adoption index, and then it
+      takes effect. Except as prohibited by other rules, a proposal that
+      takes effect CAN and does, as part of its effect, apply the
+      changes that it specifies.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Jason Cobb:
+
+This was already brought up by omd [0], and Aris gave a response arguing
+that it would work [1].
+
+[0]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2019-June/040615.html
+
+[1]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2019-June/054363.html
+
+==========================================================================

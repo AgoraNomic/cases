@@ -8,6 +8,7 @@
 Caller:                        Jason Cobb
 
 Judge:                         G.
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Jason Cobb:                             27 Jun 2019 15:05:56
 Assigned to G.:                                   30 Jun 2019 20:04:28
+Judged FALSE by G.:                               30 Jun 2019 21:45:57
 
 ==========================================================================
 
@@ -43,5 +45,42 @@ Rule 2405:
    Oathbreaking, where N is 2 unless the pledge explicitly states
    otherwise. The time window of a pledge is 60 days, unless the pledge
    explicitly states otherwise.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+If a sentence mixes its tenses, using explicit future tense and explicit
+past tense, it generally comes out as nonsense (Dr. Dan Streetmentioner
+notwithstanding).  For example: "I promise in the future to not have run
+away yesterday" is just plain old ambiguous and fails to set up actions
+or tests.
+
+The rules language in question is:
+ >     If a Player makes a clear public pledge (syn. Oath) to perform (or
+ >     refrain from performing) certain actions...
+
+After looking at several online grammar references, I reach the
+conclusion that "I pledge to [action]" or "I promise to [action]" is a
+future tense construction equivalent to "I promise that I will
+[action]".  So the pledge in question has mixed tenses and is ambiguous
+- too ambiguous to be clearly breakable in any meaningful way.
+
+There are two alternatives given the ambiguity.  The first is simple:
+to say the whole thing was a failed attempt to make a pledge and didn't
+do anything due to the ambiguity.  Straightforward.
+
+A second alternative disambiguation is that one tense dominates.  In
+this case, it would be the past tense, given the explicit use of
+"previous" in the pledge statement.  However, we could no longer read
+this as a "promise to do something" because that is inherently future
+tense and would remain ambiguous.  Rather, if this statement is
+"translated" to be wholly past tense, the only reasonable construction
+is "I promise that I didn't do X previously" instead of "I promise that
+I won't do X previously."  In this case, it's a sworn statement of fact,
+not a pledge - so if X did happen previously, it would be subject to No
+Faking (if done to mislead), but not a subject for Oathbreaking.
+
+Either way:  FALSE.
 
 ==========================================================================

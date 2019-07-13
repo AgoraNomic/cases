@@ -9,6 +9,7 @@
 Caller:                        G.
 
 Judge:                         Aris
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -16,6 +17,7 @@ History:
 
 Called by G.:                                     25 Jun 2019 18:02:42
 Assigned to Aris:                                 30 Jun 2019 20:03:52
+Judged TRUE by Aris:                              07 Jul 2019 23:07:49
 
 ==========================================================================
 
@@ -85,5 +87,137 @@ too much case law into figuring out what it means.
 Does your loop meet these standards - it seems *reasonably* clear to me,
 but in light of the new stringent standards I wouldn't be too horribly
 surprised if a CFJ found the other way.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+This case concerns the exact meaning of the phrase "unambiguously,
+clearly, conspicuously, and without obfuscation". It is well established
+what it means of someone to say something "unambiguously" and "clearly"
+(and clear that the announcement in this case was both), but current
+Agoran law does not define the terms "conspicuously" and "without
+obfuscation", which may well be the highest standard that has ever been
+imposed for publication.
+
+First off, I'm going to discuss how this absurdly high standard came to
+be, not so much because it's judicially necessary as because I think
+it's interesting. It used to be that announcements of intent to perform
+dependent actions only had to be public, unambiguous, and clear. At some
+point, players realized that they could slip such announcements into
+places where others would be unlikely to read them. While such actions
+had perhaps previously happened from time to time, they became a day to
+day occurrence. At first everyone was just amused; there was a general
+feeling that players needed to be more careful, and that the scamming
+player had gotten one up on the others. However, as such scams continued
+to be repeated, it became clear that no reasonable quantity of effort
+was sufficient to prevent further scams. Some players began to add an
+section to every public message they sent objecting to intents. Some
+scammers began using complex patterns of obfuscation to evade detection
+via search. Eventually, everyone got tired of the whole mess and decided
+to deal with it one and for all. The solution was the addition of the
+conspicuously and without obfuscation standard.
+
+Something is conspicuous if it "stand[s] out so as to be clearly
+visible" (Google). Of late, a few players have taken to putting warnings
+in all caps at the top of messages containing dependent actions. This
+works, but is probably more than necessary to make a dependent action
+clearly visible. All that is really required is that a reasonable player
+would be able to tell after glancing at a message that it contains the
+dependent action. E should not need to read thoroughly, merely to look
+at the message. For long messages, a warning is probably necessary, but
+for short messages any part is probably conspicuous, since a player
+glancing at a short message likely skims all of it.
+
+Without obfuscation is a harder standard to pin down. To "obfuscate"
+something means to "render [it] obscure, unclear, or unintelligible"
+(Google). What this means in practice is harder to say. It does seem
+pretty unlikely that it would forbid all indirection though; the ban is
+more on the misleading kind of indirection. I propose a two part
+standard. First, a reasonable Agoran reading the message must, at a
+glance, be able to understand the gist of the dependent action being
+announced. The rationale for this rule is that it is unreasonable to
+expect that player will pay attention to an announcement unless e has
+enough information to decide whether it is relevant to em. However,
+the details of the action may require more thought, just so long they
+remain easy to understand (I'd say anything that requires the average
+Agoran more than 30-60 seconds is probably out). Anything more than that
+is obscure enough that it's obfuscated. For instance, an announcement
+that required following a complex page long algorithm to figure out the
+value of N would be obfuscated, since a player would have trouble
+figuring out the value of N even if e cared enough to try.
+
+Let's apply this standard to the actual case. The announcement of intent
+was certainly conspicuous, appearing in plain view and taking up most of
+the body of a message. It is easy, at a glance, to tell the basics of
+the situation: it is an intent to banish the ritual with Agoran Consent.
+Finally, it is possible to work out what's going on without much
+trouble. It maybe requires a single reread to determine what's going on,
+but it wouldn't take the average Agoran more than that. I therefore
+determine that this intent met the clarity standards of R2595/0. TRUE.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Evidence:
+
+Rule 2595/0 (Power=3)
+Performing a Dependent Action
+
+  A rule that purports to allow a person (the performer) to perform
+  an action by a set of one or more dependent actions identified in
+  Rule 1728 thereby allows em to perform the action by announcement
+  if all of the following are true:
+
+  1. A person (the initiator) published an announcement of intent
+     that unambiguously, clearly, conspicuously, and without
+     obfuscation specified the action intended to be taken and the
+     method(s) to be used;
+
+  2. The announcement referenced in paragraph (1) of this Rule
+     unambiguously, clearly, conspicuously, and without obfuscation
+     states:
+
+     * the value of T, if the action is to be taken with T Notice;
+       and
+
+     * the value of N, if N is not equal to 1 and the action is to
+       be taken Without N Objections, With N Support, or With N
+       Agoran Consent;
+
+  3. The announcement referenced in paragraph (1) of this Rule was
+     published:
+
+     * within the 14 days preceding the action, if the action is to
+       be performed With N Support;
+
+     * between 4 and 14 days preceding the action, if the action is
+       to be performed Without N Objections, With N Agoran Consent,
+       or With Notice; or
+
+     * between T and 14 days preceding the action, if the action is
+       to be performed With T Notice;
+
+  4. At least one of the following is true:
+
+       * the performer is the initiator;
+
+       * the initiator was authorized to perform the action due to
+         holding a rule-defined position now held by the performer;
+         or
+
+       * the initiator is authorized to perform the action, the
+         action depends on support, the performer has supported the
+         intent, and the rule authorizing the performance does not
+         explicitly prohibit supporters from performing it;
+
+  5. Agora is Satisfied with the announced intent, as defined by
+     other Rules; and
+
+  6. The conditions are all met, if any conditions were stated in
+     the announcement of intent referenced in paragraph (1) of this
+     Rule.
+
+  The performer SHOULD publish a list of supporters and objectors if
+  the action is to be taken with N Agoran Consent.
 
 ==========================================================================

@@ -8,6 +8,7 @@
 Caller:                        G.
 
 Judge:                         R. Lee
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by G.:                                     23 Jun 2019 22:38:15
 Assigned to R. Lee:                               30 Jun 2019 20:03:14
+Judged FALSE by R. Lee:                           01 Jul 2019 02:13:12
 
 ==========================================================================
 
@@ -38,5 +40,34 @@ This directly conflicts with the last part of this clause in R2154
           the candidates for that election (including those who become
           candidates after its initiation), and the voting method is
           instant runoff.
+
+--------------------------------------------------------------------------
+
+Judge R. Lee's Arguments:
+
+Under rule 1950, each Agoran Decision has an Adoption index switch with a
+default value of "none" and each Decision with an AI has a voting method of
+AI majority. The question is do elections (defined in rule 2154), Agoran
+Decisions with an Adoption index switch, have an adoption index, requiring
+them to use the voting system of AI majority? I find that they don't and
+accordingly judge this CFJ FALSE.
+
+Agoran Decisions must use AI majority if they are decisions "with an
+adoption index" under rule 1950. I find that this phrasing does not refer
+to decisions with an adoption index _switch_, but instead refer to
+decisions with an adoption index switch set at a value other than "none".
+The application of the AI voting system only to agoran decisions "with an
+[AI]" shows a clear intent to only apply it to a subset of Agoran
+Decisions, not all of them as a TRUE judgement would hold. And it is not
+only a possible textual reading, but by far the best one, to read decisions
+with an AI of "none" to not have an AI. After all, that's what "none"
+means: not any. It would be atextual* to hold that a decision with an AI
+_switch_ set  to "not any" still has an AI.
+
+This CFJ is FALSE. The voting system for elections is IRV as provided in
+rule 2154.
+
+*And worse as a matter of policy, but I need not address policy because I
+am required to use direct, textual forward reasoning and the text is clear
 
 ==========================================================================

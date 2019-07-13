@@ -1,0 +1,112 @@
+===============================  CFJ 3751  ===============================
+
+      A player who quotes the number and title of a proposal followed by
+      "FOR" thereby votes FOR that proposal, provided that e is
+      otherwise able to do so.
+
+==========================================================================
+
+Caller:                        Murphy
+
+Judge:                         Falsifian
+Judgement:                     IRRELEVANT
+
+==========================================================================
+
+History:
+
+Called by Murphy:                                 02 Jul 2019 03:35:43
+Assigned to Falsifian:                            03 Jul 2019 00:53:46
+Judged FALSE by Falsifian:                        06 Jul 2019 04:18:16
+Motion to reconsider filed by Falsifian:          07 Jul 2019 22:10:21
+Judged IRRELEVANT by Falsifian:                   07 Jul 2019 22:10:21
+
+==========================================================================
+
+Caller's Arguments:
+
+This was apparently claimed to be false a week or two back, with a
+comment along the lines of "these resemble votes but are not in fact
+votes". I had long assumed that the implicit "I vote as follows" was
+backed by strength of custom, similar to "TTttPF".
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+We definitely accepted these sorts of ballots traditionally, but we added
+stricter language a few years back (but have not raised the issue in CFJ
+since then, I think).
+
+P7814 'FOR Require Intent on Ballots' (o), 28 Oct 2016 inserted this
+text in R683:
+       (d) The ballot clearly sets forth the voter's intent to place the
+           identified vote.
+
+--------------------------------------------------------------------------
+
+Gratuitous Evidence by G. (recent example):
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2019-June/040584.html
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Arguments:
+
+For the record, here is a copy of the message G. submitted a link to as
+gratuitous evidence:
+
+> > 8180  Trigon, D Margaux     1.0   Paying our Assessor
+> FOR
+> > 8181  D Margaux, [1]        1.7   Referee CAN Impose Fines (v1.1)
+> FOR
+> > 8182  Jason Cobb            3.0   Add value to zombies
+> FOR
+> > 8183  V.J. Rada, Tiger      3.0   Regulated Actions Reform
+> PRESENT
+> > 8184  G.                    3.0   power-limit precedence
+> FOR
+> > 8185  Trigon                3.0   OUGHT we?
+> PRESENT
+> > 8186  Jason Cobb            3.0   Minor currency fixes
+> PRESENT
+> > 8187  Jason Cobb            3.0   Not so indestructible now, eh?
+> PRESENT
+
+Looking at the agora-business archives for October through December
+2018, I found a few examples of players sending messages like this,
+sometimes with text at the beginning of the message like "I vote as
+follows", and sometimes not. The intention of the quoted message is
+obviously to submit ballots, so condition 5 of Rule 683 ("The ballot
+clearly sets forth the voter's intent to place the identified vote") is
+satisfied.
+
+Conditions 1, 2, 4 and 6 are implied by the statement of the CFJ ("is
+otherwise able to do so") and condition 3 is satisfied since the message
+specifies each proposal being voted on. If the CFJ were specifically
+about this message, it would be TRUE.
+
+However, the statement is not very specific about the hypothetical
+message involved. For example, if there were a proposal number 9999
+titled "Apotheosis", and a player sent the following message:
+
+> Just for fun, what do you all think would happen if I cast these
+> votes?
+>
+> > 9998 Cancel Agora
+> FOR
+> > 9999 Apotheosis
+> FOR
+
+that would clearly not satisfy requirement 5 that the ballot set forth
+the voter's intent to place the vote.  If the above message were sent to
+a discussion forum, then it also wouldn't count as "publishing a
+notice" in the first place.
+
+The truth of the statement depends on more details of the message. Maybe
+I should assume an implicit "in any situation..." at the start, which
+would make it clearly FALSE. But I don't think the statement as given is
+actually what the caller or anyone else is interested in, so I judge CFJ
+3751 IRRELEVANT.
+
+==========================================================================

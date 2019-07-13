@@ -1,0 +1,93 @@
+===============================  CFJ 3750  ===============================
+
+      In this message, G. destroyed a coin.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         twg
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     01 Jul 2019 15:29:30
+Assigned to twg:                                  03 Jul 2019 00:52:46
+Judged FALSE by twg:                              03 Jul 2019 10:11:12
+
+==========================================================================
+
+Caller's Arguments:
+
+The award in question is not a fee-based action at all.  R2579 specifies
+that if a *correct* fee-announcement is (but e.g. the actor does not have
+the fee) then no asset holdings are changed.  In the case of an
+"incorrect" fee-announcement, there's no fail-safe that I can find one
+way or the other - do the assets change?
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+On Mon, Jul 1, 2019 at 8:29 AM Kerim Aydin <kerim@uw.edu> wrote:
+>
+> I award myself the Patent Title "nouveau riche" by paying a fee of 1 
+> Coin for this sole purpose.
+
+--------------------------------------------------------------------------
+
+Judge twg's Arguments:
+
+On July 3, 2019 3:05 AM, James Cook wrote:
+> Gratuitous:
+>
+> I don't think I understood G.'s argument. As far as I can tell, this
+> is straightforward. R2579 says "To perform a fee-based action, an
+> entity ... must announce", and later "Upon such an announcement". I
+> think the first excerpt is clearly only talking about fee-based
+> actions, and the second excerpt refers to the first and so is also
+> only talking about fee-based actions. As G. points out in eir original
+> argument, this is not a fee-based action. So R2579 does not define any
+> mechanism for G. to destroy a Coin when no fee-based action is
+> involved.
+
+Precisely so.
+
+Assets CANNOT be destroyed except as explicitly specified by their
+backing document (R2577/2 "Asset Actions"), which for coins is the
+Ruleset as a whole. The Ruleset specifies the following mechanisms by
+which a coin can be destroyed:
+
+* by announcement, if it is owned by a contract and the contract permits
+it (R1742/21 "Contracts");
+* immediately, if it is owned by an entity other than a player or the
+Lost and Found Department (R2576/0 "Ownership");
+* without objection, if it is owned by the Lost and Found Department
+(R2576/0);
+* by announcement, by its owner (R2577/2);
+* upon announcement of the performance of a fee-based action by the
+coin's owner if it is the fee and there is no recipient specified for it
+(R2579/0 "Fee-based actions").
+
+The first three mechanisms clearly do not apply here because G. is not a
+player and is neither a contract nor the Lost and Found Department. Nor
+does the last, because, as Falsifian correctly identifies, G. did not
+announce eir performance of a fee-based action in the message. So the
+only mechanism that could plausibly apply is "by announcement".
+
+R478/34 "Fora" says:
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously and
+      clearly specifying the action and announcing that e performs it.
+
+Did G. unambiguously and clearly specify the action of destroying one of
+eir coins and announce that e performed it? No, of course not. Even
+disregarding the question of which grammatical phrasings count as an
+announcement, it's so ambiguous that e had to call a CFJ about it!
+
+I judge CFJ 3750 FALSE.
+
+==========================================================================

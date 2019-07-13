@@ -1,0 +1,86 @@
+===============================  CFJ 3749  ===============================
+
+      The ordered list [Agora] is a valid vote in the ongoing ADoP
+      election.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         Trigon
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             01 Jul 2019 02:33:16
+Assigned to Trigon:                               03 Jul 2019 00:52:04
+Judged TRUE by Trigon:                            07 Jul 2019 01:28:52
+
+==========================================================================
+
+Caller's Arguments:
+
+CFJ 3746 has been resolved such that the Agoran Decision for the
+election has a voting method of instant runoff. Therefore, by Rule 2528,
+the valid votes include "the ordered lists of entities". [Agora] is an
+ordered list of entities. Therefore, [Agora] is a valid vote in this
+election.
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+Excerpt from Rule 2528 ("Voting Methods"):
+
+    The valid votes on an Agoran decision are:
+
+    1. PRESENT;
+
+    2. The valid conditional votes, as defined by rules of power at least
+       that of this rule; and
+
+    3. For an instant runoff decision, the ordered lists of entities.
+
+    4. For any other decision, the valid options.
+
+--------------------------------------------------------------------------
+
+Judge Trigon's Arguments:
+
+This case requires a look at the exact wording several rules that define
+the terminology of elections. Two terms are of particular note: "valid
+vote" and "valid option".
+
+"Every Agoran Decision has a set of... valid votes" per rule 2528 and
+ballots cast on an Agoran Decision must "identif[y] a valid vote" per
+rule 683.
+
+Similarly, "[E]very Agoran Decision has a list of valid options" which
+are defined by other rules. Rule 2154 defines the valid options of
+elections: "the candidates for the election".
+
+Rule 2528 also states that for instant runoff decisions, "ordered lists
+of entities [are valid votes]."  Notice how this part of the rule does
+not mention valid options.
+
+This all leads to the broader question of whether or not *any* list of
+entities can be a valid vote, even if one or more of those entities is
+not necessarily a valid option. For clarity on this front, we can look
+to rule 955.
+
+Our answer is given in the last sentence of the numbered list in that
+rule: "If an entity that is part of a valid vote is not a valid option
+at the end of the voting period, or disqualified by the rule providing
+for the decision, then that entity is eliminated prior to the
+first round of counting."
+
+These excerpts all point to the fact that any list of entities,
+including the one described by the CFJ statement, namely [Agora], is a
+valid vote; however, they are effectively similar to PRESENT in that
+they count as ballot they describe but are immediately discarded.
+
+I judge TRUE.
+
+==========================================================================

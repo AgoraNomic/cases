@@ -8,6 +8,7 @@
 Caller:                        Jason Cobb
 
 Judge:                         D. Margaux
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -15,6 +16,8 @@ History:
 
 Called by Jason Cobb:                             23 Jun 2019 22:07:24
 Assigned to D. Margaux:                           30 Jun 2019 20:01:57
+Judged TRUE by D. Margaux:                        01 Jul 2019 00:47:15
+Motion for D. Margaux to reconsider:              06 Jul 2019 08:23:08
 
 ==========================================================================
 
@@ -69,5 +72,61 @@ Proposals
        Creating a proposal adds it to the Proposal Pool. Once a proposal
        is created, neither its text nor any of the aforementioned
        attributes can be changed. [...]
+
+--------------------------------------------------------------------------
+
+Judge D. Margaux's Arguments:
+
+The question in both is, when a player attempts to create a proposal
+with an invalid adoption index, does the attempt fail or does the AI
+retain its default value?
+
+I think it retains its default value.
+
+A player can create a proposal "by announcement," if e specifies certain
+mandatory attributes. The failure to state a valid adoption index does
+not make the attempted proposal creation INEFFECTIVE, because that
+attribute is an optional specification.
+
+--------------------------------------------------------------------------
+
+Arguments filed with motion to reconsider, by Aris:
+
+I’m strongly tempted to move to reconsider this, and apologize for
+failing to provide arguments earlier (honestly, I totally forgot about
+this case). I really don’t think this opinion adequately considers the
+other sensible possibility: that the proposal fails entirely.
+To begin with, when someone submits a proposal, they’re performing the
+action of creating an entity that has certain properties. If creating an
+entity with the properties specified is impossible, there’s no way for
+them to do that (the speech act cannot make itself true). This is a very
+different situation from the one where they leave something blank, and
+we fill it in with a default value. There, the person is still
+performing the speech act they wrote out, it’s just that the entity they
+create also has additional properties. Here, we’re actually rewriting an
+ineffective speech act to turn it into an effective one, which feels
+deeply disturbing and totally unlike the way Agora speech acts normally
+work.
+
+Another problem is that, since we’re rewriting what someone said, we
+break referential transparency and bump into other counter-intuitive
+behavior. If someone says “I submit a proposal with properties X, Y, and
+Z, and AI 0.5. I retract that proposal.”, no proposal would result under
+this theory. However, if we substituted the variable “that”, we get “I
+submit a proposal with properties X, Y, and Z, and AI 0.5. I retract the
+proposal with properties X, Y, and Z, and AI 0.5.” However, this leads
+to a proposal still existing, since there is no proposal with AI 0.5,
+unless it’s proposed that we rewrite that sentence too, which makes even
+less sense. To be clear, I’m not saying that Agora always follows
+referential transparency, just that we need a principled reason to break
+it and this really doesn’t feel like one.
+
+In short, I think it’s by far the cleanest if we read statements
+literally and don’t allow the defaulting of invalid values. I’d like to
+know if others think I could have a point, and if they do I’ll file a
+motion (unless the judge cares to self-file one). I really think their
+are some counter-arguments here that deserve consideration, and would go
+so far as to suggest that if the current interpretation is sustained we
+might want to legislate to make sure that announcements are read literally.
 
 ==========================================================================
