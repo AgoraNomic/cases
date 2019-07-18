@@ -1,0 +1,51 @@
+===============================  CFJ 3707  ===============================
+
+      The Ruleset (as a contract) now has 1 coin.
+
+==========================================================================
+
+Caller:                        CuddleBeam
+
+Judge:                         G.
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by:                                        09 Feb 2019 18:37:20
+Assigned to G.:                                   10 Feb 2019 18:39:07
+Judged DISMISS by G.:                             11 Feb 2019 22:35:12
+
+==========================================================================
+
+Caller's Arguments:
+
+Note that Agora as a contract and Agora itself is, bizarrely, two separate
+things. Contracts are the agreement itself, the agreement per se, not the
+container or form which the agreement exists within such as the textual
+rules. For example, in the case that the membership to the Agora-contract
+isn't retroactive, it means some people will be bound to Agora as a
+contract, and some people will not be, and it's the facet of Agora as a
+contract to the which that I'd be making the transfer to.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The message purporting to transfer a coin to set up this CFJ was:
+ > I transfer 1 coin to the Ruleset (ie. Agora as a contract).
+
+Regardless of whether Agora is a contract, transferring a coin to "Agora 
+as a contract" would be simply transferring it to Agora (which has many 
+coins already).  "The Ruleset" is a body of text, but it in itself is not 
+any kind of agreement, and it is generally not capable of receiving coins.  
+In specifying two possible destinations and conflating them into a single
+entity, this attempted transfer is ambiguous as to the destination, and
+fails.
+
+Since, in the CFJ statement,  "Ruleset (ie. Agora as a contract)" is a
+counterfactual that conflates two separate entities together (one with
+coins, the other without coins), the statement is malformed.  DISMISS.
+
+==========================================================================

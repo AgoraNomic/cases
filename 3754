@@ -7,6 +7,7 @@
 Caller:                        twg
 
 Judge:                         G.
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by twg:                                    05 Jul 2019 14:03:40
 Assigned to G.:                                   08 Jul 2019 01:28:49
+Judged TRUE by G.:                                12 Jul 2019 21:13:17
 
 ==========================================================================
 
@@ -55,5 +57,51 @@ https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2019-June/
 
 [1]:
 https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2019-June/054363.html
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+In saying that a Rule "causes" something to happen, it's worth briefly
+breaking down types of causality as used in Agora.  In past, we've applied
+the Aristotelian model of four causes[0], in particular when discussing
+elements of free will within Agora.  With such a mapping, the full effect
+of a "Rules-caused" rule change of this nature is:
+
+As described by the Rules (formal cause), a person (final cause) makes an
+forum announcement (material cause) which invokes the use of a method/tool
+(efficient/moving cause) to effect a rule change.
+
+An instrument, under this mapping, is a wielded tool and part of a R2125
+"method" for performing a given action - which is why it has to be
+specified explicitly that the Rule is the wielded instrument (as opposed
+to merely being the descriptor of the method).  This separates the Rule's
+role as a descriptor (formal cause, always assumed to be a role of the
+rules) from its role as a method/instrument (efficient cause) which must
+be explicitly described.
+
+This is worth pointing out as it reveals how we should use the language -
+we don't always have to say the "the Player CAN cause the Rule to cause
+the change" using "cause" explicitly.  We can be a bit more flexible -
+any sort of language that describes the Rule as a "tool" for the change
+would generally work.  E.g. "a player CAN by announcement make this change
+using this Rule" or "a player CAN use this Rule via an announcement to
+repeal..." is fine.
+
+In the case before the court, a person "triggers" Rule 2598 and then the
+changes happen. "Trigger" is a clear use-word for a type of tool and the
+effects of repeal are strongly associated with the triggering of the Rule.
+Therefore, on those grounds, R2598 CAN cause its own repeal as described
+in the rule.  This description is clear enough to satisfy R105 criteria
+for absolute clarity in terms of the method and instrument used for the
+described Rule changes.
+
+A review of the sequence of events made by this judge shows that the
+proper announcements and support actions were made to cause this rule's
+repeal, so no other grounds for failure seem to exist.
+
+I find TRUE.
+
+[0]https://en.wikipedia.org/wiki/Four_causes
 
 ==========================================================================

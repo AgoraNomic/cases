@@ -8,6 +8,7 @@
 Caller:                        Jason Cobb
 
 Judge:                         omd
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Jason Cobb:                             02 Jul 2019 22:32:03
 Assigned to omd:                                  03 Jul 2019 00:54:31
+Judged FALSE by omd:                              12 Jul 2019 07:06:23
 
 ==========================================================================
 
@@ -48,5 +50,47 @@ Caller's Arguments:
 This is so blatantly contrary to intent (especially since Rule 2557
 uses "Class N Crime", where N is obviously intended to be a number),
 but appears consistent with the wording, so I think this should be TRUE.
+
+--------------------------------------------------------------------------
+
+Judge omd's Arguments:
+
+>      Excerpt from Rule 2450 ("Pledges"):
+>
+>          If a Player makes a clear public pledge (syn. Oath) to perform
+>          (or refrain from performing) certain actions, then breaking the
+>          pledge within the pledge's time window is the Class N crime of
+>          Oathbreaking, where N is 2 unless the pledge explicitly states
+>          otherwise. The time window of a pledge is 60 days, unless the
+>          pledge explicitly states otherwise.
+
+The rule says that N is 2 if the pledge doesn't state otherwise, but
+it doesn't explicitly say what happens if the pledge does state
+otherwise.
+
+This is not *entirely* a triviality.  It's clear that the rule intends
+to respect the pledge's choice of class, but if it said so explicitly,
+the exact wording might provide clues about what kinds of choices are
+acceptable.  For example, I tried to think of wording that would make
+it explicit, and the first thing to come to mind was: "where N is the
+value stated in the pledge, or 2 if the pledge does not state a
+value".  (Not the best drafting, but like I said, it was the first
+thing to come to mind.)  In that example, the use of the word "value"
+would lend additional support to the argument that it must be a
+number, since "value" is often, though not exclusively, used for
+numbers.
+
+In any case, the omission is enough of a crack to wedge Rule 217
+factors into*, and "common sense" very strongly suggests that N is
+expected to be a number.  As such, I judge that it must be.  It is
+less clear what kinds of numbers are allowable values for N, but that
+issue need not be decided in this case, since "I'm a string!" is
+clearly not one.
+
+CFJ 3752 is FALSE.
+
+* Which is not to say that the omission is the *only* reason Rule 217
+factors are applicable; the text is arguably "unclear" in any event.
+But there is no need to decide that here either.
 
 ==========================================================================

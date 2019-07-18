@@ -1,0 +1,108 @@
+===============================  CFJ 3758  ===============================
+
+      It is possible to publish a notice that satisfies condition 4 of
+      Rule 683.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         Trigon
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             17 Jul 2019 05:52:03
+Assigned to Trigon:                               17 Jul 2019 23:44:37
+Judged TRUE by Trigon:                            18 Jul 2019 20:05:32
+
+==========================================================================
+
+Caller's Arguments:
+
+        For a player to submit a ballot, the purported ballot must
+        "clearly identif[y] a valid vote, as determined by the voting
+        method." My reading is that, for this condition to be satisfied,
+        the vote that the ballot purports to cast must be a vote that is
+        an element of the set of "valid votes" that the voting method
+        determines. That is, the "by" describes an agent, since it
+        obviously does not create a method (it is not possible to
+        perform "the voting method", since it is not an action).
+
+        If Rule 683 were to instead read "as determined by Rule 2528",
+        then that would work fine, since Rule 2528 is a textual entity,
+        and is thus capable of determining the value of the set of valid
+        votes (in this case, Rule 2528 does so by explicitly stating
+        what the valid votes are, thus making a determination).
+
+        However, in its current wording, Rule 683 makes it incumbent
+        upon the voting method itself to determine the valid options.
+        Since no voting method actually does this, there is no possible
+        element of the set of "valid votes, as determined by the voting
+        method" that can be used to satisfy condition 4. I argue that
+        this CFJ should be judged FALSE.
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+
+Excerpt from Rule 683 ("Voting on Agoran Decisions"):
+
+      An entity submits a ballot on an Agoran decision by publishing a
+      notice satisfying the following conditions:
+
+      1. The ballot is submitted during the voting period for the
+         decision.
+
+      2. The entity casting the ballot (the voter) was, at the initiation 
+         of the decision, a player.
+
+      3. The ballot clearly identifies the matter to be decided.
+
+      4. The ballot clearly identifies a valid vote, as determined by the 
+         voting method.
+
+      5. The ballot clearly sets forth the voter's intent to place the
+         identified vote.
+
+      6. The voter has no other valid ballots on the same decision.
+
+
+Excerpt from Rule 2528 ("Voting Methods"):
+
+      The valid votes on an Agoran decision are:
+
+      1. PRESENT;
+
+      2. The valid conditional votes, as defined by rules of power at 
+         least that of this rule; and
+
+      3. For an instant runoff decision, the ordered lists of entities.
+
+      4. For any other decision, the valid options.
+
+--------------------------------------------------------------------------
+
+Judge Trigon's Arguments:
+
+In order for a judgement of FALSE to apply here, there is one major
+contrivance that one must make: limiting the usage of the word "by" and
+specifically, the usage of the phrase "as determined by."
+
+The caller submits that this phrase, as used in Rule 683/26, creates
+some sort of obligation for an imaginary entity called the "voting
+method" to determine the valid votes. Were the voting method an entity,
+the caller's reading might be the truest reading; however, no such
+entity exists as the voting method is actually a property of each Agoran
+Decision (Rule 2528/0).
+
+The list of valid votes is enumerated in Rule 2528/0, including those
+specific to each voting method. This is reasonable enough justification
+for the interpretation that the voting method as a property of each
+Agoran Decision determines which votes may be cast on the decision. I
+judge TRUE.
+
+==========================================================================
