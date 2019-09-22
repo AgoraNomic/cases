@@ -1,0 +1,122 @@
+===============================  CFJ 3760  ===============================
+
+      If an Officer's report is CoE'd, and the Office changes hands
+      before the deadline for CoE response, then the original publisher
+      (not the new officer) is REQUIRED to respond by R2201.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         omd
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     23 Jul 2019 16:47:41
+Assigned to omd:                                  23 Jul 2019 16:47:41
+Judged TRUE by omd:                               08 Aug 2019 04:35:17
+
+==========================================================================
+
+Caller's Arguments:
+
+Official duties pass with the office even if the office changes in the
+middle of a legal process (e.g. if the ADoP changes in the middle of
+an election, the new ADoP finishes the election).
+
+In terms of responding to CoEs, R2201 reads in part:
+                                                             The
+          publisher of the original document SHALL (if e was required to
+          publish that document) or SHOULD (otherwise) do one of the
+          following in a timely fashion:
+
+This is written in the past tense (if e *was* required) which implies that
+even if the office changes hands, the requirement stays with the original
+publisher.  Alternative possibilities are that the duty moves with the
+Office, or that it becomes a SHOULD for the original publisher (because 
+once e resigns e is no longer required to publish the document).
+
+The answer may depend on whether "response to a CoE" is an official duty
+(R2143):
+       An official duty for an office is any duty that the Rules
+       specifically assign to that office's holder in particular
+       (regardless of eir identity).
+which may depend on whether the "publisher of the original document" is
+read as being "the [Officer]" (i.e. the publication is associated with the
+office) versus "the person who held the office and actually published it".
+By my reading, it is equally reasonable to say "the original publisher was
+the ADoP (because that's who the duties trace to in the Rules)" as it is
+to say "the original publisher was Murphy (because that's who held the
+office at the time)" so I'm not arguing for either outcome in particular.
+
+It's worth noting a knock-on effect of this judgement - if the duty stays
+with the Office not the original publisher (i.e. the new officer is 
+required to respond) then someone can deputise for the Office to respond.  
+If the duty stays with the original publisher, deputisation can't be done.
+I don't know if that's a bug or a feature.
+
+--------------------------------------------------------------------------
+
+Judge omd's Arguments:
+
+In general, the Rules assign duties to officeholders, not offices
+themselves.  This rule is proven by two exceptions – cases where the
+ruleset wants to know which office (if any) a given duty corresponds
+to.
+
+One is a clause the caller already cited, though for different
+reasons.  From Rule 2143 (Official Reports and Duties):
+
+      An official duty for an office is any duty that the Rules
+      specifically assign to that office's holder in particular
+      (regardless of eir identity).
+
+The other is from Rule 2160 (Deputisation):
+
+      1. the rules require the holder of that office, by virtue of
+         holding that office, to perform the action (this requirement is
+         fulfilled by the deputy performing the action);
+
+Interesting, the latter clause previously read:
+
+        (a) The rules require the holder of that office, by virtue of
+            holding that office, to perform the action (or, if the
+            office is vacant, would so require if the office were
+            filled).  This requirement is fulfilled by the deputy
+            performing the action.
+
+The parenthesized subclause would be the strongest suggestion that
+duties are assigned to the officeholder: if they were assigned to the
+office, they wouldn't cease to exist when the office is vacant, so
+there would be no need for a hypothetical.  However, this subclause
+was removed by Proposal 7804 ("Fixed Easier Deputisation"), for
+unknown reasons. [see sidebar]
+
+Even without that, though, both clauses take pains to exclude duties
+that don't correspond to the office but happen to be assigned to the
+same person that holds the office.  If duties belonged to offices,
+that wouldn't be necessary, and they could be worded much more simply
+– e.g. Rule 2160 could say "that office has an official duty to
+perform the action".
+
+Given that, there's no reason to disturb the plain meaning of the
+clause about CoEs:
+
+>                                                              The
+>           publisher of the original document SHALL (if e was required to
+>           publish that document) or SHOULD (otherwise) do one of the
+>           following in a timely fashion:
+
+"The publisher of the original document" is whichever person published
+the document, and "e was required to publish that document" if, at the
+time of publication (I assume "was" refers to the time of
+publication), some rule required em to publish it.  Any later changes
+affecting the requirement, including changes of officeholder, don't
+make a difference.
+
+TRUE.
+
+==========================================================================

@@ -1,0 +1,109 @@
+===============================  CFJ 3771  ===============================
+
+      When a CFJ judgement finds that conditions for awarding a
+      contested patent title are valid, that constitutes the
+      "announcement of the authorizing conditions" for the REQUIREMENT
+      to make the award in a timely fashion.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         D. Margaux
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     25 Aug 2019 19:33:08
+Assigned to D. Margaux:                           27 Aug 2019 21:38:53
+Judged FALSE by D. Margaux:                       31 Aug 2019 13:45:36
+
+==========================================================================
+
+Caller's Arguments:
+
+R649 reads in part:
+>      A person permitted and enabled to award (revoke) a Patent Title
+>     SHALL do so in a timely fashion after the conditions authorizing
+>      em to do so are announced, unless there is an open judicial case
+>      contesting the validity of those conditions.
+
+If there is an open judicial case on the Patent Title conditions when
+the original time limit expires, and the judgement later finds that
+the conditions for the award were valid, then the options for
+interpreting this clause are (1) a retroactive setting of the timing
+requirement to the original announcement conditions, which is quite
+problematic, (2) an elimination of the requirement entirely, because
+the time limit never passes under the right conditions, which is also
+unintended, or (3) treating the judgement as the announcement of the
+authorizing conditions.  Option 3 makes the best sense.
+
+--------------------------------------------------------------------------
+
+Judge D. Margaux's Arguments:
+
+CFJ 3771 judged FALSE, but with reasoning that will probably satisfy the 
+Caller.
+
+Under R649, “a person permitted and enabled to award (revoke) a Patent 
+Title SHALL do so in a timely fashion after the conditions authorizing em 
+to do so are announced, unless there is an open case contesting the 
+validity of those conditions.” 
+
+The question presented is whether a judgement on “an open judicial case 
+contesting the validity of those conditions” is itself one of the 
+“conditions authorizing [a player] to [award (revoke)] a patent title.”  
+Under the current ruleset, the answer is FALSE. A player CAN award 
+(revoke) a patent title during the pendency of a judicial case, and R649 
+does not change that. Under R649, a player does not NEED to award the 
+title during the pendency of the judicial case, but the Rule does not say 
+the player CANNOT do so if the conditions are satisfied. 
+
+Although not necessary for the decision of this CFJ, it would be useful to 
+give some guidance about when the time period in R649 becomes triggered.
+
+In my view, R649 REQUIRES a player to award (revoke) a patent title in a 
+timely fashion if ALL of these four circumstances are satisfied:
+
+    (1) e is “permitted” to do so, 
+    (2) e is “enabled” to do so, 
+    (3) “the conditions authorizing em to do so are announced,” AND 
+    (4) “there is [NOT] an open case contesting the validity of those 
+conditions [in (3)].”
+
+It is clear that the player MUST award (revoke) the title within a timely 
+fashion if ALL of those circumstances become satisfied at the same time 
+and no judicial case arises.
+
+The Rule is ambiguous, however, about when the timely fashion period 
+starts and ends if conditions (1), (2), and (3) are satisfied, but an open 
+case renders (4) unsatisfied for a period of time.
+
+One reading of the Rule would say that the “timely fashion” language is 
+triggered by the satisfaction of (1), (2), and (3), and the requirement is 
+entirely excused if (4) becomes unsatisfied. That interpretation would 
+read the text as saying, in essence, “a player MUST award/revoke within 7 
+days after (1), (2), and (3) become satisfied, except that the player 
+never needs to do so if (4) is unsatisfied during that time period.”
+
+I don’t think that reading makes much sense.
+
+Another reading makes more sense, in my view. We could read the Rule as 
+saying that the “timely fashion” is triggered at any time when (1), (2), 
+(3), AND (4) are ALL satisfied.  That interpretation would read the text 
+as saying, in essence, “a player MUST award/revoke within 7 days after 
+(1), (2), (3), and (4) become satisfied.”
+
+That would mean that, when an open case is resolved, the time period 
+starts anew.
+
+My understanding is that a Rule violation would not occur if one of the 
+conditions becomes unsatisfied during the time period. So, if a new 
+judicial case is opened during a time period when (1), (2), (3), and (4) 
+were satisfied, then the player would not be REQUIRED to award (revoke) 
+the patent title until a later time when all four conditions are satisfied 
+again.
+
+==========================================================================

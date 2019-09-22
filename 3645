@@ -1,0 +1,99 @@
+===============================  CFJ 3645  ===============================
+
+      G. has satisfied eir weekly obligation with regard to the FLR and
+      SLR.
+
+==========================================================================
+
+Caller:                        Aris
+
+Judge:                         Murphy
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   20 Jun 2018 19:17:20
+Assigned to PSS:                                  24 Jun 2018 21:48:55
+PSS Recused:                                      01 Aug 2018 03:38:12
+Assigned to Corona:                               01 Aug 2018 03:38:12
+Corona Recused:                                   26 Aug 2018 19:01:15
+Assigned to V.J. Rada:                            26 Aug 2018 19:01:15
+V.J. Rada Recused:                                01 Oct 2018 03:01:21
+Assigned to Murphy:                               01 Oct 2018 03:01:21
+Judged TRUE by Murphy:                            01 Oct 2018 03:22:26
+
+==========================================================================
+
+Caller's Arguments:
+
+> On Wed, Jun 20, 2018 at 12:10 PM ais523 wrote:
+>
+>> On Wed, 2018-06-20 at 12:04 -0700, Kerim Aydin wrote:
+>> > The FLR and SLR are up to date (up to Proposal 8052, and including
+>> > revision for the recent CoE on the Treasuror Rule):
+>> >
+>> > https://agoranomic.org/ruleset/slr.txt
+>> > https://agoranomic.org/ruleset/flr.txt
+>> >
+>> > I'm not publishing them, because there is (or was) a message size-
+>> > limit on BUS that was specifically removed in OFF for the purpose of
+>> > ruleset publication.  I don't want to add to any confusion in case
+>> > the rulesets bounce from BUS.
+>>
+>> Are you sure this isn't publishing them? People have been able to
+>> publish things as attachements, hidden in headers, etc. with a
+>> reference to them in the main message, so I don't see why posting a URL
+>> that has consistent, known information would necessarily be different.
+>>
+>> This may satisfy a requirement to post the rulesets, and if it doesn't
+>> it's probably because of your disclaimer.
+>
+>
+> I'm inclined to think that the disclaimer is ineffective for that 
+> purpose. A report occurs when an officer publishes certain information,
+> whether they want it to or not. Posting the links may count for that
+> purpose, as long as the text on the other end is labeled as a report,
+> and has all required information.
+
+--------------------------------------------------------------------------
+
+Gratuitous arguments by G.:
+
+Well considering I've still got a terminal window open, I could change the
+link contents instantly to anything before most people will have seen
+it.  Definitely not out of my TDOC if the content of those links is the
+only evidence.
+
+I suppose (now that those links are tied to a github repo) one could
+cross-reference my message timing to commit timing.
+
+Overall though, I'm pretty sure we've been strong on "publishing X" means
+actually publishing the full contents of X, otherwise it's ISID. The cases
+that allowed outside references are generally by-announcement actions,
+where outside references work because the specification is like this:
+   "clearly specifying the action and announcing that e performs it"
+
+for this, "announcing e performs it" must be included in the actual
+announcement, but the "clearly specifying" part can lead to a link that
+has a clear specification.
+
+So this would work:  "I do as in link X"  -> [link X] "I support" because
+e announces "I do...", but just providing the same link without an
+announced verb/context doesn't do the trick.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+I accept the caller's arguments and judge TRUE.
+
+While G. correctly points out that verifying non-tampering may be a
+non-trivial technical exercise, I trust that someone has done it by now
+in this case (having had ample time to do so). Also, neither the report
+rules nor the definition of "publishing" depend on how easy it is to
+perform such verification. How easy would it be to verify that the
+Distributor hasn't tampered with a mailing list and/or its web archives?
+
+==========================================================================

@@ -1,0 +1,241 @@
+===============================  CFJ 3759  ===============================
+
+      Jason Cobb has Declared Apathy.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             18 Jul 2019 02:19:02
+Assigned to Aris:                                 23 Jul 2019 16:36:57
+Judged FALSE by Aris:                             30 Jul 2019 18:59:35
+
+==========================================================================
+
+Caller's Evidence:
+
+    "Intent":
+
+        Any public message that I have sent between 4 and 14 days ago,
+        maybe this one:
+        https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2019-July/040825.html
+
+    Excerpt from Rule 478 ("Fora"):
+
+        A person "publishes" or "announces" something by sending a
+        public message.
+
+    Rule 2595 ("Performing a Dependent Action"):
+
+        A rule that purports to allow a person (the performer) to perform
+        an action by a set of one or more dependent actions identified in
+        Rule 1728 thereby allows em to perform the action by announcement
+        if all of the following are true:
+
+        1. A person (the initiator) published an announcement of intent
+            that unambiguously, clearly, conspicuously, and without
+            obfuscation specified the action intended to be taken and the
+            method(s) to be used;
+
+        2. The announcement referenced in paragraph (1) of this Rule
+            unambiguously, clearly, conspicuously, and without obfuscation
+            states:
+
+            * the value of T, if the action is to be taken with T Notice;
+              and
+
+            * the value of N, if N is not equal to 1 and the action is to
+              be taken Without N Objections, With N Support, or With N
+              Agoran Consent;
+
+        3. The announcement referenced in paragraph (1) of this Rule was
+            published:
+
+            * within the 14 days preceding the action, if the action is to
+              be performed With N Support;
+
+            * between 4 and 14 days preceding the action, if the action is
+              to be performed Without N Objections, With N Agoran Consent,
+              or With Notice; or
+
+            * between T and 14 days preceding the action, if the action is
+              to be performed With T Notice;
+
+        4. At least one of the following is true:
+
+              * the performer is the initiator;
+
+              * the initiator was authorized to perform the action due to
+                holding a rule-defined position now held by the performer;
+                or
+
+              * the initiator is authorized to perform the action, the
+                action depends on support, the performer has supported the
+                intent, and the rule authorizing the performance does not
+                explicitly prohibit supporters from performing it;
+
+        5. Agora is Satisfied with the announced intent, as defined by
+            other Rules; and
+
+        6. The conditions are all met, if any conditions were stated in
+            the announcement of intent referenced in paragraph (1) of this
+            Rule.
+
+        The performer SHOULD publish a list of supporters and objectors if
+        the action is to be taken with N Agoran Consent.
+
+    Excerpt from Rule 2124 ("Agoran Satisfaction"):
+
+        An Objector to an intent to perform an action is an eligible
+        entity who has publicly posted (and not withdrawn) an objection
+        to the announcement of that intent.
+
+    Rule 2465 ("Victory by Apathy"):
+
+        A player CAN Declare Apathy without objection, specifying a set
+        of players. Upon doing so, the specified players win the game.
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+    The key (broken) wording here is from Rule 478:
+
+        A person "publishes" or "announces" something by sending a
+        public message.
+
+    This wording does not require that the public message actually
+    contains the "something" that I am publishing/announcing. This
+    wording effectively says that, for all X, a person "publishes" or
+    "announces" X by sending a public message.
+
+    Rule 2465 states that I can Declare Apathy without Objection. By
+    Rule 2595, I must fulfill certain conditions to do so. I will prove
+    that I have done so for each one individually:
+
+     1. "[I must have] published an announcement of intent that
+        unambiguously, clearly, conspicuously, and without obfuscation
+        specified the action to be taken and the method(s) to be used".
+        This invokes the definition of to "publish", which is specified
+        in Rule 478. Putting parentheses around the object of to
+        publish, "[I must have] published (an announcement of intent
+        that unambiguously, clearly, conspicuously, and without
+        obfuscation specified the action to be taken and the method(s)
+        to be used)". Going back to my paraphrased definition of to
+        "publish", the parenthesized phrase takes the place of the
+        placeholder X, and thus to "publish" such an announcement of
+        intent is to send a public message. I certainly have done so, an
+        example one is in evidence.
+     2. Since Declaring Apathy is taken without Objection, the N in
+        "Without N Objections" is 1. Thus, requirement 2 does not
+        require it state the value of N, and is thus a no-op in this
+        case. The first alternative is irrelevant.
+     3. The announcement referenced in paragraph (1) was indeed
+        published between 4 and 14 days ago.
+     4. Requirement 4 is trivially fulfilled, as I am both the performer
+        and the initiator.
+     5. "Agora is Satisfied with the announced intent, as defined by
+        other Rules". Rule 2124 requires that there be no Objectors to
+        my "intent" to Declare Apathy. Rule 2124's definition of
+        Objector does not use the broken verbiage; so, since no player
+        has "publicly posted (and not withdrawn) an objection to the
+        announcement of [the] intent", there are no Objectors. Agora is
+        thus Satisfied.
+     6. There were no conditions stated in my intent to Declare Apathy,
+        so condition 6 is trivially fulfilled
+
+    I have thus fulfilled all requirements to Declare Apathy and thus,
+    by Rule 2595, can do so by announcement (well, the definition of "by
+    announcement" also uses the broken verb to "announce", so I may have
+    done so anyway). I have made such an announcement in the message in
+    which I submitted this CFJ. I have thus Declared Apathy.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+The caller's arguments boil down to a contention that every public message
+publishes every possible statement. If this is the case, the games is 
+deeply and fundamentally broken (or ossified, triggering AiaN 
+protections).
+
+The caller's basis for this seemingly absurd argument is Rule 478, which 
+states in part "A person "publishes" or "announces" something by sending a
+public message." Read as a definition, this clearly says "To publish X is 
+to send a public message." If that were the text in the rules, I would be 
+obliged to agree with the caller. However, it is not, and there are other 
+possible readings.
+
+If someone remarks that "One gets to the store by walking", it is not the
+conclusion of an informed listener that all acts of walking need lead to
+the store. Instead, a listener is more likely to read walking as a 
+necessary, rather than sufficient condition for reaching the store.
+
+Ordinarily, in an Agoran context, I would be inclined to to read R478 the 
+same way the caller does. However, the statement the caller cites in R478 
+is ambiguous, as there are multiple possible interpretations of its 
+meaning. This means that I am obliged to consult Rule 217, "Interpreting 
+the Rules", which says in part "Where the text [of the rules] is silent, 
+inconsistent, or unclear, it is to be augmented by game custom, common 
+sense, past judgements, and consideration of the best interests of the 
+game." Past judgements have never ruled on this matter. Both common sense 
+and game custom would suggest that R478 identifies a necessary condition, 
+rather than a necessary and sufficient one. However, the truly overriding 
+concern here is the interest of the game. If the caller's arguments were 
+correct, the game would be ossified, and we'd have to figure out whether 
+AiaN or the provision at issue were older. Thus, the interests of the game 
+are such a large element in this case that whichever interpretation best 
+supports them must be chosen; the fact that the other factors agree is 
+mere icing on the cake.
+
+So, what does this mean for the game? Rule 478 states an necessary 
+condition; not a sufficient one, and thus publishing can only be done in 
+public messages. To work out what conditions are sufficient, we must rely 
+on common sense. It seems logical that to publish X, a person must send a 
+message containing X. R478 merely adds a requirement that that message 
+must be public.
+
+Jason Cobb did not publish any message stating eir intent to declare 
+victory by apathy. Accordingly, e could not declare apathy. FALSE.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Evidence
+
+Rule 217/12 (Power=3)
+Interpreting the Rules
+
+  When interpreting and applying the rules, the text of the rules
+  takes precedence. Where the text is silent, inconsistent, or
+  unclear, it is to be augmented by game custom, common sense, past
+  judgements, and consideration of the best interests of the game.
+
+  Definitions and prescriptions in the rules are only to be applied
+  using direct, forward reasoning; in particular, an absurdity that
+  can be concluded from the assumption that a statement about
+  rule-defined concepts is false does not constitute proof that it
+  is true. Definitions in lower-powered Rules do not overrule
+  common-sense interpretations or common definitions of terms in
+  higher-powered rules, but may constructively make reasonable
+  clarifications to those definitions. For this purpose, a
+  clarification is reasonable if and only if it adds detail without
+  changing the underlying general meaning of the term and without
+  causing the higher powered rule to be read in a way inconsistent
+  with its text.
+
+  Rules to the contrary notwithstanding, any rule change that would
+  (1) prevent a person from initiating a formal process to resolve
+  matters of controversy, in the reasonable expectation that the
+  controversy will thereby be resolved; or (2) prevent a person from
+  causing formal reconsideration of any judicial determination that
+  e should be punished, is wholly void and without effect.
+
+==========================================================================

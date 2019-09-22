@@ -1,0 +1,107 @@
+===============================  CFJ 3763  ===============================
+
+      If an Unregistered person's citizenship switch is flipped to
+      Registered by the effect of a power-3.1 proposal, without that
+      person expressing any sort of consent, then 1 second after the
+      proposal has taken effect, that person is bound to abide by the
+      Rules.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     27 Jul 2019 16:29:15
+Assigned to Murphy:                               03 Aug 2019 00:11:34
+Judged FALSE by Murphy:                           14 Aug 2019 03:02:09
+
+==========================================================================
+
+Caller's Arguments:
+
+R869 reads in part:
+ >     A person, by registering, agrees to abide by the Rules. The Rules
+ >     CANNOT otherwise bind a person to abide by any agreement without
+ >     that person's willful consent.
+
+If acting on behalf of oneself, setting the citizenship switch to 
+Registered
+via announcement also serves as an act of consent.  But if the citizenship
+switch is flipped by a proposal with the power to do so, you end up with
+the switch at "registered" without any consent being given.
+
+Some alternatives:
+- The person is therefore bound by the rules afterwards anyway;
+- The registration holds for an instant, then the lack of consent "asserts
+   itself" to flip the switch back a moment later.
+- The switch stays set at registered, but the person is not "bound to
+   abide" by the Rules.  I have no idea what that means in practical 
+terms.
+- It's somehow impossible for the proposal to flip the switch in the
+   first place (meaning the conditional in the CFJ is a counterfactual,
+   leading to a dismiss or irrelevant result).
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+Rule 869/45 (Power=3)
+How to Join and Leave Agora
+
+       Any organism that is generally capable of freely originating and
+       communicating independent thoughts and ideas is a person. Rules to
+       the contrary notwithstanding, no other entities are persons.
+
+       Citizenship is a person switch with values Unregistered (default)
+       and Registered, tracked by the Registrar. Changes to citizenship
+       are secured. A registered person is a Player. To "register"
+       someone is to flip that person's Citizenship switch from
+       Unregistered to Registered.
+
+       An Unregistered person CAN (unless explicitly forbidden or
+       prevented by the rules) register by publishing a message that
+       indicates reasonably clearly and reasonably unambiguously that e
+       intends to become a player at that time. A player, acting as
+       emself, CAN deregister (cease being a player) by announcement. If
+       e does so, e CANNOT register or be registered for 30 days.
+
+       A person, by registering, agrees to abide by the Rules. The Rules
+       CANNOT otherwise bind a person to abide by any agreement without
+       that person's willful consent.
+
+       The Rules CANNOT compel non-players to act without their express
+       or reasonably implied consent. The rules CANNOT compel players to
+       unduly harass non-players. A non-person CANNOT be a player, rules
+       to the contrary notwithstanding.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+I interpret this as follows:
+
+  * If the person consented during that final one-second interval, then
+    the statement might be true (albeit difficult to verify). But the
+    person /could/ fail to consent during that interval, which is enough
+    to avoid an automatic TRUE judgement.
+
+  * "A person, by registering" is not triggered by /being/ registered by
+    the actions of others.
+
+  * The Rules count as an agreement. Even if they don't, the Rules don't
+    claim that a person who is registered by the actions of others
+    thereby agrees to abide by the Rules.
+
+  * The Rules don't define Citizenship as depending on such agreement,
+    so it doesn't. The person in question would remain a player, but not
+    bound to abide by the Rules.
+
+FALSE.
+
+==========================================================================

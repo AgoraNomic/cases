@@ -1,0 +1,74 @@
+===============================  CFJ 3769  ===============================
+
+      When the action of ratification of a public document is performed,
+      Rule 1551 is the agent that performs certain changes to the
+      gamestate.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         twg
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             04 Aug 2019 01:58:42
+Assigned to twg:                                  10 Aug 2019 11:58:30
+Judged TRUE by twg:                               13 Aug 2019 15:58:12
+
+==========================================================================
+
+Caller's Evidence:
+
+Excerpt from Rule 1551 ("Ratification"):
+
+> A public document is part (possibly all) of a public message.
+>
+> When a public document is ratified, rules to the contrary
+> notwithstanding, the gamestate is modified to what it would be if,
+> at the time the ratified document was published, the gamestate had
+> been minimally modified to make the ratified document as true and
+> accurate as possible;
+
+
+Excerpt from Rule 2202 ("Ratification Without Objection"):
+
+> Any player CAN, without objection, ratify a public document,
+> specifying its scope.
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+The Rules do not define what the action of ratifying a public document
+actually _is_, although they do provide methods by which the action of
+ratifying a public document can be performed. Instead of defining what
+the action is, Rule 1551 states that whenever a public document happens
+to be ratified (by some method), "the gamestate is modified [in a
+certain way]". That is, the changes to the gamestate are a side-effect
+of the ratification and not part of the performance of the action of
+ratifying a public document.
+
+I therefore argue that whatever entity happens to be performing the
+ratification is not necessarily the same as the entity modifying the
+gamestate.
+
+To make matters worse, this part of Rule 1551 is written in the passive
+voice, so it does not provide a clear agent. Given that Rule 1551 is the
+only Rule that describes this modification, and does not provide any
+other way for another entity to be the agent that performs the changes
+to the gamestate (because the changes are only a side-effect of the
+ratification), the only entity that could possibly be the agent here is
+Rule 1551 itself.
+
+--------------------------------------------------------------------------
+
+Judge twg's Arguments:
+
+I find no fault with the caller's arguments, though I admit I can't see 
+why e cares one way or the other about the matter. I judge this CFJ TRUE.
+
+==========================================================================

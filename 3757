@@ -7,6 +7,7 @@
 Caller:                        Jason Cobb
 
 Judge:                         Falsifian
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by Jason Cobb:                             12 Jul 2019 01:14:27
 Assigned to Falsifian:                            17 Jul 2019 23:43:44
+Judged FALSE by Falsifian:                        21 Jul 2019 17:10:10
 
 ==========================================================================
 
@@ -52,9 +54,11 @@ Excerpt from Rule 2557 ("Removing Blots"):
 
 Attempted imposition of the CHoJ by the Referee, R. Lee:
 
-> This finger pointing is valid, I impose a fine on omd for failing to judge
+> This finger pointing is valid, I impose a fine on omd for failing to 
+> judge
 > CFJ 3752 in the allotted time. The crime is tardiness which has a 2-blot
-> base value, but given that the finger was pointed just a day after the time
+> base value, but given that the finger was pointed just a day after the 
+> time
 > expired and I see no pattern of violations, I impose a fine of 1 blot.
 
 
@@ -91,5 +95,79 @@ Caller's Arguments:
     that levying a fine pursuant to the CHoJ can be performed, so R.
     Lee's attempt failed. omd was never fined a Blot, so e has none.
     This CFJ should be judged FALSE.
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Arguments:
+
+In the below judgement, I accept the caller's arguments on CFJ 3755,
+and add additional detail verifying that omd's blot balance is zero
+given that R. Lee did not successfully impose the Cold Hand of Justice.
+
+CFJ 3755 was called by Jason Cobb on July 12 with the statement "omd has
+1 Blot.". The caller's evidence and arguments are quoted above.
+
+
+Timeline (all times UTC)
+========================
+
+2019-05-20 01:25
+
+ D. Margaux, then the Referee, publishes a report not listing any blots
+ owned by omd. The report was ratified seven days later by Rule 2201
+ (self-ratification).
+
+2019-07-11 01:45
+
+ H. Referee R. Lee attempts to levy a fine on omd with the following
+ message (quoted part removed):
+
+  > This finger pointing is valid, I impose a fine on omd for failing to 
+  > judge
+  > CFJ 3752 in the allotted time. The crime is tardiness which has a 2-
+  > blot
+  > base value, but given that the finger was pointed just a day after the
+  > time
+  > expired and I see no pattern of violations, I impose a fine of 1 blot.
+
+2019-07-12 01:14
+
+  Jason Cobb initiates this CFJ.
+
+
+Other changes in omd's blot balance since 2019-05-20
+====================================================
+
+I don't see any messages purporting to change omd's blot balance since
+2019-05-20, other than the one I quoted in the timeline above. All the
+referee reports sent between 2019-05-20 and that message that I was able
+to find  agree that omd had no blots.
+
+Incidentally, though, I don't think any referee reports published after
+the 2019-05-20 one in the timeline above have been ratified.  Here is a
+list of reports I compiled that were published since the 2019-05-20
+report and at least seven days before this CFJ was called. All times
+UTC.
+
+  2019-06-18 12:21: doubted by Jason Cobb 2019-06-23.
+
+  2019-06-14 17:10 (back-dated to 06-12): doubted by D. Margaux in the
+  same message.
+
+  2019-06-12 20:19: doubted by Jason Cobb 2019-06-12 20:24 (CFJ 3734)
+
+  2019-06-03 13:57: doubted by D. Margaux in the same message.
+
+  2019-05-27 15:01: doubted by D. Margaux in the same message.
+
+Judgement
+=========
+
+I accept the caller's arguments that R. Lee's message did not result in
+omd's blot balance changing. Therefore, omd's blot balance is still
+zero, as it was in the 2019-05-20 Referee report which has been
+ratified.
+
+I judge CFJ 3757 FALSE.
 
 ==========================================================================

@@ -1,0 +1,219 @@
+===============================  CFJ 3770  ===============================
+
+      G. is currently permitted and enabled to award at least one
+      instance of the Patent Title Champion to Jason Cobb.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        Jason Cobb
+
+Judge:                         Falsifian
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     13 Aug 2019 12:16:34
+Assigned to Falsifian:                            18 Aug 2019 22:15:15
+Judged TRUE by Falsifian:                         24 Aug 2019 20:32:06
+
+==========================================================================
+
+Caller's Arguments:
+
+Sequence of events (all within a couple days, apologies for not linking to 
+the evidence!)
+- Jason Cobb won the game (Spaaace) 1000 times in a single message.
+- Then G. awarded em Champion, once (specifying "once").
+- Then this CFJ was called.
+
+The question is whether that "once" Champion award satisfied all 1000 of 
+the "authorizations" to award a patent title implied by R2449.
+
+Argument for FOR:  Each win carries its own authorization that is matched 
+to an award.
+
+Argument for AGAINST:   When a win occurs, the Herald enters an 
+"authorized-to-award" state ("is then authorized" in the Rule).  A later 
+win (before the Champion award) doesn't alter this state, and the Herald 
+"exits the state" by a single award even if multiple simultaneous wins 
+occurred.
+
+There's a longer discussion captured here:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+discussion/2019-August/055336.html
+
+As the Herald, I assumed back in October (with D. Margaux's Apathy wins) 
+that FOR applies, but on reflection, the AGAINST argument is a bit more 
+like how we treat the Agoran gamestate (for things in general, not wins in 
+particular).  Otherwise, no particular bias.
+
+--------------------------------------------------------------------------
+
+A discussion starting August 8, submitted by Judge Falsifian:
+
+G.:
+
+> I award Falsifian the Patent Title Champion.
+> I award Jason Cobb the Patent Title Champion (once).
+>
+> (I'm sure these are fine, but I'll wait just a little longer in case
+> someone wants to question the other 98).
+
+ais523:
+
+> Arguably the text of rule 649 only allows you to award one copy of the
+> patent title within the week after the player wins.
+>
+> Being authorised twice to award a patent title once doesn't strike me
+> as having any different game effect from being authorised once to award
+> a patent title once, and the time window is the same in each case.
+
+G.:
+
+> Oh - interesting!
+>
+> Other than how it's listed in the Scroll, the only, practical knock-on
+> effect I see is whether staggered Champion awards extend the time window 
+for
+> earning an Ultraviolet - which matters for Transparent, even if the 
+player
+> gets the Ultraviolet from the 1st champion.
+>
+> Jason Cobb is trying to get a Transparent Ribbon right now so this might
+> come up.
+
+Jason Cobb:
+
+> If I write you a check for $50, then you are allowed to ask your bank to
+> transfer $50 out of my account and into yours. You couldn't ask them to
+> do it 20 times and end up getting $1000 from me. So, that check once
+> authorizes you to take $50 out of my account.
+>
+> But, if I were to write you two checks for $50 and date them the same,
+> each check is authorization to once take $50 out of my account. The fact
+> that they are dated the same doesn't matter, each check is a separate
+> authorization to perform an action once. Therefore, you are permitted to
+> perform the action twice.
+>
+> I would argue that a similar logic applies here. Rule 2449 reads:
+>
+>>        When the Rules state that a person or persons win the game, 
+those
+>>        persons win the game; specifically they win the Round that ends
+>>        with the indicated win. Agora itself does not end and the 
+ruleset
+>>        remains unchanged. The Herald is then authorized to award those
+>>        persons the Patent Title of Champion once, by announcement.
+> Each win was a separate event (even if they happened at the same time).
+> Rule 2449 then, for each win, authorizes the Herald to once award the
+> winner the Patent Title Champion.
+
+
+A discussion starting August 18:
+
+Arguments from G.:
+
+> Addendum to the above argument:  A place we treat it as AGAINST: If 3
+> people call 3 separate CoEs on 3 different line-items in the same
+> document (remembering that a CoE places a "doubt" on the document, not
+> just the line-item), a single revised report satisfies all of the CoEs
+> at once (at least we've always assumed that).
+
+Gratuitous argument from Jason Cobb:
+
+> Looking at R2201, that seems wrong to me unless the revision explicitly
+> notes all three claims because of the requirement that the announcement
+> "clearly cites the claim of error".
+>
+> I would assume that replying to the message in which the claim was
+> created "clearly cites" that claim of error, but that doesn't really
+> work if there's a bunch.
+
+Response from G.:
+
+> Oh that's right!  Funnily enough, that actually supports my argument a
+> bit better.  The "clearly cites the claim of error" text was added
+> just last month (it's not in this version:
+> https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+official/2019-July/013016.html).
+> It was specifically added to fix the issue - which shows that in the
+> default case (without such text explicitly spelling out a 1-to-1
+> matching), we'd assume a single revision did the trick.
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Evidence:
+
+Rule 2449:
+
+> When the Rules state that a person or persons win the game, those
+> persons win the game; specifically they win the Round that ends
+> with the indicated win. Agora itself does not end and the ruleset
+> remains unchanged. The Herald is then authorized to award those
+> persons the Patent Title of Champion once, by announcement.
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Arguments:
+
+The main issue here seems to be uncertainty about what the word "once"
+means in Rule 2449.
+
+Here are some other places where the rules use the word "once":
+
+1. Rule 911: [When a judgement is entered into moot,] "the CFJ is
+   suspended, and the Arbitor is once authorized to initiate the Agoran
+   decision to determine public confidence in the judgement..."
+
+2. Rule 2593: "In a timely fashion after a Space Battle is initiated, the
+   combatants SHOULD each once communicate to the resolver the amount of
+   Energy they wish to spend in the battle..."
+
+3. Rule 103: "If at any time the office of Speaker is vacant, or when one
+   or more players win Agora, then the Prime Minister CAN once appoint a
+   Laureled player to the office of Speaker by announcement."
+
+4. Rule 2496: "A player CAN ... earn the set of assets associated with a
+   reward condition exactly once ... each time e fulfills it..."
+
+5. Rule 1367: "A specific degree CANNOT be awarded to any person more
+   than once."
+
+Examples 1 and 2 give is some guidance here.  If two judgements were
+entered into moot in close succession, surely the Arbitor would be
+authorized to initiate one decision for each. If a player owning two
+spaceships initiated two Space Battles in close succession, surely e
+should communicate the amount of Energy for each battle, not just one.
+
+In fact, even under Rule 2449, after both Jason Cobb and Falsifian won
+the game, we seem to have taken for granted that the Herald was
+authorized to award the Patent Title of Champion at least twice: once
+for Jason Cobb and once for Falsifian.
+
+In each example, the word "once" is naturally interpreted to mean "once
+per time the condition is fulfilled". The only difference here is that
+the winner happens to be the same person in the multiple times the
+condition was fulfilled, and I see no reason that should change our
+interpretation.
+
+The caller argues that our interpretation of Rule 2201 before the
+"clearly cites the claim of error" text was added supports an AGAINST
+interpretation, since a single revised report can satisfy a publisher's
+obligations with respect to more than one claim of error. Another case
+where one action is matched to multiple is that a a single announcement
+of intent can be used multiple times. However, the use of the word
+"once" distinguishes Rule 2449 from these examples. Just as Rule 2579
+requires a player to "indicate intent to pay that fee for the sole
+purpose of performing the action" (associating the payment with the
+action) and Rule 2496 only allows a reward to be earned "exactly once"
+per time the condition is fulfilled (associating the fulfilment of the
+condition with earning the reward), the word "once" in Rule 2449
+associates the winning of the game with the awarding of the Patent Title
+of Champion: so this is a different situation than with claims of error.
+
+I judge CFJ 3770 TRUE.
+
+==========================================================================

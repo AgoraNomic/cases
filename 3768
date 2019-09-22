@@ -1,0 +1,113 @@
+===============================  CFJ 3768  ===============================
+
+      A party to the contract in evidence CAN act on behalf of the other
+      party to transfer a coin.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         omd
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             03 Aug 2019 22:15:39
+Assigned to Trigon:                               10 Aug 2019 11:57:39
+Trigon recused:                                   25 Aug 2019 19:03:35
+Assigned to omd:                                  25 Aug 2019 19:03:35
+Judged FALSE by omd:                              28 Aug 2019 02:41:50
+
+==========================================================================
+
+Caller's Evidence:
+
+Contract:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2019-August/041185.html
+
+Consent of a second party:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2019-August/041186.html
+
+Excerpt from Rule 1742/21 ("Contracts"):
+
+    A party to a contract CAN perform any of the following actions
+    as permitted by the contract's text:
+
+    * Act on behalf of another party to the contract.
+
+    * By announcement, revoke destructible assets from the contract.
+
+    * By announcement, take liquid assets from the contract.
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+The contract exists because two parties (G. and I) have consented to it,
+and neither has ceased being party to the contract.
+
+The contract states that
+
+    If "this statement is false" is a true statement, each party to this
+    contract is permitted to, and CAN, once, and only once, act on
+    behalf of the other party to transfer one (1) Coin to this contract.
+
+This contract, subject to a conditional, permits a party to act on
+behalf of another party to it. Thus, whether or not Rule 1742 states
+that I CAN act on behalf of another party is directly dependent on the
+conditional specified by the contract. However, this conditional is a
+paradoxical statement (the liar paradox). Thus, whether the Rule states
+that I CAN act on behalf depends on a paradoxical statement. The other
+part of the requirements is fulfilled, as I have not acted-on-behalf of
+G. pursuant to this contract before.
+
+Considering the possible outcomes:
+
+FALSE: To reach this outcome one would need to find that "this statement
+is false" is false, which is not a valid assessment of that statement's
+truthfulness (it is a paradox); FALSE is not appropriate.
+
+TRUE: As above, but would need to find the statement true; TRUE is not
+appropriate.
+
+IRRELEVANT: Whether or not I can act on behalf of G. is absolutely
+relevant because it is on the permissibility of an action that affects a
+quantity that the Treasuror must keep track of; I make this further
+relevant by actually attempting to perform this action later in the
+message in which I submit this case. This is therefore relevant to the
+game; IRRELEVANT is not appropriate.
+
+INSUFFICIENT: I have (hopefully) given the judge everything that e needs
+to issue a judgement; INSUFFICIENT is not appropriate.
+
+DISMISS: I argue that PARADOXICAL is appropriate, so DISMISS is not
+appropriate.
+
+PARADOXICAL: "appropriate if the statement is logically undecidable as a
+result of a paradox", I argue that this is in fact true, as the
+statement depends on the truthfulness of the liar paradox; I argue that
+PARADOXICAL is appropriate.
+
+--------------------------------------------------------------------------
+
+Judge omd's Arguments:
+
+FALSE by the precedent of CFJ 3728.  (If I can't have it, neither can you! 
+;))
+
+CFJ 3728:
+> Suppose that omd pledged not to state any falsehoods and then stated
+> "omd violated Rule 2450 by saying this sentence." Whether this is a
+> violation is not easily ascertainable because it is a paradox; in fact
+> it is simply a slightly abstracted version of the most basic
+> self-reference paradox "This sentence is false."
+>
+> So, moving out a layer, is it LEGAL to create a proposal that contains a
+> paradoxical statement after vowing to not create any proposals
+> containing false statements? No.
+
+==========================================================================

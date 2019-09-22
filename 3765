@@ -1,0 +1,237 @@
+===============================  CFJ 3765  ===============================
+
+      Agora is ossified.
+
+==========================================================================
+
+Caller:                        D. Margaux
+
+Judge:                         Jason Cobb
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             31 Jul 2019 20:42:59
+Assigned to Jason Cobb:                           03 Aug 2019 00:13:00
+Judged FALSE by Jason Cobb:                       03 Aug 2019 19:39:26
+
+==========================================================================
+
+Caller's Arguments:
+
+Under Rule 1698, "Agora is ossified if it is IMPOSSIBLE for any reasonable 
+combination of actions by players to cause arbitrary rule changes to be 
+made and/or arbitrary proposals to be adopted within a four-week period."
+
+I can prove that "arbitrary rule changes" are IMPOSSIBLE by identifying a 
+proposed rule change that would be IMPOSSIBLE to adopt within the four 
+week period.
+
+There are many rule changes that are IMPOSSIBLE to adopt. Here is one 
+example of an IMPOSSIBLE rule change: "Enact a power 100 Rule that 
+provides, 'It is IMPOSSIBLE to change the Rules, rules to the contrary 
+notwithstanding.' Leave the Ruleset otherwise unchanged." That rule change 
+CANNOT take effect because the Ossification rule itself would prevent that 
+rule change from taking effect.
+
+Another rule IMPOSSIBLE rule change is: "Repeal Rule 1698 (Ossification). 
+Enact a power 100 rule that procides, 'It is IMPOSSIBLE to change the 
+Rules, rules to the contrary notwithstanding.'" That rule change CANNOT go 
+into effect, because it is an "inseperable group of changes to the 
+gamestate would cause Agora to become ossified," and is thus prevented 
+from going into effect by Rule 1698 itself.
+
+I have established that, if Rule 1698 took effect, then Agora is ossified. 
+Here's where it gets confusing. If I am right, then Rule 1698 may have 
+prevented itself from taking effect!  That is because enacting Rule 1698 
+changes the game state in a manner that ossifies Agora, and "If any other 
+single change or inseperable group of changes to the gamestate would cause 
+Agora to become ossified . . . it is cancelled and does not occur, rules 
+to the contrary notwithstanding."
+
+That means that the enactment of Rule 1698 was "canceled and does not 
+occur."
+
+It also means that, when the ruleset was ratified with Rule 1698 in it, 
+that action was “canceled and does not occur.”
+
+BUT! The only thing that cancels the enactment of the rule is the rule 
+itself! So, Rule 1698 cycles infinitely between cancelling itself and not 
+being cancelled.
+
+I think that makes one or both of these CFJs PARADOXICAL. 
+
+--------------------------------------------------------------------------
+
+Caller's Evidence:
+
+Rule 1698
+Agora is ossified if it is IMPOSSIBLE for any reasonable combination of 
+actions by players to cause arbitrary rule changes to be made and/or 
+arbitrary proposals to be adopted within a four-week period. If, but for 
+this rule, the net effect of a proposal would cause Agora to become 
+ossified, or would cause Agora to cease to exist, it cannot take effect, 
+rules to the contrary notwithstanding. If any other single change or 
+inseperable group of changes to the gamestate would cause Agora to become 
+ossified, or would cause Agora to cease to exist, it is cancelled and does 
+not occur, rules to the contrary notwithstanding.
+
+--------------------------------------------------------------------------
+
+Judge Jason Cobb's Arguments:
+
+I will begin by reading into the record this message from G. ([0]):
+
+> A little gratuitous for CFJ 3765-3766:
+>
+> It's likely that an "arbitrary rule change" can be made by first
+> making other rule changes to remove any impediments, and then making the
+> arbitrary change.  However, in judging whether some kind of change is
+> POSSIBLE, we judge based on the current ruleset - not the hypothetical
+> ruleset in which a few other changes have been made.  This point (in 
+what
+> the judgement covers) is worth addressing explicitly.
+
+I agree that if a Rule 1698 were to specify that Agora is ossified if it 
+is IMPOSSIBLE "to cause arbitrary rule changes" (without specifying a time 
+period), then there might be an issue. However, R1698 does not say such a 
+thing, it instead reads:
+
+> Agora is ossified if it is IMPOSSIBLE for any reasonable
+> combination of actions by players to cause arbitrary rule changes
+> to be made and/or arbitrary proposals to be adopted within a
+> four-week period.
+
+I note that there is a slight grammatical ambiguity here: the above quote 
+could read as either "(to cause arbitrary rule changes to be made) and/or 
+(arbitrary proposals to be adopted within a four-week period)" or "(to 
+cause arbitrary rule changes to be made and/or arbitrary proposals to be 
+adopted) within a four-week period". I believe the intent is the latter 
+reading, and I use the "common sense" test in Rule 217 to impose this 
+reading.
+
+Given this reading, the action in question is not "cause arbitrary rule 
+changes", which would indeed be IMPOSSIBLE to perform under the current 
+ruleset, thanks in part to Rule 1698 itself. The action in question is to 
+"cause arbitrary rule changes _within a four-week period_". With the 
+current proposal process, it is indeed possible to cause any such rule 
+change within a four-week period:
+
+   Day 0: A proposal that repeals any protections is distributed
+
+   Day 0-7: Voting
+
+   Day 7: Resolution of decision to adopt proposal that repeals any
+   protections.
+
+   Day 7: A proposal that makes any arbitrary rule changes is distributed.
+
+   Day 7-14: Voting
+
+   Day 14: Resolution of decision to adopt proposal that causes
+   arbitrary rule changes.
+
+By this method, arbitrary rule changes can be enacted. This also certainly 
+constitutes a "reasonable combination of actions by players", and it would 
+succeed even if a small number of days were to elapse between the endings 
+of voting periods and the resolutions of decisions.
+
+
+For completeness, I consider each type of rule change outlined in Rule 105 
+and whether or not it is possible for the above process to cause them 
+(after repealing any blocking protections):
+
+1. enact a rule: this is possible with a proposal of any power
+2. repeal a rule: this is possible with a proposal of sufficiently high
+   power
+3. reenact a rule: this is possible with a proposal of sufficiently
+   high power
+4. amend a rule: this is possible with a proposal of sufficiently high
+   power
+5. retitle a rule: this is possible with a proposal of sufficiently
+   high power
+6. change the power of a rule: this is possible with a proposal of
+   sufficiently high power
+
+Furthermore, Rule 1698 is protected against possible future changes in the 
+definition of "rule change", as I must interpret the Rules with the 
+definitions currently in effect, and Rule 105 very explicitly states what 
+a "rule change" is. I thus do not need to consider any possible future 
+changes to the definition of "rule change", even within the four-week 
+period.
+
+
+To decide whether or not it is "IMPOSSIBLE for any reasonable combination 
+of actions by players to cause arbitrary rule changes [...] within a four-
+week period", I consult the definition of "IMPOSSIBLE" in Rule 2152:
+
+> 1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID: Attempts to perform the 
+described action are unsuccessful.
+
+I have shown above how it is possible for an attempt to perform this 
+action (causing arbitrary rule changes within a four-week period) could be 
+successful, therefore it is not IMPOSSIBLE to perform the action. In 
+addition, it is possible to cause arbitrary proposals to be adopted. Thus, 
+under Rule 1698, Agora is not ossified. FALSE.
+
+
+The caller provides some possible "rule changes" that e believes are 
+IMPOSSIBLE to enact; for completeness, I will show that these are not in 
+fact counterexamples to my above claims:
+
+One such example is:
+
+> "Enact a power 100 Rule that provides,
+> 'It is IMPOSSIBLE to change the Rules, rules to the contrary
+> notwithstanding.' Leave the Ruleset otherwise unchanged."
+
+Per the definition of "rule change" provided in Rule 105, this is not a 
+rule change, although it does contain a rule change:
+
+> Enact a power 100 Rule that provides,
+> 'It is IMPOSSIBLE to change the Rules, rules to the contrary
+> notwithstanding.'
+
+This is indeed possible to enact in a four week period, with the method 
+described above. Even the specification of "power 100" does not make this 
+IMPOSSIBLE to enact because Rule 105 provides that the power of the 
+enacted rule is "the minimum of the power specified by the enacting 
+instrument [...] and the maximum power permitted by other rules".
+
+
+The caller also provides this as an example:
+
+> "Repeal Rule 1698 (Ossification).
+> Enact a power 100 rule that procides, 'It is IMPOSSIBLE to change the 
+Rules,
+> rules to the contrary notwithstanding.'"
+
+Again, this is not a rule change. This time it consists of two rule 
+changes, and it is possible to cause each one of them in a four week 
+period, as described above.
+
+--------------------------------------------------------------------------
+
+Judge Jason Cobb's Evidence:
+
+[0]: https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+discussion/2019-August/055219.html
+
+Rule 1698/5 ("Agora Is A Nomic"):
+
+> Agora is ossified if it is IMPOSSIBLE for any reasonable
+> combination of actions by players to cause arbitrary rule changes
+> to be made and/or arbitrary proposals to be adopted within a
+> four-week period.
+>
+> If, but for this rule, the net effect of a proposal would cause
+> Agora to become ossified, or would cause Agora to cease to exist,
+> it cannot take effect, rules to the contrary notwithstanding. If
+> any other single change or inseperable group of changes to the
+> gamestate would cause Agora to become ossified, or would cause
+> Agora to cease to exist, it is cancelled and does not occur, rules
+> to the contrary notwithstanding.
+
+==========================================================================

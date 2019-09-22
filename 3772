@@ -1,0 +1,107 @@
+===============================  CFJ 3772  ===============================
+
+      Existing is a regulated action.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             02 Sep 2019 01:15:19
+Assigned to G.:                                   02 Sep 2019 01:25:42
+Judged FALSE by G.:                               02 Sep 2019 13:01:29
+
+==========================================================================
+
+Caller's Evidence:
+
+Rule 2125:
+>       An action is regulated if: (1) the Rules limit, allow, enable, or
+>       permit its performance; (2) describe the circumstances under which
+>       the action would succeed or fail; or (3) the action would, as part
+>       of its effect, modify information for which some player is
+>       required to be a recordkeepor.
+
+Rule 2166:
+>       An asset is an entity defined as such by a document that has been
+>       granted Mint Authority by the Rules (hereafter the asset's backing
+>       document), and existing solely because its backing document
+>       defines its existence. An asset's backing document can generally
+>       specify when and how that asset is created, destroyed, and
+>       transferred.
+
+
+Rule 1586:
+>       If the entity that defines another entity is amended such that it
+>       defines the second entity both before and after the amendment, but
+>       with different attributes, then the second entity and its
+>       attributes continue to exist to whatever extent is possible under
+>       the new definitions.
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+There are certainly places where the Rules "limit, allow, enable, or
+permit" the action of existing. I've included two in evidence: Rule 2166
+permits the existence of assets, and Rule 1586 explicitly limits the
+existence of entities that are defined by other entities. In addition,
+an argument could be made that the Rules "enable" all other game-defined
+entities to exist. This fulfills criterion (1) in Rule 2125 for making
+the action of existing a regulated action.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+R101 lays out 4 "pillars" of interacting concepts that affect play in
+Agora - Persons, Rules, Actions, and Fora.  Persons, Rules, and Fora are
+explicitly defined (R869, R2141, and R478 respectively) but Actions are
+not.  So we must define what an "action" is using common definitions, game
+custom, common sense, past judgements, etc.
+
+So some of those considerations:
+
+- a verb is not necessarily an action; in particular, "to be" verbs
+(including "to exist") are grammatically considered to be "non-action"
+verbs - searching the term "non-action verb" gives plenty of basic grammar
+lessons on this.  So right off the bat, "to exist" is not an "action",
+grammatically (nor are concepts like "to possess" for assets, etc.)
+
+- the common definition of "action" focuses on accomplishment, acts of
+will, and "the bringing about of an alteration by force", with
+"alteration" being a key concept here.  No alteration (in state of
+existence) means no action.
+
+- And let's not forget Newton:  no change in existence state (velocity,
+ etc.) = no action.
+
+- Changes in existence state (e.g. ceasing to exist) are indeed actions -
+inferring the state as an action would make these situations (actions
+performed on actions) rather messy.
+
+- CFJ 3529 found that for switches, "no change" = "no action" (this has
+since been legislatively clarified by the addition of the final paragraph
+of R2162, but the CFJ was judged without that clause).
+
+- CFJ 1895 found that "being a particular person" (i.e. external
+existence) is generally a non-manipulable condition.  This is particularly
+relevant with respect to R2466 (Acting on Behalf), reading "existence" as
+an action would allow a person to act-on-behalf of a principal to "be" the
+principal, which has been rejected.
+
+- Finally, a survey of the current rules firmly associates the term
+"action" with performable acts of will (or timed events), excluding non-
+action verbs from being R101 "actions" is consistent with all uses and
+breaks nothing, as far as this judge can tell.
+
+Therefore, I find FALSE: Existing is not a regulated action, because it is
+not an action.
+
+==========================================================================

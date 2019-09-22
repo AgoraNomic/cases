@@ -1,0 +1,195 @@
+===============================  CFJ 3761  ===============================
+
+      A party to the contract in evidence CAN create a gift by some
+      method.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             23 Jul 2019 21:20:58
+Assigned to G.:                                   03 Aug 2019 00:10:08
+Judged TRUE by G.:                                03 Aug 2019 00:37:10
+Motion to reconsider self-filed:                  03 Aug 2019 15:44:35
+Judged FALSE by G.:                               03 Aug 2019 21:28:10
+
+==========================================================================
+
+Caller's Evidence:
+
+    Contract:
+    https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2019-July/041020.html
+
+    Consent of a second party:
+    https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2019-July/041021.html
+
+    Excerpt from Rule 2166 ("Assets"):
+
+      An asset is an entity defined as such by a document that has
+      been granted Mint Authority by the Rules (hereafter the asset's
+      backing document), and existing solely because its backing
+      document defines its existence. An asset's backing document can
+      generally specify when and how that asset is created, destroyed, and
+      transferred.
+
+      The rules collectively have Mint Authority. Contracts have Mint
+      Authority. A rule defined asset is public; one defined by a
+      contract is private.
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+    The contract exists because two parties (G. and I) have consented to 
+    it.
+
+    The contract directly states both that a player CAN create a gift
+    (in eir possession) by paying a fee of one Coin, and that a player
+    CANNOT create a gift by any means. The contract provides no methods
+    for resolving this conflict, and the Rules do not provide any means
+    for resolving this conflict (Rule 2240 ("No Cretans Need Apply"),
+    explicitly only applies to conflicts between Rules and is thus
+    irrelevant here), so there is no way to resolve this conflict.
+
+    Contracts have Mint Authority, and are the backing document of
+    Gifts, and thus can specify when and how Gifts can be created (Rule
+    2166); therefore, the conflicting clauses are indeed given effect by
+    the assets rules.
+
+    Considering the possible outcomes:
+
+    FALSE: The contract explicitly states that a player CAN create a
+    Gift by paying a fee of one Coin, so FALSE is not appropriate.
+
+    TRUE: The contract explicitly states that players CANNOT create
+    Gifts by any means, so TRUE is not appropriate.
+
+    IRRELEVANT: This is clearly relevant to the game, as whether or not
+    this is true affects my Coin balance (because I attempted to pay a
+    fee of one coin to create a Gift), which the Treasuror is required
+    to keep track of, so IRRELEVANT is not appropriate.
+
+    INSUFFICIENT: I believe that I have provided all necessary evidence
+    to issue a judgement, so INSUFFICIENT is not appropriate.
+
+    DISMISS: I argue that PARADOXICAL is appropriate, so DISMISS is not
+    appropriate.
+
+    PARADOXICAL: "appropriate if the statement is logically undecidable
+    as a result of a paradox or or (sic.) other irresolvable logical
+    situation." I argue that this CFJ's statement fulfills this
+    criterion. The statement is logically undecidable because the only
+    document states anything about Gifts has directly contradictory
+    caluses, and there is no way to determine which clause takes
+    precedence - thus making this an "irrresolvable logical situation".
+    I argue that PARADOXICAL is the only appropriate judgement.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First, Contracts as subject to R2125 as Players are – It's quite possible
+for a contract text to contain an "I say I did", and just because a
+contract says a regulated action CAN be done, doesn't mean that the Rules
+enable it to do so.
+
+Second, legal texts are not typically read as logical statements – if two
+portions of a contract disagree with each other, the clauses are "in
+conflict" with each other.  This does not automatically result in a
+paradox, it simply means that a reasonable process may be applied in an
+attempt to resolve the conflict.  The question is, can a reasonable
+process for contract conflict resolution be inferred from the current
+Rules and applied to the contract in question?
+
+It would be perfectly reasonable, on one hand, to suggest that earlier
+clauses take precedence over later ones, as a general rule for Agoran
+legal texts.  This is supported by Rule 1030 – while R1030 clearly only
+applies to Agoran Rules, it could be argued that Agorans, when agreeing to
+be bound within Agora, assume that legal texts are read similarly.
+
+On the other hand, it is perfectly reasonable to apply R2240, as well, and
+give later clauses precedence.  After all, a single contract is more like
+a "single rule" then a full ruleset; further, in general interpretation of
+contracts, "later" amendments often (though not always) take precedence
+over earlier ones (see https://en.wikipedia.org/wiki/Implied_repeal).
+
+In the future, a judge might decide that one or the other of those options
+is a better reading.  However, choosing between a forwards and backwards
+precedence order doesn't get us out of the broader issue of contract
+paradoxes – given that it's possible to write text where the very sentence
+structure (within a single clause) is inseparably paradoxical (e.g. "If
+this statement is false, then a party CAN do X"), is there a way to
+disambiguate straight-up paradoxical statements/conflicts in contracts?
+
+It depends – on the particular enabling rule that enables the particular
+type of contract interaction.  For currencies, then, it depends on this
+part of R2166:
+
+>                            An asset's backing document can generally
+>     specify when and how that asset is created, destroyed, and
+>     transferred.
+
+Here, the operative word is that the contract (as a whole document) is
+"specifying" how things can happen.  While this isn't as strong a standard
+as "unambiguously and clearly specifying" as required for by-announcement
+actions (R478), it is still a standard that can be informed by our
+practices around announcements (e.g. noting "I say I dids" or requiring
+that conditionals in contracts be resolvable with reasonable effort from
+available information).  For a pertinent example, a Player, in a single
+message, announces:
+
+"Disclaimer: this message contains no actions.  I do X.  Disclaimer: the
+first disclaimer is false."
+
+With no explicit manner in the rules to resolve such conflicts between
+disclaimers, the whole thing is thrown out as too ambiguous to succeed at
+specification (while this makes the first disclaimer true, that is a side-
+effect).
+
+Even if we drop "unambiguously and clearly" from the standard for
+"specification", sufficient ambiguity in a specification attempt will lead
+to it simply being thrown out - while Agora has gone through a degree of
+judicial drift (without rules support) in what constitutes "specify", a
+foundational judgement is found in CFJ 1307 highlighted that if a
+"specification" does not contain or refer to full necessary information,
+or contains sufficient ambiguity, it is not (in general) a specification.
+
+Since the specification has to be performed by the backing document as a
+whole, if internal clauses conflict in setting out the specification,
+without providing a mechanism for conflict resolution – the net effect is
+that the clauses fail at specification, and are simply void and without
+effect due to ambiguity.
+
+In the current situation, Clause 3 of the contract successfully defines a
+currency.  By default (if there were no further clauses), the POSSIBLE
+currency actions are in R2577, and include destruction and transfer of
+currencies by announcement, but not creation.  Clauses 4 and 5, taken as a
+whole, fail to specify when and how an asset CAN be created, so no
+creation is possible (again, that the default agrees with Clause 5 is a
+side-effect).  Therefore, this CFJ is FALSE.
+
+It's important to emphasize, finally, that this interpretation depends on
+the operative phrases in the enabling rule; that is "specify" in R2166.
+As a counter-example, R1742 has this clause:
+
+>     Parties to a contract governed by the rules SHALL act in
+>     accordance with that contract.
+
+In this case, figuring out what is "in accordance with" the contract may
+involve giving weight to the various internal conflicts (that's not a
+phrase that has seen much CFJ interpretation)  – in such a situation, a
+future judge may decide between some of the interpretive conflict
+resolution methods suggested above (e.g. early versus late clauses have
+precedence in general) or that it breaks for a different, rules-specific
+reason (e.g. R2531), or may find that some true paradoxes exist.
+
+==========================================================================
