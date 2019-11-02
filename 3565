@@ -1,21 +1,23 @@
-==============================  CFJ 3565  ==============================
+===============================  CFJ 3565  ===============================
 
       In the below quoted message, VJ Rada endorsed G.
 
-========================================================================
+==========================================================================
 
-Caller:                       Ørjan                       
+Caller:                        Ørjan
 
-Judge:                        o                       
-                 
+Judge:                         o
+Judgement:                     FALSE
 
-========================================================================
+==========================================================================
 
 History:
 
-Called by Ørjan:              25 Sep 2017       
+Called by Ørjan:                                 25 Sep 2017 23:38:31
+Assigned to o:                                    27 Sep 2017 23:44:53
+Judged FALSE by o:                                04 Oct 2017 00:04:58
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
@@ -28,33 +30,47 @@ Argument: Rule 2127 states
 
 It seems to me that VJ Radas votes are equivalent to what's stated in 
 the last part of that, and thus are endorsements.
- 
-========================================================================
 
-Caller's Evidence:
+--------------------------------------------------------------------------
 
-On Mon, 25 Sep 2017, VJ Rada wrote:
->
+Judge o's Arguments:
+
+V.J Rada cast a vote which read
+
 > I vote as G. does.
-> 
-> On Mon, Sep 25, 2017 at 4:01 PM, Kerim Aydin <kerim@u.washington.edu> wrote:
-> > 
-> > 
-> > On Sun, 24 Sep 2017, Aris Merchant wrote:
-> > > 7899*  G.            2.0  Arbitor's Union              G.          1 AP
-> > > 7900*  o             2.0  Come What May                o           1 AP
-> > > 7901*  o, [1]        3.0  Make Your Home Shine         o           6 sh.
-> > > 7902*  G.            1.0  Switch no-ops                G.          1 AP
-> > > 7903*  G.            2.0  Numerical switches v2        G.          1 AP
-> > > 7904*  G., 天火狐     1.0  Such is Karma v2             Aris        1 AP
-> > 
-> > I vote FOR all of these.  -G.
-> > 
-> > 
-> 
-> 
-> 
-> -- 
-> > From V.J. Rada
 
-========================================================================
+The rule that defines endorsement is rule 2127 (“Conditional Votes”), the 
+relevant part of which reads:
+
+> Casting a vote endorsing another voter is equivalent to conditionally 
+casting a vote whose value is the same as the most common value (if any) 
+among that voter's valid votes on that decision.
+
+This defines an equivalence relationship between a class of conditional 
+votes and the notation that a vote endorses another voter. The two are, by 
+definition, interchangeable: if, in every possible outcome, a conditional 
+vote is identical to the vote of a specific other voter, and the identity 
+of that voter can be ascertained from the text of the vote, then it is 
+exactly the same in every respect as a vote which endorses that player. 
+Under this interpretation, V.J Rada’s ballot endorsed G.. This is the 
+interpretation I personally favour.
+
+However, it is also possible to read V.J Rada’s ballot as a vote for the 
+same options G. had selected at that moment (and which V.J Rada included 
+by quotation in eir own message casting the ballot). This appears to be 
+V.J Rada’s intention, as, when questions were originally raised about the 
+validity of eir ballot, V.J Rada submitted a new ballot which was not 
+conditional in any way: e voted FOR all of the named proposals, directly.
+
+GIven the ambiguity, I find that V.J Rada’s original ballot, “I vote as G. 
+does,” does not meet the requirement set out in rule 683 (“Voting on 
+Agoran Decisions”) that
+
+> The ballot clearly identifies a valid vote, as determined by the voting 
+method.
+
+Therefore, it is not a conditional ballot of any kind, and did not endorse 
+G., even under the equivalence properties described above. I find this CFJ 
+to be FALSE.
+
+==========================================================================

@@ -1,26 +1,194 @@
-==============================  CFJ 3575  ==============================
+===============================  CFJ 3575  ===============================
 
       G. owns the Estate of Dawsbergen.
 
-========================================================================
+==========================================================================
 
-Caller:                       
+Caller:                        G.
+Barred:                        o
 
-Judge:                        
-Judgement:                    
+Judge:                         V.J. Rada
+Judgement:                     TRUE
 
-========================================================================
+==========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by G.:                                     12 Oct 2017 21:57:03
+Assigned to V.J. Rada:                            13 Oct 2017 20:29:58
+Judged TRUE by V.J. Rada:                         15 Oct 2017 00:16:07
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
+Regard the following hypothetical Rules clause:
+
+    A player CAN do X by A, by B, or by C.
+
+I think there's only one reasonably clear interpretation of this clause,
+that the player has three independent methods for doing X, either by A,
+by B or by C.  The grammatical clues for this construct are the
+repetition of the term "by", and the "or" which (by clear grammatical
+rules) distributes over the list to "A or B or C."  It's pretty darn
+clear, and really the only sensible reading.
+
+Compare this directly with the language of R2491, with line breaks
+inserted for emphasis:
+
+    The player who placed the winning bid CAN, and SHALL in a timely
+    fashion, cause Agora to transfer the auctioned Estate to the winner
+    by announcement,
+    by paying Agora the amount of the bid, or
+    by causing the winning Organization to pay Agora the amount of the
+    bid.
+
+Exactly the same as the hypothetical example.  So I have simply opted
+for the first method (by announcement) for making the transfer, instead
+of the other methods ("by paying").
+
+That's my whole argument.  It's an argument, and it's mine.  But I've
+anticipated some counterarguments for your convenience:
+
+Q:  But don't you have to pay by announcement?  I thought that was the
+point of recent rules changes!  So the 'by announcement' shouldn't be
+separated from 'by paying Agora' because otherwise 'paying Agora'
+doesn't work?
+
+A:  "paying" is already a by-announcement action by R2166 (Assets). 
+Moreover, CFJ 3557 recently found that the CAN and SHALL imply 'by
+announcement', so that implication should map onto all three methods in
+terms of announcing the reason for the payment.
+
+Q:  But other rules have this compound!  What about this:
+      Any player CAN flip a specified proposal's imminence to "pending"
+      by announcement by: b) spending the current Pend Cost in shinies
+and this:     
+      b) by announcement, and spending the current CFJ Cost in shinies,
+
+A:  None of those examples have an "or", real or implied.  And
+"spending" *isn't* a 'by announcement' action on its own, so it needs
+the support and the strongly-implied 'and'.
+
+Q:  But can't we read '...by A, by B, or by C' as 'by A and either
+(by B or by C)'?
+
+A:  That's a really poor inference from the grammar, and substituting
+a weakly-implied "and" for a strongly-implied 'or' is a complete
+reversal of meaning, not a minor grammatical quirk.
+
+Q:  But the *intent* of the rule is clearly...
+
+A:  This is Agora - text of the rules, dude.
 
 
-========================================================================
+Caller's Evidence:
 
+On Thu, Oct 12, 2017 at 3:57 PM Kerim Aydin <kerim@u.washington.edu> 
+wrote:
+>
+> On Tue, 10 Oct 2017, Owen Jacobson wrote:
+> > This auction ended at Tue, 10 Oct 2017 19:30:33 -0400, with the 
+> > following bids:
+> >
+> > * o, 1 sh., for emself.
+> > * o, 80 sh., for emself. (Incuded a blurb.)
+> > * G., 1,010 sh. for emself.
+>
+>
+> I transfer the Estate of Dawsbergen to myself.
+>
+
+
+Rule 2491 ("Estate Auctions")
+[Note:  the most recent SLR/FLR has this rule incorrectly-written due to
+a copy/past error.  I've taken this text from Proposal 7888.]
+
+
+     At the start of each month, if Agora owns at least one Estate,
+     the Surveyor CAN, by announcement, and SHALL in a timely
+     fashion, put one Estate which is owned by Agora up for auction.
+     Each auction ends seven days after it begins.
+
+     During an auction, any player CAN bid a number of Shinies on
+     eir own behalf, by announcement, or on behalf of any
+     Organization for which such a bid is Appropriate, by
+     announcement, provided the bid is higher than any
+     previously-placed bid in the same auction.
+
+     If, at the end of the auction, there is a single highest bid,
+     then that player or Organization wins the auction. The player
+     who placed the winning bid CAN, and SHALL in a timely fashion,
+     cause Agora to transfer the auctioned Estate to the winner by
+     announcement, by paying Agora the amount of the bid, or by
+     causing the winning Organization to pay Agora the amount of the
+     bid.
+
+--------------------------------------------------------------------------
+
+Judge V.J. Rada's Arguments:
+
+I start with this CFJ's facts. On October 4, o. initiated an auction
+for the Estate of Dawsburgen. On October 10, G. bid 1010 shinies on
+this auction. It is undisputed that e is the winner of the auction
+under rule  2491 (Estate Auctions) . Eir win of this auction therefore
+triggers the third paragraph of that rule, which states
+       "The player who placed the winning bid CAN, and SHALL in a
+        timely fashion, cause Agora to transfer the auctioned Estate to
+        the winner by announcement, by paying Agora the amount of
+        the bid, or by causing the winning Organization to pay Agora
+        the amount of the bid.".
+
+The question here is did G. transfer emself the Estate of Dawsburgen
+by eir announcement on Oct 13, or must e pay the winning amount of
+Shinies to gain control of Dawsburgen?
+
+In CFJ 3533, Judge omd noted that "We don't usually write "A or B or
+C". When all the clauses start with "if", we do sometimes write "if A,
+or if B, or if C", but "if A, if B, or if C" is still grammatical and
+common.". This is a similar case. The list given here provides three
+methods of transferring an Estate to oneself: by announcement, by
+transferring one's own Shinies, or by transferring an organisation's
+Shinies. And it uses the "by A, by B, or by C" format. If someone
+asked you to transport their piano "by plane, by boat, or by train",
+it would be clear that you would not have to somehow put a train ON a
+plane. If someone told you "You have to win this game by brute force,
+by skill, or by luck", it would be clear that you could use any of the
+three methods.
+
+However, imagine you were asked to see a performance "at Seaworld, at
+6am or at 8pm". It is similarly clear in such a case that their
+performance would occur only at Seaworld, and not in any other place.
+What if somebody asked you to win a fight "by any means necessary, by
+luck, by brute force, or by skill". It is clear that that person would
+always expect you to use any means necessary. The difference comes
+from the nature of the first clause. In the later two examples, the
+first clause is general and followed by a list of specific examples or
+limiting items. Is the list at issue in this CFJ similar to the later
+two examples? Arguably so, yes. Near every action in the Agoran
+ruleset must be done "by announcement". It seems quite reasonable to
+interpret the text at issue here the same as the two examples in this
+paragraph, with the transfer of Shinies limiting the general "by
+announcement". Does this trigger the game factors analysis?
+
+It does not. The inclusion of an Oxford comma makes this case quite
+clear. An Oxford comma, of course, is a comma "used after the
+penultimate item in a list of three or more items, before ‘and’ or
+‘or’". In the text at issue here, there is a comma before the "or" in
+"by paying Agora the amount of the bid, or by causing the winning
+Organization to pay Agora the amount of the bid.". This comma is
+grammatical under G's interpretation because eir interpretation
+provides for a three-item list. Under the other interpretation, the
+list of the two methods would be two items, and the comma makes no
+sense.  Under real-world legal traditions, it is certainly within a
+judge's power to detect and correct small punctuation errors that
+produce odd results. In the Agoran tradition, it is not. See rule 217
+("the text of the rules takes precedence") and several CFJs (eg CFJ
+3548, which refused to apply the obviously intended effects of the
+Dependent Actions rules because the text commanded otherwise). The
+text here clearly indicates that an auction winner may transfer an
+Estate to emself by announcement.
+
+For the above reasons, I rule CFJ 3575 is TRUE
+
+==========================================================================

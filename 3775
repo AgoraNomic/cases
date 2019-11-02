@@ -1,0 +1,230 @@
+===============================  CFJ 3775  ===============================
+
+      Ratifying the SLR also ratifies the fact that no other Rules
+      (other than those in the ratified SLR) exist.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Falsifian
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     28 Sep 2019 16:46:47
+Assigned to Trigon:                               04 Oct 2019 18:13:04
+Trigon Recused:                                   20 Oct 2019 07:35:56
+Assigned to Falsifian:                            20 Oct 2019 07:35:56
+Judged TRUE by Falsifian:                         27 Oct 2019 00:51:17
+
+==========================================================================
+
+Caller's Arguments:
+
+By R1681, the SLR is a format of the ruleset:
+>     The Short Logical Ruleset (SLR) is a format of the ruleset.
+
+By R1051, it is also part of the Rulekeepor's Weekly Report:
+>     The Rulekeepor's Weekly report includes the Short Logical Ruleset.
+
+In the rules, "the ruleset" is not explicitly defined, but a common
+definition would be "the set of all rules".
+
+So does ratifying the SLR ratify the implication that there are no other
+rules (i.e. that the ratified set is complete)?  Note that in some types
+of reports we explicitly handle/cover missing values, e.g. in R2162 for
+switches:
+>                                                     a public document
+>        purporting to be this portion of that officer's report is
+>        self-ratifying, and implies that other instances are at their
+>        default value.
+
+We don't have text like that for the SLR/the ruleset.
+
+If it's useful, here's how Proposal 8175 (adopted 08-May-2019) phrased the
+last SLR ratification:
+> ID: 8175
+> Title: SLR Ratification
+> Adoption index: 3.0
+> Author: Aris
+> Co-authors:
+>
+>
+> Ratify the Short Logical Ruleset published on the 24th of February, 2019,
+> available here [1].
+>
+> [1] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2019-February/012797.html
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Evidence:
+
+== Background ==
+
+* In a discussion about Trigon's proto-proposal "Interesting Chambers
+  v2", Jason Cobb asks: when a rule is repealed, does that count as an
+  amendment for the purpose of R1586? [0]
+
+* twg argues that repealing a rule is an amendment to the ruleset [1],
+  leading to discussion about what the Ruleset is.
+
+* Shortly after, G. calls this CFJ.
+
+Publicly accessible links:
+
+[0] https://www.mail-archive.com/agora-discussion@agoranomic.org/msg48110.html
+[1] https://www.mail-archive.com/agora-discussion@agoranomic.org/msg48113.html
+
+Subscriber-only links, included for those who prefer, and in case the
+other links break:
+
+[0] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2019-September/055535.html
+[1] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2019-September/055538.html
+
+
+Some related discussion between ais523 and G.:
+
+ais523:
+> When we define "ruleset" in the case of FLR/SLR, they're more like
+> reports than sets of rules; it's easy enough to define that some
+> information should be omitted from a report without causing that
+> information to cease to exist. Thus, the usage of "ruleset" as the set
+> of all rules separate from that might not be supported by our
+> definitions.
+
+G.:
+> Actually, we currently define the FLR and SLR in R1681 as "formats" of
+> "the ruleset" where "the ruleset" is nowhere defined:
+>  >     The Short Logical Ruleset (SLR) is a format of the ruleset.
+>  >     The Full Logical Ruleset (FLR) is a format of the ruleset.
+> then the SLR and FLR are defined in R1051 as being "included" in weekly and
+> monthly reports:
+>  >     The Rulekeepor's Weekly report includes the Short Logical Ruleset.
+>  >     The Rulekeepor's Monthly report includes the Full Logical Ruleset.
+>
+> But yes, this depends on assuming, in the absence of an explicit
+> definition, that "the ruleset" in R1681 and R1030 is simply shorthand
+> for "the set of all rules".  (is there another common definition that
+> makes sense?)
+
+ais523:
+> For me, the natural reading is "a report about what rules exist". You'd
+> expect that to contain all the rules, but can imagine an unreported
+> rule.
+>
+> A simple way to see that it isn't the same thing as the set of all
+> rules is that the FLR contains things like summaries of past
+> judgements, which aren't rules (rather, they're guidelines to
+> interpreting the rules). For the FLR to be a format of a/the ruleset,
+> that implies that a/the ruleset must contain things that aren't rules.
+
+G.:
+> I read that easily as meaning that those extra things are part of the
+> "format" around the ruleset.
+
+Gratuitous argument from D. Margaux:
+
+> My 2 cents: I believe the answer to this is TRUE.
+>
+> I think game custom provides that the Ruleset is the
+> set-of-all-rules. I am not sure what the alternative definition could
+> be. There’s no reason for the Ruleset to be a subset-of-all-rules, and
+> we wouldn’t have any principled way to discern which rules are included
+> in that Ruleset and which aren’t.
+>
+> If the Ruleset is the set-of-all-rules, then ratifying the Ruleset
+> would “modif[y]” the “gamestate” to what“what it would be if, at the
+> time the [Short Logical Ruleset] was published, the gamestate had been
+> minimally modified to make the ratified [Short Logical Ruleset] as true
+> and accurate as possible.”
+>
+> I think that would imply that the gamestate is modified such that the
+> SLR would truly and accurately represent the set-of-all-rules, with the
+> implication that any rule not in the ratified SLR would cease to exist.
+
+
+Judge Falsifian's Arguments:
+
+The rules don't define exactly what the "ruleset" is. The common-sense
+definition, supported by game custom, is that it is the set of Agora's
+rules. For the most part, the way the rules use this term is consistent
+with this definition. Here's a somewhat arbitrary example:
+
+> A player qualifies for a White Ribbon if e has never
+> previously owned a White Ribbon (including under previous
+> rulesets).
+
+It is obvious that the author of this text, unless e was being sneaky,
+intended "previous rulesets" to mean something like "the complete set
+of Agora's rules at times in the past". A ruleset wouldn't be very
+useful if it excluded some rules. Most of the other occurrences of
+"ruleset" in Agora's rules similarly make the most sense if we
+interpret ruleset to mean the set of Agora's rules.
+
+ais523 casts doubt on this interpretation by pointing out that the
+Short and Full Logical Rulesets (SLR and FLR) are defined like reports
+rather than sets of rules. E points out in particular that the Full
+Logical Ruleset includes things that aren't rules.
+
+One possible resolution to the question is to accept G.'s point of view
+that the Short and Full Logical Rulesets are ways to format a separate
+entity called the "ruleset", and the extra information included in the
+Full Logical Ruleset is part of the formatting, and not the
+ruleset. Under this interpretation, we can disregard ais523's argument.
+
+If we don't accept G.'s interpretation, the common-sense and game
+custom arguments still apply. R1681 does not define what a ruleset is
+to begin with, only the distinguishing features of the Short and Full
+Logical Rulesets. R1681 does not say which rules are included in the
+ruleset, and why should it? The default common-sense meaning is that it
+is all the rules.
+
+For completeness, I'll address one more argument from G.:
+
+----
+
+G. says "in some types of reports we explicitly handle/cover missing
+values", quoting R2162's text that includes "...implies that other
+instances are at their default value".
+
+This raises the question: if the rules say this explicitly for some
+types of report but not others, does that mean ratification of those
+other types of report (including Short Logical Rulesets) do not imply
+anything about missing values?
+
+I looked (by searching the FLR for "report") for other examples of
+rules about missing values in reports. Besides R2162, I found the
+following three places:
+
+R1607:
+> The Promotor's report includes a list of all proposals in the
+> Proposal Pool, along with their text and attributes. This portion
+> of a public document purporting to be a Promotor's report is
+> self-ratifying.
+
+R2166:
+> The recordkeepor of a class of assets is the entity (if any)
+> defined as such by, and bound by, its backing document. That
+> entity's report includes a list of all instances of that class and
+> their owners. This portion of that entity's report is
+> self-ratifying.
+
+R2379:
+> If the rules define a report as including a list, then while that
+> list is empty, that report includes the fact that it is empty.
+
+The first two simply use the word "all". Since the natural definition
+of "ruleset" is the set of Agora's rules, meaning all of them, I find
+that R1051's text "The Rulekeepor's Weekly report includes the Short
+Logical Ruleset." is just as effective as those first two examples.
+
+----
+
+Since the Short Logical Ruleset includes the set of all of Agora's
+rules, ratifying it in particular ratifies that the rules listed
+constitute the set of all of Agora's rules. I judge CFJ 3775 TRUE.
+
+==========================================================================

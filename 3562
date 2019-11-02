@@ -1,22 +1,23 @@
-==============================  CFJ 3562  ==============================
+===============================  CFJ 3562  ===============================
 
       The above-quoted part of Proposal 7871 had no effect.
 
-========================================================================
+==========================================================================
 
-Caller:                       o
+Caller:                        o
 
-Judge:                        
-Judgement:                    
+Judge:                         Aris
+Judgement:                     TRUE
 
-========================================================================
+==========================================================================
 
 History:
 
-Called by o:                  07 Sep 2017                    
-Assigned to:                  
+Called by o:                                      08 Sep 2017 02:17:14
+Assigned to Aris:                                 27 Sep 2017 23:04:59
+Judged TRUE by Aris:                              09 Oct 2017 04:24:37
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
@@ -26,18 +27,14 @@ the quoted part can be interpreted as
 
 “Nowhere, replace the text…”
 
-========================================================================
+--------------------------------------------------------------------------
 
-Caller's Evidence:
+Judge Aris' Arguments:
 
-(the 'above-quoted' text):
+As the caller argues, the text in question described no rule at the time
+the proposal was adopted. Additionally, rule 105 states that "any 
+ambiguity in the specification of a rule change causes that change to be 
+void and without effect." This is a very high standard for non-ambiguity, 
+one which the proposal in question clearly does not meet.  TRUE.
 
-> In the rule currently not assigned a number called "Rewards", replace the text
-> {{  * Publishing a duty-fulfilling report: 5 shinies.}}
-> with
-> {{ *Publishing a duty-fulfilling report: 5 shinies. This reward can be claimed
-> a maximum of once per office per week for a weekly report, and once per office
-> per month for a monthly report.}}
-
-========================================================================
-
+==========================================================================

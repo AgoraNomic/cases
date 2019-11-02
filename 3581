@@ -1,26 +1,164 @@
-==============================  CFJ XXXX  ==============================
+===============================  CFJ 3581  ===============================
 
+      In a below quoted message of 19 October, ATMunn succeeded in
+      changing eir votes.
 
+==========================================================================
 
-========================================================================
+Caller:                        Ørjan
 
-Caller:                       
+Judge:                         Alexis
+Judgement:                     TRUE
 
-Judge:                        
-Judgement:                    
-
-========================================================================
+==========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Ørjan:                                 21 Oct 2017 02:52:08
+Assigned to Alexis:                               22 Oct 2017 00:08:50
+Judged TRUE by Alexis:                            29 Oct 2017 20:31:21
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
+The plain text version of the message has atrocious formatting, looking 
+like all votes are from the quoted part from 16 October, not new content.
 
 
-========================================================================
+Caller's Evidence:
 
+On Thu, 19 Oct 2017, ATMunn . wrote:
+
+> Ugh. TTttPF.
+>
+> On Thu, Oct 19, 2017 at 6:42 PM, ATMunn . <iamingodsarmy@gmail.com> wrote:
+>
+>> I change my vote as follows:
+>>
+>> On Mon, Oct 16, 2017 at 9:30 AM, ATMunn . <iamingodsarmy@gmail.com> wrote:
+>>
+>>> Oops, I accidentally sent before I was finished. Here is the my full vote:
+>>>
+>>> On Mon, Oct 16, 2017 at 9:27 AM, ATMunn . <iamingodsarmy@gmail.com>
+>>> wrote:
+>>>
+>>>>
+>>>>
+>>>> On Sun, Oct 15, 2017 at 11:20 PM, Aris Merchant <
+>>>> thoughtsoflifeandlight17@gmail.com> wrote:
+>>>>
+>>>>> I hereby distribute each listed proposal, initiating the Agoran
+>>>>> Decision of whether to adopt it, and removing it from the proposal
+>>>>> pool. For this decision, the vote collector is the Assessor, the
+>>>>> quorum is 8.0 and the valid options are FOR and AGAINST (PRESENT is
+>>>>> also a valid vote).
+>>>>>
+>>>>>
+>>>>> ID     Author(s)     AI   Title                         Pender
+>>>>> Pend fee
+>>>>> ------------------------------------------------------------
+>>>>> ---------------
+>>>>> 7922*  Alexis         3.0  Clarity Act                  Alexis      1 AP
+>>>>
+>>>> ​FOR​
+>>>
+>>>> 7923*  Gaelan         1.0  Another Economy Fix Attempt  Gaelan      1 AP
+>>>>
+>>>> AGAINST. I transfer Alexis another shiny (bringing my total up to 2) in
+>>> an obvious bribe, again.
+>>>
+>>>> 7924*  Aris, [1]      3.0  Contracts v8                 Aris        1 sh.
+>>>>>
+>>>> ​FOR​
+>>>
+>>>> 7925*  Aris, Alexis   3.0  Safety Regulations v2        Aris        1 AP
+>>>>>
+>>>> ​FOR​
+>>>
+>>>> 7926*  Alexis         3.0  Deregulation                 Alexis      1 AP
+>>>>>
+>>>> ​AGAINST
+>>>
+>>>> 7927*  V.J. Rada, G.  2.0  Estate Auction Fix           V.J. Rada   1 sh.
+>>>>>
+>>>> ​FOR​
+>>>
+>>>> 7928*  G.             3.0  no we can't                  G.          1 AP
+>>>>>
+>>>> ​FOR​
+>>>
+>>>> 7929*  V.J. Rada      1.0  Consumerism                  V.J. Rada   1 sh.
+>>>>>
+>>>> ​AGAINST​
+>>>
+>>>
+
+--------------------------------------------------------------------------
+
+Judge Alexis' Arguments:
+
+The original message is stored in the archives here:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2017-October/036487.html
+
+Note that this page shows the text/plain part by default; the text/html 
+portion can be viewed by clicking the link at the bottom, although this 
+presents a sanitized version of the page, causing serious encoding issues. 
+
+This case relates to CFJ 3572, where o draws attention to the fact that a 
+multipart/alternative message such as ATMunn's must include multiple 
+versions of the same information. Based on the logic of that case, it must 
+be the case that a player cannot perform an action clearly or 
+unambiguously if it differs between parts of a multipart/alternative 
+message. Thus, in order for ATMunn's vote change to be valid, it must be 
+clear exactly what votes e was changing and how in both the plain text and 
+HTML versions of the message.
+
+So what do each say? The HTML version of the message has each of the votes 
+at two levels of quoting deep. That is to say, the votes are written so 
+that they appear in the quoted message beginning with "Oops".
+
+By contrast, the text/plain version precedes each vote by a mess of 
+indentation:
+
+>>>> 7922*  Alexis         3.0  Clarity Act                  Alexis      1 
+=AP
+>>>
+>>> =E2=80=8BFOR=E2=80=8B
+>>
+>>> 7923*  Gaelan         1.0  Another Economy Fix Attempt  Gaelan      1 
+A=P
+>>>
+>>> AGAINST. I transfer Alexis another shiny (bringing my total up to 2) 
+in
+>> an obvious bribe, again.
+>>
+
+Note the use of the greater-than signs, to indicate levels of quotation. 
+Each line containing a vote is preceded by three levels quotation, 
+although subsequent lines (including a continuation of the previous line, 
+in the second example) are indented by only two.
+
+From a strictly semantic point of view, these messages are not identical. 
+The quoting expressed in the plain text portion is different from the HTML 
+portion. As a result, this is enough to consider them suspect.
+
+However, evaluating the two messages in context of the outer messages, 
+namely "I change my vote as follows:" and the TTttPF around that, it is 
+clear that ATMunn's intent is to change eir votes. The only reasonable 
+interpretation of the plain-text message is that e is changing eir votes 
+to the ones listed; the weird formatting does not change that there is a 
+clear list of proposals to be voted on and votes to be cast.  This list of 
+votes accords between the plain-text and HTML versions. Consequently, 
+ATMunn's message is saved by the fact that the interpretation of eir 
+actions---the actual semantic content from the point of view of the game--
+-is clear and identical in both versions of the message. If there were, 
+say, additional votes being quoted elsewhere in the message, it's quite 
+possible that the formatting issues would cause the plain text to become 
+unclear and, subsequently, the entire attempt to fail.
+
+Accordingly, I judge TRUE.
+
+==========================================================================

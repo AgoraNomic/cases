@@ -1,23 +1,27 @@
-==============================  CFJ 3563  ==============================
+===============================  CFJ 3563  ===============================
 
       The Green card o. issued emself in the below message was illegally
       issued, as the green card e issued nichdel was legally issued.
 
-========================================================================
+==========================================================================
 
-Caller:                       V.J. Rada                    
-Barred:                       Publius Scribonius Scholasticus 
+Caller:                        V.J. Rada
+Barred:                        Publius Scribonius Scholasticus
 
-Judge:                        Gaelan
-                
-========================================================================
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
 
 History:
 
-Called by V.J. Rada:          23 Sep 2017                    
-Assigned to:                  
+Called by V.J. Rada:                              23 Sep 2017 06:47:59
+Assigned to Gaelan:                               27 Sep 2017 23:37:49
+Gaelan Recused:                                   13 Oct 2017 20:33:15
+Assigned to G.:                                   13 Oct 2017 20:33:15
+Judged FALSE by G.:                               21 Oct 2017 22:59:42
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
@@ -28,66 +32,66 @@ is also a question as to the interpretation of the pledge rule itself.
 It says "a pledge is considered broken if...", which may mean that the
 pledge is permanently broken, and cannot be broken more than once.
 
-========================================================================
+--------------------------------------------------------------------------
 
-Caller's Evidence:
+Judge G.'s Arguments
 
-On Sat, Sep 23, 2017 at 4:17 PM, Owen Jacobson <owen@grimoire.ca> wrote:
-> On Sep 22, 2017, at 11:45 PM, Nic Evans <nichdel@gmail.com> wrote:
->
->> As for the gerontocracy argument: Money is an inherently gerontocratic
->> system. It abstracts value from labor in a way that allows arbitrary
->> allocation.
->>
->> I'm about 95% sure this is the gist of my partner’s argument when she said
->> “inventing money is _rude_” about the original Shinies proposal.
->>
->> I’m not sure I fully appreciated Spending Power while we had it. The debate
->> and adoption predates me. I’ve long had a fascination with throughput-based
->> monetary systems like Total Annihilation’s metal economy, where the driving
->> numbers are the amount of money in per time, not the amount of money in the
->> pile, and SP is as close as I’ve ever seen to that in a political system.
->
-> On Sep 23, 2017, at 12:30 AM, VJ Rada <vijarada@gmail.com> wrote:
->
->> I point the finger at nichdel. He replied to CB in discussion again.
->
-> As recently discussed, this is over a pledge under rule 2450, made by 
-> nichdel, which reads:
->
->> I pledge to not acknowledge any messages Cuddle Beam sends to a-d, or
->> to respond in a-d to anything CB does.
->
-> This pledge was previously broken, and punishment for that breach 
-> issued from this office on Sep 20, 2017, at 1:39 AM Eastern Daylight 
-> Time.
->
-> The message quoted above is, indeed, in response to a message from 
-> Cuddlebeam, and violates the above-quoted pledge. Issuing a second 
-> card for the same pledge appears to violate rule 2426, which reads in 
-> part:
->
->> A person SHALL NOT issue a Card unless:
->>
->> …
->>
->> * there has not already been a Card issued for that reason; and
->
-> Therefore, as issuing a card would be ILLEGAL, I find this finger-
-> pointing to be Shenanigans.
->
-> I issue nichdel a green card by summary judgement, as required by rule 
-> 2478, for violating rule 2450.
->
-> I issue myself a green card by summary judgement for violating rule 
-> 2426, as cited above.
->
-> I’ll note that I’ve now issued nichdel a card by summary judgement 
-> twice in a week, and myself a card twice in a week. It is no longer 
-> possible for me to card either of us for the remainder of the week, 
-> rules requiring me to do so notwithstanding.
->
-> -o
+First, this judgement relies on Rule 2450/2, whose text was wholly
+replaced by Proposal 7901, so this judgement is not relevant to the
+current rules. The rule read:
 
-========================================================================
+      A player SHALL NOT break eir own publicly-made pledges.
 
+      A pledge may be considered broken if the pledger does not complete
+      it in a timely manner after it becomes possible to do so. A pledge
+      may be considered broken at the moment the pledger engages in
+      conduct proscribed by that pledge.
+
+In particular, notice "A pledge may be considered broken at the moment the
+pledger engages in conduct proscribed by that pledge."
+
+By common language, once something is broken, it remains broken until
+fixed. Since there is nothing in the Rules that allows for "fixing" a
+pledge, further actions that would break the pledge "a second time"
+don't break it, in general, because it's already broken. 
+
+This is backed up by the wording of the pledge:
+> > >> I pledge to not acknowledge any messages Cuddle Beam sends to a-d,
+> > >> or to respond in a-d to anything CB does.
+
+The answer to whether e had acknowledged "any" messages was "no" before
+the first message, and "yes" afterwards.  For the second
+acknowledgement, the answer was "yes" both before and after, so the
+truth value of whether the forbidden activity had happened did not
+change.
+
+So before nichdel acknowledged CuddleBeam the first time, the pledge
+wasn't broken.  After e did, it was broken.  Compare this to the second
+time.  Immediately *before* e acknowledged CuddleBeam, the pledge was
+broken. Afterwards, the pledge was broken.  The status of the pledge had
+not changed, so the player did not actually *break* the pledge a second
+time.
+
+It may have been possible (again, under the old rules) to word a pledge
+explicitly such that it "fixed itself" after being broken so it could be
+broken again.  But it would have to be explicit, at the very least (and
+even then it might not have worked).  But in this case, it's clearly a
+single breakage.
+
+According to the logic of Carding that resulted in this case, my
+arguments require a judgement of FALSE with respect to the legality of
+the cards awarded (see Caller's Addendum, below).  So I judge FALSE.
+
+
+Caller's Addendum:
+
+> Under the card rules at the time, you had to issue a card for every
+> finger point, even if it were SHENANIGANS. O here found that my point
+> against nichdel was SHENANIGANS but had to card em anyway. E then
+> carded emself because e believed eir card against nichdel was illegal.
+>
+> I contend that the card against nichdel was LEGAL because under the
+> rules at the time you COULD break a pledge twice, making the card o
+> issued EMSELF illegal.
+
+==========================================================================

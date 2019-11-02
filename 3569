@@ -1,27 +1,387 @@
-==============================  CFJ 3569  ==============================
+===============================  CFJ 3569  ===============================
 
       If grok had not deregistered, e would have issued trust tokens to
       both Aris and G. by eir vote on Proposal 7899.
 
-========================================================================
+==========================================================================
 
-Caller:                       
+Caller:                        G.
 
-Judge:                        
-Judgement:                    
+Judge:                         Alexis
+Judgement:                     FALSE
 
-========================================================================
+==========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by G.:                                     03 Oct 2017 22:50:31
+Assigned to Alexis:                               03 Oct 2017 22:59:59
+Judged FALSE by Alexis:                           04 Oct 2017 19:44:15
+Motion to Reconsider filed:                       05 Oct 2017 21:49:43
+Judged FALSE by Alexis:                           11 Oct 2017 21:40:31
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
+grok's deregistration makes this a little less relevant but I can't figure 
+out the answer and I want to know.  (It's pretty clear in R2452 that grok 
+would have had to be a player "when the Assessor resolves a Decision" and 
+e deregistered before Proposal 7899 was resolved).
+
+grok voted "Endorse Aris" on Proposal 7899.  But Aris voted "Endorse the 
+Arbitor", who was G.
+
+Who if anyone would get grok's trust token(s) were grok still a player?
 
 
-========================================================================
+Caller's Evidence:
 
+Rule 2452/2 (Power=0.5)
+Trust Tokens
+(excerpt)
+
+      When the Assessor resolves a Decision to adopt a proposal, then
+      any player who cast a valid vote on the Decision and was
+      endorsed by another player's valid vote on the Decision is
+      issued a Trust Token by the endorsing player.
+
+--------------------------------------------------------------------------
+
+Judge Alexis's Arguments (original):
+
+The question here hinges around the definition of "endorsed". Rule 2452 
+states:
+
+       When the Assessor resolves a Decision to adopt a proposal, then
+       any player who cast a valid vote on the Decision and was
+       endorsed by another player's valid vote on the Decision is
+       issued a Trust Token by the endorsing player.
+
+As G. submitted, grok voted "Endorse Aris" on Proposal 7899 and Aris voted 
+"Endorse the Arbitor". At all relevant times, G. was the Assessor and this 
+is not in dispute.
+
+G. submitted arguments that could argue in favour of multiple 
+interpretations, but ultimately, the first place to look is at the 
+definition of a valid vote, found in Rule 955, since Rule 2452 requires 
+endorsement "by another player's valid vote". It is clear that on any 
+Agoran decision with an Adoption Index, including the one at issue, the 
+valid votes are FOR, AGAINST, and PRESENT.
+
+How does this line up with conditional votes? Rule 2127 defines:
+
+      If a vote on an Agoran decision is submitted conditionally (e.g.
+      "FOR if <X> is true, otherwise AGAINST"), then the selected
+      option is evaluated based on the value of the condition(s) at
+      the end of the voting period, and, rules to the contrary
+      notwithstanding, is clearly specified if and only if the value
+      of the condition(s) is/are determinate at the end of the voting
+      period.  If the option cannot be clearly identified, a vote of
+      PRESENT is cast.
+
+      Casting a vote endorsing another voter is equivalent to
+      conditionally casting a vote whose value is the same as the most
+      common value (if any) among that voter's valid votes on that
+      decision.
+
+This presents some difficulty, as Rule 2127 does not actually expand the 
+definition of a valid vote provided in Rule 955. As a result, a 
+conditional vote cannot be considered to be a valid vote at the time that 
+it is cast, although Rule 2127 indicates that it is evaluated to one at 
+the end of the voting period.
+
+Unfortunately, there is an additional wrinkle. According to Rule 683:
+
+      An entity submits a ballot on an Agoran decision by publishing a
+      notice satisfying the following conditions:
+
+      [...]
+
+      4. The ballot clearly identifies a valid vote, as determined by
+         the voting method.
+
+Per established precedent, the correctness of a ballot submission is 
+evaluated at the time of its submission. grok's vote of "Endorse Aris" did 
+not clearly identify any of the three valid options, to wit, FOR, AGAINST, 
+or PRESENT. Therefore the ballot was not even valid to begin with, and so 
+there is no way for it to have resulted in an award of Trust Tokens.
+
+Consequently, I judge CFJ 3569 FALSE, claim the CFJ Reward of 7 shinies 
+for doing so, and Drop the Mic.
+
+--------------------------------------------------------------------------
+
+Judge Alexis's Arguments (on reconsideration):
+
+I submit the following thesis, entitled "On Conditional Votes and Trust 
+Tokens":
+
+TL;DR (aka abstract): Conditional votes work, but with two caveats. First, 
+they operate prospectively and, when cast, their value is determined by 
+looking into the future to the end of the voting period. Hence, they are 
+indeterminate. Second, the default of PRESENT does not work at all, 
+meaning that the validity of a conditional vote is also indeterminate. 
+Also, CFJ 3569 is FALSE because Trust Token endorsement must be direct.
+
+This thesis and judgment is written as a reconsideration of CFJ 3569. The 
+statement of the CFJ is "If grok had not deregistered, e would have issued 
+trust tokens to both Aris and G. by eir vote on Proposal 7899."
+
+The context of the CFJ is as follows: grok voted :Endorse Aris" on 
+proposal 7899, but Aris's vote was "Endorse the Arbitor". G. was the 
+Arbitor at the end of the voting period. In effect, the CFJ is asking 
+whether grok's endorsement was effective of endorsing G. as well for the 
+purpose of Rule 2452.
+
+I originally judged CFJ 3569 to be FALSE, finding that Rule 683's 
+condition requiring that a "valid vote" be clearly indicate meant that 
+conditional votes failed altogether; since a conditional vote does not 
+clearly indicate a single valid vote. A number of arguments were raised in 
+response, leading to a Motion to Reconsider. I will summarize the critical 
+arguments below:
+
+From G.:
+
+- The judgment cited precedent that the correctness of a ballot is 
+evaluated at the time of its submission, but did not specify which 
+precedent, most precedent being around informally conditional actions 
+(e.g. "if I own an X, I do Y with it")
+- Rule 2127 is explicitly intended to define the effect of conditionals 
+and get around the usual definition, by defining what "clearly specified" 
+means in the context of a vote. This could operate either by deferral of 
+the determination of clearly specified, or by operating retroactively.
+- Even in absence of the above effects, Rule 2127's default of PRESENT 
+would apply to a ballot cast conditionally, so that such a ballot is at 
+least evaluated in the instant to PRESENT.
+
+From myself:
+- If Rule 2127 had retroactive effect, then it would create the 
+possibility of retroactively changing the outcome of another proposal, by 
+making a vote conditional on a vote on a different proposal; if the latter 
+was a conditional then retroactively changing it could also retroactively 
+change the first vote. From this, paradox could arise.
+
+From Aris:
+- Present conditionals are well-understood to succeed, under the general 
+built-up framework of interpreting conditional actions, as such a 
+conditional always identifies a vote.
+- A ballot is a textual entity, containing a conditional that should be 
+evaluated when the ballot is evaluated, i.e. when the decision is 
+resolved. The ballot is merely a notice of something in the future.
+
+To begin, I will first point to Rule 217, which states "When interpreting 
+and applying the rules, the text of the rules takes precedence. Where the 
+text is silent, inconsistent, or unclear, it is to be augmented by game 
+custom, common sense, past judgements, and consideration of the best 
+interests of the game." In regards to contiditional votes, it is clear 
+that all of the augmenting factors point to conditional votes functioning 
+in some fashion: game custom certainly establishes that they do, as do the 
+best interests of the game. Past judgments on conditional voting are in 
+line with them functioning at all, and common sense (into which one can 
+likely subsume legal principles of statutory interpretation) imply that 
+Rule 2127 (the rule defining conditional votes) would not exist if it did 
+not have some purpose.
+
+So the question then is, what does the text of the rules state? CFJ 3465 
+is the strongest precedent I am aware of regarding ballot evaluation. In 
+it, I successfully argued to the H. Judge nichdel that the correctness 
+(note: this is distinct from validity) of a ballot was evaluated at the 
+time of its submission.
+
+I will reiterate the critical arguments here. Rule 683 states "An entity 
+submits a ballot on an Agoran decision by publishing a notice satisfying 
+the following conditions:" followed by a list of conditions. The term 
+"notice" is, in this context, undefined by the rules. Per usual English 
+interpretation, in this context, "notice" simply means a document.
+
+Rule 683 is clear that the mechanism to submit a ballot is to publish the 
+notice. Publishing is defined by Rule 478 as sending a public message. It 
+follows that if, at the time of publication, the notice does not satisfy 
+the conditions set out in Rule 683, no ballot is submitted. The fact that 
+the notice may later satisfy the conditions is immaterial, as the notice 
+is not being published at that point.
+
+So can conditional votes generally satisfy the conditions? The condition 
+at issue is "4. The ballot clearly identifies a valid vote, as determined 
+by the voting method." The definition of valid vote was discussed at 
+length in my previous reasons, and I will not discuss them here. Absent 
+confounding factors, then, it would be clear that the published notice 
+must indeed identify a valid vote. I do agree with Aris's arguments that 
+the general rules regarding conditional actions apply here. There is 
+nothing disallowing a notice which is conditional, at the time of its 
+publication; assuming the conditional is effective per the precedents on 
+conditional actions, such a notice does identify a valid vote once the 
+conditional is resolved.
+
+Rule 2127 is, however, a confounding factor. As G. argued, it is clearly 
+intended to get around the usual way that conditionals can act only in the 
+present, and instead creates a form of future-conditional vote. Note that 
+I must at this point reject Aris's argument that a conditional vote is 
+evaluated at the time of the decision's resolution. Rule 2127 is explicit 
+that the conditional is evaluated at the end of the voting period, and 
+there is nothing in the rules or game custom to contend otherwise.
+
+As G. noted in eir arguments, Rule 2127 states "If a vote on an Agoran 
+decision is submitted conditionally (e.g. "FOR if <X> is true, otherwise 
+AGAINST"), then the selected option is evaluated based on the value of the 
+condition(s) at the end of the voting period, and, rules to the contrary 
+notwithstanding, is clearly specified if and only if the value of the 
+condition(s) is/are determinate at the end of the voting period. If the 
+option cannot be clearly identified, a vote of PRESENT is cast." Of note 
+is the fact that it explicitly attempts to take precedence over other 
+rules (including 683) to define that "the selected option... is clearly 
+specified" under the circumstances it provides when a conditional vote is 
+made.
+
+Does this apply to condition 4? After reexamining the circumstances, it 
+appears to me that the answer is yes. While the language used is slightly 
+different (option vs vote, clearly indicated vs clearly specified), and 
+while some of those terms are terms of art within the rules, none is 
+explicitly defined, so there is some leeway in interpretation here. Note 
+also that 2127 itself uses "clearly identified" in the following sentence, 
+indicating some looseness in terminology. In my original judgment, I had 
+not considered this line of text in the way that G.'s arguments 
+encouraged, and this represents the critical change in my reasoning.
+
+Unfortunately, this still presents some difficulty, because the definition 
+is prospective. The direct consequence of interpreting condition 4 using 
+the definition specified in Rule 2127 is that the correctness of the 
+ballot at the time of its submission is determined by looking into the 
+future. The only potential save could be, as G. argued, the following 
+sentence: "If the option cannot be clearly identified, a vote of PRESENT 
+is cast." This does not directly bear on the outcome of CFJ 3569, but in 
+the interests of completeness and avoiding simply postponing the 
+controversy, I will analyze how to evaluate conditional votes below.
+
+Having determined that a conditional vote is indeed valid provided its 
+condition is determinate, the only remaining questions required to resolve 
+this case is whether grok's vote had a determinate condition and whether 
+Aris and G., who both cast valid votes on the decision, were "endorsed by 
+[grok]'s valid vote on the Decision" (Rule 2452). It is clear that grok's 
+vote had a determinate condition, making it valid, and it clearly endorsed 
+Aris (regardless of how such it would actually be evaluated). So grok 
+would have issued Aris a trust token. However, did grok's vote endorse G.?
+
+Per Rule 2127, "Casting a vote endorsing another voter is equivalent to 
+conditionally casting a vote whose value is the same as the most common 
+value (if any) among that voter's valid votes on that decision." While 
+this definition technically applies only to the point when the vote would 
+cast, it would be unreasonable to interpret the meaning of "a vote 
+endorsing that voter" as meaning anythong other than "a conditional vote 
+whose value is the same as the most common value (if any) among that 
+voter's valid votes on that decision." There are two reasonable ways to 
+evalute this definition on grok's vote then: either it is an inherent 
+property of the vote, or it is evaluated, like all conditionals, at the 
+end of the voting period.
+
+A quirk in the wording of Rule 2127 gives a hint. It defines endorsing 
+votes as an equivalence with a specific class of votes, rather than merely 
+defining what it means to endorse a player. Consequently, any conditional 
+vote whose value is as described in Rule 2127 is an endorsing vote, 
+regardless of whether or not the vote explicitly uses the word "endorse". 
+The terms are interchangeable
+
+Substituting this into Rule 2452, that would mean that grok issues a Trust 
+Token to G. if "grok had a valid conditional vote whose value is the same 
+as the most common value (if any) among G's valid votes on the decision". 
+If we evaluate this at the end of the voting period, then a thoroughly 
+absurd result ensues: not only would G. be issued a trust token, but also 
+every other player who cast the same vote. As such, we must interpret the 
+definition as applying to an intrinsic property of the conditional. Thus, 
+we cannot consider Aris's vote when we decide whether grok's vote 
+endorsed, G. and so it did not. grok would not have issued G. a Trust 
+Token, meaning that CFJ 3569 is FALSE.
+
+With that resolved, how then should a conditional vote be evaluated? This 
+is unfortunately a thorny issue. As I wrote above, whether or not the vote 
+is valid is effectively determined prospectively, by looking into the 
+future. Before digging deeper, however, I will draw attention to one key 
+point: the question of a ballot's correctness (i.e. whether it meets the 
+requirements of Rule 683) is independent from the question of how it is 
+evaluated in an Agoran decision. Thus, I see two remaining questions: 
+first, is a conditional vote with an indeterminate condition correctly 
+submitted, or does it fail to clearly identify a valid vote? and second, 
+how does one evaluate a conditional vote?
+
+To address the first question, I quote again Rule 2127: "If a vote on an 
+Agoran decision is submitted conditionally (e.g. "FOR if <X> is true, 
+otherwise AGAINST"), then the selected option is evaluated based on the 
+value of the condition(s) at the end of the voting period, and, rules to 
+the contrary notwithstanding, is clearly specified if and only if the 
+value of the condition(s) is/are determinate at the end of the voting 
+period. If the option cannot be clearly identified, a vote of PRESENT is 
+cast." The first sentence provides very clear conditions about when the 
+option is clearly specified. What does the second sentence do in this 
+context? Does it indicate that, when the condition is indeterminate, the 
+selected option is clearly specified as PRESENT?
+
+I think that this cannot be the case, because to do so would completely 
+obviate the definition of "clearly specified" in the first place. Why 
+would the rule state that an option is not clearly specified if the 
+conditional is indeterminate, only to change its mind in the next 
+sentence? This does not actually matter, however, because the first 
+sentence contains a precedence claim and the second sentence does not. Per 
+Rule 2240, this means that the first sentence takes precedence and, 
+consequently, the second sentence does not modify it. If the condition is 
+indeterminate at the end of the voting period, the vote is not clearly 
+specified. Per the reasoning above, this means that the conditional ballot 
+is not submitted.
+
+What, then, is the meaning of the second sentence? The most reasonable 
+interpretation, in context, is that it is trying to say that if the 
+condition is indeterminate, then at the end of the voting period, we 
+resolve it to PRESENT rather than attempting to evaluate it. If this is 
+the correct interpreration, it is meaningless, because by the above we can 
+never get to that point. There is an alternative interpretation: the 
+second sentence is not providing for a way to evalauate the original 
+conditional ballot but instead provided for an altogether new, 
+unconditional ballot of PRESENT to be cast.
+
+Unfortunately, this interpretation also fails to have any meaningful 
+effect. The vote counting procedure is defined in Rule 955 in terms of 
+valid ballots, and Rule 683 provides a clear definition: "A valid ballot 
+is a ballot, correctly submitted, that has not been withdrawn. During the 
+voting period of an Agoran decision, a player CAN by announcement withdraw 
+(syn. retract) a ballot that e submitted on that decision." As Rule 683 
+has a lower ID number than Rule 2127, by Rule 1030, Rule 683 takes 
+precedence. There is thus no possibility of Rule 2127's "vote of PRESENT" 
+actually being a valid ballot.
+
+So in conclusion, the answer is that a conditional vote is valid if and 
+only if the condition ends up being determinate. If it is not, the entire 
+vote fails; PRESENT is not an alternative.
+
+Finally, the question comes of evaluating a conditional vote. Happily, I 
+see no reason why, for a valid vote, Rule 2127 should be anything other 
+than what it straightforwardly says. Provided that the conditional is 
+valid (i.e. determinate at the end of the voting period), it is evaluated 
+as one would expect, at the end of the voting period. Prior to then, 
+however, just like with the validity of the vote in the first place, the 
+actual value of the vote is indeterminate.
+
+What are the practical implications of this? First, it is important to 
+distinguish between prospective and retroactive effects here. The validity 
+of a conditional vote is not retroactively changed at the end of the 
+voting period, when we finally are able to decide if it is determinate or 
+not. Rather, the validity *in the first place* is dependent on the future. 
+In some cases, this can create effectively-retroactive effects. For 
+instance, a subsequent, otherwise valid ballot cast by the same voter, 
+without withdrawing the first one, would enter the same indeterminate 
+state of validity, since it is valid if and only if the first ballot is 
+invalid.
+
+This may present situations where the game may be difficult to play, but 
+the concept of indeterminacy provides a shield in some cases. Rule 1023 
+means that the validity of the vote is indeterminate before the voting 
+period ends, since it cannot be determined from information reasonably 
+available. Rule 2127 itself provides that if a conditional vote is 
+indeterminate, it doesn't work. So, taking from the example in my 
+arguments, if a vote on one proposal is conditional on a vote on another 
+proposal ending later, then it necessarily fails because the condition 
+will be indeterminate. Likewise, Rule 2162 protects against 
+indeterminately-valued switches.
+
+In conclusion, rules are hard.
+
+==========================================================================

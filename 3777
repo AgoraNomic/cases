@@ -1,0 +1,75 @@
+===============================  CFJ 3777  ===============================
+
+      Changing A to B, or vice versa, is "generally insignificant" under
+      Rule 2429.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         omd
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 01 Nov 2019 14:44:18
+Assigned to omd:                                  01 Nov 2019 22:10:33
+
+==========================================================================
+
+Caller's Arguments:
+
+A:
+{
+      A player whose master is not emself is a zombie (syn. inactive);
+      all other players are active.  A zombie's master, if another
+      player, is allowed to act on behalf of the zombie (i.e. as the
+      zombie's agent), except a master CANNOT act on behalf of a zombie
+      to:
+        - initiate, support, object to, or perform a dependent action;
+        - act on behalf of that zombie's zombies;
+        - bid in a zombie auction;
+        - enter a contract, pledge, or other type of agreement;
+        - initiate a Call for Judgement;
+        - deregister.
+}
+
+B:
+{
+      A player whose master is not emself is a zombie (syn. inactive);
+      all other players are active.  A zombie's master, if another
+      player, is allowed to act on behalf of the zombie (i.e. as the
+      zombie's agent), except a master CANNOT act on behalf of a zombie
+      to:
+
+        - initiate, support, object to, or perform a dependent action;
+        - act on behalf of that zombie's zombies;
+        - bid in a zombie auction;
+        - enter a contract, pledge, or other type of agreement;
+        - initiate a Call for Judgement;
+        - deregister.
+}
+
+C:
+{
+      A player whose master is not emself is a zombie (syn. inactive);
+      all other players are active.  A zombie's master, if another
+      player, is allowed to act on behalf of the zombie (i.e. as the
+      zombie's agent), except a master CANNOT act on behalf of a zombie
+      to:
+
+        - initiate, support, object to, or perform a dependent action;
+
+        - act on behalf of that zombie's zombies;
+
+        - bid in a zombie auction;
+
+        - enter a contract, pledge, or other type of agreement;
+
+        - initiate a Call for Judgement;
+
+        - deregister.
+}
+
+==========================================================================

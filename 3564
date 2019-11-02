@@ -1,20 +1,23 @@
-==============================  CFJ 3464  ==============================
+===============================  CFJ 3564  ===============================
 
       A pledge can only be broken once.
 
-========================================================================
+==========================================================================
 
-Caller:                       Nichdel                     
+Caller:                        Nichdel
 
-Judge:                        Gaelan                
+Judge:                         Gaelan
+Judgement:                     TRUE
 
-========================================================================
+==========================================================================
 
 History:
 
-Called by Nichdel:            23 Sep 2017                    
-             
-========================================================================
+Called by Nichdel:                                23 Sep 2017 13:42:41
+Assigned to Gaelan:                               27 Sep 2017 23:37:49
+Judged TRUE by Gaelan:                            29 Sep 2017 04:15:32
+
+==========================================================================
 
 Caller's Arguments:
 
@@ -48,5 +51,11 @@ remade or repaired. There is no rule defined method to repair a pledge.
 Thus, when someone first breaks a pledge it remains broken, and cannot
 be broken again.
 
-========================================================================
+--------------------------------------------------------------------------
 
+Judge Gaelan's Arguments:
+
+I judge 3464 as TRUE. It seems to be a reasonable interpretation of the 
+rules, and it is also just a good idea.
+
+==========================================================================

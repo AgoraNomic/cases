@@ -1,0 +1,180 @@
+===============================  CFJ 3588  ===============================
+
+      Judicial Activism: the Contract has 'fulfilled its purpose, does
+      not specify any gamestate affecting statements, or otherwise seems
+      unlikely to be used' (quote from rule 2522).
+
+==========================================================================
+
+Caller:                        V.J. Rada
+Barred:                        PSS
+
+Judge:                         Alexis
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by V.J. Rada:                              29 Oct 2017 09:03:59
+Assigned to Alexis:                               29 Oct 2017 21:02:42
+Judged TRUE by Alexis:                            30 Oct 2017 17:17:41
+
+==========================================================================
+
+Caller's Evidence:
+
+Judicial Activism: the Contract has the following text.
+Parties:
+    V.J Rada
+ Private Asset Classes: None
+
+Text:
+    Any player may become a party to this contract by announcement.
+
+    This contract shall not be interpreted in any way by its plain text, 
+    but instead is only to be interpreted based on common sense and the 
+    game's best interests
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+This is a very straightforward question, I contend that it has not
+fulfilled its purpose of significantly improving the game. It
+specifies a gamestate affecting statement (what on earth does it mean
+to specify a statement? Aris needs to examine eir addiction to the
+word specify) in that it specifies who may join the contract, which
+affects the gamestate and the Notary's report. And it is likely to be
+used, as I am using it now.
+
+--------------------------------------------------------------------------
+
+Judge Alexis' Arguments:
+
+These cases revolve around the interpretation of the following contract:
+
+{
+ Any player may become a party to this contract by announcement.
+
+This contract shall not be interpreted in any way by its plain text, but instead 
+is only to be interpreted based on common sense and the game's best interests
+}
+
+CFJ 3587 asks whether V.J. Rada's (the contract's originator and only party) 
+submission of a proposal is ILLEGAL as a result of this contract, and 3588 asks 
+whether the contract can be destroyed by the Notary with Agoran Consent, per Rule 
+2522.
+
+The first question is to determine how to actually interpret the contact. As 
+argued by the caller (also V.J. Rada), the contract's direction to interpret the 
+contract as directed should be followed, because of Rule 2525, which specifies 
+that a contract should be interpreted according to its text, including 
+interpretation clauses. I find no fault in the assertion that, generally, a clause 
+like this should be followed.
+
+Unfortunately, the clause is self-contradictory. It is, itself, a part of the 
+contract's text. Therefore, to follow it would require ignoring it. Rule 2525 
+further provides that "justice, the intent of the contract's parties, and the 
+principles governing rule interpretation should be reasonably applied when 
+interpreting a contract". Interpreting this clause correctly is critical.
+
+First:
+  a) Does this clause take precedence over, or merely serve to clarify, the clause 
+that the contract's text takes precedence?
+  b) Does this clause provide any particular ordering of factors?
+
+I think the answer to b) is false. Much like rule 217, it seems to point to equal 
+factors which must be resolved by weighting them based on how strongly they apply 
+in the situation. For a), rule 2240 provides that a later clause takes precedence 
+over an earlier clause. Hence, the correct application of rule 2525 relies on the 
+interpretation of the word "Additionally". It could be interpreted as saying that 
+the factors *must* be taken into consideration in addition to the contract's text, 
+and thereby can override the text, but it could also be interpreted as saying that 
+these factors provide interpretive aids to the text. Based on the paragraph as a 
+totality, I think that the latter is more correct, especially because one of the 
+factors is the interpretation of rules which, per rule 217, gives clear precedence 
+to text. 
+
+So the other factors provide only an interpretive guide to the text. Given that 
+the intent of V.J. Rada that the contract not be interpreted by its text is clear, 
+I think it is reasonable to attempt to resolve the contradiction in this fashion. 
+E could, after all, have written "The remainder of this contract..." so as to 
+exclude the interpretation clause, and then it would be satisfactory. The 
+principles of justice are not engaged here, and the principles of rule 
+interpretation say that inconsistent text is to be augmented by game custom, 
+common sense, past judgments, and the good of the game. Game custom and past 
+judgments are silent here, since this is a new rule, but common sense and the good 
+of the game both point to interpreting contracts as intended, the technical 
+contradiction notwithstanding. Note that I don't think this applies generally; 
+this is specific to the case where a contract's interpretive clause is faulty and 
+so cannot be properly relied on for its own interpretation. Consequently, the 
+contract should *only* be interpreted by common sense and the good of the game. 
+This also excludes the additional factors in R2525's second sentence, since they 
+are subservient to the interpretation clause.
+
+So now, we conclude that this contract specifies that it should be interpreted 
+without regard to its text, but only by common sense and the good of the game. E 
+argues that common sense and the good of the game should bar eir proposal, but 
+with respect, I believe that this is too narrowly focused.
+
+Does the further provision of 
+
+To illustrate, I will summarize the remaining arguments that V.J. Rada gives:
+- A contract can specify obligations (per rule 2523) on its parties without doing 
+so in its text.
+- The presumption of permissivity in rule 2523 can be rebutted.
+- "the intent of the drafter to render some conduct illegal, and the fact that e 
+is the only party to the contract, should rebut the presumption."
+- Common sense provides that eir proposal is a bad idea, and should be deterred.
+- It is in the best interests of the game for the proposal above to be illegal.
+
+V.J. Rada additionally provides arguments about the specific factors of Rule 
+2525's second sentence, but per the above, those factors are not taken into 
+consideration in this interpretation exercise, so I discard them.
+
+I will revisit the first, fourth, and fifth arguments later, if they are relevant. 
+The second argument is no doubt true; there would be no reason to specify 
+"presumption" if it were not rebuttable. The third argument is fatally flawed. It 
+relies on the intent of the drafter which, we have established, cannot be used to 
+interpret the contract. As such, it holds no water.
+
+This exposes a flaw in the caller's reasoning. Even if the first, fourth, and 
+fifth arguments e provides are all true, this does not explain why eir contract 
+should bar those actions. The question of whether the proposal should be 
+disallowed and whether this contract should be the mechanism to do it are quite 
+different things.
+
+So what do common sense and the good of the game say here? Common sense says that 
+nothing should be read into a contract that is not there. Given that the contract 
+tries its hardest to say nothing, common sense says that it should in fact do 
+nothing.
+
+In Agora's history, the issue of consent has arisen multiple times. Mousetrap 
+scams, where people have been bound to things without their consent, have been 
+ferociously unpopular and frowned upon, and great lengths have been gone to to 
+avoid them. Abuse of others' contracts and similar instruments (such as agencies) 
+to assert greater control over their actions than was intended to be given is 
+likewise often met with hostility, especially if it is expansive. Additionally, 
+Agora has codified requirements on consent, including the inability to be bound by 
+anything other than a rule without one's consent. While it is possible for V.J. 
+Rada to consent to arbitrary restrictions on eir activities, the good of the game 
+clearly points to minimizing these restrictions, in absence of other factors. V.J. 
+Rada's consent, even intent, to be bound in these circumstances is not a heavily 
+weighted factor, because the fundamental question is one of interpretation.
+
+Additionally, vague and undefined restrictions are not in the interests of the 
+game. Understanding the ever-fluctuating game state is of vital importance. V.J. 
+Rada has demonstrated the issues that interpreting eir contract in the fashion 
+suggested would provided, by attempting on multiple occasions to take actions 
+conditional on whether or not they are proscribed by this contract. If this were 
+effective, it would introduce incredible uncertainty into the game state since 
+V.J. Rada clearly wishes not to violate the contract. While in some cases, those 
+uncertain actions may be rendered ineffective by other parts of the rules, it does 
+not resolve the fundamental problem that uncertainty to no special end is not, 
+generally, good for the game.
+
+Consequently, I find that the correct way to interpret this contract is simply 
+that it does nothing. Accordingly, CFJ 3587 is FALSE and CFJ 3588 is TRUE.
+
+==========================================================================
