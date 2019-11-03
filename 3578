@@ -1,26 +1,74 @@
-==============================  CFJ XXXX  ==============================
+===============================  CFJ 3578  ===============================
 
+      The ADOP SHALL NOT distribute Campaign Proposals for ongoing
+      elections.
 
+==========================================================================
 
-========================================================================
+Caller:                        Ørjan
 
-Caller:                       
+Judge:                         Aris
+Judgement:                     FALSE
 
-Judge:                        
-Judgement:                    
-
-========================================================================
+==========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Ørjan:                                 16 Oct 2017 04:21:20
+Assigned to Aris:                                 21 Oct 2017 23:57:40
+Judged FALSE by Aris:                             22 Oct 2017 22:06:05
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
+My argument for the first one [CFJ 3577] is that proposal 7912 contains an 
+obvious typo:
 
+> Enact a new rule entitled (Campaign Proposals, with power 3), reading as
+> follows:
 
-========================================================================
+My argument for the second one [CFJ 3578] (which I thought of first) 
+applies only if the first one is FALSE.
 
+In that case, the new rule entitled "Campaign Proposals" and having power 
+) states (possibly due to a missing "except"):
+
+>  A Campaign Proposal is an Official Proposal exempt from automatic
+>  distribution, and SHALL NOT be distributed as required by the rules.
+>  The election with which a Campaign Proposal is associated, as well as 
+>  its Commitment, are essential parameters for an Agoran decision to
+>  adopt a Campaign Proposal.
+
+That's a pretty strong prohibition, which seems to have no exemption for
+elections. Rule 2154 states the opposite, of course:
+
+>  When an election is initiated, it enters the nomination period,
+>  which lasts for 7 days. In a timely fashion after the nomination
+>  period ends, the ADoP CAN and SHALL, in the same message:
+>      1) If the election is contested, initiate an Agoran decision
+>         to select the winner of the election (the poll). For this
+>         decision, the Vote Collector is the Assessor, the valid
+>         options are the candidates for that election (including
+>         those who become candidates after its initiation), and the
+>         voting method is instant runoff.
+>      2) Distribute all pending Campaign Proposals associated
+>         with the election.
+>      3) If POSSIBLE per the following paragraph, end the election
+>         immediately.
+
+However, Rule 2154 only has power 2.
+
+--------------------------------------------------------------------------
+
+Judge Aris' Arguments:
+
+CFJ 3577 determined that the rule for campaign proposals only has power 
+1.0. Rule 2154, at power 2.0, states that a player SHALL under 
+circumstances do something inadvertently proscribed by the campaign 
+proposals rule. Because it has been determined by precedent that a SHALL 
+at a higher power countermands a SHALL NOT at a lower power, Rule 2154 
+controls, and the ADoP not only SHALL distribute campaign proposals, but 
+MAY do so. FALSE.
+
+==========================================================================

@@ -1,26 +1,73 @@
-==============================  CFJ XXXX  ==============================
+===============================  CFJ 3577  ===============================
 
+      There exists a Rule entitled "Campaign Proposals, with power 3",
+      with power 1.
 
+==========================================================================
 
-========================================================================
+Caller:                        Ørjan
 
-Caller:                       
+Judge:                         Aris
+Judgement:                     TRUE
 
-Judge:                        
-Judgement:                    
-
-========================================================================
+==========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Ørjan:                                 16 Oct 2017 04:21:20
+Assigned to Aris:                                 21 Oct 2017 23:57:40
+Judged TRUE by Aris:                              22 Oct 2017 22:06:05
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
+My argument for the first one [CFJ 3577] is that proposal 7912 contains an 
+obvious typo:
 
+> Enact a new rule entitled (Campaign Proposals, with power 3), reading as
+> follows:
 
-========================================================================
+My argument for the second one [CFJ 3578] (which I thought of first) 
+applies only if the first one is FALSE.
 
+In that case, the new rule entitled "Campaign Proposals" and having power 
+) states (possibly due to a missing "except"):
+
+>  A Campaign Proposal is an Official Proposal exempt from automatic
+>  distribution, and SHALL NOT be distributed as required by the rules.
+>  The election with which a Campaign Proposal is associated, as well as 
+>  its Commitment, are essential parameters for an Agoran decision to
+>  adopt a Campaign Proposal.
+
+That's a pretty strong prohibition, which seems to have no exemption for
+elections. Rule 2154 states the opposite, of course:
+
+>  When an election is initiated, it enters the nomination period,
+>  which lasts for 7 days. In a timely fashion after the nomination
+>  period ends, the ADoP CAN and SHALL, in the same message:
+>      1) If the election is contested, initiate an Agoran decision
+>         to select the winner of the election (the poll). For this
+>         decision, the Vote Collector is the Assessor, the valid
+>         options are the candidates for that election (including
+>         those who become candidates after its initiation), and the
+>         voting method is instant runoff.
+>      2) Distribute all pending Campaign Proposals associated
+>         with the election.
+>      3) If POSSIBLE per the following paragraph, end the election
+>         immediately.
+
+However, Rule 2154 only has power 2.
+
+--------------------------------------------------------------------------
+
+Judge Aris' Arguments:
+
+Per the caller's arguments, there was indeed a typo in proposal 7912.
+However obvious it was, the proposal was quite clear that "Campaign 
+Proposals, with power 3" is the name of the enacted rule. This is so clear 
+because the parentheses around that name, coming after the word 
+"entitled", mark the phrase as being a title. Per Rule 105 (1), the power 
+of the rule defaults to 1.0, so this CFJ is TRUE.
+
+==========================================================================

@@ -1,26 +1,268 @@
-==============================  CFJ XXXX  ==============================
+===============================  CFJ 3580  ===============================
 
+      If there were currently a power 3.9 rule purpoting to allow any
+      person to destroy the universe by announcement, without defining
+      the effect of this action, and I announced that I destroyed the
+      universe in that way (all other aspects of the gamestate being as
+      they are now), my announcement would, as far as the game is
+      concerned, have the effect it purported to have.
 
+==========================================================================
 
-========================================================================
+Caller:                        Aris
 
-Caller:                       
+Judge:                         G.
+Judgement:                     TRUE
 
-Judge:                        
-Judgement:                    
-
-========================================================================
+==========================================================================
 
 History:
 
-Called by:                    
-Assigned to:                  
+Called by Aris:                                   21 Oct 2017 01:52:53
+Assigned to G.:                                   22 Oct 2017 00:04:34
+Judged TRUE by G.:                                26 Oct 2017 22:01:48
 
-========================================================================
+==========================================================================
 
 Caller's Arguments:
 
+I request that the judge consider the situation both with and without 
+existing power 4 rules (101, 1698, and 2029) and also whether the 
+destruction of the universe in this way would have practical effect upon 
+the game. I also request that the H. Arbitor link the cases [to CFJ 3579] 
+and that they have a combined caselog. 
 
+The rules are, for game purposes, omnipotent. In coming together to
+play this game, we do something amazing. We create reality. When I say
+I give someone a shiny, it is not my intent merely to have everyone
+pretend that I have given a shiny. It is my intent to actually give
+that person a shiny. All players eventually come to believe that there
+is a "platonic" reality that they affect with their game actions.
+That's a major part of why I play. If "reality" disagrees with the
+rules, there is a very real sense in which reality is wrong. The fact
+that we can change something by agreeing upon it is truly amazing. On
+the site it says that many players view Agora as "an experiment in
+philosophy, political science, and group dynamics, rather than just a
+game". I do, and the biggest part of the experiment for me is that we
+change our vision of reality by passing a proposal. The fact that we
+can change what we believe is an exhilarating experience. Changing
+what one belives is not generally easy, but we've all agreed that
+Agora means something and that the rules are true, and that's truly
+special. I feel so strongly about this point that I somewhat regret
+bringing it up, because I'm terrified that the ruling might be that
+I'm wrong. If so, I don't really know what I would do. I might
+deregister, I might moot, I might keep on playing and just not believe
+the CFJ (they aren't inherently binding).
 
-========================================================================
+I humbly request that your honor does not rule that the rules as a
+whole can be wrong. This is a point so basic that it cannot be proven
+using rule text, for obvious reasons. If you want to rule that you are
+restricted to interpreting rule text, and want to stick to the
+requirements that the rules are "unlimited in scope", have the
+"capacity to govern the game generally", and that "when interpreting
+and applying the rules, the text of the rules takes precedence" then
+that's fine. If you want to rule that the point is non-falsifiable, or
+is a matter of personal interpretation, and is therefore out of scope,
+then that's also fine. I submit to you however, that a ruling that the
+rules as a whole couldn't do something would be along the same lines
+as a judge ordering that a section of eir constitution was
+unenforceable because it was wrong. You would be attempting to use the
+power of the rules (as a judge) to take away power from the rules
+themselves. In taking away the absolutely binding status of the rules,
+you would, in my opinion, strip the game of meaning.
 
+The other aspects of the case are irrelevant by comparison. I would
+suggest the resolution that the destruction of the universe would be
+irrelevant to gameplay, because the rules and that which they define
+would continue to exist platonically in the void (ideas don't need the
+universe or physical reality to function). The only issue is that the
+destruction of the universe could be interpreted as also destroying
+the players. Whether this would trigger Rule 1698 is a matter of how
+you interpret the definition of ossification:
+
+"Agora is ossified if it is IMPOSSIBLE for any reasonable combination
+of actions by players to cause arbitrary rule changes to be made
+and/or arbitrary proposals to be adopted within a four-week period."
+
+What is the effect of an action that makes it impossible for there to
+be any players? It's somewhat ambiguous if Rule 1698 bars the
+deregistration/destruction of the last player, or only really has
+meaning if there are players. My suggested resolution is that the rule
+does indeed bar the elimination of players, because that would make it
+impossible for them to take actions, thus making it possible to do
+what is described. This position is supported by common sense and the
+interests of the game, which disfavor actions likely to cause the
+game's effective nonexistence and permanent stasis, which is after all
+what Rule 1698 is specifically designed to prevent. However, I would
+not necessarily disagree with an alternate interpretation.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The Caller’s statement involves a bit of question-begging, but we’ll try
+to get around that.  In order to know whether a Rules text does what it
+“purports” to do, we have to first figure out what it is purporting to
+do!  There are several possibilities, all of which require a pre-
+supposition of the scope and domain of the Rules.  I will try to
+explore the range of possibilities in this judgement, and offer
+potential judgements for each before selecting my final option.  For the
+purposes of this judgement, the “Protections” are defined as the power 4
+rules 101 and 1698.
+
+So, what is a Rule purporting to do if it “succeeds” at “destroying the
+universe”?
+
+The first possibility is that it purports to set the value of an
+undefined and untracked variable, and nothing else.  Under this
+supposition, if a “destroy the universe” clause is triggered, then we
+would simply say “there is now an untracked gamestate variable called
+‘the universe’ and its value is ‘destroyed’.  Any CFJ asking whether the
+universe “has been destroyed” will now be true, and any future game
+conditional that says “if the universe has been destroyed, then X” will
+mean X is true.  Beyond that, nothing would happen.  Under this
+interpretation, this CFJ would be TRUE - we can clearly set such a
+variable without problem.  (Since this interpretation doesn’t damage
+anything that the Protections protect against, they aren’t relevant in
+this interpretation).
+
+I reject this possibility because words have meaning.  Rule 217 asks us
+to use common definitions for terms that are not rules-defined.  If the
+clause featured nonsense words, e.g. “all Slurgs are hereby Poiled”,
+then this would be the correct interpretation, because we would have no
+common sense interpretation other than to say, for CFJ purposes, that
+whenever we encounter Slurgs, they are Poiled Slurgs.  But since
+“universe” and “destroyed” both have common definitions, I reject this
+interpretation - setting a useless gamestate variable is not what a
+‘destroy the universe’ clause is purporting to do (see CFJ 1500 for a
+similar rejection of this interpretation).
+
+The second possibility is that the clause purports that triggering it
+would actually, really, physically destroy the real world universe.
+There is no rules-internal logic that forbid the Rules from taking this
+interpretation.  In particular, if the clause were re-written to say
+“when this clause is activated, the actual, real universe is genuinely
+physically destroyed” then this, indeed, would set the rules up for a
+confrontation with reality that the Caller (in eir gratuitous arguments)
+clearly dreads.  Again, words have meaning, and words like “actual
+physical real” are hard to get around.
+
+If this were being purported by the clause, the Protections would
+protect us from facing this confrontation with reality.  If the universe
+were physically and “really” destroyed, the game would end/cease to
+exist, which would violate R101 and R1698.  So we could avoid the
+confrontation with reality and simply say FALSE, this clause would be
+blocked from taking effect by the Protections.
+
+However, without the Protections, the confrontation with reality would
+indeed be forced.  To find this CFJ FALSE on such grounds (due to the
+vast range of physical evidence that the rules are incapable of doing
+this) would greatly damage the scope of the rules and our perception of
+the game, as discussed by the Caller.  There is a logical out, though:
+if a clause were activated destroying “the actual physical universe” the
+after-the-fact interpretation could be:  “hey, the Universe *was*
+actually destroyed, but obviously a new universe was created with all
+our memories intact.”  This would allow us to keep faith with both the
+rules and reality, though at the price of accepting a scary degree of
+solipsism (and accepting that Agora is, in fact, Galactus) .  Since we
+couldn’t prove otherwise, we might accept some type of judgement like
+IRRELEVANT, INSUFFICIENT, or DISMISS, as ideas like “maybe we were just
+created 1 minute ago with our memories intact” are unprovable and/or
+irrelevant to our ongoing conduct of the game.  If we judged the clause
+before activation, I would pick IRRELEVANT, because if failed, we’d pick
+that kind of interpretation, and if it succeed, we wouldn’t be around to
+care.
+
+However, I reject this interpretation of what is being purported, for
+the less-specific “destroy the universe” phrase in question.  We have,
+in fact, through ratification, rejected the real world many times
+without worrying about such confrontations, and while I’m willing to
+make some philosophical decisions for the sake of practicality, taking
+that kind of solipsistic approach draws into question our legal approach
+to important standards like “beyond a reasonable doubt” (if we can
+assume the universe was destroyed and re-created just for us, then no
+doubt or line of argument is unreasonable by comparison).
+
+Mentioning ratification and legal standards leads us to the third
+option, which is the one I favor.  If the clause is activated, and the
+clause is “silent” on its explicit scope (by not saying things like
+“actual physical real”), that by default scope is to set up a legal
+fiction that the universe was destroyed for the purposes of rule and
+gamestate interpretation, without purporting to change “external”
+reality.  Setting up of legal fictions, mainly these days through
+ratification, has long been embraced by Agora, and so this, is what I
+find that (by default) such a clause would “purport” to do if
+successfully activated:  it would create a legal fiction that the
+universe has been destroyed.
+
+So, now that we (finally) know what such a clause purports to do, what
+would be the effect of accepting such a legal fiction?
+
+Well, that wholly depends:  is the gamestate itself a part of the
+Universe, or apart from it?
+
+Insomuch as the universe is defined as “everything”, it would seem at
+first to be a no-brainer that the gamestate is a part of the universe.
+If so, then activating the clause would destroy the game - the rules,
+the switches, the gamestate.  It would just end the game, and have the
+same effect as a simple high-powered statement “rules to the contrary
+notwithstanding, the game is over”.  Clearly the Protections stop this
+from happening (R1698 is explicit that Agora can’t cease to exist), but
+if the Protections weren’t there, the game would, in fact, end.
+
+However, I reject this supposition as well.  I do not believe we treat
+the gamestate as part of the universe.  In our words and deeds, we are
+committed Platonists with respect to the gamestate, as is evidenced by
+many aspects of our culture: our CFJs, our discussions of the “true”
+gamestate, and our very name of Agora, bringing to mind ancient
+philosophy, leads me to conclude:  The “gamestate” is part of Plato’s
+perfect forms - like infinity, it exists apart from our imperfect and
+quantized universe.  While we can never come to a true logical
+conclusion on the truth or existence of the gamestate’s Platonic form,
+we can make the decision to believe in it: just like we assume as an
+axiom the existence of free will (in R869, and philosophically in
+judgements such as CFJ 1895).  And thus, I find that one of our
+fundamental Agoran axoims, strongly held in our culture as evidenced by
+the Caller’s impassioned arguments, is that the gamestate exists “apart”
+from the physical universe in some kind of Platonic perfect state.
+
+So:  Agora exists apart from the universe, and the universe is (legally)
+destroyed.  What happens?  Well, the gamestate ceases to recognize any
+inputs from the universe as being valid (how could they be valid if the
+universe is destroyed?)  In particular, the gamestate recognizes that
+fora are external (assumed in R478 to exist without being explicitly
+defined) as are natural persons (originators of free thought) -
+therefore the game would not recognize any persons nor fora nor
+communications as existing or valid.  So far so good.
+
+But a third thing is that the passage of time - an inherent part of the
+universe - would not continue to exist for legal purposes.  Without the
+Protections, this would put the game in a suspended state: existing, but
+refusing to recognize any external inputs or the passage of time - pure
+and perfect, it would be encased in its own solitary existence with no
+way to break out.
+
+With the Protections, it’s a bit more puzzling.  Since the game wouldn’t
+end or cease to exist, R101 would not be protective, nor would the
+“cease to exist” clause in R1698.  At first, it would seen that R1698
+would protect us as there would be no way for proposals to be adopted
+within 4 weeks.  However, if time has stopped, that may not be true!
+How do you measure whether something can happen “within 4 weeks” if that
+4 weeks never passes?  (Any B-Nomic denizens remember the Game Clock?)
+After all, if time were to start again, it would mean the universe (and
+fora, and persons) were back and we could proceed as usual.
+
+This brings me to my final conclusion.  Quite simply, when Agora ceases
+to recognize the external universe, it ceases to recognize inputs from
+persons and fora and the passage of time, but it continues to exist.
+Therefore many of the clauses of R101 and R1698 are not triggered.  Time
+would stop, but since it would still be possible to pass rules *if* time
+became measureable again, the “within 4 weeks” clause of R1698 would not
+be triggered.  The “destroy the universe” clause would take effect in
+spite of the protections, and we would have finally achieved a perfect
+Agora, shining and trapped in metaphorical amber, perfectly capable and
+ready for playing, but waiting for a universe that no longer exists.
+
+TRUE.
+
+==========================================================================
