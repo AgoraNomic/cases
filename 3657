@@ -1,0 +1,125 @@
+===============================  CFJ 3657  ===============================
+
+      This message contains a valid Notice of Honour.
+
+==========================================================================
+
+Caller:                        twg
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    26 Aug 2018 10:08:29
+Assigned to G.:                                   26 Aug 2018 18:48:54
+Judged FALSE by G.:                               07 Sep 2018 18:35:03
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sun, Aug 26, 2018 at 4:08 AM, twg wrote:
+> The following is a Notice of Honour:
+>
+> +1 Agora (setting up a scenario for a CFJ)
+> -1 Agora (setting up a scenario for a CFJ)
+
+
+Caller's Arguments:
+
+CuddleBeam attempted to query this in CFJ 3638, but didn't include the 
+word "valid", so Judge V.J. Rada interpreted it literally (it is a Notice 
+of Honour, regardless of whether it is valid or not). But that didn't 
+resolve the question of whether it is possible to affect Agora's karma 
+like this: do the addition and subtraction of karma happen consecutively 
+(meaning Agora's karma moves further away from 0 before moving back again, 
+making the Notice invalid) or concurrently?
+
+--------------------------------------------------------------------------
+
+Judge G's Arguments:
+
+First, this is trivially FALSE as the message in question was the second
+Notice of Honour submitted by the caller in the week.  So I find FALSE.
+
+However, laying aside that trivial issue, I'd like to address this bit of 
+relevant argument from CuddleBeam, who gives two possibilities:
+> - It's not a notice of honor because it causes Agora's Honor to go
+> further away from 0 and only an individual action happens per instant
+> as per CFJ 2086, so the -1 would need to happen first, but since it
+> would make Agora's Honor go further than 0, it doesn't happen.
+> - It's a notice of honor because the notice of honor as a single unit
+> is the action, not the individual movements it's composed of.
+
+By R2510, a notice of Honour is a single action that a player CAN do:
+> A player CAN publish a Notice of Honour...
+
+Since there's no way that a player CAN publish half a notice-of-honour and 
+have it be valid, it's a single action.
+
+This is further backed later in the rule, where it defines the results of 
+a Notice of Honour as a "transfer". Using the common sense interpretation 
+of transfer (as with assets), a transfer is a single action that happens 
+to simultaneously change two records (the balances of both parties 
+involved).
+
+Finally it is clear from the list structure in R2510:
+> For a Notice of Honour to be valid, it must:
+[...]
+>      4. Not result in Agora's karma moving farther away from 0.
+
+that the "result" applies to the effects of the overall notice of honour
+(the simultaneous increase/decrease), not to the other individual items
+on the list (1-3).
+
+So if it weren't for the twice-in-one-week thing, a "to Agora -> from
+Agora" Notice of Honour would be valid.
+
+
+Judge G.'s Evidence
+
+Rule 2510/3 (Power=1.0)
+Such is Karma
+
+       Karma is a person switch tracked by the Herald in eir Weekly
+       Report. Karma is an Integer switch. Agora also has an instance of
+       the Karma switch.
+
+       A player CAN publish a Notice of Honour. For a Notice of Honour
+       to be valid, it must:
+
+       1. Be clear that it is a Notice of Honour, and be the first valid
+          Notice of Honour that player has published in the current week;
+
+       2. Specify any other player or Agora to gain karma, and provide a
+          reason for specifying that player; and
+
+       3. Specify any player or Agora to lose karma, and provide a reason
+          for specifying that player.
+
+       4. Not result in Agora's karma moving farther away from 0.
+
+       When a valid Notice of Honour is published, the entity specified
+       to gain karma has eir karma increased by one, and the entity
+       specified to lose karma has eir karma decreased by one. Raising
+       one entity's karma while lowering another's in this manner is
+       considered to be a "transfer" of karma.
+
+       A player's positions in Court are defined as follows:
+
+       - Any player with a karma of 7 or greater is a Samurai.
+
+       - Any player with a karma of -7 or less is an Gamma.
+
+       - The player with the highest karma (if any) is the Shogun.
+
+       - The player with the lowest karma (if any) is the Honourless
+         Worm.
+
+       Each player's positions in Court are part of of the Herald's
+       Weekly Report.
+
+==========================================================================

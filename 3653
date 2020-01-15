@@ -1,0 +1,177 @@
+===============================  CFJ 3653  ===============================
+
+      If a facility has an upkeep cost of 0 (i.e. null), the owner must
+      announce an attempt to pay 0 in a month (or otherwise publicly
+      note) the upkeep cost of 0 to prevent its end-of-the-month
+      destruction.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     20 Jul 2018 18:47:04
+Assigned to Publius Scribonius Scholasticus:      23 Jul 2018 00:03:52
+Publius Scribonius Scholasticus Recused:          26 Aug 2018 18:43:21
+Assigned to Aris:                                 26 Aug 2018 18:43:21
+Judged FALSE by Aris:                             04 Sep 2018 05:08:11
+
+==========================================================================
+
+Caller's Arguments:
+
+Rule 2560 (Facilities) reads in part:
+      If an entity other than Agora owns any facilities with upkeep
+      costs, e must pay them before the first day of the next Agoran
+      month. Failing to do this destroys the facility. In the second to
+      last Eastman week of the Agoran Month, the Cartographor SHOULD
+      issue a humiliating public reminder to all those who have not paid
+      upkeep fees on any of eir facilities.
+
+Prior to the adoption of Proposal 8055, it was unclear whether a facility
+with a defined upkeep cost of 0 (as opposed to no upkeep cost) needed some
+kind of announcement to prevent its destruction, but the Cartographer and
+the rest of us had assumed it meant "no action necessary" (and all records
+have self-ratified with this assumption).
+
+Proposal 8055 created the power-3 "Fee-based Actions" Rule, which 
+includes:
+  If the Rules associate payment of a set of assets (hereafter
+  the fee for the action; syns: cost, price, charge) with performing an
+  action, that action is a fee-based action.
+
+and also:
+  If the Rules define a fee-based action but the specified
+  set of assets is the empty set, then the action can be performed by
+  announcement, but the announcement must include that there
+  is an (empty or 0) fee for the action.
+
+This implies some kind of announcement is now necessary.  However, it's 
+far from clear.  In particular, the "associated action" for Upkeep Costs 
+is not a direct action, but something like paying the fee itself, or 
+"preventing end-of-the-month destruction" or something.
+
+
+Caller's Evidence:
+
+Full text of Fee-based Actions (power-3):
+
+  If the Rules associate payment of a set of assets (hereafter
+  the fee for the action; syns: cost, price, charge) with performing an
+  action, that action is a fee-based action.
+
+  If the fee is a non-integer quantity of a fungible asset, the actual
+  fee is the next highest integer amount of that asset.
+
+  To perform a fee-based action, an entity (the Actor) who is
+  otherwise permitted to perform the action must announce that e
+  is performing the action; the announcement must specify the
+  correct set of assets for the fee and indicate intent
+  to pay that fee for the sole purpose of performing the action.
+
+  Upon such an announcement:
+
+    - If the Rules specify a recipient for the fee, and the Actor
+      CAN transfer that specified fee from emself to the recipient,
+      then that fee is transferred from the Actor to the recipient
+      and the action is performed simultaneously;
+
+    - If the Rules do not specify a recipient, and the Actor CAN
+      destroy the specified fee in eir possession, then that fee
+      in eir possession is destroyed and the action is
+      performed simultaneously.
+
+    - Otherwise, no changes are made to asset holdings and the
+      action is not performed.
+
+  If the Rules define a fee-based action but the specified
+  set of assets is the empty set, then the action can be performed by
+  announcement, but the announcement must include that there
+  is an (empty or 0) fee for the action.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+This will be a summary opinion, I'm afraid, as I'm pretty busy. No fee
+is associated with upkeep, because a fee must be associated "with 
+performing an action", and paying upkeep is paying the fee, not using it 
+to perform an action. Now generally, we should apply similar doctrines to 
+similar cases, so it would make sense to apply the fee-based action rule 
+as guidance in this case. However, having to announce that one is paying 
+the null fee makes decidedly more sense when one has to announce that one 
+is taking an action anyway. For this reason, I rule that no such 
+announcement is required in this case. FALSE.
+
+
+Judge Aris's Evidence:
+
+Fee-based Actions Rule
+
+If the Rules associate payment of a set of assets (hereafter
+the fee for the action; syns: cost, price, charge) with performing an
+action, that action is a fee-based action.
+
+If the fee is a non-integer quantity of a fungible asset, the actual
+fee is the next highest integer amount of that asset.
+
+To perform a fee-based action, an entity (the Actor) who is
+otherwise permitted to perform the action must announce that e
+is performing the action; the announcement must specify the
+correct set of assets for the fee and indicate intent
+to pay that fee for the sole purpose of performing the action.
+
+Upon such an announcement:
+
+  - If the Rules specify a recipient for the fee, and the Actor
+    CAN transfer that specified fee from emself to the recipient,
+    then that fee is transferred from the Actor to the recipient
+    and the action is performed simultaneously;
+
+  - If the Rules do not specify a recipient, and the Actor CAN
+    destroy the specified fee in eir possession, then that fee
+    in eir possession is destroyed and the action is
+    performed simultaneously.
+
+  - Otherwise, no changes are made to asset holdings and the
+    action is not performed.
+
+If the Rules define a fee-based action but the specified
+set of assets is the empty set, then the action can be performed by
+announcement, but the announcement must include that there
+is an (empty or 0) fee for the action.
+
+
+Rule 2560/1 (Power=2.0)
+Facilities
+
+  Facilities are liquid assets tracked by the Cartographor. In order
+  for a facility to exist, it must be built on a Land Unit. Only one
+  facility is allowed per Land Unit. The Land Unit on which a
+  Facility is built is considered its Parent Land Unit.
+
+  A player CAN create a facility by announcement on the land unit e
+  is on by specifying which type of facility e intends to build and
+  destroying the build cost. Facilities on proprietary land can be
+  destroyed by the owner by announcement. Facilities on public land
+  can be destroyed Without Objection.
+
+  If an entity other than Agora owns any facilities with upkeep
+  costs, e must pay them before the first day of the next Agoran
+  month. Failing to do this destroys the facility. In the second to
+  last Eastman week of the Agoran Month, the Cartographor SHOULD
+  issue a humiliating public reminder to all those who have not paid
+  upkeep fees on any of eir facilities.
+
+  Facilities always have the same owner as their parent land unit.
+  If the owner of a facility is ever not the same as that of its
+  parent land unit, it is transferred to the owner of its parent
+  land unit.
+
+==========================================================================

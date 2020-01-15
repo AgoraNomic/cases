@@ -1,0 +1,118 @@
+===============================  CFJ 3648  ===============================
+
+      The fine levied on Corona for late Herald Tournament Regulations
+      is unforgivable for the purposes of R2559.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         D. Margaux
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     24 Jun 2018 19:57:50
+Assigned to ATMunn:                               24 Jun 2018 21:48:55
+ATMunn Recused:                                   01 Aug 2018 03:38:12
+Assigned to Publius Scribonius Scholasticus:      01 Aug 2018 03:38:12
+Publius Scribonius Scholasticus Recused:          26 Aug 2018 18:44:38
+Assigned to V.J. Rada:                            26 Aug 2018 18:44:38
+V.J. Rada Recused:                                01 Oct 2018 03:01:21
+Assigned to D. Margaux:                           01 Oct 2018 03:01:21
+Judged TRUE by D. Margaux:                        01 Oct 2018 15:27:03
+
+==========================================================================
+
+Caller's Arguments:
+
+R2559 reads in part:
+>      2. For each office, if a single player held that office for 16 or
+>         more days in the previous month and no unforgivable fines were
+>         levied on em for eir conduct in that office during that time,
+>         the following assets are created in the possession of that
+>         player:
+
+"Unforgivable" isn't directly defined in the Ruleset.  The definition
+is by inference in R2557:
+>      Optionally, in the same message in which e imposes justice, the
+>      investigator CAN specify that the violation is forgivable,
+>      specifying up to 10 words to be included in an apology.
+which implies that violations that aren't forgivable are unforgivable.
+
+However, R2557 defines "forgivable" in the context of imposing justice
+as per an investigation of a finger-pointing.  The fine in question
+was levied using R2479:
+>      The Referee CAN, subject to the provisions of this rule, impose
+>      Summary Judgment on a person who plays the game by levying a fine
+>      of up to 2 blots on em.
+which does not mention any notion of forgiveness.
+
+There are two reasonable readings, I'm not sure which is correct:
+  1. Since the fine isn't defined as forgivable, it's unforgivable.
+  2. Since the rule under which the fine was levied do not mention the
+     concept, the fine is neither forgivable nor unforgivable.
+
+FWIW, I didn't think about it one way or the other when I imposed the
+fine, if I'd thought about it I would have (tried to) specify it as
+forgivable.
+
+
+Caller's Evidence:
+
+Published by G. on 20 Jun 2018 09:39:27 -0700 (PDT):
+> I impose summary judgement as follows:  I levy a fine of 2 Blots on
+> Corona for failure to propose a set of Birthday Regulations in a timely
+> fashion after June 1 (R2495).
+
+--------------------------------------------------------------------------
+
+Judge D. Margaux's Arguments:
+
+The question presented is whether a fine imposed by summary judgement is
+ipso facto "unforgiveable" for purposes of R2559.
+
+Under R2559, an officer loses eir monthly salary if an "unforgiveable 
+fine" was imposed on em for eir conduct in office during that month.  Rule 
+2557 also provides that, in investigating a Pointed Finger, an 
+investigator "CAN specify that the violation is forgivable."
+
+As can be seen from these Rules, it appears that "forgiveable" is a 
+possible attribute of a violation and "unforgiveable" is a possible
+attribute of a fine.  The Rules do not expressly define the relationship
+(if any) between "unforgiveable fines" and "forgivable violations."  As a
+result, we may augment the interpretation with game custom, prior 
+judgements, and common sense.
+
+Game custom establishes that if the investigator of a Pointed Finger
+announces that the violation is forgivable, then the resulting fine is
+deemed to be not unforgivable.  In addition, game custom establishes that,
+if the investigator of a Pointed Finger does not specify whether the
+violation is forgiveable, then the resulting fine is considered to be
+unforgiveable.  That result is consistent with common sense, and seems
+appropriate and in the best interests of the game.
+
+This case presents an added wrinkle: the Rules permit the Referee to levy 
+a fine for a violation by summary judgement, but in that case the Rules do
+not establish any method for the Referee to specify whether the violation
+was forgiveable or, perhaps relatedly, whether the resulting fine was
+unforgiveable.
+
+In my view, this implies that the fine resulting from summary judgement is
+necessarily unforgiveable.  When a fine is imposed by Pointed Finger, it 
+is deemed unforgiveable unless the investigator affirmatively determines 
+that the violation is forgiveable.  That indicates that, by default, 
+violations are considered to be not forgiveable and resulting fines are 
+considered to be unforgiveable.  There is no method for the Referee on 
+summary judgement to determine a violation to be forgiveable, and, as a 
+result, the default outcome is that the resulting fine is unforgiveable.
+
+The fine levied on Corona for late Herald Tournament Regulations was
+imposed by summary judgement and, as a result, is unforgivable for the
+purposes of R2559.
+
+JUDGED TRUE.
+
+==========================================================================

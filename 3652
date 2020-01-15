@@ -1,0 +1,107 @@
+===============================  CFJ 3652  ===============================
+
+      If a person pays the (nonzero) upkeep cost for eir Rank 1 facility
+      and then upgrades it to Rank 2 in the same month, e must pay the
+      full Rank 2 upkeep cost to prevent its end-of-the-month
+      destruction.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         D. Margaux
+Judgement:                     IRRELEVANT
+
+==========================================================================
+
+History:
+
+Called by G.:                                     20 Jul 2018 18:47:04
+Assigned to Publius Scribonius Scholasticus:      23 Jul 2018 00:03:52
+Publius Scribonius Scholasticus Recused:          26 Aug 2018 18:44:38
+Assigned to Corona:                               26 Aug 2018 18:44:38
+Corona Recused:                                   01 Oct 2018 03:01:21
+Assigned to CuddleBeam:                           01 Oct 2018 03:01:21
+CuddleBeam Recused:                               20 Oct 2018 13:05:28
+Assigned to Murphy:                               20 Oct 2018 13:05:28
+Murphy Recused:                                   27 Oct 2018 19:47:42
+Assigned to D. Margaux:                           27 Oct 2018 19:47:42
+Judged IRRELEVANT by D. Margaux:                  27 Oct 2018 19:47:32
+
+==========================================================================
+
+Caller's Arguments:
+
+Rule 2560 (Facilities) reads in part:
+      If an entity other than Agora owns any facilities with upkeep
+      costs, e must pay them before the first day of the next Agoran
+      month. Failing to do this destroys the facility. In the second to
+      last Eastman week of the Agoran Month, the Cartographor SHOULD
+      issue a humiliating public reminder to all those who have not paid
+      upkeep fees on any of eir facilities.
+
+There's a few ways of interpreting this clause:
+
+1.  At the end of the month, the facility is Rank 2 and has a Rank 2 
+Upkeep cost.  Has the Rank 2 Upkeep cost been paid?  If not, the facility 
+is destroyed. (argument for TRUE).
+
+2.  At the end of the month, has e paid an appropriate upkeep cost for 
+that facility at any point in the month?  If so, e has met the conditions, 
+even if the upkeep cost later changes, and the facility is not destroyed 
+(argument for FALSE).
+
+3.  Upkeep costs are additive - if e payed the Rank 1 fee, e can later pay
+the difference after e upgrades (FALSE with different implications - I 
+don't think this one holds up under precedent of single payment for fees, 
+but including for completeness).
+
+In interpreting, note the new Rules definition of costs/fees in EVIDENCE,
+below.
+
+
+Caller's Evidence:
+
+Full text of Fee-based Actions (power-3):
+
+  If the Rules associate payment of a set of assets (hereafter
+  the fee for the action; syns: cost, price, charge) with performing an
+  action, that action is a fee-based action.
+
+  If the fee is a non-integer quantity of a fungible asset, the actual
+  fee is the next highest integer amount of that asset.
+
+  To perform a fee-based action, an entity (the Actor) who is
+  otherwise permitted to perform the action must announce that e
+  is performing the action; the announcement must specify the
+  correct set of assets for the fee and indicate intent
+  to pay that fee for the sole purpose of performing the action.
+
+  Upon such an announcement:
+
+    - If the Rules specify a recipient for the fee, and the Actor
+      CAN transfer that specified fee from emself to the recipient,
+      then that fee is transferred from the Actor to the recipient
+      and the action is performed simultaneously;
+
+    - If the Rules do not specify a recipient, and the Actor CAN
+      destroy the specified fee in eir possession, then that fee
+      in eir possession is destroyed and the action is
+      performed simultaneously.
+
+    - Otherwise, no changes are made to asset holdings and the
+      action is not performed.
+
+  If the Rules define a fee-based action but the specified
+  set of assets is the empty set, then the action can be performed by
+  announcement, but the announcement must include that there
+  is an (empty or 0) fee for the action.
+
+--------------------------------------------------------------------------
+
+Judge D. Margaux's Arguments:
+
+I judge CFJ 3652 to be IRRELEVANT because the cited rules have been 
+repealed.
+
+==========================================================================

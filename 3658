@@ -1,0 +1,168 @@
+===============================  CFJ 3658  ===============================
+
+      The Treasuror's report of August 27, 2018, or a portion thereof,
+      is doubted.
+
+==========================================================================
+
+Caller:                        twg
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    27 Aug 2018 19:21:58
+Assigned to G.:                                   09 Sep 2018 19:17:32
+Judged TRUE by G.:                                16 Sep 2018 20:44:33
+Motion to reconsider filed by G.:                 23 Sep 2018 07:01:22
+Judged TRUE by G.:                                29 Sep 2018 19:13:37
+
+==========================================================================
+
+Caller's Evidence:
+
+[Arbitor's note: the underlying question with the below CoE is, if there's 
+a "Treasuror's Report" that contains multiple currencies that are listed 
+in columns, does a CoE that cites an error in one currency on the report 
+cast doubt on the whole report, or just that currency?]
+
+On August 27, 2018 5:47 PM, G. wrote:
+> CoE: If incense is defined in the new ruleset, it was never repealed
+> and we should all have whatever we had when it was last reported,
+> unless a report ratified that explicitly stated Incense was 0.
+> Only changes would be if, say, some of us transferred it using "all
+> liquid currencies" or the like.
+>
+> Since each asset-type report self-ratifies independently (I think), the
+> Treasuror's Reports that were missing incense data should be interpreted
+> as just not having that data and being incomplete reports, with no
+> implication that the missing data were self-ratified to 0.
+
+
+Caller's Arguments:
+
+I initially assumed the lack of a specified incense balance meant it was 
+at its default value (0), but rule 2166/26 defines any "portion of [a 
+recordkeepor]'s report" that is "a list of all instances of [a class of 
+assets] and their owners" - not the entirety of the recordkeepor's report 
+- as a self-ratifying document.
+
+An interesting repercussion, if that interpretation is correct, is that 
+CoEs can be made against the balances for _specific asset classes_, 
+without blocking the rest of the report from self-ratifying. This might 
+potentially mean that many, many previous CoEs against the Treasuror 
+report (and possibly other reports?) have never been valid doubts, because 
+the way we usually phrase it - "CoE: X is wrong" - is ambiguous: it might 
+be a CoE against any one of the self-ratifying documents that make up the 
+Treasuror report.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+Imagine three possible claims of error referencing a hypothetical 
+officer's Report of Currency X:
+
+A.  "CoE on the Pointlesskeepor's Weekly Report:  Player A does not have
+     N units of X".
+     
+B.  "CoE on Currency X holdings:  Player A does not have N units of X".
+
+C.  "CoE: Player A does not have N units of X."
+
+Colloquially, these are all within the range of reasonable and clear
+communication of the issue at hand (Player A's holdings of X).  Since the
+goal of self-ratification is to reduce uncertainty, it would be nice if
+these variations all led to the same result.  If variation (A) blocked the
+self-ratification of the whole report (including other Currencies), but
+(B) blocked the self-ratification of the Currency X holdings only, while
+(C) blocked the self-ratification of Player A's X holdings while allowing
+other Players' X holdings to self-ratify, then teasing out what facts had
+self-ratified would be confusing to say the least. Is there a way to
+construe statements A-C so they all lead to the same result?
+
+Rule 2201/7 reads in part:
+>     A doubt is an explicit public challenge via one of the following
+>     methods, identifying a document and explaining the scope and
+>     nature of a perceived error in it:
+            
+So with this, a CoE or other doubt (CFJ) has three parts:  The document in 
+question, the scope of the error, and the nature of the error.
+
+In all of the above examples, the "nature of the error" is clear:  Player
+A does not have N units of X.  So far, so good.
+
+What about "document"?  A "public Document" is defined by R1551 as "part 
+(possibly all) of a public message."  This narrows things down in one
+direction - a single document cannot be spread over multiple messages. But
+within a message, this would allow every section, or even every single
+character of a message to be a separate "document".  One could even say
+"I CoE on the document made up by taking every other letter of the
+following report." 
+ 
+However, looking to the common definition of "document" gives:
+>   A piece of written, printed, or electronic matter that provides 
+>   information or evidence or that serves as an official record.
+
+The key point here is that a document provides information or is an 
+official record.  At the extreme, a single character provides no 
+information on its own, so this suggests there's a minimum information
+content for a document to be a document.  And for these purposes, the
+"official record" in question is clearly defined in R2166/26:
+>    That entity's report includes a list of all instances of that class 
+>     and their owners. This portion of that entity's report is self-
+>     ratifying.
+
+This list is described as a unit, so a full list of Currency X holdings is
+the minimum "unit of information" that could be considered a self-
+ratifying document.  Further, the fact that multiple "documents" can be
+comingled means that each Currency List is a separate "document", even if
+the information is in columns or otherwise combined with other "documents"
+(e.g. in columns of multiple currencies). 
+
+This is specified more strongly for the other major type of
+self-ratifying record, Switches (R2162/13):
+>                                                    a public document
+>        purporting to be [the switch values] portion of that officer's 
+>        report is self-ratifying, and implies that other instances are at
+>        their default value.        
+Since missing values here are assumed to be at their default value, a
+list of this sort self-ratifies or is CoEd as a whole.  This general
+principle is sensible to extend to assets as well as switches.  So in the 
+examples above, both (B) and (C) would have the effect of stopping self-
+ratification of the complete list of Currency X holdings (including for
+any entities who are wholly missing from the list).
+
+But what about example (A)? ("CoE on the Pointlesskeepor's Weekly Report: 
+Player A does not have N units of X".)  Is this a CoE on every list (i.e.
+all currencies, switches, etc.) in the Report?
+ 
+Here is were "Scope" of the error comes into play.  "Scope" is the range
+of records affected by the error.  And the most reasonable and useful way
+to define "scope" is to be THE MINIMUM NUMBER OF RECORDS AFFECTED BY THE
+EXPLICITLY-DESCRIBED ERROR.
+
+This is key.  So, if a message says "CoE on the Report" but doesn't cite
+the explicit error, the scope is 0 (null).  It's not a CoE.  If the report
+says "CoE on the Report:  Record X is wrong" then the scope is Record X,
+and by the argument above the MINIMAL record is the full list of X, but
+not the full report.
+
+In other words, regardless of what document the caller CLAIMS is in scope,
+the true scope of the CoE (the true document) is always the minimal but
+complete list that contains the class of records identified as the error.
+
+In the current situation, the alleged CoE text included the text of the
+Report named in the CFJ statement, with the following:
+> CoE: If incense is defined in the new ruleset, it was never repealed
+> and we should all have whatever we had when it was last reported,
+> unless a report ratified that explicitly stated Incense was 0.
+
+The report contained a record of incense (at the time for one player).
+Therefore, the CoE was explicitly on the full list of Incense holdings
+(a portion of the report).  TRUE.
+
+==========================================================================
