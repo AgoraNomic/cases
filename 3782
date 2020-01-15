@@ -1,0 +1,100 @@
+===============================  CFJ 3782  ===============================
+
+      There is a proposal in the proposal pool with the title
+      "Swimming".
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Falsifian
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     02 Dec 2019 21:33:56
+Assigned to Falsifian:                            07 Dec 2019 17:12:42
+Judged TRUE by Falsifian:                         09 Jan 2020 18:00:22
+
+==========================================================================
+
+Caller's Evidence:
+
+On 12/2/2019 1:33 PM, Kerim Aydin wrote:
+>
+> I submit the following Proposal, "Swimming", AI=1:
+> ----------------------------------------------------------------------
+> 
+> I withdraw my proposal "Swimming" from the Proposal Pool.
+> 
+> ----------------------------------------------------------------------
+
+
+Caller's Arguments:
+
+CFJ 3780 revolves around this text:
+> Election speech: "CFJ: I am a candidate for Prime Minister."
+
+The CFJ question was whether a text published in quotes or delimiters
+for one stated purpose (an "election speech") would succeed in another
+stated purpose (calling a CFJ).
+
+At first I thought this was pretty trivial because we've allowed this
+before.  We've considered it "successful" when a person buried an Apathy
+intent inside an Officer's report for example (before the "unobfuscated"
+standard was added for intents), and at least once in my memory I put some
+actions in text labeled as a "formal apology" and no one questioned that
+it served both as the apology and as successfully performing the contained
+actions.
+
+But then I thought of the Proposal situation, where the usual intent in
+submitting text is for the text to take effect at a later date - but
+nothing in the rules says that explicitly really. And maybe the proposal
+example demonstrates the danger of allowing double-acting text like this.
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Arguments:
+
+The key question here is whether the text "I withdraw my proposal
+"Swimming" from the Proposal Pool." had the effect of withdrawing the
+proposal.
+
+Publishing text containing an announcement does not always entail
+making that announcement. Rule 478 says:
+
+> Where the rules define an action that a person CAN perform "by
+> announcement", that person performs that action by unambiguously and
+> clearly specifying the action and announcing that e performs it.
+
+Even if G.'s message contained an announcement that G. withdrew eir
+proposal, it was certainly not an unambiguous one. Therefore, G. did
+not withdraw the proposal in the quoted message.
+
+(Note: in a discussion thread, I suggested that the rule text could be
+parsed as applying "unambiguously and clearly" only to "specifying the
+action". Thinking about it more, though, it seems unlikely to me that
+the text was intended that way, since I think that text was intended to
+require by-announcement actions to be clear and unambiguous as a
+whole.)
+
+Some other examples where publishing the text of an announcement
+doesn't constitute announcing it:
+
+* Quoting text in email replies. We do this all the time; nobody thinks
+  we're repeating those actions by doing so.
+
+* Judges quoting text as evidence.
+
+* Publishing hypothetical examples. I wasn't easily able to find
+  examples of this (the judge's arguments in CFJ 3751 contain
+  hypothetical message text, but in that case the point is that it
+  wouldn't work), but I'd be surprised if there aren't any public
+  messages containing hypotheticals that nobody thought actually had
+  any effect.
+
+I judge CFJ 3782 TRUE.
+
+==========================================================================

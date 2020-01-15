@@ -1,0 +1,62 @@
+===============================  CFJ 3786  ===============================
+
+      Proposal 8277 identifies a distributed proposal.
+
+==========================================================================
+
+Caller:                        Aris or G.
+Barred:                        nobody or Aris
+
+Judge:                         omd
+
+==========================================================================
+
+History:
+
+Called by Aris (maybe):                           23 Dec 2019 07:27:15
+Called by G. (maybe):                             12 Jan 2020 16:47:30
+Assigned to omd:                                  12 Jan 2020 17:34:15
+
+==========================================================================
+
+Caller's Arguments:
+
+On Sun, Dec 22, 2019 at 8:00 PM omd <c.ome.xk@gmail.com> wrote:
+>
+> Hi all,
+>
+> Starting on December 14, Gmail started rejecting mail being relayed
+> from the agoranomic.org list server.  I didn't realize this was
+> happening until earlier today when someone mailed me directly about
+> it; sorry.  I have a few theories about why it started happening; I'll
+> elaborate on that when I have a chance, but for now I've switched to
+> relaying mail through a different server.  That's sort of working, but
+> it's being rate limited:
+>
+> 421-4.7.28 [52.73.134.173      15] Our system has detected an unusual
+> rate of
+> 421-4.7.28 unsolicited mail originating from your IP address. To protect
+> our
+> 421-4.7.28 users from spam, mail sent from your IP address has been
+> temporarily
+> 421-4.7.28 rate limited. Please visit 421-4.7.28
+> https://support.google.com/mail/?p=UnsolicitedRateLimitError to
+> 421 4.7.28 review our Bulk Email Senders Guidelines.
+>
+> Also, Gmail is rejecting unsolicited subscription confirmation
+> messages from the new server.
+>
+> I think at this point there's nothing I can do but wait, and hope
+> Gmail starts trusting the new server more.  Hopefully that doesn't
+> take long, or I'll have to do something silly like turn on
+> from-address rewriting.
+
+Thank you, omd, for fixing this. I'll be interested to hear your theories.
+
+This is an infernal mess as far as the gamestate is concerned. According 
+to precedent, messages that aren’t received by a substantial number of 
+players haven’t been validly sent via the fora. As a test case to see if 
+we’e gonna apply those precedents here, I CFJ "Proposal 8277 identifies a 
+distributed proposal."
+
+==========================================================================

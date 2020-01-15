@@ -1,0 +1,117 @@
+===============================  CFJ 3781  ===============================
+
+      In this message, Jason Cobb transferred a Coin.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+Barred:                        D. Margaux
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             07 Nov 2019 04:16:02
+Assigned to G.:                                   08 Nov 2019 17:00:39
+Judged FALSE by G.:                               23 Nov 2019 18:50:22
+
+==========================================================================
+
+Caller's Evidence:
+
+On 11/6/2019 8:16 PM, Jason Cobb wrote:
+> I transfer 500 of D. Margaux's Coins to Jason Cobb.
+> 
+> [Anti-No Faking (although the CFJ should make it obvious): the above 
+> action might not work.]
+
+
+Rule 478/36
+Fora [Excerpt]
+
+      Where the rules define an action that CAN be performed "by
+      announcement", a person performs that action by unambiguously and
+      clearly specifying the action and announcing that e performs it.
+
+
+Rule 2577/2
+Asset Actions [Excerpt]
+
+      An asset generally CAN be transferred (syn. given) by announcement
+      by its owner to another entity, subject to modification by its
+      backing document.
+
+
+Rule 2483/13
+Economics
+
+      Coins are the official currency of Agora and are tracked by the
+      Treasuror. They can be owned by Agora, players, and contracts.
+            A player CAN win the game by paying a fee of 1,000 Coins.
+
+
+Caller's Arguments:
+
+Per Rule 2577, "an asset generally CAN be transferred [...] by 
+announcement by its owner", and Rule 2438 does not modify this general 
+statement at all. Therefore, a Coin can be transferred by announcement by 
+its owner.
+
+Transferring D. Margaux's Coins is an action defined by the Rules that 
+'CAN be performed "by announcement"' (even if the intent is only that it 
+CAN be performed by announcement by a single person), satisfying the first 
+criterion in Rule 478.
+
+I believe that I have unambiguously and clearly specified the action of 
+transferring 500 of D. Margaux's Coins, and I have announced that I 
+perform that action. Therefore, under Rule 478, I have performed that 
+action, so, in this message, I transferred at least one Coin.
+
+I believe this CFJ should be judged TRUE.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+In the R478 text:
+
+>     Where the rules define an action that CAN be performed "by
+>     announcement", a person performs that action by unambiguously and
+>     clearly specifying the action and announcing that e performs it.
+
+This is a method definition, which maps a shorthand method ("by
+announcement") onto a series of discrete, naturally-doable steps (given 
+the prior definition on R478 of fora and public messages) for performing 
+the action.
+
+The problem with this definitional text is that the grammatical constructs
+are mixed. The first part is in passive voice ("CAN be performed") while
+the second part is in active voice ("a person performs").  This is a
+grammatical error and should be fixed, either by making both active or
+both passive (either would be fine and match the intent of this clause).
+
+However, until it is fixed, how can we parse the text?  In particular, the
+caller assets that this error is substantive and maps the subject of the
+second clause ("a person", by which the caller means "any person") onto
+any use of the term being defined ("by announcement"), even if an actual
+use case specifies a more limited set of subjects (i.e. a more limited set
+of persons who CAN perform the action).
+
+However, the important thing is that the word "performs" in this context 
+is not in itself ENABLING.  The CAN is enabling.  In R2152 we see:
+
+      5. CAN: Attempts to perform the described action are successful.
+
+in relation to this:
+       An asset generally CAN be transferred (syn. given) by announcement
+       by its owner
+
+The fact that the CAN for the transfer is specifically assigned to its
+owner means that attempts by other persons are unsuccessful.
+
+I find FALSE.
+
+==========================================================================

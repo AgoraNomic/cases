@@ -1,0 +1,136 @@
+===============================  CFJ 3783  ===============================
+
+      Jason Cobb has more than 2000 Coins.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         Alexis
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             07 Dec 2019 02:44:42
+Assigned to twg:                                  07 Dec 2019 17:15:22
+twg recused:                                      01 Jan 2020 21:32:35
+Assigned to omd:                                  01 Jan 2020 21:32:35
+omd recused:                                      11 Jan 2020 19:36:59
+Assigned to Alexis:                               11 Jan 2020 19:36:59
+
+==========================================================================
+
+Caller's Evidence:
+
+On 12/6/2019 6:44 PM, Jason Cobb wrote:
+>
+> I perform the following actions, in order, 1000 times:
+> 
+> {
+> 
+> Pursuant to Rule 2154, I declare myself the winner of the election for 
+> the 
+> office of Assessor that was initiated on the 7th of November 2019 (UTC).
+> 
+> Pursuant to the Rule with the title "Glitter", I earn 17+1=18 Coins for 
+> earning an Emerald ribbon.
+> 
+> }
+
+Proposal 8266 [ADOPTED]:
+> ID: 8266
+> Title: Glitter
+> Adoption index: 1.0
+> Author: nch
+> Co-authors:
+>
+>
+> Enact a Power-1 rule titled "Glitter" with the following text {
+>
+>     If a player has earned a ribbon in the past 7 days but already owned 
+>     it e CAN
+>     once (until e earns another ribbon), by announcement, earn N+1 coins 
+>     where
+>     N is the number of current players that do not own the same ribbon.
+>
+> }
+
+Excerpt from Proposal 8276 [ADOPTED]:
+> ID: 8276
+> Title: Various Election Fixes v2
+> Adoption index: 2.0
+> Author: Jason Cobb
+> Co-authors:
+>
+>
+> Amend Rule 2154 ("Election Procedure") by replacing the text "declare em
+> the winner of the election by announcement" with the text "by
+> announcement declare em the winner of the election, thereby causing em
+> to win the election".
+>
+> [This clarifies that this actually causes the person to win the
+> election, which could be construed as a distinct action from "declaring
+> em the winner". The replaced text differs from the one in the most
+> recent SLR because Falsifian cleaned the text by replacing "them" with
+> "em" since then.]
+
+}
+
+[Note: I have included the text of the proposals themselves, rather than 
+the text in the recent SLR, because the resolutions are more easily 
+verifiable, and I don't completely trust my SLR right now, for previously 
+stated reasons.]
+
+
+Caller's Arguments:
+
+Under the precedent set in CFJ 1584, performing an action 1000 by saying 
+that one does is acceptable. Furthermore, I argue that the precedent in 
+CFJ 1774 does not override this - this action does not create thousands of 
+things that must be dealt with individually (such as CFJs); it can be 
+dealt with by updating a few lines in the Tresasuror's report (and perhaps 
+adding an explanatory note), so I argue that my actions do not constitute 
+an "abuse of other player's time and efforts". Thus I argue that I was 
+indeed able to perform the actions in this message 1000 times.
+
+Assuming the above is accepted, then I have won the election 1000 times 
+and, after each win, earned 18 coins. The earning of coins is effective 
+because there are 17 players who do not possess an Emerald ribbon (19 
+players total, minus me and G.), and I did not earn any additional ribbons 
+between earning the Emerald ribbon and claiming the reward of coins, 
+fulfilling the criteria in "Glitter".
+
+Thus, I argue that I have earned 18000 Coins, so I have more than 2000 
+Coins. I argue that this CFJ should be judged TRUE. 
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+The election "ends" after the first announcement:
+
+>       When a player wins an election, e is installed into the associated
+>       office and the election ends.
+
+It's important to decide (by common definitions) what properties an "ended
+election" has.  An "election that has ended" may or may not still exist, 
+but common definitions would say it doesn't have "a single candidate" any 
+longer (the condition necessary to enable the announcement), rather it's 
+an "election with a winner".
+
+Further, if the callers' arguments are accepted, it leads to a potential
+problem.  The term "in progress" isn't defined. By common definitions, if 
+a winner can still be declared, then the election is still in progress, 
+even if another part of the rule says it has "ended".  The caller's
+interpretation would let us look at this clause:
+
+>       The above notwithstanding, an election for an office CANNOT be
+>       initiated if one is already in progress.
+
+and conclude that all past uncontested elections (1) can still have a 
+winner announced and installed in office, therefore (2) they are still "in
+progress" therefore (3) no subsequent elections for those offices were 
+ever started.
+
+==========================================================================

@@ -8,6 +8,7 @@
 Caller:                        Gaelan
 
 Judge:                         omd
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Gaelan:                                 01 Nov 2019 14:44:18
 Assigned to omd:                                  01 Nov 2019 22:11:05
+Judged TRUE by omd:                               01 Nov 2019 23:43:51
 
 ==========================================================================
 
@@ -71,5 +73,66 @@ C:
 
         - deregister.
 }
+
+--------------------------------------------------------------------------
+
+Judge omd's Evidence:
+
+> A:
+> {
+>       A player whose master is not emself is a zombie (syn. inactive);
+>       all other players are active.  A zombie's master, if another
+>       player, is allowed to act on behalf of the zombie (i.e. as the
+>       zombie's agent), except a master CANNOT act on behalf of a zombie
+>       to:
+>         - initiate, support, object to, or perform a dependent action;
+>         - act on behalf of that zombie's zombies;
+>         - bid in a zombie auction;
+>         - enter a contract, pledge, or other type of agreement;
+>         - initiate a Call for Judgement;
+>         - deregister.
+> }
+
+B is the same as A with a newline added before the first bullet.
+C is the same as A with a newline added before every bullet.
+
+> Rule 2429/1 (Power=1)
+> Bleach
+>
+>       Replacing a non-zero amount of whitespace with a different
+>       non-zero amount of whitespace is generally insignificant, except
+>       for paragraph breaks.
+
+
+Judge omd's Arguments:
+
+CFJ 3452 ruled that paragraph boundaries should be determined based mainly 
+on grammatical structure rather than layout.  Following its reasoning, "A" 
+above would all be considered a single paragraph, since it's a single 
+grammatical sentence; therefore, there are no "paragraph breaks" to 
+contend with and the changes are definitely insignificant.
+
+That isn't the interpretation I would have chosen, but it's a reasonable
+interpretation, so Rule 217 effectively requires me to follow it.
+
+But it doesn't matter.  Even if the bullets were paragraphs, I find that 
+Rule 2429 does not make any and all whitespace between paragraphs sacred.  
+The rule text states that changing whitespace is "generally 
+insignificant", i.e. insignificant in most cases, "except for paragraph 
+breaks".  From that we can infer that changing paragraph breaks is not 
+insignificant in *most* cases, but it can still be insignificant in some 
+cases.  Common sense suggests that we interpret this as a prohibition on 
+merging or splitting paragraphs – in other words, changing a "paragraph 
+break" to a less significant sort of whitespace, or vice versa.
+
+After all, the intent of the exception is to prevent whitespace changes 
+that could affect meaning.  Changing the amount or type of whitespace 
+between paragraphs wouldn't usually affect meaning.  But merging or 
+splitting paragraphs could, because several rules refer to parts of 
+themselves using either the word "paragraph" itself, or the words "above" 
+and/or "below" (where merging paragraphs could change what text is above 
+or below).
+
+CFJs 3777 and 3778 are TRUE.
 
 ==========================================================================

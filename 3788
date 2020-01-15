@@ -1,0 +1,119 @@
+===============================  CFJ 3788  ===============================
+
+      If the two documents quoted above were ratified, the first one
+      would have the effect of modifying the historical record twice and
+      the publicity switches of the relevant fora twice, in the manner
+      stated as interpretation a above.
+
+==========================================================================
+
+Caller:                        Aris
+Barred:                        Falsifian
+
+Judge:                         Alexis
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   01 Jan 2020 07:02:48
+Assigned to Alexis:                               12 Jan 2020 20:07:17
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sun, 29 Dec 2019 at 18:59, Aris wrote:
+>
+> I intend to ratify without objection the following ~~~-delimited
+> document (see further the notes at the bottom of this message):
+> ~~~
+> Effective date: Dec 14 00:15:01 UTC 2019
+>
+> At Dec 14 00:15:00 UTC 2019, the fora agora-official and
+> agora-business became discussion fora.
+> ~~~
+>
+> I intend to ratify without objection the following ~~~-delimited
+> document (see further the notes at the bottom of this message):
+> ~~~
+> Effective date: Dec 28 01:45:01 UTC 2019
+>
+> At Dec 28 01:45:00 UTC 2019, the fora agora-official and
+> agora-business became public fora.
+> ~~~
+>
+> I pledge not to ratify either of those documents without ratifying the
+> other one. I note that the documents above are technically incorrect,
+> but that ratifying them would reduce ambiguity about what messages
+> failed to be public under CFJ 1905.
+
+
+Caller's Arguments:
+
+The relevant paragraph of rule 1551:
+"When a document or statement (hereafter "document") is ratified, rules to
+the contrary notwithstanding, the gamestate is modified to what it would 
+be if, at the time the ratified document was published, the gamestate had 
+been minimally modified to make the ratified document as true and accurate 
+as possible; however, if the document explicitly specifies a different 
+past time as being the time the document was true, the specified time is 
+used to determine the minimal modifications. Such a modification cannot 
+add inconsistencies between the gamestate and the rules, and it cannot 
+include rule changes unless the ratified document explicitly and 
+unambiguously recites either the changes or the resulting properties of 
+the rule(s). If no such modification is possible, or multiple 
+substantially distinct possible modifications would be equally 
+appropriate, the ratification fails."
+
+I don’t think any reasonable reader would say that the minimal change
+necessary to make a document true involves inserting a change cancelling
+out any changes made by the document. That’s simply not what minimal 
+change means in natural language. Also, if there is any interpretation in 
+which this view is correct, the best interests of the game and common 
+sense mandate that it be selected.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Falsifian:
+
+Repeating the two possibly gamestate changes I mentioned earlier, for 
+context:
+
+a) Insert two events into the historical record: a-o and a-b become
+discussion fora. Flip both publicity switches to Discussion.
+
+b) Insert four events into the historical record: a-o and a-b became
+discussion fora, then immediately after, became Public fora again.
+
+First, I agree that (b) probably isn't the (unique) minimal change,
+but I do suspect it triggers this clause from R1551 "If ... multiple
+substantially distinct possible modifications would be equally
+appropriate, the ratification fails.".
+
+Second, here's an even smaller change that could be made:
+
+(c) Insert two events into the historical record: a-o and a-b become
+discussion fora. Make no other changes (so their publicity switches
+are still Public).
+
+This introduces an inconsistency between the sequence of historical
+events and the current value of switches, but I don't see why that
+would rule it out. R1551 says the change "cannot add inconsistencies
+between the gamestate and the rules", but the rules are silent on the
+question of whether the current value of a switch should be consistent
+with the sequence of past changes to that value.
+
+Now you may say: "But come on! Even if the rules don't rule that out,
+common sense tells us that this gamestate makes no sense and must be
+ruled out." But consider the common-place effect of ratifying an
+officer's report containing an incorrect value for a switch: in that
+case, I think we all casually assume that the resulting minimal change
+to the gamestate is that the switch is flipped to the reported,
+incorrect value, even though that value is inconsistent with the
+history of changes to that switch. The only difference here is that
+it's the other way around: rather than the switch being flipped
+without a change to its history, the history is changed without a
+change to the value of the switch.
+
+==========================================================================

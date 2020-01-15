@@ -8,6 +8,7 @@ Caller:                        pikhq
 Barred:                        ais523
 
 Judge:                         twg
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,15 +16,18 @@ History:
 
 Called by pikhq:                                  23 Oct 2019 00:40:58
 Assigned to twg:                                  24 Oct 2019 15:07:13
+Judged FALSE by twg:                              05 Nov 2019 11:05:59
 
 ==========================================================================
 
 Arbitor's Evidence:
 
 Public message from ais523 purported to be a registration:
-(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2019-October/041534.html)
+(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2019-October/041534.html)
 
-On Sun, Oct 20, 2019 at 12:04 PM AIS523@alumni.bham.ac.uk <AIS523@alumni.bham.ac.uk> wrote:
+On Sun, Oct 20, 2019 at 12:04 PM AIS523@alumni.bham.ac.uk 
+<AIS523@alumni.bham.ac.uk> wrote:
 >
 > Right now, I submit the following proposal, "Undo This Proposal", AI 1:
 > {{{{
@@ -46,9 +50,11 @@ On Sun, Oct 20, 2019 at 12:04 PM AIS523@alumni.bham.ac.uk <AIS523@alumni.bham.ac
 
 
 Followup discussion from ais523 (evidence of previous consent?):
-(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2019-October/055682.html)
+(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+discussion/2019-October/055682.html)
 
-On Sun, Oct 20, 2019 at 12:15 PM AIS523@alumni.bham.ac.uk <AIS523@alumni.bham.ac.uk> wrote:
+On Sun, Oct 20, 2019 at 12:15 PM AIS523@alumni.bham.ac.uk 
+<AIS523@alumni.bham.ac.uk> wrote:
 >
 > On Sun, 2019-10-20 at 15:12 -0400, Jason Cobb wrote:
 > > On 10/20/19 3:04 PM, AIS523@alumni.bham.ac.uk wrote:
@@ -63,5 +69,91 @@ On Sun, Oct 20, 2019 at 12:15 PM AIS523@alumni.bham.ac.uk <AIS523@alumni.bham.ac
 > --
 > ais523
 >
+
+--------------------------------------------------------------------------
+
+Judge twg's Arguments:
+
+The uncertainty at the heart of this CFJ is whether or not ais523's
+message on 2019-10-20 was a successful attempt to register.
+
+Rule 869/46, "How to Join and Leave Agora", says that:
+
+      An Unregistered person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player at that time.
+
+This phrasing intentionally allows some leeway in what qualifies as a
+registration, loosening some of the requirements necessary to perform
+actions by announcement. Instead of "unambiguously and clearly specifying
+the action [of registration] and announcing that e performs it", ais523
+needed only to "indicate" eir intent to do so.
+
+The word "indicate" (or "indicates", "indication" etc.) is not defined
+anywhere in the ruleset, although at present it appears 16 times. For
+example, Rule 2581/2, "Official Patent Titles", says:
+
+      The following Patent Titles CAN be awarded by the indicated
+      Officers with 2 Agoran consent.
+
+Here, the situation is not one of a message indicating a fact but of a
+rule indicating an entity. Nevertheless, the meaning is straightforward.
+Wiktionary defines "indicate" as follows:
+
+  (1) To point out; to discover; to direct to a knowledge of; to show; to
+      make known.
+
+  (2) To show or manifest by symptoms; to point to as the proper remedies.
+
+  (3) To signal in a vehicle the desire to turn right or left.
+
+  (4) To investigate the condition or power of, as of steam engine, by
+      means of an indicator.
+
+Common sense suggests it is the first of these definitions that is meant
+here, and at other places in the ruleset. To rephrase for an Agoran
+context, this means that for a body of text such as a message or rule to
+successfully "indicate" a fact or entity, it must generally cause readers
+to come to have knowledge or awareness of that fact or entity. This
+interpretation seems consistent with the use of the word "indicate"
+elsewhere in the rules.
+
+Did ais523's message, then, "indicate" eir desire to become a player
+reasonably clearly and unambiguously? To determine whether or not this was
+the case, I solicited feedback from players on 2019-10-23, asking whether
+readers generally became aware, on receiving the message, that ais523
+thereby intended to become a player.
+
+Five players (Aris, Gaelan, Jason Cobb, pikhq and twg) stated that they
+did not initially interpret the message as a registration attempt. Gaelan
+further explained that e did not interpret the message as a registration
+attempt even after ais523 published the further clarification quoted
+above in Arbitor's Evidence; this clarification will be discussed in
+greater detail below. The only player to give any suggestion that e
+recognised the message as a registration attempt was Falsifian, who said:
+
+> I suspected e was at least trying to raise the question of whether
+> that message registered em, but I wasn't sure whether e really
+> expected it to work.
+
+Overall, it seems clear that most readers did not understand ais523's
+message even to have been an attempt at registration, whether successful
+or otherwise. I therefore find that the message did not "indicate" an
+intent to become a player, regardless of its clarity or unambiguity.
+
+A final question to consider is whether ais523's later followup was
+sufficiently explanatory to make eir previous message a successful
+indication of eir intent. I find that it did not. Not only did at least
+one player (Gaelan) still not recognise the registration attempt, but to
+allow future messages to retroactively change the meaning of a past
+message would be totally antithetical to the game's customs and best
+interests, allowing for example important rule-defined mechanisms such as
+dependent actions to be bypassed arbitrarily.
+
+In summary, ais523's message did not successfully indicate eir intent to
+become a player, and therefore e did not register at the date and time in
+question. In the absence, to my knowledge, of any other mechanism by which
+e might become a player, I judge this CFJ FALSE.
 
 ==========================================================================
