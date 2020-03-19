@@ -1,0 +1,234 @@
+===============================  CFJ 3808  ===============================
+
+      Jason has, in the last two weeks, made a single intent to enact
+      multiple Editorial Guidelines and twg is both a Supporter and
+      Objector to it.
+
+==========================================================================
+
+Caller:                        Alexis
+
+Judge:                         G.
+Judgement:                     IRRELEVANT
+
+==========================================================================
+
+History:
+
+Called by Alexis:                                 07 Feb 2020 04:43:31
+Assigned to G.:                                   09 Feb 2020 08:55:24
+Judged IRRELEVANT by G.:                          09 Feb 2020 22:05:05
+
+==========================================================================
+
+Caller's Arguments:
+
+As discussed, this is likely a single intent/action rather than
+multiple. However, beyond that, by trying to support and/or object to
+individual components, has twg thereby supported and objected to it?
+Or has this failed and e is neither?
+
+
+Caller's Evidence:
+
+On 1/27/2020 3:43 PM, Jason Cobb wrote:
+> I've finally gotten around to drafting these, so I intend, with Agoran
+> consent, to enact the following Editorial Guidelines:
+> 
+> [Informal title: "Capitalization"]
+> 
+> {
+> 
+> Capitalization of terms of art should follow, as closely as possible,
+> existing usages of the term. In the event of inconsistent usage, or when
+> creating new terms of art, prefer using lowercase letters, except when
+> the term of art contains a proper noun.
+> 
+> Example: prefer "blots" to "Blots".
+> 
+> Specifically, all dependent action methods besides "Agoran consent" are
+> entirely lowercase.
+> 
+> }
+> 
+> 
+> [Informal title: "Lists"]
+> 
+> {
+> 
+> There are two types of list numbering: ordered and unordered. Ordered
+> lists are marked with a marker that monotonically increases with each
+> item. Unordered lists are marked with the same marker for each element.
+> 
+> Example: "*" is the marker in:
+> 
+>     * Alice
+>     * Bob
+> 
+> 
+> There are two types of list formatting: inline and block. Inline lists
+> are contained with in the prose, and are not separated from the
+> preceding prose by line breaks. Block lists have newlines before and
+> after each element. Inline lists should not exceed more than 2 to 3
+> elements; if they do, consider making the list a block list.
+> 
+> Inline ordered lists should have the marker "X)", and block ordered
+> lists should have the marker "X.", where X is either the number of the
+> list item or a letter. Block unordered lists should have the marker "*".
+> 
+> When there are multiple ordered block lists in a single rule, prefer to
+> give each of them a different numbering style. For example, one could
+> use "1.", "2.", "3." while another uses "A.", "B.", "C.".
+> 
+> }
+> 
+> [I wanted to put something about how each list item should end, but I'm
+> not quite sure how to phrase it, and the current rules diverge a good
+> bit on the matter.]
+> 
+> 
+> [Informal title: "Pronouns"]
+> 
+> {
+> 
+> The singular non-gendered pronoun is "e" in the nominative, and "em" in
+> the accusative. Do not use "they" as a singular pronoun. Do not use
+> "he/him/his" or "she/her/her" as a singular pronoun when referring to a
+> person of unknown gender.
+> 
+> }
+> 
+
+
+On Thu, 6 Feb 2020 at 19:26, Timon Walshe-Grey wrote:
+>
+> Jason wrote:
+>> Sorry, do people have other support/objections for these? I would 
+prefer
+>> not to just let them die.
+>
+> I object to the capitalisation one for the same reason as Alexis.
+>
+> I object to the lists one because the example given is very confusing.
+> It's not an inline list because it's separated from the surrounding
+> prose, and it's not a block list because the elements aren't separated
+> by line breaks. And why are those spacing restrictions needed anyway
+> when R2429 lets you, as Rulekeepor, change spacing freely?
+>
+> I support the pronouns one, although I think it could do with amending
+> to specify the other declensions ("eir", "eirs", "emself") too.
+>
+> -twg
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+In general, for action specifications, we allow some flexibility,
+especially in the name of efficiency.  For example, if I state "I vote FOR
+all of the following decisions", that's taken to expand to individual
+ballots (one per decision), because the rules are very clear that a single
+ballot doesn't apply to multiple decisions, so there's no alternative
+interpretation (i.e. no such thing as a single simultaneous ballot).
+
+So the first question is:  for changing the Editorial Guidelines, do the
+rules explicitly make the creation of each new editorial guideline a
+separate action, or can multiple guidelines be implemented as a single 
+action?
+
+R2599 reads in part:
+>   The Editor CAN, with Agoran consent, enact regulations, collectively
+>   called "Editorial Guidelines".
+
+First, this makes it reasonably clear that each "guideline" is a separate
+"regulation", so if a person talks about "two guidelines", e is talking
+about two separate regulations.
+
+Second, this is written with a plural mapped to a singular ("enact
+regulations with Agoran consent"), which seems to imply that multiple
+regulations can be enacted as a single with-Consent action.  However this
+usage is not certain - for example, it's perfectly natural to say "I can
+vote on decisions by announcement" while still meaning that each decision
+gets its own vote.  So this could be read either way.
+
+Looking at the definition of Regulations in R2493, gives us the following:
+>    A regulation CAN be enacted, amended, and repealed as specified by
+>    its parent rule. By default, a person CAN, with 2 Agoran consent,
+>    enact, amend, or repeal a regulation for which e is the
+>    Promulgator.
+
+This has the strong implication that each regulation is changed singly.  I
+find this interpretation compelling in terms of common sense - the rules
+make it reasonably plain that each regulation is a separate entity (as
+opposed to, say, clauses in a contract which might be replaced en masse),
+and it's reasonable (in the absence of contrary text in the rules) to use
+the "rule change model" in which each change is a separate action.
+
+To be sure, R2493 allows a "parent rule" to specify change methods, and
+that parent rule could specify simultaneous changes.  But the ambiguous
+sort-of plural in the power-1 R2599 (that could be read either way) is not
+sufficient to override power-3 default, of one regulation change per 
+action.
+
+Thus, I find that the best current Rules interpretation is that each
+regulation change is a separate act, with a separate intent required.  And
+since each guideline is its own regulation, this means one separate intent
+per guideline.
+
+So, as per the CFJ text "a single intent to enact multiple Editorial
+Guidelines" would be an intent to perform an IMPOSSIBLE action (modifying
+multiple regulations simultaneously).  If Jason had written very
+specifically "I intend, as a single act, to enact the following set of
+guidelines", the follow-up action attempt would fail, because it is not
+POSSIBLE to perform a single act that changes multiple guidelines.
+
+Does Jason's specification of intent expand (in the manner of the vote
+example) to being multiple intents, one per regulation?  Requiring
+separate intents does not mean the word "intend" has to be used multiple
+times.  For example "I intend to enact each of the following regulations
+separately" would do the trick. The question, then, is whether Jason's
+message met this threshold:
+>    1. A person (the initiator) published an announcement of intent
+>       that unambiguously, clearly, conspicuously, and without
+>       obfuscation specified the action intended to be taken and the
+>       method(s) to be used;
+with respect to specifying that these were multiple actions?
+
+In this case:
+
+1.  Jason makes it clear that e is enacting multiple guidelines, therefore
+multiple regulations;
+
+2.  Jason uses both titles and parenthesis to indicate that each titled
+section is its own regulation;
+
+3.  We have clarified, via this CFJ, that the alternative of one action
+for multiple regulations changes is IMPOSSIBLE.
+
+4.  However, the "I intend" portion is written singly, "I intend, with
+Agoran consent, to enact".
+
+If the standard was merely "clearly" and not "unambiguously, clearly,
+conspicuously, and without obfuscation", point 4 would not be sufficient
+to override points 1-3, and this would work- this is still reasonably
+clear, conspicuous and without obfuscation.
+
+But what about "unambiguous"?
+
+On one hand, when there's only one interpretation that works (see point
+3), we can be a little less strict, as there is only one possible mapping.
+But point 3 wasn't clear in the Rules until this CFJ - going forward,
+given this CFJ, it might work better, and we might be a little less
+strict.  But going into this CFJ, point 3 was ambiguous.  Secondly,
+there's evidence from the conversation that both interpretations were
+assumed by different readers.  Given that the purpose of dependent actions
+(as reflected by the high standard) is to have a very explicit
+parliamentary procedure with the maximum ability for players to respond,
+overall this intent is to ambiguous to set up a future action.
+
+Since overall the intent is ambiguous, it wouldn't work whether it was an
+intent to perform one action or many.  Therefore who has objected or
+supported what doesn't really matter, as the actions cannot proceed based
+on the quoted announcement of intent.  I find IRRELEVANT.
+
+==========================================================================

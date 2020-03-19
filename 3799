@@ -1,0 +1,77 @@
+===============================  CFJ 3799  ===============================
+
+      If the report referenced by my previous CFJ were to ratify, its
+      'specified time' for the purposes of Rule 1551 would be 00:00 UTC
+      on 2020-01-20.
+
+==========================================================================
+
+Caller:                        twg
+Barred:                        Alexis
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    24 Jan 2020 18:06:09
+Assigned to G.:                                   26 Jan 2020 03:06:08
+Judged TRUE by G.:                                09 Feb 2020 00:23:56
+
+==========================================================================
+
+Caller's Evidence: 
+
+The "report referenced" by CFJ 3798:
+
+I wrote to OFF at 17:05 UTC on 2020-01-24:
+> ------------------------------------------------------------------------
+>               The Police Blotter (Referee's Weekly Report)
+> ------------------------------------------------------------------------
+>
+> This report:
+>   Published:      2020-01-24
+>   Accurate as of: 2020-01-20 00:00
+>
+> Last report:
+>   Published:      2020-01-14
+>   Accurate as of: (publication)
+>
+> (all times UTC)
+>
+>
+> BLOT HOLDINGS                                            (self-ratifies)
+> ========================================================================
+>
+> Blots    Player
+> -----    ------
+>   2      nch
+>
+> No fugitives exist.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The report in question had the following time information:
+> This report:
+>   Published:      2020-01-24
+>   Accurate as of: 2020-01-20 00:00
+
+This is sufficiently clear that the "time of report" was 2020-01-20 00:00.
+
+R1551 reads in part:
+>                                             the gamestate is modified
+>      to what it would be if, at the time the ratified document was
+>      published, the gamestate had been minimally modified to make the
+>      ratified document as true and accurate as possible; however, if the
+>      document explicitly specifies a different past time as being the
+>      time the document was true, the specified time is used to determine
+>      the minimal modifications.
+
+The "2020-01-20 00:00" timestamp was sufficient at "explicitly specifying" a
+different past time, so this is the date for ratification purposes.  TRUE.
+
+==========================================================================

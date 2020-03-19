@@ -1,0 +1,156 @@
+===============================  CFJ 3801  ===============================
+
+      It is POSSIBLE for a player, having given appropriate notice and
+      received Agoran satisfaction, to clean Rule 2496 by replacing the
+      word 'result' in the phrase 'times the adoption index of the
+      result' with at least one of 'decision' or 'proposal'.
+
+==========================================================================
+
+Caller:                        Alexis
+
+Judge:                         twg
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Alexis:                                 25 Jan 2020 21:18:06
+Assigned to twg:                                  26 Jan 2020 03:06:54
+Judged FALSE by twg:                              29 Jan 2020 18:14:59
+
+==========================================================================
+
+Caller's Arguments:
+
+[Arbitor's note: arguments pertain to CFJ statements 3800-3803]
+
+Note that the first two are not strictly parallel to the second two, as 
+the first two are designed to avoid forcing the judge to interpret of Rule
+2496, and allow a "either or, but I don't know which" judgment, while the
+latter two are predicated on an interpretation and consequently focus on
+specific replacements.
+
+A cleaning must, platonically, be limited in scope to fixes to spelling,
+grammar, and similar. One of the items in scope for a cleaning is "whether
+a synonym or abbreviation is used in place of a word or phrase". However, 
+I note that there is no direct requirement that there be no semantic 
+change introduced, other than by the fact that it must be a "correction".
+
+The rule as written refers to the adoption index of the result, but 
+results (presumably synonymous with outcomes?) have no adoption index. It 
+is clear, that the intended interpretation is the adoption index of either 
+the proposal or the decision, but it is not entirely clear which one. At
+present, however, there are no effects that can change the AI of a
+decision, so it's a moot point, but it would become significant if there
+were.
+
+So, it seems clear that the rule is ambiguous as-is, and that it would be 
+a correction to replace it with either "decision" or "proposal". Since 
+there are only two reasonable interpretations of the rule, it must be the 
+case that exactly one of these is a semantic change. The other would 
+certainly be a correction, by clarifying the rule. Is the semantic change 
+a correction as well? It would certainly resolve the ambiguity, so 
+arguably it is. My gut tells me that it would be a correction as long as 
+the rule was generally ambiguous; once precedent was established (and 
+noting that, because precedent has a direct impact on the interpretation 
+of a rule; a rule's interpretation may platonically change as a result of 
+the creation of a precedent, even an incorrect one) it would no longer be 
+(aside: this is a fascinating line of thinking I had not considered before 
+about the question of platonic interpretation).
+
+I'd argue that "synonym" is the only ground of cleanliness under which the
+change could be made, so in order to be valid, it must be changing whether
+a synonym is used in case of a word or phrase. In this case, the change
+would ostensibly be to no longer use the synonym "result" in place of
+"decision" or "proposal", as the case may be. So what constitutes a 
+synonym?
+
+If the ambiguity were already resolved in precedent, as in the last two
+CFJs, then we can argue that the words are synonymous in context, even if
+they aren't ordinarily. But would it be too much of a stretch to extend
+this argument to if, say, due to a splice error the rule read "the 
+adoption index of the prosion"? Could "prosion", a non-word but something 
+that could still be reasonably disambiguated, be seen to have a synonym at 
+all? I think not. This would arguably mean that replacing it with another 
+non-word would also be a synonym, since there is little reason to think 
+that replacing one non-word with another could affect interpretation. So I 
+think that the words must have some reasonable connection to be argued as
+synonyms, regardless of the specific in-context interpretation.
+
+If the ambiguity had not already been resolved, then we can't rely on the
+above in any case, and we have to find another, less contextual way to
+evaluate synonymousness. It seems clear that idiosyncratic Agoran
+definitions could contribute to this, for instance when two words are
+explicitly defined as synonymous. "result" is not defined by Agora; it is
+however used as synonymous with "outcome" in Rule 2168.
+
+What about plain-English synonyms? "result" can sometimes be approximately
+synonymous to "decision", such as when referring to a legal case, but it
+would be a stretch for it to be synonymous to "proposal". If we accept a
+sufficiently broad definition, then "decision" would be an acceptable
+synonym, possibly even if the rule had been interpreted as "proposal" in
+the past. But in context of an Agoran decision specifically, I would think
+it is too equivalent to "outcome" to accept it as a synonym for 
+"decision".
+
+So consequently, I think these are all FALSE, but I am far from certain.
+
+--------------------------------------------------------------------------
+
+Judge twg's Arguments:
+
+In full, Rule 2221 ("Cleanliness") reads as follows:
+
+      Any player CAN clean a rule without objection by specifying one or
+      more corrections to spelling, grammar, capitalization, formatting,
+      and/or dialect, or to whether a synonym or abbreviation is used in
+      place of a word or phrase, in the rule's text and/or title; the
+      rule is amended by this rule as specified by that person.
+
+The proposed actions in these cases rest solely on the definition of
+"synonym", because (as the caller correctly identifies) none of the other
+permitted justifications for cleaning apply here. So, how should we
+interpret "synonym" in the context of Rule 2221?
+
+In strict semantic usage, a "synonym" is a word with exactly the same
+meaning as a specific other word. It seems uncontroversial to say that the
+cleanings proposed here do not meet this strict definition. However, in
+modern English usage, "synonym" can also be used for equivalencies in
+meaning that are less exact. For example, "tongue" might be considered a
+synonym for "language". This does not require the words to be exactly
+interchangeable in all contexts, but merely for them to represent the same
+or similar concepts.
+
+The caller suggests, and I agree, that under this definition, "result"
+could be synonymous with "decision". However, it is certainly not
+synonymous with "proposal". Thus, the cleaning of Rule 2496 to replace
+"result" with "proposal" would be IMPOSSIBLE given the current text of the
+rules, under either definition of "synonym".
+
+Now, we must consider the question of replacing "result" with "decision".
+As the text of the rules is unclear on this matter, and I have discovered
+no relevant game custom or past judgements to inform me, I am required to
+base my judgement on common sense and the best interests of the game.
+
+The text of Rule 2221 strictly curtails players' abilities to perform
+cleanings. As well as specifically limiting changes to a short list of
+permitted categories, the rule requires cleanings to occur "without
+objection", the highest possible standard of Agoran satisfaction. These
+are some very stringent restrictions, and for good reason: Rule 2221 has
+Power 3.0, meaning that cleanings can cover almost any Rule in the
+Ruleset. It would be downright foolish and irresponsible to relax them!
+
+Given this, I believe the only possible conclusion that is sensible and in
+the game's best interests is for the Rule 2221 restrictions to be
+interpreted as narrowly as possible. Cleanings performed under the
+category of "replacing words or phrases with synonyms" are IMPOSSIBLE
+unless the words are exactly synonymous, which "result" and "decision"
+are not. (To my knowledge, the most plausible candidates for such synonyms
+would be words already defined as exactly equivalent by other Rules: for
+example, "Call for Judgement" for "judicial case".)
+
+I judge CFJ 3801 FALSE.
+
+==========================================================================

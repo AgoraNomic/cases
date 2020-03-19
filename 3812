@@ -1,0 +1,213 @@
+===============================  CFJ 3812  ===============================
+
+      Proposal 8317 has AI 1.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 10 Feb 2020 00:04:49
+Assigned to Aris:                                 19 Feb 2020 15:21:30
+Judged FALSE by Aris:                             24 Feb 2020 03:18:44
+
+==========================================================================
+
+Caller's Arguments:
+
+> On Feb 9, 2020, at 3:42 PM, Alexis Hunt wrote:
+> On Sun, 9 Feb 2020 at 18:30, Kerim Aydin wrote:
+>> On 2/9/2020 3:21 PM, Jason Cobb wrote:
+>>> PROPOSAL 8317 (Zombie trade)
+>>> FOR (5): Alexis%, Bernie, Gaelan, omd, twg&
+>>> AGAINST (6): Aris, Falsifian$, G., Jason, Rance, o
+>>> PRESENT (0):
+>>> BALLOTS: 11
+>>> AI (F/A): 21/19 (AI=1.0)
+>>> OUTCOME: ADOPTED
+>>
+>> This one is very broken if its AI is 1 because it tries to modify a 
+>> bunch of power=2 rules.  In the distribution message, it is listed as 
+>> AI-2 in the top part:
+>>> 8317e  Alexis                   2.0   Zombie trade
+>>
+>> and AI-1 in the bottom part:
+>>
+>>> ID: 8317
+>>> Title: Zombie trade
+>>> Adoption index: 1.0
+>>
+>> I'm guessing it's really AI-2 (and thus fails completely?) because I
+>> doubt the author would make that big a mistake (including creating a 
+>> "new power-2 Rule") but I could be wrong?
+>
+> The original AI was 2 when it was submitted. Noticing this error
+> within the week of distribution would invalidate it for lack of
+> clarity, but it's self-ratified, so I believe it's properly
+> distributed at AI=2 now.
+>
+> -Alexis
+
+I’m not so sure it self-ratified, actually.
+
+1551/21 reads, in part: {
+An internally inconsistent document generally cannot be ratified; however, 
+if such a document can be divided into a summary section and a main 
+section, where the only purpose of the summary section is to summarize 
+information in the main section, and the main section is internally 
+consistent, ratification of the document proceeds as if it contained only 
+the main section.
+}
+
+1607/47 reads, in part: {
+The Promotor's report includes a list of all proposals in the Proposal 
+Pool, along with their text and attributes. This portion of a public 
+document purporting to be a Promotor's report is self-ratifying.
+}
+
+The Promotor’s message listed the attributes twice, and the text once, of 
+each proposal. So this depends on what “this portion” means: does it mean 
+the list at the top as well as the full proposals below, or just the full 
+proposals below?
+
+If it means just the full proposals, then the proposal ratified at AI 1.
+
+If it means both, then we’ve got an internally inconsistent document, 
+according to the 1551 clause I quoted. The question, then, is whether or 
+not the "document can be divided into a summary section and a main 
+section, where the only purpose of the summary section is to summarize 
+information in the main section.” The key bit here is “only purpose”—the 
+list at the top is actually part of another action (“I hereby distribute 
+each listed proposal…”), but that action isn’t part of the self-ratifying 
+document, so maybe in this context it only serves on purpose?
+
+If the “summary” clause applies, then it ratified at AI 1.
+
+If not, the document is internally inconsistent and didn’t ratify at all.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+I don't think it's plausible that either the full text or the table is
+in a distribution is a summary. Neither of them has any sort of marking 
+that indicates that it's secondary. In addition, the text is an essential 
+parameter of the decision, so the section containing the full text of the 
+proposal must be part of the distribution notice. Accordingly, I rule that 
+document was internally inconsistent and could not self ratify. I'll note 
+in passing that none of the information concerned involved the proposal 
+pool, which is self ratifying under Rule 1607, as the caller suggested; 
+instead, it involved a notice initiating an Agoran decision, which is self 
+ratifying under Rule 107. FALSE.
+
+
+Judge Aris's Evidence:
+
+Rule 107/21 (Power=3)
+Initiating Agoran Decisions
+
+  An Agoran decision is initiated when a person authorized to
+  initiate it publishes a valid notice which sets forth the intent
+  to initiate the decision. To be valid, the notice must clearly
+  specify the following information:
+
+  1. The matter to be decided (for example, "the adoption of
+     proposal 4781");
+
+  2. The voting method;
+
+  3. A clear description of the valid options;
+
+  4. The identity of the vote collector; and
+
+  5. Any additional information defined by the rules as essential
+     parameters.
+
+  The publication of such a valid notice initiates the voting period
+  for the decision. The voting period lasts for 7 days. The minimum
+  voting period for a decision with at least two options is five
+  days. The vote collector for a decision with less than two options
+  CAN and SHALL end the voting period by announcement, if it has not
+  ended already, and provided that e resolves the decision in the
+  same message.
+
+  The voting period for a decision cannot be set or changed to a
+  duration longer than fourteen days.
+
+  A public notice purporting to initiate an Agoran decision is a
+  self-ratifying attestation of the notice's validity.
+
+Rule 1551/20 (Power=3.1)
+Ratification
+
+  When a document or statement (hereafter "document") is ratified,
+  rules to the contrary notwithstanding, the gamestate is modified
+  to what it would be if, at the time the ratified document was
+  published, the gamestate had been minimally modified to make the
+  ratified document as true and accurate as possible; however, if the
+  document explicitly specifies a different past time as being the
+  time the document was true, the specified time is used to determine
+  the minimal modifications. Such a modification cannot add
+  inconsistencies between the gamestate and the rules, and it cannot
+  include rule changes unless the ratified document explicitly and
+  unambiguously recites either the changes or the resulting properties
+  of the rule(s). If no such modification is possible, or multiple
+  substantially distinct possible modifications would be equally
+  appropriate, the ratification fails.
+
+  An internally inconsistent document generally cannot be ratified;
+  however, if such a document can be divided into a summary section
+  and a main section, where the only purpose of the summary section
+  is to summarize information in the main section, and the main
+  section is internally consistent, ratification of the document
+  proceeds as if it contained only the main section.
+
+  Text purportedly about previous instances of ratification (e.g. a
+  report's date of last ratification) is excluded from ratification.
+  The rules may define additional information that is considered to
+  be part of the document for the purposes of ratification; such
+  definitions are secured at a Power Threshold of 3.
+
+  Ratification is secured with power threshold 3.
+
+Rule 1607/46 (Power=3)
+Distribution
+
+  The Promotor is an office; its holder is responsible for receiving
+  and distributing proposals.
+
+  Determining whether to adopt a proposal is an Agoran decision. For
+  this decision, the vote collector is the Assessor, the adoption
+  index is initially the adoption index of the proposal, or 1.0 if
+  the proposal does not have one, and the text, author, and
+  coauthors of the proposal are essential parameters. Initiating
+  such a decision is known as distribution, and removes the proposal
+  from the Proposal Pool.
+
+  The Promotor CAN distribute a proposal which is in the Proposal
+  Pool at any time.
+
+  In a given Agoran week, the Promotor SHALL distribute each
+  proposal that was in the Proposal Pool at the beginning of that
+  week, except for those excepted from automatic distribution by
+  other rules, or those that are otherwise removed from the Pool.
+
+  Distributed proposals have ID numbers, to be assigned by the
+  Promotor.
+
+  If there is a Proposal in the Pool that it would otherwise be
+  IMPOSSIBLE for any player to distribute, then any player CAN
+  distribute that Proposal without 3 objections.
+
+  The Promotor's report includes a list of all proposals in the
+  Proposal Pool, along with their text and attributes. This portion
+  of a public document purporting to be a Promotor's report is
+  self-ratifying.
+
+==========================================================================

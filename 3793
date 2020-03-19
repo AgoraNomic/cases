@@ -1,0 +1,462 @@
+===============================  CFJ 3793  ===============================
+
+      Rance’s master switch is set to Gaelan.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         Alexis
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 16 Jan 2020 06:16:40
+Assigned to twg:                                  22 Jan 2020 15:51:57
+Judged FALSE by twg:                              26 Jan 2020 12:12:24
+Motion to Reconsider filed:                       26 Jan 2020 20:51:37
+twg recuses emself:                               07 Feb 2020 00:19:21
+Assigned to Alexis:                               08 Feb 2020 21:20:45
+Judged FALSE by Alexis:                           15 Feb 2020 23:08:23
+
+==========================================================================
+
+Caller's Arguments:
+
+1885/9: For the purpose
+     of such a auction, to transfer a zombie to a player is to set that
+     zombie's master switch to that player.
+
+2551/3: When [the bid is paid to the auctioneer],
+     if the auctioneer CAN transfer the items in that lot to that
+     winner at will, e immediately does so; otherwise, e SHALL do so in
+     a timely fashion.
+
+So, the question is: CAN Agora, as an autonomous entity, set a switch? I 
+don’t see any language that implies it can, but perhaps there’s an 
+argument to be made that Agora obviously is able to change its own state?
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+The standing precedents are CFJs 3693-3694.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Falsifian:
+
+Jason Cobb pointed out Gaelan's 22-coin bid was NttPF [0], so e did not 
+win any lots in the auction, so this should be FALSE.
+
+- Falsifian
+
+[0] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+business/2020-January/041890.html
+
+--------------------------------------------------------------------------
+
+Judge twg's Arguments (prior to Motion to Reconsider):
+
+Falsifian and Jason Cobb are perfectly correct; Gaelan's final bid on the
+zombie auction in question was not among the three highest, so e did not
+win any lot. (Because of eir phrasing, though, e did still transfer the
+amount of eir "bid" to Agora. Sucks to be em.)
+
+I judge this CFJ trivially FALSE.
+
+However, it's worth considering the matter that the caller _intended_ to
+inquire into. Is it generally POSSIBLE for players to flip master switches
+as the result of a zombie auction?
+
+As G. correctly points out, this exact question was the subject of CFJ
+3694. Despite the complexity of the discussion surrounding that case, e
+has kindly supplied us with the reasoning adopted by CFJ 3694's judge:
+
+> The CFJ is FALSE, because a necessary implication of the Rules is that
+> Agora CAN transfer a zombie pursuant to a properly initiated Rule 1885
+> zombie auction.
+>
+> Under Rule 2545 (power=2), “An Auction is a way for entities to give
+> away items in exchange for a currency.”  By necessarily implication,
+> if a Rule with high enough power authorizes some player to initiate an
+> auction with a particular item as a lot, then that Rule also
+> necessarily authorizes that player to initiate a process that would
+> “give away [that] item[] in exchange for a currency.”  That’s what an
+> auction _is_ under the Rules.
+>
+> Under Rule 1885 (power=2), at the start of the month, “the Registrar
+> CAN put [a] zombie [that meets certain conditions] (along with any
+> other zombies that fulfill the same conditions) up for auction.”  By
+> necessary implication, read in conjunction with Rule 2545, that means
+> that a zombie can be transferred pursuant to that auction. Otherwise
+> it wouldn’t be an auction at all—a way of transferring an item for
+> currency. It would be something else entirely.
+>
+> This interpretation is consistent with the best interests of the game
+> and ordinary language. There’s no reason to adopt a contrary
+> interpretation, which would break auctions and zombies.
+
+Although unconventional, I do not find flaw with the judge's logic. By
+defining an "Auction" as "a way for entities to give away items" (text
+that is still present in the rule today), Rule 2545 ("Auctions")
+effectively makes a blanket statement that entities CAN give away items
+through auctions. Thus, the condition in Rule 2551 ("Auction End") that
+"the auctioneer CAN transfer the items in that lot to that winner at will"
+is always true (provided that the items are possessed by the auctioneer,
+which is always the case with official zombie auctions).
+
+However, it should be noted that the result of this wording is clearly
+unintentional, as it might for example permit a player to auction even
+_fixed_ assets, including eir own zombie(s), by means of Rule 2584 ("Free
+Auctions"). This court therefore recommends that language be introduced to
+Rule 2551 explicitly enabling Agora to transfer zombies, and that Rule
+2545 be rephrased to remove its unfortunate permissiveness.
+
+--------------------------------------------------------------------------
+
+Judge Alexis's Arguments:
+
+## History
+
+For a brief recap of this case, the fundamental question here is
+whether, upon paying the fee to win a zombie auction, Rance's master
+switch was actually set to Gaelan.
+
+This case has gone through a rich history and varied arguments. The
+issue at the heart of this case was raised before in CFJs 3693 and
+3694, with CFJ 3693 having been withdrawn due to a technical flaw and
+CFJ 3694 representing the substantive judgement on the question "It is
+generally IMPOSSIBLE for a zombie to be transferred to the winner of a
+lot in a zombie auction."
+
+CFJ 3793 was assigned to twg, who found that this case was also
+trivially false as Gaelan was not one of the three highest bids in the
+auction in question, so the case must clearly have the value FALSE. I
+find no reason to disagree. Therefore, I judge CFJ 3793 FALSE and
+award myself blue glitter.
+
+However, Judge twg went into obiter on what the correct judgment would
+be notwithstanding the trivial error, and found, based on the
+precedent of CFJ 3794, that indeed the zombie generally could be
+transferred.
+
+In argument after the judgement, I raised Rule 2125, and in particular
+its requirement that "A Regulated Action CAN only be performed as
+described by the Rules, and only using the methods explicitly
+specified in the Rules for performing the given action." The judgment
+in CFJ 3794 held that Rule 2545's text "An Auction is a way for
+entities to give away items in exchange for a currency." meant that,
+by necessary implication, it must be capable of effecting that
+transfer. Consequently, Rule 1885's provisions that a zombie auction
+can be initiated by the Registrar create a necessary implication that
+there exists a mechanism to transfer zombies in the auction. Judge D.
+Margaux also pointed out that this was consistent with the best
+interests of the game and ordinary language. However, I argued that
+this did not meet the standard of an explicitly specified method from
+Rule 2125.
+
+As a result of my argument, a Motion to Reconsider was filed, and a
+few additional arguments were given. twg argued that the method of an
+auction was specified explicitly, though perhaps not entirely clearly.
+E argued that R2545's text, quoted above, explicitly states that the
+auction provides a method, noting that "way" is synonymous to
+"method". G. did note that "clear" and "unambiguous" are not the same,
+citing CFJ 3659, but pointed out also that the word "explicit" "seems
+to embody clarity". E later gave an argument that the rules are
+explicit that a zombie auction is the method of executing a transfer
+of assets, even if the internal mechanisms of the auction rules are
+broken. E compared to the dependent action rules, whereby a definition
+that something can be done "without objection" is explicit regardless
+of whether or not the dependent action rules are broken or not.
+
+I had thought that I had submitted additional argument that the text
+in R2545 could be interpreted as merely being generally explanatory,
+but I cannot seem to find such argument.
+
+## The Function of Rule 2125
+
+So in order to address this case, we must remind ourselves of the
+provisions of Rule 217. The interpretation of the rules is guided
+first by their text, followed by game custom, common sense, past
+judgements, and the good of the game to be applied where the text of
+the rules is silent, inconsistent, or unclear. I find that, in the
+context of zombie auctions specifically, every one of these factors
+points to them functioning and allowing zombies to be transferred.
+However, because the text of the rules takes precedence, it must be
+considered first.
+
+There is an interesting conundrum here, as there is a question of
+where in this sequence to consider whether the auction rules are
+"explicit". Do we evaluate the text of all the rules in a single step,
+then proceed to consider the other R217 factors on the rules as a
+whole, or do we do a two-phase process whereby we first attempt to
+learn what "explicit" means, then apply its text to the auction rules?
+This arguably creates a circular instance of the same problem, applied
+to R217 itself, however, I believe that it can be short-circuited by
+observing that it would very much not be in keeping with common sense
+or the best interests of the game for R217 to have anything other than
+uniform application across all cases, for its very existence would be
+undermined. Its interpretation could change based on the nature of the
+situation to which it is applied, including on rules of lower power,
+something it expressly considers to be problematic.
+
+It follows by similar logic, and by common sense, that R217 applies
+similarly to other interpretive rules. Thus, when dealing with rules
+which affect or are affected by the interpretation of other rules, we
+must apply the R217 factors to those rules independently of the R217
+factors of the rule(s) to which the interpretation is being applied.
+Once the interpretive rule is correctly interpreted, it can be applied
+to the text of the subject rule(s), and at this stage the R217 factors
+will again kick in.
+
+There is one other aspect of this to consider, which is that R2125
+certainly has an interpretive aspect in terms of identifying whether
+the rules are "explicit". But it derives its nature from a principle
+of statutory construction that that which is not included is
+explicitly excluded, and thereby from the game custom prohibiting
+ISIDTID. Is R2125 itself an interpretive principle, affecting the
+conclusions we draw from the rules as a whole, or is it a substantive
+rule which exists as merely one element of the system? This is not an
+academic question, because of the way that precedence interacts. If
+R2125 is an interpretive principle, its precedence conflicts would
+only be with other interpretive rules. By contrast, if it is a
+substantive rules, it does not affect the interpretation of other
+rules directly, but only depends on them, and its precedence conflicts
+would be with rules which permit actions to be performed.
+
+I would like to say that R2125's prohibition against performing
+regulated actions outside the methods specified in the rules is an
+interpretive principle. There are clear hallmarks that it intends to
+be one, including its application to the entire ruleset, its lack of a
+precedence claim over other power-3 rules, and the following sentence
+that explicitly addresses interpretation of the rules. What about the
+text, though? Is it silent, inconsistent, or unclear enough to admit
+this interpretation? I find that it is, albeit just barely. The
+wording "CAN only" is not quite that of a usual prohibition, and seems
+more akin to a statement of a higher-level principle: it is intended
+to prevent the absurdity of a situation where, effectively, the rules
+amount to a nonconstructive proof that an action could be performed by
+providing no mechanism. This could only properly work as an
+interpretive principle, as in the second paragraph of R217.
+
+On the other hand, the rule could be desugared, following Rule 2152's
+definitions, to "Attempts to perform Regulated Actions are
+unsuccessful unless...". I believe that this would, fairly clearly, be
+a substantive prohibition. But R217 specifically refers to the text of
+the rules, not to the text after substituting other definitions in, so
+I find that such a substitution cannot eliminate the inherent
+unclarity in the text of the rules by changing its grammatical
+structure. Even if R2152 were interpreted as trying to modify this
+principle---perhaps a bit of a stretch---R217 takes precedence to the
+extent of a conflict. This is consistent with past judgments on R2152
+involving unusual capitalized terms, such as CFJ 2282, though I could
+not find any that explicitly framed it in terms of a precedence
+conflict with R217. I should note that this is not a general statement
+that R217 takes precedence over the semantic content of definitions.
+In fact, this would conflict with its own claim that the text of the
+rules, which would necessarily include definitions, takes precedence.
+Rather, it only prevents looking at artificially created texts, based
+on definitions, in order modify grammatical structure or other
+linguistic properties to eliminate the unclarity that exists on the
+face of the text. The semantic content of definitions is deferred to,
+effectively, by the very fact that those definitions are part of the
+text of the rules and therefore must be applied before resorting to
+the secondary interpretation criteria.
+
+At this point, the factors clearly tilt to R2125 being an interpretive
+principle. Surprisingly, despite much case law on R2125, I could not
+find a single instance where it was argued that a rule that failed to
+specify a method for an action to be performed simply took precedence
+over R2125 by way of having a lower ID number, and thereby made the
+action possible but not actually performable. But ISIDTID is a
+long-standing game custom, or rather non-custom and it clearly
+benefits the good of the game for it to remain as such, codified in
+R2125. I'm not sure where common sense lies, honestly, but I know that
+it doesn't outweigh the decades of custom.
+
+## General Application of Rule 2125
+
+Now that we have concluded that Rule 2125 is an interpretive
+principle, and not a substantive rule, we must figure out how to apply
+it generally. It is very clearly a principle of interpretation of the
+rules of the whole, and not of any single rule in particular. This is
+evident directly from its text, but it is also worth noting that if it
+applied to individual rules, then any rule which authorized an action
+would thereby prohibit lower-powered rules from also authorizing it.
+That would have significant ramifications.
+
+Because its interpretation is a matter of the rules as a whole, not
+any individual rule, we must also evaluate the explicitness of the
+rules as a whole, rather than only looking at rules in isolation. It
+provides that, where no method is explicitly available within the
+rules, then the correct interpretation is that there is no method
+available, rather than inferring a specific method or entertaining a
+weird non-constructive situation where something is possible but
+cannot actually be done. The latter part is relevant when rules care
+about whether or not something is possible. Under R2125, something
+simply is not possible without an associated method.
+
+I think that G.'s example of a dependent action when the dependent
+action rules are broken provide a good example of this. If I
+understand eir argument correctly, if something caused dependent
+actions not to be performable, then a dependent action specification
+such as "without objection" would meet R2125's explicitness
+requirement, because "without objection" is a method explicitly
+specified, and therefore it would be inapplicable in the context.
+
+While I think that R2125's focus on the rules in general, rather than
+individual rules, is enough of an answer to this suggestion, also
+consider the practical consequences. With dependent actions broken, a
+specification such as "without objection" desugars into a broken
+definition, and then the result is that a rule specifies that the
+thing can be done, but the rules as a whole actually lack a mechanism.
+We're now in exactly the situation that R2125 is supposed to prevent.
+Restricting its application based on the specific structure of rules
+involved would undermine its purpose.
+
+So what exactly is a "method" as contemplated by R2125? Similar to the
+above, consider if a rule stated that an action "CAN be performed by
+Assembling a Contraption, where Assembling a Contraption is as defined
+by other rules". Without such a definition provided by another rule,
+it seems hard to consider this as much other than "CAN be performed"
+without qualification. The rule asserts that it is possible but leaves
+too many details unspecified. We know based on game custom and
+precedent that R2125 functions to make sure that "CAN be performed",
+without any qualification, does not alone make something possible. It
+should equally apply to situations where a method exists but is left
+undefined.
+
+Thus, we can conclude that a "method explicitly specified in the
+Rules" is a procedure by which the rules specify that an action
+contemplated can actually be realized. It may be indirect, occurring
+as a result of another game action, and it may be a wilful natural
+action of a sentient being that starts things, or some other
+occurrence such as the passage of time. But the process cannot be cut
+from whole cloth. Nor can a significant omitted portion of the
+procedure be inferred, because of the requirement that the method be
+explicitly specified. Where only some details are missing, then a good
+litmus test, in line with legal interpretation of contracts that need
+to be explicit, is whether the correct missing details are fairly
+immediately clear. If we have to engage in a detailed interpretive
+exercise to discover the true mechanism, then it is most likely not
+explicit enough to qualify.
+
+Because R2125 is a general rule of interpretation, it also applies in
+interpreting such a conditional: a rule that inquires into whether an
+action is possible also inquires into whether or not a method exists.
+If a method does not exist, the action is not possible. A rule wishing
+to determine if the rules attempt to permit an action, including or
+exclusively when no method is specified, must explicitly communicate
+this intent. This is consistent with the plain language and historical
+interpretation of such conditionals in the rules, such as for
+deputisation or in acting on behalf. R2160 and R2466 both explicitly
+examine the mechanism of performance authorised by the rules and
+distinguish based on that.
+
+These sorts of conditionals are often applied to the specification of
+other methods for performing the same action, and it is often possible
+to resolve such conditions into circularity so that they depend on
+themselves. R2160 would be an example of such if it didn't have the
+phrase "other than by deputisation": it would be possible for a player
+to deputise to perform any action, provided e could deputise for it.
+Sometimes, we may see the bootstrap argument that such a circular
+conditional should be resolved by interpreting the action as being
+possible. This argument begs the question. Such a circular conditional
+is a tautology and is equally consistent if the action is not
+possible. It can hardly be considered an explicit endorsement of the
+action's possibility. Consequently, without needing to consider
+generally how Agora handles question-begging, R2125 does not accept
+it. Any such ambiguity must be resolved against the action being
+possible.
+
+## Application to Zombie Auctions
+
+With this background out of the way, we can turn to zombie auctions,
+and in particular whether or not they provide a mechanism to the
+satisfaction of Rule 2125. The arguments and precedent suggest that
+Rule 2545 provides this, by stating that an auction is a method of
+transferring things away. But this is only a general statement, and
+does not on its own provide any details on how to actually realize the
+transfer. I agree with the argument that this means that Rule 1885, by
+stating that an auction can be initiated, thereby implies that the
+zombie can be transferred. This follows logically from those two
+rules.
+
+Rule 2532 defines the master switch as secured at power level 2,
+meaning that, per Rules 2162 and 1688, master switches can be flipped
+only as allowed by instruments of power 2 and greater. Rules 2545 and
+1885 both have sufficient power to authorize changes to master, and
+unlike with R2125 need not do so explicitly nor specify the methods,
+so this could create an argument that they authorize lower-powered
+rules which flesh out the definition of an auction to make a change to
+the zombie switch despite its security. Indeed, if R1688 matched
+R2125's requirements, the method would clearly not be explicitly
+specified by rules of power 2 or greater and therefore we could stop
+our considerations here. However, that is not the case, so I will
+proceed under the assumption that, for R2125 purposes, we may
+interpret even the lower-powered auction rules as part of the whole,
+either because it is intrinsic to R2125's interpretation to do so, or
+because R2545 and R1885 implicitly delegate the definition to the
+auction rules. I will only revisit this assumption if needed.
+
+Turning to the auction rules, we have two directly relevant clauses.
+First, Rule 2549 states "An Auction also CANNOT be initiated unless
+the Auctioneer is able to give away each item in each of the Auction's
+lots." Second, Rule 2551 says "When [the winner pays the fee], if the
+auctioneer CAN transfer the items in that lot to that winner at will,
+e immediately does so; otherwise, e SHALL do so in a timely fashion."
+
+R2459 is not helpful. It does not authorize anything, only prohibit.
+It can't include an auction as the mechanism to give items away, as
+that would create circular logic. Rule 2551, on the other hand, is
+more helpful. It indicates the precise mechanism by which the actual
+transfer of assets is effected: if the auctioneer can give the items
+away at will, it happens automatically; otherwise e merely put under
+an obligation to do so. Where the asset can already be transferred
+away, the procedure is explicitly specified and there are no concerns
+with respect to R2125. The obligation, on the other hand, clearly
+contemplates the possibility that the Auctioneer is restricted in eir
+ability to transfer the assets away. In such a case, no mechanism is
+provided and the Auctioneer is left to do it on eir own.
+
+This is exactly the bootstrapping situation I discussed above. In the
+case of zombie auctions, where there are no other mechanisms for
+transfer, the only way that the condition in R2551 could be met for a
+zombie auction is with its own conclusion. And since R2551 implements
+the auction mechanism considered by R2545, attempting to include the
+latter rule into the picture does not resolve the circularity. It only
+widens the circle slightly: R2545 provides a mechanism because R2551
+implements an actual mechanism, therefore a lot up for auction can be
+transferred because R2545 provides a mechanism to transfer lots up for
+auction, therefore R2551 implements an actual mechanism because the
+lot up for auction can be transferred.
+
+## Conclusion
+
+In conclusion, this is a typical example of the rules say I do without
+saying how, therefore I do, which has plagued Agora for a long time
+but possibly not for as long as I say I do, therefore I do has.
+
+Were this CFJ not trivial, I would nonetheless judge it FALSE.
+
+Suggested annotations:
+- On R2125: "This rule is an interpretive principle applied to the
+rules as a whole and not to any individual rule. For a method to be
+explicitly specified, it must actually specify a way that the action
+can be realized; it is not enough that a rule claims there is a
+method. Circular reasoning cannot be used to permit an action or to
+provide a method."
+- On R217: "The 'text of the rules', for the purposes of Rule 217, is
+the text of the rules as actually written, as augmented by the
+semantic content of applicable definitions. Substituting definitions
+into the text of a rule cannot eliminate unclarity caused by ambiguous
+grammar or other linguistic aspects."
+
+P.S. Here's a link to CFJ 3403, which I didn't use in this judgment,
+but wasn't in the archive:
+https://www.mail-archive.com/agora-business@agoranomic.org/msg26252.html
+
+==========================================================================

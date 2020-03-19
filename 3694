@@ -1,0 +1,141 @@
+===============================  CFJ 3694  ===============================
+
+      It is generally IMPOSSIBLE for a zombie to be transferred to the
+      winner of a lot in a zombie auction.
+
+==========================================================================
+
+Caller:                        twg
+
+Judge:                         D. Margaux
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    11 Jan 2019 02:04:05
+Assigned to D. Margaux:                           20 Jan 2019 13:52:21
+Judged FALSE by D. Margaux:                       20 Jan 2019 13:52:21
+
+==========================================================================
+
+Judge D. Margaux's Arguments:
+
+I judge this CFJ FALSE for the reasons I have previously given regarding
+this CFJ and CFJ 3693.
+
+[Arbitor's Note: "reasons previously given" are in the below conversation]
+
+
+From D. Margaux:
+
+The CFJ is FALSE, because a necessary implication of the Rules is that
+Agora CAN transfer a zombie pursuant to a properly initiated Rule 1885
+zombie auction.
+
+Under Rule 2545 (power=2), “An Auction is a way for entities to give
+away items in exchange for a currency.”  By necessarily implication,
+if a Rule with high enough power authorizes some player to initiate an
+auction with a particular item as a lot, then that Rule also
+necessarily authorizes that player to initiate a process that would
+“give away [that] item[] in exchange for a currency.”  That’s what an
+auction _is_ under the Rules.
+
+Under Rule 1885 (power=2), at the start of the month, “the Registrar
+CAN put [a] zombie [that meets certain conditions] (along with any
+other zombies that fulfill the same conditions) up for auction.”  By
+necessary implication, read in conjunction with Rule 2545, that means
+that a zombie can be transferred pursuant to that auction. Otherwise
+it wouldn’t be an auction at all—a way of transferring an item for
+currency. It would be something else entirely.
+
+This interpretation is consistent with the best interests of the game
+and ordinary language. There’s no reason to adopt a contrary
+interpretation, which would break auctions and zombies.
+
+
+Response from twg:
+
+Well this is an interesting argument. The implication would seem to be
+that rules can redefine what other rules mean. I.e., in this case,
+there is a rule that says there is a process by which zombies can be
+transferred as part of an auction, so there is such a process, even
+though the rules that are supposed to define the process technically
+don't.
+
+I think this argument doesn't work because, according to the FLR, CFJs
+1911-1914 set the precedent that "Physical realities supersede the
+Rules by default" - in this case, the physical reality that no rule
+defines a process for zombie transferral overrides the rule that says
+zombie transferral is possible, somehow, as part of an auction. But
+I'm not confident enough in that interpretation to judge the case.
+
+
+Response from Ørjan:
+
+The content of the Rules surely must be the exact opposite of what 
+"physical reality" refers to in those judgements?
+
+
+Response from twg:
+
+All right, I'll concede the text of the rules is technically a
+"physical" reality. But if, say, we had a rule saying "All rules begin
+with the word 'Tangelo'.", a statement which is manifestly untrue (at
+least at present), surely that should not be interpreted as a
+requirement to play the game _as if_ every rule began with the word
+"Tangelo". (Perhaps it could be interpreted as a redefinition of the
+word "rule", but then it would need to be at least power 3, to
+override rule 2141.) I think the logic is similar.
+
+
+Response from D. Margaux:
+
+> The implication would seem to be that rules can redefine what other
+> rules mean.
+
+This does seem to me to be one reasonable approach to interpreting a
+code of rules—to interpret a provision in light of provisions in other
+rules, in a manner that tries to harmonize the rules into a consistent
+whole. That might feel reasonable to me because it’s a common
+discursive move in the area of my specialty (law). People from other
+backgrounds might find it less satisfying or reasonable, though, which
+could be an example of the sort of diversity of interpretive method
+that I think can be very cool about Agora.
+
+> But if, say, we had a rule saying "All rules begin with the word
+> 'Tangelo'.", a statement which is manifestly untrue (at least at 
+> present), surely that should not be interpreted as a requirement to
+> play the game _as if_ every rule began with the word "Tangelo".
+> (Perhaps it could be interpreted as a redefinition of the word "rule",
+> but then it would need to be at least power 3, to override rule 2141.)
+> I think the logic is similar.
+
+In this hypothetical, i can see several approaches:
+
+Maybe the Tangelo Rule would have no effect if it were contradicted by
+a higher powered rule (e.g., Rule 105, which purports to be the “only
+mechanism by which rules can be created, modified, or destroyed, or by
+which an entity can become a rule or cease to be a rule”).
+
+Absent a contradictory higher powered Rule, I think the Tangelo Rule
+(1) could invalidate any lower powered Rule that does not begin with
+Tangelo, on the theory that it wouldn’t actually be a Rule, or (2)
+alternatively, it could cause us to insert the word “Tangelo” at the
+beginning of any lower powered Rule, on the theory that the lower
+powered Rule, qua Rule, must include the word “Tangelo” at the start.
+And for higher powered Rules, we might either (1) insert “Tangelo” at
+the start (if that does not affect the functioning of the higher
+powered rule) or else (2) ignore the Tangelo Rule altogether (because
+contradicted by higher powered Rules).
+
+I suppose we could also just decide that the Tangelo Rule states an
+untrue fact about the world and therefore has no effect, but that
+approach seems to me to be in tension with Rule 217: “When
+interpreting and applying the rules, the text of the rules takes
+precedence.” Simply disregarding as factually wrong a
+high-enough-powered Tangelo Rule, I think, would give precedence to
+something other than the text of the rules.  Maybe.
+
+==========================================================================

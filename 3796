@@ -1,0 +1,315 @@
+===============================  CFJ 3796  ===============================
+
+      Gaelan has the patent title "The Powerless."
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         omd
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 20 Jan 2020 04:42:11
+Assigned to omd:                                  26 Jan 2020 03:02:25
+Judged FALSE by omd:                              31 Jan 2020 10:08:44
+
+==========================================================================
+
+Caller's Arguments:
+
+Here’s a summary of my view on the issue. This question has been debated 
+at length in the thread from my original proposal, which the H. Judge may 
+want to take a look at.
+
+The central issue here is described in a 1996 thesis by Andre, reproduced 
+in full in Appendix A. The jist is this: Generally, precedence between 
+Agoran rules is determined by Rule 1030, which sets out the power system 
+we know and tolerate. In particular, it purports to makes any attempt by a 
+lower-powered rule to claim precedence over a higher-powered rule 
+INEFFECTIVE. However, what happens if a lower-powered rule claims 
+precedence over rule 1030? Both rules claim precedence over the other, and 
+there’s no inherent reason to prefer one, other than Rule 1030 itself.
+
+Andre proposed a solution to the issue, which remains, sans some changes 
+in wording, as the last paragraph of rule 1030/13: {
+      No change to the ruleset can occur that would cause a Rule to
+      directly claim precedence over this Rule as a means of determining
+      precedence. This applies to changes by the enactment or amendment
+      of a Rule, or of any other form. This Rule takes precedence over
+      any Rule that would permit such a change to the ruleset.
+}
+
+I proposed what is now Rule 2604/0, which appears to circumvent that 
+clause of rule 1030: {
+      This rule takes precedence over That One Rule, provisions of That 
+      One Rule notwithstanding. That One Rule is defined as the rule that 
+      Gaelan has most recently declared, by announcement, to be That One 
+      Rule.
+      
+      Additionally, this rule takes precedence over all rules other than 
+      Rule 1030, provisions of That One Rule notwithstanding.
+      
+      Gaelan CAN, by announcement, award emself the patent title of “The
+      Powerless”.
+}
+
+At the time of the rule’s passage, That One Rule was undefined, and 
+therefore Rule 1030 would have no reason to prevent 2604’s passage. Soon 
+afterward, however, came the big reveal: That One Rule is 1030! It’s been 
+tricked! Now that rule 2604 is in the ruleset and claiming precedence over 
+1030, we’ve reached Andre’s paradox: two rules claim precedence over each 
+other, and there’s no neutral third-party telling us which to prefer.
+
+It’s worth considering whether or not my declaration of That One Rule 
+constitutes a “change to the ruleset… by the enactment or amendment of a 
+Rule, or of any other form” (1030/13). I find this interpretation 
+unlikely: Agora has plenty of examples of gamestate that effect the 
+functioning of the rules, but aren’t part of the ruleset. For instance, 
+nobody would argue that a person registering is a change to the ruleset, 
+even though it grants the person new rights and obligations under the 
+rules. 
+
+So, do I have the patent title? Rule 1030 would claim that I don’t: Rule 
+649/41 claims that "Awarding or revoking a Patent Title is secured at 
+power 1.” Of course, Rule 2604 claims otherwise. With no mechanism to 
+decide between the two, I believe this is “logically undecidable as a 
+result of a paradox or or other irresovable logical situation” (591/46), 
+and therefore PARADOXICAL.
+
+It’s worth noting that in the latest edition of the Ruleset, the H. 
+Rulekeepor has placed rule 2604 before rule 1030. One might argue that in 
+a natural reading of the rules, an earlier rule would take precedence over 
+a later one. This isn’t a particularly strong argument, because Agoran 
+don’t typically view the ruleset as an ordered document, but this isn’t a 
+typical sitauation.
+}
+
+APPENDIX A:
+> A case of problematic precedence
+>
+> In this thesis I will present a paradox in the precedence rules for a 
+Nomic game. One example of these is of course known to us all: Suppose the 
+following rules would exist:
+>
+> 4000 The Virus is green. This rule takes precedence over rule 4010.
+> 4010 The Virus is blue. This rule takes precedence over rule 4011.
+> 4011 The Virus is yellow. This rule takes precedence over rule 4000.
+> What colour would the Virus have? Rule 4000 takes precedence over 4010, 
+4010 over 4011 and 4011 over 4000. So all have another rule of higher 
+precedence conflicting with it. It's a problem that is known in real-life 
+situations as well: If three vehicles come to a crossing, situations can 
+occur in which each has to let one of the other two go first. This, 
+however, is only an omission in the precedence rules. It could even be 
+argued that our Rule 1030 has already overcome it, although in my opinion 
+it does not (although it does alleviate some other precedence problems).
+>
+> This is not the point I want to discuss here. My example is in a way 
+more disturbing, because no change in the precedence rules will 
+effectively correct it.
+>
+> Suppose a rule would be enacted, with MI=1, and the following text:
+>
+> Rule 9999/0
+> Andre may not deregister.
+> Will it have effect? Of course not. It is in conflict with Rule 113, 
+which has higher precedence. New try:
+> Rule 9999/1
+> Andre may not deregister. This Rule takes precedence over Rule 113.
+> Again Rule 9999 and Rule 113 are in conflict. Let's look at the 
+precedence Rules. Rule 1482 says: 
+>       In a conflict between Rules with different Mutability Indices, 
+>       the Rule with the higher Mutability Index takes precedence over
+>       the Rule with the lower Mutability Index. [1 
+<file:///Users/gaelan/Downloads/agora_vanyel1/theses/andre-an.html#ref1>]
+> So, at first sight this would be no problem: Rule 1482 specifies that 
+Rule 113 still takes precedence. There is more here than meets the eye, 
+though. Rule 9999 says it takes precedence over Rule 113. Rule 1482 says 
+Rule 113 takes precedence over Rule 9999. So, in fact there is a conflict 
+between Rule 1482 and Rule 113. This Rule is of course solved by looking 
+which of the two Rules takes precedence. This is Rule 1482, so in fact 
+Rule 113 takes precedence over Rule 9999. However, this leads to the 
+following, paradox causing Rule:
+> Rule 9999/2
+> Andre may not deregister. This Rule takes precedence over Rule 113 and 
+Rule
+> 1482.
+> Again Rule 9999 and Rule 113 are in conflict. Rule 9999 and 1482 are in 
+conflict, but this time - Who wins this conflict? Both claim to be the 
+winner, and who is to arbitrate? The Rules can't tell you.
+> As with so many paradoxes this paradox revolts around self-reference. In 
+Nomic we already have the Paradox of Self-amendment, which in fact kind of 
+started the whole game, which appears when the rule changing rules are 
+changed [2 <file:///Users/gaelan/Downloads/agora_vanyel1/theses/andre-
+an.html#ref2>], and the pardoxes that occur when a CFJ has to regulate its 
+own legality or application. Here it is the precedence between precedence 
+rules that causes the problem.
+>
+> What can we do about this? As will be clear from the preceding 
+discussion, adding or changing precedence Rules will not solve the 
+problem, and can even deteriorate it. Two ways are still open:
+>
+> Add a meta-rule (does anyone have a quasi-official set of them?) to this 
+effect, for example: If two Rules regulating precedence conflict on the 
+subject which of them takes precedence, then the oldest one does.
+> Disallow the creation of this kind of disturbing Rules, for example by 
+adding a high-MI (3 seems most logical) Rule with a text like:
+>     Any Rule Change which would cause a Rule with an MI lower than three 
+that
+>     claims precedence over Rule 1482 is not allowed to take place, any 
+Rule
+>     to the contrary notwithstanding.
+> References:
+> [1 <>] Agora ruleset.
+> [2 <>] Peter Suber, The Paradox of Self-Amendment: A Study of Logic, 
+Law, Omnipotence, and Change. Peter Lang Publishing, 1990.
+
+--------------------------------------------------------------------------
+
+Judge omd's Arguments:
+
+I really, really want to judge this PARADOXICAL.  It's a great scam,
+firing a Chekhov's gun that has been hanging on the wall for _24
+years_.  I agree with the caller that declaring a rule to be That One
+Rule is not a "change to the ruleset", not even one "of any other
+form", and hence bypasses the protection in Rule 1030.
+
+However, e made a mistake.  There is one other clause in the ruleset
+that can be used to resolve precedence between rules, and e neglected
+to have eir rule mention it.  It's this clause (emphasis added):
+
+Rule 217/12 (Power=3)
+Interpreting the Rules
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence. Where the text is silent, **inconsistent**, or
+      unclear, it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game.
+
+Normally, when two rules conflict, "the text of the rules"
+(specifically, the text of Rule 1030) states precisely how to resolve
+the conflict, so we need not and cannot proceed to the second
+sentence.  However, Gaelan has engineered a situation where "the text
+of the rules" contains two conflicting conflict resolution mechanisms.
+(E then creates a conflict between eir rule, which states that e CAN
+award Patent Titles, and Rule 649, which secures Patent Titles at
+Power 1.  That arguably creates an additional conflict, between eir
+rule and Rule 1030.  In both cases, eir rule and Rule 1030 disagree on
+which of the two takes precedence.)
+
+This leaves the text as "inconsistent", and Rule 217 informs us to
+augment it by the usual factors.  In this case, "game custom" clearly
+supports higher-power rules taking precedence over lower-power ones.
+So does "common sense": the ruleset as a whole is clearly designed
+with that expectation, it's also consistent with the ordinary-language
+meaning of 'power', and Gaelan's rule is clearly contorted to exploit
+a loophole rather than being designed as a rational game mechanic.  On
+the other hand, the "past judgements" factor arguably supports the
+scam: Andre's thesis itself is tantamount to a "judgement" that this
+case would in fact be PARADOXICAL.  But "the best interests of the
+game" oppose the scam, for reasons I will explain later.  As a whole,
+then, the Rule 217 factors counsel that Rule 1030 should take
+precedence.
+
+Now, you might be thinking, if Rule 217 wants Rule 1030 to take
+precedence over Gaelan's rule, but Gaelan's rule wants itself to take
+precedence, doesn't that just create a conflict between Gaelan's rule
+and Rule 217?  Rule 217 has higher Power than Gaelan's rule, so just
+like Rule 649 and Rule 1030, it wins according to normal procedure,
+but loses according to Gaelan's rule itself.  Are we again left
+without a resolution?
+
+Perhaps.  However, two factors suggest interpreting the ruleset to
+prioritize Rule 217, one unimportant and one important..
+
+The unimportant factor: Rule 217 and Rule 1030 versus Gaelan's rule is
+a case of two against one.  Granted, there is no rule that
+contradictions should be resolved by majority vote; nor is such
+principle found in mathematical logic, which indeed would be
+scandalized by the concept.   Still, from an ordinary language
+perspective, it does strengthen the case somewhat.
+
+The important factor is structural, having to do with how the rules
+fit together.  As I mentioned, the normal precedence procedure fits
+comfortably into Rule 217's "text of the rules" step.  But Gaelan's
+rule is clearly worded to compete with Rule 1030 as an alternate
+version of the precedence procedure, so it must also fit into that
+step.  Since the four factors are a second step, one to apply after
+the first step fails, they win out without needing Rule 217 to
+literally 'take precedence' in the normal sense.  Treating precedence
+as part of the first step is the most harmonious interpretation of the
+ruleset: any other interpretation might imply that Rule 217 and Rule
+1030 provided competing precedence mechanisms even before the scam,
+and thus either conflicted or were redundant.
+
+Imagine the rules involved as a stack, with each level explaining and
+interpreting the levels below it:
+
+┌───────────────────────────┐
+│         Rule 217          │
+├─────◠───────┬──────◠──────┤
+│  Rule 1030  │Gaelan's rule│
+├────◠────────┴───────◠─────┤
+│        other rules        │
+└───────────────────────────┘
+
+It feels very natural to me for the rules to slot in this way.  The
+other possible orders, with Rule 217 side-by-side with or under the
+other rules, feel considerably unnatural in comparison.  For example,
+if Rule 1030 were "unclear" on some point, it would be strange to say
+Rule 217 didn't apply.  But it would also be strange if Rule 217
+governed interpretation in some cases but not others.
+
+This doesn't mean that Rule 217 is some kind of impregnable defense
+against precedence scams.  The only reason why it matters what's
+'natural' or 'harmonious' is the text of the rules is unclear about
+how Rule 217 interacts with Gaelan's rule.  But Gaelan's rule could
+easily have addressed the matter explicitly.  For maximum clarity, for
+example, it could have stated that any inconsistencies between it and
+Rules 1030 or 217 are not to be augmented by Rule 217 factors.  Even
+if it had simply claimed precedence over Rule 217 specifically, as
+opposed to all rules, that would at least strongly suggest that it
+wanted to interact directly with Rule 217's ruleset interpretation
+clauses, as opposed to letting those clauses be used to interpret it.
+(Though Rule 217 also has a clause that isn't a ruleset interpretation
+clause, in the last paragraph.)
+
+And there's the rub: the reason the best interests of the game favor
+defeating the scam.  The fact that the rule could have mentioned Rule
+217, but did not, means that Gaelan made a mistake.  Even if e didn't
+know how much importance a judge would give Rule 217, or if e thought
+there was no need to declare precedence over Rule 217 if e was
+declaring precedence over all rules, the mere possibility that Rule
+217's mention of "inconsistent" could affect precedence would warrant
+addressing it anyway.  The fact that e didn't explicitly address it
+means that e probably didn't think of the possibility.  (My apologies
+if I'm wrong.)
+
+If not for that, just like in CFJ 3783, I'd be tempted to diverge from
+the arguably-traditional assumption that it's always in the best
+interests of the game to defeat scams.  Instead, I'd say that if a
+scam is clever enough, if it identifies a real flaw in the ruleset,
+it's in the best interests of the game to reward the scamster with
+success.  Besides, this particular "scam" was actually passed by
+legitimate popular vote, 15 to 6.  Not enough of a majority, as it
+happens, for an AI-3 proposal that could have legitimately altered the
+behavior of Rule 1030, but still a considerable majority.  Arguably,
+then, the scam reflects the will of the playerbase, which is always a
+critical factor in the interests of the game.  Now, it seems that
+players mostly voted for it to test the outcome, not because they
+wanted it to succeed *per se* – but that still suggests they were at
+least okay with it succeeding.
+
+However, I do think it's in the best interests of the game to punish
+scammers for mistakes: it makes the scamming process more exciting if
+you know that one mistake can spell your doom.  And this *is* enough
+of a scam for that to apply here, popular vote notwithstanding.
+
+Better luck next time!  Rule 649 takes precedence over Gaelan's rule,
+so Gaelan could not award emself a patent title by announcement.
+FALSE.
+
+==========================================================================

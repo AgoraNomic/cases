@@ -8,6 +8,7 @@
 Caller:                        Murphy
 
 Judge:                         omd
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Murphy:                                 28 Dec 2019 20:01:45
 Assigned to omd:                                  12 Jan 2020 19:12:43
+Judged FALSE by omd:                              23 Jan 2020 09:55:17
 
 ==========================================================================
 
@@ -24,5 +26,112 @@ This is concerning whether the following message was a public message:
 
 https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
 official/2019-December/013298.html
+
+--------------------------------------------------------------------------
+
+Judge omd's Arguments:
+
+Based on my timeline of events [1], the message in question was sent a
+week after Gmail had started rejecting most or all list messages, and
+a few hours before I started changing settings in an attempt to
+address the situation.  Convenient, since my tweaks muddled things for
+the next few days even more than they had been.
+
+One potential complication is that, due to Murphy's email domain's
+strict DMARC policy, e is the sole player who already had the From
+header of eir messages rewritten to agoranomic.org – the same measure
+that I eventually enabled for all senders, in order to end the
+Troubles for now. [2] However, when I did that, I also added SPF and
+DKIM records for agoranomic.org and enabled outgoing message signing,
+since Gmail's error message had complained about missing
+"authentication information".  That appears to have made the
+difference.  In the case of Murphy's earlier message, it doesn't seem
+that From rewriting alone was enough to satisfy Gmail.  The message
+doesn't appear in my own Gmail account, and if I'm reading my server
+logs correctly (they're unfortunately not clear about which message is
+which, something I've since improved), Gmail did reject all copies of
+the message with the same error as everyone else's messages.
+
+So, the facts are:
+- The mailing list server received Murphy's message without issue,
+shortly after e sent it.
+- At that time it was added to the archive, and queued for delivery to
+each non-digest subscriber.
+- It appears that delivery to everyone *not* using Gmail succeeded as 
+usual.
+- But the majority of players use Gmail, whose mail server rejected
+most or all copies of the message.
+
+In other words, the message successfully left Murphy's "technical
+domain of control" (a term from past judgements), but never entered
+most players' technical domains of control.
+
+This is fairly close to the situation in CFJ 1905 [3]:
+
+> comex cites CFJ 1314, which appears to set the precedent that a
+> message sent to a Public Forum is public, even if it is sent from
+> an unsubscribed address and thus fails to be relayed.  However,
+> Rule 478 did and still does require public messages to be sent
+> /via/ a Public Forum, or to all players with a clear designation
+> of intent to be public.  (In other words, the precedent implied by
+> CFJ 1314 was incorrect, but was not recognized as such until now.)
+>
+> Based on common sense and the best interests of the game, I
+> interpret "sent via a Public Forum" as requiring the Public Forum
+> in question to re-send the message to a reasonably large subset of
+> the set of all persons who have reasonably arranged to receive
+> messages via that Public Forum.  Thus, a message that is initially
+> blocked, but subsequently approved by the Distributor and re-sent,
+> would qualify as public.  (The "reasonably large subset" clause is
+> to avoid disqualifying messages due to a hiccup involving just one
+> or a few subscribers.)
+
+The one difference is that in that case, the mailing list made no
+attempt to relay the message to others (because it was sent from a
+non-subscribed address), whereas in the present case the list tried
+but was rebuffed.  Now... the judgement makes a distinction between
+messages "sent to" a forum and "sent via" the forum; by the same
+principle, you could argue that the copies of the message were "sent
+to" Gmail but not "sent via" Gmail.  And yet, by the literal wording
+of the judgement, the Public Forum is only required to re-send the
+message "to" a reasonably large subset of subscribers!
+
+But that's being overly literal.  Or even if you do interpret the
+judgement that way, that just means the judgement is wrong in this
+specific case, as it failed to consider the possibility of re-sent
+messages being rejected.  The same R217 factors cited in the
+judgement, "common sense and the best interests of the game", clearly
+counsel in favor of requiring the re-sending to succeed.
+
+On the other hand: what if, as a scam, a significant fraction of
+players arrange to intentionally block messages from the forum?  Could
+they thereby prevent all list messages from being public?  I'd say no,
+as that would mean they had no longer "reasonably arranged to receive
+messages", no different from if they had unsubscribed.  On the other
+hand, merely using an email provider with an overzealous spam filter
+(Gmail) is not tantamount to unsubscribing.  After all, the delivery
+issues *were* fixable (even if the From line is less useful for the
+time being).  And it clearly wouldn't be in the interests of the game
+to disregard deliverability for the majority of players!
+
+To sum up, Murphy's message was not a public message because it was
+not "sent via" the list to a large-enough subset of subscribers.
+Therefore no election was initiated at that time.  FALSE.
+
+[1] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+discussion/2019-December/056067.html
+
+[2] Incidentally, I still see that as a temporary measure.  I planned
+to wait a few weeks before trying to turn it off again, and it's now
+been four weeks, so it's around time.  But rather than just flipping
+the switch and risking another outage, I plan to hack up my mail
+server to *automatically* handle rejections by retrying with a
+rewritten From address.  That way, if it turns out that Gmail hasn't
+resumed trusting my server enough to 'forge' messages from other
+domains, or if it decides to distrust it again in the future, messages
+will still get through with the rewritten address.  It may be another
+week or two before I get around to implementing this.
+
+[3] https://faculty.washington.edu/kerim/nomic/cases/?1905
 
 ==========================================================================

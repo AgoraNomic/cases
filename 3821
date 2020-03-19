@@ -1,0 +1,81 @@
+===============================  CFJ 3821  ===============================
+
+      twg is both Speaker and Prime Minister.
+
+==========================================================================
+
+Caller:                        Publius Scribonius Scholasticus
+
+Judge:                         Alexis
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Publius Scribonius Scholasticus:        01 Mar 2020 14:33:27
+Assigned to Alexis:                               03 Mar 2020 00:24:43
+Judged FALSE by Alexis:                           09 Mar 2020 14:49:27
+
+==========================================================================
+
+Caller's Arguments:
+
+twg deputised for the Prime Minister and it was not noted as a
+temporary deputisation, therefore e became Prime Minister. However, e
+also made emself Speaker. One of these was not possible, according to
+R2472, which states, "Rules to the contrary notwithstanding, a player
+CANNOT be installed into an office if doing so would make em
+Overpowered." However, if one of these wasn't possible, then the other
+was. This seems to create a paradox.
+
+However, R103 says:
+     If the Prime Minister is emself Laureled, eir power to appoint a
+     Speaker continues for the entirety of a message in which e resigns as
+     Prime Minister, and if e is the only Laureled player, e CAN void that
+     power, and thereby discharge the obligation to use it, by announcing
+     that e declines to take the office.
+
+This is interesting because it doesn't specify that the Prime Minister
+must end the message out of the office, so it is possible that this
+message qualified since it included a resignation from the Prime
+Minister.
+
+
+Caller's Evidence:
+
+On Sun, Mar 1, 2020 at 9:05 AM Timon Walshe-Grey wrote:
+>
+> I resign Tailor. I deputise for Tailor to grant Alexis 19 coins for eir
+> Emerald Glitter (awarded Feb 27, after the Notary election). I award
+> myself Cyan Glitter for deputising for Tailor.
+>
+> I perform the following actions 200 times: {
+>     I resign Tailor. I deputise for Tailor to grant myself 10 coins for
+>     my Cyan Glitter. I award myself Cyan Glitter for deputising for
+>     Tailor.
+> }
+>
+> I give CuddleBeam 1000 coins. I act on CuddleBeam's behalf to pay 1000
+> coins to win the game. I appoint CuddleBeam Speaker. I award CuddleBeam
+> a Platinum Ribbon.
+>
+> I pay 1000 coins to win the game. I resign Prime Minister and then
+> deputise for Prime Minister to appoint myself Speaker. I award myself a
+> Platinum Ribbon and Cyan Glitter.
+>
+> -twg
+
+--------------------------------------------------------------------------
+
+Judge Alexis's Arguments:
+
+R2160 is quite clear in excluding its own application ("other than by
+deputisation"). I don't see how the plain meaning of the text of the
+rules can have any other reasonable interpretation. R2160 only looks
+at whether the player could, in its hypothetical, perform the action
+or not. It does not care why. In the hypothetical where twg was also
+PM, e could not appoint emself Speaker by R2472. Therefore e cannot
+deputise to do it.
+
+==========================================================================

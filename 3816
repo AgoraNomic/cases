@@ -1,0 +1,146 @@
+===============================  CFJ 3816  ===============================
+
+      The Arbitor is REQUIRED to grant Gaelan 5 coins by announcement
+      for the judgement of CFJ 3806.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         twg
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     14 Feb 2020 21:04:12
+Assigned to twg:                                  19 Feb 2020 15:23:27
+Judged FALSE by twg:                              19 Feb 2020 18:46:26
+
+==========================================================================
+
+Caller's Arguments:
+
+On January 29, R2496 read as follows [0]:
+
+>    Each time a player fulfills a reward condition, the officer
+>    associated with the condition CAN once, and SHALL in an
+>    officially timely fashion grant the associated set of assets to the
+>    player.
+[...]
+>      * Judging a CFJ that e was assigned to without violating a time
+>        limit to do so: 5 coins (Arbitor).
+
+On February 9, Gaelan judged CFJ 3806 (without violating a time limit).  
+However, because R2496 did not contain the phrase "by announcement", it 
+was REQUIRED but IMPOSSIBLE for the Arbitor to make this grant.
+
+On Feb 13, Proposal 8311 [1] both (a) fixed the by-announcement problem in 
+R3496, and (b) granted rewards to everyone who should have earned them 
+(such as Gaelan for CFJ 3806).
+
+HOWEVER, Proposal 8311 did not explicitly remove the Arbitor's requirement 
+to grant the reward in question, nor did the proposal make it true that 
+the "officer made the award once following the condition" - the proposal 
+just made it POSSIBLE to meet the REQUIREMENT, and the proposal, not the 
+officer, is what granted the reward.
+
+So:  Is the Arbitor still required to make the award?  This question would 
+apply to all rewards that were granted due to Proposal 8311.
+
+[0] I'm not sure that version of R2496 appears in a published SLR, it is 
+the results of proposals 8295 and 8304, found here:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+official/2020-January/013387.html
+
+[1] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+official/2020-February/013430.html
+
+--------------------------------------------------------------------------
+
+Judge twg's Arguments:
+
+I accept the timeline provided by the caller as true and accurate. To
+summarise:
+
+29 January   Rule 2496 provides that the Arbitor "SHALL in an officially
+             timely fashion" grant 5 coins to the responsible party each
+             time a CFJ is judged, but does not provide a mechanism for
+             doing so.
+
+9 February   Gaelan judges CFJ 3806.
+
+13 February  Rule 2496 is amended to introduce a statement that the
+             Arbitor "CAN once by announcement" grant 5 coins to the
+             responsible party each time a CFJ is judged.
+
+14 February  This CFJ is initiated.
+
+The CFJ was initiated in an officially timely fashion (before the end of
+the next Agoran week) after the judgement of CFJ 3806. Therefore, by the
+text of Rule 2496, the Arbitor was undeniably REQUIRED at the time of the
+CFJ to grant Gaelan 5 coins; this part of the rule was not amended by the
+rule change on 13 February.
+
+However, this REQUIREment is not precisely what is referred to by the
+statement of this CFJ, which asks whether the Arbitor was "REQUIRED to
+grant Gaelan 5 coins _by announcement_" (emphasis mine). This is an
+unusual form of words. Where the rules impose obligations on players to
+perform specific actions, they rarely if ever demand that those actions be
+performed by specific methods, except insofar as it is only POSSIBLE to
+perform them by those methods. Therefore, I believe that the most sensible
+and plausible way to interpret this CFJ is that it is TRUE only if the
+following all hold TRUE:
+
+    (i) the Arbitor was REQUIRED to grant Gaelan 5 coins;
+
+   (ii) it was POSSIBLE for the Arbitor to grant Gaelan 5 coins by
+        announcement; and
+
+  (iii) there existed no other mechanism by which it was POSSIBLE for the
+        Arbitor to grant Gaelan 5 coins.
+
+I have already indicated that point (i) holds; now I examine point (ii).
+
+The caller asserts that the language added to Rule 2496 on 13 February
+made it POSSIBLE for the Arbitor to grant Gaelan 5 coins for this CFJ.
+However, I do not see that this assertion is supported by the rules.
+
+The language in question reads in its essential parts, "Each time a player
+fulfills a reward condition, the officer... CAN once by announcement...
+grant [the reward] to the player." This is presented as simple cause and
+effect: whenever a triggering event (the fulfillment of a reward
+condition) occurs, the rule immediately causes an additional, subsequent
+event (the authorisation of the officer to grant the reward). It is this
+authorisation that makes it POSSIBLE for the officer to grant assets, not
+the mere existence of rule text on the subject.
+
+There is no suggestion here that the rule can retroactively insert an
+event into the game's history. Nor does the rule indicate in any other
+way that, upon amendment, it authorises officers to grant rewards for
+arbitrary past events. Even if there were some ambiguity on this point,
+such an interpretation would be in manifest contravention of the game's
+customs and best interests: it would also apply to the REQUIREment clause,
+obliging the Arbitor to reward the CFJ judgements that occurred prior to
+its enactment. This would be both impossible in the ordinary-language
+sense (because details of many early CFJs have been lost to history) and
+IMPOSSIBLE in the game-sense (because many past judges - perhaps even the
+majority - are no longer players, and ineligible to earn coins).
+
+Consequently, Rule 2496 does not make it POSSIBLE for the Arbitor to grant
+5 coins to Gaelan by announcement. Nor, to my knowledge, does the Arbitor
+hold any other office with which a reward condition is associated. The
+only other circumstance in which the rules authorise the granting of coins
+to a player is when it is that player's Agoran Birthday; however, the most
+recent Registrar monthly report indicates that Gaelan's Agoran Birthday is
+in May, and so it does not apply in this situation. It was therefore
+IMPOSSIBLE at the time of this CFJ's initiation for the Arbitor to grant
+5 coins to Gaelan by announcement.
+
+Point (ii) above having been rejected, there is no need to examine point
+(iii). I judge CFJ 3816 FALSE: the Arbitor is REQUIRED to grant Gaelan 5
+coins, but e CANNOT do so by announcement, so e is not REQUIRED to grant
+Gaelan 5 coins by announcement.
+
+==========================================================================

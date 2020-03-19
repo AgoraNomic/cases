@@ -8,6 +8,7 @@
 Caller:                        Jason Cobb
 
 Judge:                         G.
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Jason Cobb:                             01 Jan 2020 18:07:12
 Assigned to G.:                                   12 Jan 2020 21:35:33
+Judged FALSE by G.:                               19 Jan 2020 20:44:10
 
 ==========================================================================
 
@@ -50,5 +52,95 @@ via a Public Forum", and can take by announcement actions. The enclosed
 message fulfills the requirements for random choices because it has a
 uniform distribution and was not predictable by Murphy at the time that
 e sent the message to the forum.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The facts:  Murphy sent a message "to" (not "via") a public forum (PF) on
+22-Dec-19.  Due to fora delivery difficulties, a significant number of
+player subscribers did not receive it, though it appears in the mailman
+archives.  It's uncertain, and unlikely given the current discussion and
+standing precedent (subject to CFJ 3787), that the initial sending was 
+sent "via" the forum at that time, so the message would not be considered 
+a public message in the days immediately following 22-Dec.
+
+On 1-Jan-20, Caller Jason Cobb forwarded the message to the PF, claiming
+that this effectively "completed the delivery" of the message.  So 
+following that forwarding, the original message had been "sent via the 
+public forum".
+
+Without delving into SMTP (out of my depth), on one hand this is 
+reasonable, as it is conceptually similar to how messages move across the 
+internet. Jason Cobb served as a router that detected that certain packets 
+hadn't been received (due to error messages received from other players) 
+and simply re-sent the packets.  If we forbid this kind of thing, we'd 
+literally be forbidding internet-based communication.
+
+Further, let's say the Distributor wrote a script - e sets up a dummy 
+email account that's subscribed to the list, and if a message hits the 
+archives but doesn't show up in the email account after a certain amount 
+of time, the distributor's script automatically mungs the headings and re-
+sends it.  I think we would accept that without much blinking (it may play 
+havoc with message timing, but that's another matter).
+
+However, the difference is that this "router" of the message was a natural
+person and subject to choice and free will about re-sending the particular
+message.  This is evidenced by the fact that there were many messages in
+that time window that could have been re-forwarded, and only one was 
+chosen by Jason Cobb.
+
+Agoran precedent holds that inserting elements of free will (i.e. natural
+persons) generally "makes a difference" as to how things function.  In
+particular, CFJ 1895 found that, whether or not free will "actually" 
+exists (the subject of much of western philosophy so we won't solve that 
+here) an important Agoran axiom is that we play under the legal fiction 
+that each person is a unique "source of free will" and can't "become" 
+another person (e.g. no avatars, no direct taking over) unless the rules 
+supply a direct and explicit method for doing so.
+
+R478 defines a public message:
+>     A public message is a message sent via a public forum, or sent to
+>     all players and containing a clear designation of intent to be
+>     public. A rule can also designate that a part of one public
+>     message is considered a public message in its own right. To
+>     "publish" or "announce" something is to send a public message
+>     whose body contains that thing.
+
+Note that this text says nothing about the sender.  It doesn't say "a 
+person publishes or announces something by..." but is kept in the passive 
+tense. In the next paragraph of R478, "by announcement" actions pay 
+attention to the sender and state that the sender is the actor.  But for 
+publishing messages in general, there's no such stipulation.  This text 
+defining a public message is silent as to the identity of the sender, and 
+whether forwarding a message changes the identity of the sender.
+
+As the rules are silent, we turn to precedent, game custom, common sense,
+and the good of the game.  And, without going through this point-by-point, 
+I assert that, given our precedents on free will, technical domain of 
+control, and consent - that the sender of the message is the person (i.e. 
+exerciser of free will) who touched it (i.e. exercised free will on its 
+path) last.
+
+So in this case, in forwarding the message via the forum, Jason Cobb 
+wasn't the delivery agent of a message sent "via the forum by Murphy".  
+Instead, Jason Cobb sent (and was the sender) of a message, "on behalf of" 
+Murphy.
+
+Nothing in R478, on its own, precludes sending messages on others' behalf,
+so in a "deep definition of the forum in R478" sense, this might be
+acceptable under some circumstances (e.g. Murphy specifically asks Jason
+Cobb to forward on a message).  However currently, "act on behalf" 
+messages are governed by R2466, and in particular this:
+
+>                             a person CANNOT act on behalf of another
+>      person to send a message, only to perform specific actions that
+>      might be taken within a message.
+
+Therefore, this message was legally IMPOSSIBLE to send on behalf of 
+Murphy, and if taken to be performing the actions within the message 
+(setting the Comptrollor), would require Murphy's explicit consent via a 
+contract as per R2466, R2519, and R1742.  Lacking this consent, this court 
+finds FALSE.
 
 ==========================================================================

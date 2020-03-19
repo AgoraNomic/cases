@@ -8,6 +8,7 @@ Caller:                        Aris or G.
 Barred:                        nobody or Aris
 
 Judge:                         omd
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -16,6 +17,7 @@ History:
 Called by Aris (maybe):                           23 Dec 2019 07:27:15
 Called by G. (maybe):                             12 Jan 2020 16:47:30
 Assigned to omd:                                  12 Jan 2020 17:34:15
+Judged TRUE by omd:                               23 Jan 2020 08:34:27
 
 ==========================================================================
 
@@ -58,5 +60,39 @@ to precedent, messages that aren’t received by a substantial number of
 players haven’t been validly sent via the fora. As a test case to see if 
 we’e gonna apply those precedents here, I CFJ "Proposal 8277 identifies a 
 distributed proposal."
+
+--------------------------------------------------------------------------
+
+Judge omd's Arguments:
+
+Per Rule 2034, the message resolving Proposal 8277 [1] has
+self-ratified as an attestation to certain statements, including that
+"such a proposal existed".  Per CFJ 3449, that ratifies the listed
+properties of the proposal, which in this case includes the ID number
+8277 itself.  According to Rule 1607 only distributed proposals have
+ID numbers.  Thus, if Proposal 8277 was not actually distributed, the
+minimal modification to the gamestate "to make the ratified document
+as true and accurate as possible" would be to establish a legal
+fiction that Proposal 8277 was distributed.
+
+Note that I long assumed that the past was not part of the "gamestate"
+at all, and could not be altered by ratification.  Instead, I assumed
+that ratification merely altered the present gamestate to 'what it
+would be' under a hypothetical timeline where the ratified document
+was true.  Under that interpretation, ratification wouldn't affect the
+outcome of any pending CFJs, because it wouldn't change "the facts and
+legal situation at the time the inquiry case was initiated" (R591).
+It also wouldn't affect CFJs that explicitly refer to the past.
+However, these days we have a precedent that ratification does create
+legal fictions about the past.  Presumably these should be used
+wherever the Rules inquire about the past; I see no exception for
+CFJs.
+
+TRUE.
+
+Hopefully the other CFJ lets me resolve the *real* question. 
+
+[1] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+official/2020-January/013319.html
 
 ==========================================================================

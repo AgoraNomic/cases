@@ -1,0 +1,107 @@
+===============================  CFJ 3797  ===============================
+
+      Coming into existence is a regulated action.
+
+==========================================================================
+
+Caller:                        Jason Cobb
+
+Judge:                         G.
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by Jason Cobb:                             22 Jan 2020 03:21:01
+Assigned to Falsifian:                            26 Jan 2020 03:04:55
+Falsifian recuses emself:                         28 Jan 2020 23:16:38
+Assigned to G.:                                   08 Feb 2020 21:24:44
+Judged DISMISS by G.:                             08 Feb 2020 21:41:15
+
+==========================================================================
+
+Caller's Evidence:
+
+
+CFJ 3772.
+
+
+Rule 2125:
+
+>       An action is regulated if: (1) the Rules limit, allow, enable, or
+>       permit its performance; (2) describe the circumstances under which
+>       the action would succeed or fail; or (3) the action would, as part
+>       of its effect, modify information for which some player is
+>       required to be a recordkeepor.
+
+
+Rule 2350: "A player CAN create a proposal by announcement, specifying
+its text and optionally specifying any of the following attributes [...]".
+
+Rule 2166: "An asset's backing document can generally specify when and
+how that asset is created, destroyed, and transferred."
+
+
+Caller's Arguments:
+
+Arguments for TRUE:
+
+{
+
+In CFJ 3772, on whether "Existing is a regulated action", H. Judge G.
+found that "Changes in existence state (e.g. ceasing to exist) are
+indeed actions". Coming into existence is a change in existence state
+and is therefore, by precedent, an action.
+
+Because coming into existence is an action, it can be a Regulated Action
+under Rule 2125. The Rules regulate how certain entities can come into
+existence. For instance, the rules "enable" proposals to come into
+existence when a player creates them, since, without that clause, there
+would be no way for a person to create a proposal. Similarly, the rules
+allow backing documents to specify how assets can come into existence;
+this clause "allows" and "enables" assets to come into existence; these
+examples show how the action of coming into existence satisfies
+condition (1) of Rule 2125.
+
+Condition (2) also applies in this case, as Rule 2350 specifies that
+attempting to create a proposal without specifying certain
+characteristics would fail.
+
+}
+
+Arguments for FALSE:
+
+{
+
+The entity coming into existence is not performing an action, since it
+doesn't yet exist to perform that action, so the Rules regulating the
+creation of things only regulate the action of the creation, and not the
+action of the entity coming into existence.
+
+}
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First to clarify, an action has a subject and an object.  Phrased in the
+passive voice focuses on the object coming into existence (without mentioning
+the subject) but this statement is identical to asking if creating an object
+is a regulated action.  Simply put:
+
+* If the object coming into existence is an "Agoran object" (i.e. something
+defined by the rules as per R1586) then the answer is TRUE.
+
+* If the object is wholly non-Agoran (e.g. a widget from a widget factory) the
+answer is FALSE.
+
+* If the object is an external object that has Agoran properties attached to
+it (e.g. a natural person who has a default Citizenship switch upon birth)
+then the "coming into existence" isn't regulated per se, but some of the
+follow-on consequences of existence are (e.g. assigning a switch value).
+
+I judge DISMISS (insufficient information exists as it depends on the object
+in question).
+
+==========================================================================

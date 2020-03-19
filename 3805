@@ -1,0 +1,85 @@
+===============================  CFJ 3805  ===============================
+
+      G really ought to make sure the string <script>window. onload=()=>
+      {(window.location.href.includes('?'))?window.
+      location.href=`https://m.youtube.com/watch?v=oHg5SJYRHA0` :a=[`I
+      GUESS`,`PROBABLY`,`WHO KNOWS`,`OH GOD, DEFINITELY NOT`,`DON'T ASK
+      ME`,`THE ONLY REAL ARGUMENT IN FAVOR OF THIS IS WISHFUL
+      THINKING`,`A TYPICAL EXAMPLE OF "I SAY I DO, THEREFORE I DO",
+      WHICH HAS PLAGUED AGORA FOR A LONG TIME`,`IF YOU SAY
+      SO`];document.querySelectorAll(`.hist b`
+      ).forEach(x=>x.innerHTML=a[Math.floor(Math.random()*a. length)])}
+      </script> doesn’t adversely affect eir archive.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         Aris
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 31 Jan 2020 19:20:26
+Assigned to Aris:                                 31 Jan 2020 20:36:36
+Judged TRUE by Aris:                              07 Feb 2020 04:45:59
+
+==========================================================================
+
+Judge Aris's Arguments:
+
+The caller's arguments for TRUE are so very convincing that I'll reproduce 
+them in full in quotes below.
+
+""
+
+Now, after having heard such excellent and detailed arguments from the 
+caller, one might ask whether there is anything of substance left for a 
+judge to say on the matter. However, on account of their level of 
+verbosity, I conclude that some elucidation might be warranted.
+
+Surely, anyone who has not read paragraph 11A of the arguments cannot know
+the poetic fashion in which e shows the dangers of attacks such as the one 
+presented in this case. I shall point out though that a person less 
+gracious than the caller might have used the vulnerability the caller 
+shows for far less benign purposes, such as phishing, or exploitation of
+the archive user's computer. Surely, even the faintest possibility of such 
+harm to innocent Agorans must not be tolerated.
+
+Further, I will point out the grace with which the caller delivers eir
+point that the Arbitor is already ENCOURAGED by Rule 2143 to maintain
+a copy of eir reports on the World Wide Web. Many lesser officers would 
+not do so, and indeed, the Arbitor is due great respect for maintaining a
+publicly accessible archive of almost all past judicial cases and their
+arguments. Nevertheless, I cannot disagree with even one statement made
+by the caller about how the Arbitor's virtue in maintaining the archives
+at all cannot excuse em from eir duty of care towards their users.
+
+I have attached an exhibit[0] showing the current state of the archives.
+This exhibit is so fundamental to my arguments that I do not think they
+can be construed without it, and so I beg that it be included on the court
+record for future historians to see.
+
+[0] https://faculty.washington.edu/kerim/nomic/cases/3805_ExA.png
+
+Finally, I must come to the matter of my verdict. There are a number of
+verdicts I could consider in this case. Firstly, I might DISMISS the
+case because the statement is malformed. While having HTML formatting in
+a statement is unusual, it doesn't render the statement unparsable, so 
+DISMISS is inappropriate. The statement clearly presents no paradox, so I 
+cannot adjudge it PARADOXICAL. With such a clear record before me (the 
+verbosity of the caller's arguments notwithstanding), I could hardly enter 
+a ruling of INSUFFICIENT. Finally, I will note that the state of the 
+Arbitor's archives has a distinct impact on gameplay, through its effect 
+on the ease with which players are able to consult the wise precedents 
+that Agoran history has provided us with, leading me to conclude that the 
+case is not IRRELEVANT. I am restricted only to the possibilities of TRUE 
+and FALSE. The statement appears considerably more TRUE than FALSE (who 
+could claim that the Arbitor *shouldn't* fix a vulnerability in eir 
+archives?).
+
+Accordingly, TRUE.
+
+==========================================================================

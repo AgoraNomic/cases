@@ -10,7 +10,8 @@
 Caller:                        Aris
 Barred:                        Falsifian
 
-Judge:                         Alexis
+Judge:                         Jason
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -18,6 +19,11 @@ History:
 
 Called by Aris:                                   01 Jan 2020 07:02:48
 Assigned to Alexis:                               12 Jan 2020 20:07:17
+Alexis recused:                                   19 Jan 2020 02:49:10
+Assigned to Jason:                                26 Jan 2020 02:55:15
+Judged FALSE by Jason:                            01 Feb 2020 23:10:15
+Motion to Reconsider filed by Jason:              02 Feb 2020 00:05:36
+Judged TRUE by Jason:                             08 Feb 2020 19:17:23
 
 ==========================================================================
 
@@ -115,5 +121,73 @@ history of changes to that switch. The only difference here is that
 it's the other way around: rather than the switch being flipped
 without a change to its history, the history is changed without a
 change to the value of the switch.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Aguements:
+
+In this judgement, I will use the "effective date" as listed in the
+document, and the "modification date" as "Dec 14 00:15:00 UTC 2019".
+
+Rule 1551/20 states that
+
+       When a document or statement (hereafter "document") is ratified,
+       rules to the contrary notwithstanding, the gamestate is modified
+       to what it would be if, at the time the ratified document was
+       published, the gamestate had been minimally modified to make the
+       ratified document as true and accurate as possible; however, if the
+       document explicitly specifies a different past time as being the
+       time the document was true, the specified time is used to determine
+       the minimal modifications. Such a modification cannot add
+       inconsistencies between the gamestate and the rules, and it cannot
+       include rule changes unless the ratified document explicitly and
+       unambiguously recites either the changes or the resulting properties
+       of the rule(s). If no such modification is possible, or multiple
+       substantially distinct possible modifications would be equally
+       appropriate, the ratification fails.
+
+
+First, I find that Rule 1551's clause about "multiple substantially
+distinct possible modifications" being equally appropriate does not apply;
+I believe that exactly one of Falsifian's offered interpretations must be
+platonically correct, and that interpretation must therefore be more
+"appropriate" than the other interpretations. So, the ratification did not
+fail for this reason.
+
+Next, we must consider what changes happen if "the gamestate had been
+minimally modified to make the ratified document as true and accurate as
+possible [on the effective date]."
+
+In this case, the changes are relatively simple. The primary change is that
+"At [the modification date], the fora agora-official and agora-business
+became discussion fora." By the definition of "to become X" in Rule
+2162/13, this means that the Publicities of the two Fora were flipped to
+Discussion at the modification date. So, the gamestate would be modified at
+the effective date by 1) changing the value of both Publicity switches to
+Discussion, since nothing had flipped them in the intervening second and 2)
+updating the historical record between the modification date and the
+effective date.
+
+Falsifian suggests that it would be more minimal for the gamestate to be
+changed only by updating the historical record. I find that this would be
+less "true and accurate" to the document than flipping the switch and
+including all consequences of the switch being flipped, and so is not what
+happens. E also suggests that only updating the value of the switches at
+the modification date, and not any later time (thus causing the switches to
+revert back to Public). Although this would mean that less of the
+historical record has to be updated, this would again be less "true and
+accurate" to the document, which does not at all suggest that it inserts
+additional historical events into the record that revert what it has
+already done.
+
+Now, we must consider what the current gamestate would be if the previous
+description was true at the effective date. This would include 1) updating
+the history back to the modification date, and through to the present, and
+2) since nothing else had flipped the publicity of either forum (until the
+hypothetical second document was ratified), would flip the values of the
+Publicity switches to Discussion in the present.
+
+These events are consistent with what the caller labels interpretation a.
+TRUE.
 
 ==========================================================================

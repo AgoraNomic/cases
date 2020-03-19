@@ -8,6 +8,7 @@
 Caller:                        Alexis
 
 Judge:                         G.
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Alexis:                                 12 Jan 2020 08:24:30
 Assigned to G.:                                   12 Jan 2020 21:27:32
+Judged FALSE by G.:                               14 Jan 2020 17:11:18
 
 ==========================================================================
 
@@ -64,5 +66,117 @@ if officers could publish self-ratifying reports that aren't about the
 present; an officer could conceivably make a report that was stealthily
 about some point in the past, and thereby allow em to move changes in the
 information they track "back in time" if this was not caught and doubted.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The Promotor's specific Proposal Pool report is defined in R1607:
+>     The Promotor's report includes a list of all proposals in the
+>     Proposal Pool, along with their text and attributes. This portion
+>     of a public document purporting to be a Promotor's report is
+>     self-ratifying.
+
+Of particular interest for this case is the phrase "a public document
+purporting to be".  This is a common phrase used for self-ratifying
+documents.  The important thing here is that, to publish a report, the 
+Rules don't require the Officer to display intent, e.g. to say "I hereby 
+publish the following report" as they would if they were publishing a 
+report "by announcement".  Rather, the rules require that the person 
+simply "publish all the information".  It's the document itself that 
+purports that it's a report, not the direct expression of the Officer's 
+intent.
+
+It's important not to interpret this "ability to purport" too broadly.  
+Part of the purpose of this language is so that uncertainty in the 
+identity of the Officer doesn't undo the self-ratification (a protection 
+put in place due to the Annabel Crisis).  However, it's a double-edged 
+sword.  If a simple list of switches (without being labelled as a report) 
+is taken "purport" to be a self-ratifying document, then we'd be in a bit 
+of trouble. We'd have to watch every statement we made in public about a 
+switch (whether quoted, or part of a judgement, or whatever) to ensure it 
+didn't self-ratify.
+
+To that end, this Court finds that, in order for a document to "purport" 
+to be a Report, it must contain sufficient evidence of the publisher's 
+intent, that the specific publication be a self-ratifying report (and if a 
+report is by definition self-ratifying, any document that does not contain 
+such intent is not, by definition, the self-ratifying report).  To give 
+discretion to the Officer, the purporting can take multiple forms - a 
+clear heading of "Report", within-message delimiters, a new subject line, 
+or if it's a quoted message a "TTTTPF", etc.
+
+H. Promotor Aris's style of Promotor Pool report has, for some time, been 
+a single sentence inserted with a proposal distribution, tucked within the
+distribution itself.  (e.g. "the proposal pool is empty" [0]) without
+delimiters separating from the distribution.  At some times in the past,
+when I've noticed that a proposal I wrote was missing from the 
+distribution, it has been confusing for me to figure out which part of the 
+"distribution document" to CoE.  However, as long as the Pool was empty, 
+and the statement was a clear statement of fact about the time of 
+publication, it (just barely, IMO) qualified as the Proposal Pool report.
+
+[0]
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+official/2019-November/013238.html
+
+However, in the current situation, the single sentence is:
+> The proposal pool contained only the above proposals at 4:30 AM UTC
+> on Wednesday the 8th of January, 2020.
+
+This included backdated information, referred to information that was
+"outside the quote" (e.g. part of the Distribution) so did not clearly
+delimit the "document".  To me, it could just have easily been read as a
+comment e.g. "Remember that I'm not required to distribute more recent
+proposals so please don't CoE the distribution".  Only the context of
+knowing the Promotor's habits makes it clear that this was some attempt at 
+a Report.
+
+Therefore, as it is a messy, backdated, out-of-order thing, and since, for
+the good of the game, we should limit the scope of what "purports to be a
+report", this Court finds FALSE.
+
+To be clear, this judgement is a technicality - simply encapsulating that
+statement as "Promotor's Report" would lead to a different result by 
+setting out a clear intent (or rather a "clear purporting").  If it were
+so-encapsulated, we could then proceed to ask the question of how to deal
+with the back-dating.  Agoran judicial traditions would probably allow me 
+to opine on that here, but I'll only go partway down that road.
+
+We have not required information in a report to be "platonically correct" 
+to constitute a report - some inaccuracies are ok.  CFJ 3462 notes "the
+standard is that the purported report has to exhibit gross sloppiness and
+negligence, equivalent in severity to lying in the report or not 
+publishing it." to be disqualified.  [Side note: it may be worth noting 
+that this is a repeat argument, in CFJ 3462, it was Alexis who was arguing 
+that a report must be perfect to be a report, and the judge who found 
+differently was Aris].
+
+Accidentally missing a few days (within the rules-mandated maintenance
+period, e.g. weekly) is generally not rising to this level of negligence.
+Further, applying the "negligence" standard should be done case-by-case, 
+but I believe that being honest within the report, e.g. a statement such 
+as "This report does not contain the past 2 days of transactions for 
+[reasons]" does not automatically prevent it from being a report.
+
+The real question is if a (properly delimited) report is back-dated, 
+what's appropriate for CoEs?  BOTH of the following approaches are 
+somewhat reasonable:
+
+1.  "COE:  The date on the report is wrong, and it's also missing
+[transactions of the last 2 days]."
+
+2.  "No CoE, because the Report was accurate on the indicated date".
+
+This is a very interesting question, and seems to be the focus of case
+discussion, but to answer that I'd rather deal with an actual report that
+does not fail on a technicality, as various detail aspects (e.g. how the
+date is specified) might matter, and I don't want to make up a bunch of
+hypothetical reports.  I think that stretches judicial discretion a bit,
+even in Agora.  So for now I'll leave it as saying that honest statements
+(e.g. "this statement is missing [X transactions]"), if they don't rise to
+the level of negligence (e.g. are limited to issues within the weekly
+reporting period or issues subject to ongoing CFJs etc.) do not
+automatically disqualify such a document from being a report.
 
 ==========================================================================

@@ -1,0 +1,167 @@
+===============================  CFJ 3795  ===============================
+
+      Falsifian would have won the game in the below message if e had
+      originally specified intent to win by apathy without objection.
+
+==========================================================================
+
+Caller:                        Aris
+Barred:                        Falsifian
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   19 Jan 2020 21:56:58
+Assigned to Gaelan:                               25 Jan 2020 20:40:47
+Gaelan Recused:                                   14 Feb 2020 19:45:21
+Assigned to G.:                                   14 Feb 2020 19:56:56
+Judged FALSE by G.:                               14 Feb 2020 19:56:56
+
+==========================================================================
+
+Caller's Evidence:
+
+[the "below message" of the cfj statement]
+
+On Sun, Jan 19, 2020 at 1:46 PM James Cook wrote:
+>
+> Sigh. My message stated the wrong method (with notice rather than
+> without objection). I withdraw the CFJ I just called.
+>
+> On Sun, 19 Jan 2020 at 21:36, James Cook <jcook@cs.berkeley.edu> wrote:
+>>
+>> On Thu, 9 Jan 2020 at 16:27, James Cook <jcook@cs.berkeley.edu> wrote:
+>>> I intend, with notice, to Declare Apathy, specifying myself.
+>>>
+>>> --
+>>> - Falsifian
+>>
+>> (With apologies and thanks to Jason Cobb.)
+>>
+>> This message serves three purposes.
+>>
+>> First, I'm delivering the above-quoted message, which I sent on
+>> January 9, to a public forum.
+>>
+>> Second, (disclaimer: this may not work) I Declare Apathy, specifying
+>> myself.
+>>
+>> Third, I call a CFJ: With this message, I won the game.
+>>
+>> Arguments:
+>>
+>> I think the main question here is whether I successfully performed an
+>> action with notice under Rule 2595. Conditions 1 and 3 of Rule 2595
+>> are the interesting ones: did I publish an announcement of intent
+>> between 4 and 14 days preceding the date of this message?
+>>
+>> I sent my notice of intent to the players of Agora in two steps:
+>> first, through myself, and then, through agora-business in this
+>> message. So, I have sent it via both myself and a public forum. Since
+>> it was sent via a public forum, it is a public message under R478, so
+>> under R478, I have announced it. This satisfies condition 1 of Rule
+>> 2595.
+>>
+>> (In eir recent judgment of CFJ 3790, G. found that when Jason Cobb
+>> delivered Murphy's message, e did not cause it to be sent via a public
+>> forum, but Jason Cobb and Murphy being two distinct people was central
+>> to that argument.)
+>>
+>> In order to satisfy Condition 3 of Rule 2595, my announcement of
+>> intent must have been published between 4 and 14 days before now. I
+>> attest that I sent the message in question (to myself) on January 9,
+>> which is between 4 and 14 days before now. Since R478 says that to
+>> "publish" something is "to send a public message...", it seems clear
+>> to me that I published it when I originally sent it (i.e. January 9);
+>> the date on which it was delivered to the public forum doesn't enter
+>> into this definition.
+>>
+>> (If announcing intent were an action, I'd be on even stronger ground,
+>> since R478 explicitly says an action is performed at the time
+>> date-stamped on the message.)
+>>
+>> - Falsifian
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+Remember that we're talking about a forward.  We give TTTPF messages the 
+date stamp of the forward, not the original.
+
+
+Gratuitous Arguments by Aris and G.:
+
+On Thu, 23 Jan 2020 at 05:53, Aris Merchant wrote:
+> On Wed, Jan 22, 2020 at 9:44 PM Kerim Aydin wrote:
+>>
+>>
+>> On 1/22/2020 8:13 PM, James Cook wrote:
+>>> On Thu, 23 Jan 2020 at 02:11, Aris Merchant wrote:
+>>>> Why are we reading the date-stamping to refer to the date-stamp of 
+the
+>>>> original message? I would think it obvious that the relevant message 
+is the
+>>>> one to the public forum, not the original one which wasn’t to the 
+public
+>>>> forum.
+>>>>
+>>>> -Aris
+>>>
+>>> I think this is tricky. I haven't thought about it too carefuly, but
+>>> here's a possible argument for saying it should be the date stamp on
+>>> the original message.
+>>
+>> A while back (several years now) there were distribution issues, and to 
+make a
+>> point ais523 (I think) forged a date header so that a message showed up 
+in the
+>> forum with a backdate of several years.
+>>
+>> It was generally agreed that, technically speaking, the date used 
+should be
+>> the stamp (typically buried in the full headers) on which the message 
+reaches
+>> the forum.  This takes care of a lot of this sort of nonsense.
+>>
+>> However, it's a simple fact that, it would be beyond a reasonable 
+effort for
+>> officers, in recordkeeping timestamps, to have to dig for said headers, 
+given
+>> that most mail clients hide this data and display the send date.
+>>
+>> The uneasy compromise we reached was something like "the send date 
+(most
+>> commonly displayed) is, prima facie, the stamp of record.  However, if 
+there
+>> are significant gaps between that date and the listserv arrival date 
+(that
+>> comes to light if messages don't show up for a while), using the 
+listserv
+>> arrival date is warranted."
+>>
+>> Not perfect at all.  Naturally this leads to some discrepancies/issues 
+e.g. if
+>> bids come in seconds before an auction ends but aren't delivered until 
+an hour
+>> afterwards.  But it would take care of this current issue somewhat.
+>
+> I'd add that this sort of approach is backed up by decade old
+> precedent; see CFJ 2205.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+I judge CFJ 3795 FALSE.  If you
+forward a message to yourself, then later forward it to the forum, the
+operative timestamp is when it left your control for the forum (i.e.
+the timestamps of the forwarded message).   This is similar to sending
+something to the DF, then forwarding it with a TTTTPF - the time used
+is the time of the forwarding.
+
+==========================================================================

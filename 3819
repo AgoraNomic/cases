@@ -1,0 +1,167 @@
+===============================  CFJ 3819  ===============================
+
+      Gaelan submitted a bid in the February zombie auction, or would
+      have done so if the auction existed.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         R. Lee
+Judgement:                     IRRELEVANT
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 20 Feb 2020 19:35:09
+Assigned to R. Lee:                               03 Mar 2020 00:23:54
+Judged FALSE by R. Lee:                           03 Mar 2020 00:53:45
+Motion to Reconsider filed by R. Lee:             03 Mar 2020 01:06:57
+Judged IRRELEVANT by R. Lee:                      03 Mar 2020 01:06:57
+
+==========================================================================
+
+Caller's Evidence:
+
+My messages:
+
+https://www.mail-archive.com/agora-business@agoranomic.org/msg35639.html: 
+{
+I bid n coins in this auction, where n is 1 higher than the current 
+highest bid. (AFIAK, this is 16 if CB’s bid worked and 13 if it didn’t.)
+}
+
+https://www.mail-archive.com/agora-business@agoranomic.org/msg35640.html: 
+{
+Crap, Jason’s bid came in as I was writing this message. […]
+I retract my 52-coin bid, and bid n coins, where n is one higher than the 
+current SECOND highest bid.
+}
+
+
+Falsifan’s arguments (submitted by the Caller): 
+
+Note that I am assuming here that Gaelan did not bid in the auction,
+since I believe e did not meet R478's standard of "...clearly
+specifying the action", since the precise values of eir bids depended
+on whether Cuddle Beam successfuly bid, and also on realizing that
+Jason had not successfully bid, which we only figured out later. If
+anyone is interested in calling a CFJ on this, e may want to link it to
+the CFJ I called today ("Rance's master switch is set to Agora.”).
+
+
+Caller's Arguments:
+
+Falsifian claims that my actions are invalid due to their conditional 
+nature. I believe this is a dangerous reversal of precedent.
+
+As Falsifian notes, R478/37 states that a person performs an action by 
+announcement "by unambiguously and clearly specifying the action and 
+announcing that e performs it.” “Clearly” is a relative term, so therefore 
+the rules are (ironically enough) “unclear” (R217/12) as to what exactly 
+that means, and therefore we fall back to the four factors. 
+
+I believe my actions were straightforward conditional actions, conditional 
+on the current gamestate (even if the current game state is not currently 
+known), of the sort that Agorans use all the time, usually without any 
+trouble. Therefore, game custom supports TRUE.
+
+The use of actions conditional on unknown state are a valuable tool for 
+resolving ambiguities in the game state. Therefore, the best interests of 
+the game support TRUE.
+
+The ability to make conditional actions is admittedly not obvious from the 
+text of the rules, so there is a “common sense" argument to be made for 
+FALSE. However, game custom and the best interests of the game are so 
+overwhelmingly in support of TRUE that I believe common sense loses out 
+here.
+
+“Past judgements” are surprisingly hard to find—I looked through most 
+judgements of the past decade containing the keyword “conditional”, and 
+the few that addressed the legality of conditional by-announcement actions 
+simply acknowledged their legality in passing. Specifically:
+* The judgement of CFJ 3505 implies that by-announcement actions 
+conditional on the past are fine, and even goes on to rule that sometimes 
+future conditionals can be OK.
+* The judgement of CFJ 3486 states (in passing) that {Actions may be 
+conditional, but the conditions must be resolvable using the gamestate at 
+the time the action was taken.}
+* The judgement of CFJ 3479 states that "I submit the following proposal 
+if it has no formatting errors” doesn’t work, but implies that conditional 
+actions generally do.
+* The judgement of CFJ 3270 states {
+However, it has generally
+been accepted that a player can, in reasonable circumstances, indicate 
+that
+they wish to perform a sequence of actions conditional on the entire 
+sequence
+succeeding; *this is especially convenient if the gamestate is in 
+question.*
+} (emphasis mine)
+* The judgement of CFJ 2971 is an exception, stating that { "I register if 
+some player is currently Rulekeepor", where the occupancy of the office in 
+question is under CfJ, should not work since it is not clear. }. There are 
+several things worth noting about this:
+  * It does state that conditional registration generally works.
+  * The actual question of the CFJ was about a different conditional, 
+which was judged to work; the “Rulekeepor” example was simply part of the 
+arguments. Therefore, it may not have faced much scrutiny.
+  * Registration is not by announcement (then or now), but it uses similar 
+phrasing that at least appears to be more permissive than normal by-
+announcement actions.
+  * This case is from 2011, which predates my Agoran involvement; 
+therefore, I have no idea what the customs around conditional actions were 
+at the time.
+Therefore, I believe that past judgements broadly support TRUE as well.
+
+--------------------------------------------------------------------------
+
+Judge R. Lee's Arguments:
+
+The statement of this CFJ asks about the legality of a certain zombie
+auction bid. Per CFJ 3817, that zombie auction never happened. Whether 
+that bid _would_ have been valid or not is still an open question, but the 
+game state would be identical between the worlds of that bid's 
+hypothetical validity and invalidity. So I judge CFJ 3819 IRRELEVANT.
+
+For the sake of not answering the well-argued important issues, below is
+the reasoning I would have used were I to judge the truth of the question.
+
+1 - Gaelan attempted to bid on a zombie auction an amount that is "n 
+coins, where n is one higher than the current SECOND highest bid". The 
+issue is whether this bid, if the auction is valid, is itself valid.
+
+2 - Agora has a long history of conditional actions, the legal source for
+which is the definition of an action by announcement. A player may take an 
+action by announcement by clearly stating that e does so, which leaves
+room for conditionals that reasonable Agorans can clearly comprehend. The
+specific action here is a bid. To quote rule 2550, "A person authorized to 
+bid on an Auction CAN do so by announcement, specifying the amount of the 
+Auction's currency to bid". If a player "clearly and unambiguously" 
+announces that e bids, that's only one part of the story. E also needs to 
+specify the amount of the bid in currency.
+
+3 - To "specify" is to "identify clearly and definitely". I find that
+Gaelan did not "specify" an amount of currency in eir bid because a 
+regular Agoran would have to go to some effort to find the amount of 
+currency that e bid, even if the validity of previous bids was not in 
+dispute. The standard here is different from the generic "by announcement" 
+standard. Regular conditional actions by announcement either happen or 
+they don't. If someone announced, for example "I bid 50 coins if Gaelan 
+has bid", the bid either happens or it doesn't, and the governing standard 
+is the general by announcement standard of clarity. But in this case, the 
+_amount_ was conditional. The intent to bid was crystal clear and not 
+conditional, putting it beyond the "by announcement" standard and into the 
+unique realm of rule 2550's mandate to "specify[] the amount of Agoran
+currency". Unlike the dichotomous example of _whether_ or not someone took 
+an action, this rule requires players to pick a number out of the vast, 
+unbounded universe of numerals. Evaluation of Gaelan's bids, requiring 
+(admittedly basic) algebraic skill and further mathematical and legal 
+evaluation of previous numbers, is difficult enough that conditional 
+numbers for auction bids can never count as "specifying".
+
+4- Gaelan did not submit a bid in the Febuary zombie auction, whether or
+not it existed.
+
+==========================================================================

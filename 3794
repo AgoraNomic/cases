@@ -1,0 +1,66 @@
+===============================  CFJ 3794  ===============================
+
+      G. earned 12 coins for earning a blue ribbon for CFJ 3792.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Alexis
+
+==========================================================================
+
+History:
+
+Called by G.:                                     19 Jan 2020 21:01:02
+Assigned to Alexis:                               25 Jan 2020 19:45:59
+Judged FALSE by Alexis:                           25 Jan 2020 20:05:20
+
+==========================================================================
+
+Caller's Arguments:
+
+I judged CFJ 3792 five days ago (earning a blue ribbon), and then I judged
+CFJ 3790 today (earning another blue ribbon).
+
+R2602 reads:
+>      If a player has earned a ribbon in the past 7 days but already
+>      owned it e CAN once (until e earns another ribbon), by
+>      announcement, earn N+1 coins where N is the number of current
+>      players that do not own the same ribbon.
+
+The "once (until e earns another ribbon)" is there, I believe, such that a
+person can't get multiple rewards for the same judgement.
+
+However, it also reads (unintentionally?) as a limit.  If the 
+parenthetical
+is read like this: "CAN once (until e earns another ribbon)", then the
+"until" effects the "CAN", not the "once" and prevents earnings from a
+previous ribbon after a new ribbon is earned.  This seems like a more
+natural reading to me (applying the limitation to the verb).
+
+
+Caller's Evidence:
+
+G. wrote:
+> I earn 12 coins for earning a blue ribbon for CFJ 3790.
+> I earn 12 coins for earning a blue ribbon for CFJ 3792.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Falsifian (speaking as Treasuror):
+
+I had been assuming it worked this way, for the reason you give (i.e. you 
+didn't earn glitter for the CFJ 3792 blue ribbon).
+
+--------------------------------------------------------------------------
+
+Judge Alexis's Arguments:
+
+I judge CFJ 3794 FALSE. Per my reasoning on CFJ 3783: Thus, I find that 
+the the proper interpretation of Rule 2602 is that, when a player earns a
+ribbon that e already owns, that player can gain income for that ribbon 
+one time, but e must do so prior to earning any other ribbons, and within 
+7 days."
+
+==========================================================================

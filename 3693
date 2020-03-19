@@ -1,0 +1,68 @@
+===============================  CFJ 3693  ===============================
+
+      The zombie auction for January 2019 has been terminated.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         None
+Judgement:                     None
+
+==========================================================================
+
+History:
+
+Called by G.:                                     10 Jan 2019 19:17:16
+Withdrawn by G.:                                  11 Jan 2019 03:59:36
+
+==========================================================================
+
+[Arbitor's Note:  This case was assigned a number, but in discussion was
+realized to be trivially FALSE (see Gratuitous Arguments by D. Margaux) so
+was withdrawn before it was assigned to a judge.  Left in the archives for
+the record because it's the only case with this number].
+
+Caller's Arguments:
+
+Flipping the zombie master switch is Secured-2, as per the first sentence
+of R2532. "Transferring" a zombie as the result of an auction is defined
+in Rule 1885 (also power-2) as a flip of the master switch, however
+there's nothing there that explicitly says that the Auctioneer CAN make
+the transfer/flip (i.e. there's nothing that says that Agora CAN flip the
+switchas the result of the auction). If the auctioneer CANNOT, then my
+announcement above terminated the auction as per R2552.
+
+
+Caller's Evidence:
+
+On 1/10/2019 10:51 AM, D. Margaux wrote:
+
+> I initiate a zombie auction, with the following lots (each zombie a
+> separate lot) ordered as follows (highest-bid first):
+>
+> 1.  L
+> 2.  nichdel
+> 3.  Telnaior
+>
+> Agora is the Auctioneer, and the Registrar is the Announcer. The
+> currency is Coins with a minimum bid of 1.
+
+--------------------------------------------------------------------------
+
+D. Margaux's Gratuitous Arguments:
+
+Oh no!
+
+Telnaior has a resale value of 0. As a result, I believe this attempt to
+initiate an auction is invalid under any interpretation of the rules. In 
+particular, under Rule 2549, "An Auction also CANNOT be initiated unless
+the Auctioneer is able to give away each item in each of the Auction's
+lots", and under Rule 2574 "A zombie with a resale value of 0 CANNOT have
+eir master switch flipped to a player other than emself, rules to the
+contrary notwithstanding."
+
+As a result, I think it is trivially correct that the below was an
+INEFFECTIVE attempt to start an auction.
+
+==========================================================================

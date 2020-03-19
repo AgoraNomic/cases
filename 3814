@@ -1,0 +1,117 @@
+===============================  CFJ 3814  ===============================
+
+      Falsifian was awarded a Red Ribbon today.
+
+==========================================================================
+
+Caller:                        twg
+Barred:                        Falsifian
+
+Judge:                         Alexis
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    14 Feb 2020 17:59:36
+Assigned to Alexis:                               19 Feb 2020 15:22:22
+Judged FALSE by Alexis:                           19 Feb 2020 20:24:09
+
+==========================================================================
+
+Caller's Arguments:
+
+Rule 2438 says:
+
+      Red (R): When a proposal is adopted and changes at least one rule
+      that, immediately before or after the change, has Power >= 3, its
+      proposer earns a Red Ribbon.
+
+i.e., if a proposal does not change a rule, it does not earn its author
+a Red Ribbon, even if it has Power >= 3.
+
+There is some uncertainty about whether Proposal 8308 changed a rule.
+Some time ago (can't find the thread), Alexis asserted that it didn't
+because it was too vague.
+
+The Rulekeepor is probably the best person to rule on this (no pun
+intended).
+
+
+Caller's Evidence:
+
+Falsifian wrote:
+> On Thu, 13 Feb 2020 at 02:18, Jason Cobb wrote:
+>> PROPOSAL 8308 (Imposing order on the order)
+> ...
+>> OUTCOME: ADOPTED
+>
+> I award myself a Red ribbon.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Falsifian
+
+Sorry, I actually forgot what my proposal was about when I claimed the
+ribbon. I just saw AI=3.0 and grabbed at it.
+
+Ironically, I submitted the proposal to avoid anyone having to figure
+out the following issue...
+
+I designed my proposal not to make any changes unless Proposal 8291
+didn't have the desired effect. Here's the relevant part of Proposal
+8291:
+
+> Amend Rule 2350, "Proposals", by adding the following to the list:
+>
+>   * A chamber to which the proposal shall be assigned upon its
+>     creation.
+
+I was concerned it doesn't say where the new entry should go, so that
+provision might not work. However, if that provision did work, I'm
+fairly sure my proposal made no change, so I didn't get a Red ribbon.
+Here's the text of my proposal:
+
+> Title: Imposing order on the order
+> AI: 3.0
+> Text:
+>
+> If Proposal 8291 has been passed, and Rule 2350 does not have the list
+> item "* A chamber to which the proposal shall be assigned upon it
+> creation.", add that list item to the end of the list. If the list
+> item is present, but it is not at the end of the list, or it is
+> unclear or otherwise difficult or impossible to determine where in the
+> list it is, put it at the end of the list.
+
+--------------------------------------------------------------------------
+
+Judge Alexis's Arguments:
+
+The crux of this issue is whether or not Proposal 8291 was ambiguous
+in referring to "add"ing an item to a list. Both Wiktionary and
+Merriam-Webster, however, clearly indicate that "add" can be
+synonymous with "append", without providing any reasonable alternate
+sense which would be applicable here. I thus find that, without any
+other qualification as to where an item is to be inserted in a list,
+to "add" an item means to do so at the end.
+
+I do not find that this rises to the level of ambiguity, because while
+"add to the beginning" may well mean something different (and itself
+be unambiguous), simply because one could insert a prepositional
+phrase does not necessarily add ambiguity when there is a
+clearly-established meaning without it. Indeed, the Rulekeepor felt it
+clear enough to add the text to the end of the rule without further
+comment, before e went back and changed eir mind and submitted a fix
+proposal.
+
+Consequently, Proposal 8291 did indeed insert the text at the end of
+the list, and so Proposal 8308 did not actually make any changes to
+the text of the rules. Proposal 8308's text is clear that, if the
+desired text was where it was supposed to be, it would not attempt to
+amend Rule 2350. There is, accordingly, no need for the court to
+decide if a null amendment would qualify for a Red Ribbon.
+
+This case is FALSE.
+
+==========================================================================

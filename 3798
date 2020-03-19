@@ -1,0 +1,151 @@
+===============================  CFJ 3798  ===============================
+
+      I published a Referee report today.
+
+==========================================================================
+
+Caller:                        twg
+Barred:                        Alexis
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    24 Jan 2020 17:09:47
+Assigned to G.:                                   26 Jan 2020 03:05:45
+Judged TRUE by G.:                                09 Feb 2020 00:11:52
+
+==========================================================================
+
+Caller's Evidence:
+
+I wrote to BUS at 16:44 UTC on 2020-01-24:
+> I impose Summary Judgement by levying a fine of 1 blot on myself (twg).
+> The specific reason for this fine is that it is setting up the
+> conditions for a CFJ.
+
+I wrote to OFF at 17:05 UTC on 2020-01-24:
+> ------------------------------------------------------------------------
+>               The Police Blotter (Referee's Weekly Report)
+> ------------------------------------------------------------------------
+>
+> This report:
+>   Published:      2020-01-24
+>   Accurate as of: 2020-01-20 00:00
+>
+> Last report:
+>   Published:      2020-01-14
+>   Accurate as of: (publication)
+>
+> (all times UTC)
+>
+>
+> BLOT HOLDINGS                                            (self-ratifies)
+> ========================================================================
+>
+> Blots    Player
+> -----    ------
+>   2      nch
+>
+> No fugitives exist.
+
+
+Caller's Arguments:
+
+This CFJ is extremely similar to CFJ 3792, except without the technicality 
+that caused it to be judged FALSE.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The Rules do not explicitly define “Officer’s Reports”.  Rather, various rules
+define specific pieces/types of information as being “part of” an Officer’s
+Report (for simplicity, I’m going to assume we’re talking about Weekly reports
+throughout).  R2143 says:
+      An official duty for an office is any duty that the Rules
+      specifically assign to that office's holder in particular
+      (regardless of eir identity).
+And:
+      If any information is defined by the rules as part of that
+      person's weekly report, then e SHALL maintain all such
+      information, and the publication of all such information is
+      part of eir weekly duties.
+
+From this, it is reasonable to infer that publishing all of the rules-defined
+parts [0] of a person’s report, that are assigned to em due to em being a
+particular officer, constitutes publishing that Officer’s Report.  But what
+are the requirements of accuracy and timeliness for each individual “part” of
+the report, in order for it to constitute a report?
+
+The key requirements are “maintain information” and “publish information”.  By
+common definition, to publish information means that the publication must be
+informative.  In an Agoran context, that means:
+
+* Each part must purport to contain the full set of information that is
+rules-defined as being that portion of the report [1];
+
+* Each part must be reasonably-well labelled (so we are informed as to what it
+is) [2];
+
+* The information defined for that part must be fully published (no links
+allowed) within a single document [3].
+
+* As time is an important external input and governing factor for Agora [4],
+information (to be informative) must be clear as to the date and time on which
+it implies.   In the absence of a clear date label within the message, this
+refers to the date of the publication message, but any clearly specified
+past[5] date would qualify.
+
+The above meets the criteria for “publishing” information.  But in addition to
+publishing, the requirement is to “maintain” the information.  “Maintenance”
+means to keep a report in a certain state of accuracy, and in this case, the
+standard for maintenance is in the Rule itself: each part must be up-to-date
+to within the time frame specified for the report (e.g. to the current week
+for weekly).  As long as the specified date (the moment of publication or the
+specified past date) is within the time window, and each part of the report
+meets the standards for accuracy set forth by precedent [6] for the facts on
+that specified date, the criteria of maintenance is met.
+
+The report in question satisfies these criteria, so it is the report it claims
+to be.  TRUE.
+
+[0] https://faculty.washington.edu/kerim/nomic/cases/?3733 found that an
+officer’s report is generally limited to elements that the Rules explicitly
+define to be part of that officer’s report.
+
+[1] https://faculty.washington.edu/kerim/nomic/cases/?3658 found that each
+rules-defined “part of a report” (e.g. a full list of values for a particular
+switch) is the minimum divisible unit, that must be contained wholly within a
+single document, to purport to be that part of the report.
+
+[2] Information is not information, if we don’t know what information it’s
+supposed to be, so some kind of label is needed.
+
+[3] CFJ 3645 found, without much analysis, that publishing a link to
+information would be sufficient.  But it ignored the standing precedent, where
+CFJ 3410 found, on a plain reading of R2143, that a requirement "publish all
+such information" means - well - that you actually need to publish the
+information.  While CFJ 3645 is more recent, it ignored the standing precedent
+without discussion, and is against the plain reading of rules text.
+Therefore, this case finds that CFJ 3645 was an inappropriate judgement and
+CFJ 3410 should remain the standing precedent - no links allowed.
+https://faculty.washington.edu/kerim/nomic/cases/?3410
+https://faculty.washington.edu/kerim/nomic/cases/?3645
+
+[4] See https://faculty.washington.edu/kerim/nomic/cases/?3580 on the
+importance of time as a fundamental (external) governing factor in Agora.
+
+[5] https://faculty.washington.edu/kerim/nomic/cases/?3773 found that
+future-dated reports are inaccurate by nature (too inaccurate to be considered
+a report).
+
+[6] In https://faculty.washington.edu/kerim/nomic/cases/?3462:  Judge Aris
+wrote: “the standard is that the purported report has to exhibit gross
+sloppiness and negligence, equivalent in severity to lying in the report or
+not publishing it” in order to fail to qualify as a report.
+
+==========================================================================

@@ -1,0 +1,96 @@
+===============================  CFJ 3809  ===============================
+
+      CuddleBeam bid in an auction in the quoted message.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 09 Feb 2020 19:04:49
+Assigned to G.:                                   19 Feb 2020 15:20:21
+Judged FALSE by G.:                               26 Feb 2020 23:03:55
+
+==========================================================================
+
+Caller's Arguments:
+
+I could imagine the message being parsed two ways:
+
+A: I bid 15 coins in the action, for the purpose of winning myself
+B: I bid 15 coins in the [nonexistent] auction for myself
+
+If it’s A, CuddleBeam’s bid was probably EFFECTIVE: we include non-
+normative commentary in BUS messages all the time, and we consider actions
+EFFECTIVE even when they obviously don’t do what the actor was trying to
+do.
+
+If it’s B, it’s ineffective, because it’s trying to bid in a nonexistent 
+auction.
+
+
+Caller's Evidence:
+
+On Feb 8, 2020, at 12:29 PM, Cuddle Beam wrote:
+>
+> I bid 15 coins for myself
+>
+> On Sat, Feb 8, 2020 at 6:17 PM James Cook wrote:
+>
+>> This is an unofficial report on the ongoing zombie auction. All times 
+UTC.
+>>
+>> Note: it is not clear that zombie auctions work. It is possible the
+>> winners will not receive their lots but will still be required to pay.
+>> The judgement of CFJ 3793 is expected to address this.
+>>
+>> The auction began 2020-02-06 at 18:23. The earliest it can end (unless
+>> all the lots cease to be zombies) is 2020-02-10 at 18:43, and the
+>> latest it can end is 2020-02-13 at 18:23.
+>>
+>> Lots:
+>>
+>> 1. Trigon
+>> 2. Nch
+>> 3. Cuddle Beam*
+>> 4. Walker
+>> 5. ATMunn
+>>
+>> *Master switch flipped during auction. Per the last paragraph of Rule
+>> 1885, the winner of this lot will not need to pay and will not receive
+>> the lot.
+>>
+>> Bids:
+>>
+>> Amount (Coins)  Bidder      Time (UTC)
+>> --------------  ------      ----------------
+>> 12              Jason       2020-02-06 18:43
+>> 11              Falsifian   2020-02-06 18:25
+>>
+>> - Falsifian
+>>
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Falsifian:
+
+FALSE, since Alexis pointed out in this same thread that this auction was 
+probably never initiated. (This argument assumes zombie auctions don't 
+work, which I think Alexis is planning to find soon in eir judgement of 
+CFJ 3793.)
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The judgements of 3793 and 3817, taken together, have found that the
+auction in question was never initiated.  Therefore I find this
+trivally FALSE.
+
+==========================================================================

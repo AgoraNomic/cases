@@ -1,0 +1,175 @@
+===============================  CFJ 3813  ===============================
+
+      Agora is a contract.
+
+==========================================================================
+
+Caller:                        Cuddle Beam
+
+Judge:                         Gaelan
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Cuddle Beam:                            13 Feb 2020 22:53:54
+Assigned to Gaelan:                               19 Feb 2020 15:21:59
+Judged FALSE by Gaelan:                           04 Mar 2020 06:23:32
+
+==========================================================================
+
+Caller's Arguments:
+
+- CFJ 3706
+- Falsifan's doubts below.
+
+On Thu, Feb 13, 2020 at 5:03 AM James Cook wrote:
+> On Sun, 9 Feb 2020 at 22:04, Cuddle Beam wrote:
+>> Agora, by CFJ 3706, is a contract by nature. It's a contract because of
+>> the way it exists.
+>>
+>> And it's probably still invisible because the Ruleset and all of its
+>> parties (players) still haven't been posted as a *single* publication,
+>> all together ("this publication must include its full provisions and
+>> list of parties, along with a certification or adequate proof of their 
+>> accuracy and completeness"). If it continues to be invisible, it will 
+>> block this thing from ever happening, because it can't destroy Agora as 
+>> part of its effects:
+>>
+>> "When the transitional period is ended, each invisible contract or 
+>> pledge ceases to exist in the order they were created, and then this 
+>> rule amends itself by deleting this paragraph."
+>>
+>> We'd also need "certification or adequate proof for their accuracy and
+>> completeness", which I think the Rulekeepor and Registrar would be
+>> appropriate for.
+>>
+>> What do you guys think?
+>
+> Your arguments make sense to me. However the rules have changed since
+> 3706. I wonder if the new fairly narrow language in R2608 and R1742
+> now mean "contract" is a somewhat narrowly-defined term of art that
+> doesn't include Agora itself? Whether or not that's true now, I'd be
+> in favour of making sure it's true by proposal.
+>
+> - Falsifian
+>
+
+--------------------------------------------------------------------------
+
+Judge Gaelan's Arguments:
+
+CFJ 3813 asks us whether Agora is a contract.
+
+As noted by the caller, CFJ 3706 (Feb 9-14, 2019) asked a similar 
+question. It was judged TRUE by G.
+
+As I see it, the questions before me are:
+1) Was CFJ 3706 judged correctly?
+2) Has there been a change in circumstances since then that would affect 
+that ruling?
+
+I’ll start with the second question. It appears that the version of the 
+rule in question there was 8139/20. (The court admonishes G. for failing 
+to include revision numbers in his rule citations, by the way.) The 
+current rule, 8139/22, is largely similar, with the following changes:
+* Lowered the minimum party count to one.
+* "may make an agreement” -> "may publicly make an agreement”
+* “agreement between parties” -> “consent of all parties” throughout
+* The new stuff about provisions being public and the body/annex 
+distinction
+* A requirement that things be permitted "explicitly and unambiguously”
+* Clarity in wording about asset changes
+
+Nothing here changes the fundamental nature of what a contract is. The 
+addition of “publicly” is closest, but the agreements that form Agora were 
+all (AFAIK) made publicly, so that doesn’t change anything.
+
+Therefore, this CFJ is TRUE iff 3706 was correctly judged TRUE. This 
+leaves open the question of whether I should overturn that judgement. I 
+certainly *want* to—Agora as a contract is unintuitive and inconvenient to 
+deal with as Notary, and results in contract rules applying to Agora, 
+which is weird. But can I?
+
+There is one point in 3706’s logic that at least isn’t clearly to me. I’ve 
+reproduced it below: {
+- R1742 states that “Any group of two or more consenting persons (the
+parties) may make an agreement among themselves with the intention that
+it be binding upon them and be governed by the rules. Such an agreement
+is known as a contract.”  This simply applied the label “contract” to
+this type of agreement.
+
+- Therefore, the “contract” label applies to Agora.
+}
+
+The R1742 quote in question could be interpreted in one of two ways:
+1) It simply describes an existing thing that people can do "may make an 
+agreement among themselves with the intention that it be binding upon them 
+and be governed by the rules” and gives it a name.
+2) It defines a new type of game action (forming a contract), analogous to 
+creating a proposal, calling a CFJ, or any other action that is only 
+possible because a rule defines it as such.
+
+G. went with #1 in his judgement, but did not explain eir decision or 
+address the possibility of the second interpretation within the judgement. 
+Before the judgement, G. initially seemed to believe #2 
+(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+discussion/2019-February/053314.html): {
+Here, contracts are defined by how people MAY create them.   This rule is
+not written retroactively (e.g. "all agreements that people have made in 
+the
+past that fit these criteria are defined as contracts"), but such that it
+takes a specific, initial act of agreement to create contract.  The Rules
+predate this creation mechanism.  And Agora was not re-created by this
+creation mechanism since then.  Therefore it is not a contract, in the 
+R1742
+sense.
+}
+
+D Margaux responded with something vaguely resembling #1 
+(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+discussion/2019-February/053315.html): {
+I don’t see why it needs to have been created as a contract to be a 
+contract. To me, it seems like “contract” is merely a term defined to 
+encompass a certain class of entities (viz., agreements between players 
+that are to be governed by the Rules). That class appears on its face to 
+include Agora itself. Not sure why under the text of the Rule it makes any 
+difference that Agora (and the agreement(s) that created Agora) preexisted 
+the class defined by the Rule. Still seems like Agora is a member of that 
+class of entities.
+}
+
+Personally, I find that the phrase “players may” strongly implies the 
+definition of a game action under a common-sense interpretation (although 
+it is inconsistent with Agora’s usual use of the word MAY). Nevertheless, 
+the fact that players have read it both ways strongly indicates that the 
+rules are “unclear”, so let’s look at the four factors.
+
+Game custom: Contracts specifically have been implemented both ways under 
+various past rulesets, so there’s no strong precedent here. Other entities 
+are also mixed: proposals and CFJs are entities explicitly created by 
+announcement, but pledges and players are written as reflections of real-
+life phenomena.
+Common sense: The players’ common senses seem to be divided on the issue 
+of the interpretation of that specific sentence, but generally the 
+treatment of Agora as a contract is not consistent with common sense—I 
+don’t think a casual reader of the ruleset (if such a thing exists) would 
+consider that Agora might be a contract.
+Past judgements: G’s past judgement here followed interpretation #1, but 
+did not discuss interpretation of that sentence, so I do not weigh it 
+heavily.
+Best interests of the game: Both Agora as a contract, and the general 
+possibility for things to unexpectedly become contracts, are bad for the 
+game. This would require the Notary to duplicate the work (or at least the 
+reports) of both the Rulekeepor and the Registrar, complicating eir work 
+and creating unnecessary noise in the report. It also opens the 
+possibility for many rules to apply to the rules themselves in 
+counterintuitive ways, making the game harder to understand.
+
+All of the factors either are neutral or support interpretation #2.
+
+Therefore, Agora is not a contract, because it was not created by the 
+R1742 mechanism, because it didn’t exist yet. I judge CFJ 3813 FALSE.
+
+==========================================================================

@@ -1,0 +1,161 @@
+===============================  CFJ 3810  ===============================
+
+      It is generally POSSIBLE to act on behalf of a zombie to transfer
+      karma.
+
+==========================================================================
+
+Caller:                        twg
+Barred:                        Alexis
+
+Judge:                         Jason
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    09 Feb 2020 22:58:27
+Assigned to Jason:                                19 Feb 2020 15:20:47
+Judged FALSE by Jason:                            26 Feb 2020 19:24:07
+
+==========================================================================
+
+Gratuitous Arguments by Alexis:
+
+On Sun, 9 Feb 2020 at 17:19, Timon Walshe-Grey wrote:
+> On Bernie's behalf, Notice of Honour:
+> -1 Gaelan (applying the CSS for eir ruleset primarily via arbitrary
+>            emoji. I don't know why you would do this)
+> +1 Jason (having to assess two consecutive large proposal distributions,
+>           including proposals that change voting strengths)
+>
+> -twg
+
+I will be treating this as invalid, per R2510:
+
+> A player CAN publish a Notice of Honour. ... When a Notice of Honour is 
+> published...
+
+and R2466:
+
+> ... A person CANNOT act
+> on behalf of another person to do anything except perform a game
+> action; in particular, a person CANNOT act on behalf of another
+> person to send a message, only to perform specific actions that
+> might be taken within a message.
+
+Since publishing a document an out-of-game action with in-game effect,
+I believe it cannot be done via acting on behalf.
+
+--------------------------------------------------------------------------
+
+Caller's Arguments:
+
+Hmm, interesting one! We've all been doing this for ages without ever
+questioning whether it was actually POSSIBLE. As far as I can tell, the
+earliest usage was by D. Margaux in 2018
+(https://www.mail-archive.com/agora-
+business@agoranomic.org/msg32681.html),
+but nobody CFJed it because we got distracted by a related CFJ from
+Trigon (later withdrawn? can't find any record of it in G.'s archive)
+and an argument between Aris and G. Definitely worth a judgement.
+
+On balance, I'm not sure I agree with your interpretation. The effect of
+a Notice of Honour is "considered to be a 'transfer' of karma" (R2510),
+and asset transfers are undeniably a game action; it would be a bit of a
+stretch to argue that karma transfers are not. So although publication
+itself is excluded from acting-on-behalf, I would argue that karma
+transfers are perfectly kosher, and therefore that "[an] agent CAN
+perform the action in the same manner in which the principal CAN do so"
+(R2466) - i.e. by means of publishing a Notice of Honour.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Aris:
+
+Note that ballots are defined in nearly the same way. Rule 683 says that 
+"An entity submits a ballot on an Agoran decision by publishing a notice 
+satisfying the following conditions:". While the definition is active 
+voice, rather than passive voice, they're otherwise quite similar.
+
+In addition, I really don’t see any significant difference between the
+definition of publishing a Notice of Honor and the definition of acting by 
+announcement. Rule 478 says in relevant part "To 'publish' or 'announce' 
+something is to send a public message whose body contains that thing. 
+[...] Where the rules define an action that a person CAN perform 'by 
+announcement', that person performs that action by unambiguously and 
+clearly specifying the action and announcing that e performs it." Again, 
+everything is defined in terms of out of game messages having in game 
+effects. In short, the only principled distinction I can see is that a 
+Notice of Honor is defined in the passive voice whereas some other 
+definitions are active. Maybe the judge will be able to see a distinction 
+I can't.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+The caller argues that a "transfer" of Karma is an action that a person
+CAN perform by publishing a Notice of Honour. I reject this argument.
+The relevant paragraph from Rule 2510/5 is:
+
+>       When a valid Notice of Honour is published, the entity specified
+>       to gain karma has eir karma increased by one, and the entity
+>       specified to lose karma has eir karma decreased by one. Raising
+>       one entity's karma while lowering another's in this manner is
+>       considered to be a "transfer" of karma.
+
+This never enables any person to transfer karma; all it does is state
+that when some condition is fulfilled, some the karma is transferred,
+without providing any method for a person to perform the transfer
+directly. Put another way, persons have a way to cause a transfer of
+karma without having a way to transfer karma themselves.
+
+Because the transfer modifies Karma information, for which the Herald is
+the recordkeepor, the transfer is a regulated action. This means not
+only do the rules not provide a method to transfer karma, it is
+IMPOSSIBLE for a person to transfer karma without the Rules explicitly
+providing a method.
+
+Since no zombie CAN transfer karma, no person CAN act on behalf of a
+zombie to transfer karma. FALSE.
+
+However, the caller probably intended to ask whether a message such as
+the following would have the intended effect (where Bob is the sender's
+zombie):
+
+    I cause Bob to publish the following Notice of Honour:
+
+    +1 Alice: Existing
+
+    -1 Eve: Existing
+
+Rule 2466/1 states that
+
+> A person CANNOT act
+>       on behalf of another person to do anything except perform a game
+>       action; in particular, a person CANNOT act on behalf of another
+>       person to send a message, only to perform specific actions that
+>       might be taken within a message.
+
+Rule 478/37 states that 'To "publish" or "announce" something is to send
+a public message whose body contains that thing'. Because of this
+definition, it is generally IMPOSSIBLE to act on behalf of another
+person to "publish" information, since that would be acting on behalf to
+send a message, which is prohibited by Rule 2466.
+
+Interestingly, Rule 2510/5 states that "A person CAN publish a Notice of
+Honour"; this does not appear to have any effect, since persons CAN
+already publish most things, though this could be interpreted as making
+a document purporting to be a Notice of Honour an actual, official
+Notice of Honour. I do not rule on this matter here, this is simply on
+observation.
+
+Despite this enabling clause, I find that publishing Notices of Honour
+is still not a game action for the purposes of Rule 2466, since it is
+still inherently publishing information. thus, per Rule 2466, it is
+IMPOSSIBLE. The above hypothetical message would not cause the zombie to
+publish a Notice of Honour.
+
+==========================================================================

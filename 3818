@@ -1,0 +1,65 @@
+===============================  CFJ 3818  ===============================
+
+      Rance's master switch is set to Agora.
+
+==========================================================================
+
+Caller:                        Falsifian
+
+Judge:                         Jason
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Falsifian:                              20 Feb 2020 02:55:26
+Assigned to Jason:                                03 Mar 2020 00:23:23
+Judged FALSE by Jason:                            04 Mar 2020 02:27:06
+
+==========================================================================
+
+Caller's Arguments:
+
+If CFJ 3817 ("Falsifian initiated a zombie auction this month.") is
+false, I think it's clear this is FALSE.
+
+If CFJ 3817 is TRUE, I'm not sure this one is TRUE, since I'm not sure
+whether the quoted message meets Rule 478's standard of "unambiguously
+and clearly ... announcing that e performs it". Since I still don't
+know whether e announced that e performed it, I'm inclined to say
+now.. The precedent in CFJ 1215, pointed out by Alexis last month, may
+be relevant.
+
+
+Caller's Evidence:
+
+On Tue, 11 Feb 2020 at 00:34, Jason Cobb wrote:
+> If there exists an ongoing zombie auction I do the following:
+>
+> {
+>
+> I flip Rance's master to Agora.
+>
+> I bid 51 coins in that zombie auction.
+>
+> }
+>
+> --
+> Jason Cobb
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+FALSE per caller. Game custom suggests that these conditionals work,
+especially when the choice is only binary (either the zombie auction
+existed or it did not). Since the zombie auction did not exist, Jason
+did not flip Rance's master.
+
+
+Judge Jason's Evidence:
+
+CFJ 3817.
+
+==========================================================================
