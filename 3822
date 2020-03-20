@@ -1,0 +1,403 @@
+===============================  CFJ 3822  ===============================
+
+      CFJ 7 is an open CFJ with Jason as its judge.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Aris
+
+==========================================================================
+
+History:
+
+Called by G.:                                     19 Mar 2020 23:23:13
+Assigned to Aris:                                 19 Mar 2020 23:23:13
+
+==========================================================================
+
+Caller's Evidence:
+
+On March 19, 2020, I (as Arbitor) announced the following:
+>
+> I recuse the judge of CFJ 7 from CFJ 7 (note: this may do nothing).
+> I assign CFJ 7 to Jason.
+>
+> ================================  CFJ 7  ===============================
+>
+>     Because of Rule 111, Rule 112 takes precedence over Rule 219.
+>     Therefore, Rule 219 has no legal force.
+>
+> ========================================================================
+Followed by written-in-2020 gratuitous arguments by G. as found here: 
+https://faculty.washington.edu/kerim/nomic/cases/?7
+
+
+Caller's Arguments:
+
+Before detailed arguments, I respectfully request that the judge use a 
+“preponderance of evidence” standard to decide between TRUE and FALSE for 
+this case.  It would be trivially simple to decide this case is 
+indeterminate based on a lack of full historical archives.  Instead, I 
+sincerely hope that the judge is willing to accept the existing historical 
+documents (i.e. Zefram’s old rulesets, and the CotC archives) as 
+documentary evidence that meets this standard, unless there are direct 
+contradictions between documents.  For these arguments, I will use the 
+term “likely” as shorthand for facts that the documentary evidence 
+supports and for which I found no contradictory documents.  
+
+Around March 1 2020, the full text case log for CFJ 7 from the CotC 
+archives appeared as follows:
+
+> Call for Judgement from Wes (Thu Aug  5 22:26:27 GMT 1993)
+>
+>   "Because of Rule 111, Rule 112 takes precedence over Rule
+> 219. Therefore, Rule 219 has no legal force."
+>
+> { This CFJ was never judged.}
+https://faculty.washington.edu/kerim/nomic/cases/7_ExA.txt
+
+The parenthetical {} comment is interesting.  Similarly-delimited {} 
+comments appear in several cases in the early CFJ history, and all such 
+comments supply historical context that would be known only after the case 
+was called (e.g. CFJ 28 {} comments document the full history of that 
+case).  The current CotC (G.) inherited these case logs from omd, who 
+inherited them from Murphy.  Murphy (pers. comm.) recalled that e 
+inherited these cases from Taral.  Murphy also noted that some of these 
+represented after-the-events attempts (possibly long after), by an unknown 
+editor, to reconstruct original history.  I suggest that the editor had 
+access to archives of the original mailing list (i.e. to reconstruct CFJ 
+28 history) and performed reasonable due diligence in research before 
+making these annotations.  Therefore, it is likely that the indicated 
+statement was called for judgement by Wes on August 5 1993, and that it 
+was never judged.  
+
+We don’t know the exact ruleset on August 5, 1993.  However, Zefram’s 
+archives have two ruleset versions that bracket this time reasonably 
+closely:
+
+Initial ruleset, dated June 30, 1993
+Original: http://www.fysh.org/~zefram/agora/chuck0_nr_19930630.txt
+In evidence as:
+https://faculty.washington.edu/kerim/nomic/cases/7_ExB.txt
+ 
+Ruleset dated August 28, 1993
+Original: http://www.fysh.org/~zefram/agora/usenet0_nr_19930828.txt 
+In evidence as: 
+https://faculty.washington.edu/kerim/nomic/cases/7_ExC.txt
+
+I assume these rulesets are likely accurate for the indicated dates, and 
+for rules quoted in the below arguments I cross-checked to see if there 
+were changes between the two dates.  The initial and 28-Aug-1993 rulesets 
+differed in capitalization of key terms, with the later version 
+capitalizing many terms such as Players and Statement throughout.  There 
+were no other changes in the rules quoted below - I quote the initial 
+(uncapitalized) versions.
+
+Mutable rule 213 read:
+      If players disagree about the legality of a move or the
+      interpretation or application of a rule, then a player may invoke
+      judgement by submitting a statement for judgement to the Speaker.
+      Disagreement, for the purposes of this rule, may be created by the
+      insistence of any player.  When judgement is invoked, the Speaker
+      must, as soon as possible, select a Judge as described in the Rules.
+      The Speaker must then distribute the statement to be judged, along
+      with the identity of the Judge, to all players.
+
+In the original R213, “Invoking judgement” is done by “submitting a 
+statement for judgement”.  Requests (i.e. calls) for dispute resolution 
+are tied to the submission of a single statement, with the intent that the 
+statement is “for judgement”.  Further, it ties the selection of a Judge 
+to a particular statement.  
+
+If we ignore the all intervening history for the moment, it can be seen 
+that the initial rules for judgement were/are essentially synonymous with 
+the current R991/31 (In evidence as: 
+https://faculty.washington.edu/kerim/nomic/cases/7_ExD.txt).
+In R991/31, judgement is initiated (synonymous with the old “invoked”) 
+with the announcement of a single statement, and that statement is tied to 
+the selection of a judge.  I posit that these endpoints (again, setting 
+aside intervening history) are sufficient such that the original 
+definition matches the current one within the bounds of the current 
+R1586/9 (Definition and Continuity of Entities), to the extent that these 
+concepts are “the same” in the initial and current rulesets (including 
+concepts like statement, judge, caller, etc.).  Further, current 
+definitions such as “open” would continue to apply to old cases.
+
+In the current ruleset, we know from CFJ 3488
+(https://faculty.washington.edu/kerim/nomic/cases/?3488)
+that judgeship is sticky - you need to be an eligible player to be 
+assigned, but once assigned, registration status doesn’t matter and you 
+are the judge whether or not you are a player.  An examination of the 
+original judgement rules (213-217) shows the same situation - judges only 
+change when the officer in charge changes them.
+
+Additionally, if CFJ 7 had a judge assigned at some point in history, and 
+was never assigned a judgement, and that person was never explicitly 
+removed as a judge, it should be POSSIBLE for the current Arbitor to 
+recuse em.  The current R2492/4 reads in part:
+
+>     The Arbitor CAN recuse a judge from a case by announcement, if that
+>     judge has violated a time limit for judging the case and has not
+>     judged it in the mean time; the Arbitor SHALL do so in a timely
+>     fashion after the time limit expires, if able.
+
+At the time CFJ 7 was called, R215 read:
+>     After the Speaker has distributed the statement to be judged and the
+>     identity of the Judge, the Judge has one week in which to deliver a
+>     legal judgement.
+
+Therefore, there was a time limit back then, and if a judge was assigned, 
+it is likely that the judge violated the original time limit, which would 
+allow the current recusal rule to function such that the Arbitor CAN 
+currently recuse em.  (A second possibility is that the original judge is 
+indeterminate, which under the current switch rules would result in the 
+judge being “unassigned” - so ability to recuse would be irrelevant).  
+
+It’s also important to note that the “Arbitor SHALL [recuse]” in R2492 is 
+a “SHALL in a timely fashion after the time limit expires”. This SHALL is 
+tied to an Office and a SHALL that didn’t exist when the original time 
+limit expired, so there is no REQUIREMENT for the Arbitor to act to 
+perform recusals on ancient cases.  So e CAN recuse an ancient judge who 
+has not judged, but NEED NOT do so (if e *does* recuse someone to make the 
+case clearly unassigned, R991 does require that e assign a new judge).
+
+So the start and end points are consistent with CFJ 7 being a currently-
+open CFJ, that (one way or the other) was unassigned after the Arbitor 
+recused the previous judge, and thus a new judge could be assigned to it.  
+The remaining question is: did anything in the intervening 26+ year 
+history of Agora inject a discontinuity that “destroyed” CFJ 7?
+
+First off: I admit this could never be 100% answered.  There is always the 
+possibility that a statement like {“There are no Open CFJs”} was ratified 
+at some point to fix a game bug or something.  However, given no explicit 
+memory of such an event, I’ve reviewed the history of the judgement rules 
+to determine if continuity is reasonably likely.  Starting with the 
+historical annotations of R991/31 as a reference, I used Zefram’s ruleset 
+history:
+Original: http://www.fysh.org/~zefram/agora/rules_text.txt 
+In evidence as: 
+https://faculty.washington.edu/kerim/nomic/cases/7_ExE.txt
+
+for amendments 1-7 (through 2002) and for later amendments, found each 
+proposal resolution to include proposal actions as well as rule texts in 
+the analysis.  
+
+Starting with the original R213 text above, the changes from the 
+historical annotations on R991 were:
+
+Amended(1) by P407 (Alexx), 03 Sep 1993
+  Changed the judge selection job from Speaker to Clerk of the Courts, 
+  no impact on the existence of CFJs or judges.
+
+Amended by P991 'Ultimate Reward for Achievement of Goal' (Fnord.), ~12 
+Aug 1994
+  Adds the following text:  “No Player shall submit more than five 
+  CFJ's per week.”  This is an important piece of evidence.  It used the 
+  term “CFJ” without further explanation, while the main body of the rule 
+  still talked about “submitting a statement for judgement.”  This
+  indicates that the term CFJ was synonymous with “submitting a statement
+  for judgement” rather than being a separate or new concept.
+
+Amended(2) by R750, around 12 Aug 1994
+Infected and amended(3) by R1454, 23 Oct 1995
+Amended(4) by P2042, 11 Dec 1995
+  Amendments 2-4 were minor/not relevant.
+
+Amended(5) by P2457, 16 Feb 1996
+  Makes “Call for Judgement” the leading term instead of “invoking 
+  judgement”.  Since the two terms were used simultaneously following the 
+  P991 amendment above, this is not a discontinuity.  For reference, the 
+  full text of 991/5 is:
+      Any Player who seeks formal resolution of any dispute pertaining
+      to this Nomic shall be permitted to request such by submitting a
+      Call for Judgement to the Clerk of the Courts.  For the purpose
+      of this and other Rules, the submission of a Call for Judgement
+      shall constitute proof of the existence of a dispute.
+
+      Any document submitted to the Clerk of the Courts and which is
+      clearly marked as a Call for Judgement is a Call for Judgement.
+
+      The Clerk shall distribute the text of a Call for Judgement,
+      along with any additional material submitted by the Caller
+      (including, but not limited to, Arguments and Evidence) not
+      later than the time e announces the identity of the first Judge
+      assigned to Judge it.
+
+Mutated from MI=1 to MI=2 by P2669, 19 Sep 1996 
+    Power change only.
+
+At this point in history (1998) another rule is created that is relevant - 
+Rule 1868.  It reads in part:
+     Once assigned as the Judge of a CFJ, that Player remains the
+     Judge of that CFJ until e is recused from that CFJ, or e ceases
+     to be a Player.
+
+Here, explicitly, ceasing to be a player removes a judge automatically 
+(this wouldn’t affect the existence of the CFJ, just the judge).  However, 
+it’s not clear what this would have done if the judge of CFJ 7 had ceased 
+to be a player *before* the rule took effect.  
+
+In 2001, this text became:
+     Once selected as the Judge of a CFJ, that Player remains the
+     Judge of that CFJ until e is Recused from that CFJ or becomes
+     ineligible to Judge that particular CFJ.
+(which included methods other than deregistration, such as zombification, 
+that could make a person ineligible).  
+
+In 2007, recusal stopped being automatic:
+     Whenever a CFJ that has not been judged has no trial judge
+     assigned, the Clerk of the Courts shall as soon as possible
+     assign an eligible judge to it by announcement.  The assigned
+     judge remains its trial judge until recused.
+
+But the point remains that the judge of CFJ 7 may have been “auto-removed” 
+between 1998 and 2007.
+
+Back to Rule 991 amendments:
+
+Amended(6) by P4170 'Justiciar Opinon' (Elysion), 26 Jun 2001
+    Added the justiciar option, no effect on continuity.
+
+Amended(7) by P4298 'Massive Judicial Reform' (Murphy), 17 May 2002
+  Major rewording/restructuring, but fundamental definitions remained 
+  intact:
+      Any person may request formal resolution of a dispute pertaining
+      to this Nomic by submitting a Call for Judgement (CFJ) to the
+      Clerk of the Courts.  The submission of a CFJ constitutes proof
+      of the existence of such a dispute.
+
+      A CFJ should be a single clearly-labeled Statement whose truth
+      or falsity can be determined using logical reasoning, assuming
+      perfect knowledge.  A CFJ may be accompanied by Arguments,
+      Evidence, or other related material; the Judge is encouraged,
+      but not required, to take notice of these things.
+
+      The Clerk of the Courts shall publish the text of a CFJ, along
+      with any additional material submitted by the Caller (including
+      but not limited to Arguments and Evidence), no later than the
+      time e announces the identity of the first Judge assigned to
+      that CFJ.
+
+Amended(8) by P4867 'Judicial Reform 2.0' (G.), 27 Aug 2006
+  This created a subclass of CFJ called “civil” CFJs that were designed to 
+  adjudicate contracts.  However, these were a subclass of general CFJs 
+  which kept a consistent definition with the past, the resulting R991 
+  was:
+       Any person may request formal resolution of a dispute pertaining
+       to this Nomic by submitting a Call for Judgement (CFJ) to the
+       Clerk of the Courts.  The submission of a CFJ constitutes proof
+       of the existence of such a dispute.
+
+       A CFJ should be a single clearly-labeled Statement whose truth
+       or falsity can be determined using logical reasoning, assuming
+       perfect knowledge.  A CFJ may be accompanied by Arguments,
+       Evidence, or other related material; the Judge is encouraged,
+       but not required, to take notice of these things.
+
+Amended(9) by P5015 'CFJ by announcement' (Zefram), 24 Jun 2007
+  Changed the longstanding “submit to the CotC” method to by 
+  announcement.
+
+Retitled by P5086 'judicial reform' (Zefram), 01 Aug 2007
+Amended(10) by P5086 'judicial reform' (Zefram), 01 Aug 2007
+  Proposal 5086 was a major change in definitions that created “inquiry 
+  cases” (the traditional kind) and “equity cases” and removed the general 
+  CFJ definition.  The proposal (resolved here: 
+  https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-
+official/2007-August/003161.html)
+  had a specific and detailed continuity method, including the following 
+  text:
+   * Each pre-reform CFJ continues to exist as a post-reform inquiry
+       case.
+   * Each pre-reform CFJ with a judge assigned has the same judge
+       assigned in its post-reform form.
+   * Each pre-reform CFJ with no judge assigned has no judge assigned in
+       its post-reform form.
+
+  My reading of these clauses is that they successfully transitioned pre-
+  reform “CFJs” to post-reform “inquiry cases” without loss of continuity.
+
+Amended(11) by P5110 'Regulate ID numbers' (Murphy), 02 Aug 2007
+  Made ID numbers more official - no effect on continuity.
+
+Amended(12) by P5317 'Judicial fixes' (Murphy), 28 Nov 2007
+  Clarified the hierarchy of types of judgements by making this the first 
+  paragraph of R991:
+      A judicial case, also known as a call for judgement (CFJ), is a
+       procedure to settle a matter of controversy.  There are
+       subclasses of judicial case with particular features defined by
+       other rules.  Subclasses of judicial case exist only as defined
+       by the rules.
+  The “inquiry” subclass remained continuous with the past.
+
+Amended(13) by P5464 'Secure more judicial aspects' (Murphy), 13 Mar 2008
+Assigned to the Committee on the Judiciary by P6053 'Committees'
+   (Murphy, woggle, ais523), 23 Jan 2009
+Amended(14) by P7050 'No more warp drive' (omd), 16 May 2011
+
+  None of these affected basic definitions or continuity.  
+
+Retitled by P7616 'Mostly Simple Judging v2.3' (G.), 16 Jan 2014
+Amended(15) by P7616 'Mostly Simple Judging v2.3' (G.), 16 Jan 2014
+  Vastly simplified the Judicial system.  Converged the different types of 
+  cases (while being explicit about synonyms for continuity).  Resulting 
+  Rule:
+      Any person (the initiator) can initiate a Call for Judgement
+      (CFJ, syn. Judicial Case) by announcement, specifying a statement
+      to be inquired into.  E may optionally bar one person from the
+      case.
+
+      At any time, each CFJ is either open (default), or has exactly one
+      judgement.
+
+      When a CFJ has no judge assigned, the Speaker CAN assign any
+      player to be its judge by announcement, and SHALL do so within a
+      week.  The players eligible to be assigned as judge are all
+      players except the initiator and the person barred (if any).  The
+      Speaker SHALL assign judges over time such that all interested
+      players have reasonably equal opportunities to judge.
+
+ 
+Amended(16) by P7629 'Do Things' (Alexis), 07 Apr 2014
+  Created the Arbitor office.
+
+Amended(17) by P7647 'formatting/misc fixes' (omd), 03 Jun 2014
+Amended(18) by P7777 'Simplified moot fix' (omd), 14 Aug 2015
+Amended(19) by P7803 'Self-service judiciary' (G.), 31 Jul 2016
+Amended(20) by P7867 'Economics Overhaul v2' (nch, o, grok, Aris), 30
+   Jul 2017
+Amended(21) by P7876 'Float On' (o), 26 Sep 2017
+Amended(22) by P7888 'BILLY MAYS HERE' (o, R. Lee), 26 Sep 2017
+Amended(23) by P7899 'Arbitor's Union' (G.), 03 Oct 2017
+Amended(24) by P8004 'Rusty' (G.), 30 Jan 2018
+Amended(25) by P8005 'Hopefully routine fixes' (Murphy), 06 Feb 2018
+Amended(26) by P8014 'Putting Agora on a Map v7' (Trigon, Aris, ATMunn,
+   G., o, R. Lee), 24 Feb 2018
+Amended(27) by P8017 'RTRW Cleanups' (Alexis), 06 Mar 2018
+Amended(28) by P8065 'No undead courts' (twg), 18 Jul 2018
+Amended(29) by cleaning (Trigon), 31 Oct 2018
+  All of Amendments 17-29 were minor (or side-things like adding and 
+  removing economics) that didn’t affect continuity and without any side-
+  effects from Proposals.
+
+Amended(30) by P8134 'The judge switch' (G.), 02 Dec 2018
+  Turned Judge into a CFJ switch.  Importantly, the proposal included a 
+  continuity clause:
+      For every CFJ that was assigned to a judge immediately before this
+      proposal took effect, that CFJ's judge switch is flipped to that
+      judge.
+
+Amended(31) by P8221 'Usage de-capitalization' (Jason Cobb, Aris), 05
+   Sep 2019
+  Decapitalized all the stuff.
+
+I hope this thorough review is sufficient evidence to prove the truth of 
+the current CFJ’s statement - that CFJ 7 has existed continuously as a CFJ 
+(on occasion called an inquiry case), is very likely (to the preponderance 
+of evidence) existing, open, that it either had no judge or the judge was 
+successfully recused by Arbitor G., and as such, CFJ 7 has recently been 
+assigned to Jason.
+
+==========================================================================

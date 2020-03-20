@@ -1,0 +1,1192 @@
+[This is the ruleset as of 1993-08-28, plus some of its history, as
+posted to Usenet in message <25m7a7$eks@parsifal.umkc.edu>.]
+
+======================================================================
+
+CURRENT RULES
+
+These are all the rules that are in effect on 1993-08-28.
+
+----------------------------------------------------------------------
+
+Rule 101 (Immutable)
+
+      All Players must always abide by all the Rules then in effect,
+      in the form in which they are then in effect.  The Rules in the
+      Initial Set are in effect at the beginning of the first game.
+      The Initial Set consists of Rules 101-116 (Immutable) and
+      201-219 (Mutable).
+
+History:
+Initial Rule 101
+
+----------------------------------------------------------------------
+
+Rule 102 (Immutable)
+
+      Initially Rules in the 100's are Immutable and Rules in the
+      200's are Mutable.  Rules subsequently Enacted or Transmuted
+      (that is, changed from Immutable to Mutable or vice versa) may
+      be Immutable or Mutable regardless of their Numbers, and Rules
+      in the Initial Set may be Transmuted regardless of their Numbers.
+
+History:
+Initial Rule 102
+
+----------------------------------------------------------------------
+
+Rule 103 (Immutable)
+
+      At any time, each Player shall be either a Voter or the Speaker; no
+      Player may simultaneously be a Voter and a Speaker. At any time, there
+      shall be exactly one Speaker. The term "Player" in the Rules shall
+      specifically include both the Voters and the Speaker.
+
+History:
+Initial Rule 103
+
+----------------------------------------------------------------------
+
+Rule 104 (Immutable)
+
+      The Speaker for the first game shall be Michael Norrish.
+
+History:
+Initial Rule 104
+
+----------------------------------------------------------------------
+
+Rule 105 (Immutable)
+
+      A Rule Change is any of the following:  (1) the enactment, repeal,
+      or amendment of a mutable Rule; or (2) the transmutation
+      of an immutable Rule into a mutable Rule or vice versa.
+        (Note:  This definition implies that, at least initially, all new
+      Rules are Mutable; Immutable Rules, as long as they are Immutable,
+      may not be Amended or Repealed; Mutable Rules, as long as they are
+      Mutable, may be Amended or Repealed; any Rule of any status may be
+      Transmuted; no Rule is absolutely immune to change.)
+
+History:
+Initial Rule 105
+
+----------------------------------------------------------------------
+
+Rule 106 (Immutable)
+
+      All Rule Changes proposed in the proper way shall be voted on.
+      They will be adopted if and only if they receive the required number
+      of votes and Quorum is achieved.
+
+History:
+Initial Rule 106
+
+----------------------------------------------------------------------
+
+Rule 107 (Immutable)
+
+      Any proposed Rule Change must be written down (or otherwise
+      communicated in print media) before it is voted on. If adopted, it
+      must guide play in the form in which it was voted on.
+
+History:
+Initial Rule 107
+
+----------------------------------------------------------------------
+
+Rule 108 (Immutable)
+
+      No Rule Change may take effect earlier than the moment of the
+      completion of the vote that adopted it, even if its wording
+      explicitly states otherwise.  No rule change may have retroactive
+      application.
+
+History:
+Initial Rule 108
+
+----------------------------------------------------------------------
+
+Rule 109 (Immutable)
+
+      The Speaker shall give each proposed Rule Change a Number for
+      reference.  The numbers shall begin with 301, and each Rule Change
+      proposed in the proper way shall receive the next successive
+      integer, whether or not the Proposal is adopted.
+        If a Rule is Repealed and Reenacted, it receives the Number of the
+      Proposal to Reenact it.  If a Rule is Amended or Transmuted, it
+      receives the Number of the Proposal to Amend or Transmute it.
+
+History:
+Initial Rule 109
+
+----------------------------------------------------------------------
+
+Rule 110 (Immutable)
+
+      Rule Changes that Transmute Immutable Rules into Mutable Rules
+      may be adopted if and only if the vote is unanimous among Votes
+      legally cast.  Transmutation shall not be implied, but must be
+      stated explicitly in a Proposal to take effect.
+
+History:
+Initial Rule 110
+
+----------------------------------------------------------------------
+
+Rule 111 (Immutable)
+
+      In a conflict between a Mutable and an Immutable Rule, the
+      immutable Rule takes precedence and the Mutable Rule shall be
+      entirely void.  For the purposes of this Rule a Proposal to
+      Transmute an Immutable Rule does not "conflict" with that Immutable
+      Rule.
+
+History:
+Initial Rule 111
+
+----------------------------------------------------------------------
+
+Rule 112 (Immutable)
+
+      The state of affairs that constitutes winning may not be altered
+      from achieving n points to any other state of affairs.  The
+      magnitude of n and the means of earning points may be changed,
+      and Rules that establish a Winner when play cannot continue may be
+      Enacted and (while they are mutable) be Amended or Repealed.
+
+History:
+Initial Rule 112
+
+----------------------------------------------------------------------
+
+Rule 113 (Immutable)
+
+      A Player always has the option to forfeit the Game rather than
+      continue to play or incur a Game penalty.  No penalty worse than
+      losing, in the judgment of the Player to incur it, may be imposed.
+
+History:
+Initial Rule 113
+
+----------------------------------------------------------------------
+
+Rule 114 (Immutable)
+
+      There must always be at least one Mutable Rule.  The adoption of
+      Rule Changes must never become completely inpermissible.
+
+History:
+Initial Rule 114
+
+----------------------------------------------------------------------
+
+Rule 115 (Immutable)
+
+      Rule Changes that affect Rules needed to allow or apply
+      Rule Changes are as permissible as other Rule Changes.  Even
+      Rule Changes that amend or repeal their own authority are permissible.
+      No Rule Change or type of move is impermissible solely on account of
+      the self-reference or self-application of a Rule.
+
+History:
+Initial Rule 115
+
+----------------------------------------------------------------------
+
+Rule 116 (Immutable)
+
+      Whatever is not prohibited or regulated by a Rule is permitted
+      and unregulated, with the sole exception of changing the Rules,
+      which is permitted only when a Rule or set of Rules explicitly or
+      implicitly permits it.
+
+History:
+Initial Rule 116
+
+----------------------------------------------------------------------
+
+Rule 201 (Mutable)
+
+      Quorum for a proposed Rule Change is defined to be 20% of Voters
+      at the beginning of the prescribed Voting Period for that Proposal.
+
+History:
+Initial Rule 201
+
+----------------------------------------------------------------------
+
+Rule 203 (Mutable)
+
+      The Winner is the first Voter to achieve 100 (positive) points.
+      If more than one Voter achieves this condition simultaneously, all
+      such Voters win.
+      When a game ends in this manner:
+        -If there is only one Winner, that Voter becomes the Speaker, and
+         the old Speaker becomes a Voter
+        -If there is more than one Winner, the Speaker randomly selects one
+         of the Winners, who becomes the new Speaker, and the old Speaker
+         Speaker becomes a Voter.
+        -All Players' scores are reset to 0.
+        -A new game is begun.  All Rules and proposed Rule Changes retain
+         the status they had at the end of the old game.
+
+History:
+Initial Rule 203
+
+----------------------------------------------------------------------
+
+Rule 204 (Mutable)
+
+      A Proposal shall be made by submitting it to the Speaker. Only Voters
+      may make Proposals.  As soon as possible after receiving a Proposal,
+      the Speaker shall assign the Proposal a Number and distribute the
+      Proposal along with its Number to all Players.
+
+History:
+Initial Rule 204
+
+----------------------------------------------------------------------
+
+Rule 205 (Mutable)
+
+      The prescribed Voting Period for a Proposal shall be one week,
+      beginning at the time the Speaker distributes the Proposal to all
+      Players.
+
+History:
+Initial Rule 205
+
+----------------------------------------------------------------------
+
+Rule 206 (Mutable)
+
+      Each Voter has exactly one Vote.  The Speaker may not Vote.
+
+History:
+Initial Rule 206
+
+----------------------------------------------------------------------
+
+Rule 207 (Mutable)
+
+      Voters may Vote either FOR or AGAINST any Proposal within its
+      prescribed Voting Period.  In order to be legally cast, the Vote
+      must be received by the Speaker by the end of the prescribed Voting
+      Period.  The Speaker may not reveal any Votes until the end of the
+      prescribed Voting Period.  Any Voter who does not legally Vote within
+      the prescribed Voting Period shall be deemed to have abstained.
+
+History:
+Initial Rule 207
+
+----------------------------------------------------------------------
+
+Rule 208 (Mutable)
+
+      At the end of the prescribed Voting Period on a Proposal, the
+      Speaker shall reveal all Votes legally cast on that Proposal. If the
+      Speaker's consent may be required for a Proposal to be adopted then
+      the Speaker should indicate at that time whether or not e gives eir
+      consent. If the Speaker does not explicitly indicate that e refuses to
+      consent to the Proposal, it shall be assumed that e consents.
+
+History:
+Initial Rule 208
+
+----------------------------------------------------------------------
+
+Rule 209 (Mutable)
+
+      The required Votes for a Proposal to be adopted is as follows:
+          For a Proposal which would directly alter the actions which are
+          required of and/or forbidden to the Speaker:
+                 a) a simple majority of all Votes legally cast, if the
+                    Speaker consents;
+                 b) a 2/3 majority of all Votes legally cast, if the
+                    Speaker does not consent;
+          For all other Proposals, a simple majority of Votes legally cast.
+      This Rule defers to Rules which set the required number of Votes
+      for Proposals which propose to transmute a Rule.
+
+History:
+Initial Rule 209
+
+----------------------------------------------------------------------
+
+Rule 212 (Mutable)
+
+      If two or more Mutable Rules conflict with one another, or if
+      two or more Immutable Rules conflict with one another, then the Rule
+      with the lowest ordinal Number takes precedence.
+        If at least one of the Rules in conflict explicitly says of itself
+      that it defers to another Rule (or type of rule) or takes precedence
+      over another Rule (or type of Rule), then such provisions shall
+      supersede the numerical method for determining precedence.
+        If two or more Rules claim to take precedence over one another or
+      defer to one another, then the numerical method again governs.
+
+History:
+Initial Rule 212
+
+----------------------------------------------------------------------
+
+Rule 213 (Mutable)
+
+      If Players disagree about the legality of a Move or the
+      interpretation or application of a Rule, then a player may invoke
+      Judgement by submitting a Statement for Judgement to the Speaker.
+      Disagreement, for the purposes of this Rule, may be created by the
+      insistence of any Player.  When Judgement is invoked, the Speaker
+      must, as soon as possible, select a Judge as described in the Rules.
+      The Speaker must then distribute the Statement to be judged, along
+      with the identity of the Judge, to all Players.
+
+History:
+Initial Rule 213
+
+----------------------------------------------------------------------
+
+Rule 215 (Mutable)
+
+      After the Speaker has distributed the Statement to be judged and
+      the identity of the Judge, the Judge has one week in which to
+      deliver a legal Judgement.  If the Judge fails to deliver a Judgement
+      within this time, e is penalized 10 points and a new Judge is selected.
+      A Judgement is delivered by submitting that Judgement to the Speaker,
+      who must then distribute that Judgement to all players as soon as
+      possible.
+
+History:
+Initial Rule 215
+
+----------------------------------------------------------------------
+
+Rule 216 (Mutable)
+
+      A legal Judgement is either TRUE, FALSE, or UNDECIDED.  The
+      Judgement may be accompanied by reasons and arguments, but such
+      reasons and arguments form no part of the Judgement itself.  If a
+      Judgement is accompanied by reasons and arguments, the Speaker must
+      distribute the reasons and arguments along with the Judgement.
+
+History:
+Initial Rule 216
+
+----------------------------------------------------------------------
+
+Rule 217 (Mutable)
+
+      All Judgements must be in accordance with the Rules; however, if
+      the Rules are silent, inconsistent, or unclear on the Statement
+      to be Judged, then the Judge shall consider Game Custom and the
+      Spirit of the Game before applying other standards.
+
+History:
+Initial Rule 217
+
+----------------------------------------------------------------------
+
+Rule 218 (Mutable)
+
+      In addition to duties which may be listed elsewhere in the Rules,
+      the Speaker shall have the following duties:
+        -register new Players
+        -maintain a list of all Players and their current scores, and
+         make such a list available to all Players
+        -maintain a complete list of the current Rules, and make such a
+         list available to all Players
+        -make a random determination whenever such determination is
+         required by the Rules.
+
+History:
+Initial Rule 218
+
+----------------------------------------------------------------------
+
+Rule 219 (Mutable)
+
+      If a Player believes that the Rules are such that further play is
+      impossible, or that the legality of a Move cannot be determined with
+      finality, or that a move appears equally legal and illegal, then the
+      Player may invoke Judgement on a Statement to that effect.  If the
+      Statement is judged TRUE, then the Player who invoked Judgement
+      shall be declared the Winner of that Game, and the Game ends, with
+      no provision for starting another Game.
+        This Rule takes precedence over every other Rule determining the
+      Winner of the Game.
+
+History:
+Initial Rule 219
+
+----------------------------------------------------------------------
+
+Rule 305 (Mutable)
+
+      All Players begin with 0 points, except that new Voters who
+      enter part-way through a game in progress shall be given the
+      average of all current Voters scores.  Points may not be gained,
+      lost, or traded except as explicitly stated in the Rules.
+
+History:
+???
+Amended by Proposal 305
+
+----------------------------------------------------------------------
+
+Rule 308 (Mutable)
+
+      When the prescribed Voting Period for a Proposal is finished,
+      the Player who proposed the Proposal shall receive F-A points,
+      where F is the number of Votes cast FOR the Proposal and A is
+      the number of Votes cast AGAINST it; all Players who vote
+      AGAINST a Proposal which passes shall receive 2(F-A) points.
+
+History:
+???
+Amended
+Amended by Proposal 308
+
+----------------------------------------------------------------------
+
+Rule 312 (Mutable)
+
+      If a Voter votes, he gets one (1) point at the end of the Voting
+      Period.
+
+History:
+Created by Proposal 312
+
+----------------------------------------------------------------------
+
+Rule 319 (Mutable)
+
+319.  Informative Titles for Proposals
+
+      Every Proposal submitted to the Speaker must be headed with a Title.
+
+History:
+Created by Proposal 319
+
+----------------------------------------------------------------------
+
+Rule 326 (Mutable)
+
+326.  Illegality of "bonus point" clauses
+
+      Proposals submitted after the passage of this rule (# 326) which
+      contain clauses awarding, trading, penalizing or otherwise changing
+      points to Players based on the Vote they cast on that Proposal are
+      disallowed.
+
+History:
+Created by Proposal 326
+
+----------------------------------------------------------------------
+
+Rule 330 (Mutable)
+
+      Every time a Voter proposes a Proposal, that Voter shall gain
+      one Entry into a weekly Lottery. Each week, a random Entry shall
+      be selected by the Speaker, and the Voter who "owns" that Entry
+      shall receive 5 points. For purposes of this Rule, a "week"
+      shall begin on Monday at 12:00 noon and last seven days, ending
+      on Monday at 11:59 am, in the time zone in which the Speaker
+      resides. The weekly drawing shall take place as soon as possible
+      after the end of the week.
+
+History:
+Created by Proposal 330
+
+----------------------------------------------------------------------
+
+Rule 337 (Mutable)
+
+337.  Clarification of the Call for Judgement [i]
+
+      For the purposes of applying Rule 213, a "Move" refers to a Proposal
+      of a Rule, vote on a Proposal, call for Judgement, or Judgement.
+      Any invocation of Judgement must be in regard to a particular Move
+      or question the legality of a particular Rule, which move or Rule
+      must be clearly stated in the CFJ.  A CFJ which does not contain
+      such reference is invalid and not considered for Judgement.
+
+History:
+Created by Proposal 337
+
+----------------------------------------------------------------------
+
+Rule 349 (Mutable)
+
+349.  Point Rounding
+
+      Points shall be computed according to the Rules in effect, then shall
+      be rounded to the nearest integer.
+
+History:
+Created by Proposal 349
+
+----------------------------------------------------------------------
+
+Rule 352 (Mutable)
+
+352.  Official Specification of Scores
+
+      Not less than once a week, the Speaker shall post the current scores
+      of all Players to the mailing lists, making his best efforts to
+      determine the correct scores. If a Player feels the posted scores are
+      incorrect, he may make a Call for Judgement, stating what he believes
+      to be the correct scores. If the resulting Judgement is TRUE, the
+      scores stated in the Call for Judgement become the official scores of
+      all Players. Otherwise, the scores posted by the Speaker become the
+      official scores of all Players. If no Call for Judgement is made during
+      the week following a posting of scores by the Speaker, the posted
+      scores become official, that is, each Player's score is changed, if
+      necessary, to the amount posted by the Speaker.
+
+History:
+Created by Proposal 352
+
+----------------------------------------------------------------------
+
+Rule 355 (Mutable)
+
+355.  Determining when a Rule has been broken
+
+      If a Player believes that any Player has not abided by a Rule then in
+      effect, in the form in which it was then in effect, then the Player may
+      invoke Judgement on a Statement to that effect.  However,
+        -The Accusing player immediately loses 5 points.
+        -No Player may be so Accused of actions committed before the adoption
+         of this Rule or more than 30 days before the Accusation.
+        -No Player may be so Accused more than once concerning the same
+         committed act, unless the last such Accusation has been judged
+         UNDECIDED.
+        -The following exception takes precedence over previous Rules
+         concerning Judgement: Neither Accusing nor Accused Player may act
+         as Judge for the Accusation; in any case where this would occur, a
+         random Voter, neither Accuser nor Accused, shall be Judge.
+      If the Statement is judged TRUE, the Accused Player has been convicted of
+      breaking the Rule.  If the Statement is judged FALSE, the Accused Player
+      has been acquitted of breaking the Rule.
+
+History:
+Created by Proposal 355
+
+----------------------------------------------------------------------
+
+Rule 356 (Mutable)
+
+356.  Voter Classification
+
+      Let there be three Groups named Group Red, Group Blue, and Group Yellow.
+
+      Upon the passage of this Rule, each Voter shall be
+      designated as a member of one, and only one, of these Groups.  The
+      Groups shall be as close to equal in population as possible, and the
+      Group designated to each Voter shall be chosen randomly, such that
+      the above population restriction is followed.
+
+      At no time may any Voter be a member of more than one of these Groups.
+
+      The Speaker shall reveal to all Players the members of each Group
+      when the above actions have taken place, and whenever the members of any
+      Group change.
+
+History:
+Created by Proposal 356
+
+----------------------------------------------------------------------
+
+Rule 357 (Mutable)
+
+357.  Respect for the Speaker
+
+      When a Voter refers to the Nomic Speaker, or any other Speaker, that
+      Voter must use one of the following adjectives in conjuction with the
+      Speaker:
+
+      Admirable, Amazing, August, Astonishing, Astounding, Beloved,
+      Benevolent, Brilliant, Celebrated, Circumcised, Circumspect,
+      Cogetative, Competant, Consummate, Courteous, Deserving, Devoted,
+      Diligent, Distinguished, Divine, Effulgent, Elevated, Eminent,
+      Excellent, Exceptional, Extraordinary, Exalted, Fabulous, Famed, Fine,
+      Foremost, Generous, Glorious, Gracious, Grand, Great, Hallowed, High,
+      Holy, Honored, Illustrious, Impartial, Impressive, Incredible,
+      Industrious, Influential, Judicious, Just, Kind, Kosher, Kindred,
+      Lofty, Magnificent, Majestic, Magnanimous, Marvelous, Mighty, Neat,
+      Noble, Omnilaborant, Outstanding, Overworked, Persuasive, Pensive,
+      Phenominal, Pious, Prime, Qualified, Quintessential, Regal, Reknown,
+      Remarkable, Respected, Revered, Solicitous, Spectacular, Splendid,
+      Superb, Superior, Transcendant, Trustful, Unparalleled, Upright,
+      Unusual, Venerated, Vigilent, Virile, Virtuous, Watchful, Wonderful,
+      Worshipped, Xenophilic, Zealous, or any combination of the
+      preceeding.
+
+      Any Voter not following this directive shall lose 1 point per
+      reference to the Great and Virtuous Speaker which does not use one of
+      the above words.
+
+History:
+Created by Proposal 357
+
+----------------------------------------------------------------------
+
+Rule 358 (Mutable)
+
+358.  Offense to the letter 'Y'
+
+      No proposal is allowed to contain any word which begins with the
+      letter indicated in the Title of this proposal, being the second to
+      the last letter of the English alphabet. If a Proposal does contain a
+      word beginning with the aforementioned letter, the Voter who proposed
+      that Proposal shall lose 1 point per instance of a word beginning with
+      said letter. This is not dependant upon the passage of the offending
+      Proposal into a Rule.
+
+      This Rule shall be repealed when Proposal 357 is Amended to include a
+      word beginning with said Evil letter. If Proposal 357 is not accepted
+      as a Rule, then this Rule shall remain in effect until Repealed.
+
+History:
+Created by Proposal 358
+
+----------------------------------------------------------------------
+
+Rule 362 (Mutable)
+
+362.  Quoting Accuracy
+
+      When a Player quotes a Rule, Proposal, Statement, Judgement, the words
+      of another Player, or other references, that Player shall not be
+      penalized in points for the terminology or grammar used in those
+      quotes. For example, if a Player were to quote Rule 203 in its
+      entirety, that Player would not lose points for not referring to our
+      Benevolent Speaker properly withing this quote. This Rule takes
+      precedence over any other Rule which specifies terminology or
+      grammar.
+
+History:
+Created by Proposal 362
+
+----------------------------------------------------------------------
+
+Rule 363 (Mutable)
+
+363.  Reward Successful Accusations
+
+      If a Player is convicted of breaking a rule, then the Player who
+      first formally accused him of breaking that rule shall receive back
+      any points which the accusing Player may have lost as a direct result
+      of that accusation.  In addition, he shall receive a reward of three
+      additional points.
+
+History:
+Created by Proposal 363
+
+----------------------------------------------------------------------
+
+Rule 364 (Mutable)
+
+364.  Selecting a Judge
+
+      When Judgement has been called for, a Judge is randomly selected from
+      among the Players (excluding the Player who called for Judgement). The
+      Player selected has 3 days in which to accept or refuse the
+      appointment by posting to the listserv.  Any Player who does not
+      respond to selection in 3 days shall be penalized 10 points, and is
+      deemed to have refused appointment.  If a selected Player refuses
+      appointment, then a further random selection is made from the
+      remaining pool.
+
+History:
+???
+Amended by Proposal 364
+
+----------------------------------------------------------------------
+
+Rule 366 (Mutable)
+
+366.  Putting Oneself On Hold
+
+      A Player may put self on hold for the purposes of Nomic game play. A
+      Player who is on hold may not participate in the Game in any
+      way. Specifically:
+
+      *   Cannot Vote
+      *   Cannot send any message to the list, except a request to revert to
+          active status.
+      *   Cannot send any private message to any Player which concerns the game.
+      *   Does not gain or lose points.
+      *   Is absolved of all normal duties, such as serving as a Judge.
+
+      Putting oneself on hold is intended for Players who cannot participate
+      for some time, because of vacation, temporary loss of email, or
+      whatever. Its use is completely optional, but since penalties could
+      acrue from inability to respond to judgeship duties, it is a good
+      idea.
+
+      A Player puts self on hold by writing a message to the list, stating,
+      "Put me on hold", or something to that effect. This message must also
+      include a reasonable excuse; this is left to Judgement at this time to
+      decide.
+
+      A Player puts self back on active status by writing a mesage to the
+      list, stating, "Put me on active status", or something similar. A
+      request to return to active status must be at least 4 days later than
+      the request to go on hold.  (This is intended to prevent such hold
+      periods from being too frequent.)
+
+      The Benevolent Speaker takes note of these hold and active status
+      messages and marks the Player's status accordingly.
+
+      If a Player makes excessive use of hold status, the Player may lose
+      the privilege. Again, this is left to Judgement to define what is
+      excessive.
+
+History:
+Created by Proposal 366
+
+----------------------------------------------------------------------
+
+Rule 374 (Mutable)
+
+374.  Point Transfers Revisited
+
+      A Player may voluntarily transfer points to any other Player for
+      any purpose, within the following limits:
+             (a) the transfer must be posted to the listserv
+             (b) a Player may only transfer a positive number of points
+             (c) a Player may not transfer more points than e currently has
+             (d) a Player may not transfer points if the recipient would as a
+                 result have more than 90% of the points required to win.
+
+      If any agreement among Players includes any transfer of points between
+      two Players then each such transfer shall be in accordance with the
+      above. But this Rule shall not be construed as having any bearing on the
+      legality or legal enforeceability of any terms of said agreement which
+      do not involve such a transfer.
+
+History:
+???
+Amended by Proposal 374
+
+----------------------------------------------------------------------
+
+Rule 376 (Mutable)
+
+376.  Time that a rule change takes effect
+
+      An adopted rule change takes full effect at the moment of the completion
+      of the vote that adopted it.
+      The moment of the completion of the vote is defined by the date and time
+      given in the line starting with "Date:" of the Nomic listserver message
+      send by the Benevolent Speaker, announcing the result of the vote on the
+      corresponding proposal.
+
+History:
+???
+Amended by Proposal 376
+
+----------------------------------------------------------------------
+
+Rule 377 (Mutable)
+
+377.  No Proposal Limit
+
+      There shall be no limit on the number of Proposals a Player may
+      have up for vote at any given time.
+
+History:
+???
+Amended
+Amended by Proposal 377
+
+----------------------------------------------------------------------
+
+Rule 381 (Mutable)
+
+381.  Penal system framework
+
+      There shall be four classes of Crimes: Class A, Class B, Class C, and
+      Class D. Each Class is more vile than the last, with Class A being the
+      least vile and Class D being the most vile. Future legislation shall
+      determine the punishments for each Class, as well as which actions would
+      be classified as each Class. New classes more vile than Class D Crimes
+      may be created by future legislation.
+
+History:
+Created by Proposal 381
+
+----------------------------------------------------------------------
+
+Rule 384 (Mutable)
+
+384.  Appeal Court
+
+      At any time in the week following the posting of a Judgement, any
+      Player who believes that Judgement to be in error may Appeal that
+      Judgement.  "In error" includes, but is not limited to, being in
+      violation of the Rules.  Once a judgement has been Appealed, it may
+      not be Appealed again.
+
+      When a Judgement is Appealed, an Appeal Court is set up.  An Appeal
+      Court shall consist of an odd number of Justices greater than one.
+      Unless another Rule specifies otherwise, that number shall be three.
+      The Justices shall be selected in the same manner that the Rules
+      provide for selecting Judges, with the following restrictions:
+           1) no Player may be selected more than once for any particular
+             Appeal Court.
+           2) the Player who made the Appeal shall not be selected for that
+             Appeal Court.
+           3) The Player who made the original Call For judgement which is
+             being Appealed shall not be selected for that Appeal Court.
+
+      After a Justice has accepted appointment, he has one week in which to
+      return a Decision.  If the Justice does not return a Decision in that
+      time, he shall be penalized 10 points and another Player shall be
+      chosen to take his place as Justice, unless a Verdict has been
+      reached on that Appeal, in which case there shall be no replacement
+      and he shall not be penalized.
+
+      A Decision must be one of the following: (1) TO OVERRULE JUDGEMENT,
+      (2) TO SUSTAIN JUDGEMENT, or (3) UNDECIDED.  A Decision may be
+      accompanied by reasons and arguments, but any such reasons and
+      arguements form no part of the official Decision itself.
+
+      A Verdict is reached based on the Decisions of the Justices.  If a
+      majority of the Justices return the Decision TO OVERRULE JUDGEMENT,
+      then the Verdict is JUDGEMENT OVERRULED.  Otherwise the Verdict is
+      JUDGEMENT SUSTAINED.  If enough Decisions have been returned to
+      ensure one of these two Verdicts, then the Verdict is reached
+      immediately; it does not wait for the remaining Justices to return a
+      Decision.
+
+      If the Verdict is JUDGEMENT SUSTAINED, then the Judgement in question
+      stands, and the Player who Appealed the Judgement is penalized 10
+      points.
+
+      If the Verdict is JUDGEMENT OVERRULED, then the Judgement in question
+      is changed to UNDECIDED.
+
+      At any time in the week following the return of a Verdict, any Player
+      may submit a Proposal that the Verdict be Reversed, i.e. JUDGEMENT
+      SUSTAINED changed to JUDGEMENT OVERRULED or vice versa.  In order to
+      pass, such a Proposal must receive 2/3 of the Votes legally cast
+      within the prescribed Voting Period; this Rule takes precedence over
+      Rule 209.  If the Proposal passes, the Verdict is Reversed and points
+      are adjusted as if the new Verdict had been the original Verdict.
+
+History:
+Created by Proposal 384
+
+----------------------------------------------------------------------
+
+Rule 385 (Mutable)
+
+385.  Correcting Proposals
+
+      At any time not less than 24 hours before the end of a Voting Period
+      for a given Proposal, the originator of that Proposal (and no other
+      Player) may issue a 'corrected' version of that Proposal to the
+      Benevolent Speaker.  This Proposal replaces the original Proposal.
+      Any Votes cast on the original Proposal are discarded, as is the
+      original Proposal itself; the voting for the original is never
+      completed.  The corrected version is issued as a new Proposal, with a
+      new Number and a new Voting Period starting from its time of
+      issuance.  As a penalty for not getting things right the first time
+      and bogging down the legislature, the correcting Player loses three
+      Points upon the removal of the original Proposal.
+
+      A Proposal may also simply be withdrawn by the originating Player
+      during this time period, without any new Proposal replacing it, but
+      the Player must still lose three Points.
+
+History:
+Created by Proposal 385
+
+----------------------------------------------------------------------
+
+Rule 386 (Mutable)
+
+386.  Default Rules for Officers
+
+      An Incumbent Officer (or Official) is any Player who has been
+      Appointed or Elected to an Office specified in the Rules.  A Judge is
+      not an Officer.
+
+      An Incumbent Official may be replaced by another Player (the
+      "Challenger") if that Player makes a Proposal to replace the Officer
+      with him or herself, and that Proposal passes.  The action of making
+      this Proposal constitutes "Running For Office."  The Proposal is
+      treated normally, but requires at least a 2/3 affirmative Vote of all
+      those Players casting legal Votes on that Proposal to pass.  This
+      Rule takes precedence over 209.
+
+      An Officer may resign at any time, provided he or she appoints a
+      successor.  If an Officer resigns while a Challenger is running for
+      his Office, the Officer may not appoint a successor, but instead the
+      Challenger automatically becomes the new Officer.  In such a case,
+      the Vote for the appointment of the Challenger is rendered null and
+      void.
+
+      If an Office is vacant for any reason, a Player is selected randomly
+      for that Office in the same way that Judges are selected.
+
+      This Rule applies to general Offices, and therefore defers to Rules
+      for specific Offices.
+
+History:
+Created by Proposal 386
+
+----------------------------------------------------------------------
+
+Rule 388 (Mutable)
+
+388.  Starting a new Game
+
+      Whenever a new game of Nomic is begun, the status of the new Game when it
+      begins shall be the same as the status of the old Game when it ended, in
+      all respects where the Rules do not decide otherwise.
+
+History:
+Created by Proposal 388
+
+----------------------------------------------------------------------
+
+Rule 389 (Mutable)
+
+389.  Unclassified Voter Classification
+
+      If at any time a Voter does not belong to one of the Groups of Rule
+      356, it shall become a member of the Group with the fewest members.
+      If two or more Groups both have fewer members than all others, the
+      Voter shall be randomly placed within one of these Groups.
+
+History:
+Created by Proposal 389
+
+----------------------------------------------------------------------
+
+Rule 390 (Mutable)
+
+390.  The Grand Viziers
+
+      Let there be an Office for each of the Groups of Rule 356, known as
+      the Vizier of that Group.
+
+      If at any time a Group does not have a Vizier, one shall be chosen at
+      random from the members of that Group.
+
+History:
+Created by Proposal 390
+
+----------------------------------------------------------------------
+
+Rule 391 (Mutable)
+
+391.  Coins
+
+      Let there be a new unit of currency defined for each of the Groups of
+      Rule 356.  These units shall be named the X Coins, where the name of
+      the Group associated with the unit is substitued for X.
+
+      Any Player may possess zero or more of each of these currencies.  No
+      Player may possess less than zero of any of these currencies.
+
+History:
+Created by Proposal 391
+
+----------------------------------------------------------------------
+
+Rule 392 (Mutable)
+
+392.  Point Changes Are Public Information
+
+      When a Player's Point total is adjusted by the Noble Speaker, or by
+      another person given Point maintanence authority by future legislation,
+      this change must be posted to the list by the point maintainer, as
+      opposed to making the adjustment silently.
+
+      Furthermore, requests by a Player, in a form other than a call for
+      Judgement to adjust the score of another Player must be posted
+      directly to the list, not privately to the adjuster. If the request
+      is in the form of a Call for Judgement, then the rules governing
+      Calls for Judgement apply instead.
+
+      Specifically:
+
+      * At the beginning of the Game, the Point maintainer announces the
+      starting Points of all Players.
+
+      * When the announcement is made of Voting results, the Point maintainer
+      must announce the number of Points gained or lost for each Proposal.
+      The final score for each Voter must also be reported, but this may be
+      done after a group of Voting results on the same day, rather than after
+      each Vote at the discretion of the Point maintainer.
+
+      * Even if a Player's score has not changed, all Players' scores must be
+      announced at least once per week at minimum.
+
+      * If the Point maintainer applies any Rule to adjust a Player's score,
+      the change and the new Point total must be posted to the list.
+
+      * Voluntary Point Trades are posted to the list by the giver, as
+      provided for by Rule 327. The Point maintainer acknowledges this by
+      verifying the amount of the Trade as well as the new Point totals
+      for the relevant Players.
+
+      * If a Player feels that a Player's Points should be adjusted (by
+      applying some penalty or reward clause, say) he posts a message to
+      the list stating the affected Player, the Point change, and the reason.
+      The Point maintainter will acknowlege this to the list, stating the
+      decision made, and if an adjustment is made, the Player's new score.
+      If the request was in the form of a Call for Judgement, the Rules for
+      Calls for Judgement apply instead.
+
+      In general, all requests to the Point maintainer to adjust Points must
+      be posted publicly to the list, not in private. And all decisions by
+      the Point maintainer must be accompanied by the Player's name, the
+      amount of the change, and the new Point total for the Player.
+
+History:
+Created by Proposal 392
+
+----------------------------------------------------------------------
+
+======================================================================
+
+FORMER VERSIONS OF CURRENT RULES
+
+These are all prior versions of rules that have been amended and are
+in the ruleset of 1993-08-28.  It does not include rules that have been
+repealed prior to 1993-08-28.
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+      All Players begin with 0 points.  Points may not be gained, lost, or
+      traded except as explicitly stated in the Rules.
+
+History:
+???
+<this version>
+Amended by Proposal 305
+...
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+      Voters who voted AGAINST Proposals which are adopted receive 10
+      points apiece.  Players whose Proposals are adopted shall receive
+      a random number of points in the range 1-10 inclusive.  Players
+      whose Proposals are not adopted shall lose 10 points.
+
+History:
+???
+<this version>
+Amended
+Amended by Proposal 308
+...
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+      When the prescribed Voting Period for a Proposal is finished,
+      the Player who proposed the Proposal shall receive F-A points,
+      where F is the number of Votes cast FOR the Proposal and A is
+      the number of Votes cast AGAINST it.
+
+History:
+???
+Amended
+<this version>
+Amended by Proposal 308
+...
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+      If Judgement was invoked by a Voter, then the first Judge to be
+      selected to Judge that Statement shall be the Speaker. If Judgement
+      was invoked by the Speaker, the first Judge to be selected shall be
+      be a randomly selected Voter.
+        In all cases, if a Judge beyond the first must be selected to judge
+      a Statement, it shall be a randomly selected Voter.  The Voter thus
+      selected may not be the Player most recently selected as Judge for
+      that Statement, nor may e be the Player who invoked Judgement.
+
+History:
+???
+<this version>
+Amended by Proposal 364
+...
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+???.  Points may be traded
+
+      Players may trade points to other Players, for the purpose of "buying"
+      Votes, Proposals, Judgements, or any other Commodity explicitly
+      outlined by future rules, within the following limits:
+        (a) the trade being made must be posted to the listserv
+        (b) a Player may only trade a positive number of points
+        (c) a Player may not trade more points than e currently has
+      Commodities not explicitly declared as such via legislation (eg "future
+      considerations" at the time of this Proposal) may not be bought or sold.
+
+History:
+???
+<this version>
+Amended by Proposal 374
+...
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+      An adopted Rule Change takes full effect at the moment of the
+      completion of the Vote that adopted it.
+
+History:
+???
+<this version>
+Amended by Proposal 376
+...
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+      No Player may have more than three Proposals up for vote at any
+      given time.
+
+History:
+???
+<this version>
+Amended
+Amended by Proposal 377
+...
+
+----------------------------------------------------------------------
+
+Rule ??? (Mutable)
+
+???.  Proposals per Player
+
+      Any Player who may make a Proposal may have up to four Proposals up
+      for vote at any given time.
+
+History:
+???
+Amended
+<this version>
+Amended by Proposal 377
+...
+
+----------------------------------------------------------------------
