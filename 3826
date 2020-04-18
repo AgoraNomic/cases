@@ -1,0 +1,140 @@
+===============================  CFJ 3826  ===============================
+
+      A zombie auction is ongoing.
+
+==========================================================================
+
+Caller:                        Aris
+Barred:                        G.
+
+Judge:                         R. Lee
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   02 Apr 2020 20:53:39
+Assigned to R. Lee:                               05 Apr 2020 19:53:57
+Judged FALSE by R. Lee:                           06 Apr 2020 00:55:26
+
+==========================================================================
+
+Caller's Evidence:
+
+On Thu, Apr 2, 2020 at 1:52 PM Alexis Hunt wrote:
+> On Thu, 2 Apr 2020 at 13:24, Kerim Aydin wrote:
+> >
+> > On 4/1/2020 9:40 PM, Kerim Aydin wrote:
+> > >
+> > > On 4/1/2020 2:10 PM, Kerim Aydin wrote:
+> > >>
+> > >> I bid 347 coins in the current zombie auction.
+> > >>
+> > >
+> > > I withdraw my bid.  I bid 83 coins.
+> > >
+> >
+> > Ugh, actually I'd forgotten how broken auctions are when this happens.
+> >
+> > I terminate this auction.
+> >
+>
+> Is this effective? It's not clear to me that "cannot transfer any item" 
+> in R2552 means "any item cannot be transferred" or "all items cannot be
+> transferred".
+>
+> -Alexis
+
+
+Gratuitous Discussion (G., Falsifian, Alexis):
+
+On 4/2/2020 6:45 PM, Alexis Hunt wrote:
+> On 4/2/2020 5:44 PM, James Cook wrote:
+>> On 4/2/2020 3:50 PM, Kerim Aydin wrote:
+>>>
+>>> The full phrase in question is "cannot transfer any item included in a
+>>> lot" which reads (to me) to say "if there exists a lot for which any
+>>> item in it can't be transferred, the termination conditions are
+>>> triggered."
+>>>
+>>> Alexis's quoted arguments include the "any item" but leave out the "a
+>>> lot", which changes the meaning.  If it read "included in the lots"
+>>> rather than "included in a lot" I agree that it would favor the "all
+>>> items" interpretation.
+>>
+>>
+>> I don't think I understand your reasoning. To me, the "...included in
+>> a lot in that Auction" is clarifying which set of items the rule is
+>> referring to, i.e. the set of all items in all lots in the auction. I
+>> don't see how it resolves the ambiguity of the word "any".
+>> 
+>> I think disambiguating the meaning of "any" often involves common
+>> sense. I'm not sure whether that's what needs to happen here.
+>
+> 
+> Hmm, but "I can't understand any question" definitely means that none of
+> them can be understood. While your second example seems, I agree, to be
+> interpretable by common sense, that's not my first scan of it; my first
+> scan is pretty strongly that it only applies when the speaker cannot
+> understand a single one.
+> 
+> The fact that I almost wrote "when the speaker cannot understand any
+> question" implies pretty strongly to me that "any" after a negated verb
+> means "none of them". As contrasted to "If any question cannot be
+> understood", where "any" comes before the negation. (cf the relationship
+> between quantification and negation).
+
+--------------------------------------------------------------------------
+
+Judge R. Lee's Arguments:
+
+A zombie auction can be terminated "if the Auction has not ended and the
+Auctioneer of that Auction cannot transfer any item included in a lot in
+that Auction" (as says rule 2552). In this case, one lot could not be
+transferred. The question is whether the auction can end if one lot cannot
+be transferred, or only if all of them cannot be transferred.
+
+The word "any" can mean each. In most legal contexts it does mean each(see
+SAS Institute v Iancu). But that only tends to be the case when it is used
+with "a singular noun in affirmative contexts" (this is quoting SAS
+Institute). In other contexts, any means "one or more selected items in a
+group". The sentence at issue here involves a negative context, and in 
+such
+context, a legal dictate tends to apply when one or more of the items does
+not satisfy a condition, rather than when all of them do not. Let me
+provide an example sentence. "The supplier can embargo a certain region if
+we cannot receive safety assurances from any country included in the
+region". That sentence is basically a mirror of rule 2552, and it's clear
+to all that one country failing to provide assurances is enough for the
+whole region to be subject to embargo.
+
+Alexis offers a sentence similar to "I can't understand any of your
+questions". In this case, any clearly means each, all questions are
+incomprehensible to the speaker. That example sentence, though, is much
+further away from the rule itself than mine, and mine disproves the rule
+offered that "any" after a negated verb always means "each". Instead, I
+think, it is purely contextual. But take this sentence "if any item can't
+be transferred, the auction can be cancelled". That's just a simplified 
+and
+switched up version of the actual rule at issue, but I don't think anyone
+can read that at first scan and think that _every_ item must be unable to
+be transferred
+
+I have said before in CFJs that we resolve textual arguments not like
+robots, but with the reading of reasonable English speakers in mind. I am
+not pointed to any grammatical canon which clearly resolves this case.
+Indeed, looking at grammatical explanations of the word "any" available to
+me, two different meanings seemed to be distinguishable often only by
+context. My first reading of the rule 2552 is that one inability to
+transfer nixes the whole auction. Take this sentence "A worker CAN dispose
+of a shipment of apples if any apple within it cannot be eaten". In that
+case, just like this one, one rotten apple spoils the bunch, consistent
+with, although not strictly required by, rules of grammar.
+
+On the basis of natural grammar, my first reading as a reasonable speaker,
+and the context of one wrong thing being involved in a lot of multiple,
+inextricable things (just like my regions or apples examples), I judge CFJ
+3826 FALSE.
+
+==========================================================================
