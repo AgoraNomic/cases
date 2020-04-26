@@ -7,7 +7,8 @@
 
 Caller:                        R. Lee
 
-Judge:                         Alexis
+Judge:                         G.
+Judgement:                     PARADOXICAL
 
 ==========================================================================
 
@@ -15,6 +16,9 @@ History:
 
 Called by R. Lee:                                 09 Apr 2020 01:02:40
 Assigned to Alexis:                               18 Apr 2020 16:05:59
+Alexis recuses emself:                            18 Apr 2020 18:16:53
+Assigned to G.:                                   25 Apr 2020 19:48:12
+Judged PARADOXICAL by G.:                         26 Apr 2020 08:25:08
 
 ==========================================================================
 
@@ -48,5 +52,138 @@ this rule should be given effect. R. Lee is a player. If this CFJ were
 judged TRUE and R. Lee were held to be given the coin, the rule would be 
 satisfied. There is no other way to distinguish who, specifically, has the 
 coin, so why not give it to R. Lee?
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Warrigal:
+
+Rule 217 "Interpreting the Rules" states:
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence. Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game.
+
+I believe the traditional interpretation of this is that the text of
+the rules must be adhered to, no matter how ridiculous that text may
+be, with inconsistencies in the rules being the sole exception.
+
+Another possible interpretation is that the rules being "silent or
+unclear" may be sufficient cause to set a rule aside in favor of "game
+custom, common sense, past judgements, and consideration of the best
+interests of the game", but I don't believe Rule 217 has ever been
+interpreted that way before, so we shouldn't start interpreting Rule
+217 that way now without a particularly good reason.
+
+The text of the rule enacted by Proposal 8363 "Somebody gets a coin" is:
+
+      When this rule is enacted, a player other than the
+      author of the proposal which enacted this rule earns 1
+      coin. Then, if a player earned a coin this way, this
+      rule repeals itself.
+
+Since this text is in no way inconsistent (although it is "silent" and
+"unclear" as to who was awarded the coin), I think it is clear that we
+are required to implement the rule as written. Therefore, a player
+did, in fact, earn 1 coin, and we now must determine who.
+
+Rule 217 instructs us to make this determination "by game custom,
+common sense, past judgements, and consideration of the best interests
+of the game." The only relevant game custom I'm aware of is that in
+the event of ambiguity, the officer responsible for reporting the
+affected information may make a ruling, and that ruling stands in the
+absence of a particular reason to the contrary.
+
+Therefore, the Treasuror should decide who received the coin, and we
+should accept eir determination in the absence of a particular reason
+why someone else should have received the coin.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+This court agrees that we must adhere to the text of the rule "A Coin
+Award" for the time that it was a rule:
+
+      When this rule is enacted, a player other than the
+      author of the proposal which enacted this rule earns 1
+      coin. Then, if a player earned a coin this way, this
+      rule repeals itself.
+
+The court also agrees that, upon the enactment of that rule, a coin was
+created in the possession of a player, as per the definition of 'earn' in
+R2577/2:
+
+      For an entity to earn an asset is for that asset to be created in
+      that entity's possession.
+
+And just for good measure, the rules grant themselves explicit general
+authority to create coins, as per R2166/28:
+
+                             An asset's backing document can generally
+      specify when and how that asset is created, destroyed, and
+      transferred.
+
+Therefore, in the words of "A Coin Award", a player did indeed earn a coin
+"this way" and the rule repealed itself.
+
+In a more practical jurisdiction than Agora, a judge might say "ah,
+looking at R2576/0, each asset has exactly one owner.  The rule that
+created the coin listed a subset of possible owners, therefore we merely
+decide on someone in that set.  Or maybe defer to the Officer to make the
+decision."
+
+However, Agora also has Rule 2518/0:
+>      If a value CANNOT be reasonably determined (without circularity or
+>      paradox) from information reasonably available, or if it
+>      alternates indefinitely between values, then the value is
+>      considered to be indeterminate, otherwise it is determinate.
+
+This implies that, if insufficient information exists to determine the
+owner of an existing coin, a judge's task is not to pick an arbitrary
+method for determining the value, but simply to determine that the value
+is indeterminate, and see if that leads to an appropriate result.
+
+First, for posterity, it's worth noting that after this CFJ was called,
+P8366 'Asset Determinacy' was adopted (17 Apr 2020), changing part of
+R2576's text from:
+      If an asset would otherwise lack an owner, it is owned by the Lost
+      and Found Department.
+to:
+      If an asset would otherwise lack an owner, or if its ownership
+      would otherwise be indeterminate, it is owned by the Lost and
+      Found Department.
+
+Therefore, upon that change taking effect, the coin in question was
+transferred to the Lost and Found Department, where I believe it resides 
+now.
+
+However, at the time this CFJ was called, the coin belonged to an
+indeterminate player, so that is the basis of this judgement.  Taking the
+wording of the CFJ statement:
+
+      A recent rule named "A coin award" was enacted, increased the
+      number of coins R. Lee owns by 1, and then repealed itself.
+
+We have determined that the rule was enacted, and the rule repealed
+itself.  However, it is indeterminate whether R. Lee's coin totals were
+increased.  Looking at the judgement options in R591/46:
+
+>      * PARADOXICAL, appropriate if the statement is logically
+>        undecidable as a result of a paradox or or other irresovable
+>        logical situation. PARADOXICAL is not appropriate if IRRELEVANT
+>        is appropriate, nor is it appropriate if the undecidability
+>        arises from the case itself or in reference to it.
+
+If the owner of the coin is indeterminate, then it is logically
+irresovable whether R. Lee's coin totals were changed.  It is not
+IRRELEVANT (at the time it was called), as it directly affects the
+Treasuror's records, nor does the undecidability arise from the case
+itself or in reference to it.  Further, the other possible option, DISMISS
+(because insufficient information exists to make a judgement with
+reasonable effort) explicitly excludes itself from consideration if
+PARADOXICAL is appropriate.
+
+Therefore, this court finds PARADOXICAL.
 
 ==========================================================================

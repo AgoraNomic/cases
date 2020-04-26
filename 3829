@@ -14,6 +14,7 @@ Caller:                        Aris
 Barred:                        Publius Scribonius Scholasticus
 
 Judge:                         Jason
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -21,6 +22,7 @@ History:
 
 Called by Aris:                                   11 Apr 2020 22:04:07
 Assigned to Jason:                                18 Apr 2020 16:06:20
+Judged TRUE by Jason:                             24 Apr 2020 14:26:41
 
 ==========================================================================
 
@@ -145,5 +147,63 @@ levy a fine within those guidelines (note that while the relevant
 guideline is a SHOULD, it's within the scope of the restrictions on
 the CAN; I request that the judge rule on whether that makes it a
 limitation on the CAN as I contend it does).
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+This case depends on the structure of Rule 2557/3, which I will repeat
+here for clarity:
+
+>      When the rules authorize an investigator to impose the Cold Hand
+>      of Justice for a violation, e CAN do so by levying a fine of B on
+>      the perp by announcement, within the following guidelines:
+>      
+>      - B is at least 1 and at most twice the base value of the
+>        violation.
+>      
+>      - If the violation is described by the rules as a "Class N Crime"
+>        (where N is a positive integer, or an expression that evaluates
+>        to a positive integer), then N is the base value; otherwise the
+>        base value is 2.
+>       
+>      - The fine SHOULD be reduced to the degree that the violation is a
+>        minor, accidental, and/or inconsequential infraction.
+>      
+>      - The fine SHOULD be increased to the degree that the violation is
+>        willful, profitable, egregious, or an abuse of an official
+>        position.
+
+The phrasing of the rules makes the ability of the investigator to levy
+a fine conditional on the adherence to certain guidelines. The structure
+of the rule also makes it clear that the items in the list are separate
+guidelines. Thus, the latter two items are guidelines as well, and must
+be fulfilled in order for an investigator to be able to levy a fine.
+
+These guidelines use the all-capital term "SHOULD", so we are mandated
+to use the definition provided in Rule 2152/8 to mean:
+
+>       8. SHOULD, ENCOURAGED, RECOMMENDED: Before failing to perform the
+>          described action, the full implications of failing to perform
+>          it should (in the ordinary-language sense) be understood and
+>          carefully weighed.
+
+Thus, these guidelines are equivalent to "Before failing to
+[reduce/increase the fine...], the full implications of failing [to do
+so] should ... be understood and carefully weighed." Thus, I am forced
+to conclude that an attempt to impose the Cold Hand of Justice is
+INEFFECTIVE unless the investigator has done so. Given that the
+investigator wrote some explanation of eir decision, I find that the
+investigator has most likely fulfilled this requirement, so e COULD levy
+a fine by this mechanism.
+
+Now, we must consider Rule 2531/7's conditions on the EFFECTIVENESS of
+fines. As the caller points out, condition (3) is the most relevant
+here. I agree with the caller and find that condition (3) does
+incorporate the guidelines in Rule 2557. Because the investigator
+increased the value of the fine when none of Rule 2557's increase
+conditions it were satisfied, in addition to one of the reduction
+conditions being satisfied, I agree with the caller that condition (3)
+is violated, and find that the fine was INEFFECTIVE. TRUE.
 
 ==========================================================================

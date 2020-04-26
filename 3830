@@ -7,6 +7,7 @@
 Caller:                        Jason
 
 Judge:                         Publius Scribonius Scholasticus
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by Jason:                                  12 Apr 2020 23:41:23
 Assigned to Publius Scribonius Scholasticus:      18 Apr 2020 16:06:48
+Judged FALSE by Publius Scribonius Scholasticus:  19 Apr 2020 11:02:26
 
 ==========================================================================
 
@@ -44,5 +46,65 @@ One of the universal principles of modifiable systems of rules is that
 once a rule (or portion of a rule) is removed from the system, that rule 
 (or portion of a rule) is no longer effective.  Therefore, "Boo clauses" 
 are not effective.
+
+--------------------------------------------------------------------------
+
+Judge Publius Scribonius Scholasticus's Arguments:
+
+There are a few scenarios that could have occurred that we must consider,
+each of which correspond to possible texts of the rule.
+
+Scenario 1
+
+   One week after this sentence is modified in any way, this rule
+   is amended by inserting this sentence as the first paragraph of
+   this rule.
+
+   If this is the only paragraph in this rule, and it has been at
+   least one week since this rule was last amended, then any player
+   CAN Close the Eye by announcement. When that happens, this rule
+   repeals itself.
+
+In this scenario, an attempt to close the eye would be ineffective because
+the first paragraph would be added as soon as one week had passed,
+therefore no time would exist in which the second paragraph was the only
+paragraph and a week had passes since the rule was last amended. If this
+were the scenario, Rule 2601 would be a rule.
+
+Scenario 2 and 3
+
+   If this is the only paragraph in this rule, and it has been at
+   least one week since this rule was last amended, then any player
+   CAN Close the Eye by announcement. When that happens, this rule
+   repeals itself.
+
+In these scenarios, the first paragraph would be unable to reinsert itself,
+and closing the eye would be effective. In Scenario 2, closing the eye
+would cause the rule to repeal itself, but in scenario 3, this would not
+cause the rule to repeal itself.
+
+In order to determine which of these scenarios occurred, we need to look at
+R105, "Rule Changes". First, we can eliminate scenario 1. While Rule 105
+doesn't specifically lay out what occurs during amendment, we can assume
+that the former text of the rule no longer exists because it is fully
+replaced by the new text. As a result, the old text would not have
+sufficient power to amend a rule, therefore Scenario 1 is not valid. Now,
+looking between scenarios 2 and 3, we have to consider the ordering of
+events and where the rule loses power under list item 2 in R105. I believe
+that the process is as follows:
+
+           Person closes the eye
+                     |
+                     |
+                     V
+      Rule causes the repeal to occur
+                     |
+                     |
+                     V
+Repeal occurs, setting rule's power to zero
+
+Given this ordering, the rule still had power when the repeal was
+initiated, so the repeal was effective. Therefore, Rule 2601 was repealed.
+From this, I judge CFJ 3830 FALSE.
 
 ==========================================================================

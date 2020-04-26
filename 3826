@@ -17,6 +17,8 @@ History:
 Called by Aris:                                   02 Apr 2020 20:53:39
 Assigned to R. Lee:                               05 Apr 2020 19:53:57
 Judged FALSE by R. Lee:                           06 Apr 2020 00:55:26
+Motion to reconsider self-filed:                  06 Apr 2020 12:03:40
+Judged FALSE by R. Lee:                           06 Apr 2020 12:03:40
 
 ==========================================================================
 
@@ -93,21 +95,27 @@ A zombie auction can be terminated "if the Auction has not ended and the
 Auctioneer of that Auction cannot transfer any item included in a lot in
 that Auction" (as says rule 2552). In this case, one lot could not be
 transferred. The question is whether the auction can end if one lot cannot
-be transferred, or only if all of them cannot be transferred.
+be transferred, or only if all of them cannot be transferred. If the former
+is true, this CFJ is FALSE as the auctioneer terminated the March zombie
+auction after one lot became nontransferrable . If the latter is correct,
+this CFJ is TRUE.
 
 The word "any" can mean each. In most legal contexts it does mean each(see
 SAS Institute v Iancu). But that only tends to be the case when it is used
 with "a singular noun in affirmative contexts" (this is quoting SAS
 Institute). In other contexts, any means "one or more selected items in a
-group". The sentence at issue here involves a negative context, and in 
-such
+group". The sentence at issue here involves a negative context, and in such
 context, a legal dictate tends to apply when one or more of the items does
 not satisfy a condition, rather than when all of them do not. Let me
 provide an example sentence. "The supplier can embargo a certain region if
 we cannot receive safety assurances from any country included in the
 region". That sentence is basically a mirror of rule 2552, and it's clear
 to all that one country failing to provide assurances is enough for the
-whole region to be subject to embargo.
+whole region to be subject to embargo.Or take this sentence "A worker CAN
+dispose
+of a shipment of apples if any apple within it can't be eaten". In that
+case, just like this one, one rotten apple spoils the bunch, consistent
+with, although not strictly required by, rules of grammar."
 
 Alexis offers a sentence similar to "I can't understand any of your
 questions". In this case, any clearly means each, all questions are
@@ -115,11 +123,27 @@ incomprehensible to the speaker. That example sentence, though, is much
 further away from the rule itself than mine, and mine disproves the rule
 offered that "any" after a negated verb always means "each". Instead, I
 think, it is purely contextual. But take this sentence "if any item can't
-be transferred, the auction can be cancelled". That's just a simplified 
-and
+be transferred, the auction can be cancelled". That's just a simplified and
 switched up version of the actual rule at issue, but I don't think anyone
 can read that at first scan and think that _every_ item must be unable to
 be transferred
+
+Alexis offers another sentence, which slightly rephrases my example
+sentence about apples, above. Eir sentence reads "A worker CAN dispose of a
+shipment if a recipient cannot eat any apple within". I think that the
+"cannot" part applies to any single apple. Cannot is the opposite of can
+and it is not true that a recipient "can" eat "any" apple within a shipment
+if one single apple is, in fact, spoiled. But that's beside the point. I
+think in this case "the Auctioneer of that Auction cannot transfer any item
+included in a lot in that Auction" is a phrase that is different to "a
+recipient cannot eat any apple within the shipment" because in this context
+we are _really_ talking about the item itself being nontransferable by law,
+although the auctioneer is the actor in this sentence as grammatically
+written. Whereas in the apple example we are talking a lot more about
+whether any theoretical recipient could actually eat it, which makes your
+sentence a very different sentence from "if the apple cannot be eaten". In
+this case, I don't think "the auctioneer cannot transfer any lot" is
+different to "any lot cannot be transferred".
 
 I have said before in CFJs that we resolve textual arguments not like
 robots, but with the reading of reasonable English speakers in mind. I am
@@ -127,14 +151,35 @@ not pointed to any grammatical canon which clearly resolves this case.
 Indeed, looking at grammatical explanations of the word "any" available to
 me, two different meanings seemed to be distinguishable often only by
 context. My first reading of the rule 2552 is that one inability to
-transfer nixes the whole auction. Take this sentence "A worker CAN dispose
-of a shipment of apples if any apple within it cannot be eaten". In that
-case, just like this one, one rotten apple spoils the bunch, consistent
-with, although not strictly required by, rules of grammar.
+transfer nixes the whole auction.
 
-On the basis of natural grammar, my first reading as a reasonable speaker,
-and the context of one wrong thing being involved in a lot of multiple,
-inextricable things (just like my regions or apples examples), I judge CFJ
-3826 FALSE.
+But I understand that the first readings of this rule offered by some of my
+Agoran colleagues differ from mine. All of us, of course, are reasonable
+and fluent English speakers. "Any" can certainly mean "each" or not
+depending on a variety of contextual factors. So I conclude that, although
+I think my reading of the text is a better (not just plausible one),  I
+should briefly turn to the rule 217 factors. Game custom and past CFJs, it
+seems to me, are not relevant here. I could find no CFJs reflecting on the
+meaning of "any". I did find a rule that said "any player CAN perform the
+ritual", which of course is a singular any, but this sentence does not
+constitute game custom regarding the construction of ambiguity regarding
+the word "any". Common sense is a difficult factor to apply, but as I have
+been appointed judge, I simply note once again that my first reading of the
+rule, which is a plausible and natural grammatical construction, was that
+one nontransferrable lot would nix the auction. Finally, I think that the
+best interest of the game is not to have confusing auctions in which
+certain lots don't work, as these would be hard to resolve and could create
+perverse incentives in the bidding process (like making the most valuable
+lot nontransferrable by exploiting current bugs to avoid someone else
+getting it).
+
+I would like to note that I hate the rule 217 factors. I think they should
+be abolished. And I think that my grammatical arguments are enough to
+sustain the judgement. But CFJs are nonbinding in the end, and I add the
+argument regarding the best interests of the game in order to convince
+people of the validity of this judgement, if they are not sure that my
+textual arguments put this case beyond the realm of ambiguity.
+
+This CFJ Is FALSE.
 
 ==========================================================================
