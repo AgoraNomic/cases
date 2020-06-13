@@ -1,0 +1,43 @@
+===============================  CFJ 3846  ===============================
+
+      CFJ 3835 is G.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         Aris
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  12 Jun 2020 02:08:56
+Assigned to Aris:                                 13 Jun 2020 18:35:47
+
+==========================================================================
+
+Caller's Arguments:
+
+[Arbitor's note: 'previous CFJ' is 3845].
+
+If the previous CFJ that I called was found TRUE, then that provides
+evidence for the statement of this CFJ being TRUE: at some point, CFJ
+3835 "became" G. Nothing would have caused CFJ 3835 to cease being G.,
+which would imply that CFJ 3835 remains G. right now.
+
+Even if my previous arguments were not adopted, there remains a case for
+this statement being TRUE. Rule 991/31 uses the following wording:
+
+>       When a CFJ's judge is unassigned, the Arbitor CAN assign any
+>       eligible player to be its judge by announcement, and SHALL do so
+>       in a timely fashion.
+
+The only way it can be said that a CFJ "is" unassigned is if it "is" the
+value of its instance of the judge switch. I argue that this should
+extend to other possible values of judge as well - even those that are
+not explicitly named in the rule, i.e. persons. We also use the phrasing
+elsewhere - officeholder is a switch possessed by offices, and we say
+that "the Arbitor is G.".
+
+==========================================================================

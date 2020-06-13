@@ -1,0 +1,40 @@
+===============================  CFJ 3847  ===============================
+
+      If an impure person Raises a Banner, eir Ribbon Ownership becomes
+      the empty set but e does not win the game.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         ATMunn
+
+==========================================================================
+
+History:
+
+Called by G.:                                     12 Jun 2020 18:44:26
+Assigned to ATMunn:                               13 Jun 2020 18:48:46
+
+==========================================================================
+
+Caller's Arguments:
+
+There's seemingly nothing stopping an impure person from Raising a Banner
+if eir ribbon ownership allows, even though e's prevented from winning.
+It's unclear whether the ribbon reset is a result of raising the banner on
+its own, or whether failure to win prevents the reset.
+
+
+Caller's Evidence:
+
+From Rule 2438/18 (Power=3) Ribbons:
+>      While a person owns all types of Ribbon, that person can Raise a
+>      Banner by announcement. This causes that person to win the game.
+>      That person's Ribbon Ownership becomes the empty set.
+
+From Rule 2556/1 (Power=3) Penalties:
+>      Rules to the contrary notwithstanding, an impure person CANNOT win
+>      the game.
+
+==========================================================================

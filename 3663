@@ -1,0 +1,239 @@
+===============================  CFJ 3663  ===============================
+
+      My definition of the reiteration of votes is effective.
+
+==========================================================================
+
+Caller:                        Aris
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   24 Sep 2018 01:55:11
+Assigned to G.:                                   28 Sep 2018 14:07:43
+Judged FALSE by G.:                               28 Sep 2018 18:02:26
+Motion to reconsider self-filed:                  05 Oct 2018 14:42:54
+Judged FALSE by G.:                               12 Oct 2018 14:37:39
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sun, Sep 23, 2018 at 6:15 PM Aris Merchant wrote:
+>
+> TL;DR: To reiterate your vote on a proposal means to vote and have
+> your zombie vote the same way you did last time the voting on the
+> proposal was open.
+>
+> As a general definition, let "I reiterate my vote on X", where X is a
+> proposal such that the voting period of an Agoran Decision on the
+> subject of whether to adopt X is currently open and that an Agoran
+> Decision on the subject of whether to adopt X has previously been
+> resolved, be defined as meaning "I unconditionally vote, and act on
+> behalf of each zombie that I own to unconditionally vote, the same on
+> the Agoran Decision on the subject of whether to adopt X as I did the
+> last time I voted on an Agoran Decision on the subject whether to
+> adopt X, or PRESENT if I have never before voted on an Agoan Decision
+> on the subject of whether to adopt X".
+>
+> This message is not part of a scam.
+>
+> [This is an informal general definition that is helpful for proposals
+> added again to the pool. The Assessor already has this information,
+> which means that it's legal under past precedent to cast a vote that
+> requires em to retrieve it.]
+>
+> -Aris
+>
+
+Gratuitous Arguments by Ørjan and Aris:
+
+Ørjan wrote:
+>> [This is an informal general definition that is helpful for proposals
+>> added again to the pool. The Assessor already has this information,
+>> which means that it's legal under past precedent to cast a vote that
+>> requires em to retrieve it.]
+>
+> The obvious question is why e should be required to keep the information
+> in the definition message.
+
+
+Aris wrote:
+> This is intended to work the same way TTttPF works, by becoming a part of
+> the Agoran dialect. This formal definition is merely supposed to enter
+> the information into our collective consciousness.
+
+
+Ørjan wrote:
+> I don't think that works when "I reiterate my votes" has an obvious
+> natural meaning that _isn't_ what you want.
+>
+> "On behalf of myself and my Zombie, I reiterate our votes." should work,
+> and then you can shorten it to ObomamZ after people get used to it. :P
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The Caller has attempted to assert that a certain short phrase (hereafter
+the Jargon) can be substituted for a set of actions (hereafter the
+Actions).  In this context, "effective" in the CFJ statement could have
+two meanings:  (1) Does the Jargon effectively enter the Agoran lexicon as
+a replacement stating that one performs the Actions, and (2) do the
+Actions themselves (i.e. if announced without the Jargon) have the desired
+game effect.  In other words, is it effective in word AND in deed?  I'll
+opine on both of these.
+
+I'll start with the second one.  The Actions in question are:
+   "I unconditionally vote, and act on
+    behalf of each zombie that I own to unconditionally vote, the same on
+    the Agoran Decision on the subject of whether to adopt X as I did the
+    last time I voted on an Agoran Decision on the subject whether to
+    adopt X, or PRESENT if I have never before voted on an Agoan Decision
+    on the subject of whether to adopt X"
+
+First, I'll note that Agora favors "natural language" in talking about
+"definitions", not the "computer programming" sense of definitions.  In
+the computer programming sense, one would substitute the Actions for the
+Jargon before evaluating the statement, then treat the statement as if it
+contained the exact quote.  However, in natural language, we look at
+context and parts of speech, and don't perform "exact substitutions"
+generally. 
+
+Looking at the Actions, there's an unexpected side-issue, specifically
+with Zombies, in R2466(Acting on Behalf):
+                       the agent must, in the message in which the
+      action is performed, uniquely identify the principal and that the
+      action is being taken on behalf of that person.
+
+The key phrase here is "in the message...uniquely identify".  For actions
+in general, we have a weaker standard, we've allowed "specify" in R478
+to include outside references (e.g. to other Reports or messages). 
+However, "in the same message uniquely identify" is a stronger standard.
+Specifying "each zombie I own" or even "my zombie" does not IN THE SAME
+MESSAGE identify the principal - instead it refers to outside
+information.  The only Rules-supported way to uniquely identify a person
+in a standalone message is in R2139:  using "information sufficient to
+identify" the principal, which by long-standing tradition is the person's
+name or nickname (and yes, variant spellings count as long as there's no
+confusion).
+
+Therefore, for ANY zombie action, the zombie's name must appear explicitly
+in the action message, AND a clear indication that it's an act-on-behalf
+action (via verbs like "I act on behalf" or "I make" or "I cause" or "I
+have" or explicitly indicating that the explicitly-named person is the
+agent's zombie).  And importantly, "in the message" means NO substitutions
+allowed.
+
+Therefore, these actions, by using "each zombie", would fail, even if used
+directly without the Jargon.  And further, since the Jargon does not
+explicitly include the "act on behalf", using the Jargon would have two
+points of failure.
+
+Important to note, this affects our general interpretation of zombie
+actions. Past actions that use "my zombie" instead of a name have been
+accepted, that was incorrect (but those have self-ratified I believe).
+
+The zombie part aside, I find that some variant of "I unconditionally vote
+as I did on my most recent vote" is fine and functional, provided the
+record is reasonably clear.  But the zombie part makes the Actions
+as a whole ineffective.
+
+NOW:  on to the Jargon. Has the Caller successfully introduced "reiterate"
+as a synonym for a particular set of Actions?
+
+In general, Agorans use Jargon a fair amount, and there's nothing wrong
+with that. However, each player is not free to adopt Humpty Dumpty's
+maxim of choosing words to mean just what *they* want them to mean, that's
+chaos rather than communication.
+
+Further, CFJ 1460 set a long-standing precedent that announced actions
+cannot take an unreasonable effort to interpret (this is captured in R2517
+for conditionals).  This needs to be considered collectively as well as
+individually - while it isn't unreasonable for an Assessor to remember a
+few, well-used pieces of Jargon, it would be unreasonable if 20 players
+introduced 20 different pieces of Jargon with slightly different nuances.
+
+So what's the appropriate filter?  After some considerations about how
+jargon enters Agora, I offer 3 tests that a judge might consider.
+
+1.  Is the Jargon contained in a Rules-sanctioned legal document?  (E.g.
+the Rules or a Contract)? [*]
+
+2.  Does the Jargon stand out as a term-of-art? (that is, is its proposed
+use sufficiently different than the jargon's common use, or is it clearly
+an acronym, so that a typical Agoran reader would recognize it as jargon,
+even if e didn't know the exact meaning?)
+
+3.  Was the Jargon introduced with context initially (and repeatedly)? 
+(E.g., in its early use, it was used as "I [Jargon], as per the [Jargon]
+Contract" or quoting the meaning of the jargon).
+
+These are guidelines, not hard-and-fast proscriptions.  These are not
+meant to stifle the natural evolution of a community's communication
+practices.  However, these should CERTAINLY be examined when attempts are
+made to *purposefully* introduce a new term. 
+
+My feeling is that, for most cases, having 1 of the above elements isn't
+enough.  Just being in a Contract isn't enough if the term is otherwise
+common and hasn't been introduced with context.  Just being a stand-out
+word isn't enough if there's no reference for the meaning.  Being
+introduced in context isn't enough if it doesn't stand out later.  So
+maybe 2 of the 3 is enough (e.g. the Foundry contract satisfied (1) and
+(2) for Shipping and Receiving, TTTTPF satisfies (2) and (3)).  But this
+should be judged on a case-by-case basis.
+
+So how does the Caller's attempt fare?
+
+1. The document in questioned is not rules-sanctioned, so 0 points there.
+
+2. Not only does the chosen term ("reiterate") have a common use that
+makes sense in context of voting, but the common use is actually opposite
+the proposed meaning!  To "reiterate" means to "restate clearly".  If you
+say "I hereby restate my name for the record" but don't actually restate
+your name, that's "I Say I Did" - it's not true that you did it. 
+Similarly, if you say "I reiterate my vote" without actually restating
+your vote, you're not telling the truth in common language.  Since this is
+a complete reverse of the term's common-language use, and the common-use
+makes perfect sense with respect to restating a vote, I'd give a -1 there.
+
+3. The term has seen one "actual" use, without context in the message.
+So 0 there.  (Maybe 0.5, as the proximity of other threads on the subject
+might offer context).
+
+Again, these are guidelines, it's not as if summing them is trying to meet
+a set level.  But overall, taking the tests both individually and
+collectively, it seems here that this particular Jargon introduction would
+not be effective at conveying the intended actions, so the definition is
+ineffective.
+
+Having noted that the caller's definition is ineffective both in word and
+in deed, I find this CFJ FALSE.
+
+
+[*] Addendum following Motion to Reconsider:
+
+Aris wrote:
+> There's one part of this CFJ I strongly disagree with, which is the
+> special status accorded to contracts. Contracts have no extra, magical
+> power to define things. If a rule or regulation defines something,
+> then no further test should be required. If a contract defines
+> something, I see no reason why that should be accorded a special
+> deference.
+
+Judge G. wrote:
+> You are correct that I was over-broad in suggesting that *any* contract
+> would work.  Obviously, for example, Hashed contracts wouldn't do the 
+> trick.
+> 
+> I would amend that with a simple asterisk, to say "Is the Jargon in a
+> Document that is public in content that has a firm legal status resistant
+> to change (i.e. tracked by Agora, or prevented from changing without
+> reasonable notice)?.  Certain contracts would qualify if the change
+> mechanism required a public process at least equivalent to With Notice."
+
+==========================================================================

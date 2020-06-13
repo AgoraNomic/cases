@@ -1,0 +1,110 @@
+===============================  CFJ 3841  ===============================
+
+      In the above statement, I issued a Call for Judgement on whether I
+      transferred a coin to Agora in the statement preceding that one.
+
+==========================================================================
+
+Caller:                        ATMunn
+
+Judge:                         Jason
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ATMunn:                                 03 Jun 2020 01:34:29
+Assigned to Jason:                                07 Jun 2020 17:29:26
+Judged TRUE by Jason:                             11 Jun 2020 15:11:02
+
+==========================================================================
+
+Caller's Evidence:
+
+On 6/2/2020 6:34 PM, ATMunn via agora-business wrote:
+> Yo transfiero una moneda a Agora.
+>
+> CFJ: En la declaración anterior, transferí una moneda a Agora.
+> 
+> CFJ: In the above statement, I issued a Call for Judgement on whether
+> I transferred a coin to Agora in the statement preceding that one.
+
+
+Caller's Arguments:
+
+[Arbitor's note: The "first CFJ" refers to this CFJ (CFJ 3840).  The
+"second CFJ" refers to CFJ 3841]
+
+Nothing in the rules states that statements of intent must be in English.
+Rule 478 states that a person performs an action by "unambiguously and
+clearly specifying the action and announcing that e performs it." Though
+not everyone may be able to understand Spanish, it is clear that the
+message is in Spanish, and, when translated online, the message
+unambiguously and clearly specifies the action. For this reason, I think
+that this CFJ should be judged TRUE. However, an argument for judging it
+FALSE is that Agora has, since its beginning, always been conducted in 
+English. The actual statement itself in its current form, therefore, could
+be interpreted as being very unclear and ambiguous, since most readers
+will not understand its meaning without a translator.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+Since the first statement is clearly labelled statement that uses the
+rules-defined term of art CFJ, I'm treating it as clearly being a CFJ
+(previous foreign-language CFJ experiments included attempts to translate
+the phrase "I Call for Judgement on..." into the foreign language as well,
+so were different situations).
+
+Of course (for the second cfj), whether the first cfj is a cfj on "whether
+I transferred a coin..." is still an open question.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+The evaluation of this statement requires two questions to be answered:
+
+1. Did the caller (ATMunn) "issue" a Call for Judgement in the
+referenced statement?
+
+2. If so, is that Call for Judgement "on whether [e] transferred a coin
+to Agora in the statement preceding" the statement in which e issued
+that Call for Judgement.
+
+In answer to the first question, I find that ATMunn did "issue" a CFJ in
+the referenced statement. The minor wording difference between eir
+"issue" and Rule 991/31's "initiate" is not significant - nobody would
+bat an eye at a player saying "I issue a CFJ...". Second, the acronym
+"CFJ" followed by a statement is commonly accepted to initiate a CFJ.
+Rule 991 states that this is a by-announcement action, and Rule 478/38
+sets a standard of "clearly specifying the action and announcing that e
+performs it" for by-announcement actions. The caller's statement clearly
+meets this standard, and the fact that the statement of the created CFJ
+is in a foreign language is irrelevant by CFJ 3535 [0].
+
+Now I move to the second question, which is likely the more significant
+issue in this case. CFJ 3536 [1] used machine-translation to translate a
+CFJ statement into a foreign language, and judged it DISMISS based on
+the fact that the translated meaning of the statement was ill-formed,
+rather than the statement itself being in a foreign language. This
+implies that judges are permitted to inspect the platonic meaning of the
+statement of a CFJ in a foreign language. As such, I will do so here.
+
+The statement of the CFJ referenced by the statement of this CFJ is "En
+la declaración anterior, transferí una moneda a Agora."
+Machine-translation by Google Translate yields "In the statement above,
+I transferred a coin to Agora.", which is abundantly clear, and is
+confirmed by discussion on the mailing lists and my rudimentary Spanish
+knowledge. Having determined unambiguously the meaning of the statement
+of the previous CFJ, and finding it consistent with being "on whether
+[the caller] transferred a coin to Agora" in the preceding CFJ, I find TRUE.
+
+
+[0]: https://faculty.washington.edu/kerim/nomic/cases/?3535
+
+[1]: https://faculty.washington.edu/kerim/nomic/cases/?3536
+
+==========================================================================

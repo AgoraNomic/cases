@@ -1,0 +1,178 @@
+===============================  CFJ 3837  ===============================
+
+      Falsifian owns at least one blot if and only if English Wikipedia
+      has an article titled "Sponge".
+
+==========================================================================
+
+Caller:                        Falsifian
+
+Judge:                         grok
+Judgement:                     IRRELEVANT
+
+==========================================================================
+
+History:
+
+Called by Falsifian:                              24 May 2020 16:50:08
+Assigned to grok:                                 31 May 2020 19:06:51
+Judged IRRELEVANT by grok:                        06 Jun 2020 18:07:34
+
+==========================================================================
+
+Caller's Arguments:
+
+Wikipedia has an article titled "Sponge", so this comes down to
+whether Falsifian owns at least one blot.
+
+Blots affect voting power, so this CFJ is not IRRELEVANT.
+
+According to the last two Referee reports (the second-last has
+self-ratified), Falsifian owns no blots. E has not gained any since.
+So FALSE.
+
+
+Caller's Evidence:
+
+https://en.wikipedia.org/wiki/Sponge (just now archived at
+https://web.archive.org/web/20200524164258/https://en.wikipedia.org/wiki/Sponge)
+
+From the latest referee report:
+
+>    Blots    Active player
+>    -----    -------------
+>      1      G.
+>      2      Gaelan
+>      2      nch
+>      2      omd
+>      2      R. Lee
+>      2      twg
+>
+>    Blots    Zombie
+>    -----    ------
+>
+>    No fugitives exist.
+
+From the 2019-05-17 referee report:
+
+>    Blots    Active player
+>    -----    -------------
+>      1      G.
+>      2      Gaelan
+>      1      Murphy
+>      2      nch
+>      2      omd
+>      2      twg
+>
+>    Blots    Zombie
+>    -----    ------
+>
+>    No fugitives exist.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by nch:
+
+This CFJ should be found FALSE because the rules do not define a
+biconditional relationship between these facts, regardless of whether
+either individual fact is TRUE or FALSE.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+A judgement of IRRELEVANT is also appropriate - to evaluate this, we are 
+required to consider a world in which a common subject like "sponge" is
+not in Wikipedia.  A world like this might be strange in other ways. 
+This is, literally and directly, an "overly hypothetical extrapolation of
+the game or its rules to conditions that don't actually exist" as defined
+for IRRELEVANT in R591.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Falsifian:
+
+If you accept my previous argument, i.e. that my statement should be
+interpreted in the classical logic way, then there's nothing
+hypothetical in my statement.
+
+If you don't, then this seems like a good argument to me.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by ais523:
+
+Although Blot ownership is not IRRELEVANT, the actual
+statement of the CFJ is IRRELEVANT; there's no particular relevance in
+the combination of Falsifian's blot holdings and the existence of a
+particular Wikipedia article.
+
+If CFJs like this one were deemed to be relevant, then judges could be
+forced to evaluate the truth of almost arbitrary statements that had
+nothing to do with Agora. I'd personally find this useful, but it
+seems rather unfair on the judges.
+
+--------------------------------------------------------------------------
+
+Judge grok's Arguments:
+
+I believe there are generally two prongs to explore in this CFJ. I
+will answer them in order starting with my decision.
+
+== 1 ==
+
+The first question is whether the CFJ passes muster of relevance. G's
+gratuitous arguments point to the letter of the law. R591's definition
+of IRRELEVANT has three tests:
+
+1. Is the question relevant to the game?
+2. Is the question an "overly hypothetical extrapolation of the game"?
+3. Can the question be trivially answered from another CFJ?
+
+3837 passes the third test, as this question is not trivially answered
+by another CFJ, complete or pending. Tests 1 and 2 are where we find
+issues.
+
+Falsifian argues in calling that blots affect voting power, and this
+CFJ requests clarity on eir blots, so the CFJ is not IRRELEVANT. It is
+true that blots are a gamestate question and RELEVANT, but I am
+persuaded by ais523's argument that the existence of a particular
+external circumstance is IRRELEVANT. While part of the question passes
+muster, I do not see a clear link between the game state question and
+the external question.
+
+To clarify, I find the primary issue here to be a lack of announced
+game state actions that link the external circumstance and Falsifian's
+blot count. I do believe there are ways to take actions by
+announcement that can link the gamestate to external elements
+(Pledges, Faking, etc.), but absent one here I agree with ais523's
+gratuitous argument that this CFJ is IRRELEVANT.
+
+On relevance, I also am persuaded by G's gratuitous argument. While
+the CFJ system has wide authority to render judgments, IRRELEVANT can
+function as a "pressure release valve" to allow judges some purview to
+dismiss overly hypothetical cases. I believe this interpretation can
+be extremely valuable to prevent court clog and ensure the CFJ system
+is used to primarily resolve game conflicts. I agree with both the
+letter of the rule and the above interpretation, and find CFJ 3837
+fails the second test and is IRRELEVANT.
+
+I find this CFJ IRRELEVANT, as it is is not relevant to the game as a
+whole and is an overly hypothetical extrapolation of the game rules
+
+== 2 ==
+
+There is a group of arguments between nch and Falsifian regarding the
+linguistic implications of Falsifian's submitted statement. I believe
+the conversation in the gratuitous arguments is worth reading without
+my input, so I will simply provide my brief opinion on the results.
+
+I personally believe linguistic intent does not matter when performing
+actions by announcement in Agora-Business. The only thing that truly
+matters is whether your action was unambiguous. I generally agree with
+nch that this CFJ's language is ambiguous, but I tend to believe in
+this case that a ruling of "DISMISS" is more appropriate. At very
+least, I am most persuaded that the question is undecidable or
+malformed than that the question is logically FALSE.
+
+==========================================================================

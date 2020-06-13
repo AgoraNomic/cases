@@ -1,0 +1,139 @@
+===============================  CFJ 3835  ===============================
+
+      It is both possible and true that a rule named "A coin award" took
+      the game action of increasing the number of coins R. Lee owned by
+      1.
+
+==========================================================================
+
+Caller:                        R. Lee
+
+Judge:                         G.
+Judgement:                     IRRELEVANT
+
+==========================================================================
+
+History:
+
+Called by R. Lee:                                 16 May 2020 00:29:54
+Assigned to G.:                                   16 May 2020 20:24:42
+Judged IRRELEVANT by G.:                          16 May 2020 20:24:42
+
+==========================================================================
+
+Caller's Arguments:
+
+I will simply link the two CFJs that provide all relevant context for
+these two CFJs:
+https://faculty.washington.edu/kerim/nomic/cases/?3828
+https://faculty.washington.edu/kerim/nomic/cases/?3832
+
+These two cases include sufficient arguments and summaries of the facts
+involved that you can decide this case. I don't think I need to
+provide/rehash any other arguments or evidence to avoid insufficiency.
+The only thing I'd like to add is that irrelevant is not an appropriate
+judgement on the first CFJ because it is relevant to whether or not I have
+a legal obligation. Also the first CFJ is clearly about the possibility of
+a game action due to its phrasing that specifically includes those
+elements.
+
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The office of Arbitor has an interest in the precedent this particular
+case sets, in terms of the culture of Agoran judgements.  Therefore I am
+purposefully assigning this case to myself and judging this case under the
+spirit of this clause of Rule 991:
+
+>     The Arbitor is an office, responsible for the administration of
+>     justice in a manner that is fair for emself, if not for the rest
+>     of Agora.
+
+There's two aspects of "fairness" to consider here.  First, when a winning
+condition arises through a bug, it sometimes does so in such a way that
+multiple (sometimes infinite) wins could be manufactured.  So, out of
+"fairness", we (culturally) discourage people from tweaking past attempted
+win methods slightly and claiming them.  If the win arises from the
+administration of justice (i.e. the direct result of a CFJ), then repeated
+CFJs to manufacture wins would be generally "unfair" by this custom.
+
+Second, "fairness" in the administration of justice applies to respect for
+the judges of past judgements.  R217 gives weight to past precedents, but
+beyond that, we have a culture of respecting each judge's initial primacy
+in a question and not re-litigating.  Otherwise it would not be fair to
+past judges who put work into judgements, or to the Arbitor, as the same
+cases might be called and called again whenever doing so is to someone's
+game advantage.
+
+Combining these different types of fairness, we look at this clause in
+R591:
+      * IRRELEVANT, appropriate if [...] it can be trivially determined
+        from the outcome of another (possibly still undecided) judicial
+        case that was not itself judged IRRELEVANT
+
+In order to both be "fair" to judges (for setting past precedent) and to
+be "fair" to players (to limit copycat PARADOXICAL wins, in particular)
+and to be "fair" to the Arbitor (to limit copycat caseload), the term
+"trivially" in R591 should be given a little breathing space.  So if the
+judge of a current case has to discuss or interpret the issue for a
+paragraph or so, to determine if a past case applies, it is still in the
+category of "trivial", provided the resulting interpretation uses (in
+R217's words) "direct, forward reasoning" from the past CFJ that would be
+pretty clear to most people, and that the original case arguments are
+answering the question that was asked originally (and not a digression,
+etc.).
+
+In CFJ 3828, the judge's arguments were very specific and direct:
+>
+> The court also agrees that, upon the enactment of that rule, a coin was
+> created in the possession of a player, as per the definition of 'earn'
+> in R2577/2:
+>
+>      For an entity to earn an asset is for that asset to be created in
+>      that entity's possession.
+>
+> And just for good measure, the rules grant themselves explicit general
+> authority to create coins, as per R2166/28:
+>
+>                             An asset's backing document can generally
+>      specify when and how that asset is created, destroyed, and
+>      transferred.
+>
+> Therefore, in the words of "A Coin Award", a player did indeed earn a
+> coin "this way" and the rule repealed itself.
+
+and
+
+> We have determined that the rule was enacted, and the rule repealed
+> itself.  However, it is indeterminate whether R. Lee's coin totals were
+> increased.
+
+So while CFJ 3828 had a "compound" CFJ statement, the logic used to come
+to the final decision was a direct answer to the question asked now.
+Furthermore, answering CFJ 3835's statement wasn't a digression on the
+part of the judge of CFJ 3828, but was the key logic used to decide the
+prior case.  Therefore for the question asked in the current CFJ:
+
+> It is both possible and true that a
+> rule named "A coin award" took the game action of increasing the number
+> of coins R. Lee owned by 1.
+
+simply quoting the above section of CFJ 3828's judge's arguments directly
+and clearly answers the current question; in other words, it is "trivial"
+to link the current statement to the prior logic.  This current case is a
+direct common-sense forward application from a previous case, really as
+direct as it gets.
+
+So if this current case isn't IRRELEVANT, for reasons of being directly
+and trivially answerable from a past CFJ, then that triviality clause is
+pretty meaningless. In terms of R217 tests concerning the definition of
+"trivial" in this context, under the judicial fairness doctrine mentioned
+earlier, nerfing IRRELEVANT that much would against Agoran custom, would
+directly devalue past judgements, and would not be fair to the Arbitor nor
+to the rest of Agora, thus not for the good of the game.
+
+I find IRRELEVANT.
+
+==========================================================================

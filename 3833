@@ -1,0 +1,142 @@
+===============================  CFJ 3833  ===============================
+
+      In the above message, Trigon created a proposal.
+
+==========================================================================
+
+Caller:                        R. Lee
+
+Judge:                         Jason
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by R. Lee:                                 12 May 2020 04:01:14
+Assigned to Jason:                                13 May 2020 21:30:31
+Judged FALSE by Jason:                            20 May 2020 00:01:45
+
+==========================================================================
+
+Caller's Evidence:
+
+On Tue, May 12, 2020 at 12:41 PM Trigon via agora-business wrote:
+>
+> I retract the quoted proposal and submit the following in its place:
+>
+> ---
+> Title: Agora plays table tennis
+> AI: 0.1
+> Author: Trigon
+> Coauthors:
+>
+> Create a new rule entitled "Ping Pong" with Power=0.1 that reads:
+>
+>        The first public message sent by a player each Agoran day must
+>        begin with the word ping (case-insensitive). The second public
+>        message sent by a player each Agoran day must end with the word
+>        pong (case-insensitive).
+>
+>        If a player fails to include ping or pong as mandated by the
+>        previous paragraph, then, in that same Agoran day, any player CAN
+>        once revoke one coin from em.
+>
+> --
+> Trigon
+>
+
+
+Caller's Arguments:
+
+The relevant precedent is CFJ 3744 where it said that it was up to the
+specific speech act as to whether a proposal that was submitted with an
+invalid AI failed entirely or defaulted to 1.0 AI. The speech in that case
+was found clear, but the speech in this case is very different (and much
+closer to the default way that most people create proposals). Per CFJ 3744,
+if this message _really_ means ""I create a proposal with
+
+the following Title, Coauthors, AI, and Text properties" then the
+proposal would entirely fail, whereas it would succeed with AI=1 if
+the message _really_ means ""I
+
+create a proposal with the following text. I optionally specify an AI. I
+optionally specify a Title. I optionally specify coauthors"
+
+What's the answer to which speech action the author really means here?
+I have no idea, which is why I left the question open in CFJ 3744. It
+is up to the judge to decide, I suppose.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+CFJ 3744 held that, if a player does the equivalent of writing the
+optional specifications of a proposal as separate speech acts when
+creating it, any invalid optional specifications revert to the default
+value. It also held that, if the speech act of creating the proposal is
+phrased as an single action and is constrained enough, the creation
+succeeds or fails atomically. I do not believe this is the conclusion I
+would have reached, but I am nevertheless bound by precedent.
+
+Rule 2350 enables creating proposals "by announcement". According to
+Rule 478, this means a player CAN perform it "by unambiguously and
+clearly specifying the action and announcing that e performs it".
+
+In eir message, Trigon appears to "clearly specify" the action of
+creating a proposal with title "Agora plays table tennis", AI 0.1, no
+coauthors, and the provided text. It also appears that e has specified
+only a single action (creating a proposal), rather than the multiple
+actions required by CFJ 3744 to permit non-atomic specifications (I
+create a proposal, I specify an attribute, I specify another attribute).
+Given that the AI was invalid, and the creation was phrased as a single
+act, under CFJ 3744, Trigon did not create a proposal in eir message. I
+find FALSE.
+
+More generally, I find that any shorthand in which the creation of the
+proposal is phrased as a single action (even those including shorthand)
+qualifies as atomic under CFJ 3744, i.e. that speech actions creating
+optional specifications must be made explicit in order to be non-atomic.
+
+This means that all of the following are atomic proposal creations:
+
+  * "I create/submit/etc. the following proposal: [shorthand]"
+
+  * "I create/submit/etc. a proposal with the following attributes:
+    [shorthand]"
+
+  * "I create/submit/etc. a proposal with title 'A creative title', AI
+    0, and text 'Do something.'"
+
+  * "H. Promotor, I do hereby submit unto you this most honorable
+    proposal, with the hopes that it be adopted: [shorthand]"
+
+
+Judge Jason's Evidence:
+
+Rule 2350/12 [Excerpt]:
+
+>       A proposal is a type of entity consisting of a body of text and
+>       other attributes. A player CAN create a proposal by announcement,
+>       specifying its text and optionally specifying any of the following
+>       attributes:
+>       
+>       * An associated title.
+>       
+>       * A list of co-authors (which must be persons other than the
+>         author).
+>       
+>       * An adoption index.
+>       
+>       * A chamber to which the proposal shall be assigned upon its
+>         creation.
+
+
+Rule 478/38 [Excerpt]:
+
+>       Where the rules define an action that a person CAN perform "by
+>       announcement", that person performs that action by unambiguously
+>       and clearly specifying the action and announcing that e performs
+>       it.
+
+==========================================================================

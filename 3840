@@ -1,0 +1,152 @@
+===============================  CFJ 3840  ===============================
+
+      En la declaración anterior, transferí una moneda a Agora.
+
+==========================================================================
+
+Caller:                        ATMunn
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ATMunn:                                 03 Jun 2020 01:34:29
+Assigned to G.:                                   07 Jun 2020 17:29:06
+Judged TRUE by G.:                                12 Jun 2020 18:27:38
+
+==========================================================================
+
+Caller's Evidence:
+
+On 6/2/2020 6:34 PM, ATMunn via agora-business wrote:
+> Yo transfiero una moneda a Agora.
+>
+> CFJ: En la declaración anterior, transferí una moneda a Agora.
+> 
+> CFJ: In the above statement, I issued a Call for Judgement on whether
+> I transferred a coin to Agora in the statement preceding that one.
+
+
+Caller's Arguments:
+
+[Arbitor's note: The "first CFJ" refers to this CFJ (CFJ 3840).  The
+"second CFJ" refers to CFJ 3841]
+
+If the second CFJ is judged TRUE, then the first attempted CFJ is, in fact,
+a CFJ. By the precedent set by the second CFJ, the first should then be
+judged TRUE. The only thing preventing it from being judged TRUE if the
+second one is also is the fact that when put into Google Translate, the
+word "moneda," intended to mean "coin," is translated as "currency." 
+Because of this, I think that the outcome of this CFJ should probably be
+linked to the outcome of CFJ 3838.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+Since the first statement is clearly labelled statement that uses the
+rules-defined term of art CFJ, I'm treating it as clearly being a CFJ
+(previous foreign-language CFJ experiments included attempts to translate
+the phrase "I Call for Judgement on..." into the foreign language as well,
+so were different situations).
+
+Of course (for the second cfj), whether the first cfj is a cfj on "whether
+I transferred a coin..." is still an open question.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First, to future callers of such CFJs.  There's a tension in the game
+between evaluating messages sequentially versus holistically.  While
+multiple actions in a message are generally interpreted independently in
+the order they appear, we also allow for things like notes, disclaimers,
+or similar "below the action" comments to help interpret action attempts.
+And what is a CFJ, if not a giant disclaimer?  I would have a different
+view of this case if I'd seen the action on its own, tried to translate,
+and only then (in a later message) seen the CFJ.  I'll attempt to judge
+"as if" the message stood on its own, but future judges would be within
+their rights to treat a CFJ below an action as clarifying context (thus
+removing the whole point of the effort).  So callers who want to do
+this right should use multiple messages.
+
+Second, part of this case is about how "understandable" Spanish might be
+to the community, so as disclosure, I had two years of high school Spanish
+30+ years ago, enough to understand the language's basic grammatical
+constructs and some vocabulary, but certainly not enough to know, when a
+Spanish word has two possible translations into English, which translation
+the fluent speaker would pick or what context would be needed to resolve
+ambiguity.
+
+Finally, on linguistic prejudice.  It's true that Agora has no "official"
+language.  However, we're a longstanding community of practice with a set
+of norms, and anything outside the norms is subject to scrutiny - the
+decision here is not about linguistic preference, but about applying the
+scrutiny we might apply to any "unusual" English grammar or phrasing (and
+boy do we scrutinize).
+
+Now, the case.  As of this writing, Google Translate has a quirk.  If you
+use the grammatical structure of the CFJ statement, "transferí una moneda
+a Agora" becomes "I transferred a coin to Agora."  Pretty darn clear, as
+Judge Jason found in CFJ 3841.  However, if you use the action statement
+itself, "Yo transfiero una moneda a Agora" becomes "I transfer a currency
+to Agora" (with no indication on the resulting page that "coin" is an
+alternate word choice).  Apparently there's enough tension between the two
+translation options in Google Translate that a change of tenses (without
+any added context) flips the results.
+
+Now, if used in English, we would clearly accept "I transfer a coin" as a
+working transfer. But I think, "default" currency status notwithstanding,
+that "I transfer a currency" would fail the grammatical test, it is not
+the same as saying "I transfer a unit of currency".  So using Google
+Translate, and no "fluent" knowledge of colloquial Spanish to better
+refine the word choice, the transfer should definitely fail.
+
+However, there's an extenuating circumstance. "Coin" is also the name of
+an official currency, and subject to the same style guidelines as any
+national currency.  And in this context, we have a great example: the word
+"pound". "Pound" is a unit of weight and the currency of the United
+Kingdom.  And both senses of the word translate into Spanish.  So, if we
+look at the specific rules of currency translation, what do we get?
+
+After examining several online sources, one of the better sets of examples
+is here: https://www.spanishdict.com/translate/british%20pounds
+and this example:
+
+"Así mismo, las ayudas en libras se han convertido a euros siguiendo la
+cotización de la moneda a día 10 de febrero de 2016."
+
+Here, "libras" appears on its own, and still is listed as a valid use,
+distinguished by the unit of weight, by the context of various "money
+words" in the rest of the phrase.  Now, most of the examples on the page
+have more clarity, using "libras británicas" or "libras esterlinas"
+(esterlinas meaning sterling).  And it would be much better, and indeed
+completely clarifying, to use "moneda Agorana".  But as evidenced by the
+above example, "libras" on its own, used in a monetary context, is
+sufficient.  In the actual example, both "currency" and "coin" have a
+monetary context, but "transfiero" is an utterly clear translation, that
+most Agorans would recogize as an attempt to transfer assets.
+
+Therefore, both the context and the style rules surrounding official
+currencies gives us confidence:  I find this CFJ TRUE.
+
+This result comes with two cautions.
+
+First, approving a single sentence does not "approve" a language for
+general Agoran use - whenever a novel synonymous phrase for a rules-action
+is used, it would properly face similar challenges, whether that novelty
+comes from other languages or trying out different English synonyms for
+rules terms.
+
+Second, a single translation tool (e.g. Google Translate) might be
+powerful, but dependence on a single tool is insufficient - for example,
+CFJ 3472 found that the use of Google Translate alone did not convey the
+concept of "PRESENT" or "AGAINST" for a vote. This current example only
+worked due to it remaining within standards for national currencies not
+captured by the standard online translator - other Agoran terms of art may
+continue to be lost in translation.
+
+==========================================================================
