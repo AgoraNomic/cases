@@ -1,0 +1,257 @@
+===============================  CFJ 3850  ===============================
+
+      The Plunder Partnership as it existed on June 15, 2020 could be
+      joined by other players.
+
+==========================================================================
+
+Caller:                        R. Lee
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by R. Lee:                                 17 Jun 2020 01:00:30
+Assigned to G.:                                   20 Jun 2020 00:25:13
+Judged TRUE by G.:                                26 Jun 2020 22:12:41
+
+==========================================================================
+
+Caller's Arguments:
+
+A contract which sets out a set of rules that COULD be binding on
+any player should be able to be consented to by any player by default,
+unless the contract says otherwise. This applies to the plunder
+partnership's former text which I include below. It said "any person...
+can become a pirate", although this doesn't provide a mechanism like "by
+announcement", the contract clearly intended that any player be able to
+consent to it, which is enough under the Consent rule for sure.
+
+
+Caller's Evidence:
+
+Plunder Partnership as of June 15 2020
+
+The Plunder Partnership
+
+🏴‍☠️ WHO WE BE
+
+The Plunder Partnership is also known as the Plundership. A party to this
+contract is known as a Pirate. Any person who is not in Davy Jones’ Locker
+can become a Pirate. Any Pirate can make themselves cease to be one by
+announcement.
+
+🏴‍☠️ NO TATTLE-TALES
+
+Any person who has objected to a transferral of coins from the Lost and
+Found Department to the Plundership are in Davy Jones’ Locker. A person in
+Davy Jones’ Locker cannot become a Pirate, and they immediately cease to be
+a Pirate if they already were one.
+
+🏴‍☠️ DOUBLOONS
+
+Doubloons are a destructible asset that can only belong to Pirates. When an
+amount of coins is transferred to the Plundership, each Pirate gains an
+amount of Doubloons equal to the amount transferred divided by the amount
+of Pirates, rounded down. A Pirate with at least 1 Doubloon can transfer 1
+coin to themselves from the Plundership. Doing so destroys 1 Doubloon in
+their possession.
+
+🏴‍☠️ PARLEY
+
+Any Pirate can propose a Parley by announcement, which describes amendments
+to this contract. If at least 2/3rds (rounded up) of all Pirates consent to
+the Parley’s contents, this contract is amended according to the Parley.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The rules provide only one method for joining an existing contract, found
+in R1742/22:
+
+>      A contract may be modified,
+>      including by changing the set of parties, with the consent of all
+>      existing parties.
+
+That's literally the only way for a prospective party to join a contract,
+even if the contract text implies otherwise.  This is further limited by
+R2611/0 that also requires the consent of the prospective party:
+
+>     Rules to the contrary notwithstanding, an instrument other than a
+>     statute CANNOT become binding on a person without eir willful
+>     consent, however, consent can be given by implication.
+
+Consent need not always be direct - the evidence requirements for
+determining consent are covered in R2519/2, and include context and
+previously agreed-to contract text.  Importantly, by R2519, a public
+statement of consent qualifies.  However, this is further limited by the
+fact that the addition is "cancelled" if it is not done in public (R1742/22):
+
+>      Rules to the contrary notwithstanding, any change that would cause
+>      the full provisions or parties of a contract to become publicly
+>      unavailable is canceled and does not take effect.
+
+Note that this says "cancelled" not "doesn't take effect until made
+public".  Therefore, the public posting of party changes is not an
+after-the-fact thing: If a group privately agrees, and then a neutral
+observer communicates the agreement to the public, it doesn't count
+because the change was "cancelled" as soon as it happened and before the
+neutral observer communicated. The final "moment of agreement", therefore,
+must also be a public "assertion of consent" from the last
+party/prospective party who's consent is not already known; e.g., when
+it's public that N-1 parties agree, the Nth party publicly asserting eir
+agreement makes the change or sets the change in motion (e.g. if it
+includes taking effect at a future publicly-known date).
+
+The first question: does this complex set of spread out requirements,
+culminating in the Nth party's public consent, constitute a "method to
+perform that action" for the purposes of R2125/12?  First, it's important
+to note that the recent amendment of R2125 may have invalidated past
+precedents:
+
+>      If a body of law regulates an action, then to the extent that
+>      doing so is within its scope, that body of law prevents the action
+>      from being performed except as described within it, including by
+>      limiting the methods to perform that action to those specified
+>      within it.
+
+Here, compare:
+>      except as described within it, limiting the methods to those
+>      specified within it
+to R2125/11's:
+>      only using the methods explicitly specified in the Rules for
+>      performing the given action.
+
+In particular, the word "explicitly...for the given action" has been
+dropped, leaving the door open to more generality.  Now, this isn't a
+blank check; Judge Alexis, in CFJ 3793, gives some guidelines:
+
+> It may be indirect, occurring
+> as a result of another game action, and it may be a wilful natural
+> action of a sentient being that starts things, or some other
+> occurrence such as the passage of time. But the process cannot be cut
+> from whole cloth. Nor can a significant omitted portion of the
+> procedure be inferred, because of the requirement that the method be
+> explicitly specified. Where only some details are missing, then a good
+> litmus test, in line with legal interpretation of contracts that need
+> to be explicit, is whether the correct missing details are fairly
+> immediately clear. If we have to engage in a detailed interpretive
+> exercise to discover the true mechanism, then it is most likely not
+> explicit enough to qualify.
+
+By removing the "explicit" this gives us a trifle more room for
+"interpretive exercises" but they must not be "cut from whole cloth".  I
+believe, as laid out above, that the consent method is sufficiently
+interpretable as a set of wilful natural acts, and while a bit spread out
+in the rules, the details are reasonably immediately clear and in keeping
+with common sense applications of consent and agreement, so that the "last
+needed public act of consent" can cause a party to join a contract.
+
+None of this so far considers the text of the contracts, so let's consider
+a few cases, each a "message" from a player (OP):
+
+1.  "I consent to the following contract {null}."
+Here, OP has not indicated consent for anyone else joining.  No one else
+CAN immediately join the contract, but if OP provides further consent,
+someone can.  If the OP does so, the method for joining, as discussed
+above, would be public consent, even though the contract doesn't say so.
+
+2.  "I consent to the following contract, and consent to Player A joining
+{null text}."
+Here, Player A can join, as OP has clearly consented.  The method of
+joining, as discussed above, would be public consent from Player A.
+
+3.  "I consent to the following contract {null; Player A CAN join this
+contract}."
+In the third case, Player A can join through public consent, as OP has
+clearly consented by agreeing to be bound by the contract.
+
+4.  "I consent to the following contract {null; Player A CAN join this
+contract w/o objection}."
+In the fourth case, OP is only inferred to consent if the proper method is
+followed by Player A.
+
+Finally, if the consent given by the OP actively conflicts with contract
+text, then it's uncertain, it may be consent (but a violation of the
+contract) and it may be ambiguous whether consent is given (see CFJ 3848,
+currently awaiting judgement).  Those would be case-by-case.
+
+As CFJ 3849 is answered by the second example above, I find TRUE for
+CFJ 3849.  As CFJ 3850 is answered by the third example, I find TRUE
+for CFJ 3850.
+
+
+Judge G.'s Evidence:
+
+------------------------------------------------------------------------
+Rule 2519/2 (Power=3)
+Consent
+
+      A person is deemed to have consented to an action if and only if,
+      at the time the action took place:
+
+      1. e, acting as emself, has publicly stated that e agrees to the
+         action and not subsequently publicly withdrawn eir statement;
+      2. e is party to a contract whose body explicitly and
+          unambiguously indicates eir consent;
+      3. the action is taken as part of a promise which e created; or
+      4. it is reasonably clear from context that e wanted the action to
+         take place or assented to it taking place.
+------------------------------------------------------------------------
+Rule 1742/22 (Power=2.5)
+Contracts
+
+      Any group of one or more consenting persons (the parties) may
+      publicly make an agreement among themselves with the intention
+      that it be binding upon them and be governed by the rules. Such
+      an agreement is known as a contract. A contract may be modified,
+      including by changing the set of parties, with the consent of all
+      existing parties. A contract may also be terminated with the
+      consent of all parties. A contract automatically terminates if the
+      number of parties to it falls below one. It is IMPOSSIBLE for a
+      person to become a party to a contract without eir consent.
+
+      Parties to a contract governed by the rules SHALL act in
+      accordance with that contract. This obligation is not impaired
+      by contradiction between the contract and any other contract, or
+      between the contract and the rules.
+
+      Rules to the contrary notwithstanding, any change that would cause
+      the full provisions or parties of a contract to become publicly
+      unavailable is canceled and does not take effect.
+
+      The portion of a contract's provisions that can be interpreted
+      with reference only to information that is either publicly or
+      generally available are known as its body; the remainder of the
+      provisions are known as the annex.
+
+      A party to a contract CAN perform any of the following actions as
+      explicitly and unambiguously permitted by the contract's body:
+
+      * Act on behalf of another party to the contract.
+
+      * By announcement, revoke destructible assets from the contract.
+
+      * By announcement, transfer liquid assets from the contract to a
+        specified recipient.
+
+------------------------------------------------------------------------
+Rule 2611/0 (Power=3.0)
+Instruments
+
+      An instrument is a type of document, either ephemeral or enduring,
+      that is defined as such by a body of law. An instrument's text,
+      where otherwise permitted, can be amended from time to time.
+
+      Rules to the contrary notwithstanding, an instrument other than a
+      statute CANNOT become binding on a person without eir willful
+      consent, however, consent can be given by implication. In
+      particular, consenting to be bound to an instrument can imply
+      consent to be bound by amendments to it and consent to be bound by
+      other instruments.
+
+==========================================================================

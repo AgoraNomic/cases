@@ -1,0 +1,241 @@
+===============================  CFJ 3869  ===============================
+
+      A player CAN send a message to agora-business by some method.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         Aris
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  18 Jul 2020 18:27:45
+Assigned to Aris:                                 25 Jul 2020 18:16:22
+
+==========================================================================
+
+Caller's Arguments:
+
+First, I think it is clear that sending a message is an action - it is
+something that can be performed.
+
+Rule 478 says that "no Player shall be prohibited from participating in
+the Fora". A plain reading of this seems to indicate that Rule 478
+"permits" players to participate in the Fora - preventing someone from
+being prohibited from doing something is ensuring that they are
+permitted to do it. Participating in the Fora also necessarily entails
+sending messages to the fora, so it seems Rule 478 also permits sending
+messages to the public fora.
+
+However, if Rule 478 "permits" sending messages to the public fora, then
+Rule 2125 states that sending a message to a public forum is an action
+that is regulated by the statutes of Agora (under condition (1) for an
+action being regulated). This means that the second paragraph of Rule
+2125 applies. This paragraph applying would mean that the statues of
+Agora limit the action of sending a message to being performed only by
+the methods "specified" within the statutes of Agora. Since, AFAICT, no
+rule actually specifies a method of performing the action of sending a
+message to a public forum, R2125 implies that there is no method to send
+a message to a public forum. This would imply a judgment of FALSE.
+
+I also note that, even if "permit" is found not to have applicability,
+the Rules may also "allow" or "limit" sending messages to the public fora.
+
+
+Counterarguments to the above:
+
+R478 takes precedence over R2125 by number. Since R478 uses lowercase,
+(i.e.) natural language "prohibit", a finding that it is IMPOSSIBLE
+would make participating in the Fora impossible, thus "prohibiting" it.
+This would mean that the permission of participation would prevail over
+the lack of methods.
+
+
+Any one of:
+
+{
+
+R478 only permits participation in the Fora, which is not equivalent to
+permitting sending message to the Fora.
+
+R478 does not "permit" persons to send messages to the Fora, only
+prohibit a prohibition on it.
+
+R478 does not "permit" persons to send messages to the Fora, because
+that is an ability that exists outside of the Rules.
+
+}. All of these would mean that sending messages to the public Fora is
+not a regulated action, so R2125 does not apply.
+
+
+Even if the action is regulated, people are able to send messages
+outside of the Rules, and the Rules cannot disable them from doing so,
+so they have a method anyway.
+
+If R217 can be forced into the discussion, the best interests of the
+game clearly align with TRUE, since FALSE would be an extremely
+disruptive judgment.
+
+
+Caller's Evidence:
+
+Rule 2125/12 (Power=3)
+Regulated Actions
+
+      An action is regulated by a body of law if (1) its performance is
+      limited, allowed, enabled, or permitted by that body of law; (2)
+      that body of law describes the circumstances under which it would
+      succeed or fail; or (3) it would, as part of its effect, modify
+      information for which some person bound by that body of law is
+      required, by that body of law, to be a recordkeepor.
+      
+      If a body of law regulates an action, then to the extent that
+      doing so is within its scope, that body of law prevents the action
+      from being performed except as described within it, including by
+      limiting the methods to perform that action to those specified
+      within it. A body of law does not proscribe any action which it
+      does not regulate.
+
+
+Rule 478/38 (Power=3)
+Fora
+
+      Freedom of speech being essential for the healthy functioning of
+      any non-Imperial nomic, it is hereby resolved that no Player shall
+      be prohibited from participating in the Fora, nor shall any person
+      create physical or technological obstacles that unduly favor some
+      players' fora access over others.
+      
+      Publicity is a secured forum switch with values Public,
+      Discussion, and Foreign (default), tracked by the Registrar.
+      
+      The Registrar may change the publicity of a forum without
+      objection as long as:
+      
+      1. e sends eir announcement of intent to that forum; and
+      
+      2. if the forum is to be made public, the announcement by which
+         the Registrar makes that forum public is sent to all existing
+         public fora.
+      
+      Each player should ensure e can receive messages via each public
+      forum.
+      
+      A public message is a message sent via a public forum, or sent to
+      all players and containing a clear designation of intent to be
+      public. A rule can also designate that a part of one public
+      message is considered a public message in its own right. To
+      "publish" or "announce" something is to send a public message
+      whose body contains that thing. To do something "publicly" is
+      to do that thing within a public message.
+      
+      Where the rules define an action that a person CAN perform "by
+      announcement", that person performs that action by unambiguously
+      and clearly specifying the action and announcing that e performs
+      it. Any action performed by sending a message is performed at the
+      time date-stamped on that message. Actions in messages (including
+      sub-messages) are performed in the order they appear in the
+      message, unless otherwise specified.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by ais523:
+
+a) The reasoning in the caller's arguments for this CFJ effectively
+says "rule 478 says that players can't be prohibited from sending
+messages, thus players are prohibited from sending messages". It's hard
+to define a rule to mean the opposite of what it says! In particular, I
+don't think a rule can defined another rule to mean the opposite of
+what it says without taking precedence. Rule 478 and rule 2125 have
+equal Power, and 478 has a lower number; thus, rule 2125 cannot do
+something that contradicts the plain language of rule 478 without an
+explicit precedence claim, and it doesn't have one.
+
+b) A finding that sending messages is impossible would, AFAICT, most
+likely also find that Agora is ossified. Rule 1698 would have prevented
+such an ossification from occuring throughout a large portion of
+Agora's history (I can't remember all the old revisions of the rule,
+but it seems very likely that at least 1698/4 would have prevented
+this, so any ossifying change would have to have occurred prior to 7
+April 2014). If the Ruleset contains a combination of rules that
+prevent sending messages, then the Ruleset is wrong; whatever proposal
+caused it to disallow the sending of messages would have been
+impossible to apply. It might take some effort to figure out what the
+rules actually say, but this is preferable to being unable to play at
+all.
+
+(If this reasoning turns out to be determinative of the final
+judgement, the judge should also check whether the emergency backup
+method of performing actions, "send an email to every player", is
+similarly blocked; if it works, then a failure of the fora to function
+would not be an ossification.)
+
+c) Even though it probably doesn't determine the result of this case,
+the "limited" part of rule 2125 is clearly broken in combination with
+the "limiting the methods to perform that action to those
+specified within it" part and should be fixed; it is entirely
+reasonable for a rule to limit how something can be done without
+needing to give an explicit method of doing so. It is quite possible
+that, although sending messages is sufficiently fundamental to Agora
+that it's almost impossible to break, the bug observed by the CFJ
+caller is a real bug and is breaking a number of less important actions
+which don't have as much protection from high-powered and low-numbered
+rules.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+It might be good to look at a reductio ad absurdum when it comes to
+defining a R2125 method.  Following this line of reasoning, we might
+decide that a full definition has to be "a person CAN think of a sentence,
+and CAN compose the sentence, and CAN open eir email client, and CAN hit
+the send button..." etc., and even that presupposes we don't have to
+describe how thinking itself happens.
+
+So where does an explicit rules definition need to stop?  Where's the
+dividing line between "external things that can be done physically outside
+of the rules" (which the rules can explicitly refuse to recognize, but
+absent such a refusal we assume they happened by the evidence of our eyes)
+and consequences of the external events (processes that the rules must
+enable for them to happen)?
+
+There's several lines of evidence that "sending a message to a forum" is
+the former, rather than the latter:
+
+- CFJ 1895 makes it clear that we assume "free will" (the formal cause of
+a person sending a message) is an input outside the game and a fundamental
+principle of play, and R101 makes it clear that inputs from 'agents of
+free will' (persons) are received via Fora;
+
+- The idea of "technical domain of control" only makes sense if we assume
+a message is part of that physical reality under the control of the sender
+until after it is sent, therefore putting the act of sending on the
+"natural free will" side;
+
+- CFJ 3793 finds that a R2125 method is 'a procedure by which the rules
+specify that an action contemplated can actually be realized [...] it may
+be a wilful natural action of a sentient being that starts things [...]
+where only some details are missing, then a good litmus test, in line with
+legal interpretation of contracts that need to be explicit, is whether the
+correct missing details are fairly immediately clear.'  This suggests that
+we have to trace those methods back to last acts of conscious will (e.g.
+the sending of the messages) and that we can fill in clear details that
+aren't explicit (such as the fact that messages can be sent).
+
+- The first paragraph of R478 ("Freedom of speech"...) is primarily
+directed towards the Distributor or other technical aspects of the forum.
+Note that it generally assumes messages will be received and can't be
+prohibited from being sent by players.  Further, the fact that the right
+of participation is limited to "players" and not "persons" is a
+recognition of the physical reality that messages CAN be sent by non
+players and are allowed to be blocked (i.e. it enables the use of spam
+filters to block incoming messages, it doesn't assume those messages
+haven't come through).
+
+- Common sense?
+
+==========================================================================

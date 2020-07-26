@@ -8,6 +8,7 @@ Caller:                        Aris
 Barred:                        Cuddlebeam
 
 Judge:                         Murphy
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Aris:                                   11 Jun 2020 19:51:32
 Assigned to Murphy:                               13 Jun 2020 16:30:34
+Judged FALSE by Murphy:                           14 Jun 2020 21:50:51
 
 ==========================================================================
 
@@ -102,5 +104,51 @@ to stop the ruleset from being destroyed.
 
 Short version: this clearly doesn't work, but the judge gets to explain
 exactly why it doesn't work. Have fun, your honor.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+Rule 2166 (Assets), relevant excerpt:
+
+       An asset is an entity defined as such by a document that has been
+       granted Mint Authority by the Rules (hereafter the asset's backing
+       document), and existing solely because its backing document
+       defines its existence.
+
+The set {Cuddlebeam's Master Switch, Agora's Ruleset} fails to satisfy
+the second part. Both elements existed independently of HAMT, and so did
+set theory in general, thus the set containing those two elements also
+existed independently of HAMT. The /name/ of that set exists solely
+because HAMT defines it, but that's not the same thing.
+
+FALSE.
+
+For completeness, here's what would happen if that second part was
+missing.
+
+Rule 2166, another relevant excerpt:
+
+                  An asset defined by rule or regulation is public; any
+       other asset is private.
+
+If Bazinga was defined by both a rule and HAMT, then it would still be
+defined by a rule (just not /solely/ by a rule), so it would be public
+and not private. It seems in the best interests of the game to prevent
+contracts/etc. from switching a rule-defined asset from public to
+private just by saying that they also define it.
+
+Rule 2577, relevant excerpt:
+
+       An asset generally CAN be destroyed by its owner by announcement,
+       subject to modification by its backing document. An indestructible
+       asset is one defined as such by its backing document, and CANNOT
+       be destroyed except as explicitly specified by its backing
+       document; any other asset is destructible.
+
+Neither the rules nor HAMT define Bazinga as indestructible, so by
+default it would be 'destructible', though actually destroying it would
+be blocked via 'modification' by Rules 101 and 1698 unless they were
+repealed first.
 
 ==========================================================================

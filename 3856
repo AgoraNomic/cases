@@ -1,0 +1,209 @@
+===============================  CFJ 3856  ===============================
+
+      Any attempt to exile a player or claim a welcome package fails
+      under omd's contract.
+
+==========================================================================
+
+Caller:                        R. Lee
+Barred:                        Murphy
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by R. Lee:                                 23 Jun 2020 06:22:03
+Assigned to Aris:                                 23 Jun 2020 06:36:08
+Judged FALSE by Aris:                             30 Jun 2020 06:11:05
+
+==========================================================================
+
+Caller's Arguments:
+
+The provision omd cites is very very clearly a block to any
+"Change" in the CONTRACT'S text, rather than any change or action in the
+entire game state. This is clear and unambiguous, but the best interests of
+the game clearly are for contracts not to be able to block any type of
+action. To demonstrate this,
+I consent to and create the following contract:
+{
+R. Lee consents, assents to, wants to, and does automatically amend this
+contract
+by prepending the Secret Word, each time any of the following occur:
+-The rule called :"Welcome Package" is amended
+-Anyone votes FOR a proposal that would amend the rule "Welcome Package"
+
+If omd was wearing a hat at the time this contract was created, then the
+Secret
+Word is "Hello".  Otherwise, it is "Goodbye".
+
+}
+
+I think this contract very clearly makes the "best interests of the game"
+point.
+
+
+Caller's Evidence:
+
+On Tue, Jun 23, 2020 at 3:45 PM omd via agora-business wrote:
+
+> Well, here goes nothing.
+>
+> I consent to and create the following contract:
+> {
+> omd consents, assents to, wants to, and does automatically amend this
+> contract
+> by prepending the Secret Word, each time any of the following occur:
+>
+> - A contract other than this one is created or amended.
+> - Any player is exiled.
+> - Any player receives a Welcome Package.
+>
+> If omd was wearing a hat at the time this contract was created, then the
+> Secret
+> Word is "Hello".  Otherwise, it is "Goodbye".
+>
+> [This is an attempt to exploit the following provision:
+>
+>       Rules to the contrary notwithstanding, any change that would cause
+>       the full provisions or parties of a contract to become publicly
+>       unavailable is canceled and does not take effect.
+>
+> It's based on a discussion on Discord which seemed to conclude that
+> consent is
+> not just a condition for modifying contracts but the mechanism for it,
+> under
+> the relevant clause of Rule 1742:
+>
+>
+>                                            A contract may be modified,
+>       including by changing the set of parties, with the consent of all
+>       existing parties.
+>
+> Note that Rule 1742 does not provide any other mechanism, so if consent is
+> not
+> a mechanism, amending and terminating contracts is probably impossible by
+> Rule
+> 2125.
+>
+> If consent is a mechanism, Rule 2519 item 2 (and to some extent item 4)
+> suggests that contracts can trigger it automatically.
+>
+> Whether this actually succeeds at blocking actions depends, I suppose, on
+> how
+> you define "change", "cause", and "unambiguously".]
+> }
+>
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+omd's exploit is the most clever I have seen during my time as a player.
+Rule 1742, "Contracts" says, in part, "Rules to the contrary notwithstanding,
+any change that would cause the full provisions or parties of a contract to
+become publicly unavailable is canceled and does not take effect." omd attempted
+to exploit this provision by consenting to an automatic amendment of a contract
+to publicly unavailable text when certain events took place. Eir theory
+was that the events would count as a "change" and then be blocked
+by Rule 1742. Specifically, omd attempted to block both the exiling of players
+and the claiming of Welcome Packages.
+
+The word "any" is expansive. "any change that would cause the full
+provisions or parties of a contract to become publicly unavailable" could
+plausibly be multiple changes, one of which caused another. I am not at all
+convinced that "cause" implies proximate causation in this case. It may
+simply require mechanical causation (i.e. that the change trigger
+the effect by operation of law). If the rule had meant "proximately caused",
+I believe it would either have said so or used other phrasing to make that
+intent clear.
+
+However, I find the caller's arguments with respect to the word "change"
+convincing. Indeed, while on a first reading I was believed omd's attempt
+worked, on a second reading I identified the same problem the caller did.
+A "change" clearly refers to an actual change to the gamestate, rather than
+a game action. Thus "any change that would cause the full provisions
+or parties of a contract to become publicly unavailable" refers to the change
+to the contract, not the action that triggered that change. If there were
+any ambiguity, the strong interest of the game in stopping players from
+blocking arbitrary game actions would resolve it in favor of my interpretation.
+
+One final note. Even if everything I'd said in the last paragraph were
+incorrect, omd would not have blocked exiles. Rule 1742, "Contracts" is power
+2.5. Rule 2556, "Penalties", which provides for exile, is power 3.0. Thus,
+even with the "rules to the contrary notwithstanding" clause, Rule 1742
+cannot block exiles. On the other hand, it could block Welcome Packages,
+which are only provided for by Rule 2499, "Welcome Packages", at a power of
+1.0.
+
+However, I have ruled that omd simply misapplied the relevant provision of
+Rule 1742. Thus, eir contract could not block anything. FALSE.
+
+
+Judge Aris's Evidence:
+
+Rule 1742/22 (Power=2.5)
+Contracts
+
+  Any group of one or more consenting persons (the parties) may
+  publicly make an agreement among themselves with the intention
+  that it be binding upon them and be governed by the rules. Such
+  an agreement is known as a contract. A contract may be modified,
+  including by changing the set of parties, with the consent of all
+  existing parties. A contract may also be terminated with the
+  consent of all parties. A contract automatically terminates if the
+  number of parties to it falls below one. It is IMPOSSIBLE for a
+  person to become a party to a contract without eir consent.
+
+  Parties to a contract governed by the rules SHALL act in
+  accordance with that contract. This obligation is not impaired
+  by contradiction between the contract and any other contract, or
+  between the contract and the rules.
+
+  Rules to the contrary notwithstanding, any change that would cause
+  the full provisions or parties of a contract to become publicly
+  unavailable is canceled and does not take effect.
+
+  The portion of a contract's provisions that can be interpreted
+  with reference only to information that is either publicly or
+  generally available are known as its body; the remainder of the
+  provisions are known as the annex.
+
+  A party to a contract CAN perform any of the following actions as
+  explicitly and unambiguously permitted by the contract's body:
+
+  * Act on behalf of another party to the contract.
+
+  * By announcement, revoke destructible assets from the contract.
+
+  * By announcement, transfer liquid assets from the contract to a
+    specified recipient.
+
+
+Rule 2499/7 (Power=1)
+Welcome Packages
+
+  If a player has not received a Welcome Package since e most
+  recently registered, any player CAN cause em to receive one by
+  announcement.
+
+  When a player receives a Welcome Package, e earns 10 coins and
+  one of each type of Card defined in the rules.
+
+
+Rule 2556/1 (Power=3)
+Penalties
+
+  Rules to the contrary notwithstanding, an impure person CANNOT win
+  the game.
+
+  The voting strength of a player on an Agoran decision is reduced
+  by 1 for every 3 blots in eir possession.
+
+  A player CAN, with 7 days notice, deregister (exile) a specified
+  player (the outlaw) who has more than 40 blots.
+
+==========================================================================

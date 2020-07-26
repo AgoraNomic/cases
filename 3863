@@ -1,0 +1,215 @@
+===============================  CFJ 3863  ===============================
+
+      Aris MAY Call Destruction Down Upon the contract Amusing Test
+      Case.
+
+==========================================================================
+
+Caller:                        Aris
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   01 Jul 2020 04:32:11
+Assigned to Murphy:                               05 Jul 2020 18:23:17
+Judged FALSE by Murphy:                           12 Jul 2020 15:39:52
+
+==========================================================================
+
+Caller's Arguments:
+
+This case is very simple. Rule 2162, "Switches", defines flipping
+switches. This contract attempts to override the definition for its
+own purposes. The question is whether the definition in the Rule has
+preclusive effect. Definitions ordinarily don't, at least in ordinary
+language (i.e. texts regularly redefine special terms). However, Rule
+2162 doesn't say it's defining anything, it just does so. It arguably
+overrides the definition in the contract. I request the judge also
+rule on whether things would differ if Rule 2162 used the word
+"define", rather than simply stating the meaning of the term.
+
+
+Caller's Evidence:
+
+On 6/30/2020 9:32 PM, Aris Merchant via agora-business wrote:
+> I create, consent to, and become a member of the following contract.
+> 
+> {
+> Amusing Test Case
+> 
+> Any player CAN become a party to this contract by announcement.
+> 
+> Amusement is an untracked singleton negative boolean switch.
+> Destructibility is an untracked singleton negative boolean switch.
+> 
+> Any other definition notwithstanding, "to flip the amusement switch to
+> true" (and similar variations thereof) means to change the value of
+> the destructibility switch to true, and has no effect on the amusement
+> switch.
+> 
+> Aris CAN flip the amusement switch to true by announcement.
+> 
+> Aris CAN Call Destruction Down Upon this contract by announcement.
+> This instant after e does so, this contract is destroyed. Aris SHALL
+> NOT Call Destruction Down Upon this contract unless the value of the
+> destructibility switch is true.
+> 
+> One week after this contract comes into existence, the value of
+> destructibility switch is set to true.
+> }
+> 
+> I flip the amusement switch to true (under the definition specified by
+> the contract).
+
+Rule 2162/13 (Power=3)
+Switches
+
+      A type of switch is a property that the rules define as a switch,
+      and specify the following:
+
+      1. The type(s) of entity possessing an instance of that switch. No
+         other entity possesses an instance of that switch.
+
+      2. One or more possible values for instances of that switch,
+         exactly one of which should be designated as the default. No
+         values other than those listed are possible for instances of
+         that switch, except that, if no default is specified, then
+         rules to the contrary notwithstanding, the "null" value is a
+         possible value for that switch, and is the default.
+
+      3. Optionally, exactly one office whose holder tracks instances of
+         that switch. That officer's (weekly, if not specified
+         otherwise) report includes the value of each instance of that
+         switch whose value is not its default value; a public document
+         purporting to be this portion of that officer's report is
+         self-ratifying, and implies that other instances are at their
+         default value.
+
+      At any given time, each instance of a switch has exactly one
+      possible value for that type of switch. If an instance of a switch
+      comes to have a value, it ceases to have any other value. If an
+      instance of a switch would otherwise fail to have a possible
+      value, it comes to have its default value. A Rule that designates
+      a switch as "secured" (at a given power level) designates changes
+      to the properties of that type of switch as secured (at that power
+      level) and designates changes to the value of each instance of the
+      switch as secured (at that power level).
+
+      "To flip an instance of a switch" is to make it come to have a
+      given value. "To become X" (where X is a possible value of
+      exactly one of the subject's switches) is to flip that switch to
+      X.
+
+      If a type of switch is not explicitly designated as
+      possibly-indeterminate by the rule that defines it, and if an
+      action or set of actions would cause the value of an instance of
+      that type of switch to become indeterminate, that instance instead
+      takes on its last determinate and possible value, if any,
+      otherwise it takes on its default value.
+
+      A singleton switch is a switch for which Agora Nomic is the only
+      entity possessing an instance of that switch.
+
+      A boolean switch is a switch with values True and False. A
+      positive boolean switch has a default of True; a negative boolean
+      switch has a default of False.
+
+      Attempting to flip an instance of a switch to a value it already
+      has does not flip the switch. However, if a person is REQUIRED to
+      flip a switch instance to a value it already has, then either
+      attempting to do so using the required mechanism, or announcing
+      that the switch already has the required value, fulfills the
+      requirement without flipping the switch.
+
+Rule 1742/22 (Power=2.5)
+Contracts
+
+      Any group of one or more consenting persons (the parties) may
+      publicly make an agreement among themselves with the intention
+      that it be binding upon them and be governed by the rules. Such
+      an agreement is known as a contract. A contract may be modified,
+      including by changing the set of parties, with the consent of all
+      existing parties. A contract may also be terminated with the
+      consent of all parties. A contract automatically terminates if the
+      number of parties to it falls below one. It is IMPOSSIBLE for a
+      person to become a party to a contract without eir consent.
+
+      Parties to a contract governed by the rules SHALL act in
+      accordance with that contract. This obligation is not impaired
+      by contradiction between the contract and any other contract, or
+      between the contract and the rules.
+
+      Rules to the contrary notwithstanding, any change that would cause
+      the full provisions or parties of a contract to become publicly
+      unavailable is canceled and does not take effect.
+
+      The portion of a contract's provisions that can be interpreted
+      with reference only to information that is either publicly or
+      generally available are known as its body; the remainder of the
+      provisions are known as the annex.
+
+      A party to a contract CAN perform any of the following actions as
+      explicitly and unambiguously permitted by the contract's body:
+
+      * Act on behalf of another party to the contract.
+
+      * By announcement, revoke destructible assets from the contract.
+
+      * By announcement, transfer liquid assets from the contract to a
+        specified recipient.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+While the contract attempts to overrule the Rule definition of the
+phrase in question, it does not explicitly attempt to overrule this
+clause from Rule 2613 (Effects of Instruments):
+
+       An instrument or body of law is not, except where it specifies
+       otherwise, bound by or restricted in any way by any subordinate
+       law and implicitly overrides and takes precedence over all
+       provisions, including outright prohibitions or definitions, of all
+       subordinate law.
+
+It's questionable whether Rule 2613 should be interpreted as implicitly
+carrying the same force as Rule 1030 (Precedence Between Rules)
+explicitly sets out at the end:
+
+       Clauses in any other rule that broadly claim precedence (e.g. over
+       "all rules" of a certain class) shall be, prima facie, considered
+       to be limited claims of precedence or deference that are
+       applicable only when such claims are evaluated as described within
+       the above sequence.
+
+       No change to the ruleset can occur that would cause a Rule to
+       directly claim precedence over this Rule as a means of determining
+       precedence. This applies to changes by the enactment or amendment
+       of a Rule, or of any other form. This Rule takes precedence over
+       any Rule that would permit such a change to the ruleset.
+
+I consider it in the best interests of the game to interpret that it is,
+but I'm prepared to be called to reconsider this, and in any case I
+recommend legislation to add similar text to Rule 2613 (lest a new
+contract set up a stronger paradox of precedence, which could get really
+messy if not for voluntary restraint).
+
+I also find that the construction "'To do X' is to do Y" defines "To do
+X", even if it doesn't explicitly use any form of the word "define".
+
+Accordingly:
+
+   * The contract's attempted re-definition is ineffective.
+
+   * At the time in question, the destructibility switch was not true.
+
+   * At the time in question, it was ILLEGAL for Aris to Call Destruction
+     Down Upon the contract.
+
+FALSE.
+
+==========================================================================

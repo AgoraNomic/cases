@@ -1,0 +1,120 @@
+===============================  CFJ 3868  ===============================
+
+      The above-quoted message created an Agoran proposal.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         ATMunn
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 12 Jul 2020 16:25:56
+Assigned to ATMunn:                               16 Jul 2020 21:48:49
+Judged FALSE by ATMunn:                           17 Jul 2020 16:26:50
+
+==========================================================================
+
+Caller's Evidence: (The above-quoted message):
+
+On Sun, 2020-07-12 at 16:02 +0000, Falsifian via agora-business wrote:
+> I submit the following Diplonomic Proposal, titled "Judicial Veto":
+>
+> {
+> To the end of Rule 8, append: "If enacting a proposal would
+> interfere 
+> with the Judge's ability to ensure the smooth running of the game in 
+> accordance with these rules, then e NEED NOT enact that proposal, so 
+> long as e publishes an explanation of the problem, and this
+> exception 
+> overrides any requirement for em to enact that proposal."
+> }
+>
+> (This also gives the Judge a way out if a proposal would make eir
+> job very difficult.)
+
+
+Caller's Arguments:
+
+The quoted body of text appears to satisfy the requirements
+to be a proposal in the Agoran sense, and its author has stated that e
+is submitting it as a proposal; it was sent to a public forum, thus
+appears to meet the requirements for acting by announcement (the
+standard for creating a proposal). It is stated to be a Diplonomic
+Proposal; however, I don't see any reason why a Diplonomic Proposal
+can't also be an Agoran proposal, as this proposal appears to match
+both sets of requirements.
+
+Weighing against this is the fact that it obviously wasn't intended to
+create an Agoran proposal. Is that relevant, when establishing whether
+an action by announcement has occurred?
+
+--------------------------------------------------------------------------
+
+Judge ATMunn's Arguments:
+
+Let's first examine the rules involved here. The main rule involved is
+Rule 2350, "Proposals":
+
+       A proposal is a type of entity consisting of a body of text and
+       other attributes. A player CAN create a proposal by announcement,
+       specifying its text and optionally specifying any of the following
+       attributes:
+
+       * An associated title.
+
+       * A list of coauthors (which must be persons other than the
+         author).
+
+       * An adoption index.
+
+       * A chamber to which the proposal shall be assigned upon its
+         creation.
+
+By this definition, the only thing required for a proposal to be a valid
+proposal is for it to have a body of text. Other attributes can be
+added, but are not mandatory. The message in question clearly fulfils
+the definition of a proposal. The true question is: Did Falsifian
+"create a proposal by announcement"?
+
+Let us return to our old friend, Rule 478.
+
+       Where the rules define an action that a person CAN perform "by
+       announcement", that person performs that action by unambiguously
+       and clearly specifying the action and announcing that e performs
+       it.
+	
+This is where the argument for TRUE falls apart. While I will not go
+in-depth on the word "clearly", as I have done that previously and am
+quite frankly tired of the word, I think that "unambiguously" is the key
+here.
+
+To better understand what is going on here, let us substitute the
+definition of "by announcement" from Rule 478 into Rule 2350. Doing so
+gives us this:
+
+	  A player CAN create a proposal by unambiguously and clearly
+	  specifying the action of creating a proposal and announcing that e
+	  performs it, specifying ...
+
+Falsifian did not unambiguously specify the action of creating a
+proposal. E did unambiguously specify the action of creating a
+Diplonomic proposal. That phrasing does, of course, contain the word
+"proposal", but it also contains the word "Diplonomic", and the
+Diplnomic rules clearly define a method of creating proposals associated
+with Diplonomic. Though neither "Diplonomic proposal" nor "Agoran
+proposal" are actually defined, the use of one word or the other clearly
+designates which sense of "proposal" is to be used.
+
+The fact that a CFJ was called in the first place indicates that it is
+ambiguous as to whether e created a proposal, thereby failing the
+definition of "by announcement" in Rule 478, thereby making it not a
+proposal.
+
+I judge CFJ 3868 to be FALSE.
+
+==========================================================================

@@ -1,0 +1,130 @@
+===============================  CFJ 3859  ===============================
+
+      It would be possible to resolve an Agoran decision by announcement
+      even if conditions 1-4 in R208 are not satisfied.
+
+==========================================================================
+
+Caller:                        nch
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by nch:                                    29 Jun 2020 02:28:38
+Assigned to G.:                                   29 Jun 2020 02:31:04
+Judged FALSE by G.:                               29 Jun 2020 20:27:03
+
+==========================================================================
+
+Caller's Arguments:
+
+The relevant text from R208, "Resolving Agoran Decisions".
+
+       The vote collector for an unresolved Agoran decision CAN resolve
+       it by announcement, indicating the outcome. If it was required to
+       be initiated, then e SHALL resolve it in a timely fashion after
+       the end of the voting period. To be valid, this announcement must
+       satisfy the following conditions:
+
+The debate is essentially over the last sentence. Here are some of the 
+questions central to the disagreement:
+
+- What does valid refer to? The phrasing could lead to interpretation of
+either "[For this decision] to be valid" or "[For the announcement] to be 
+valid.
+
+- If it refers to the announcement, what does it mean for an announcement
+to be valid or invalid? Does an invalid announcement fail to have effect?
+
+One argument for TRUE is as follows: Valid refers to the announcement,
+and Agora makes no distinction for invalid announcements. If an
+announcement was made as defined in R478, then the action was taken
+regardless of the validity or invalidity of the announcement.
+
+Here are some other pieces of rule text worth considering in the process
+of judgement:
+
+R478, Fora, has the following last paragraph:
+
+       Where the rules define an action that a person CAN perform "by
+       announcement", that person performs that action by unambiguously
+       and clearly specifying the action and announcing that e performs
+       it. Any action performed by sending a message is performed at the
+       time date-stamped on that message. Actions in messages (including
+       sub-messages) are performed in the order they appear in the
+       message, unless otherwise specified.
+
+"To be valid" is used 3 other times in the rules, they are iterated here:
+
+ From R2614, "Eclipse Light":
+
+         - Extend any deadline provided for by any instrument other than
+           this rule, including a deadline for an obligation to be met,
+           or deadline prior to which an action must be performed in
+           order to be valid, such as the end of voting period. Such an
+           extension CANNOT cause the total time period, such as the
+           time from when an obligation was created to the deadline or
+           the whole of a voting period, to be more than double its
+           original length.
+
+ From R107, "Initiating Agora Decisions":
+
+       An Agoran decision is initiated when a person authorized to
+       initiate it publishes a valid notice which sets forth the intent
+       to initiate the decision. To be valid, the notice must clearly
+       specify the following information:
+
+ From R2510, "Such is Karma":
+
+       A player CAN publish a Notice of Honour. For a Notice of Honour
+       to be valid, it must:
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+In common language, "invalid" is the opposite of "valid" (this should be
+self-evident, but sometimes Agorans like to say the law of the excluded
+middle doesn't apply).  Given that neither valid or invalid are explicitly
+defined, their common definition as opposites applies here.  So if an
+announcement isn't valid, it's invalid.  Therefore, if an announcement to
+attempt to resolve an Agoran Decision does not satisfy conditions 1-4 in
+R208, it is "invalid".
+
+And in this context, "invalid" means "(of an official document or
+procedure) not legally recognized and therefore void because contravening
+a regulation or law."  We can't just discard this meaning and say "R478
+doesn't care about validity".  Because the very definition of validity is
+whether a legal process cares about it.
+
+So given that validity *does* apply to a legal process, there's two
+reasonable ways to read this in the context is R208 (two possible things
+that can be "voided"):
+
+1. the announcement is invalid at even being an announcement, in
+contradiction with what makes something an "announcement" in R478.
+
+2. the announcement invalidates the attempt at a "by announcement" action
+in the first sentence of R208.
+
+In reading 1, R208 has precedence over R478, due to R1030.  So this is
+equivalent to saying in R208 "R478 notwithstanding, an announcement made
+in this context but missing these things is not an announcement".  And
+since R208 has the power to say that, it would work.  And would lead to
+FALSE.
+
+In reading 2, R2240 leads us to assume the exception that makes an
+announcement invalid, invalidates the purpose of the first sentence of
+R208 (that enables the by-announcement action).  I don't really think it's
+necessary to invoke R2240 because the rule reads fairly naturally this
+way, but in any case it leads to FALSE.
+
+This Court believes that Case 2 is a better and more sensible reading (and
+it is better because it doesn't depend on rule ID, which is an erratic way
+to judge), but because both readings lead to FALSE, this Court finds FALSE.
+
+==========================================================================

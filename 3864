@@ -1,0 +1,95 @@
+===============================  CFJ 3864  ===============================
+
+      Welcome Package Patch's sole function is not to minimally rectify
+      a bug.
+
+==========================================================================
+
+Caller:                        nch
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by nch:                                    23 Jun 2020 13:49:11
+Assigned to G.:                                   05 Jul 2020 18:23:49
+Judged TRUE by G.:                                05 Jul 2020 19:40:04
+
+==========================================================================
+
+Caller's Arguments:
+
+It does rectify a bug (although, again, it introduces a new 
+one). But it was forced through to prevent a scam. R2626 says "A player 
+SHALL NOT certify a proposal unless its sole function isto minimally 
+rectify a bug, error, or ambiguity". This has two functions: rectifying 
+the bug, and preventing a scam. Sole means only, as in "the only function".
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The Caller's argument presupposes that the proposal in question fixes "a
+bug, error, or ambiguity (a problem)".
+
+However, let's zoom out and look at the context.  R. Lee (along with some
+others) was trying to use 4 independent features in the ruleset:
+
+- The ability to create blots in eir possession;
+- The ability to deregister someone with blots, with 7 days notice;
+- The ability to reregister right after registering, if deregistered due
+  to blots;
+- The ability to gain a welcome package after so re-registering.
+
+Each of these separate parts of the "scam" was a legitimate feature, fully
+functional, that was voted into the ruleset with clear legislative intent.
+Each one has valid uses.  In particular, for the text that the Proposal
+in question "fixes", the recent discussion of Indictments makes it clear
+a person might be deregistered unjustly after gaining a bunch of blots
+(e.g. if a crime is divided into multiple crimes), and it would be
+legitimate to give em a welcome package when e re-registers.
+
+Further, there is no evidence or consensus that the proposal was a minimal
+fix for "the bug", as it was not clear what "the bug" was.  Wearing my
+legislative hat, it is much more of a bug to me that a person could
+re-register an infinite number of times in a message, so the "true" fix
+would be disallowing registration within 30 days of a previous
+registration.  Also wearing by legislator's hat, I remember saying that
+the ability to create blots for oneself might cause trouble!
+
+The point, though, is not to argue that there was a slightly better way to
+make the fix, but to make it clear that there's no platonic definition of
+"bug" to be had in this situation.  Because this wasn't a bug.  It's
+collective legislative regret at a particular feature set, but the regret
+was neither platonic nor universal among legislators, and each piece of
+the scam was using functionality exactly as the legislature intended it.
+
+So it does NOT meet the test in Rule 2626(1) on legislative intent (nor do
+any of the other tests apply). It would be presumptuous, in this case, for
+any judge or referee to overrule the legislature and find otherwise, when
+every element of the overall "bug" was clearly functional and instituted
+with legislative intent, and being used as intended.
+
+Therefore, we should take this proposal for exactly what it was:  the
+primary purpose of the proposal in question was a blatant and egregious
+conspiracy between players to stop a set of legitimate moves, by removing
+a functioning feature that had been instituted *with* full legislative
+intent.  Stopping a scam with all legal means is fair play - except this
+Court finds TRUE: these people broke Rule 2626 to do so.
+
+Now, the above arguments make it seem like there's absolutely no such
+thing as a "bug" wherever text was voted on by the legislature. In that
+respect, it is quite reasonable to apply the "bug" designation to clearly
+malfunctioning text, if the malfunction is direct and limited in scope.
+For example, if a CAN is missing a "by announcement", and the context of
+surrounding text makes it clear that the text can only work if an explicit
+method is put in, there's a bug (such an omission is not a R2626(2)
+"error" in that it might still have some functionality and meaning, so the
+mistake is functional not textual, which makes it a "bug" not an "error"
+by R2626).  The bug itself must be very limited and minimal in scope to be
+considered a bug, and mere legislative regret doesn't cut it.
+
+==========================================================================

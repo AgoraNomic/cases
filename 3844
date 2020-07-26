@@ -9,6 +9,7 @@ Caller:                        Aris
 Barred:                        Cuddlebeam
 
 Judge:                         Murphy
+Judgement:                     DISMISS
 
 ==========================================================================
 
@@ -16,6 +17,7 @@ History:
 
 Called by Aris:                                   11 Jun 2020 19:51:32
 Assigned to Murphy:                               13 Jun 2020 16:30:59
+Judged DISMISS by Murphy:                         14 Jun 2020 22:03:34
 
 ==========================================================================
 
@@ -100,6 +102,25 @@ making it so that the destruction of an asset could repeal a rule, although
 even if it could this attempt would likely fail because rule changes need
 to happen in a defined order. Finally, Agora is a Nomic clearly intervenes
 to stop the ruleset from being destroyed.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+Per my judgement of CFJ 3843, Bazinga isn't an asset, thus the statement
+is overly hypothetical.
+
+DISMISS.
+
+For completeness, even if Bazinga was an asset, the statement would
+depend on how it was being destroyed. In particular, Rule 2577's 'An
+asset generally CAN be destroyed by its owner' would also be overridden
+by Rule 105 (both are Power 3) which only allows rules to be destroyed
+(repealed) by a statute (entity with positive Power), which does not
+include either HAMT or Cuddle Beam; Rule 2577 would have to attempt to
+act directly (e.g. 'An asset is destroyed when its owner announces it')
+in order to overcome that layer of protection.
+
 
 Short version: this clearly doesn't work, but the judge gets to explain
 exactly why it doesn't work. Have fun, your honor.

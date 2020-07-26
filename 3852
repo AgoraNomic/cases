@@ -1,0 +1,96 @@
+===============================  CFJ 3852  ===============================
+
+      If the indicated text in evidence were part of a rule, every
+      talisman would be its own class.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Jason
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     19 Jun 2020 13:52:57
+Assigned to Jason:                                20 Jun 2020 00:26:31
+Judged FALSE by Jason:                            21 Jun 2020 17:51:32
+
+==========================================================================
+
+Caller's Evidence:
+
+Indicated text:  A talisman is an indestructible asset, tracked by the
+Registrar, and with ownership wholly restricted to players and Agora.
+There exists exactly one talisman for each player, and no other talismans;
+if one does not exist for a certain player, it is created in eir
+possession.
+
+Rule 2578/1 (Power=3) Currencies [excerpt]
+
+      A currency is a class of asset defined as such by its backing
+      document. Instances of a currency with the same owner are
+      fungible.
+
+Rule 2456/6 (Power=1) The Treasuror [excerpt]
+
+      The Treasuror's weekly report includes the list of all public
+      classes of assets.
+
+
+Caller's Arguments:
+
+The only type of asset explicitly defined as a "class" is currencies which
+are fungible.  In the above text, each talisman is not fungible with the
+others.  Is every non-fungible asset in a class of its own?  (phrasing it
+colloquially that way you can see that "uniqueness" in common parlance can
+define its own class).  But that would make the Treausor's job difficult.
+Or are there natural groupings (e.g. "Talisman" as a class)?
+
+--------------------------------------------------------------------------
+
+Judge Jason's Evidence:
+
+Rule 2618/1 [Excerpt]:
+
+      Promises are a class of assets, tracked by the Notary. Their
+      essential attributes are their text and creator. A person CAN, by
+      announcement, grant emself a promise, specifying its text and
+      becoming its creator. A promise's owner is referred to as its
+      bearer. Promises with the same text, creator, and bearer are
+      fungible. Promises with the same text and creator SHOULD be
+      referred to by the same title, but the title is not an essential
+      attribute of the promise, just a way of referring to it.
+
+
+Judge Jason's Arguments:
+
+First, I will dispense with the caller's suggestion that every
+non-fungible asset might be a class of its own. This cannot be true
+because Rule 2618 explicitly says that "Promises are a cash of assets",
+and not all promises are fungible. This implies that certain
+non-fungible assets can be in the same class.   
+
+Now, I must determine whether, in the hypothetical universe with the
+indicated text as a rule, talismans form a class of assets. "Class" is
+not explicitly defined for assets in the Rules, so it has its common
+language meaning (where not superseded by a group of assets being
+explicitly described as a "class").
+
+Merriam-Webster online lists 6 definitions for "class" as a noun, but
+this is clearly the most applicable: "a group, set, or kind sharing
+common attributes" (it then proceeds to list some examples), and this
+agrees with what most people think of as a "class". The group of all
+talismans would fulfill this criteria - they all share the attribute of
+"being a talisman for a player" and a general function (permitting
+acting-on-behalf under R2532), so it seems reasonable to call them a
+class. This is also consistent with the hypothetical rules text - it
+certainly seems to think that "talismans" can be referred to as a group
+- "There exists exactly one talisman for each player, and no other
+talismans."
+
+I find FALSE.
+
+==========================================================================

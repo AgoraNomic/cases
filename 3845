@@ -7,6 +7,7 @@
 Caller:                        Jason
 
 Judge:                         Aris
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by Jason:                                  12 Jun 2020 02:08:56
 Assigned to Aris:                                 13 Jun 2020 18:30:18
+Judged FALSE by Aris:                             20 Jun 2020 05:33:21
 
 ==========================================================================
 
@@ -33,5 +35,35 @@ possible values of any person or "unassigned". Because Judge is CFJ
 3835's only switch, each of Judge's possible values is the value of
 exactly one of CFJ 3835's switches. Thus, Rule 2162 says that the
 statement of this CFJ is true.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+On or about the 16th of May, 2020, the judge switch of CFJ 3835 became G. 
+As the caller explains, Rule 2162 currently states the following:
+
+>       "To flip an instance of a switch" is to make it come to have a
+>       given value. "To become X" (where X is a possible value of
+>       exactly one of the subject's switches) is to flip that switch to
+>       X.
+
+Substituting the first definition into the second, and inserting the
+subject and switch:
+
+ For "Y to become X" (where X is possible value of exactly one of Y's
+ switches, hereinafter Z) is for Y to make Z come to have the value X.
+
+When CFJ 3835's judge switch was made to have the value of G., it was
+flipped to G. However, it was flipped by the Arbitor, not by the CFJ. 
+Therefore, CFJ 3835 did not become G. by the definition in Rule 2162.
+
+I will next consider whether it could have become G. by any other
+definition of the word become. To become something is to come or begin to
+be that thing, in general usage. The CFJ did not begin or come to be G.
+For further explanation, see CFJ 3846.
+
+There simply isn't a definition of the word because under which
+CFJ 3835 ever became G. FALSE.
 
 ==========================================================================

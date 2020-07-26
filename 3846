@@ -7,6 +7,7 @@
 Caller:                        Jason
 
 Judge:                         Aris
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by Jason:                                  12 Jun 2020 02:08:56
 Assigned to Aris:                                 13 Jun 2020 18:35:47
+Judged FALSE by Aris:                             20 Jun 2020 05:35:57
 
 ==========================================================================
 
@@ -39,5 +41,70 @@ extend to other possible values of judge as well - even those that are
 not explicitly named in the rule, i.e. persons. We also use the phrasing
 elsewhere - officeholder is a switch possessed by offices, and we say
 that "the Arbitor is G.".
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+The former of the caller's arguments, regarding Rule 2162, has already been
+dealt with in CFJ 3845.
+
+That leaves eir second argument, which is as follows:
+
+1. A CFJ with a judge switch set to "unassigned" is unassigned.
+2. The reason for this is that any entity "is" any the current value
+   of each of that entity's switches.
+3. Therefore, CFJ 3835 is G.
+
+I think we can all agree with #1. The weak step in this argument is #2.
+The argument fails if the reason for #1 is something other than #2.
+
+First, and most obviously, the word unassigned has a meaning
+Without even having to look it up, I can tell you it means "not assigned".
+It could mean "not assigned ever" or "not assigned right now", but it darn
+well means one of those things. One of the values of a CFJ's judge switch
+is "unassigned". That clarifies which of the two senses of the natural
+language word "unassigned" is meant: the one that accords with the
+value of the switch. Incidentally, this works much the same way for
+offices being vacant.
+
+That explanation is enough to resolve the argument set forth by the caller.
+However, there is another argument that could be produced.
+
+Imagine a rule that stated "Exploded is a negative boolean proposal switch."
+Perhaps exploding a proposal is method of disabling it, and exploded proposals
+CANNOT be adopted.
+
+People might begin to refer to exploded proposals as "exploded proposals", as
+I've already been doing. If you're an average Agoran, I'll bet you didn't even
+notice me referring to proposals with an exploded switch set to true as
+"exploded proposals" until I pointed it out. It just makes sense. What else
+would anyone mean by an "exploded" proposal? And once you've gone that
+far, why not start referring to proposals that have their exploded switch set
+to false as "unexploded"? After all, unexploded means "not exploded", so it
+seems like a sensible enough conversion. It would be just as sensible to do
+the same if the proposal switch was "explodedness" and the values were
+"exploded" and "unexploded". So what's going on here?
+
+I don't have a tidy explanation for this. The best I have is this: language
+means what people think it means. We've gotten so used to using adjectives
+to describe nouns that if we see something that looks adjectival being
+a property of something that looks nounish, we just naturally speak with
+the adjective describing the noun. This is how our language works. Because
+everyone understands it, it's meaningful. To be honest, I'm pretty sure
+that most of Agora's interpretative woes could be solved by rigorous
+application of the principle that language means what people think it means
+coupled with rigorous adherence to the text of the rules, but that's a
+matter for another day (I may write a thesis).
+
+The same principle, if applied to this case, resolves the matter conclusively.
+No Agoran would say that CFJ 3846 is G., just because e is its judge.
+The adjectival principle I mentioned above does not apply to nouns. Making it
+apply to nouns would like require a major change in Agoran language, rather
+than a mere shift in usage.
+
+The long and the short of it is, no matter how one explains the fact that
+a CFJ can be unassigned, CFJ 3846 doesn't come even remotely close to being
+G. FALSE.
 
 ==========================================================================

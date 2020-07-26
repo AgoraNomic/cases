@@ -1,0 +1,145 @@
+===============================  CFJ 3853  ===============================
+
+      Within the past week, Jason committed the crime of Uncertain
+      Certification.
+
+==========================================================================
+
+Caller:                        Jason
+Barred:                        R. Lee
+
+Judge:                         nch
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  19 Jun 2020 14:03:14
+Assigned to nch:                                  20 Jun 2020 00:26:56
+Judged TRUE by nch:                               20 Jun 2020 14:37:28
+
+==========================================================================
+
+Caller's Evidence:
+
+Alleged criminal action [0]:
+
+> I certify the above proposal as a patch (please don't sue).
+> Justification: this is a bug, because it clearly does not match
+> legislative intent (which was discussed on the archives at the time of
+> P8346; also, I'm the author of P8346 and I affirm that it does not match
+> intent, as much as I want this bug to work), which relates to the office
+> of the Rulekeepor, which I hold. It relates to the office of the
+> Rulekeepor because the bug is in a rule, and the Rulekeepor keeps the
+> rules, thus any problem in the rules "plausibly affects the area of the
+> game" that Rulekeepor is responsible for (i.e. the rules). It is
+> obviously a minimal rectification of the issue.
+
+
+Finger pointing by R. Lee [1]:
+
+> Hey nerd, a proposal is only a patch if
+>
+>  A player SHALL NOT certify a proposal unless its sole function is
+>       to minimally rectify a bug, error, or ambiguity (a problem) that
+>       relates to a) an office e holds; or b) a CFJ, open within the last
+>       week, of which e is the judge.
+>
+>
+> You don't hold the office of Tailor and you haven't judged a CFJ. I
+> point a very pointed finger at Jason for committing the Class-4 Crime
+> of Uncertain Certification.
+
+[0]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043457.html
+
+[1]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043458.html
+
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+The rulekeepor's area of the game is tracking rules text, regardless of
+contents (unless the text pertains to methods of performing that actual
+tracking).  There is no "problem" for the rulekeepor here that impacts the
+job of tracking the text of the rules, the text under consideration can be
+tracked equally well by the rulekeepor and in the same manner regardless
+of what its contents mean, so the bug itself does not "relate to" the
+office of rulekeepor.
+
+--------------------------------------------------------------------------
+
+Judge nch's Arguments:
+
+The rule in question is R2626, "Certifiable Patches". The caller's
+arguments [0], and the arguments of the finger-pointing that lead to the
+CFJ, rely primarily on the following clause:
+
+       5. A problem relates to an office if it plausibly affects the area
+          of the game the office is responsible for and relates to a CFJ
+          if it could plausibly be interpreted to affect that CFJ's
+          outcome.
+
+First, several gratuitous arguments [1,2,3] were made about the meaning
+of the word 'plausible'. The most convincing argument to me was
+R. Lee's:
+
+       plausible means something akin to "there is a colorable argument
+       that it is true". if you are convinced that there is a reasonable
+       argument that it's related to the Rulekeepor's duties, that's
+       probably enough. However, mere ambiguity or unsureness isn't.
+
+Note that R2626 does not say the patch should relate to the office, or
+the office's duties. It says it should affect "the area of the game the
+office is responsible for". R1051, the Rulekeepor, gives us a definition
+of what the Rulekeepor is responsible for. In full it reads:
+
+       The Rulekeepor is an office; its holder is responsible for
+       maintaining the text of the rules of Agora.
+
+       The Rulekeepor's Weekly report includes the Short Logical Ruleset.
+       The Rulekeepor's Monthly report includes the Full Logical Ruleset.
+
+Let's review Jason's arguments for the patch certification:
+
+       I certify the above proposal as a patch (please don't sue).
+       Justification: this is a bug, because it clearly does not match
+       legislative intent (which was discussed on the archives at the
+       time of P8346; also, I'm the author of P8346 and I affirm that it
+       does not match intent, as much as I want this bug to work), which
+       relates to the office of the Rulekeepor, which I hold. It relates
+       to the office of the Rulekeepor because the bug is in a rule, and
+       the Rulekeepor keeps the rules, thus any problem in the rules
+       "plausibly affects the area of the game" that Rulekeepor is
+       responsible for (i.e. the rules). It is obviously a minimal
+       rectification of the issue.
+
+Jason asserts that the Rulekeepor is responsible for "the rules", with
+the implicit assertion that e is responsible for the meaning of the
+rules. But R1051 says "the *text* of the rules", which pretty clearly
+excludes their meaning. This bug does not impact the Rulekeepor's
+responsibility to maintain the text of the rules, and is therefore not
+plausibly related to the office.
+
+Also note a gratuitous argument [4] submitted at the time the CFJ was
+called which uses similar reasoning to arrive at a similar conclusion.
+
+[0] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043464.html
+
+[1] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-June/058938.html
+
+[2] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-June/058940.html
+
+[3] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-June/058942.html
+
+[4] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043467.html
+
+==========================================================================

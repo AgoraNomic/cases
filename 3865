@@ -1,0 +1,155 @@
+===============================  CFJ 3865  ===============================
+
+      I am no longer a party to Trigon's 6th secret contract.
+
+==========================================================================
+
+Caller:                        R. Lee
+
+Judge:                         Jason
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by R. Lee:                                 08 Jul 2020 00:01:08
+Assigned to Jason:                                08 Jul 2020 00:19:38
+Judged FALSE by Jason:                            10 Jul 2020 00:16:09
+
+==========================================================================
+
+Caller's Arguments:
+
+That contract says in relevant part" "No party can leave this contract 
+until the Secret Action has been performed." which would seem to mandate
+that I can't leave that contract before the action is performed (at the
+time of calling it hasn't been). Having said that a contract is very 
+simply "an agreement between players", and I unambiguously don't agree to
+that contract in any way, which means it's no longer a contract with me.
+
+
+Caller's Evidence:
+
+Me joining the contract referred to
+
+https://www.mail-archive.com/agora-business@agoranomic.org/msg37471.html
+
+The text of that contract
+"Contract No. 6: BOON" (initial revision)
+----------
+
+The party limit of this contract is 2. Players can only join this
+contract if the number of parties to this contract is less than the
+party limit.
+
+The Secret Action is the action encoded below as a salted SHA-256
+hash. No party can leave this contract until the Secret Action has been
+performed. By joining this contract, players consent to acting-on-behalf
+to transfer assets.
+
+Parties to this contract SHOULD have at least three cards when the
+Secret Action is performed.
+
+Trigon CAN, when the number of parties to this contract is the same as
+its party limit, and SHALL, in a timely fashion after that, perform all
+the following steps in order in the same message without performing any
+other actions until the process is complete.
+
+1. Reveal the unhashed text of the Secret Action.
+2. Perform the Secret Action, taking all steps identified therein.
+3. Leave this contract.
+
+The hashed Secret Action is:
+
+7f99cf8654ff0cb8b4df3cb59073860fe1b5fae00becb609a556f3fb3ce35465
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+TIMELINE
+========
+
+[All times UTC]
+
+23:42 2020-06-19: Creation of the contract in question by Trigon, with
+emself as the only party [0].
+
+23:03 2020-07-07: Joining of the contract in question by R. Lee [1].
+
+23:43 2020-07-07: Purported ceasing to be a party of the contract in
+question by R. Lee [2].
+
+00:01 2020-07-08: Calling of this CFJ [3].
+
+The caller argues that due to a contract being "an agreement between
+players", and em no longer agreeing with the terms of the contract, that
+e is no longer party to the contract.
+
+However, the caller ignores that becoming or ceasing to be a party to a
+contract is a regulated action. Rule 1742 enables a person to cease
+being a party with the consent of other parties, thus enabling its
+performance under point (1) of R2125, and it describes circumstances
+under which it would fail (when it would cause the parties of a contract
+to become publicly unavailable) under point (2) of R2125.
+
+This means that only methods described in the Rules can be used to cease
+being a party to a contract, and that method is "with the consent of all
+existing parties" due to precedent in CFJ 3850 [4]. Trigon (the other
+party to the contract) had not consented to R. Lee leaving the contract,
+so R. Lee COULD NOT do so. Judged FALSE.
+
+
+Judge Jason's Evidence:
+
+[0]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043473.html
+
+[1]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-July/043992.html
+
+[2]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-July/043998.html
+
+[3]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-July/044005.html
+
+[4]: https://faculty.washington.edu/kerim/nomic/cases/?3850
+
+
+Rule 1742/22 [Excerpt]:
+
+>       Any group of one or more consenting persons (the parties) may
+>       publicly make an agreement among themselves with the intention
+>       that it be binding upon them and be governed by the rules. Such
+>       an agreement is known as a contract. A contract may be modified,
+>       including by changing the set of parties, with the consent of all
+>       existing parties. A contract may also be terminated with the
+>       consent of all parties. A contract automatically terminates if the
+>       number of parties to it falls below one. It is IMPOSSIBLE for a
+>       person to become a party to a contract without eir consent.
+[...]
+
+>       Rules to the contrary notwithstanding, any change that would cause
+>       the full provisions or parties of a contract to become publicly
+>       unavailable is canceled and does not take effect.
+
+
+Rule 2125/12:
+
+>       An action is regulated by a body of law if (1) its performance is
+>       limited, allowed, enabled, or permitted by that body of law; (2)
+>       that body of law describes the circumstances under which it would
+>       succeed or fail; or (3) it would, as part of its effect, modify
+>       information for which some person bound by that body of law is
+>       required, by that body of law, to be a recordkeepor.
+>       
+>       If a body of law regulates an action, then to the extent that
+>       doing so is within its scope, that body of law prevents the action
+>       from being performed except as described within it, including by
+>       limiting the methods to perform that action to those specified
+>       within it. A body of law does not proscribe any action which it
+>       does not regulate.
+
+==========================================================================

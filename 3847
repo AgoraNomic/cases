@@ -8,6 +8,7 @@
 Caller:                        G.
 
 Judge:                         ATMunn
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by G.:                                     12 Jun 2020 18:44:26
 Assigned to ATMunn:                               13 Jun 2020 18:48:46
+Judged TRUE by ATMunn:                            14 Jun 2020 00:08:37
 
 ==========================================================================
 
@@ -36,5 +38,18 @@ From Rule 2438/18 (Power=3) Ribbons:
 From Rule 2556/1 (Power=3) Penalties:
 >      Rules to the contrary notwithstanding, an impure person CANNOT win
 >      the game.
+
+--------------------------------------------------------------------------
+
+Judge ATMunn's Arguments:
+
+Since the statement in rule 2438 stating that a person's Ribbon 
+Ownership becomes the empty set upon Raising a Banner is not conditional 
+upon the preceding statement that e wins the game, one can happen 
+without the other. Therefore, e CANNOT win the game due to the "Rules to 
+the contrary notwithstanding" clause in Rule 2556, but eir Ribbon 
+Ownership is still reset.
+
+As per the caller's arguments and mine, I find this CFJ TRUE.
 
 ==========================================================================

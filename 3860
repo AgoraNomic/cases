@@ -1,0 +1,399 @@
+===============================  CFJ 3860  ===============================
+
+      G. cast a valid ballot on Proposal 8458.
+
+==========================================================================
+
+Caller:                        omd
+Submitted to:                  Referee
+
+Judge:                         ATMunn
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by omd:                                    02 Jul 2020 03:24:17
+Assigned to ATMunn:                               02 Jul 2020 10:15:49
+Judged FALSE by ATMunn:                           03 Jul 2020 20:45:36
+
+==========================================================================
+
+Caller's Arguments:
+
+>> CoE: This resolution is invalid because the decision was already
+>> resolved the previous time, because G.’s vote was invalid, because it
+>> did not "clearly set[] forth the voter’s intent to place the identified
+>> vote".
+>
+>
+> In what way was it not clear? It was certainly not conspicuous, but it
+> was clear.
+
+Although "clear and conspicuous" is a common legal term, I consider it at
+least partly a legal doublet, like "null and void".  It may be possible to
+be conspicuous without being clear, but it is much more questionable
+whether something can be clear without being conspicuous.
+
+For example, Google’s dictionary definition of "clear" is:
+
+1. easy to perceive, understand, or interpret.
+
+However, the ballot in question went out of its way to make it hard for
+players to perceive it, or understand or interpret that it was a ballot.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+Hidden intent message forwarded in full when the action was actually
+performed:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039325.html
+
+(shorter report, but payload lines are even more hidden within the report
+- see if you can find without peeking at the answer).
+
+CFJ was 3670, called here but with no Caller's Arguments:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039327.html
+
+Judged here:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039452.html
+
+And unfortunately, by that time it looks like everyone pretty much
+accepted that the hidden message was fine, and the arguments were all
+about a contract thing that might have been wrong.  Here's what that
+CFJ 3670 judgement says about clarity:
+
+ > As the intent was
+ > published to a public forum, e had given sufficient notice, and the
+ > intent, although it followed a quoted statement, was not buried, the
+ > condition is fulfilled and e did, in fact, perform the three given
+ > actions.
+
+So the judge says that intent was "not buried" (though to me it looks
+pretty buried!)
+
+So where this sort of thing got judged or entered custom to count for our
+version of "clear" is still a mystery.  So at this point, I'm honestly
+happy if the judge just mentions "this sort of thing worked before, but
+the precedents are confused and let's look at it fresh" or "this one was
+*extremely* buried" with maybe a quickie comparison between the actual
+past hidden messages (not worrying much more what the past judgements
+thought).
+
+I'll add a gratuitous coda/final argument for the record:
+
+This chapter in Agoran history ended soon after the Bank Heist, which
+brought about a dependent action fix by Proposal 8107 (Buried Intent
+Prevention Act v2, adopted 27-Oct-18).  That proposal changed this text:
+
+ >  “1. A person (the initiator) announced intent to perform the action,
+ >  unambiguously and clearly specifying the action and method(s)
+ > (including the value of N and/or T for each method), at most fourteen
+ > days earlier.“
+
+to:
+
+ > “1. A person (the initiator) conspicuously and without obfuscation
+ >  announced intent to perform the action, unambiguously and clearly
+ > specifying the action and method(s) (including the value of N and/or T
+ > for each method), at most fourteen days earlier.“
+
+This separation made "without obfuscation" part of the whole announcement
+message (meaning 'no hiding' the intent overall), but separated
+"unambiguously and clearly specify" to refer only to the intent contents
+(asking once you find the intent in the message, is it clear?)  That
+distinction currently persists in game custom, and in the dependent action
+rules text (game custom seems to apply the standard to all action
+specifications not just intents), and is the basis for my vote counting.
+
+------------------------------------------------------------------------
+
+Judge ATMunn's Arguments:
+
+tl;dr: Hiding a ballot 500 lines into a report with no indication that
+there's a ballot there is not very "clear"; precedent sort of agrees but
+the situations weren't to the same extreme. FALSE.
+
+
+In the message in question, G. attempted to vote on Proposal 8458. E
+quoted the (very long) Herald's report, with the following text on lines
+574-576:
+
+> This is a break in the quoted portion of this message.
+> I, G., vote FOR the referendum on Proposal Eight Four Five Eight.
+> You are now returned to the quoted portion of this message.
+
+It was clearly intended to be hidden so as to not be noticed by the
+average player. The message also contained an obvious Notice of Honour
+at the top. Unless a player is suspecting something, e would likely see
+that and assume there were no other actions in the message.
+
+As per the caller's arguments and prior discussion, this obviously does
+not constitute a conspicuous attempt at voting. The question, then, is
+whether it is "clear." In fact, this is really the only question
+involved, as the Agoran rules for submitting a ballot do not actually
+use the word "conspicuous." The conditions for publishing a valid
+ballot, from rule 683, are as follows:
+
+
+       1. The ballot is submitted during the voting period for the
+          decision.
+
+       2. The entity casting the ballot (the voter) was, at the
+          initiation of the decision, a player.
+
+       3. The ballot clearly identifies the matter to be decided.
+
+       4. The ballot clearly identifies a valid vote, as determined by
+          the voting method.
+
+       5. The ballot clearly sets forth the voter's intent to place
+          the identified vote.
+
+       6. The voter has no other valid ballots on the same decision.
+	
+	
+#1-#4 and #6 are all satisfied without question. The issue is #5. Did G.
+clearly set forth eir intent to place the identified vote?
+
+This comes down to the definition of "clear" again. From the caller's
+arguments:
+
+"For example, Google’s dictionary definition of “clear” is:
+
+1. easy to perceive, understand, or interpret.
+
+However, the ballot in question went out of its way to make it hard for 
+players to perceive it, or understand or interpret that it was a ballot."
+
+The message certainly did try to make it hard for players to perceive
+it. One could disagree with the second half of the statement, as it is
+easy to understand and interpret that it was a ballot - but only if it
+is perceived. Let us look at another definition of clear.
+
+Merriam-Webster defines "clear" the following way:
+
+3 a : easily heard
+       "a loud and clear sound"
+   b : easily visible : plain
+       "a clear signal"
+   c : free from obscurity or ambiguity : easily understood : unmistakable
+       "a clear explanation"
+		
+The ballot is certainly not easily visible or plain. It is not free from
+obscurity, nor is it unmistakable. Even if you were to disagree and
+claim that the ballot complies with some parts of or some definitions of
+clear, one would agree that does not satisfy enough of the definition to
+truly be clear.
+
+Concerning the second piece of evidence provider by the caller (see
+below): I would say that it is over-exaggerating the situation somewhat,
+but it gets the point across. A notice, however clear the notice itself
+may be, if it is hidden in an obscure place, does not do much good at
+all. If Arthur had said, somewhere visible to all, "hey, I put a notice
+on display in the bottom of a locked filing cabinet stuck in a disused
+lavatory with a sign on the door saying 'Beware of the Leopard,'" though
+it would be inconvenient, the notice would have still been useful.
+
+Likewise, if G. had placed a piece of text near the top of the message
+saying something to the effect of "there is a ballot lower down in this
+message," then despite the text being hidden, it would be easily
+understood that one should look there, therefore it would be clear.
+However, e made no such mention (that would have defeated the purpose of
+eir ballot).
+
+We should, however, look at precedent before jumping to conclusions. To
+my knowledge, there are 3 prior CFJs dealing with this type of issue,
+those being CFJs 3667, 3670, and 3676.
+
+In CFJ 3667 [3], after a self-filed Motion to Reconsider due to a
+misunderstanding, judge G. found that an action taken inside a quoted
+message, so long as it is actually separate from the quoted message,
+could still work. That would seem to apply here as well, and make a case
+a judgement of TRUE. However, I argue that the scenario is different in
+this case. In the message in question in CFJ 3667, the attempted action
+was only on the 98th line of the message, and only 65 lines from the
+beginning of the quoted portion. Simply scrolling down a little is
+enough to notice it. In our scenario, the attempted action is hidden far
+further down in the quoted message and is much less conspicuous.
+
+CFJ 3670 [4] is interesting. It, like CFJ 3667, was found TRUE, and
+allowed an action to take place within a quoted report, only delimited
+by "Not part of report:". It was not even placed on a separate line.
+However, as G. said in eir gratuitous arguments:
+
+"And unfortunately, by that time it looks like everyone pretty much
+accepted that the hidden message was fine, and the arguments were all
+about a contract thing that might have been wrong.  Here's what that
+CFJ 3670 judgement says about clarity:
+
+ > As the intent was
+ > published to a public forum, e had given sufficient notice, and the
+ > intent, although it followed a quoted statement, was not buried, the
+ > condition is fulfilled and e did, in fact, perform the three given
+ > actions.
+
+So the judge says that intent was "not buried" (though to me it looks
+pretty buried!)"
+
+The judge's definition of "buried" seems a bit odd to me. The intent in
+CFJ 3670 was not as far down in the quoted message as in our scenario,
+but it was definitely less obvious once seen. Either way, the judgement
+was not focused on the hidden message. The judge seemed to be more
+focused on the matters relating to the contract than the hidden intent.
+For these reasons, I argue that CFJ 3670 is not relevant to this case.
+
+Finally, there's CFJ 3676 [5]. Unlike the others, this one was judged
+FALSE. The message in question here was actually in the quoted portion
+of the message, not on another line. From judge Murphy's arguments
+there:
+
+"In particular,
+D. Margaux intentionally used a misleading form factor that causes some
+mail readers to hide some or all of the relevant text by default, and
+was presumably aware of same. This is a concrete step beyond merely
+burying a separate paragraph in the middle of a long report."
+
+This would make me simply dismiss this CFJ as irrelevant - if it were
+not for the last sentence, "this is a concrete step beyond *merely
+burying a separate paragraph in the middle of a long report.*" The
+matter at hand is precisely that - a separate paragraph buried in the
+middle of a long report.
+
+The precedent seems to be that these hidden messages *do* work as long
+as they are not actually embedded in the quote itself - which this
+action was not - so is this any different? I would argue that yes, it is
+different. As I have stated before, this action was buried *far* deeper
+in the message than in any prior case. In the other cases, it is
+reasonable that someone could discover the action without much effort.
+One has to be far more intentional about looking for the action in this
+case.
+
+There is one final matter that must be examined before we can come to a
+conclusion, however. The prior cases all deal with intents. This case
+deals with a ballot. Let us take a look at G.'s final gratuitous
+arguments:
+
+"This chapter in Agoran history ended soon after the Bank Heist, which
+brought about a dependent action fix by Proposal 8107 (Buried Intent
+Prevention Act v2, adopted 27-Oct-18).  That proposal changed this text:
+
+ >  “1. A person (the initiator) announced intent to perform the action,
+ >  unambiguously and clearly specifying the action and method(s)
+ > (including the value of N and/or T for each method), at most fourteen
+ > days earlier.“
+
+to:
+
+ > “1. A person (the initiator) conspicuously and without obfuscation
+ >  announced intent to perform the action, unambiguously and clearly
+ > specifying the action and method(s) (including the value of N and/or T
+ > for each method), at most fourteen days earlier.“
+
+This separation made "without obfuscation" part of the whole announcement
+message (meaning 'no hiding' the intent overall), but separated
+"unambiguously and clearly specify" to refer only to the intent contents
+(asking once you find the intent in the message, is it clear?)  That
+distinction currently persists in game custom, and in the dependent action
+rules text (game custom seems to apply the standard to all action
+specifications not just intents), and is the basis for my vote counting."
+
+I have two counters to this argument. First, the text changed by the
+proposal e mentioned is not the current text in the ruleset:
+
+       1. A person (the initiator) published an announcement of intent
+          that unambiguously, clearly, conspicuously, and without
+          obfuscation specified the action intended to be taken and the
+          method(s) to be used;
+		 	
+The current text, in my opinion, seems to steer more towards the idea of
+the whole intent needing to be unambiguous, clear, conspicuous, and
+without obfuscation.
+
+Secondly, and more importantly, as I have said, the matter at hand deals
+with a ballot, not an intent. E argues that the "game custom seems to
+apply the standard to all action specifications not just intents," but
+the rule only deals with intents.
+
+In fact, one does not submit a ballot by announcement either. As rule
+683 states, "An entity submits a ballot on an Agoran decision by
+publishing a notice satisfying the following conditions: ...". The term
+"notice" is not defined in the rules, but "publish" is:
+
+                                                                To
+       "publish" or "announce" something is to send a public message
+       whose body contains that thing.
+		
+G.'s attempted ballot was a public message whose body contained
+something, that thing being the notice. So as per my previous arguments,
+it all comes back to this: did it clearly set forth G.'s intent to place
+the identified vote? And as I have already explained, most definitions
+of "clear" would say no.
+
+Therefore, I find CFJ 3860 to be FALSE.
+
+
+Judge ATMunn's Evidence:
+
+Evidence [1]:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-June/043813.html
+
+Evidence [2]:
+
+     “Oh, yes, well as soon as I heard I went straight round to see them,
+     yesterday afternoon. You hadn't exactly gone out of your way to call
+     attention to them, had you? I mean like actually telling anybody or
+     anything.”
+
+     “But the plans were on display…”
+
+     “On display? I eventually had to go down to the cellar to find them.”
+
+     “That’s the display department.”
+
+     “With a flashlight.”
+
+     “Ah, well, the lights had probably gone.”
+
+     “So had the stairs.”
+
+     “But look, you found the notice, didn’t you?”
+
+     “Yes,” said Arthur, “yes I did. It was on display in the bottom of 
+a locked
+     filing cabinet stuck in a disused lavatory with a sign on the door 
+saying
+     ‘Beware of the Leopard.”
+	
+Evidence [3]:
+
+CFJ 3667 original judgement: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039379.html
+reconsideration: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039380.html
+final judgement: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039409.html
+intent: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-September/039218.html 
+
+Evidence [4]:
+
+CFJ 3670 judgement: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039452.html
+intent: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039325.html
+
+Evidence [5]:
+
+CFJ 3676 judgement: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039428.html
+original intent: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039261.html
+apathy attempt: 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2018-October/039320.html
+
+==========================================================================

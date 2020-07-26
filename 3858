@@ -1,0 +1,165 @@
+===============================  CFJ 3858  ===============================
+
+      An action to be performed with 7 days notice depends on
+      objections.
+
+==========================================================================
+
+Caller:                        Jason
+Barred:                        nch
+
+Judge:                         grok
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  24 Jun 2020 01:58:23
+Assigned to grok:                                 25 Jun 2020 22:24:01
+Judged TRUE by grok:                              28 Jun 2020 01:53:54
+
+==========================================================================
+
+Caller's Evidence:
+
+Rule 2124/26 [Excerpt]:
+
+>       The above notwithstanding, if an action depends on objections, and
+>       an objection to an intent to perform it has been withdrawn within
+>       the past 24 hours, then Agora is not Satisfied with that intent.
+>       
+>       The above notwithstanding, Agora is not satisfied with an intent
+>       if the Speaker has objected to it in the last 48 hours.
+
+
+Dictionary definition of "define":
+
+[0]: https://www.merriam-webster.com/dictionary/depend
+
+
+Caller's Arguments:
+
+What it means for an action to "depend on objections" is not defined in
+the rules. This means that it has its common language meaning. The word
+at issue is "depend". Merriam-Webster [0] defines "depend" as an
+intransitive verb meaning:
+
+1. to be determined, based, or contingent
+
+2. to be pending or undecided
+
+3. a. to place reliance or trust
+
+   b. to be dependent especially for financial support
+
+4. to hang down
+
+I believe definition 1 here makes the most sense in context. I see two
+ways to interpret an action "depending on objections" - it either must
+require objects to be performable, or it must be affected by objections.
+The former makes no sense - no dependent action requires objections in
+order to be actionable, which would mean the clause has no effect. This
+leaves the second reading - the action "depends on objections" if
+objections affect whether it can be performed.
+
+An action to be performed with 7 days notice is affected by the presence
+or absence of objections. In particular, it is affected by the presence
+of an objection from the Speaker, who can veto an action for 48 hours by
+objecting. This is consistent with a common language reading - the
+effectiveness of an action to be performed with 7 days action is, in
+part, "determined" by, "based" on, or "contingent" upon, the presence or
+absence of an objection. Because of this, I argue that an action to be
+performed with 7 days notice "depends on objections" and argue for TRUE.
+ 	
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by R. Lee:
+
+(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-June/059234.html):
+
+> This is silly for the following reasons. Actions like "With T notice" are
+> called, by the ruleset, DEPENDENT ACTIONS. What do these actions depend on?
+> They depend on a specific set of conditions being met, in this case 7 days
+> passing. What does it mean to depend on objections? To have, in the
+> conditions for the DEPENDENT ACTION to work, the absence of objections as a
+> condition.
+
+Response to R. Lee from Jason
+(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2020-June/059235.html):
+
+> Counterpoint: even with T notice depends on the absence of objections
+> from a specific person - the Speaker, so it is still dependent on the
+> state of objections to the intent in general.
+
+
+Gratuitous Arguments by nch:
+
+Reposting the relevant clause with my Gratuitous for readability:
+
+       The above notwithstanding, if an action depends on objections, and
+       an objection to an intent to perform it has been withdrawn within
+       the past 24 hours, then Agora is not Satisfied with that intent.
+
+"X depends on Y" reads to me as "Y is important to the result of X". 
+There's at least one possible objection, that of the speaker, that is 
+important to the result of any dependent action intent. I think it's 
+pretty clear that all dependent action intents depend on the objection 
+of the speaker.
+
+The only reasonable counterargument I see is that the relevant clause is 
+simply not intended to apply here. You could argue that "on objections" 
+refers to objections in general, as opposed to any particular objections 
+(like the Speaker's). However, if we look at the original purpose of the 
+clause, that seems unlikely.
+
+In May 2009 two players performed a scam by objecting to an intent they 
+wanted to pass - the objections tricked other players into assuming it 
+would fail - and then withdrawing their objections last minute to 
+resolve it [1][2]. A patch was quickly introduced that added the first 
+version of this text, which impressively has lasted since then [3].
+
+So the purpose of the clause is to make it where a person can't scam by 
+doing a 'faux' objection. While "with notice" and the Speaker's veto 
+didn't exist at the time, the sensible interpretation with these newer 
+mechanics is that the Speaker also shouldn't be able to do faux objections.
+
+Thus, an in-context reading suggests the clause should apply to anything 
+anyone can object to. I submit that H. Judge Grok should find this CFJ TRUE.
+
+[1] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2009-May/020136.html
+
+[2] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-discussion/2009-May/026459.html
+
+[3] 
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2009-May/020138.html
+
+--------------------------------------------------------------------------
+
+Judge grok's Arguments:
+
+I had a substantially larger, textual decision written, but as I
+continue to review the case I find myself more compelled by the common
+definition gratuitous arguments written even if they don't necessarily
+match the noun forms used in the text.
+
+Ultimately, I take the common definitions as a logical test. R2124
+Paragraph 7 asks a question: "Does this action depend on objections?"
+Paragraph 8 tells us "We must check for objections because the
+Speaker's objection would mean Agora is Not Satisfied." Logically,
+this means there is a dependency. Even though the Speaker can only
+ever be one person, and the Speaker can only ever submit one
+objection, and any other objection would be untracked, INEFFECTIVE,
+and IRRELEVANT, we only need one EFFECTIVE objection for the
+determination of objections to be a prior question to Agoran
+Satisfaction.
+
+Therefore, I find the statement TRUE.
+
+
+(note: A key implication of this decision is that in this
+interpretation, every Dependent Action depends on objections.)
+
+==========================================================================

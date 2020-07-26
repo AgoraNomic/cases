@@ -1,0 +1,151 @@
+===============================  CFJ 3848  ===============================
+
+      G. is a party to the Groucho Marx Club.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         grok
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     16 Jun 2020 22:51:31
+Assigned to grok:                                 20 Jun 2020 00:24:39
+Judged FALSE by grok:                             27 Jun 2020 21:22:23
+
+==========================================================================
+
+Caller's Evidence:
+
+On 6/16/2020 15:51 PM, G. wrote:
+> I consent to the following contract, the Groucho Marx Club:
+> {G. CANNOT become a party to the Groucho Marx Club}.
+> 
+> I transfer 10 coins to the Groucho Marx Club.
+
+
+Rule 2519/2 (Power=3)
+Consent
+
+      A person is deemed to have consented to an action if and only if,
+      at the time the action took place:
+
+      1. e, acting as emself, has publicly stated that e agrees to the
+         action and not subsequently publicly withdrawn eir statement;
+      2. e is party to a contract whose body explicitly and
+          unambiguously indicates eir consent;
+      3. the action is taken as part of a promise which e created; or
+      4. it is reasonably clear from context that e wanted the action to
+         take place or assented to it taking place.
+
+
+Rule 1742/22 (Power=2.5)
+Contracts
+
+      Any group of one or more consenting persons (the parties) may
+      publicly make an agreement among themselves with the intention
+      that it be binding upon them and be governed by the rules. Such
+      an agreement is known as a contract. A contract may be modified,
+      including by changing the set of parties, with the consent of all
+      existing parties. A contract may also be terminated with the
+      consent of all parties. A contract automatically terminates if the
+      number of parties to it falls below one. It is IMPOSSIBLE for a
+      person to become a party to a contract without eir consent.
+
+      Parties to a contract governed by the rules SHALL act in
+      accordance with that contract. This obligation is not impaired
+      by contradiction between the contract and any other contract, or
+      between the contract and the rules.
+
+      Rules to the contrary notwithstanding, any change that would cause
+      the full provisions or parties of a contract to become publicly
+      unavailable is canceled and does not take effect.
+
+      The portion of a contract's provisions that can be interpreted
+      with reference only to information that is either publicly or
+      generally available are known as its body; the remainder of the
+      provisions are known as the annex.
+
+      A party to a contract CAN perform any of the following actions as
+      explicitly and unambiguously permitted by the contract's body:
+
+      * Act on behalf of another party to the contract.
+
+      * By announcement, revoke destructible assets from the contract.
+
+      * By announcement, transfer liquid assets from the contract to a
+        specified recipient.
+
+
+Caller's Arguments:
+
+I satisfied all of the requirements of R1742 for making a one-party
+agreement (obviously I agreed with myself about it).  To asset that I
+CANNOT join is to assert that a contract can take precedence over R1742
+in this regard.  
+
+Further, similar to the precedent of CFJ 7, the contract came into
+existence by my agreeing to it (i.e. the contract clauses had no force
+until immediately after I agreed).  Once I agreed, they had force, but
+saying I CANNOT become a party doesn't matter if I'm already a party.  
+(phrased that way,this might be a pretty trivial true, honestly).
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Publius Scribonius Scholasticus:
+
+Because this contract cannot have any parties, it cannot be a contract.
+
+--------------------------------------------------------------------------
+
+Judge grok's Arguments:
+
+I find CFJ 3848 FALSE.
+
+3848 proposes a question of relative action speed--when do things take
+effect? At what moment of ratification is a person held to the
+obligation of the ruleset? There are two key preceding cases to help
+clarify this issue.
+
+First, CFJ 7 [1]. This recently-judged case explores an early event of
+the ratification of the ruleset, where it was disputed whether
+contradictory rules could be ratified at the same time. The judgment
+found yes, as neither rule had any effect until ratification, and
+neither rule had preceding effect to decide to the contrary. Using
+this judgment as precedent, there is a ruleset-level path for the
+Groucho Marx Club to both exist and for G to be a party.
+
+However, the judgment is made murky by contract-specific relative
+action speed arguments made in CFJ 1843 [2]. In this case, a player
+attempted to call an equity case on a contract that did not exist,
+then created the agreement and joined it retroactively. It's honestly
+a very confusing case, but the Judge's arguments provide interesting
+texture on how we apply action speed to contracts. The judge's
+arguments define "joining" as "the moment the Agreement is justicable
+and binding in Agora". While this specific statement is used to
+outline the agreement-to-case timeline, the definition itself can be
+extended. The judgment collapses unless you interpret that specific
+judicial argument to mean there is a moment *during* the contract
+consent process where the agreement is binding to the player.
+
+I am conflicted as to which of these decisions is more valuable to the
+gamestate as a whole. Functionally I think CFJ 7 is more useful, but
+pragmatically I think CFJ 1843 lays out a more intuitive line of
+gameplay specific to this contract attempt. Even though CFJ 7 is more
+recent precedent, I believe the contract-specific language in CFJ 1843
+makes it independently applicable precedent.
+
+For these reasons, I find precedent in CFJ 1843 compelling. G. is not
+a party to The Groucho Marx Club. As The Groucho Marx Club has zero
+parties, it is not a contract.
+
+
+Judge's Evidence:
+[1] https://faculty.washington.edu/kerim/nomic/cases/?7
+[2] https://faculty.washington.edu/kerim/nomic/cases/?1843
+
+==========================================================================
