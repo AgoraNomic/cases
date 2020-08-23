@@ -1,0 +1,97 @@
+===============================  CFJ 3876  ===============================
+
+      Jason is not an interested judge.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 30 Jul 2020 18:46:23
+Assigned to G.:                                   30 Jul 2020 19:58:57
+Judged FALSE by G.:                               30 Jul 2020 19:58:57
+
+==========================================================================
+
+Caller's Evidence:
+
+Proposal 7899 (Oct 2017) appended the following to rule 991 (calls for 
+judgement):
+
+{
+      The Arbitor's weekly report includes a summary of recent
+      judicial case activity, including open and recently-judged
+      cases, recent judicial assignments, and a list of players
+      interested in judging.
+}
+
+That text is still there, unchanged, in the current 991/33.
+
+Rule 2125/12 reads (in part):
+{
+An action is regulated by a body of law if […] (3) it would, as part of
+its effect, modify information for which some person bound by that body of
+law is required, by that body of law, to be a recordkeepor.
+
+If a body of law regulates an action, then to the extent that doing so is
+within its scope, that body of law prevents the action from being performed
+except as described within it, including by limiting the methods to perform 
+that action to those specified within it. […]
+}
+
+
+Caller's Arguments:
+
+“Recordkeepor” is defined by the rules only in the context of assets, but
+it seems fairly obvious to parse this as “information… for which some
+person bound by that body of law is required to include in eir report.” 
+Therefore, becoming interested in judging is a regulated action.
+Therefore, one can only become an interested judge except as described by
+the rules, which provide no mechanism to do so. Jason registered in Jun
+2019, after Oct 2017 when interested judgeship became a regulated action. 
+Therefore, there is no way ey could have become a interested judge.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First, note that this doesn't affect judicial assignments. By Rule 991,
+the Arbitor CAN assign to any "eligible" judges (which are defined in that
+rule and unrelated to "interest").  So if there are no interested judges,
+the SHALL requirement for judicial assignments is trivially satisfied.  In
+fact, it's satisfied if the Arbitor specifically refuses to assign to any
+interested judges (0 for everyone is equal).
+
+Second, the judgement CFJ 3740 included an extensive history and analysis
+of the term "recordkeepor" and came to the following conclusion:
+
+> "Recordkeepor" in R2125 refers strictly to instances where the term is
+> used in the rules, and any records cascading from that explicit use.
+> Currently, this only applies to the R2166 definition cited by the
+> caller, but also the "Ribbons" that cascades recordkeeping to Ribbon
+> switches in general (duplicating the "tracked by" lanugage for
+> switches in R2162).
+
+(https://faculty.washington.edu/kerim/nomic/cases/?3740)
+
+Holding with that precedent, "interested in judging" is not regulated due
+to having a recordkeepor, and can be determined by a common-sense
+application of the common defininition of the term.  E.g. by initially
+expressing interest to the Arbitor, and being removed either by their own
+professed lack of interest, or if their failure to judge without
+explanation shows that they lack interest.
+
+Jason expressed interest in judging when e was an eligible judge, and has
+produced regular and timely judgements including on eir most recent
+assignment (judgement delivered 21-July), so e was clearly interested in
+judging at the time of this CFJ.
+
+I judge FALSE.
+
+==========================================================================

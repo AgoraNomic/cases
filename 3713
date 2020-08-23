@@ -1,0 +1,80 @@
+===============================  CFJ 3713  ===============================
+
+      Gaelan is impure.
+
+==========================================================================
+
+Caller:                        twg
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    13 Feb 2019 23:01:38
+Assigned to G.:                                   15 Feb 2019 13:37:38
+Judged FALSE by G.:                               15 Feb 2019 14:53:56
+
+==========================================================================
+
+Caller's Arguments:
+
+On Wednesday, February 13, 2019 10:08 PM, Gaelan Steele wrote:
+> For each player, I point my finger at that player for failing to reenact 
+> rule 2452 (“Trust Tokens”) with the same ID number and the next change 
+> identifier, in violation of rule 105.
+
+The relevant clause of R105 says:
+
+                         A repealed rule identified by its most recent
+         rule number MUST be reenacted with the same ID number and the
+         next change identifier.
+
+I believe there are two possible readings of this:
+
+(1) The common sense interpretation: When a person re-enacts a rule, e 
+MUST do so with the same ID number and the next change identifier, i.e., e 
+MUST NOT do so without those parameters.
+
+(2) The literal interpretation: Repealed rules are REQUIRED to be re-
+enacted, i.e., every repealed rule that is not re-enacted is guilty of a 
+violation of the rules.
+
+Interestingly, R105 has an equal power and smaller ID number to R869, and 
+therefore (I believe) overrides R869's statement that "the Rules CANNOT 
+compel non-players to act without their express or reasonably implied 
+consent", which means that interpretation (2), if correct, is in fact 
+binding on repealed rules. (The guilty rules cannot, unfortunately, be 
+punished, since both Finger-Pointing and Summary Judgement are restricted 
+to persons.)
+
+Neither of these interpretations imposes any obligation on any player to 
+re-enact repealed rules. Therefore, for each player other than Gaelan, I 
+announce the below-quoted Pointing of Gaelan's Finger at that player to be 
+Shenanigans.
+
+However, just in case I'm wrong, I Impose the Cold Hand of Justice by 
+levying a fine of 3 blots on Gaelan for failing to reenact rule 2452 
+("Trust Tokens") with the same ID number and the next change identifier, 
+in violation of rule 105. If I am correct that no rules violation 
+occurred, then of course this attempt to levy a fine is INEFFECTIVE.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The rule in question should be read with the preamble.  In other words:
+
+       Where permitted by other rules, an instrument generally can, as
+       part of its effect, (3) reenact a rule. A repealed rule identified by
+       its most recent rule number MUST be reenacted with the same ID number
+       and the next change identifier.
+
+This makes it clear that it's the instrument doing the re-enactment, a
+player CANNOT (unless e is an instrument).  What it means for a non-Player
+instrument to violate a MUST - well, I dunno, but it doesn't apply to
+Gaelan.  I find FALSE.
+
+==========================================================================

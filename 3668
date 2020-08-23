@@ -1,0 +1,85 @@
+===============================  CFJ 3668  ===============================
+
+      Committing a Crime is per se prohibited by law.
+
+==========================================================================
+
+Caller:                        Aris
+Barred:                        Cuddlebeam
+
+Judge:                         D. Margaux
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   05 Oct 2018 03:15:00
+Assigned to D. Margaux:                           20 Oct 2018 14:05:00
+Judged TRUE by D. Margaux:                        24 Oct 2018 19:27:00
+
+==========================================================================
+
+Caller's Arguments:
+
+On Thu, Oct 4, 2018 at 6:37 PM Kerim Aydin wrote:
+> On Thu, 4 Oct 2018, AIS523@alumni.bham.ac.uk wrote:
+> > After checking the rules: violating pledges is defined as a crime, but
+> > I can't see any actual requirement to avoid committing crime. The
+> > relationship between crimes and illegal actions does not seem to be
+> > well-defined. The most plausible readings of the rules I can see (based
+> > on Trigon's recent attempt at producing a ruleset) are:
+>
+> I just looked through, with the exception of pledges, it looks like all
+> Crimes are directly associated with an explicit SHALL, SHALL NOT, or
+> ILLEGAL (e.g. "players SHALL NOT X, doing so is the class N crime of...")
+>
+> Pledges used to have an ILLEGAL but that was removed on June 15.
+>
+> Maybe pledges have no force at all, so don't set up any requirements.
+
+To be clear, the precise requirement for a penalty is that the action in
+question must be "prohibited by law" (R2531). Rule 2152 makes it clear
+that marking something ILLEGAL means that "Performing the described action
+violates the rule in question", but no rule states that such a marking is
+a necessary condition for an action to be a violation. Furthermore, Rule
+2450 implies quite strongly that Oathbreaking is per se ILLEGAL.
+
+--------------------------------------------------------------------------
+
+Judge D. Margaux's Arguments:
+
+The Rules define several “crimes.”  Many violations of the Rules are
+described as crimes—for example, an officer commits the crime of 
+“tardiness” if e fails to perform a mandatory duty on time (Rule 2143),
+and a player commits the crime of “excess legislation” if e violates the
+legal prohibition against submitting or pending unreasonable numbers of
+proposals (Rule 2445).  In those examples, the Rules expressly prohibit
+the criminal conduct, independent of the fact that the conduct is also
+denominated as “crimes.”
+
+In contrast, Rule 2450 provides that a player who breaks a pledge is guilty
+of “oathbreaking,” but the Rules never expressly prohibit breaking a pledge
+apart from defining it as a crime. Similarly, a master who causes eir
+zombie to break a Rule commits the crime of “masterminding,” but the Rules
+never say that a master “SHALL NOT” do that.
+
+The question, then, is whether conduct defined as a “crime” is per se
+prohibited by the Rules.
+
+In my view, the answer is yes. The Rules do not define “crime,” so we may
+resort to its ordinary definition.  The definition from Merriam-Webster
+that seems most apt is “an illegal act for which someone can be punished by
+the government.” That definition seems especially to fit here, because Rule
+2557 provides that the maximum punishment for an ILLEGAL act is related to
+what class of “crime” it is.  In particular, the Referee CAN impose a fine
+up to two times the “base value” of a violation, and “if the violation is
+described by the rules as a Class N crime, then N is the base value;
+otherwise the base value is 2.”  There is no other evident purpose for
+defining certain conduct as a “crime,” apart from making it ILLEGAL and
+thereby subjecting the criminal to punishment for breaching the Rules in
+proportion to the class of the crime.
+
+For those reasons, I find that CFJ 3668 is TRUE.
+
+==========================================================================

@@ -1,0 +1,81 @@
+===============================  CFJ 3871  ===============================
+
+      As a result of the above actions, three coins were transferred
+      from Trigon to Gaelan.
+
+==========================================================================
+
+Caller:                        Gaelan
+Barred:                        Trigon
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 28 Jul 2020 21:30:12
+Assigned to Murphy:                               29 Jul 2020 17:46:39
+Judged FALSE by Murphy:                           02 Aug 2020 14:54:35
+
+==========================================================================
+
+[Linked to CFJ 3872]
+
+Caller's Evidence (the 'above actions'):
+
+> On Jul 28, 2020, at 12:24 PM, Reuben Staley via agora-business wrote:
+>
+> On 2020-07-28 00:03, Gaelan via agora-business wrote:
+>> I become a party to SEAMSTRESS, and transfer it 3 coins to submit the
+>> signature suggestion “I’m always happy to become a party to contracts.”
+>
+> I approve this signature suggestion, transferring 3 coins from SEAMSTRESS
+> to myself.
+>
+> For the record, I would argue that this doesn't really do anything. 
+> Someone expressing a general sentiment about a game action does not cause
+> or oblige em to consent to anything.
+>
+> -- 
+> Trigon
+>
+> I’m always happy to become a party to contracts.
+> I LOVE SPAGHETTI
+> transfer Jason one coin
+> nch was here
+> I hereby
+> don't... trust... the dragon...
+> don't... trust... the dragon...
+> Do not Construe Jason's message with subject TRIGON as extending this
+
+I create the following contract, with myself as the sole party: { Gaelan
+CAN act on Trigon’s behalf to transfer three coins to Gaelan. Upon Gaelan 
+doing so, this contract is destroyed. }
+
+I cause Trigon to become a party to the above contract.
+
+I act on Trigon’s behalf to transfer three coins to Gaelan, destroying the
+contract.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+Trigon did not clearly consent to the contract in question:
+
+   1) By default, purported actions within signature blocks do not
+      clearly indicate that the author performs that action. And while
+      SEAMSTRESS allows Trigon to veto such additions, it doesn't say
+      that if e doesn't, then this default is overridden.
+
+   2) "I'm always happy to become a party to contracts" can reasonably
+      be interpreted narrowly as "I'm always happy to become a party to
+      contracts /if I become a party to them at all/".
+
+As the transfer depended on Gaelan acting on Trigon's behalf per this
+contract, and the latter was ineffective, so the former was also
+ineffective. FALSE.
+
+==========================================================================

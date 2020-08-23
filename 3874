@@ -1,0 +1,146 @@
+===============================  CFJ 3874  ===============================
+
+      If G. demonstrated a Rulebending Form with text {This statute
+      takes precedence over all rules of power equal to this statute.
+      This statute, not any rule, determines the relative precedence of
+      rules and non-rule statutes in cases where they contradict. Rules
+      to the contrary notwithstanding, ais523 hereby becomes a
+      Rulebending Magister.}, this would be effective in making ais523 a
+      Rulebending Magister.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         Gaelan
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 10 Aug 2020 00:56:23
+Assigned to Gaelan:                               14 Aug 2020 18:34:34
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sun, 2020-08-09 at 20:21 -0400, Jason Cobb via agora-official wrote:
+> RESOLUTION OF PROPOSALS 8478-8487
+> =================================
+>
+> ID    Title                                 Result  
+> 8483  a minor adjustment                    ADOPTED 
+[snip]
+> ID: 8483
+> Title: a minor adjustment
+> Adoption index: 1.0
+> Author: G.
+> Co-authors: 
+>
+> If G., acting as emself, has published a single body of text clearly
+> labeled as "THE MYSTERY DOCUMENT" after the voting period on the
+> referendum for this proposal has began, this proposal applies all
+> effects specified in that body of text.
+
+On Wed, 2020-08-05 at 11:11 -0700, Kerim Aydin via agora-business
+wrote:
+> THE MYSTERY DOCUMENT:
+> ---------------------
+>
+> The patent title Rulebender is hereby awarded to each player whose valid
+> vote on the decision to adopt Proposal 8483 evaluated to FOR at the
+> end of the decision's voting period.
+>
+>
+> Create the following Rule, "Rulebending":
+>
+>       G. CAN, by announcement, make a Rulebender (defined as being an
+>       active player holding the patent title of Rulebender) into a
+>       Rulebending Magister, or make any entity cease being a rulebending
+>       magister.  Changes to an entity's rulebending magister status are
+>       secured.
+>
+>       A rulebending magister CAN demonstrate a Rulebending Form by
+>       announcement, specifying a published document as being the
+>       form.  When e does so, the form's power is set to the power of this
+>       rule, it takes effect as an ephemeral instrument, and then its power
+>       is set to 0.  However, a rulebending form CANNOT apply any of the
+>       following changes:
+>
+>       - rule changes;
+>       - the creation, destruction, or transfer of assets;
+>       - the flipping of switches;
+>       - the creation, modification, or termination of any pledge, promise,
+>         or contract;
+>       - the changing of an entity's rulebending magister status.
+>
+>       G. CAN cause this rule to repeal itself by announcement.
+>
+>
+> Hereby, there are no rulebending magisters.
+>
+> G. is hereby made a rulebending magister.
+>
+> ---------------------
+> END OF THE MYSTERY DOCUMENT
+
+
+Caller's Arguments:
+
+We have plenty of rules for resolving conflicts between rules. We do
+not, however, have much legislation for resolving conflicts between
+rules and non-rule statutes, especially when they have equal power.
+
+The rule created by proposal 8483 has power 1 (rule 105, paragraph
+labeled 1). If G. performed the hypothetical demonstration in the CFJ,
+this would create an ephemeral instrument, a statute, also with power
+1. The two statutes outright contradict each other (the Rulebending
+Form claims it can change rulebending magister status, the rule claims
+that Rulebending Forms can't).
+
+Note that rule 2140 states that ephemeral instruments are bound by
+restrictions in rules of /lower/ power, unless some rule explicitly
+allows them to override these restrictions, but does not say anything
+about being bound by restrictions in rules of /equal/ power.
+
+It's probably impossible to logically resolve a contradiction like
+this. Rule 1030 has protections against allowing rules to change the
+precedence mechanisms (so as to prevent the ruleset containing two
+precedence mechanisms that contradict each other, long recognised to be
+an unresolvable situation). With the passing of proposal 8483, we now
+have a situation in which it would be possible to have two separate
+contradiction-resolution mechanics in our statues as a whole, because
+non-rule statues are a way of getting around all our existing
+protections that try to prevent unresolvable contradictions betweeen
+contradiction-resolution mechanisms.
+
+This sort of thing has happened before (e.g. rule 2240 came about
+because someone found a contradiction between a rule and itself, and
+this was IIRC considered paradoxical if there were no contradiction-
+resolution mechanics involved); in general, this sort of case tends to
+be considered a paradox. CFJ 2560 is a good source for seeing why this
+sort of contradiction tends to be ruled paradoxical ??? and I think this
+paradox is somewhat stronger than that one! I therefore recommend
+UNDECIDABLE.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Jason:
+
+Arguments for FALSE:
+
+Rule 2613 says:
+
+>       An ephemeral instrument is one that takes effect only briefly, to
+>       effect a number of changes on the game. When it takes effect, the
+>       changes specified in its text are applied, provided that the
+>       instrument is not prohibited from doing so.
+
+
+The rulebending form is prohibited from making changes to rulebending
+magister status, so it simply does not apply those changes. It doesn't
+matter that the form itself says otherwise, it is still prohibited from
+making those changes.
+
+==========================================================================

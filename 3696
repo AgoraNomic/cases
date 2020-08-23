@@ -1,0 +1,87 @@
+===============================  CFJ 3696  ===============================
+
+      D. Margaux has fulfilled eir obligation, detailed in the rule
+      entitled 'Space Battles', to 'once communicate to the resolver the
+      amount of Energy [e wishes] to spend" in Space Battle 0001.
+
+==========================================================================
+
+Caller:                        twg
+Barred:                        D. Margaux
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    15 Jan 2019 23:52:12
+Assigned to G.:                                   16 Jan 2019 00:05:16
+Judged FALSE by G.:                               29 Jan 2019 23:02:32
+
+==========================================================================
+
+Judge G.'s Arguments:
+
+Let's say D. Margaux and twg had the following private conversation:
+
+twg:  I've picked a secret number - I'll call it tau.  Here's a hash so
+you know that I've chosen what tau is ahead of time.
+
+D. Margaux:  Sure, I'll bite:  I wish to spend tau+1.
+
+twg:  Right, I now know exactly how much you wish to spend.
+
+Then when twg later publishes both sides, e reveals the hash contents,
+and tau has a reasonable, appropriate value.
+
+Now there's two ways to adjudicate this:
+
+1.  "communicate to the resolver the amount of Energy" must be judged
+strictly with all the onus of communication on the combatant.  That is,
+D. Margaux's messages alone must contain sufficient information to
+communicate a value to any typical Agoran observer privy to D. Margaux's
+messages (but not privy to the contents of the hash).  This would result
+in false.
+
+2.  "communicate to the resolver [twg]" can include context known to
+twg. Here, D. Margaux of eir own free will communicated sufficient
+information to twg for the value to be determined by the resolver.
+While risky on D. Margaux's part, it was eir risk to take, of eir own
+free will.  This would result in true.
+
+In general, for private conversations, we've tended to lean towards #2:
+allowing lingo and context to evolve, or allowing private contracts /
+communications to work.  That allows for more flexible, enjoyable game
+play (where "clever arrangements" are part of that).  However, if we
+find this works in all cases, consider the following communication:
+
+twg:  Your opponent has told me how much energy e wishes to spend.
+Let's call that number tau.
+
+D. Margaux:  I wish to spend tau + 1.
+
+And of course, twg's communication isn't necessary, D. Margaux could
+simply say "I wish to spend whatever the other combatant spent, +1".
+This clearly defeats the intent of the combat; moreover, allowing this
+sort of conversation allows the combatant to act on unknown information
+that's required (by rule) to be kept from em.
+
+To allow for flexible play, then, without using others' secrets,
+requires something of a middle ground.  To that end, I would suggest the
+following:  that if the person originating the "wished/desired" spending
+doesn't have reasonably sufficient information (at the time of
+communication) to know eir wish, then e cannot actually communicate eir
+wish.  This allows some degree of encoding that's only known to the
+resolver - e.g. the resolver can say "use my public key to encode your
+spend and I'll use my private key to decode it".  But the fundamental
+"wished value" has to be known to D. Margaux (as an absolute value, not
+in reference to unknown values) for em to communicate it to twg.
+
+So, since this sort of communication wouldn't work in the "pure" case
+(where the value is provably set-in-advance via a resolver's hash), we
+don't have to delve into situations where the encoding was less
+provable, as in this one.  I find FALSE.
+
+==========================================================================

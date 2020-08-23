@@ -7,6 +7,7 @@
 Caller:                        Jason
 
 Judge:                         Aris
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -14,6 +15,9 @@ History:
 
 Called by Jason:                                  18 Jul 2020 18:27:45
 Assigned to Aris:                                 25 Jul 2020 18:16:22
+Judged FALSE by Aris:                             03 Aug 2020 07:38:22
+Motion to reconsider self-filed:                  09 Aug 2020 21:39:05
+Judged TRUE by Aris:                              09 Aug 2020 21:39:05
 
 ==========================================================================
 
@@ -237,5 +241,144 @@ filters to block incoming messages, it doesn't assume those messages
 haven't come through).
 
 - Common sense?
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+The question of the day is "Is sending a public message a regulated action?"
+The caller argues that it might due to the interaction of two rules.
+
+Rule 2125 defines regulated actions as follows:
+
+  An action is regulated by a body of law if (1) its performance is
+  limited, allowed, enabled, or permitted by that body of law; (2)
+  that body of law describes the circumstances under which it would
+  succeed or fail; or (3) it would, as part of its effect, modify
+  information for which some person bound by that body of law is
+  required, by that body of law, to be a recordkeepor.
+
+
+This definition is relevant in this case because, due to further provisions
+of Rule 2125, anything regulated by a rule cannot be done except as authorized
+by the rules; if sending a public message were regulated, this would be
+a problem, because no rule explicitly enables the sending of public messages.
+
+Fortunately, no rule describes the circumstances under which sending a message
+suceeds or fails, and messages do not, in and of themselves, modify information
+tracked by any recordkeepor. That leaves their performance its performance being
+limited, allowed, enabled, or permitted by that the rules.
+
+The caller believes that e has found a provision permitting persons to
+send messages in Rule 478, which as follows:
+
+  Freedom of speech being essential for the healthy functioning of
+  any non-Imperial nomic, it is hereby resolved that no Player shall
+  be prohibited from participating in the Fora, nor shall any person
+  create physical or technological obstacles that unduly favor some
+  players' fora access over others.
+
+The caller contends that "A plain reading of this seems to indicate that
+Rule 478 'permits' players to participate in the Fora - preventing someone from
+being prohibited from doing something is ensuring that they are permitted to do
+it."
+
+The caller is right, as far as e goes. Preventing someone from
+being prohibited from doing something is *ensuring* that they are permitted
+to do it. It is not, however, permitting them to do it, even if the effect
+is largely identical in practice. To permit is to "give authorization or
+consent to (someone) to do something." Rule 478 doesn't authorize anyone
+to do anything, it just knocks down any prohibitions on taking certain actions.
+
+For instance, imagine two different couples, each raising one teenage son.
+The sons each request permission to stay out past curfew to attend prom
+together. In the first household, one parent gives the sons permission to stay
+out past curfew. In the other household, the mother tries to object, but
+the father immediately begins shouting about how the mother is
+"always too hard on our darling", leading her to falling silent. Both
+of the young men can go on their date. However, in only the former
+case was the son was permitted to go out; in the latter, the prohibition on the
+son going out was prevented.
+
+Lest objectors claim that these actions are one and the same thing, let me
+note one further implication present in the case of prohibiting a prohibition
+that would not be present were mere permission involved. Rule 478 can be
+read to prohibit the Distributor from censoring the Fora. By contrast,
+a mere statement that players MAY send messages to the Fora would not have
+such an effect.
+
+Now, to be clear, the rules do limit, allow, enable, and permit doing
+certain things in the messages one sends. But sending a message with certain
+content is an altogether different matter from sending them in general.
+
+As a personal note, I apologize for not using either of the excellent gratuitous
+arguments I received in response to my request. In particular, I found section
+a of ais523's both ingenious and extremely convincing. Although I did not need
+to reach it, I would have used it if the logic I used here had not
+occurred to me.
+
+No rule takes away the inherent and naturally existing ability of players
+to send messages to agora-business. Accordingly, TRUE.
+
+
+Judge Aris's Evidence
+
+Rule 2125/12 (Power=3)
+Regulated Actions
+
+  An action is regulated by a body of law if (1) its performance is
+  limited, allowed, enabled, or permitted by that body of law; (2)
+  that body of law describes the circumstances under which it would
+  succeed or fail; or (3) it would, as part of its effect, modify
+  information for which some person bound by that body of law is
+  required, by that body of law, to be a recordkeepor.
+
+  If a body of law regulates an action, then to the extent that
+  doing so is within its scope, that body of law prevents the action
+  from being performed except as described within it, including by
+  limiting the methods to perform that action to those specified
+  within it. A body of law does not proscribe any action which it
+  does not regulate.
+
+
+Rule 478/38 (Power=3)
+Fora
+
+  Freedom of speech being essential for the healthy functioning of
+  any non-Imperial nomic, it is hereby resolved that no Player shall
+  be prohibited from participating in the Fora, nor shall any person
+  create physical or technological obstacles that unduly favor some
+  players' fora access over others.
+
+  Publicity is a secured forum switch with values Public,
+  Discussion, and Foreign (default), tracked by the Registrar.
+
+  The Registrar may change the publicity of a forum without
+  objection as long as:
+
+  1. e sends eir announcement of intent to that forum; and
+
+  2. if the forum is to be made public, the announcement by which
+     the Registrar makes that forum public is sent to all existing
+     public fora.
+
+  Each player should ensure e can receive messages via each public
+  forum.
+
+  A public message is a message sent via a public forum, or sent to
+  all players and containing a clear designation of intent to be
+  public. A rule can also designate that a part of one public
+  message is considered a public message in its own right. To
+  "publish" or "announce" something is to send a public message
+  whose body contains that thing. To do something "publicly" is
+  to do that thing within a public message.
+
+  Where the rules define an action that a person CAN perform "by
+  announcement", that person performs that action by unambiguously
+  and clearly specifying the action and announcing that e performs
+  it. Any action performed by sending a message is performed at the
+  time date-stamped on that message. Actions in messages (including
+  sub-messages) are performed in the order they appear in the
+  message, unless otherwise specified.
 
 ==========================================================================

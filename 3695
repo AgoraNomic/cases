@@ -1,0 +1,90 @@
+===============================  CFJ 3695  ===============================
+
+      Tenhigitsune has fulfilled eir obligation, detailed in the rule
+      entitled 'Space Battles', to 'once communicate to the resolver the
+      amount of Energy [e wishes] to spend" in Space Battle 0001.
+
+==========================================================================
+
+Caller:                        twg
+Barred:                        D. Margaux
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by twg:                                    15 Jan 2019 23:52:12
+Assigned to G.:                                   16 Jan 2019 00:05:16
+Judged FALSE by G.:                               29 Jan 2019 22:11:07
+
+==========================================================================
+
+Judge G.'s Arguments:
+
+tl;dr you can't "communicate to" someone on behalf of a zombie because you
+can't send messages on their behalf.
+
+In general, in Agora, we abstract a lot of things (real currencies become
+virtual currencies, etc.)  However, we are grounded in some baseline
+realities.  Of course, some of those "realities", such as whether free will
+exists, are deep philosophical questions - over time, Agora has built up
+some precedents around those.
+
+One such precedent is in CFJ 1895 (a discussion of free will and
+Aristotelian causality).  This found that a "baseline axiom" in Agora is
+that the game is played by discrete, identifiable agents of free will -
+i.e. "natural persons".  The assumption is that "personhood" is absolute -
+you can create a legal construct that accepts one person's actions on
+behalf of another, but the agent never "becomes" the other person.
+
+This fundamental assumption extents to the concept of "knowledge".  Because
+each person's knowledge is fundamentally independent, an actor cannot "pass
+on a principal's knowledge" (i.e. "communicate to") a third party.  Again,
+we could put in Rules-language to create a legal fiction that allows it,
+but such communication cannot happen naturally.
+
+Currently, the R2466 explicitly forbids the legal fiction that an actor can
+act on behalf of a principal to "send a message".  While the context of
+"send a message" is generally "send an email", in this case it should be
+taken colloquially and broadly - one can "send a message" in a variety of
+ways.  So in the broader context, "sending a message" is simply to
+"communicate" to someone, whether via email, in-person, or a horse's head
+in someone's bed.
+
+So an actor cannot communicate with anyone on-behalf-of a principal.  In
+R2466 this is explicit, but even without the prohibition in R2466, it is
+impossible:  as per CFJ 1895 "Every assumed act of free will can be traced
+to a particular person's desire.  Thus, as final cause and intention, this
+intention, and free will is, also non-transferable, in the most fundamental
+sense."  The "act of communicating" is fundamentally an act of free will,
+an act traceable to a particular person's desire. And that person is the
+actor, not the principal[*].
+
+The Rule "Space Battles" states that a certain action is accomplished by
+communicating to another party - the communication is the action.  The Rule
+is Power-1.  R2466 is power-3, so this trumps any ability that might be
+implied in lower-powered rules, and as discussed above, there's no
+"natural" ability for an actor to communicate on behalf of a principal[**].
+Therefore, a person CANNOT act on behalf of another to communicate the
+required information.  I find FALSE.
+
+[*] This is specific to cases where the actor "originated" the original
+thought (i.e. the origin of the message was the actor's free will, not the
+principal's).  For example, if the Principal (of eir own accord) sends a
+message to a private party, and the private party forwards the message to a
+forum, it's possible to find that the Principal communicated with the forum
+"via the private party".  But this is only true if the Principal, as an
+agent of free will, originated the content of the message.
+
+[**] This discussion of what may happen "naturally" is necessary because
+it's physically impossible to block two free agents from communicating: a
+rule that says "two people CANNOT communicate about X" would have no
+meaning when the two people actually did so, which is why we use SHALL NOT
+to control acts of communication between free agents.  So if R2466 were
+purporting to invalidate communications between free agents, it would fail
+due to physical reality.
+
+==========================================================================

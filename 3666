@@ -1,0 +1,133 @@
+===============================  CFJ 3666  ===============================
+
+      G.'s attempt in the message quoted below to transfer coins to the
+      contract between em and D. Margaux is EFFECTIVE.
+
+==========================================================================
+
+Caller:                        D. Margaux
+Barred:                        Aris
+
+Judge:                         ATMunn
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by D. Margaux:                             01 Oct 2018 00:10:00
+Assigned to L:                                    01 Oct 2018 06:01:00
+L recused:                                        20 Oct 2018 14:05:00
+Assigned to ATMunn:                               20 Oct 2018 14:05:00
+Judged TRUE by ATMunn:                            27 Oct 2018 01:21:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sun, Sep 30, 2018 at 7:04 PM Kerim Aydin <kerim@u.washington.edu> wrote:
+>
+> I transfer 400 coins to the Contract that I most recently publicly
+> agreed to.
+>
+
+
+///// Contract between D. Margaux and G. /////
+
+1. This is a contract between D. Margaux and G. (the “parties”). Other
+players CANNOT join this contract without consent of both parties. This
+contract CAN be terminated by consent of both parties.
+
+2. The name of this contract is the “First Bank of Agora.”
+
+3. A party to this contract has “on deposit in the contract” an amount of
+coins equal to the total number of coins e has deposited in this contract,
+minus the total number of coins e has withdrawn from the contract.
+
+4. Any party to this contract CAN transfer coins to this contract.  Making
+such a transfer is called “depositing” those coins in the contract.
+
+5. Any party to this contract CAN cause the contract to transfer to em any
+amount of coins less than or equal to the number of coins e has on deposit
+in the contract.  Making such a transfer is called “withdrawing” the coins
+from the contract.
+
+///// end of contract /////
+
+
+On Sat, Sep 29, 2018 at 7:12 PM Kerim Aydin <kerim@u.washington.edu> wrote:
+>
+>
+>
+> I agree to the exchanged Contract with this hash.  -G.
+>
+> On Sat, 29 Sep 2018, D Margaux wrote:
+> > G. and I have exchanged a document that has text with the following SHA256
+> > hash:
+> >
+> > 58629980096A5E997EC5CF62C04B59EBFBEEAF81DD4785B50CCF190E1F24CE2D
+> >
+> > I agree to be bound by that text and I agree and consent for that text to
+> > be a contract between me and G., if G. likewise agrees.
+> >
+>
+
+--------------------------------------------------------------------------
+
+Judge ATMunn's Arguments:
+
+SHORT RULING
+
+I judge CFJ 3665 TRUE because the rule defining coins does not restrict
+their ownership, but rather expands it to include facilities, leaving
+contracts still able to own coins.
+
+I judge CFJ 3666 TRUE because of the same reasons.
+
+DETAILED JUDGEMENT
+
+The first issue that must be addressed in judging these CFJs is whether
+or not the contract they mention exists. Obviously, if it does not
+exist, there is no way assets can be transferred to it.
+
+According to the rule defining contracts, Rule 1742, a contract is
+simply an agreement between two or more individuals to be bound by the
+contract's text. In the original message by G. (see Evidence section), e
+states that the contract's text had been shared privately between em and
+D. Margaux, and had a specified hash. Both G. and D. Margaux clearly and
+publicly consented and agreed to the contract's text. The later provided
+text's hash does indeed line up with the hash provided by G.
+
+The question which needs to be answered is whether or not the contract
+exists if its regulations are not publicly known. It seems logical that
+the contract does indeed exist, as a contract is simply an agreement;
+however, it has no binding power. No obligations within the contract
+have any authority if it is unknown exactly what they are, therefore
+they cannot be enforced. Likewise, the contract cannot own assets, have
+Mint Authority, etc. However, as soon as the regulations of the contract
+are clearly and unambiguously stated, publicly known, and verified to be
+the same as the originally agreed text, the contract has full authority
+according to its text.
+
+Now that it is established that the contract does indeed exist, and can
+own assets, the main issue of the CFJs must be addressed. The contract
+specifies that any of its parties CAN transfer coins to it. However,
+Rule 2483 asserts that coins and similar currencies can be owned by
+Agora, players, and facilities, but it does not specify contracts. And,
+according to Rule 2576, "If an asset's backing document restricts its
+ownership to a class of entities, then that asset CANNOT be gained by or
+transferred to an entity outside that class." This appears to be a
+conflict between the contract and the rules, in which circumstance the
+rules would take precedence, as the ability for contracts to overtake
+rules would likely cause serious issues for Agora.
+
+But, upon further inspection, Rule 2483 only says that Agora, players,
+and facilities can own coins. It does not seem to necessarily "restrict
+its ownership," but rather expand ownership. This would mean that
+contracts actually can own coins, as by default they can own all assets.
+Therefore, the First Bank of Agora contract can own coins, meaning G.
+and D. Margaux's attempts to transfer coins to it is EFFECTIVE.
+
+I judge CFJ 3665 and CFJ 3666 both TRUE.
+
+==========================================================================

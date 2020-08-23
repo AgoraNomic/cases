@@ -1,0 +1,109 @@
+===============================  CFJ 3875  ===============================
+
+      Somewhat Annoying Experiment has exactly 5 coins.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         G.
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 14 Aug 2020 06:17:58
+Assigned to G.:                                   14 Aug 2020 18:35:40
+
+==========================================================================
+
+Caller's Evidence:
+
+On 8/14/2020 03:15 UTC, Gaelan Steele via agora-business wrote:
+> I transfer 10 coins to the above contract.
+
+On 8/14/2020 06:17 UTC, Gaelan Steele via agora-business wrote:
+> I revoke 5 coins in that contract's possession by announcement.
+
+
+Contract at time of the revokation announcement, from Notary's Report:
+
+"Somewhat Annoying Experiment" (revision 1)
+Parties: Gaelan
+
+----------
+
+The Eligible Revocation can be calculated as follows:
+Let x be the lowest positive integer that, represented as a decimal
+number in ASCII, has the SHA256 hash
+9b722e5d98390e12c7f29dc74d30a52f2c152a35fd47f9614e35f235e025b085.
+The Eligible Revocation is x % 10 (where % is the modulo operator).
+
+This contract accepts any transfers of assets.
+
+A party to this contract can, by announcement, revoke a number of coins
+in its possession exactly equal to the Eligible Revocation.
+
+Gaelan can, by announcement, transfer assets owned by this contract to
+emself.
+
+----------
+
+Caller's Arguments:
+
+Note: The SHA256 hash above is a random 64-bit value. While I believe
+there must exist a lowest number with that hash (there is an infinite
+number of integers, but a finite number of possible SHA256 hashes), I
+don't believe it can be determined other than by brute force. This
+follows from a discussion in the Discord about whether or not we have
+any limits on computational complexity of contracts.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by shelvacu:
+
+Argument for FALSE:
+
+Rule 1742 says that
+
+"The portion of a contract's provisions that can be interpreted with
+reference only to information that is either    publicly or generally
+available are known as its body; the remainder of the provisions are
+known as the annex."
+
+and
+
+"A party to a contract CAN perform any of the following actions as
+explicitly and unambiguously permitted by the contract's *body*."
+
+Because the integer x specified in the contract is information that is
+not publicly or generally available, all portions that depend on it are
+an "annex". Thus, revoking 5 coins was not effective because no part of
+the contract's body allowed it.
+
+While the contract states that "The Eligible Revocation can be
+calculated as follows", that is simply not true. What is provided is a
+way to /verify/ the Eligible Revocation. While theoretically 'x' could
+be found via brute force has exactly one correct value, the process of
+finding that integer would require resources that are certainly not
+publicly or generally available.
+
+
+Side note: I was going to add "... and does not exist on this earth" in
+reference to what resources would be required, but I remembered that
+bitcoin exists, and because of it so do large amounts of heavily
+optimized ASICs that compute SHA256. I decided to do the calculation to
+check. https://www.blockchain.com/charts/hash-rate shows the average
+hashrate of the bitcoin network peaked at 126.941 petahashes/s (that's
+right, /peta-/). At that rate (that is, if everyone in the world
+currently running a bitcoin miner instead switched to finding Gaelan's
+number), it would take */145 seconds! /*That's it!
+
+
+Side note to my side note: I misunderstood Gaelan's note. The hash
+itself is completely random, I misread and though it was a hash /of/ a
+value between 0 and 2^64-1 (a 64-bit value). As such, brute forcing with
+all the world's ASICs would be on the order of 10^60 seconds, or 10^50
+centuries.
+
+==========================================================================

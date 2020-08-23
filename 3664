@@ -1,0 +1,179 @@
+===============================  CFJ 3664  ===============================
+
+      Corona and D. Margaux made a Contract in the last 24 hours.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        D. Margaux
+
+Judge:                         twg
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     29 Sep 2018 02:19:01
+Assigned to twg:                                  01 Oct 2018 04:01:00
+Judged TRUE by twg:                               18 Oct 2018 11:24:00
+
+==========================================================================
+
+Caller's Arguments:
+
+1.  Can we infer natural exchanges like this are Agoran contracts?
+It would be cool if we could - that would make flexible "handshake
+deals" be backed up by Agoran courts.
+
+2.  I think a contract is the only means of act-on-behalf that works -
+by R2466 (Acting on Behalf), allowing it must be Rules-allowed and
+is secured-2, and Rule 1742 (Contracts) is the only thing that allows
+it.  So it would be doubly-cool if things like this weren't blocked.
+
+
+Caller's Evidence:
+On Fri, 28 Sep 2018, D Margaux wrote:
+> I act on Coronas behalf to transfer all of Coronas liquid assets to me
+>
+> On Fri, Sep 28, 2018 at 5:52 PM Corona wrote:
+>
+> > As I think I don't have the steel or whatever to pay upkeep for my
+> > refinery, and am too busy/bored with Agora to micromanage my other
+> > properties, I give permission to any player to act on my behalf to transfer
+> > all of my liquid assets to emself, until the end of this September.
+> >
+> > I know, I could just let myself get zombified, but the buildings wouldn't
+> > survive and that would be a shame.
+> >
+> > This is not binding, but if I were to return in the future, and the economy
+> > didn't go through some sort of reset, I would like the player who claimed
+> > the assets offered in this message to give me at least a part of them back
+> > so I don't have to start from scratch.
+> >
+> > ~Corona
+> >
+> --
+> D. Margaux
+>
+
+Judge twg's Arguments:
+
+The caller refers to the following thread of messages:
+
+On Fri, 28 Sep 2018, D Margaux wrote:
+> I act on Coronas behalf to transfer all of Coronas liquid assets to me
+>
+> On Fri, Sep 28, 2018 at 5:52 PM Corona <liliumalbum.agora@gmail.com> wrote:
+>
+> > As I think I don't have the steel or whatever to pay upkeep for my
+> > refinery, and am too busy/bored with Agora to micromanage my other
+> > properties, I give permission to any player to act on my behalf to transfer
+> > all of my liquid assets to emself, until the end of this September.
+> >
+> > I know, I could just let myself get zombified, but the buildings wouldn't
+> > survive and that would be a shame.
+> >
+> > This is not binding, but if I were to return in the future, and the economy
+> > didn't go through some sort of reset, I would like the player who claimed
+> > the assets offered in this message to give me at least a part of them back
+> > so I don't have to start from scratch.
+> >
+> > ~Corona
+> >
+> --
+> D. Margaux
+>
+
+--------------------------------------------------------------------------
+
+Judge twg's Arguments:
+
+This case presents a question of law: did Corona's and D. Margaux's
+messages meet the requirements outlined by Rule 1742/19, "Contracts",
+for this exchange to be considered a contract? If not, then the
+caller's second argument is sound: D. Margaux's action would have been
+INEFFECTIVE, as the only mechanisms provided by the rules for acting on
+behalf are contracts and zombiehood.
+
+Rule 1742/19 states, in part:
+
+      Any group of two or more consenting persons (the parties) may
+      make an agreement among themselves with the intention that it be
+      binding upon them and be governed by the rules. Such an agreement
+      is known as a contract. A contract may be modified, including
+      by changing the set of parties, by agreement between all existing
+      parties. A contract may also terminate by agreement between all
+      parties. A contract automatically terminates if the number of
+      parties to it falls below two. For the purposes of this rule,
+      agreement includes both consent and agreement specified by
+      contract.
+
+We can summarise the definition of "contract" to produce a list of
+requirements that must be satisfied for this exchange to be considered a
+contract:
+
+1) Is it an "agreement"?
+2) Did Corona and D. Margaux consent to it?
+3) Did Corona and D. Margaux have the intention that it would be
+   binding upon them and governed by the rules?
+
+I will investigate each of these requirements in turn.
+
+First, do these message constitute an "agreement" between Corona and
+D. Margaux? Rule 1742 says that "agreement includes both consent and
+agreement specified by contract". However, to apply this as a definition
+of a countable noun would suggest that "an agreement" can mean either
+"a consent" or "an agreement specified by contract" - the first being
+nonsensical and the second a circular definition. This court therefore
+believes that the intent of this sentence is to define the _action_ of
+agreement, viz. the method by which a contract may be modified or
+terminated, and recommends that Rule 1742 be amended to reduce the
+confusion caused by this terminology.
+
+Lacking a rule-bast definition for an "agreement", we thus turn to past
+judicial precedent. In CFJ 3315, faced also with the problem of the lack
+of definition for this word, the Honourable Judge scshunt noted that the
+rules clearly assumed the existence of the external concept of an
+"agreement", and held that:
+
+      ...given the lack of reference to agreements within the rules, it
+      appears to be that the interpretation of "agreement" in this CFJ
+      and in the rules should be given maximum latitude, so djanatyn's
+      statement can be interpreted as an agreement (such an
+      interpretation being of questionable value for any purpose other
+      than the analysis of this inquiry, however).
+
+This court sees no reason to overturn the precedent set in CFJ 3315,
+and therefore confirms the Honourable Judge scshunt's ruling. It is
+clear that both Corona and D. Margaux believed this exchange of messages
+to constitute a contract, as both took actions on the assumption that
+D. Margaux's action to transfer Corona's liquid assets to emself was
+EFFECTIVE; and therefore this exchange matched their understandings
+of the concept of an "agreement". The first requirement for the
+exchange to be considered a contract is therefore met.
+
+Secondly, did both Corona and D. Margaux consent to the agreement?
+"Consent" is explicitly defined by Rule 2519/0, "Consent":
+
+      A person gives consent (syn. consents) to an action when e, acting
+      as emself, publicly states that e agrees to the action. This
+      agreement may be implied, but only if it is reasonably clear from
+      context that the person wanted the agreement to take place.
+
+Corona stated that e "g[a]ve permission" to any player to fulfill the
+other half of the agreement. This is an unambiguous statement of
+consent. D. Margaux, meanwhile, attempted to perform an action that
+would be POSSIBLE only if e did, in fact, consent to the agreement;
+game custom is that this constitutes valid implied consent.  Both Corona
+and D. Margaux were thus consenting parties to the agreement.
+
+Finally, did both Corona and D. Margaux intend for the agreement to be
+binding upon them and governed by the rules? Again, their later actions
+confirm that they believed (and hence intended for) their agreement to
+have been a contract, which by definition would have been binding upon
+them and governed by the rules.
+
+The above requirements all having been met, I judge CFJ 3644 TRUE.
+
+==========================================================================
