@@ -1,0 +1,82 @@
+===============================  CFJ 3881  ===============================
+
+      ATMunn acted on behalf of Aris to transfer 10 coins today.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     29 Aug 2020 21:09:57
+Assigned to Murphy:                               30 Aug 2020 18:42:04
+Judged FALSE by Murphy:                           07 Sep 2020 22:31:20
+
+==========================================================================
+
+[Linked to CFJ 3882]
+
+Caller's Evidence:
+
+Contract by Aris allowing for a 10 coin transfer:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044662.html
+
+Notice given by ATMunn:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044664.html
+
+Notice given by G.:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044669.html
+
+Attempt at action after the notice period had passed, by ATMunn:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044726.html
+
+Attempt at action after the notice period had passed, by G.:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044727.html
+
+
+Caller's Arguments:
+
+ATMunn wrote:
+> Having given sufficient notice, I do so.
+
+G. wrote:
+> That's ISID - where's the proof and where's the claim and what's the
+> valid judgement?  (I don't see any evidence that "file a proof of claim"
+> is a term of art).
+
+ATMunn wrote:
+> Doesn't matter - the contract said it was a thing that could be done.
+
+G. (edited response):
+It says it can be done with Notice.  Notices require specifications, which
+you haven't given.
+
+For example, R991 says that you can call a CFJ specifying the statement
+to be inquired into, by announcement.  If I say "I call a CFJ specifying
+a statement to inquire into" then I actually haven't done so, even
+though the rule literally says that.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+While there may be some leeway in how much specification is provided in
+a notice of intent vs. when carrying out said intent, things definitely
+need to at least be specified by the latter time. This transfer would
+only be possible "as explicitly and unambiguously permitted by the
+contract's body" (Rule 1742, Contracts).
+
+As neither the contract nor the rules define "proof", nor "claim"
+(outside the phrase "claim of error"), I interpret them according to
+their ordinary-language definitions. ATMunn's attempt at action after
+the notice period was not a "proof of claim of a valid judgement" just
+because it claimed to be one.
+
+FALSE.
+
+==========================================================================

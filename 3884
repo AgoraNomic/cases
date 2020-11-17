@@ -1,0 +1,138 @@
+===============================  CFJ 3884  ===============================
+
+      The Lunar Laser Ranging experiment is a forum.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        Falsifian
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     06 Sep 2020 19:18:00
+Assigned to Shelvacu:                             13 Sep 2020 19:12:54
+Shelvacu recused:                                 27 Sep 2020 16:19:17
+Assigned to Aris:                                 27 Sep 2020 18:23:41
+Motion to Extend filed:                           03 Oct 2020 07:55:39
+Judged FALSE by Aris:                             10 Oct 2020 20:00:54
+Motion to Reconsider self-filed:                  15 Oct 2020 18:39:56
+Judged FALSE by Aris:                             15 Oct 2020 18:39:56
+
+==========================================================================
+
+Caller's Arguments:
+
+On 9/6/2020 11:43 AM, Falsifian via agora-business wrote:
+> Registrar's opinion:
+>
+> The Lunar Laser Ranging experiment is not a forum, so it does not have
+> an instance of the Publicity switch, so the new Emergency Regulation
+> didn't do anything.
+>
+> Even if the experiment can be used for communication, it would be a
+> stretch to call it a "place for discussion" or a "message board"
+> (Wiktionary: "forum").
+
+Looking at the peer-reviewed literature linked to:
+https://en.wikipedia.org/wiki/Lunar_Laser_Ranging_experiment
+
+It looks like it would be possible, with reasonable effort, to write a
+protocol giving instructions on using this medium for communications
+(access to equipment is not relevant, any more than access to email
+clients is part of email forum determination).  For example, Bender, P.
+L.; et al. (1973). Science. 182 (4109): 229–238 gives a full description
+of the method.  All that is needed is:
+
+> - a powerful laser, typically a few watts, with substantial
+> pulse energy;
+> - sub-arcsecond intrinsic divergence, meaning a launch
+> beam diameter exceeding 10 cm;
+> - sub-arcsecond pointing and tracking capability;
+> - large collection aperture for the return;
+> - aggressive filtering in the temporal, spatial, and
+> wavelength domains.
+> Additionally, the laser pulsewidth should be <100 ps so that
+> it does not compete with the reflector-induced spread in the
+> overall error budget.
+
+As such, it is an "open" forum ready for communication, even if the gear
+is not set up or accessible.
+
+Specifics aside, it would be useful to get a functional definition of a
+forum, and whether (in a general sense) a powered instrument or regulation
+can define one regardless of the existence of a reliable access method -
+i.e. can a scam define a forum that's functionally inaccessible, or is
+that blocked by the common definition?
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Falsifian:
+
+After thinking about your argument, I changed my mind and agree that
+it's a forum.
+
+I was going to object that even though the Lunar Ranging Experiment
+*could* be used for communication, that's not its normal use and so
+nobody would ever call it a "forum" the way we call e.g. an email list a
+"communication forum". But it occurs to me that requiring fora to
+already be used for communication could create a bootstrapping problem
+if we ever did want to use something even slightly unconventional as a
+public or discussion forum, so it's probably best to interpret "forum"
+broadly.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+A forum is, in the Agoran context, an open medium for communication.
+The mailing lists are fora, and we use them to communicate; the IRC channel is
+similar. I have little basis for using this definition, other than that it is
+intuitively fitting, and the definition that comes naturally to me.
+I will, however, point out, that it is a nearly equivalent standard to
+"place for discussion" (wiktionary) or "a place, meeting, or medium where ideas
+and views on a particular issue can be exchanged" (Oxford Languages, via
+Google). The one significant addition I've made from those definitions is to
+add the requirement that a forum must be open. While this is not an intrinsic
+part of the definition of the word forum in every context, I believe it
+is suitable in this one. The idea of a forum as a public place for discussion
+(in the non-technical sense) harkens back to the forum of Ancient Rome, and
+Agoran fora inherit from that tradition.
+
+What does it mean to be a medium for communication? Several standards spring
+to mind. It could mean that the medium is used for communication. However,
+this doesn't quite fit -- a newly created mailing list is intuitively a forum,
+even before the first message is sent via it. However, the fact that something
+is usable for communication in some way seems too low a standard. A spoon
+can be used to communicate by tapping it, yet it is obviously not a forum.
+
+Thus, I arrive at the following standard. For something to be a forum,
+people must be actually and reasonably able to join it and communicate via it.
+Directing messaging is not a forum, because at most two persons can participate
+in it (assuming one person per account). Accordingly, it is not open. A spoon
+is not a forum for several reasons. It would be extremely difficult for multiple
+people to use a spoon to communicate with each other. In addition, no one would
+have any clue how to use the spoon to communicate, and it is impossible for
+people to be able to communicate via something in the absence of a protocol.
+
+I expect this standard to be refined by future precedent. One thing I want
+to say now, for the avoidance of doubt, is that something does not cease
+to be a forum because it is temporarily inaccessible. I think this is
+consistent with the classical idea of a forum as a public marketplace,
+which might still be closed in time of emergency or for temporary maintenance.
+
+How does the Laser Ranging experiment measure up? No one has agreed on a
+protocol for communicating via it (would we use Morse code?). I'm not
+sure if a sufficient number of people have access to the equipment, but even
+if they did, it would likely be owned by a research organization or
+government, so they would probably not be in a position to use it for
+communicating. In short, there is no way the lunar laser ranging experiment
+is an open medium for communication.
+
+FALSE.
+
+==========================================================================

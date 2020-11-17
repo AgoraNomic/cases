@@ -13,6 +13,7 @@
 Caller:                        ais523
 
 Judge:                         Gaelan
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -20,6 +21,7 @@ History:
 
 Called by ais523:                                 10 Aug 2020 00:56:23
 Assigned to Gaelan:                               14 Aug 2020 18:34:34
+Judged FALSE by Gaelan:                           20 Aug 2020 03:12:48
 
 ==========================================================================
 
@@ -142,5 +144,36 @@ The rulebending form is prohibited from making changes to rulebending
 magister status, so it simply does not apply those changes. It doesn't
 matter that the form itself says otherwise, it is still prohibited from
 making those changes.
+
+--------------------------------------------------------------------------
+
+Judge Gaelan's Arguments:
+
+2633/0 reads, in part: {
+     When e does so, the form's power is set to the power of this
+     rule, it takes effect as an ephemeral instrument, and then its power
+     is set to 0.  However, a rulebending form CANNOT apply any of the
+     following changes:
+
+     - rule changes;
+     - the creation, destruction, or transfer of assets;
+     - the flipping of switches;
+     - the creation, modification, or termination of any pledge, promise,
+       or contract;
+     - the changing of an entity's rulebending magister status.
+}
+
+The word "however" is commonly understood to limit the scope or effect of
+a previous sentence. Therefore, I find that the last sentence is an
+integral clause of what allows the Form to take effect. It doesn't take
+effect at power 1; it takes effect at power-1-except-it-can't-do-certain-
+things. This isn't an ordinary conflict between instruments, judged by
+power; the inability to change rulebending magister status is a
+fundamental property of the Form's taking effect, and nothing gives it
+authority to override this restriction (2613/0 does state that "An 
+ephemeral instrument CAN, where explicitly permitted to do so by the law 
+governing it, override the effect of an enduring instrument within its 
+scope by modifying", but 2633 gives no such permission). Therefore, I find 
+FALSE.
 
 ==========================================================================

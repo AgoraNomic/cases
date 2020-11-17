@@ -1,0 +1,143 @@
+===============================  CFJ 3882  ===============================
+
+      G. acted on behalf of Aris to transfer 10 coins today.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Murphy
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     29 Aug 2020 21:09:57
+Assigned to Murphy:                               30 Aug 2020 18:43:05
+Judged TRUE by Murphy:                            07 Sep 2020 22:31:31
+Motion to reconsider group-filed:                 13 Sep 2020 20:45:34
+Judged TRUE by Murphy:                            20 Sep 2020 17:33:01
+
+==========================================================================
+
+[Linked to CFJ 3881]
+
+Caller's Evidence:
+
+Contract by Aris allowing for a 10 coin transfer:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044662.html
+
+Notice given by ATMunn:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044664.html
+
+Notice given by G.:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044669.html
+
+Attempt at action after the notice period had passed, by ATMunn:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044726.html
+
+Attempt at action after the notice period had passed, by G.:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-August/044727.html
+
+
+Caller's Arguments:
+
+ATMunn wrote:
+> Having given sufficient notice, I do so.
+
+G. wrote:
+> That's ISID - where's the proof and where's the claim and what's the
+> valid judgement?  (I don't see any evidence that "file a proof of claim"
+> is a term of art).
+
+ATMunn wrote:
+> Doesn't matter - the contract said it was a thing that could be done.
+
+G. (edited response):
+It says it can be done with Notice.  Notices require specifications, which
+you haven't given.
+
+For example, R991 says that you can call a CFJ specifying the statement
+to be inquired into, by announcement.  If I say "I call a CFJ specifying
+a statement to inquire into" then I actually haven't done so, even
+though the rule literally says that.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+G.'s attempt at action after the notice period was indeed a proof of a
+claim that a specified judgement was valid. It's reasonably unambiguous
+that Rule 591 defines FALSE as a valid judgement, and while it may or
+may not have been appropriate for that CFJ, "valid" doesn't depend on
+"appropriate" here. (Even Motions to Reconsider don't explicitly depend
+on "appropriate"; the intended subtext is obvious, but there can also be
+a MtR just because players think a judgement /might/ be inappropriate,
+or want a judge to add something for the formal record even if they
+don't expect it to affect the outcome, or because they want to game some
+side effect of the process, e.g. if there was a bug allowing extra Blue
+Glitter.)
+
+The contract thus permitted the transfer (no argument was presented
+suggesting that it would be otherwise inoperative). TRUE.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Gaelan (for reconsideration): 
+
+what G. Filed wasn't a proof of a *claim* of a valid judgement; it was
+just a valid judgment. He never proved that he made the claim, which is
+plainly what is required by the phrasing.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments (upon reconsideration):
+
+With respect, proving that e made the claim is plainly what is /not/
+required by the phrasing. </humphrey> Let's look at that phrasing again:
+
+ > Contract: Proofs of Claim
+ >
+ > Any player CAN, with notice, file a proof of a claim of a valid
+ > judgement. The first player to do so CAN once act on Aris's behalf to
+ > transfer 10 coins from Aris to emself; immediately thereafter, this
+ > contract is destroyed.
+
+Nowhere does this require that it be /eir own/ claim.
+
+As reconsideration was requested, I'll also look more closely at Rule
+2595 (Performing a Dependent Action), which regulates whether acting
+with notice is possible. The only section that appears potentially
+controversial is
+
+       1. A person (the initiator) published an announcement of intent
+          that unambiguously, clearly, conspicuously, and without
+          obfuscation specified the action intended to be taken and the
+          method(s) to be used;
+
+How much specification of the action and method does this require? In
+this case, G.'s announcement of intent (AoI) specified the case, the
+with-notice procedure, and the contract e intended to trigger, but not
+specifically what the proof would be. However, the petitioners didn't
+question eir success on these grounds, and I think that some similar
+instances of with-notice in the past have been accepted as
+uncontroversial. (There may be a thesis in this, if someone has the time
+and energy to dig through the archives for with-notice actions since
+R2595(1) took its current form.)
+
+Arguably the contract does require that the claim existed as of the
+AoI, and possibly that the resolution of intent (RoI) proved that it did
+(in addition to proving that the claim is true, surely not /instead of/
+proving that the claim is true). But on these points there is also no
+controversy; the claim did exist as of the AoI, and G. proved that by
+quoting it in the RoI (including a timestamp), which is a sufficient
+standard of proof for something otherwise uncontroversial.
+
+The only remaining way I see that G.'s transfer would have failed is if
+ATMunn's transfer succeeded first, but IINM no one has disputed my
+judgement in CFJ 3881 that it didn't.
+
+Accordingly, I again judge CFJ 3882 TRUE.
+
+==========================================================================

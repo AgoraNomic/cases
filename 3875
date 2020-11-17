@@ -7,6 +7,7 @@
 Caller:                        Gaelan
 
 Judge:                         G.
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by Gaelan:                                 14 Aug 2020 06:17:58
 Assigned to G.:                                   14 Aug 2020 18:35:40
+Judged FALSE by G.:                               21 Aug 2020 18:32:23
 
 ==========================================================================
 
@@ -105,5 +107,77 @@ itself is completely random, I misread and though it was a hash /of/ a
 value between 0 and 2^64-1 (a 64-bit value). As such, brute forcing with
 all the world's ASICs would be on the order of 10^60 seconds, or 10^50
 centuries.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+This judgement applies whenever the rules explicitly grant legal status to
+an outside (non-rules) document.  For example, it applies when a contract
+"permits" something (R1742), when a person "specifies" something in a
+by-announement action message (R478), when a non-rules backing document
+"specifies" how an asset works (R2166), when a regulation "defines" an
+auction method (R2545), when a promise "specifies" conditions for cashing
+(R2618), when an ephemeral instrument "specifies" changes that are applied
+(R2613), etc. [0]
+
+The important commonality is that, since these are non-rules documents,
+they don't fall under R217's "text of the rules takes precedence" clause.
+For rules, if there is an ambiguity in the text, that ambiguity still
+"takes precedence" and may lead to legally indeterminate or paradoxical
+situations if the rules text is unclear.  Non-rules texts, on the other
+hand, function where the rules are silent. So interpretations fall under
+R217 common-sense, etc. (speaking generally, not as a strict fourfold
+test).  For these texts, if a specification (or permission or definition)
+is ambiguous, it generally fails.
+
+Further, we have a long history of allowing conditionals and references
+within such documents to be part of the specification (without citing
+caselaw, allowing such conditionals is game custom, good common sense,
+established in precedent, and generally in the best interests of smooth
+running of the game).  Such conditionals may depend on outside
+information, and in fact usually do (or they wouldn't be conditional on
+anything).  A simple example is a contract that depends on a certain time
+passing to trigger - contracts don't have internal clocks, so the current
+time is outside information and not "part of the body" of the contract.
+But common sense holds that the current time is easily available
+information, so such conditionals generally work.  Overall, if there's a
+conditional in the body of a contract, then outside information referred
+to in a contract's body is in a third document, that's generally
+acceptable to count as "as permitted by the contract's body".
+
+However, part of that common sense interpretation is that conditionals
+that rely on unclear, paradoxical, or intractable outside information
+generally cause the specification to fail, even if the description of the
+conditional within the contract is clear.  CFJ 1460 has long-been the
+guiding precedent here - interpreting such conditionals can't require
+"unreasonable effort".  Examples of "unreasonable effort" in CFJ 1460 are
+precisely applicable here, as they include reliance on knowledge that's
+theoretically deterministic and computable but practically impossible to
+obtain in a reasonable time frame.
+
+The information required in the current contract clearly fits in that
+"really unreasonable" category.  So this Court finds FALSE.  Leaving it
+there, it would be tempting for an Agoran to say "well, that's clearly a
+computational infeasible outlier, what about something that takes a day to
+code and a week to run?"  So to refine this, to balance the workload of
+officers who may have to process many transactions with the Agoran "fun"
+of making somewhat-complex conditionals, this Court strongly suggests that
+"reasonable effort" is limited to what can be known or found out with
+fairly minimal effort for the typical informed Agoran - e.g. a few minutes
+of looking up a contract and/or referencing some outside information,
+perhaps an email or two asking the community for help, with a time delay
+no greater than if an officer asks for help at the beginning of processing
+eir weekly duties, e can reasonably expect an answer before e finishes eir
+duties (i.e. if a contract requires something that takes a week to code,
+the parties to the contract have made those calculations already and can
+provide results within the scope of an hour or so).
+
+[0] For non-rules texts, a term like "unambiguously specify" is generally
+a tautology; i.e., if such a text "specifies" something, it must do so
+unambiguously, or it's not a specification (though such adjectives may
+influence the tolerance for error in specific situations).  So this
+judgement doesn't rely on the presence of "clear" or "unambiguous" etc. in
+the rules text.
 
 ==========================================================================

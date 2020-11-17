@@ -1,0 +1,111 @@
+===============================  CFJ 3590  ===============================
+
+      ATMunn bought a Stamp in the referenced message (posted on or
+      about 2 Nov 2017 14:34 Z).
+
+==========================================================================
+
+Caller:                        OscarMeyr
+
+Judge:                         o
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by OscarMeyr:                              02 Nov 2017 18:21:00
+Assigned to o:                                    04 Nov 2017 15:30:00
+Judged FALSE by o:                                05 Nov 2017 06:43:00
+
+==========================================================================
+
+Caller's Arguments:
+
+I argue for a decision of FALSE. Agoran practice is that the content of a
+message matters.
+
+
+Caller's Evidence:
+[Message as it appeared on the Arbitor's email reader]
+
+From:     ATMunn <iamingodsarmy@gmail.com>
+Reply-To: agora-discussion@agoranomic.org
+To:       agora-business@agoranomic.org
+Date:     Thu, 2 Nov 2017 09:34:46 -0400       
+Subject:  BUS: I buy a Stamp, transferring 6 shinies to Agora to do so.
+
+Let's test the limits of how far subject line actions can go...
+Feel free to CFJ.
+
+--------------------------------------------------------------------------
+
+Judge o's Arguments:
+
+I find this CFJ to be FALSE.
+
+The test given in CFJ 3409 is clear. Given the below message:
+
+> From:     ATMunn <iamingodsarmy@gmail.com>
+> Reply-To: agora-discussion@agoranomic.org
+> To:       agora-business@agoranomic.org
+> Date:     Thu, 2 Nov 2017 09:34:46 -0400
+> Subject:  BUS: I buy a Stamp, transferring 6 shinies to Agora to do so.
+>
+> Let's test the limits of how far subject line actions can go...
+> Feel free to CFJ.
+
+The arms of the test run as follows:
+
+> 1.  Are there multiple actions that can be inferred?
+
+No. There is a single action which can be inferred from the message,
+including the subject line.
+
+> 2.  Is there a real doubt as to what is intended?
+
+No. The subject line of the message in question is crystal clear as to the
+intended action, and the message body can only be interpreted, outside of
+the rules, as an instruction to refer to the subject line.
+
+> 3.  Is timing an issue?  (multiple events in the message).
+
+No. Taking the subject line into account, the message could only contain
+at most one action. Leaving the subject line out, it contains none. In
+neither case is timing or ordering important.
+
+> 4.  Is anything purposefully obfuscated?
+
+No. Every relevant part of the message is plainly visible, without
+extraordinary effort, in ordinary email clients.
+
+> 5.  Does the message text infer the type of action that can be made
+clear from the subject line?
+
+Importantly, no. This is where ATMunn’s message fails the test: the
+message body infers no actions at all.
+
+There are two additional factors that suggest that subject-line-only
+actions, such as ATMunn’s attempt here, should not be permitted in the
+general case: historical convention and the interests of Agora as a whole.
+Other than exceptions such as registration, which have historically
+adhered to looser conventions than Agoran gameplay as a whole, the subject
+line of a message has generally not been taken as part of the message.
+
+This has three important safety properties. First, _replies_ to messages
+cannot accidentally include attempts to perform the same action as the
+original message’s sender, by automatically repeating the original
+message’s subject line. Certainly, replying to ATMunn’s message on a
+public forum should not imply that the respondant _also_, intentinoally, 
+attempts to buy a stamp. Second, in cases where a message’s subject and
+text are mutually contradictory, this convention provides a simple and
+clear system for determining which of the two should take effect. Finally,
+it completely avoids the question of when, within a larger message
+containing multiple actions, the action contemplated in the message’s
+subject line should occur.
+
+I see no reason to overturn Agoran gameplay conventions at this time.
+Given the above, I find the statement "ATMunn bought a Stamp in the
+referenced message (posted on or about 2 Nov 2017 14:34 Z).” to be FALSE.
+
+==========================================================================

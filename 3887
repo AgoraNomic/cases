@@ -1,0 +1,114 @@
+===============================  CFJ 3887  ===============================
+
+      On October 11, 2020, G., nix, and Jason won the game.
+
+==========================================================================
+
+Caller:                        Falsifian
+
+Judge:                         Murphy
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Falsifian:                              21 Oct 2020 15:34:49
+Assigned to Murphy:                               23 Oct 2020 14:58:19
+Judged TRUE by Murphy:                            25 Oct 2020 18:48:40
+
+==========================================================================
+
+Caller's Arguments:
+
+The basic issue here is that R2449 says "When the Rules state that a
+person or persons win the game, those persons win the game", and it's
+not clear whether the Rules stated that anyone won the game.
+
+We talked about this a bit in IRC/Discord. Here is a summary of points
+brought up by various players. (I'm looking at my log from October 18
+UTC; some messages sent from 03:15-03:39 and some sent from
+20:15-20:20).
+
+* R2449 says a person wins when the Rules state they win. Does that mean
+  that's the only way to win?
+
+* Proposals 8094 and 8097 were wins by proposal, more recent than the
+  current text of R2449.
+  * Relevant because win by proposal is another case where the rules
+    don't directly state someone wins.
+  * These wins don't seem to have been questioned, so at least it seems
+    Agorans intended it to work / game custom is that it works. But on
+    the other hand "it was game custom to consider auctions working for
+    a whole year when they didn't" (maybe referring to the incident
+    around CFJ 3712).
+
+* "taking effect is a way to do anything" / "if taking effect couldn't
+  do anything possible at the power level, it couldn't even transfer a
+  coin at R2125"
+  * "I don't think taking effect makes the rule the agent though."
+
+* Maybe a win by proposal doesn't do anything since 2449 refers to the
+  text of the rules. 'I think that argument would be like "they might
+  win but it doesn't necessarily do anything"'
+
+* G. says when starting the scam e was genuinely curious about whether
+  winning by proposal was broken. 'It's a nice question of deference,
+  whether a rule stating generally "an instrument CAN apply the changes
+  is specifies" means that the rules "state" that someone wins the game
+  when an instrument does so.'
+
+--------------------------------------------------------------------------
+
+Gratuitous Evidence by G.:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2020-October/044977.html
+
+On 10/10/2020 5:58 PM, Kerim Aydin via agora-business wrote:
+> 
+> I demonstrate the following rulebending form:
+> 
+> ------------------------------------------------------------------------
+> 
+> G., nix, and Jason hereby each earn a Black Ribbon.
+> 
+> G., nix, and Jason hereby (simultaneously) win the game (method: rulebending).
+> 
+> G. is hereby awarded the patent title Desultory Dictator.
+> 
+> ------------------------------------------------------------------------
+> 
+> [Note: above is the long-promised bling for the conspirators.  RL has been
+> heavy in the last month, but hope to make an effort to clean up/patch the
+> dictatorship in the coming week].
+>
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+Rule 2449 (Winning the Game) does say "When the Rules state that a
+person or persons win the game, those persons win the game", thus Rule
+2125 (Regulated Actions) says that persons only win the game as allowed
+by the rules. But Rule 2449 doesn't explicitly require the Rules to
+/directly/ state that a win occurs. Game custom is that indirect
+statements (e.g. wins by proposal circa early 2019) are effective, and
+I consider it in the best interests of the game to uphold that
+interpretation (despite the obvious scam nature of the instances cited
+in this case).
+
+This is different from e.g. CFJ 3712, where game custom regarding
+dependent actions was overturned upon discovering that the text of a
+relevant rule (2124, Agoran Satisfaction) was explicitly broken at the
+time (inadvertently preventing any form of dependent action other than
+With N Notice from being completed). I don't remember whether the
+auction issue was that or something else, but I'm pretty sure it was
+some similar type of explicit breakage.
+
+Rule 2633 (Rulebending) states that a relevant Rulebending Form "takes
+effect as an ephemeral instrument", the same phrase uncontroversially
+used by Rule 106 (Adopting Proposals). As no other potential points of
+failure were identified, I find that the Form in question successfully
+granted these wins. TRUE.
+
+==========================================================================

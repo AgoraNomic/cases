@@ -1,0 +1,134 @@
+===============================  CFJ 3879  ===============================
+
+      After the first instant of the existence of the Supertask
+      Experiment Redux contract, Nathan is the owner of the first Dock
+      asset created by the Supertask Experiment Redux contract.
+
+==========================================================================
+
+Caller:                        Nathan
+
+Judge:                         Publius Scribonius Scholasticus
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Nathan:                                 25 Aug 2020 18:21:12
+Assigned to Publius Scribonius Scholasticus:      30 Aug 2020 18:41:00
+Judged FALSE by Publius Scribonius Scholasticus:  06 Sep 2020 13:38:36
+
+==========================================================================
+
+Caller's Evidence:
+
+Below, contained within the "{}", or curly braces, is the contract 
+entitled The Supertask Experiment Redux.
+
+{
+
+Name: The Supertask Experiment Redux
+
+Parties: Nathan
+
+Only Nathan may be a party to this contract. Nathan may not destroy this 
+contract. All actions in this contract happen under a "I say, I do, 
+therefore it happens" basis, meaning that all actions are taken 
+instantly, without implicitly advancing time. As the rules do not 
+prohibit it, in this contract, multiple actions may happen at the same 
+time. Time does not advance during this contract's effects unless 
+explicitly stated by this contract or the rules. This contract is 
+capable of owning assets.
+
+For the purposes of this contract, an instant is defined to be a 
+specific moment in time, with infinite instants in any given division or 
+unit of time. An example of an instant would be precisely 1.87856 
+seconds after midnight on July 12, 1983. Any measurement of precise time 
+can be understood to be an instant. An instant can not cover more than a 
+single instance of precise time. For example, an instant can not be the 
+entirety of the second after midnight on July 12, 1983, but precisely 
+one second after midnight on July 12, 1983 can be understood to be an 
+instant.
+
+Multiple actions can resolve in the same instant. If an action starts 
+and resolves in the same instant, that action takes no time. Actions 
+that resolve in the same instant can be dependent upon prior actions in 
+that instant. For example, in the same announcement, one can transfer 
+coins from a locker or similar contract to themselves, and then perform 
+an action with those coins, both of those actions happening in the same 
+instant despite the second action being dependent on the first one. 
+Actions dependent on another action can be started and resolved at the 
+same instant as the action it is dependent on without passing time.
+
+This contract and any parties to this contract consent to every transfer 
+of Dock assets.
+
+A Dock asset is an asset with default owner Nathan. The class of 
+entities which can own a Dock asset is restricted to Nathan and this 
+contract. If the ownership of a Dock asset were to be transferred to the 
+Lost and Found Department, ownership is instead transferred to whoever 
+most recently had the Dock Asset, not including the Lost and Found 
+Department. A Dock asset can be transferred to this contract or any 
+party to this contract. Consent of parties to this contract or the 
+consent of this contract itself is not needed to transfer a Dock asset 
+to this contract or to parties of this contract. This contract can 
+create a Dock asset at any instant.
+
+Under rule 2577, "An asset generally CAN be transferred (syn. given) by 
+announcement by its owner to another entity, subject to modification by 
+its backing document". This backing document for Dock assets specifies 
+that a Dock asset is transferred, without announcement, between any 
+players that consent to this contract and this contract if any non-zero 
+number of two conditions are met, with the specific transfer stated 
+after the condition. These conditions are:
+
+1. If a dock asset is owned by Nathan. The Dock asset is transferred 
+from Nathan to this contract.
+
+2. If a dock asset is owned by this contract. The Dock asset is 
+transferred from Nathan to this contract.
+
+This contract creates one Dock asset.
+
+}
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+Judge Pavitra's arguments in CFJ 2650 are a thesis-worthy discussion of
+philosophy and "types" of paradox in Agora, and very much worth reading in
+this context (should be part of a FAQ about paradoxes):
+https://faculty.washington.edu/kerim/nomic/cases/?2650
+
+An example where this sort of thing did create a paradox, but the paradox
+was error-trapped by the LF&D, can be found in CFJ 3254:
+https://faculty.washington.edu/kerim/nomic/cases/?3254
+
+A relevant finding in CFJ 3254: while Contracts might create internal
+paradoxes, the gamestate is generally error-trapped against that by the
+LF&D.  So a key untested loophole for this case is that the error-trapping
+clause in Rule 2576/2 might allow backing documents to modify/override
+LF&D behavior, and maintain the indeterminacy:
+
+>      If an asset's owner would otherwise be nonexistent, indeterminate,
+>      or invalid, then it is owned by the Lost and Found Department (if
+>      possible) or destroyed (otherwise), subject to modification by its
+>      backing document.
+
+--------------------------------------------------------------------------
+
+Judge Publius Scribonius Scholasticus' Arguments:
+
+I judge CFJ 3879 to be trivially FALSE because the contract only
+provides a means for the transfer of the Dock asset between the contract
+and Nathan, therefore it would be created in Nathan's possession and
+instantaneously transferred to the contract.
+
+The malformed clause is specifically:
+
+> 2. If a dock asset is owned by this contract. The Dock asset is
+> transferred from Nathan to this contract.
+
+==========================================================================

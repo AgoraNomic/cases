@@ -1,0 +1,175 @@
+===============================  CFJ 3885  ===============================
+
+      On or about 10:35:46 UTC on 4 Oct 2020, PSS published a
+      self-ratifying report on the value of the instances of the Karma
+      switch.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  04 Oct 2020 22:10:43
+Assigned to G.:                                   09 Oct 2020 17:47:39
+Motion to extend filed:                           15 Oct 2020 22:17:47
+Judged FALSE by G.:                               23 Oct 2020 13:47:27
+
+==========================================================================
+
+Caller's Evidence:
+
+Possible "report":
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2020-October/014273.html
+
+Rule 2162/12 [Excerpt]:
+
+      A type of switch is a property that the rules define as a switch,
+      and specify the following:
+      
+      1. The type(s) of entity possessing an instance of that switch. No
+         other entity possesses an instance of that switch.
+      
+      2. One or more possible values for instances of that switch,
+         exactly one of which should be designated as the default. No
+         values other than those listed are possible for instances of
+         that switch, except that, if no default is specified, then
+         rules to the contrary notwithstanding, the "null" value is a
+         possible value for that switch, and is the default.
+      
+      3. Optionally, exactly one office whose holder tracks instances of
+         that switch. That officer's (weekly, if not specified
+         otherwise) report includes the value of each instance of that
+         switch whose value is not its default value; a public document
+         purporting to be this portion of that officer's report is
+         self-ratifying, and implies that other instances are at their
+         default value.
+
+Rule 2379/0 (Power=1)
+No News Is Some News
+
+      If the rules define a report as including a list, then while that
+      list is empty, that report includes the fact that it is empty.
+
+
+Caller's Arguments:
+
+For a switch report to be self-ratifying, it must "purport" to be the
+switch portion of the officer's report. While the document itself does
+not contain any text suggesting it is a report, the subject line does,
+which may be enough to make the document purport to be a report.
+
+The content may or may not qualify as being a report. The empty document
+omits all instances of the switch and all values, which, if it was a
+report, would imply that all values of the Karma switch have a default
+value. However, this may contradict Rule 2379, since Rule 2162 could be
+read as requiring a list of non-default values, even though it never
+explicitly requires a "list". That would imply that no empty document
+could ever purport to be a switch report, since it would either need to
+include a list of non-default values or the fact that such a list is
+empty.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+A "message" isn't explicitly defined by the rules, the closest thing is
+here in R478/38:
+
+>      A public message is a message sent via a public forum
+
+So the actual definition of "message" uses its common definition.
+
+This leaves the question open: when using email to send a message, are the
+message's headers are part of the message, or are they metadata (i.e. an
+envelope) containing the message, but not part of the message itself?
+Time to bring out R217.
+
+Common definition:  Person A sends me a physical letter.  Person B asks me
+"what was Person A's message?"  I would respond with the contents of the
+message.  The postmark, stamp, and other details of the envelope would be
+pretty much irrelevant to answering (though may provide context or
+identifying information if I ask "which message?", so they are still part
+of the metadata for the message)  So common definitions would say the
+message is the contents (body of the email) not its headers.
+
+Past Judgements/custom:  CFJ [I-haven't-found-it-yet] found that a message
+sent to two fora simultaneously (i.e. with two fora in the To: or Cc:
+headers) is a single message.  But those messages will have different
+headers by the time they are delivered, so calling the headers "part of"
+the message would contradict the precedent that there's only one message.
+
+Common sense:  While a "message" isn't explicitly defined, the
+"publication" is specific in R478/38:
+
+>      To "publish" or "announce" something is to send a public message
+>      whose body contains that thing.
+
+Therefore, you cannot "publish" anything that's outside of the message's
+body.  It would be really weird to say "I didn't publish the headers of
+the message but I published the body, but the headers are still part of
+the public message".  It makes much more sense to say "I published a
+message consisting of the body, and the headers associated with the
+message provide evidence of when/how I did so".
+
+Good of the game:  In places of the rules where headers of a message are
+called out explicitly (subject line in R2614/5, 2463/3, date-stamp in
+R478/38) it breaks nothing to say "this is envelope information of the
+message, not the message itself".  And it's better for the game to assume
+the common sense interpretation above: that "public message" and
+"published message" are the same thing (it's really confusing otherwise).
+
+Therefore, the finding is that a "public message" consists solely of its
+body, and the metadata headers are associated with the public message, but
+not "part of" the message.
+
+So then, turning to the definition of "public document" in R2202/9:
+
+>      A public document is part (possibly all) of a public message.
+
+If the public message is the body only, then a public document does not
+include its headers.  So if a document must "purport" something (i.e.
+allege to be a report) that allegation must be in the body of the message.
+
+Since that is not the case here (the only possible purporting is in the
+message's headers, not its body, so the purporting was not actually
+published or part of a document), this CFJ is FALSE.
+
+Falsifian offered the following gratuitous arguments in response to a
+draft of this judgement:
+
+> Surely this isn't universal? E.g. if I went out of my way to spread a
+> message over a subject and body, and made it really clear the message is
+> supposed to be both together, wouldn't the subject then be part of the
+> message?
+>
+> In your envelope analogy: if an eccentric person scribbled the first
+> part of a message on the envelope and the second part on paper inside
+> the envelope, I think that would be a message. (Stretching the
+> definition further: if I hid a message in the arrangement of books on a
+> shelf (maybe first letters of the titles), it would still be a
+> "message", just a hidden one.)
+
+In such situations, there's a distinction to be drawn between legal and
+common definitions.  A message is permitted (legally) to refer to things
+outside the message.  For example, the body can say "The Coopor's Monthly
+Report is contained in the subject line" and the subject line might say
+"Nobody has any barrels".  To support this, we've allowed words like
+"specify" to be satisfied by a message that indicates information outside
+the message itself.
+
+In practical terms, it's a matter of semantics whether that envelope is
+"part of the message" or "outside information referred to by the message",
+and neither answer would be wrong.  However, in an Agoran legal sense,
+limiting the message to the body has a distinct and useful practical
+effect of establishing precedence and limiting the scope of "writing on
+the envelope", i.e. requiring legal langauge such as the "purporting of
+reports" to be within the body (to count as being part of the document)
+greatly aids clarity of communication and is for the good of the game.
+
+==========================================================================
