@@ -8,6 +8,7 @@
 Caller:                        Jason
 
 Judge:                         nix
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Jason:                                  14 Nov 2020 17:01:47
 Assigned to nix:                                  15 Nov 2020 20:13:26
+Judged FALSE by nix:                              28 Nov 2020 20:06:54
 
 ==========================================================================
 
@@ -60,5 +62,51 @@ enforcement power by the rules, and auction methods appear to not be
 binding upon the auctioneer. However, it may be the case that the
 requirement was "clear" enough for it to constitute a pledge on the
 auctioneer publishing them.
+
+--------------------------------------------------------------------------
+
+Judge nix's Arguments:
+
+The caller asks if making a "SHALL" statement that does not have legal
+effect constitutes a pledge. E correctly points out that a pledge does
+not need to be by announcement, and so indeed it seems that pledges
+could be implied. However, this is not the sole limitation the rules put
+on creating pledges. From Rule 2450, "Pledges":
+
+       If a consenting Player makes a clear public pledge (syn. Oath) to
+       perform (or refrain from performing) certain actions, then [...]
+
+Pledges cannot be made by any player, they must be made by a "consenting
+Player". Agora has a standard of consent in Rule 2519, "Consent":
+
+       A person is deemed to have consented to an action if and only if,
+       at the time the action took place:
+
+       1. e, acting as emself, has publicly stated that e agrees to the
+          action and not subsequently publicly withdrawn eir statement;
+       2. e is party to a contract whose body explicitly and
+           unambiguously indicates eir consent;
+       3. the action is taken as part of a promise which e created; or
+       4. it is reasonably clear from context that e wanted the action to
+          take place or assented to it taking place.
+
+Conditions 2 and 3 are irrelevant in the current discussion. Condition 1
+seems unlikely to be met, because Jason did not mention a pledge (or
+Oath) in the original action, nor has e since stated that e is agreeing
+to any such pledge.
+
+Condition 4 is the trickiest, because it applies a very subjective
+standard of "reasonably clear from context". From my own personal
+perspective, I did not interpret any actions in the message-in-question
+as a pledge when I read the message. I asked Jason if e did, and e
+responded with:
+
+       No, I wasn't. I only thought it might be a pledge until a
+       little before I called the CFJ.
+
+This response makes me think that even to em it was not "reasonably
+clear". Thus, it does not appear that, by Agora's own legal standard of
+consent, Jason was a "consenting Player" when the purported pledge was
+made. I rule this CFJ FALSE.
 
 ==========================================================================

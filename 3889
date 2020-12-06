@@ -8,6 +8,7 @@ Caller:                        Murphy
 Barred:                        nix
 
 Judge:                         Jason
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Murphy:                                 15 Nov 2020 18:17:25
 Assigned to Jason:                                15 Nov 2020 20:13:32
+Judged TRUE by Jason:                             15 Nov 2020 21:53:16
 
 ==========================================================================
 
@@ -34,5 +36,75 @@ Caller's Arguments:
    * Webmastor has been defined since June and no one else seems to have
      questioned this issue till now, though a judgement of TRUE on this
      basis may be considered an overly broad application of game custom.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+So it appears this is my fault. Proposal 8388, as adopted, enacts a rule
+that explicitly states that "The Webmastor is an office." However, it
+appears that the Rulekeepor (*cough* me *cough*) didn't copy the first
+paragraph when applying the proposal. I'm sorry for making the mistake
+and any confusion that it has caused.
+
+Judged TRUE.
+
+
+Judge Jason's Evidence:
+
+//////////////////////////////////////////////////////////////////////
+ID: 8388
+Title: The Webmastor
+Adoption index: 1.0
+Author: nch
+Co-authors: 
+
+
+Enact a rule titled "The Webmastor" with Power=1 and the following text:
+
+  The Webmastor is an office.
+
+  The Webmastor's monthly report includes a Directory, a Changelog, a
+  Warning Log, and an Error Log. The Directory lists notable
+  currently maintained public resources. The Changelog lists notable
+  changes to resources. The Warning Log lists notable potential
+  issues, such as inaccurate or aging resources or unintended issues
+  with a public resource. The Error Log lists notable losses of
+  resources - where a resource has become inaccessible, unmaintained,
+  or unusable. Where 'notable' is used in this rule its meaning is up
+  to the Webmastor's discretion.
+
+//////////////////////////////////////////////////////////////////////
+
+From
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2020-June/013727.html
+
+
+"Rule 2616", as appearing in the latest SLR:
+
+------------------------------------------------------------------------
+Rule 2616/0 (Power=1.0)
+The Webmastor
+
+      The Webmastor's monthly report includes a Directory, a Changelog,
+      a Warning Log, and an Error Log. The Directory lists notable
+      currently maintained public resources. The Changelog lists notable
+      changes to resources. The Warning Log lists notable potential
+      issues, such as inaccurate or aging resources or unintended issues
+      with a public resource. The Error Log lists notable losses of
+      resources - where a resource has become inaccessible,
+      unmaintained, or unusable. Where 'notable' is used in this rule
+      its meaning is up to the Webmastor's discretion.
+      
+History:
+
+Enacted by P8388 'The Webmastor' (nch), 03 Jun 2020
+
+Annotations:
+
+------------------------------------------------------------------------
+
+From
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2020-November/014393.html
 
 ==========================================================================
