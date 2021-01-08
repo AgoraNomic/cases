@@ -7,6 +7,8 @@
             const GITHUB_RAW_CASE_BASE = "https://raw.githubusercontent.com/AgoraNomic/cases/master/"
 
             window.addEventListener('load', async () => {
+                document.getElementById("script-generation-container").style.visibility = "hidden";
+
                 const csvElements = (await (await fetch(CSV_URL)).text()).split("\n").filter(s => s.trim() != "");
 
                 const currentUrl = document.URL;
@@ -80,6 +82,8 @@
 
                     document.getElementById("script-generation-container").innerHTML = mainTableText;
                 }
+
+                document.getElementById("script-generation-container").style.visibility = "visible";
             });
         </script>
         <div id="script-generation-container">
