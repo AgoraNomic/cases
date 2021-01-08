@@ -2,15 +2,18 @@
 <html>
     <body>
         <script type="text/javascript">
-            const CSV_URL = "https://raw.githubusercontent.com/randomnetcat/cases/master/out.csv";
+            const CSV_URL = "https://raw.githubusercontent.com/agoranomic/cases/master/out.csv";
             const GITHUB_RAW_CASE_BASE = "https://raw.githubusercontent.com/AgoraNomic/cases/master/"
 
+            window.addEventListener('load', async () => {
+                const csvElements = (await (await fetch(CSV_URL)).text()).split("\n").filter(s => s.trim() != "");
 
-
-            window.addEventListener('load', () => {
                 const currentUrl = document.URL;
 
-                if (currentUrl.includes("?")) {
+                const urlParts = currentUrl.split('?');
+                const lastUrlPart = urlParts[urlParts.length - 1];
+
+                if (urlParts.length == 2 && csvElements.includes(lastUrlPart)) {
                     const CASE_PAGE_CSS = `
                     body {
                       font-family: monospace;
@@ -48,26 +51,28 @@
                     newStyle.innerHTML = CASE_PAGE_CSS;
                     document.getElementsByTagName('head')[0].appendChild(newStyle);
 
-                    const urlParts = currentUrl.split('?');
-                    const caseNum = urlParts[urlParts.length - 1];
-                    const casePrevNum = 0;
-                    const caseNextNum = 9999;
+                    const caseNum = lastUrlPart;
+                    const caseCsvIndex = csvElements.indexOf(caseNum);
+
+                    if (caseCsvIndex < 0) throw "Invalid case CSV index";
+
+                    const casePrevNum = (caseCsvIndex === csvElements.length - 1) ? caseNum : csvElements[caseCsvIndex + 1];
+                    const caseNextNum = (caseCsvIndex === 0) ? caseNum : csvElements[caseCsvIndex - 1];
 
                     const caseContentUrl = GITHUB_RAW_CASE_BASE + caseNum;
-                    fetch(caseContentUrl).then(response => {
-                        response.text().then(responseText => {
-                            document.title = "CFJ " + caseNum;
-                            document.getElementById("script-generation-container").innerHTML = 
-                                `
-                                 <table><tr>
-                                 <td class=\"indx\"><a href=\"./` + caseNum + `\">Index</a></td>
-                                 <td class=\"prev\"><a href=\"./?` + casePrevNum + `\"><b>&larr;&nbsp;` + casePrevNum + `</b></a></td>
-                                 <td><a href=\"./?` + caseNum + `\"><b>CFJ ` + caseNum +  `</b></a></td>
-                                 <td class=\"next\"><a href=\"./?` + caseNextNum + `\"><b>` + caseNextNum + `&nbsp;&rarr;</b></a></td>
-                                 <td class=\"text\"><a href=\"` + caseContentUrl + `\">text</a></td>
-                                 </tr></table><pre>` + responseText + `</pre>`;
-                        });
-                    });
+
+                    const caseResponseText = await (await fetch(caseContentUrl)).text();
+
+                    document.title = "CFJ " + caseNum;
+                    document.getElementById("script-generation-container").innerHTML = 
+                        `
+                         <table><tr>
+                         <td class=\"indx\"><a href=\"./` + caseNum + `\">Index</a></td>
+                         <td class=\"prev\"><a href=\"./?` + casePrevNum + `\"><b>&larr;&nbsp;` + casePrevNum + `</b></a></td>
+                         <td><a href=\"./?` + caseNum + `\"><b>CFJ ` + caseNum +  `</b></a></td>
+                         <td class=\"next\"><a href=\"./?` + caseNextNum + `\"><b>` + caseNextNum + `&nbsp;&rarr;</b></a></td>
+                         <td class=\"text\"><a href=\"` + caseContentUrl + `\">text</a></td>
+                         </tr></table><pre>` + caseResponseText + `</pre>`;
                 }
             });
         </script>
