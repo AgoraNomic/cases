@@ -1,0 +1,5 @@
+baseurl: "cases" # the subpath of your site, e.g. /blog
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+

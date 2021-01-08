@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <script type="text/javascript">
+            const CSV_URL = "https://raw.githubusercontent.com/randomnetcat/cases/master/out.csv";
+            const GITHUB_RAW_CASE_BASE = "https://raw.githubusercontent.com/AgoraNomic/cases/master/"
+
+
+
+            window.addEventListener('load', () => {
+                const currentUrl = document.URL;
+
+                if (currentUrl.includes("?")) {
+                    const CASE_PAGE_CSS = `
+                    body {
+                      font-family: monospace;
+                    }
+                 
+                    table {
+                      font: 1em/1.2 \"Helvetica Neue\", Helvetica, Arial, Geneva, sans-serif;
+                      border-collapse: collapse;
+                      width: 550px;
+                    }         
+                    a:link     {text-decoration: none;  color: white;}
+                    a:visited  {text-decoration: none;  color: white;}
+                    td:hover {background-color: #666;}
+                    td {
+                       border: 1px solid #ddd;
+                       padding: 8px;
+                       overflow: hidden;
+                       font-size: 1.2em;
+                       text-align: center;
+                       background-color: #444;
+                       color: white;
+                    }
+                    .indx{text-align:left; vertical-align:bottom; font-size:100%;}
+                    .prev{text-align:right; vertical-align:bottom; font-size:85%;}
+                    .next{text-align:left; vertical-align:bottom; font-size:85%;}
+                    .text{text-align:right; vertical-align:bottom; font-size:100%;}
+                    td a{
+                      display: block;
+                      margin: -10cm;
+                      padding: 10cm;
+                    }`;
+
+                    const newStyle = document.createElement("style");
+                    newStyle.type = "text/css";
+                    newStyle.innerHTML = CASE_PAGE_CSS;
+                    document.getElementsByTagName('head')[0].appendChild(newStyle);
+
+                    const urlParts = currentUrl.split('?');
+                    const caseNum = urlParts[urlParts.length - 1];
+                    const casePrevNum = 0;
+                    const caseNextNum = 9999;
+
+                    const caseContentUrl = GITHUB_RAW_CASE_BASE + caseNum;
+                    fetch(caseContentUrl).then(response => {
+                        response.text().then(responseText => {
+                            document.title = "CFJ " + caseNum;
+                            document.getElementById("script-generation-container").innerHTML = 
+                                `
+                                 <table><tr>
+                                 <td class=\"indx\"><a href=\"./` + caseNum + `\">Index</a></td>
+                                 <td class=\"prev\"><a href=\"./?` + casePrevNum + `\"><b>&larr;&nbsp;` + casePrevNum + `</b></a></td>
+                                 <td><a href=\"./?` + caseNum + `\"><b>CFJ ` + caseNum +  `</b></a></td>
+                                 <td class=\"next\"><a href=\"./?` + caseNextNum + `\"><b>` + caseNextNum + `&nbsp;&rarr;</b></a></td>
+                                 <td class=\"text\"><a href=\"` + caseContentUrl + `\">text</a></td>
+                                 </tr></table><pre>` + responseText + `</pre>`;
+                        });
+                    });
+                }
+            });
+        </script>
+        <div id="script-generation-container">
+            <p>This element is dynamically filled in by Javascript. If you are seeing this on the Internet Archive, check the archive for the GitHub repo agoranomic/cases.</p>
+        </div>
+    </body>
+</html>
