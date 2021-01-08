@@ -3,6 +3,7 @@
     <body>
         <script type="text/javascript">
             const CSV_URL = "https://raw.githubusercontent.com/agoranomic/cases/master/out.csv";
+            const MAIN_TABLE_URL = "https://raw.githubusercontent.com/agoranomic/cases/master/main_table.html";
             const GITHUB_RAW_CASE_BASE = "https://raw.githubusercontent.com/AgoraNomic/cases/master/"
 
             window.addEventListener('load', async () => {
@@ -73,6 +74,11 @@
                          <td class=\"next\"><a href=\"./?` + caseNextNum + `\"><b>` + caseNextNum + `&nbsp;&rarr;</b></a></td>
                          <td class=\"text\"><a href=\"` + caseContentUrl + `\">text</a></td>
                          </tr></table><pre>` + caseResponseText + `</pre>`;
+                } else {
+                    const mainTableText = (await (await fetch(MAIN_TABLE_URL)).text());
+                    document.title = "CFJ Archives";
+
+                    document.getElementById("script-generation-container").innerHTML = mainTableText;
                 }
             });
         </script>
