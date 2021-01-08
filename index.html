@@ -78,6 +78,9 @@
                     document.title = "CFJ Archives";
 
                     document.getElementById("script-generation-container").innerHTML = mainTableText;
+                    const oldHash = window.location.hash;
+                    window.location.hash = "";
+                    window.location.hash = oldHash;
                 }
 
                 document.getElementById("script-generation-container").style.visibility = "visible";
