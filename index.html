@@ -11,12 +11,9 @@
 
                 const csvElements = (await (await fetch(CSV_URL)).text()).split("\n").filter(s => s.trim() != "");
 
-                const currentUrl = document.URL;
+                const urlQuestionKeys = Array.from(new URLSearchParams(window.location.search).keys());
 
-                const urlParts = currentUrl.split('?');
-                const lastUrlPart = urlParts[urlParts.length - 1];
-
-                if (urlParts.length == 2 && csvElements.includes(lastUrlPart)) {
+                if (urlQuestionKeys.length == 1 && csvElements.includes(urlQuestionKeys[0])) {
                     const CASE_PAGE_CSS = `
                     body {
                       font-family: monospace;
@@ -54,7 +51,7 @@
                     newStyle.innerHTML = CASE_PAGE_CSS;
                     document.getElementsByTagName('head')[0].appendChild(newStyle);
 
-                    const caseNum = lastUrlPart;
+                    const caseNum = urlQuestionKeys[0];
                     const caseCsvIndex = csvElements.indexOf(caseNum);
 
                     if (caseCsvIndex < 0) throw "Invalid case CSV index";
