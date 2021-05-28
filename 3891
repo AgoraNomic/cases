@@ -7,6 +7,7 @@
 Caller:                        ATMunn
 
 Judge:                         G.
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by ATMunn:                                 07 Dec 2020 20:11:31
 Assigned to G.:                                   07 Dec 2020 20:19:53
+Judged FALSE by G.:                               30 Dec 2020 18:03:03
 
 ==========================================================================
 
@@ -31,5 +33,77 @@ is transferred; it only matters that one was transferred.
 
 Arguments AGAINST: Because all coins are fungible, you can't refer to a
 specific one to transfer it.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+"Fungible" appears as a descriptor in the ruleset, without definition:
+
+Rule 2578/1: Instances of a currency with the same owner are fungible.
+
+The dictionary definition of 'fungible' is 'able to replace or be replaced
+by another identical item; mutually interchangeable.'  Note that this does
+not say 'indistinguishable across all domains'.  Fungibility may have a
+specific domain:  1 paper dollar is exchangable with 100 pennies for the
+purpose of satisfying a debt, but not for the purposes of melting for
+metal content.
+
+For a virtual currency in Agora, the most sensible domain seems to be
+"across the domain of records".  The rules had a relatively short-lived
+definition of fungibility in R1467/7 (June 2000 - Oct 2003):
+>     Since units of Currency are fungible, it is not necessary for
+>     the Recordkeepor of a Currency to track the individual
+>     ownership of each unit; rather, it is sufficient to maintain a
+>     record of the total number of units possessed by each entity
+>     which possesses any number of units of that Currency.
+
+While a definition removed 17 years ago is hardly binding, it reflects the
+game custom in use ever since, and matches common sense, so this seems
+like a reasonable specification of domain for fungibility.  So, for a
+fungible asset, the recordkeepor need not track individual units outside
+of total balances.
+
+However, let's say someone creates a contract with the following clause:
+    - Whenever currency is transferred to this contract that does not
+already have a serial number, the units of currency are numbered with a
+sequential serial number (units arriving simultaneously are given the next
+range of numbers).  In order to transfer currency from this contract,
+explicit serial numbers must be used in the announcement of transfer.
+
+This would seem to create, as per R1742/22, an ability to transfer assets
+from the contract under conditions of non-fungibility - that is,
+individual units must be tracked for the Treasuror to know if a transfer
+succeeded.
+
+1.  Would this create a requirement for the Treasuror to track units?
+
+This Court finds no - any such contract would be in textual conflict with
+the R2578 (power=3) statement that instances of currency belonging to the
+contract are fungible, and further, it would be beyond a reasonable effort
+to impose such duties.  Such clauses would lead to all transfers from the
+contract being ambiguous in terms of conditionals (as evaluating the
+conditionals would require distinguishing things that are legally
+indistinguishable).
+
+2.  Would such transfers work anyway?
+
+It would be possible to infer such a conditional as meaningless extra
+information, that is, the treasuror could say "You attempted to transfer
+coin #54423.  I don't legally recognize the number, but you've got some
+coins, so I'll record a transfer of 1 coin (that is: any coin)."
+
+In some senses, this would be a good interpretation - it might allow a
+party to a contract to recordkeep serial numbers on the side for some
+purpose, while not interfering with the treasuror's duties.  However,
+announcement specification exists for a reason.  Saying "I transfer coin
+#65444" generally means "I transfer this one coin, and if I don't have it
+no transfer happens" rather than "I transfer this one coin, and if I don't
+have it then I transfer any other coin" (if the actor had meant the
+latter, e would have left off the serial number).  So adding a clause to a
+transfer that attempts to distinguish the indistinguishable is better off
+simply failing (since the actor's intent couldn't be fulfilled without
+ambiguity).  That's the situation in the attempted transfer by ATMunn, so
+the judgement is FALSE.
 
 ==========================================================================

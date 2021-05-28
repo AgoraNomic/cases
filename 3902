@@ -1,0 +1,156 @@
+===============================  CFJ 3902  ===============================
+
+      Revision 0 of Rule 2029 contains the text "by G., Steve, Murphy,
+      root".
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     19 Mar 2021 22:12:09
+Assigned to Murphy:                               25 Mar 2021 19:31:09
+Judged FALSE by Murphy:                           28 Mar 2021 18:13:44
+
+==========================================================================
+
+Caller's Arguments:
+
+R2029/0 as initially adopted (in 2002) included the text "by Goethe,
+Steve, Murphy, root".  In 2017, a search/replace of the history section
+erroneously replaced "Goethe" with "G." in subsequent published copies.
+
+In the 24 Feb 2019 SLR publication, the rule appeared as follows:
+
+> Rule 2029/0 (Power=4)
+> Town Fountain
+>
+>                        /\   /\
+>                        / \ / \
+>                           T
+>                          his
+>                        Power-04
+>                 Rule (the first ever)
+>                  was placed to honor
+>             The Agoran  Spirit Of The Game
+>             by G., Steve, Murphy, root
+>             and OscarMeyr, Scamsters. Look
+>             on our works, ye Marvy, but do
+>        always Dance a Powerful Dance.  Hail Eris!
+
+Proposal 8175 (adopted 08 May 2019) ratified the 24 Feb 2019 SLR using
+this text:
+
+> Ratify the Short Logical Ruleset published on the 24th of February,
+> 2019, available here [1].
+>
+> [1]
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2019-February/012797.html
+
+Assuming the ratification changed the text itself (from "Goethe" to "G.")
+there are at least two possibilities for revision number:
+
+1.  The ratification ratified that the original 2029/0 has the new text.
+
+2.  The ratification changed the rule text, and that incremented the
+revision number, leaving 2029/0 as containing "Goethe", and 2029/1
+containing "G."
+
+Gratuitous addition:
+
+3.  A third possibility is more worrying. If any change of text results in
+a new revision number (by common definition), then an attempt to change
+rules text via ratification of an SLR (with revision numbers) would fail
+as per R1551, as it would "add inconsistencies between the gamestate and
+the rules". This would mean that any time a ratification would have
+actually changed rules text, it instead failed, leaving the current SLR
+state rather uncertain.
+
+
+Judge Murphy's Arguments:
+
+
+Abstractly, the situation is as follows:
+
+   * Just before time T, rule R had body B0 and revision number R0.
+
+   * Document D alleges that, at time T, rule R had body B1 and revision
+     number R1.
+
+   * At time T+Y, document D is ratified.
+
+Past interpretation has been in line with possibility #2. But were we
+wrong all along about that?
+
+Relevant clauses from Rule 1551:
+
+       When a document or statement (hereafter "document") is ratified,
+       rules to the contrary notwithstanding, the gamestate is modified
+       to what it would be if, at the time the ratified document was
+       published, the gamestate had been minimally modified to make the
+       ratified document as true and accurate as possible; ...
+
+                                        ... If no such modification is
+       possible, or multiple substantially distinct possible
+       modifications would be equally appropriate, the ratification
+       fails.
+
+Within the evaluation of this hypothetical, the ratified document need
+not be /completely/ true, just "as true and accurate as possible". Past
+practice thus amounts to implicitly interpreting this as "as true and
+accurate as possible without violating the subsequent restrictions":
+
+   * Within the evaluation of this hypothetical, at time T, rule R had
+     body B1, even if its revision number was still R0.
+
+   * Thus, at time T+Y, rule R comes to have body B1, and revision
+     number (whatever it was just before time T+Y) + 1.
+
+In the interest of avoiding possibility #3, I find this interpretation
+reasonable, and judge FALSE; this ratification did not retroactively
+change the text of revision number 0, instead it created a new revision
+number 1. That said, it's enough of a stretch to warrant legislative
+clarification (proto coming up shortly).
+
+Judge's evidence:
+
+Here are all changes to still-existing rules attributed to "SLR
+ratification" in the most recent FLR.
+
+Rule 105/22 (Power=3)
+Rule Changes
+Amended(9) by SLR ratification, 01 May 2014
+which was done by Proposal 7638:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2014-May/010672.html
+
+Rule 2154/59 (Power=2)
+Election Procedure
+Amended(15) by SLR ratification, 24 Sep 2008
+which was done without objection:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2008-September/013874.html
+
+Rule 1551/21 (Power=3.2)
+Ratification
+Power changed from 3.1 to 3 by SLR ratification, 02 Jan 2011
+which was done by Proposal 6938 (after explicitly changing its current 
+text):
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2011-January.txt.gz
+
+Rule 1367/25 (Power=2)
+Degrees
+Amended(16) by SLR ratification, 27 Aug 2010
+which was done by Proposal 6806:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2010-August/008036.html
+
+Rule 1769/15 (Power=3)
+Holidays
+Amended(9) by SLR ratification, 27 Aug 2010
+which was also done by Proposal 6806
+
+==========================================================================

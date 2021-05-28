@@ -1,0 +1,286 @@
+===============================  CFJ 3899  ===============================
+
+      No emergency regulations are in place.
+
+==========================================================================
+
+Caller:                        Gaelan
+Barred:                        G. (filed with Referee)
+
+Judge:                         Falsifian
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 07 Feb 2021 15:32:46
+Assigned to Falsifian:                            10 Feb 2021 15:15:03
+Motion to extend filed:                           16 Feb 2021 04:45:41
+Judged TRUE by Falsifian:                         23 Feb 2021 18:47:12
+
+==========================================================================
+
+Caller's Evidence:
+
+Rule 2614/6 (Power=3.1)
+Eclipse Light
+
+      [...]
+      The Prime Minister CAN, in an emergency message and with 3 Agoran
+      consent, enact, amend, or repeal Emergency Regulations, provided
+      that the intent to do so was also contained in an emergency
+      message. [...]
+
+Rule 1006/44 (Power=2)
+Offices
+
+      An Office is a position described as an Office by the Rules.
+      Officeholder is an office switch tracked by the ADoP, with
+      possible values of any person or "vacant" (default). [...]
+
+Rule 2518/0 (Power=3)
+Determinacy
+
+      If a value CANNOT be reasonably determined (without circularity or
+      paradox) from information reasonably available, or if it
+      alternates indefinitely between values, then the value is
+      considered to be indeterminate, otherwise it is determinate.
+
+Rule 2162/13 (Power=3)
+Switches
+      
+      [...] If a type of switch is not explicitly designated as
+      possibly-indeterminate by the rule that defines it, and if an
+      action or set of actions would cause the value of an instance of
+      that type of switch to become indeterminate, that instance instead
+      takes on its last determinate and possible value, if any,
+      otherwise it takes on its default value. [...]
+
+Regulation ER4/0
+The Second Regulation of G.ravity
+
+     The LAWS OF G.RAVITY is a document that:
+         1. is labelled LAWS OF G.RAVITY;
+         2. has the following SHA-256 hash:
+            d47fb31e9c0c29fa1295371e0938335ae1f917306d59cd593a42f44d4ce39c5e
+     and 3. has had its SHA-256 hash calculated by G. on or before
+            02-Feb-2021.
+
+     G. CAN, by announcement, cause this regulation to perform any
+     action that emergency regulations CAN perform as per Rule 2614,
+     except for any action explicitly described as IMPOSSIBLE by the
+     LAWS of G.RAVITY.
+
+Caller's Arguments:
+
+Rule 2614/5 allows the Prime Minster to repeal emergency regulations with
+3 Agoran Consent, provided that both the intent and the final action were
+sent in an emergency message. ATMunn declared the intent to repeal G's
+regulations four days ago in an emergency message. Jason supported, and
+nobody objected. Today, in another emergency message, e did so. The only
+question that remains is whether ATMunn was Prime Minister.
+
+G. attempted to prevent this by using emergency regulation ER4 to remove
+ATMunn from the office of Prime Minister. ER4 allows G. to cause the
+regulation to perform any action it is permitted to preform, provided that
+eir doing so is not prohibited by a document known as the LAWS of G.RAVITY.
+This document has not been made public.
+
+Officeholder is a switch, and therefore subject to Rule 2162's determinacy
+protections. To determine the value of Officeholder after G's message
+purporting to flip it with ER4, one would need to know whether it is
+prohibited by the LAWS of G.RAVITY. Because that document is not public, the
+value of this switch "CANNOT be reasonably determined... from information
+reasonably available". Therefore, G.'s message would have caused
+Officeholder to become indeterminate. 2162's protection kicks in, and 
+the switch "takes on its last determinate and possible value", ATMunn.
+Therefore, ATMunn is the Prime Minister, and the emergency regulations were
+successfully repealed.
+
+--------------------------------------------------------------------------
+
+Judge Falsifian's Arguments:
+
+I judge CFJ 3899 TRUE. This judgement is based on the below reasoning,
+which is in turn based on the Caller's arguments.
+
+
+# Timeline
+
+Here are some events relevant to the case.
+
+2021-02-02 22:27:
+
+  G. enacts two Emergency Regulations, called the First and Second
+  Regulation of G.ravity. The caller's evidence includes the text of
+  the second one.
+
+2021-02-03 15:16
+
+  ATMunn announces intent to repeal all Emergency Regulations:
+
+> I intend, with 3 Agoran Consent, to repeal all existing Emergency
+> Regulations.
+
+2021-02-03 15:22
+
+  G. purports to remove ATMunn from the office of Prime Minister, and
+  then to appoint emself in eir place. The key parts of eir message:
+
+> I cause Second Regulation of G.ravity to remove the current Prime
+> Minister from Office.
+
+> I cause Second Regulation of G.ravity to appoint myself to the
+> office of Prime Minister.
+
+2021-02-04 13:23
+
+  Cuddlebeam creates a contract called "LAWS OF G.RAVITY" with the
+  following text. The text includes the SHA-256 hash from the Second
+  Regulation of G.ravity.
+
+> Cuddlebeam is the sole member of this contract
+>
+> These are some cool numbers and letters:
+> d47fb31e9c0c29fa1295371e0938335ae1f917306d59cd593a42f44d4ce39c5e
+> For G., all actions are IMPOSSIBLE.
+
+2021-02-07 15:23
+
+  ATMunn purports to repeal all Emergency Regulations with the
+  following emergency message:
+
+> On 2/3/2021 10:16 AM, ATMunn wrote:
+>> I intend, with 3 Agoran Consent, to repeal all existing Emergency
+>> Regulations.
+>
+> Having received support from Jason and no objections, I do so.
+
+2021-02-07 15:31
+
+  Gaelan calls this CFJ.
+
+
+# The (non-Cuddlebeam) LAWS OF G.RAVITY were not reasonably available
+
+Let us set aside for the moment the possibility that Cuddlebeam's
+contract was in fact the LAWS OF G.RAVITY.
+
+Rule 2518/0 "Determinacy" does not elaborate on the meaning of
+"reasonably available". I find that for information to be "reasonably
+available" in the context of a game, players of the game must be able
+to access that information with no more effort than is typically
+required to play that game.
+
+Most of the information required to play Agora is published, or can be
+determined from published information. If a player wants to determine
+an entity's Coin balance, e can typically find the latest published
+Treasuror's report that has self-ratified, and then look for actions
+that might have changed it, which must also be published. It may take
+some effort for em to work out the effects of the rules and work out
+the final balance, but this effort is typical of the game of Agora. The
+LAWS OF G.RAVITY were not published (unless they were years ago, which
+seems unlikely), so they do not meet this standard.
+
+Is publication the only way to make information publicly available? In
+theory, other situations are possible. I will consider two hypothetical
+examples.
+
+a) A player publishes a hash, and promises a reward to the first player
+   to find the text with that hash.
+
+   In this case, the text would be relevant to the game. But that does
+   not mean it is needed to play the game. A Chess player can play
+   Chess without knowing which moves are winning moves. The hidden text
+   would not be "reasonably available" in this context.
+
+b) A while ago, someone proposed a Flappy Bird tournament, where the
+   gameplay would not be visible through any public fora. Had this
+   tournament been initiated, the Flappy Bird gameplay would have been
+   relevant to Agorans eager to participate in the tournament, but it
+   would not be published.
+
+   In this case, though, it would have been clear to any Agoran where
+   to find the relevant information. By contrast, G. did not make it
+   clear where to find the LAWS OF G.RAVITY. Perhaps e would have
+   divulged them on request (Murphy asked, and we do not know whether
+   G. responded privately). But e did not say that was the case, and
+   based on the context, a reasonable player would have guessed that G.
+   was keeping the document secret. Asking G. would have been a shot in
+   the dark, not a reasonable method of access.
+
+   Even if G. had claimed the information was available on request, it
+   is not clear it would have met the standard, but we do not need to
+   rule on that possibility here.
+
+Based on these examples, I conclude that the LAWS OF G.RAVITY (assuming
+they were not Cuddlebeam's contract) was not "information reasonably
+available" under Rule 2518, because it was not published and it was not
+clear how to access it.
+
+
+# G.'s message did not change the value of the Prime Minister switch
+
+On February 3 at 15:22, G. attempted to cause the Second Regulation of
+G.ravity to change the value of the Prime Minister instance of the
+Officeholder switch.
+
+It is not disputed that the Second Regulation of G.ravity CAN (or
+rather, COULD) appoint or remove a Prime Minister (R2614/6 "Eclipse
+Light"). However, the regulation would only have done so if the LAWS OF
+G.RAVITY do not describe the actions as IMPOSSIBLE.
+
+To determine whether the LAWS OF G.RAVITY forbade the action, I will
+consider two possibilities: either the contract Cuddlebeam published is
+not the LAWS of G.RAVITY, or it is.
+
+If Cuddlebeam did not publish the LAWS OF G.RAVITY, then the text of
+the LAWS OF G.RAVITY was not reasonably available information, as
+explained in the previous section. Therefore, each of G.'s two actions
+caused the value of the Prime Minister switch to be in an indeterminate
+state (unless, somehow, the switch was already at the target value) and
+so, as the caller argues, the value of the switch reverted to its
+action before the action was taken.
+
+If Cuddlebeam did indeed publish the LAWS OF G.RAVITY, then either
+there is more than one such document, or Cuddlebeam's is the only one.
+Perhaps it could be argued that the number of such documents is
+indeterminate, or that I should consider Cuddlebeam's to be the only
+one. In either case, the result is the same: the final value of the
+Prime Minister switch after G.'s attempted actions is the same as the
+initial value.
+
+In either case, G.'s message did not change the value of the switch.
+
+
+# ATMunn is Prime Minister
+
+Our H. ADoP Murphy published weekly reports on January 31 and February
+6 listing ATMunn as Prime Minister. Both have self-ratified by now, and
+the first had self-ratified by the time this CFJ was called.
+
+Having ruled out G.'s message, I am not aware of any message that
+could have changed the value of the Officeholder switch for Prime
+Minister between Murphy's January 31 report and ATMunn's attempt to
+repeal all Emergency Regulations.
+
+Therefore, I find that ATMunn was Prime Minister when e made eir
+attempt.
+
+
+# No emergency regulations are in place
+
+ATMunn announced intent to repeal all Emergency Regulations with 3
+Agoran Consent. Jason supported. As far as I am aware, Jason did not
+withdraw support nor did anyone object. Four days and seven minutes
+later, ATMunn acted on eir intent in an emergency message (with
+"[Emergency]" in the subject line). As Prime Minister, e was authorized
+to do so under Rule 2614 "Eclipse Light". Therefore, all Emergency
+regulations were repealed.
+
+I see no evidence that any other emergency regulations were enacted
+after that. Therefore, no emergency regulations were in place when the
+CFJ was called.
+
+==========================================================================

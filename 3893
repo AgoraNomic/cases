@@ -1,0 +1,247 @@
+===============================  CFJ 3893  ===============================
+
+      There exists exactly one rule with the number 2633.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         Gaelan
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  18 Jan 2021 17:22:34
+Assigned to Gaelan:                               22 Jan 2021 20:53:36
+Judged FALSE by Gaelan:                           04 Feb 2021 12:24:45
+
+==========================================================================
+
+Caller's Arguments:
+
+Assigning a rule number appears to be a regulated action, as its
+performance is "limited" by Rules 2141 and 2140 (since Rule numbers are
+explicitly made substantive aspects of Rules, and Rules are
+instruments). No Rule provides an explicit mechanism by which to set the
+number of a Rule. Therefore, under Rule 2125, there is no mechanism to
+assign rule numbers to rules (except by proposal most likely). Even if a
+mechanism such as by annoucement were to be inferred, the standard for
+by announcement has not been met, as the Rulekeepor has never announced
+that e is assigning, e has only published rulesets with the numbers
+labeled.
+
+
+Caller's Evidence:
+
+Rule 2141/14 (Power=3.1)
+Role and Attributes of Rules
+
+      A rule is an enduring statute. Every rule has a power between 0.1
+      and 4.0, inclusive. Rules to the contrary notwithstanding, it is
+      IMPOSSIBLE to enact a rule with power outside this range, or to
+      change the power of an existing rule to a nonzero value outside
+      this range. The set of all currently-existing rules is called the
+      ruleset.
+      
+      Every rule shall have an ID number, distinct among current and
+      former rules, to be assigned once by the Rulekeepor.
+      
+      Every rule shall have a title to aid in identification. If a rule
+      ever does not have a title, then the Rulekeepor CAN and SHALL
+      assign a title to it by announcement in a timely fashion.
+      
+      For the purposes of rules governing modification of instruments,
+      the text, power, ID number, and title of a rule are all
+      substantive aspects of the rule. However, rules to the contrary
+      notwithstanding, the Rulekeepor CAN set rule aspects as described
+      elsewhere in this rule.
+
+
+Rule 2140/4 (Power=3)
+Power Controls Mutability
+
+      Rules to the contrary notwithstanding, no entity with power below
+      the power of this rule can
+      
+      1. cause an entity to have power greater than its own.
+      
+      2. adjust the power of a statute with power greater than its own.
+      
+      3. set or modify any other substantive aspect of an instrument
+         with power greater than its own except as otherwise provided
+         in this rule. A "substantive" aspect of a statute is any
+         aspect that affects the statute's operation.
+      
+      An ephemeral instrument is bound by prohibitions and limitations
+      specified in rules of lower power, unless it explicitly overrides
+      those prohibition(s) as provided for in other rules.
+
+
+Rule 2125/12 (Power=3)
+Regulated Actions
+
+      An action is regulated by a body of law if (1) its performance is
+      limited, allowed, enabled, or permitted by that body of law; (2)
+      that body of law describes the circumstances under which it would
+      succeed or fail; or (3) it would, as part of its effect, modify
+      information for which some person bound by that body of law is
+      required, by that body of law, to be a recordkeepor.
+      
+      If a body of law regulates an action, then to the extent that
+      doing so is within its scope, that body of law prevents the action
+      from being performed except as described within it, including by
+      limiting the methods to perform that action to those specified
+      within it. A body of law does not proscribe any action which it
+      does not regulate.
+
+--------------------------------------------------------------------------
+
+Judge Gaelan's Arguments:
+
+The question at hand is whether the Rulekeepor assigning rule numbers
+works. The caller argues that it doesn't, because the rules specify that e
+CAN do so but does not provide a method.
+
+This appears to last have been litigated in CFJ 2981.
+
+It was judged TRUE (i.e. rule numbers work) on a loophole in the wording.
+A follow-up proposal. P6992 by Murphy and omd, removed that loophole and
+attempted to make rule numbers work without it. The relevant parts of rule
+2141 (now /14) haven't changed since.
+
+So legislative intent is very explicitly for this to work. Presumably, the
+authors expected this to work as follows (quoting from 2141/14):
+
+- "However, rules to the contrary notwithstanding, the Rulekeepor CAN set
+rule aspects as described elsewhere in this rule."
+- "Every rule shall have an ID number, distinct among current and former
+rules, to be assigned once by the Rulekeepor."
+- Therefore, the Rulekeepor CAN "assign" ID numbers to rules.
+
+The question, then, is whether this sufficiently specifies a method for
+setting the ID number. There's an argument to be made that the Rulekeepor
+"assigns" the ID when e publishes a ruleset containing that number. It's
+certainly tempting to go with the interpretation that makes the rules
+work, but I don't think I can justify this interpretation, for a few reasons:
+
+First, it's far from the only interpretation. Other reasonable readings of
+the ruleset would be that the rule gained the ID number as soon as the
+rulekeepor decides on the number, or that e must explicitly give rules
+numbers by announcement. It's hard to justify picking this interpretation
+over the others.
+
+Second, and more importantly, Agora has moved in recent times towards
+assuming CANs without methods do not work. This is in many ways a matter
+of game custom, but there have been some attempts to codify this custom,
+so I'll be considering legislative intent heavily here.
+
+This shift was codified in P7928, which caused Rule 2125/10 to read, in
+part: {
+A Restricted Action CAN only be performed as described by the Rules, and
+only using the methods explicitly specified in the Rules for performing
+the given action.
+}
+
+In a comment, the proposal explains that, after it's passing, "in general,
+"by announcement" is NOT implied". Sounds like we've got pretty clear
+evidence that this is the policy, right? Wrong. Enter everybody's favorite
+proposal, Statutory Instrumentation (8354). It rephrased the relevant
+provision to "including by limiting the methods to perform that action to
+those specified within it", notably dropping the word "explicit". The
+question then, is whether this was an intended weakening, or simply an
+insignificant rephrasing.
+
+Alexis, the author of 8354, was certainly aware of the significance of
+that word "explicit"; right in the middle of drafting of that proposal, e
+issued a judgement in CFJ 3793 that discusses at length the meaning of
+that word in 2125 (finding that, in a similar situation to the one we're
+dealing with today, an implied method was not enough).[^1] There was also
+a lot of discussion of this issue by other players at the time. However,
+there seems to have said anything about changes to this provision in
+Statutory Instrumentation, so it seems unlikely that Alexis intended to
+make a change here.
+
+Therefore, I find that game custom and the rules are clear that CANs
+without fairly explicit methods don't work. I find FALSE.
+
+So, what are the implications of this?
+
+Rule IDs are significant for two things: referring to rules, and
+last-resort precedence. For the former, I don't think there's an issue -
+each rule only has one purported number, so the references remain
+unambiguous and clear. For the latter, it's more of an issue, but I'm not
+aware if we've had any situations where this is relevant lately.
+
+[^1]: also, that CFJ has this magnificent sentence, which I can't not quote:
+  In conclusion, this is a typical example of the rules say I do without
+  saying how, therefore I do, which has plagued Agora for a long time
+  but possibly not for as long as I say I do, therefore I do has.
+
+
+Judge Gaelan's Evidence:
+
+Proposal 6992 (Democratic, AI=3.0) by Murphy
+(coauth: omd)
+Fix rule numbers
+
+Ratify all rule ID numbers in the document purported to be the
+Short Logical Ruleset and published on or about Thu, 3 Mar 2011
+14:40:44 -0500.
+
+Amend Rule 2140 (Power Controls Mutability) by replacing "modify"
+with "set or modify".
+
+Amend Rule 2141 (Role and Attributes of Rules) by replacing this
+text:
+
+     Rules have ID numbers, to be assigned by the Rulekeepor, and are
+     strictly ordered.
+
+     Every rule shall have a title to aid in identification.  If a
+     rule ever does not have a title, the Rulekeepor shall assign
+     a title to it by announcement as soon as possible.
+
+     For the purposes of rules governing modification of instruments,
+     the text, power, ID number, and title of a rule are all
+     substantive aspects of the rule.
+
+with this text:
+
+     Rules have ID numbers, to be assigned by the Rulekeepor.
+
+     Every rule shall have a title to aid in identification.  If a
+     rule ever does not have a title, the Rulekeepor SHALL assign
+     a title to it by announcement as soon as possible.
+
+     For the purposes of rules governing modification of instruments,
+     the text, power, ID number, and title of a rule are all
+     substantive aspects of the rule.  However, rules to the contrary
+     notwithstanding, the Rulekeepor CAN set rule aspects as described
+     elsewhere in this rule.
+
+---
+
+Proposal ID: 7928
+Title: no we can't
+Adoption index: 3.0
+Author: G.
+Co-author(s):
+
+
+Amend Rule 2125 (Regulated Actions) by replacing:
+
+  Restricted Actions CAN only be performed as described by the Rules.
+
+with:
+  A Restricted Action CAN only be performed as described by the Rules, and only
+  using the methods explicitly specified in the Rules for performing the given
+  action.
+
+[this over-arching protection means in general, "by announcement"
+is NOT implied.  I just want to put this in place and absolutely
+clarify the ruleset if it passes, and we can add the MMI change later
+if desired].
+
+==========================================================================

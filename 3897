@@ -1,0 +1,59 @@
+===============================  CFJ 3897  ===============================
+
+      Proposal 7924, "Contracts v8", never took effect.
+
+==========================================================================
+
+Caller:                        Aris
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   01 Feb 2021 00:28:00
+Assigned to G.:                                   03 Feb 2021 17:26:53
+Judged FALSE by G.:                               10 Feb 2021 14:17:33
+
+==========================================================================
+
+Caller's Arguments:
+
+[linked to CFJ 3896]
+
+Contracts v8 stated, said, in part:
+
+"For the purposes of this proposal, neither pledges nor rules are contracts.
+
+Destroy each contract."
+
+If the CFJ immediately prior to this is FALSE, this one is trivially
+false as well. However, if the previous CFJ is TRUE, that raises the
+question of whether Proposal 7924 attempted to destroy Agora, and was
+thus cancelled by AiaN. While the proposal states that rules are not
+contracts, it says nothing about Agora as a whole. If Agora was a
+contract (the term was undefined at the time), and AiaN blocks
+attempts to destroy Agora by proposal, Proposal 7924 was entirely
+blocked. Note that the use of "each" isn't enough to save the
+proposal, since any proposal that has any part that would destroy
+Agora is entirely cancelled.
+
+CFJ 3813 is relevant, because it finds that Agora was not a contract
+under a specific rules standard for contracts (although that standard
+wasn't in effect at the time of Contracts v8).
+
+Note also that this CFJ doesn't have a huge effect on the game; the
+ruleset has been ratified since Contracts v8. The biggest question is
+whether some old contracts, agencies, and organizations might in some
+sense still exist.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+Since CFJ 3896 was found FALSE, I find this CFJ is trivially FALSE as per
+the Caller's arguments.
+
+==========================================================================

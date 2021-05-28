@@ -1,0 +1,511 @@
+===============================  CFJ 3905  ===============================
+
+      With the above-quoted message, Trigon revoked 400 Coins from
+      Falsifian.
+
+==========================================================================
+
+Caller:                        Falsifian
+
+Judge:                         Jason
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Falsifian:                              16 May 2021 14:00:56
+Assigned to Jason:                                17 May 2021 16:00:51
+Judged TRUE by Jason:                             25 May 2021 00:36:54
+
+==========================================================================
+
+[Linked to CFJ 3906]
+
+Caller's Evidence:
+
+["Above-quoted message" from CFJ statement]
+
+On Fri, May 14, 2021 at 09:53:28PM +0000, Trigon via agora-official wrote:
+> This is the termination message for the First Victory Auction of April 2021.
+>
+> List of bids (*=withdrawn player):
+>
+>  amount  bidder
+>  ======  ===========
+>   100cn  G.
+>     1cn  Jason
+>   120cn  Jason
+>   180cn  Falsifian
+>   221cn  G.
+>   222cn  ATMunn*
+>   230cn  Jason
+>   300cn  Falsifian
+>   331cn  G.
+>   400cn  Falsifian
+>
+> LOT 1:   ONE NEW VICTORY CARD
+> AWARDEE: Falsifian
+>
+> I revoke 400 coins from Falsifian and create one victory card in eir
+> possession.
+>
+> (No Faking: That may not have worked)
+>
+> -- 
+> Trigon
+
+
+1. Here's the message Trigon used to initate the auction, sent 2021-04-28:
+
+> I, Trigon, the Treasuror of Agora Nomic, being authorized by Rule 2629/0 and
+> furthermore being required to do so at least once a month, do hereby initiate
+> a Victory Auction.
+>
+> As the Lost and Found Department owns no assets other than coins, the sole lot
+> is a new Victory Card.
+>
+> The currency for this auction shall be the coin.
+>
+> The procedure for this auction shall be a Forward Auction, as described by the
+> April 2021 draft of the Treasuror's Auction Regulations which can be found at
+> the following link:
+>
+> <https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2021-April/014857.html>
+
+I've copied the message from that link to the bottom of this email.
+
+
+2. Trigon's enactment of the regulations, dated 2021-05-05:
+
+> On 4/27/21 1:06 AM, Trigon via agora-official wrote:
+>> I intend, with 2 Agoran consent, to amend the following auction
+>> regulations so that they read as follows.
+>
+> Having recieved support from Jason and ATMunn and no objections, I do so.
+
+
+
+Arguments for the second CFJ:
+
+    If the first CFJ is TRUE, I see no reason the second shouldn't be
+    TRUE too. The auction rules make it clear that the auctioneer can
+    do this if the auction method allows it, and the auction method is
+    clear.
+
+    If the first CFJ is FALSE because the auction regulation can't
+    empower Trigon to revoke assets, then I think it comes down to the
+    interpretation of the following sentence from the draft regulation:
+
+       In this message, the auctioneer CAN and SHALL destroy the amount
+       to be paid from the inventory each awardee and transfer to that
+       player (or create in eir possession if the item is new) the set
+       of assets associated with the lot e won.
+
+    The form is: "the auctioneer CAN and SHALL do A and B". But if
+    we've established they can't do A, then they can't do A and B.
+
+    This is a bit ambiguous. Maybe the sentence has no effect since the
+    regulation is trying to empower the auctioneer to do something (A
+    and B together) that they can't. Or maybe it should be read as
+    authorizing the auctioneer to do A and also B.
+
+    However, even under the second interpretation, I still think it
+    would be FALSE, because R2545 requires the auction method to be
+    "generally recognizable ... as a fair, equitable, and timely
+    [method]". Winning just by being the last person to state a bigger
+    meaningless number than the last person, when a casual reading of
+    the the regulations wouldn't make it clear that's the goal, doesn't
+    seem fair.
+
+
+Arguments for FALSE for the first CFJ:
+
+Note that the auction began before the regulations were amended. This
+may affect interpretation of the clause: "For the purposes of
+interpreting auction definitions, such methods are treated as if they
+are defined in this rule.", which seems to refer specifically to
+auction regulations.
+
+Even if we do consider the new regulation text to have been in force, I
+still think it should be FALSE. I think the following quotes from the
+recent thread "[Treasuror] [Auction Regulations Proto] Rough Draft for
+Redesign" summarise my position (I also included Trigon's reply).
+
+Falsifian:
+
+> Can an auction regulation give the auctioneer the power to destroy
+> assets, as this text purports to do?
+>
+> As far as I can tell the only power this regulation has is that it adds
+> some definitions. R2565 grants the auctioneer the power to "transfer
+> said items as necessary..." but I think that's referring to the goods
+> being auctioned off
+
+Trigon:
+
+> It is quite possible that this does not work; however, if it does the best
+> rebuttal is found in R2545¶4:
+>
+>>       The Treasuror is the promulgator for regulations that define
+>>       specific auction methods (i.e. "the default auction method") and
+>>       SHOULD do in order to aid trade and commerce.  *For the purposes of
+>>       interpreting auction definitions, such methods are treated as if
+>>       they are defined in this rule.*
+>
+> As the section on distribution authorizes the auctioneer to destroy the assets
+> and it is considered part of Rule 2545.
+
+Falsifian:
+
+> That's only for the purposes of interpreting the auction definitions,
+> though. To me, that just means: if you aren't sure what the auction
+> regulations mean, imagine the text placed in R2545, and that will give
+> you tho correct interpretation. But this isn't a question of what the
+> auction regulations mean --- that's clear enough in this case. So I'm
+> not sure the "For the purposes of interpreting..." clause is relevant.
+
+
+
+Here is the message from
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2021-April/014857.html
+which Trigon linked to:
+
+> I intend, with 2 Agoran consent, to amend the following auction
+> regulations so that they read as follows.
+>
+> I am willing to stop this intent in case of a breaking bug or issue.
+>
+> ------------------------------------------------------------------------
+> Regulation AM0/1
+> Generalized Auction
+>
+>        Generalized auctions exist to give context to the form of other
+>        types of auctions. They CANNOT be held directly. Other auction
+>        methods that use this type of auction as a starting point can
+>        override attributes of generalized auctions except when it is
+>        explicitly stated that that attribute is not able to be
+>        overridden.
+>
+>        INITIATION: When a person CAN begin an auction by this or any
+>        derivative method, e CAN only do so by specifying the type of
+>        auction method to be held, a list of lots to be auctioned off, and
+>        the currency for the auction in a public message (henceforth the
+>        "initiation message"). The bidding period starts at this point.
+>
+>        BIDDING: Players CAN place a bid on an auction in its bidding
+>        period by creating a public message (henceforth a "bid message")
+>        specifying a number of the auction's currency as eir bid not equal
+>        to the bid of another player. Players CAN withdraw from an open
+>        auction by announcement.
+>
+>        TERMINATION: The bidding period ends four days after the final
+>        instance of any of the following events' occurance:
+>          * the auction begins
+>          * a bid is placed
+>          * a player withdraws from the auction
+>
+>        RETRIEVAL: When the bidding period ends, the retrieval period
+>        begins. During the retrieval period, bidders will be allowed to
+>        retrieve the assets required to pay for their bid. The retrieval
+>        period lasts three days. Failing to have the requisite assets when
+>        the retrieval period for an auction ends constitutes the Class 1
+>        Crime of Underfundedness.
+>
+>        AWARDING: For each auction, there are a number of awardees equal
+>        to the number of lots. The Nth lot of an auction goes to the Nth
+>        awardee of that auction. If the identity of an awardee is
+>        undecidable, then that lot cannot be given away. Auction methods
+>        specify how awardees are picked for auctions using that method.
+>
+>        PAYMENT AMOUNT: The amount that an awardee in an auction is
+>        required to pay for eir lot is, unless otherwise specified,
+>        the amount of the auction's curency specified in eir highest bid
+>        on that auction.
+>
+>        FUNDED PLAYERS: Derivative auction methods should ensure that only
+>        players who, at the end of an auction's retrieval period, have at
+>        least as much of that auction's currency as the amount that e is
+>        required to pay in that auction (hereafter "funded players") can
+>        be selected as awardees for auctions using that auction method.
+>
+>        DISTRIBUTION: The auctioneer for an auction CAN and SHALL, within
+>        seven days of the ending of that auction's retrieval period,
+>        create a public message (henceforth the "distribution message")
+>        that contains a full history of bids on the auction and
+>        withdrawals from the auction. It must also clearly indicate each
+>        awardee and the lot e recieves. In this message, the auctioneer
+>        CAN and SHALL destroy the amount to be paid from the inventory
+>        each awardee and transfer to that player (or create in eir
+>        possession if the item is new) the set of assets associated with
+>        the lot e won. Failing to publish a distribution message
+>        constitutes the Class 3 Crime of Auction Abandonment.
+>
+>        ACTIVE BIDS: The set of active bids for an auction is the set of
+>        all funded, non-withdrawn players' highest bids on that auction.
+>
+> ------------------------------------------------------------------------
+> Regulation AM1/0
+> Forward Auctions
+>
+>        Forward auctions function like generalized auctions except:
+>
+>        * The Nth awardee for a forward auction is the player who
+>          submitted the Nth-highest active bid on that auction.
+>
+> ------------------------------------------------------------------------
+> Regulation AM2/0
+> Sealed-bid Auctions
+>
+>        Sealed-bid auctions function like generalized auctions except:
+>
+>        * Players can only submit bids on a sealed-bid auction if they do
+>          not have a bid in that auction.
+>        * Bids must be initially hidden so that it is impossible to tell
+>          its value but that it is verifiable that the amount bid was
+>          decided before the bid was placed. Anything that claims to be a
+>          bid and fits these conditions is considered a bid.
+>        * The retrieval period for a sealed-bid auction lasts for seven
+>          days.
+>        * Each player SHALL reveal eir bid amount on a sealed-bid auction
+>          while the auction is in its retrieval period. Failing to do so
+>          is the Class 2 Crime of Potential Faking.
+>        * The termination message need not indicate any bids for which the
+>          amount bid is not known.
+>        * The Nth awardee of a sealed-bid auction is the player whose bid
+>          is the Nth-highest active bid on that auction.
+>
+> ------------------------------------------------------------------------
+> Regulation AM3/0
+> Second-price Auctions
+>
+>        Second-price auctions function like forward auctions except:
+>
+>        * The amount to be paid by the Nth awardee is the amount of the
+>          auction's currency specified by the (N-1)th highest active bid
+>          on that auction or the lowest active bid if such a value does
+>          not exist.
+>
+> ------------------------------------------------------------------------
+> Regulation AM4/0
+> Nonwinning-price Auctions
+>
+>        Nonwinning-price auctions function like forward auctions except:
+>
+>        * The amount to by paid by all awardees is the amount of the
+>          auction's currency specified by the highest active bid on that
+>          auction not placed by an awardee or the lowest active bid if
+>          such a value does not exist.
+>
+> ------------------------------------------------------------------------
+> Regulation AM5/0
+> Selective-bid Auctions
+>
+>        Selective-bit auctions function like generalized auctions except:
+>
+>        * Bidding messages on a selective-bid auction must also specify a
+>          lot that is preferred.
+>        * The Nth awardee of a selective-bid auction is the player who
+>          placed the highest active bid whose preferred bid is the Nth
+>          lot.
+>
+> ------------------------------------------------------------------------
+>
+> --
+> Trigon
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Trigon:
+
+On 5/16/21 2:00 PM, Falsifian via agora-business wrote:
+> I call two CFJs, and suggest that they be linked:
+>
+> CFJ: With the above-quoted message, Trigon revoked 400 Coins from
+> Falsifian.
+>
+> CFJ: With the above-quoted message, Trigon created one Victory Card in
+> Falsifian's possession.
+>
+> [snip]
+>
+> Arguments for the second CFJ:
+>
+>      If the first CFJ is TRUE, I see no reason the second shouldn't be
+>      TRUE too. The auction rules make it clear that the auctioneer can
+>      do this if the auction method allows it, and the auction method is
+>      clear.
+>
+>      If the first CFJ is FALSE because the auction regulation can't
+>      empower Trigon to revoke assets, then I think it comes down to the
+>      interpretation of the following sentence from the draft regulation:
+>
+>         In this message, the auctioneer CAN and SHALL destroy the amount
+>         to be paid from the inventory each awardee and transfer to that
+>         player (or create in eir possession if the item is new) the set
+>         of assets associated with the lot e won.
+>
+>      The form is: "the auctioneer CAN and SHALL do A and B". But if
+>      we've established they can't do A, then they can't do A and B.
+>
+>      This is a bit ambiguous. Maybe the sentence has no effect since the
+>      regulation is trying to empower the auctioneer to do something (A
+>      and B together) that they can't. Or maybe it should be read as
+>      authorizing the auctioneer to do A and also B.
+>
+>      However, even under the second interpretation, I still think it
+>      would be FALSE, because R2545 requires the auction method to be
+>      "generally recognizable ... as a fair, equitable, and timely
+>      [method]". Winning just by being the last person to state a bigger
+>      meaningless number than the last person, when a casual reading of
+>      the the regulations wouldn't make it clear that's the goal, doesn't
+>      seem fair.
+>
+
+Gratuitous arguments: the definition of an auction is "a way for 
+entities to give away specified assets (items), grouped into lots, in 
+exchange for a currency" (Rule 2545/3 ¶1). My inclination here is to say 
+that, should the first CFJ about whether a lot was transferred be judged 
+FALSE, what I have done here fails to meet the criteria to be considered 
+an auction as it is not a way to exchange currency for lots, implying a 
+judgement of FALSE.
+
+> Arguments for FALSE for the first CFJ:
+>
+> Note that the auction began before the regulations were amended. This
+> may affect interpretation of the clause: "For the purposes of
+> interpreting auction definitions, such methods are treated as if they
+> are defined in this rule.", which seems to refer specifically to
+> auction regulations.
+>
+> Even if we do consider the new regulation text to have been in force, I
+> still think it should be FALSE. I think the following quotes from the
+> recent thread "[Treasuror] [Auction Regulations Proto] Rough Draft for
+> Redesign" summarise my position (I also included Trigon's reply).
+>
+
+Gratuitous arguments: I have picked through the wording of Rule 2545/3 
+and I have more evidence now than what was quoted, and it lies in Rule 
+2545/3 ¶2, which I present, somewhat abbreviated.
+
+       When the rules authorize a person (the auctioneer) to conduct an
+       auction, e CAN do so by any wholly public method that ... under
+       common definitions and terms used in auctions, as a fair,
+       equitable, and timely means of ... enabling the appropriate
+       exchange of goods.
+
+This is where I believe my logic falls apart, but I would really like my 
+auctions to work, so attempt to bear with me.
+
+When the rules authorize a person to conduct an auction, we know by ¶1 
+that that authorizes em to oversee a means of exchanging currency for 
+lots. This implies that any method that the auctioneer chooses that 
+allows an equitable auction process has authorization to facilitate such 
+a transfer by extension of the authorization to perform the auction at 
+all. Otherwise it would not be an auction by ¶1.
+
+On the other hand, perhaps similar logic could lead one to conclude that 
+the rules never authorize any player to begin an auction under auction 
+regulations that fail to allow a method to transfer or destroy coins 
+from awardees, in which case what I just have done was never was an 
+auction in the first place.
+
+------------------------------------------------------------------------
+Rule 2545/3 (Power=2)
+Auctions
+
+       An auction is a way for entities to give away specified assets
+       (items), grouped into lots, in exchange for a currency. A lot is a
+       non-empty list of items to be transferred to a single recipient
+       (an auction winner).
+
+       When the rules authorize a person (the auctioneer) to conduct an
+       auction, e CAN do so by any wholly public method that would be
+       generally recognizable, as specified by the auctioneer at the
+       start of the auction, and under common definitions and terms used
+       in auctions, as a fair, equitable, and timely means of determining
+       the auction winners from among the current players, and enabling
+       the appropriate exchange of goods.
+
+       The rule that authorizes the auction further authorizes the
+       auctioneer or auction winners to transfer said items as necessary
+       to conduct the auction in a manner consistent with the auction
+       method. If the authorization is to auction "new" items, it further
+       authorizes the creation of said items as per the chosen method.
+
+       The Treasuror is the promulgator for regulations that define
+       specific auction methods (i.e. "the default auction method") and
+       SHOULD do in order to aid trade and commerce.  For the purposes of
+       interpreting auction definitions, such methods are treated as if
+       they are defined in this rule. To further aid trade and commerce,
+       auction methods should be interpreted in the name of fairness with
+       deference to the method's clear intent, if intent can be
+       reasonably inferred.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+Rule 2545 states that "When the rules authorize a person (the
+auctioneer) to conduct an auction, e CAN do so by any wholly public
+method [...]". This clause is separate from the clause that authorizes
+the transfer or creation of the auctioned items, so it can provide more
+authorization than that clause. I find that this clause is extremely
+broad. Based on its plain text, it enables any auction method that is
+"wholly public", "generally recognizable", "fair", "equitable", and
+"timely", and that "determin[es] the auction winners from among the
+current players" and "enable[s] the appropriate exchange of goods". I
+find that this enabling recurses into the actions permitted by the
+auction method, as Rule 2545 enables the auctioneer to "conduct an
+auction", not just to ultimately transfer the goods. In this case,
+conducting an auction, as defined by the auction method, necessitates
+revoking coins and creating a new Victory Card, so Rule 2545 implicitly
+authorizes those auctions.
+
+In order to determine whether this clause applies, however, it must be
+determined whether the method of the purported Victory Auction satisfies
+the requirements of an auction:
+* Wholly public: Clearly yes.
+* Generally recognizable: Clearly yes.
+* Fair and equitable: I believe yes, and the fact that the auction
+method was enshrined into regulation indicates that the populace as a
+whole believes so, too.
+* Timely: I believe it's timely enough, so yes.
+* Determining the auction winners from among the current players:
+Clearly yes.
+* Enabling the appropriate exchange of goods: Yes, but this requires
+explanation.
+
+AM0/2 says the following about the distribution message:
+{
+                                      In this message, the auctioneer
+      CAN and SHALL destroy the amount to be paid from the inventory
+      each awardee and transfer to that player (or create in eir
+      possession if the item is new) the set of assets associated with
+      the lot e won.
+}
+
+This does not provide an explicit method to perform the destruction and
+transfer. Based on Rule 2545's request that "auction methods should be
+interpreted in the name of fairness with deference to the method's clear
+intent, if intent can be reasonably inferred.", I find that the auction
+method permits ISID transference and destruction, despite the fact that
+rule text would not allow it under Rule 2125, as the intent is clearly
+to allow an ISID transfer. Though the caller raises the question of
+whether the auction method was defined by auction regulation at the time
+of the resolution of the auction. I find that whether it is or not is
+irrelevant. Even if the auction method was to be interpreted as rules
+text, the clause that authorizes interpretation using "clear intent"
+appears later and thus takes precedence.
+
+The Victory Auction satisfies the requirements of an auction, and the
+second paragraph of Rule 2545 authorizes the destruction of the bids and
+creation of a new Victory Card.
+
+CFJ 3905 judged TRUE.
+CFJ 3906 judged TRUE.
+
+[0]:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2021-May/014878.html
+
+==========================================================================

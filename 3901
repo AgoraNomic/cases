@@ -1,0 +1,141 @@
+===============================  CFJ 3901  ===============================
+
+      The cashing of one or more promises created by G. has been
+      EFFECTIVE at changing the final vote tally and/or number of voters
+      on the referendum to adopt Proposal 8543, for the purposes of
+      R208, R879, and/or R2623.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Gaelan
+Judgement:                     PARADOXICAL
+
+==========================================================================
+
+History:
+
+Called by G.:                                     28 Feb 2021 23:59:40
+Assigned to Gaelan:                               07 Mar 2021 19:16:30
+Judged PARADOXICAL by Gaelan:                     20 Mar 2021 20:14:03
+
+==========================================================================
+
+Caller's Evidence:
+
+On 2/28/2021 3:58 PM, Kerim Aydin wrote:
+> I grant myself a promise, "Neverending PRESENT", with the following text:
+>    1. I grant myself a new promise with a text identical to the text of
+>       the "Neverending PRESENT" promise.
+>    2. If I have cast a non-withdrawn ballot on the referendum to adopt
+>       Proposal 8543, I withdraw it; otherwise I vote PRESENT
+>       (unconditionally) on the referendum to adopt Proposal 8543.
+>    3. I cash the new promise.
+> 
+> 
+> I cash the above-created promise.
+
+The above message was sent via agora-business before the voting period on
+the proposal 8543 referendum ended.  This CFJ was called immediately after
+the voting period ended and before any attempt at resolving the referendum
+was published.  Quorum was met by other voters regardless of this ballot.
+
+
+Caller's Arguments:
+
+For the purpose of cashing a single instance of the above promise, every
+step should be determinate (and the conditional in step #2
+well-determined), so the cashing should succeed and have the effects
+described in its text.
+
+Collectively, I believe this makes the status of my ballot indeterminate
+(alternating infinitely between being cast and not) and therefore make
+this CFJ PARADOXICAL.  It is not irrelevant even if the proposal is
+resolved by publishing two separate announcements (one for each state), as
+the resolution method propagates to affecting the vote count for quorum
+and/or popularity.
+
+Even if the gamestate was converged after the calling of this CFJ (e.g. by
+resolving a proposal batch in a different-than-typical order to prevent
+it from affecting future quorum), the fact that it took a positive effort
+on the part of the Assessor to do so meant that it certainly was relevant
+at the time this CFJ was called.  Further, I think, as a general
+principle, that votes are part of the historical legislative record, and
+ballots are prima facie relevant even if they don't change an outcome.
+
+--------------------------------------------------------------------------
+
+Judge Gaelan's Arguments:
+
+At question is a promise that purports to recursively create and cash a 
+promise with identical text, causing G's vote on proposal 8543 to 
+fluctuate indefinitely between two values.
+
+# What does it mean to cash a promise?
+
+2618/2: { A promise's bearer CAN, by announcement, cash the promise, 
+provided that any conditions for cashing it specified by its text are 
+unambiguously met. By doing so, e acts on the creator of the promise's 
+behalf, causing the creator to act as if e published the promise's text, 
+and destroys the promise. }
+
+# Can a promise create a promise?
+
+Promise creation is permitted by 2618/2: { A consenting player CAN, by 
+announcement, grant a specified entity a promise, specifying its text and 
+becoming its creator. }
+
+G. is a player, and 2519/2 explicitly states that a player consents to an 
+action if { the action is taken as part of a promise which e created }; no 
+issues there. What about the "by announcement, specifying its text" bit? 
+If G. just published the text of the promise, it'd certainly qualify, so 
+"act[ing] as if e published the promise's text" should work fine.
+
+No issues here.
+
+# Can a promise cash a promise?
+
+Sure, it's by announcement. We've already seen that works.
+
+# Wait, can you cash your own promises at all?
+
+This one's interesting. 2466/2 only gives the phrase "acting on behalf" 
+any special meaning when it's on behalf of another person, so "acting on 
+one's own behalf" doesn't really have any special meaning or significance. 
+By a plain-English reading, acting on one's behalf to do something is just 
+doing the thing. So I think this works just fine.
+
+# What about that conditional in the promise?
+
+Good question, heading. Agora's support for conditional actions is 
+famously not specified by the rules, only precedent, rooting from 478/38's 
+definition of performing an action "by announcement" as "unambiguously and 
+clearly specifying the action and announcing that e performs it". It's 
+widely held that, at some point, a conditional can become too difficult to 
+resolve to meet the "unambiguously and clearly" standard. Do we run into 
+that here?
+
+We generally permit conditionals based on ambiguous game state, for 
+converging the game state and such. This might fall into that category. 
+But this doesn't really matter, as I shall show below.
+
+Let's say there exists some point at which the state of G.'s vote is so 
+ambiguous that it can no longer be used as a valid conditional. Where 
+would that point be? Certainly not after the first flip—at that point, 
+it's just been flipped once, so it's still perfectly clear. It remains 
+clear after the second flip, or the third flip, or indeed any finite 
+number of flips; the ambiguity arises only after an infinite (or 
+arbitrarily large) number of flips back and forth. Even if the conditional 
+stopped functioning at that point, the state of G's vote is already 
+unknown. After all, if it was known, the conditional wouldn't be 
+ambiguous!
+
+So even if the conditional stops functioning at some point, it would only 
+be after the damage was already done.
+
+# So what's the verdict?
+
+I find PARADOXICAL. Congratulations, G.!
+
+==========================================================================

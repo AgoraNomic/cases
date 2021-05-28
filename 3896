@@ -1,0 +1,87 @@
+===============================  CFJ 3896  ===============================
+
+      If an AI 3.0 proposal with the text "Destroy Agora." were adopted,
+      it would be blocked from taking effect by Rule 1698, "Agora is a
+      Nomic".
+
+==========================================================================
+
+Caller:                        Aris
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Aris:                                   01 Feb 2021 00:28:00
+Assigned to G.:                                   03 Feb 2021 17:26:24
+Judged FALSE by G.:                               10 Feb 2021 14:14:49
+
+==========================================================================
+
+Caller's Arguments:
+
+[linked to CFJ 3897]
+
+A proposal that would destroy Agora would be canceled by AiaN. After
+all, proposals that would otherwise "cause Agora to cease to exist"
+are explicitly listed among the categories of proposals that AiaN
+blocks. The question, then, is whether the proposal would, but for
+AiaN, successfully cause Agora to cease to exist. If causing Agora to
+cease to exist would involve repealing more than one rule, the action
+would fail per Rule 105, which requires that the order of rule changes
+be unambiguous. If it could be done without changes to the rules, I
+honestly have no clue whether another rule would block it from
+happening.
+
+CFJ 3580 is relevant, since it discusses the behavior of legal
+fictions with respect to AiaN.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+As per CFJ 3580, the first thing is to determine for a broad action text
+like this: if the command "destory Agora" were executed, what would
+actually be affected?
+
+What exactly is Agora (that is, what is it that would actually be
+destroyed?)  That's found explicitly in R101:
+
+>     Agora is a game of Nomic, wherein Persons, acting in accordance
+>     with the Rules, communicate their game Actions and/or results of
+>     these actions via Fora in order to play the game. The game may be
+>     won, but the game never ends.
+>
+>     Please treat Agora Right Good Forever.
+
+Persons and Fora are external (so might be destoyed by "destroy the
+universe" but not by a "destroy Agora").  So that leaves that Agora is a
+game.  What does it mean to "destroy" a game, in particular a game of
+nomic?  There are two reasonable definitions that I see for "destroy" in
+the context of games:
+
+1.  Destroying all the rules - that would pretty much destroy Agora as
+Agora (even if some kind of common law could be inferred after that, it's
+pretty much no longer Agora if done that way).  "Destroy the rules" is
+reasonably synonymous for repealing them.  R105 protects against
+simultaneous mass repeals; the order that rules are repealed needs to be
+specified.  Therefore, R105 blocks any rules from being repealed under a
+"destroy Agora" clause.
+
+2.  End the game - Games for the most part end.  That would destroy all
+gameplay beyond that.  So to end Agora is to destroy it.  But R101 states
+"the game never ends".  I find that this clause in R101 is protective and
+generally (to the maximum extent of R101's power) prevents the game from
+ending.  This serves as an "except as prohibited by the rules" that
+prevents proposal clauses from taking effect (however that's worded under
+bodies of law).  So destroy Agora -> end the game -> blocked from taking
+effect by R101.
+
+Therefore, a clause in an ephemeral instrument purporting to "destroy
+Agora" is blocked from having any effect, by either or both of R105 and
+R101, meaning R1698 is never triggered in Agora's defense.  FALSE.
+
+==========================================================================

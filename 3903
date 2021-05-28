@@ -1,0 +1,151 @@
+===============================  CFJ 3903  ===============================
+
+      R. Lee's votes on the referendums on proposals 8549 and 8552-8555
+      were clearly specified.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  29 Mar 2021 04:08:30
+Assigned to G.:                                   04 Apr 2021 00:32:16
+Judged TRUE by G.:                                07 Apr 2021 18:47:01
+
+==========================================================================
+
+Caller's arguments:
+
+On the relevant decisions, R. Lee voted "I vote AGAINST all agoran
+decisions that add overall text to the ruleset, and PRESENT on the
+rest." This is clearly an attempted conditional vote. The question is
+whether it is clearly specified under Rule 2127.
+
+Per Rule 2127, they are clearly specified if and only if they were
+determinate at the end of the voting period, and they are determinate if
+the values can be "reasonably determined [...] from information
+reasonably available" (the other possibilities clearly do not apply).
+
+The information that this depends on is certainly "reasonably
+available", as it is just the text of the proposals as well as the text
+of the rules (assuming we are correct in our understanding of the text
+of the rules, which is hopefully the case). This means that this case
+depends on whether the vote can be "reasonably determined" from that
+information.
+
+In general, evaluating proposals to determine whether they add or remove
+text is arguably not "reasonably determined", as it involves evaluating
+potentially arbitrary text. However, real distributions do not contain
+proposals with arbitrary text, and the proposals in this specific
+distribution are, individually, relatively easy to count characters
+added/removed on. Perhaps that's sufficient for this specific case to be
+considered "reasonable effort", but that's potentially opening a can of
+worms for large, perhaps unreasonable, workloads for the Assessor.
+
+
+Caller's evidence:
+
+On Wed, Mar 24, 2021 at 5:16 PM N. S. via agora-business
+<agora-business@agoranomic.org> wrote:
+>
+> I vote AGAINST all agoran decisions that add overall text to the ruleset,
+> and PRESENT on the rest.
+
+
+Rule 2127/11 (Power=3)
+Conditional Votes
+
+      A conditional vote on an Agoran decision is a vote which indicates
+      a vote based on some condition(s). A conditional vote is evaluated
+      at the end of the voting period and, rules to the contrary
+      notwithstanding, is clearly specified if and only if the value of
+      the condition(s) is/are determinate at the end of the voting
+      period. If the conditional is clearly specified, and evaluates to
+      a valid vote, it is counted as that vote; otherwise, it is counted
+      as PRESENT.
+     
+      Any vote which is clearly expressed as a conditional, e.g. "FOR if
+      <X> is true, AGAINST otherwise", is a valid conditional vote that
+      evaluates as specified.
+     
+      A vote endorsing another person is equivalent to a conditional
+      vote evaluating to the vote specified in that person's valid
+      ballot on the decision, if any.
+     
+      For an instant runoff decision, a vote consisting of a list, one
+      or more entries of which are valid conditional votes, and the
+      remaining entries of which are valid options, is a valid
+      conditional vote. Such a vote is evaluated by evaluating each
+      conditional entry to a list of votes (or an empty list, if it
+      evaluates to PRESENT either directly or indirectly), and then
+      concatenating those lists with the specified valid options in the
+      order they occurred in the original vote.
+
+
+Rule 2518/0 (Power=3)
+Determinacy
+
+      If a value CANNOT be reasonably determined (without circularity or
+      paradox) from information reasonably available, or if it
+      alternates indefinitely between values, then the value is
+      considered to be indeterminate, otherwise it is determinate.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+In the past, we've accepted many complicated conditionals.  In principle,
+I don't see why "does this specified proposal add text to ruleset" is more
+complicated or error-prone than, say "I vote for the candidate who
+transfers me the most coins" in terms of difficulty to the vote collector.
+
+For the latter, for example, the vote collector would need to track any
+coin transfer, look at recent reports to know if the transfers succeeded,
+and maybe even (if the transfers had previous transfer dependencies) track
+more.  And errors would be made.  Yet I suspect we would accept such a
+conditional without thinking about it too much and the poor officer would
+be on the hook.
+
+So I don't think we can throw out proposal parsing for conditionals just
+because they're proposals or rule changes, or else if we do, we'd throw
+out many conditionals that we've accepted in the past.
+
+As an example, looking at one of the proposals in question (8549), the
+proposal is of the form "insert after [text] the following [other text]".
+I looked up the rule, checked the power, and knew that the proposal in
+question would increase the words in any of the rulesets.  3-5 minutes,
+and fewer references to check than the coin thing.  And probably less
+prone to error than the coin thing.
+
+So in principle, proposals aren't special.  Some are harder to interpret
+than others in the name of interpreting conditionals,  That's evaluated
+case-by-case - it doesn't force evaluation of "arbitrary" text - some
+proposals, just like some conditionals, could be "too hard", but it's
+case-by-case).
+
+Now, some of the ones in this batch may be too difficult - but the caller
+notes that they're not.  Having looked over them for 5 minutes, I conclude
+similarly - these are not difficult tasks.  TRUE.
+
+I'll note that what's easy in the individual is often difficult in the
+aggregate, but that's a matter of social restraint.  Doing too many
+blanket conditionals is similar to submitting lots of proposals and not
+pending them, or calling and retracting lots of cfjs, or whatever.  I
+don't think a blanket cfj-ban based on the reasonableness of each one (and
+these in particular are reasonable) is an appropriate way of handling
+that, if it becomes an actual issue.
+
+However, I'll futher note that, given the nature of cumulative effort, the
+effort for each individual conditional needs to be truly fairly small.
+The standard I'd suggest is that the conditional must be clear and obvious
+within a minute or two of checking on facts.  So a proposal that
+repeals a rule (requiring a word count), or has more than one add or
+subtract clause so character count had to be tracked, would be too much.
+
+==========================================================================

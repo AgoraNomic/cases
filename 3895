@@ -1,0 +1,259 @@
+===============================  CFJ 3895  ===============================
+
+      I have now more than 20 Victory Points.
+
+==========================================================================
+
+Caller:                        Cuddlebeam
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Cuddlebeam:                             25 Jan 2021 23:04:59
+Assigned to Aris:                                 31 Jan 2021 20:19:26
+Judged FALSE by Aris:                             03 Feb 2021 21:49:42
+
+==========================================================================
+
+Caller's Arguments:
+
+In R2577, we have: "Attempts to transfer no assets are successful. When a
+rule indicates creating, destroying, or transferring an amount of assets
+that is not a natural number, the specified amount is rounded up to the
+nearest natural number after all other calculations."
+
+So, a reasonable interpretation is that if I attempt to transfer 0 cards,
+it's successful and transfers 1 - it's rounded up, because 0 isn't a
+natural number.
+
+Or is it? Hi, VSauce here.
+
+Yup, this all relies on the definition of "natural number" that we decide
+to take. Is it all whole positive numbers except zero? Or including zero?
+The big conundrum that we got up our pants here is that we have no explicit
+precedent on this as far as I'm aware. And there is no clear consensus in
+the real world on this either:
+https://mathworld.wolfram.com/NaturalNumber.html
+
+
+Caller's Evidence:
+
+On 1/25/2021 3:04 PM, Cuddle Beam via agora-business wrote:
+> I attempt to transfer 0 cards from Aris to myself
+> I attempt to transfer 0 cards from ATMunn to myself
+> I attempt to transfer 0 cards from Falsifian to myself
+> I attempt to transfer 0 cards from G. to myself
+> I attempt to transfer 0 cards from Gaelan to myself
+> I attempt to transfer 0 cards from grok to myself
+> I attempt to transfer 0 cards from Jason to myself
+> I attempt to transfer 0 cards from Joe to myself
+> I attempt to transfer 0 cards from JTAC to myself
+> I attempt to transfer 0 cards from Lucidiot to myself
+> I attempt to transfer 0 cards from Murphy to myself
+> I attempt to transfer 0 cards from Nathan to myself
+> I attempt to transfer 0 cards from nix to myself
+> I attempt to transfer 0 cards from Noah to myself
+> I attempt to transfer 0 cards from omd to myself
+> I attempt to transfer 0 cards from R. Lee to myself
+> I attempt to transfer 0 cards from Shy Owl to myself
+> I attempt to transfer 0 cards from Trigon to myself
+> I attempt to transfer 0 cards from Ubercrow to myself
+> 
+> If I have more than 10 Victory Cards, I then do the following:
+> I pay 4 sets of Victory Cards to gain 10 Victory Points.
+> I pay 4 sets of Victory Cards to gain 10 Victory Points.
+> I pay 4 sets of Victory Cards to gain 10 Victory Points.
+> I pay 4 sets of Victory Cards to gain 10 Victory Points.
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+The caller's arguments and evidence do an excellent job
+of explaining the situation, so I won't go over it again here.
+
+Players have raised three objections to CuddleBeam's actions.
+If any of them is correct, this CFJ is FALSE. First, "I attempt
+to transfer" could not count as a valid announcement of
+transference. Second, CuddleBeam could lack a method for
+performing the transfer. Third, 0 could be a natural number,
+causing eir 0 asset transfers not to be rounded up to 1.
+
+1. Attempts to Transfer
+
+CuddleBeam said, for each other player, "I attempt to transfer
+0 cards from <other player> to myself". Someone, somewhere,
+asked if this worked. Might have been on the Discord, but I
+honestly don't recall. I find that, by the plain meaning of
+"attempt", saying "I attempt to do X" means "If I can do X,
+I do X".
+
+I conclude that the objection to the word "attempt" is spurious.
+
+2. Methods for the Transfer
+
+CuddleBeam cites Rule 2577, "Asset Actions", which says in
+part, "Attempts to transfer no assets are successful." However,
+this does not specify a method. Rule 2125,"Regulated Actions",
+says in part:
+
+  If a body of law regulates an action, then to the extent that
+  doing so is within its scope, that body of law prevents the action
+  from being performed except as described within it, including by
+  limiting the methods to perform that action to those specified
+  within it.
+
+While that provision is about as clear as mud, it does
+say that the method for performing an action needs to be
+specified. Saying generally that attempts are successful does
+not provide a method.
+
+The only way I can read the Rule 2577 provision is as a
+clarification of the sentence stating that an asset's owner
+can transfer it by announcement. Or the statement is completely
+ineffective. Which of those is true is outside the scope of this
+case, but it is certainly true that there was no method given
+for CuddleBeam to transfer 0 assets from other players to emself.
+
+I conclude that the objection that CuddleBeam's action lacked a
+method is valid.
+
+3. Natural Numbers
+
+I now reach the objection raised by the caller in eir arguments.
+Is 0 a natural number? CuddleBeam relied on the following provision
+of Rule 2577, "Asset Actions":
+
+  When a rule indicates creating, destroying, or transferring an
+  amount of assets that is not a natural number, the specified
+  amount is rounded up to the nearest natural number after all other
+  calculations.
+
+If 0 is not a natural number, the provision would round
+transfers of 0 assets up to 1, and CuddleBeam relies on this
+behavior. However, e is incorrect.
+
+I'll start off by citing Rule 2509, "Agoran Numbers", which says
+in part:
+
+  If a switch is defined as being associated with a specified set of
+  numbers (a numerical switch), then the possible values for that
+  switch are the numbers in that set. In particular, a natural or
+  integer switch is a switch with possible values the non-negative
+  integers or all integers, respectively.
+
+This implies very strongly that the numbers in the set of natural
+numbers are the non-negative integers. In fact, it comes about as
+close to stating that fact as it could without actually doing so.
+
+Even if the other rules did not lead me to this conclusion,
+I would still reach it. It is consistent with the common sense
+interpretation of Rule 2577, which is clearly written on the
+assumption that 0-asset transfers are a no-op. Furthermore,
+although there is by no means universal agreement, is also
+consistent with the most common standards used in other
+jurisdictions I checked. 0 is used as the base for the version
+of the Peano axioms found on Wikipedia. Perhaps more authoritatively,
+it is also the definition used in the ISO 80000-2 standard.
+
+I conclude that the objection that attempts to transfer 0 assets
+are not rounded up because 0 is already a natural number
+is valid.
+
+4. Conclusion
+
+Two out of the three objections I reviewed were valid. Specifically,
+there is no method for CuddleBeam to transfer 0 assets, and even
+if e could do so, eir transfer would not be rounded up.
+
+Accordingly, I rule FALSE.
+
+
+Judge Aris's Evidence
+
+Rule 2125/12 (Power=3)
+Regulated Actions
+
+  An action is regulated by a body of law if (1) its performance is
+  limited, allowed, enabled, or permitted by that body of law; (2)
+  that body of law describes the circumstances under which it would
+  succeed or fail; or (3) it would, as part of its effect, modify
+  information for which some person bound by that body of law is
+  required, by that body of law, to be a recordkeepor.
+
+  If a body of law regulates an action, then to the extent that
+  doing so is within its scope, that body of law prevents the action
+  from being performed except as described within it, including by
+  limiting the methods to perform that action to those specified
+  within it. A body of law does not proscribe any action which it
+  does not regulate.
+
+
+Rule 2509/2 (Power=2)
+Agoran Numbers
+
+  A "number" is considered to refer to a real number, unless
+  otherwise explicitly specified.  A "number of (items)", where
+  (items) is a set of discrete entities, is considered to refer to a
+  non-negative integer, unless otherwise explicitly specified.
+
+  If a switch is defined as being associated with a specified set of
+  numbers (a numerical switch), then the possible values for that
+  switch are the numbers in that set. In particular, a natural or
+  integer switch is a switch with possible values the non-negative
+  integers or all integers, respectively. If a limit is further
+  defined, the possible values are the numbers of the set within the
+  specified limits.
+
+  If 0 is in the specified values for a numerical switch and no
+  default value is otherwise specified, 0 is the default value for
+  that switch.
+
+  If the rules describe mathematical operations to be used in
+  flipping an instance of a numerical switch, the operations are
+  interpreted as having common-sense mathematical application to
+  determine that instance's resulting value. For example,
+  "increasing a switch instance by M" is equivalent to "flipping a
+  switch instance from its current value N to the value N+M". If the
+  specified mathematical operation would result in a value outside
+  that switch's defined set, the flipping CANNOT be performed, rules
+  to the contrary notwithstanding.
+
+
+Rule 2577/6 (Power=3)
+Asset Actions
+
+  An asset generally CAN be destroyed by its owner by announcement,
+  subject to modification by its backing document. Attempts to
+  destroy no assets are successful. An indestructible asset is one
+  defined as such by its backing document, and CANNOT be destroyed
+  except as explicitly specified by its backing document; any other
+  asset is destructible.
+
+  For an entity to gain (historical syn. earn) an asset is for that
+  asset to be created in that entity's possession. To grant an
+  entity an asset is to create it in eir possession.
+
+  For an entity to lose an asset is for that asset to be destroyed
+  from that entity's possession. To revoke an asset from an entity
+  is to destroy it from that entity's possession.
+
+  For entity A to take an asset from entity B is to transfer it from
+  entity B to entity A.
+
+  An asset generally CAN be transferred (syn. given) by announcement
+  by its owner to another entity, subject to modification by its
+  backing document. Attempts to transfer no assets are successful. A
+  fixed asset is one defined as such by its backing document, and
+  CANNOT be transferred; any other asset is liquid.
+
+  When a rule indicates creating, destroying, or transferring an
+  amount of assets that is not a natural number, the specified
+  amount is rounded up to the nearest natural number after all other
+  calculations.
+
+==========================================================================
