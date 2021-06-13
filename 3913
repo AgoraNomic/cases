@@ -1,0 +1,93 @@
+===============================  CFJ 3913  ===============================
+
+      A player who possesses 3 Blots can have their Voting Strength on a
+      particular decision go above 15 as a consequence of Buying
+      Strength.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         Jason
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 08 Jun 2021 14:42:00
+Assigned to Jason:                                13 Jun 2021 14:56:38
+
+==========================================================================
+
+[linked to CFJ 3914]
+
+Caller's Evidence:
+
+Rule 2422/9 (Power=3)
+Voting Strength
+
+      The voting strength of an entity on an Agoran decision is an
+      integer between 0 and 15 inclusive, defined by rules of power 2
+      or greater. If not otherwise specified, the voting strength of
+      an entity on an Agoran decision is 3.
+      
+      When multiple rules set or modify an entity's voting strength on
+      an Agoran decision, it shall be determined by first applying the
+      rule(s) which set it to a specific value, using the ordinary
+      precedence of rules, and then applying the rules, other than
+      this one, which modify it, in numerical order by ID. Finally, if
+      the result of the calculation is not an integer, it is rounded
+      up, and then if it is outside the allowable range of values for
+      voting strength, it is set to the minimum value if it was less
+      and the maximum value if it was more.
+      
+      A player CAN Buy Strength by paying a fee of 1 Extra Vote. A
+      player's Voting Strength on an ordinary referendum is 1 greater
+      for every time e Bought Strength during that decision's voting
+      period.
+
+Rule 2556/1 (Power=3)
+Penalties
+[...]      
+      The voting strength of a player on an Agoran decision is reduced
+      by 1 for every 3 blots in eir possession.
+[...]
+
+Rule 2240/1 (Power=3)
+No Cretans Need Apply
+
+      In a conflict between clauses of the same Rule, if exactly one
+      claims precedence over the other, then it takes precedence;
+      otherwise, the later clause takes precedence.
+
+
+Caller's Arguments:
+
+Rule 2422 contains internal contradictions. The first paragraph
+attempts to limit voting strengths to a particular range. The second
+paragraph specifies how to apply multiple voting strength modifiers.
+The third paragraph specifies how to Buy Strength.
+
+Most notably, the second paragraph implies that if multiple rules
+attempt to modify a player's Voting Strength (such as 2422 and 2556, in
+the case of a player who has 3 Blots and has Bought Strength), the
+modifications from rule 2422 are not applied at all (the conflict
+resolution procedure applies modifications from "rules, other than this
+one, which modify it", and does not specify any situation in which its
+own modification applies.
+
+The third paragraph, however, says that Buying Strength *does* modify a
+player's voting strength. As far as I can tell, this introduces a
+contradiction between the second and third paragraphs, resolved by Rule
+2240. If the second paragraph is interpreted as having an implicit
+precedence claim, it wins, and players with 3+ Blots cannot usefully
+Buy Strength.
+
+More interestingly, if it is interpreted as not containing a precedence
+claim, then the third paragraph wins, allowing players with 3+ Blots to
+Buy Strength despite the conflict resolution mechanism. In this case,
+it seems as though the third paragraph would be able to override the
+first paragraph, too, and allow players to increase their Voting
+Strengths without bounds.
+
+==========================================================================

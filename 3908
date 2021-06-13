@@ -1,0 +1,102 @@
+===============================  CFJ 3908  ===============================
+
+      The above amendment to "Cuddlebeam's Sandwich" was successful.
+
+==========================================================================
+
+Caller:                        ATMunn
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ATMunn:                                 29 May 2021 00:26:07
+Assigned to G.:                                   06 Jun 2021 16:15:08
+Judged TRUE by G.:                                13 Jun 2021 14:25:09
+
+==========================================================================
+
+[Linked to CFJ 3909]
+
+Caller's Evidence:
+
+On 5/27/2021 1:03 PM, Cuddle Beam via agora-business wrote:
+> I create the following contract named "Cuddlebeam's Sandwich":
+>
+> ----------
+> Cuddlebeam is the sole party to this contract.
+>
+> Layer 1: This is a layer of bread.
+> Layer 2: This is a layer of ham.
+> Layer 3: This is a layer of bread.
+> Layer 4: This is a layer of ham.
+> ----------
+>
+> I consent to modify the above contract by adding layers for all natural
+> numbers, alternating bread and ham, following this example:
+>
+> Layer 1: This is a layer of bread.
+> Layer 2: This is a layer of ham.
+> Layer 3: This is a layer of bread.
+> Layer 4: This is a layer of ham.
+> Layer 5: This is a layer of bread.
+> Layer 6: This is a layer of ham.
+> etc.
+>
+> Note that I just need to *consent* to a modification, not spell it out
+> entirely.
+>
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+1.  A contract doesn't have text, it has provisions.  By legal definition
+a provision is a contract elements, but need not be in 1-1 correspondence
+with a set text.  99% of the time this *will* be a set text, but it's not
+an absolute requirement.
+
+Example - set of public exchanges: "hey person X do you want to make a
+binding agreement to trade my asset A for my asset B? I agree if you do."
+ "Sure I agree".  That's a contract with clear understanding, but the
+"provisions" aren't an exact match to a text.
+
+Importantly, the legal definition of provision (proviso) is (surveying
+various dictionaries) a "stipulation that requires action/introduces
+conditions etc."  In a numbered text, numbered clauses that are entirely
+flavor without requiring action might not be provisions at all.  Or
+several clauses might add to one provision, etc.
+
+2.  For a provision to be "fully available" as per R1742 there needs to be
+sufficient information available for a judge to interpret any provision,
+and the "understanding" of the whole.  Being able to say "I interpret the
+Nth clause..." where N is part of well-defined and easily calculated[*]
+infinite series is fine and sufficient to understand the "whole" agreement.
+
+[*] easily calculated, I could tell you instantly for this contract what
+the Nth clause of the text is, sufficient enough to interpret its full
+legal effect, even if N is a googol or a googolplex.  If e.g. it depended
+on the actual value of the googolith digit of pi, that's well-defined but
+not easily calculated, so wouldn't be available.
+
+3.  Therefore, the amendment of the contract to a fully defined process
+with well-defined and easily calculated (though infinite) clauses was
+fine.  I judge TRUE.
+
+4.  The only difficulty is how the Notary publishes the "full provisions"
+as per R2608.  But this is an orthogonal tracking issue, and it is likely
+an IRRELEVANT matter as the rules are written now. The Notary can't be
+punished for failing to do something impossible, and the report of
+contracts does not self-ratify[**] - publishing a good faith effort to
+describe the full contract (i.e. using the same standards for "fully
+available" above and publishing the generating instructions) is in keeping
+in standards of reporting should suffice - and by precedent, reports don't
+have to be perfect to be considered reports.
+
+[**] I think the promise section self-ratifies because promises are
+assets, but pledges and contracts aren't/don't.
+
+==========================================================================

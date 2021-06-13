@@ -7,6 +7,7 @@
 Caller:                        Gaelan
 
 Judge:                         Aris
+Judgement:                     PARADOXICAL
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by Gaelan:                                 25 May 2021 19:31:51
 Assigned to Aris:                                 28 May 2021 00:12:08
+Judged PARADOXICAL by Aris:                       05 Jun 2021 21:46:27
 
 ==========================================================================
 
@@ -34,5 +36,156 @@ Caller's Evidence:
 > wait, oops: I pledge to violate this pledge, with a time window of one day.
 >
 > Gaelan
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+Gaelan pledged "I pledge to violate this pledge,
+with a time window of one day." (Eir other pledge,
+which may or may not exist, is substantively equivalent
+for the purposes of this CFJ.) A day passed. Did Gaelan
+violate this pledge?
+
+There are two possibilities.
+
+1) Gaelan created a pledge that refers to itself,
+causing an infinite loop. In this case, the CFJ is
+PARADOXICAL.
+
+2) Gaelan's purported pledge does not properly specify
+actions to perform or refrain from performing, since
+determining the actions results in an infinite loop.
+In this case, the CFJ is DISMISS.
+
+Another way of looking at it is that this all depends
+on whether the action can have a parameter. In other
+words, can I pledge, for all Y "I pledge to take an
+action X, such that X accomplishes Y"? Can I never
+pledge this? Or can I only pledge this if it's clear
+what sort of X accomplishes Y? This is determinative
+because Gaelan's pledge can be translated to "I pledge
+to take an action X, such that X violates this pledge".
+
+I think it's clear that "I pledge to not violate the
+rules" is a valid pledge. We have a reasonably clear
+notion of what sorts of things violate the rules.
+I think it's equally clear that, as G. pointed out,
+"I pledge that the sun will rise tomorrow" is invalid,
+given that the sun rising is not an action taken by
+any Agoran (unless Helios happens to be a player).
+The question in this case is, would the
+pledge "I pledge not to do anything that would
+cause the sun not rise is valid" be valid?
+That's harder to figure out.
+
+"But Aris," you say, "you haven't looked at the
+text. Surely the text solves this problem and you're
+just making things more complicated than
+they need to be." Alright, let's look at the text.
+
+Rule 2450/10, "Pledges", says "If a consenting Player
+makes a clear public pledge (syn. Oath) to perform
+(or refrain from performing) certain actions, then
+breaking the pledge is ILLEGAL".
+
+One thing is certain: pledges must be clear.
+Unfortunately, this doesn't resolve the case. The
+relevant question is whether the "certain actions"
+must be clear. That is, do I need to know the
+specific actions that would violate the pledge,
+or merely the categories of actions that might.
+The text can be read either way. Textually,
+I would say that these interpretations are
+equally plausible.
+
+Can we resolve this problem through game custom?
+If we error trap anything that can cause a paradox,
+we will have no paradoxes. Does game custom
+say this is a good or a bad thing? The answer is
+unfortunately rather mixed. For many years,
+Agora had a way to win by paradox. In such a system,
+I would guess that  while people tried to prevent
+paradoxes, they would be tolerant of the notion that
+they might arise anyway. Then that win method
+was repealed. Agora went through a period where
+paradoxes didn't help anything, simply making
+the state of the game more confusing. In this
+period, judges avoided paradox wherever possible.
+Then, we reenacted wins by paradox. Now, it
+is culturally unclear whether paradoxes are to be
+avoided or embraced in judicial interpretation.
+
+However, there is one norm that is abundantly
+clear. Actions cannot be structured to be
+paradoxical in and of themselves: if an
+action is specified in a way that resolves
+to an infinite loop, it is not taken at all.
+For instance, "If this sentence is false, I..."
+doesn't work. When taken, an action must be
+fully and completely specified.
+
+One final point about game custom. While it is
+not necessarily the most persuasive factor,
+Agorans in general take a fairly
+math/logic/programming view of the game.
+In this view, allowing things to be defined
+parametrically seems natural. Nevertheless,
+I do not feel this is a strong enough basis
+that it determines the result of the case.
+
+If game custom does not resolve the matter, is
+there another guide? Let's look at the
+best interests of the game. At first,
+I avoided looking at the best interests
+of the game when conducting this analysis.
+After all, it seems fairly unclear whether
+allowing paradoxes to arise is in the best
+interests of the game. Are they fun or
+destructive? However, there is another way
+of applying the best interests of the game.
+It is indisputably in the best interests
+of the game for interpretation to be
+congruent with the spirit of the rules. If
+we assumed that all paradoxes were
+impossible, we wouldn't have a PARADOXICAL
+verdict or wins by paradox.
+
+Pledges aren't error trapped in the same way
+other things are. The action specified by a
+pledge isn't a final action being taken by a
+player, it's an abstract specification of what
+sorts of things a player is or isn't allowed
+to do. We do allow paradoxes when something
+isn't error trapped and an infinite loop can be
+created. Given all that, I conclude that pledges
+can be parametric and Gaelan's pledge was
+validly specified. This case is PARADOXICAL.
+
+I have some final notes. First, we need to
+resolve the cultural dissonance between
+a model that is built to accept paradoxes
+and one that is built to avoid them. Note
+that neither of these models suggest that
+we should go around legislating in a way
+that causes paradoxes. The question is
+more how high a standard judges should
+apply before deciding that things
+really are just paradoxical. Currently,
+Agora doesn't seem to have made up its mind,
+and that can't go on.
+
+I will also say that I am not at all convinced
+that this CFJ provides grounds for a win by
+paradox. Is this a "a CFJ about the
+effectiveness, possibility, or legality of a
+change in the gamestate"? I'd guess no,
+but that's a CFJ in itself.
+
+Finally, if you disagree with my ruling, feel
+free to discuss. I wouldn't mind if such a
+close case led to a moot (or even a
+reconsideration, if you can convince me I got
+this wrong).
 
 ==========================================================================

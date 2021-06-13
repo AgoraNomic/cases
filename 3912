@@ -1,0 +1,91 @@
+===============================  CFJ 3912  ===============================
+
+      The above pledge made by Gaelan has expired.
+
+==========================================================================
+
+Caller:                        ATMunn
+
+Judge:                         Jason
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ATMunn:                                 29 May 2021 00:28:49
+Assigned to Jason:                                06 Jun 2021 16:18:25
+Judged TRUE by Jason:                             07 Jun 2021 15:15:32
+
+==========================================================================
+
+Caller's Evidence:
+
+On 5/22/2021 8:44 PM, Gaelan Steele via agora-business wrote:
+> I pledge to violate this pledge, with a time window of one hour.
+>
+> (There has to be a paradox protection for pledges somewhere, right? Right???? But I can't find it, so let's find out)
+>
+> Gaelan
+> 
+
+
+Caller's Arguments:
+
+The rules for pledges state that the time window is "W days,"
+but nowhere does it say that W must be an integer. I think it is
+reasonable to say that the time window was set to 1/24th of a day.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+By application of the precedent in CFJ 3752 [0] (which found that the N
+for the class of Oathbreaking must be a number, even though it was not
+explicitly stated in the text), W must be a number. Having determined
+that, I find no explicit textual reason to diverge from the general rule
+in R2509 that "numbers" are real numbers by default, so 1/24 is a valid
+value for W, and the default of 60 days does not apply. The pledge
+expired 1 hour after it was made.
+
+Judged TRUE.
+
+
+Judge Jason's Evidence:
+
+[0]: https://faculty.washington.edu/kerim/nomic/cases/?3752
+
+
+Rule 2450/10 (Power=1.7)
+Pledges
+
+      If a consenting Player makes a clear public pledge (syn. Oath) to
+      perform (or refrain from performing) certain actions, then
+      breaking the pledge is ILLEGAL; doing so is the Class N crime of
+      Oathbreaking, where N is the value explicitly stated by the
+      pledge, or 2 if the pledge does not explicitly state a value.
+      Allowing a pledge to expire without carrying out an action one
+      pledged to do in it constitutes breaking the pledge.
+      
+      The time window of a pledge is W days, where W is the value
+      explicitly stated by the pledge, or 60 if the pledge does not
+      explicitly state a value. A pledge ceases to exist at the end of
+      its time window.
+      
+      If breaking the pledge harms specific other parties, the Referee
+      SHOULD solicit the opinion of those parties in determining an
+      appropriate fine.
+      
+      The Notary CAN destroy a pledge Without Objection, but SHOULD NOT
+      do so unless the pledge no longer serves any significant purpose.
+
+
+Rule 2509/2 (Power=2)
+Agoran Numbers [Excerpt]
+
+      A "number" is considered to refer to a real number, unless
+      otherwise explicitly specified.  A "number of (items)", where
+      (items) is a set of discrete entities, is considered to refer to a
+      non-negative integer, unless otherwise explicitly specified.
+
+==========================================================================

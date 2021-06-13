@@ -1,0 +1,67 @@
+===============================  CFJ 3911  ===============================
+
+      For the purposes of R2553, CFJ 3907 is about the effectiveness,
+      possibility, or legality of a change in the gamestate.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        Gaelan
+
+Judge:                         Murphy
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     05 Jun 2021 21:58:39
+Assigned to Murphy:                               06 Jun 2021 16:18:00
+Judged TRUE by Murphy:                            06 Jun 2021 20:46:44
+
+==========================================================================
+
+Caller's Evidence:
+
+https://faculty.washington.edu/kerim/nomic/cases/?3907
+
+
+Caller's Arguments:
+
+Gaelan wrote:
+> The fact that I violated the rules has a direct impact on the
+> effectiveness, legality, etc of our various criminal-justice
+> mechanisms, so I'd argue TRUE. If necessary, I would just call
+> another CFJ along the lines of "it's possible to give me blots
+> for violating that pledge".
+
+That answer's trivial - it's not possible, because you can't actually be
+blotted for an indeterminate crime:
+
+Rule 2531
+>     Any attempt to levy a fine pursuant to the imposition of the Cold
+>     Hand of Justice is INEFFECTIVE if:
+>       (1) it attempts to levy a fine on a person when that person
+>           can't be established by a preponderance of the evidence to
+>           have committed the action or inaction for which the fine was
+>           levied;
+
+This protection makes it irrelevant.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+It is about the possibility of Gaelan violating one of the pledges in
+question (which would itself be a change in the gamestate, separate from
+any possible punishment arising from it). In particular, Gaelan took at
+least one action within the first pledge's time window (namely
+publishing the second pledge).
+
+As usual for paradox wins, I believe that the rules should now be
+legislatively error-trapped to prevent arbitrary repetition of these
+actions, but a paradox win for the first instance is warranted.
+
+I judge TRUE.
+
+==========================================================================
