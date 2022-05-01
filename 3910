@@ -8,6 +8,7 @@
 Caller:                        Jason
 
 Judge:                         Gaelan
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Jason:                                  30 May 2021 15:16:21
 Assigned to Gaelan:                               06 Jun 2021 16:17:39
+Judged TRUE by Gaelan:                            16 Jun 2021 21:34:59
 
 ==========================================================================
 
@@ -56,5 +58,57 @@ paragraph" it is unclear how much whitespace exists at the end of each
 rule (does each rule end with a R2429 "significant" paragraph break?).
 Also, in this proposal, there is a space between the "Amend" command and
 the text - is that a significant paragraph break to insert?
+
+--------------------------------------------------------------------------
+
+Judge Gaelan's Arguments:
+
+Rule 2141/16 tells us that "a rule's content takes the form of a text".
+While you could define text as "a flat series of Unicode code points", in
+which case yes, the caller's arguments would be correct. But that's not the
+only argument, nor the one Agorans have traditionally used.
+
+Text, I find, has a rich structure consisting of paragraphs, bulleted lists,
+etc; this structure is communicated by its formatting. CFJs 3452, 3777,
+and 3778, and R2421/1, all seem to be coming from this viewpoint.
+
+So, what is the structure of the text we are appending? In this case, it's
+a paragraph. It's offset from the text above around it, and generally
+formatted as a distinct chunk. Therefore, we append it, as the paragraph
+that it is, to the end of the rule.
+
+Note that this doesn't override the text of the proposal: if a proposal
+formats some text as a paragraph, but provides more specific instructions
+for what to do with it, that still takes precedence, as we're no longer
+inserting text from the proposal verbatim, but following specific
+instructions to change the content and/or structure of the rule text. For
+example, these would not create new paragraphs:
+
+============================
+Amend Rule XYZ by replacing the text:
+
+  Llamas are an asset.
+
+With:
+
+  Alpacas are an asset.
+
+Append Rule XYZ by appending the following to the end of the last
+paragraph:
+
+  Rules to the contrary withstanding, a dead llama cannot be your
+  friend.
+============================
+
+In the first example, assume the sentence "Llamas are an asset" occurs
+in the middle of an existing paragraph in the rule. Although the
+text here is formatted as a paragraph, we're told to insert it in an
+existing position, replacing existing text that was not a paragraph.
+
+In the second example, the text is again formatted as a paragraph,
+but we have a specific instruction for what to do, so the structure
+of the text in the proposal is not relevant.
+
+I rule TRUE.
 
 ==========================================================================

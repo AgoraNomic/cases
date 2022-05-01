@@ -1,0 +1,138 @@
+===============================  CFJ 3929  ===============================
+
+      If a player breached a power-2 rule by missing a deadline right
+      now, punishing that breach would generally be appropriate.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         Jason
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 10 Sep 2021 21:36:37
+Assigned to R. Lee:                               17 Sep 2021 02:54:53
+R. Lee Recused:                                   19 Sep 2021 09:02:09
+Assigned to Jason:                                19 Sep 2021 09:02:09
+Judged TRUE by Jason:                             01 Oct 2021 16:07:34
+
+==========================================================================
+
+Caller's Evidence:
+
+Excerpt from R1769 (power 3):
+       If a person breaks a Rule by missing a deadline that occurs
+       during a Holiday, punishment is generally not appropriate.
+
+Excerpt from R2654 (power 1):
+        When the device is on:
+          * click - hummmmmmm
+          * The week that contains the beginning of Agora's Device,
+            together with the following week, is a Holiday.
+
+Excerpts from R2140 (power 3):
+       Rules to the contrary notwithstanding, no entity with power below
+       the power of this rule can
+[...]
+       3. set or modify any other substantive aspect of an instrument
+       with power greater than its own (that is, one that affects the
+       instrument's operation).
+
+The rules relevant to punishing rule violations (R2557, R2478, R2531)
+all have Power of at least 1.7.
+
+The Device is on.
+
+
+Caller's Arguments:
+
+Because the Device is on right now, and was created within the previous
+two weeks, R2654 attempts to create a Holiday. Does it have enough
+Power to a) do that, and/or b) cause the Holiday to actually do
+anything?
+
+Every rule that this could potentially be affecting has a Power greater
+than R2654 does. So I think it's plausible to read R2140 as preventing
+R2654 from modifying the operation of higher-power rules. The situation
+is far from clear, though, which is why I think this is worth a CFJ.
+
+--------------------------------------------------------------------------
+Judge Jason's Arguments:
+
+I find that the usage of "Holiday" in Rule 1769 ("Holidays") is
+consistent with the natural language definition of a period of time that
+is to be celebrated. The fact that it states that two time periods are
+Holidays is just stating that they are time periods that we celebrate in
+Agora. This means that a lower-powered Rule (such as R2654) can allow
+certain time periods to be Holidays by simply asking Agora to celebrate
+them.
+
+The next question is, does Rule 2654 do this, and does it do it in a way
+such that it would be a Holiday at the time of the calling of the CFJ? I
+find that the reasonable reading of "The week that contains that
+contains the beginning of Agora's Device" is the week that the Device
+switch was first created (so, when the Device rules were enacted).
+
+Since that week and the following week are Holidays, and Rule 1769 says
+that punishment is generally not appropriate during a Holiday, TRUE.
+
+I see nothing to suggest that this determination should depend on the
+power of the breached rule. The clause about punishment being
+inappropriate during Holidays is at Power 3. The fact that a Power 1
+rule can make a time period a Holiday does not itself conflict with the
+Power 2 rule.
+
+
+Judge Jason's Evidence:
+------------------------------------------------------------------------
+Rule 2140/5 (Power=3)
+Power Controls Mutability
+
+      Rules to the contrary notwithstanding, no entity with power below
+      the power of this rule can
+      
+      1. cause an entity to have power greater than its own.
+      
+      2. adjust the power of an instrument with power greater than its
+      own.
+      
+      3. set or modify any other substantive aspect of an instrument
+      with power greater than its own (that is, one that affects the
+      instrument's operation).
+
+------------------------------------------------------------------------
+Rule 217/12 (Power=3)
+Interpreting the Rules
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence. Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game.
+      
+      Definitions and prescriptions in the rules are only to be applied
+      using direct, forward reasoning; in particular, an absurdity that
+      can be concluded from the assumption that a statement about
+      rule-defined concepts is false does not constitute proof that it
+      is true. Definitions in lower-powered Rules do not overrule
+      common-sense interpretations or common definitions of terms in
+      higher-powered rules, but may constructively make reasonable
+      clarifications to those definitions. For this purpose, a
+      clarification is reasonable if and only if it adds detail without
+      changing the underlying general meaning of the term and without
+      causing the higher powered rule to be read in a way inconsistent
+      with its text.
+      
+      Rules to the contrary notwithstanding, any rule change that would
+      (1) prevent a person from initiating a formal process to resolve
+      matters of controversy, in the reasonable expectation that the
+      controversy will thereby be resolved; or (2) prevent a person from
+      causing formal reconsideration of any judicial determination that
+      e should be punished, is wholly void and without effect.
+
+------------------------------------------------------------------------
+
+==========================================================================

@@ -1,0 +1,152 @@
+===============================  CFJ 3936  ===============================
+
+      R. Lee is a Fugitive.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     21 Oct 2021 21:30:54
+Assigned to Murphy:                               26 Oct 2021 03:57:48
+Judged FALSE by Murphy:                           31 Oct 2021 18:48:26
+
+==========================================================================
+
+[linked to CFJ 3935]
+
+Caller's Arguments:
+
+Proposal 8617, which took effect recently, reads as follows:
+>> ID: 8617
+>> Title: Forgiveness
+>> Adoption index: 1.0
+>> Author: nix
+>> Co-authors: G.
+>>
+>>
+>> Agora formally forgives all fugitives listed on the most recent scroll
+>> of Agora.
+>>
+
+But there are 3 senses that the word "fugitive" has meaning in Agora.
+
+1.  Proposal 4867 (adopted August 2006) awarded a group of people the
+patent title Fugitive[1].  Evantine is an example of that [2].
+
+2.  People were "unofficially" added to the list in the Herald's scroll
+when they deregistered while under some kind of penalty, after the above
+set of patent titles was awarded.  However, on the scroll, the distinction
+between "patent title holder" and "unofficial added person" was lost over
+time.  Quazie is an example of that.
+
+3.  Rule 2555/10 currently defines "fugitive" as someone with one or more
+blots who is deregistered.  At the time that Proposal 8617 was adopted, R.
+Lee was an example of that.
+
+I'm assuming the "unofficial" additions to the fugitive list in the scroll
+like Quazie are at the discretion of the Herald to remove.
+
+For the first CFJ (on Evantine), Rule 649/44 secures Patent Titles as
+Power 1, so if Proposal 8617 had used language to explicitly revoke the
+fugitive patent title from all holders of the title, it would have
+succeeded.  So the question (on Evantine) is whether "formally forgives
+all fugitives listed on the most recent scroll of Agora" is a reasonable
+synonym for revoking the patent title Fugitive, especially when there's a
+different explicit definition of fugitive in the rules.
+
+A possible complication - when the scroll was ratified in October 2019[3],
+the scroll explicitly said that fugitive was an "unofficial designation".
+ This was likely incorrect immediately before ratification (some of them
+were patent titles), but did that ratify those away because they were
+explicitly ratified to be "unofficial" and therefore not patent titles?
+
+For the second CFJ (R. Lee), e was an explicitly rules-defined 2-Blot
+holding fugitive at the time Proposal 8617 was adopted, e was literally
+"listed on the most recent scroll of Agora" as a Champion, Badge-holder,
+etc., and "formal forgiveness" in the current ruleset is the expungement
+of blots, and that fits the common language definition of forgiving a
+punishment.  Did this expunge eir blots, causing em to cease being a fugitive?
+
+
+CALLER'S EVIDENCE
+
+[1] Excerpt from adoption message
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2006-August/002692.html
+----------------------------------------------------------------------
+Amend Rule 1505 (Standard Classes of Crimes and Infractions) to be
+called "Dishonor Rolls" and amend it to read:
+
+       When the Herald is ordered to place someone in the Chokey, e
+       shall publically award em the patent title "In the Chokey".
+
+       This title shall be automatically revoked after a length of time
+       indicated by the sentencing order, and the Herald shall announce
+       the revokation.  If a sentencing order is executed against a
+       defendant who already holds this title, the length of time of
+       the new sentencing order shall be added to the time left on any
+       previous ones.
+
+       A person is considered to be In Disgrace while in the Chokey,
+       between the execution and satisfaction of any sentencing orders
+       binding em, or if deregistered for lawlessness.  A person who
+       leaves the game in disgrace shall be awarded the Patent Title
+       Fugitive by the Herald.  A Player may revoke the title Fugitive
+       from emself as long as e is no longer in Disgrace.  A non-player
+       may have this title revoked by Agoran Consent.
+
+       The rules may further specify actions prohibited to persons in
+       particular types of disgrace.
+
+       The Herald is encouraged to publish lists of those in disgrace
+       separate from patent titles of honor, to indicate the disgrace.
+
+When this Proposal takes effect, all persons who were fugitives when
+this proposal was adopted are hereby awarded the patent title
+Fugitive.
+----------------------------------------------------------------------
+
+[2]
+https://faculty.washington.edu/kerim/nomic/cases/?1591
+https://faculty.washington.edu/kerim/nomic/cases/?1592
+https://faculty.washington.edu/kerim/nomic/cases/?1593
+
+[3]
+Ratification message:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2019-October/041613.html
+
+Referring to this scroll:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2019-September/013164.html
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+I interpret this situation as follows:
+
+   * "Fugitive" should be interpreted according to the current rules. Had
+     the proposal said "persons listed as fugitives", then a broader
+     interpretation would be appropriate.
+
+   * "Forgive", which doesn't appear in the rules, should nevertheless be
+     interpreted according to the current rules about the relevant
+     context (fugitives), thus as a synonym for expunging blots, but not
+     for removing Patent Titles or anything else.
+
+   * "Listed" should be interpreted literally, not inferring that they
+     must be listed /as/ fugitives.
+
+Thus, the effect of adopting Proposal 8617 was to expunge the blots of
+R. Lee (the only fugitive under the current definition of that term),
+causing em to cease to meet that definition.
+
+3935 (Evantine holds the patent title Fugitive): TRUE.
+3936 (R. Lee is a Fugitive): FALSE.
+
+==========================================================================

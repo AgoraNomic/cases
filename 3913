@@ -9,6 +9,7 @@
 Caller:                        ais523
 
 Judge:                         Jason
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -16,6 +17,7 @@ History:
 
 Called by ais523:                                 08 Jun 2021 14:42:00
 Assigned to Jason:                                13 Jun 2021 14:56:38
+Judged FALSE by Jason:                            20 Jun 2021 23:40:33
 
 ==========================================================================
 
@@ -89,5 +91,33 @@ Buy Strength despite the conflict resolution mechanism. In this case,
 it seems as though the third paragraph would be able to override the
 first paragraph, too, and allow players to increase their Voting
 Strengths without bounds.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+I find that Rule 2422/9's determination of voting strength is not
+contradictory, but rather underspecified. It is specified that the sole
+initial value is set before all other determinations, and that the
+clamping between 0 and 15 is applied after all other determinations.
+This leaves all rules-specified modifications, including the one
+specified in Rule 2422, to the value to happen in between those two
+determinations, in some order.
+
+Rule 2422 specifies that modifications in rules other than itself are
+applied in ascending numerical order by ID, but does not specify where
+its own modification falls in that sequence. I find no need to resolve
+where it is in the order, as there are only two voting strength
+modifications (blots and Buying Strength), and they are both additive,
+so the order in which they are applied does not affect the result.
+
+This resolves the suggested contradiction and means that neither clause
+is inoperative. A player with 3 blots can have their voting strength
+altered as a result of buying strength, but cannot have eir strength go
+above 15.
+
+CFJ 3913 judged FALSE.
+
+CFJ 3914 judged FALSE.
 
 ==========================================================================

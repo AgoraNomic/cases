@@ -1,0 +1,61 @@
+===============================  CFJ 3930  ===============================
+
+      Making a particular day a holiday is a regulated action.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        ais523
+
+Judge:                         Jason
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     12 Sep 2021 20:08:06
+Assigned to R. Lee:                               17 Sep 2021 02:57:16
+R. Lee Recused:                                   19 Sep 2021 09:02:09
+Assigned to Jason:                                19 Sep 2021 09:02:09
+Judged FALSE by Jason:                            01 Oct 2021 16:07:34
+
+==========================================================================
+
+Caller's Arguments:
+
+Arguments for FALSE:
+
+First, holiday is not defined by the rules.
+
+The only effects of making a day a holiday is (from R1769/15):
+       If a person breaks a Rule by missing a deadline that occurs during
+       a Holiday, punishment is generally not appropriate.
+
+And in (Rule 2125/13):
+       An action is regulated if: (1) the Rules limit, allow, enable, or
+       permit its performance; (2) the Rules describe the circumstances
+       under which the action would succeed or fail; or (3) the action
+       would, as part of its effect, modify information for which some
+       player is required to be a recordkeepor.
+
+The rules don't explicitly limit, allow, enable or permit the making of a
+day to be a holiday, so not (1).  The rules don't describe when making a
+holiday would succeed or fail (2).  What about (3)?  The only record
+involved would be the referee's punishment of blots, but that's after a
+finger-pointing.  At that point, the referee has freedom to ignore the
+holiday rule ("generally not appropriate" is a much weaker standard than
+the "blatantly and obviously unsuited" standard in R2531 that would change
+the outcome of the referee's free decision).  Overall the current
+punishment system is too indirect for those records to be considered "part
+of the effect" of a holiday being created.
+
+(Of course, saying that a holidaymaking is unregulated doesn't mean it can
+be done by announcement or anything like that).
+
+--------------------------------------------------------------------------
+Judge Jason's Arguments:
+
+Judged FALSE per caller.
+
+==========================================================================

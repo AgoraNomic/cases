@@ -1,0 +1,99 @@
+===============================  CFJ 3937  ===============================
+
+      Jason has wielded the Hot Potato stone.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 15 Nov 2021 14:31:00
+Assigned to G.:                                   16 Nov 2021 01:02:31
+Judged FALSE by G.:                               16 Nov 2021 15:52:33
+
+==========================================================================
+
+Caller's Evidence:
+
+On Mon, 2021-11-15 at 15:38 -0500, Jason Cobb via agora-business wrote:
+> On 11/15/21 15:36, Jason Cobb via agora-official wrote:
+>> I perform the following actions if and only if they all succeed:
+>>
+>> {
+>>
+>> I destroy 150 of Jason's coins.
+>>
+>> I cause the Hot Potato Stone to be transferred to Jason.
+>>
+>> }
+>
+> I wield the Hot Potato stone, transferring it to ais523 (since I
+> prevented eir wealth stone from being protected).
+>
+
+Excerpt from rule 2545 (power 2):
+      The rule that authorizes the auction further authorizes the
+      auctioneer or auction winners to transfer said items as necessary
+      to conduct the auction in a manner consistent with the auction
+      method.
+
+Excerpt from rule 2642 (power 2):
+      The Stonemason CAN initiate an auction for any set of stones
+      belonging to Agora for which an auction is not ongoing, with each
+      individual stone being an auction lot. The Stonemason is the
+      auctioneer, and the currency is coins.
+
+Excerpt from rule 2645 (power 2):
+      - Hot Potato Stone (Weekly, 100%):  When this stone is wielded,
+        the wielder gains 8 boatloads of coins if the wielder, in the
+        same message as the wielding, transfers this stone to a player
+        who has not owned this stone since Agora last owned it. This
+        stone cannot otherwise be transferred, other rules
+        notwithstanding.
+
+
+Caller's Arguments: 
+
+The transfer of the Hot Potato stone to Jason during the
+auction resolution was impossible. There's a contradiction between
+rules about whether the transfer is possible; rules 2545 and 2642
+attempt to make it possible, but rule 2645 attempts to make it
+impossible. Rule 2645 contains an "other rules notwithstanding", so by
+rule 1030, it wins the contradiction and prevents the transfer taking
+place.
+
+This is probably a bug (and I only just noticed it, or I'd have
+mentioned it earlier).
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+I agree in full with the caller's arguments as to the nontransferability
+of the Hot Potato Stone.  Furthermore, R2545 defines auctions as follows:
+
+>      An auction is a way for entities to give away specified assets
+>      (items), grouped into lots, in exchange for a currency. A lot is a
+>      non-empty list of items to be transferred to a single recipient
+>      (an auction winner).
+
+If another rule says "The Officer CAN initiate an auction with the lot
+being a nontransferable thing", that is not an auction by definition,
+because it is not enabling a method for giving away said assets, so it is
+not a "list of items to be transferred".  While R2642 is the same power as
+R2545, it does not explicitly claim precedence over the R2545 definition
+(e.g. by saying "can initiate an auction, in spite of other rules saying
+it's not an auction" or something) so it tries to use the definition of
+auction in a contradictory way, and the lower-numbered rule has precedence.
+
+Therefore, the Stonemason is not actually authorized to initiate an
+auction with the Hot Potato Stone as a lot, and no auction was initiated.
+FALSE.
+
+==========================================================================

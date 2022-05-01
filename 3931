@@ -1,0 +1,164 @@
+===============================  CFJ 3931  ===============================
+
+      In this message I have won the game.
+
+==========================================================================
+
+Caller:                        Cuddlebeam
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Cuddlebeam:                             13 Sep 2021 13:24:42
+Assigned to ais523:                               17 Sep 2021 02:59:10
+Judged FALSE by ais523:                           20 Sep 2021 01:36:32
+
+==========================================================================
+
+Caller's Evidence:
+
+On 2021-09-13 23:24, Cuddle Beam via agora-business wrote:
+> I create the following contract called "Anime Powers":
+>
+> -+-
+> An anime is an asset. It can be held by any person, and Cuddlebeam can
+> create one in his ownership by announcement. Cuddlebeam is the recordkeepor
+> of animes.
+>
+> The following list are the modifications to the transferral of animes:
+> - Animes CANNOT be transferred during the years 69, 420 or 8008135.
+> - When some natural number amount of animes are transferred, Cuddlebeam
+> wins the game of Agora nomic.
+> - When a person attempts to transfer no animes, Cuddlebeam wins the game of
+> Agora nomic.
+> -+-
+>
+> I create an anime in my ownership.
+> I transfer one anime from myself to Peter Suber.
+> I transfer no animes from myself to Peter Suber.
+
+
+Caller's Arguments:
+
+- Winning is regulated, and asset transfer is also regulated.
+- Asset transfer is regulated, and it seems like "An asset generally CAN be
+transferred (syn. given) by announcement by its owner to another entity,
+subject to modification by its backing document." allows you to 'inject'
+into the ruleset some text by indirect means. In fact, I can't transfer
+animes during the year 420; but that's not textually explicit in the
+ruleset, it's in the contract, but the ruleset is bound to what that
+contract says, because the ruleset itself says so.
+- So, regulated actions don't need to have their mechanisms entirely
+textually explicit in the rules themselves. (Many contract and promise
+regulated actions require this to be true.)
+- So, someone can win (a regulated action) without its method being just
+plainly spelt out into the Ruleset.
+- Back to "An asset generally CAN be transferred (syn. given) by
+announcement by its owner to another entity, subject to modification by its
+backing document.", there doesn't seem to be any limits (in regards to
+doing this, winning the game) to the scope of these modifications.
+- Winning Agora is regulated (it's tracked by the Rulekeepor), but we've
+already established that regulated actions don't need to have all of their
+mechanisms textually explicit in the Ruleset itself, that they can 'read'
+text from elsewhere and have that be as binding as the 'reading' mechanism
+allows - eg. promise rules, contract rules, Regulation rules, etc.
+- I also tried to use the "Attempts to transfer no assets are successful"
+clause if that's ever relevant somehow.
+- So yeah. I think I won.
+- I know for sure that the Judge is a very cool person. So cool in fact,
+that they will apply P1R217 in my favor, should it be required to be
+invoked.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+There are a few relevant questions surrounding this CFJ:
+a) What "subject to modification" means in rule 2577.
+b) Whether there were issues with Cuddlebeam's wording which prevent
+   the scam working, even if the relevant rules supported it.
+c) Whether there are precedence issues that prevent Cuddlebeam winning
+   even if the text injection was successful.
+
+Starting with b), because it gives a simple (if unsatisfying)
+resolution to the CFJ. Cuddlebeam phrased eir attempted modifications
+to the asset transfer action as "when". To me, this implies that the
+asset transfer goes through first, and then the contract attempts to
+cause something to happen as a consequence of that. I don't think that
+sufficient to count as a modification to the asset transfer action (in
+particular, if it failed, it wouldn't cause the transfer to fail, which
+implies that it's something separate rather than the whole). So I judge
+CFJ 3931 FALSE.
+
+Looking at point c) also brings us to the same conclusion. Rule 2449
+starts "When the Rules state that a person or persons win the game,"
+implying that only a Rule can make the statement that a player wins. We
+used to have an explicit rule that allowed players to win by proposal –
+wins as a consequence of a proposal passing wouldn't have been valid
+without that rule. It's since been repealed, and to win the game by
+proposal nowadays, you need to create a rule that gives you the win
+(rather than trying to have the proposal give you a win directly).
+
+This implies that any sort of ruletext injection that awarded wins
+would have to cause the rule itself to state that a player won the
+game. With a "subject to modification by a contract" clause, it's the
+*contract* that's stating that a player won the game. And because rule
+2140 bans a power-0 contract from setting or modifying any aspect of a 
+positive-power rule that affects its operation, there's no way for the
+contract to cause a rule to state that Cuddlebeam wins the game either.
+So, still FALSE.
+
+These are both unsatisfying lines of reasoning, though – although they
+let us answer the question asked in the CFJ, they don't solve the
+underlying problem of whether the underlying scam is workable (for,
+e.g., doing unsecured things). So let's look at point a) now; what do
+the rules mean when they say something "subject to modification by [a]
+backing document"?
+
+R2577 uses the phrasing "generally CAN … by announcement … subject to
+modification". By far the most sensible reading of the rule (which I
+think may be the only reading supported by the text, but even if
+not, it's surely the reading supported by game custom and common
+sense) is that the "subject to modification" applies to the "generally
+CAN … by announcement"; in other words, this is something you can
+normally do by announcement, but that can be modified, and the "that"
+here seems to be the "you can do it by announcement". So in other
+words, the modifications suggested by the rules are modifications to
+the mechanism via which the destruction or transfer happens.
+
+Even if the text of the rules is considered to be "silent" or "unclear"
+on the matter, and I'm not sure they are, R217 is in agreement with my
+interpretation of what the text says. Game custom is definitely on its
+side; the modifications that we typically see in practice are things
+like "you can't do this" or "you can do this by paying a fee" or "you
+can do this without objection", etc.. The best interests of the game,
+and common sense, also suggest that the modifications should be things
+that the backing document "can do anyway"; preventing an asset being
+transferred is effectively the same as automatically moving it back,
+and preventing it being destroyed is effectively the same as recreating
+it.
+
+Also potentially relevant, but pointing to the same conclusion, is
+R2166: "An asset's backing document can generally specify when and how
+that asset is created, destroyed, and transferred". "When and how"
+sounds a lot like "the backing document controls the mechanism, but doesn't 
+have influence over the effects on other parts of the gamestate when the 
+mechanism is successfully used".
+
+And of course, if what the backing document controls is the mechanism,
+this means that you can't leverage it into winning the game as a
+consequence of a successful transfer. "Attempts to transfer no assets
+are successful"; but that doesn't mean you get to choose what those
+attempts do (they simply just transfer no assets, it says that right in
+the rule). It just means that a contract gets to choose what counts as
+an attempt to transfer none of its assets, and what doesn't.
+
+Anyway, this CFJ is FALSE, as I judged earlier in the message; there
+are three grounds on which the win could reasonably have failed, and it
+in fact failed on all three of them.
+
+==========================================================================

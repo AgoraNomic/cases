@@ -1,0 +1,96 @@
+===============================  CFJ 3934  ===============================
+
+      Falsifian gained White Glitter.
+
+==========================================================================
+
+Caller:                        R. Lee
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by R. Lee:                                 08 Oct 2021 16:09:00
+Assigned to ais523:                               26 Oct 2021 03:49:45
+Judged FALSE by ais523:                           28 Oct 2021 20:59:08
+
+==========================================================================
+
+Gratuitous Arguments by Falsifian:
+
+On Fri, Oct 8, 2021 at 12:03 PM Falsifian wrote:
+>
+> I award myself White Glitter.
+>
+
+Note: I do not own a White Ribbon, but R2602 might not actually require
+me to own the ribbon:
+
+    If a player has not been awarded that type of Ribbon or e
+    corresponding type of Glitter since e last earned or came to
+    qualify for that type of Ribbon, and has not been so awarded five
+    or more times within the past 24 hours, any player CAN award em
+    that type of Glitter by announcement.
+
+I certainly did not "qualify" for White Glitter, since that requires
+owning a White Ribbon, but the above text doesn't talk about
+qualifying for a type of Glitter.
+
+I think I successfully awarded myself White Glitter. I think theonly
+question is whether I've "gained" White Glitter, since only then CAN
+and SHALL the Tailor reward me:
+
+    When a player gains a type of Glitter, the Tailor SHALL ...
+
+Thanks to nix on IRC/Discord for the idea of White Glitter. I think the
+same should apply for any other kind of ribbon: if this works, you can
+always get glitter before your first ribbon.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+The Glitter rule is badly worded, but CFJ 3926 found that "gain" is a
+synonym for "be awarded" in this context, and I have no reason to
+disagree with its conclusions.
+
+However, the relevant part of rule 2602 is:
+      A player qualifies for a type of Glitter when e
+      qualifies for the same type of Ribbon while already owning such a
+      Ribbon. If a player has not been awarded that type of Ribbon or e
+      corresponding type of Glitter since e last earned or came to
+      qualify for that type of Ribbon, and has not been so awarded five
+      or more times within the past 24 hours, any player CAN award em
+      that type of Glitter by announcement.
+
+The caller cited only the second sentence here, but because it says
+"that type of Ribbon", the second sentence can't be read on its own;
+you need to look at the previous sentence to make sense of it. So in
+order to gain (or be awarded) Glitter, you need to qualify for a Ribbon
+while already owning the Ribbon, and to not have gained Glitter since
+you last earned or came to qualify for it (nor to have been awarded
+Glitter five or more times in a day). So qualifying for a type of
+Glitter isn't directly required by the rule, but meeting the conditions
+to qualify for a type of Glitter is required in order for the second
+sentence quoted above to apply at all (due to the use of "that"), and
+so the requirements to qualify for Glitter are also part of the
+requirements to be awarded it.
+
+"Qualifies for a type of ribbon" is defined in rule 2438, as having
+earned that Ribbon within the previous 7 days (there are also special-
+case ways to qualify for specific types of Ribbon, beyond earning
+them). Every Ribbon type except Gray has some condition under which you
+can earn it, and/or some special way to qualify for it, so the rule
+seems to make sense for allocating all the various types of Glitter
+(apart from Gray, which also makes sense, given how the Ribbon in
+question is awarded).
+
+The consequence here is that it's impossible to gain / be awarded
+Glitter, unless you already have the Ribbon of the given type.
+
+I judge CFJ 3934 FALSE.
+
+==========================================================================

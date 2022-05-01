@@ -1,0 +1,170 @@
+===============================  CFJ 3927  ===============================
+
+      If the above-quoted message had explicitly listed the types of
+      stones that exist (and otherwise contained the same information),
+      then despite the disclaimer, it would have been self-ratifying.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         Telna
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 04 Sep 2021 05:42:42
+Assigned to Telna:                                04 Sep 2021 09:52:42
+Judged DISMISS by Telna:                          05 Sep 2021 05:16:55
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sat, 2021-09-04 at 01:23 -0400, Jason Cobb via agora-official wrote:
+> I hereby publish the following collection notice (NOT a self-
+> ratifying stone report):
+>
+> All stones are owned by Agora, and are thus immune. No escape choices
+> are necessary.
+
+
+Caller's Arguments:
+
+Most triggers for self-ratification in the rules require the
+thing that self-ratifies to purport to be something, e.g. a Ribbons
+report self-ratifies only if it's purporting to be a Ribbons report.
+However, assets are a separate case; rule 2166 states that the
+recordkeepor's report lists all instances of the class of assets and
+their owners, and that portion of the report is self-ratifying. In
+other words, the trigger is whether something *is* an asset report, not
+whether it *purports to be* one.
+
+The Stonemason's only weekly duty, as far as I can tell, is to be "the
+recordkeepor of stones". As such, I think any listing, published by the
+Stonemason, of what stones exist and who their owners are is a
+Stonemason weekly report by definition, even if it claims not to be.
+(Specifically, I think the hypothetical collection notice posited by
+the CFJ would be sufficient to satisfy the requirement in rule 2143 to
+perform the officekeepor's weekly duties.)
+
+As a side note: the actual message did not list what stones existed,
+which I think is sufficient to make it not count as a weekly report; I
+can't find anything in the rules that requires all the defined stones
+to exist (they're indestructible but nothing forces them to have been
+created in the first place). So this means, sadly, that I have to put a
+hypothetical in the statement to prevent the CFJ ending up with an
+obvious result on a technicality.
+
+--------------------------------------------------------------------------
+Judge Telna's Arguments:
+
+The basis for this CFJ is that asset self-ratification is currently 
+bugged. While all other cases of self-ratification in the ruleset apply 
+to "a public document that purports to be a report", asset 
+self-ratification instead simply applies to "a report". This 
+(unintentional) difference leads to a number of problems. The first is 
+that it maybe be possible for something to unintentionally be an asset 
+report, and thus self-ratify by mistake. In this hypothetical instance, 
+the CFJ posits that a list of all stones would self-ratify despite the 
+document claiming to not be a self-ratifying report.
+
+The core problem is therefore: Is it possible for a report to not 
+purport to be a report?
+
+While the Rules place a few constraints on what a report (or part of a 
+report) can be, they infamously refuse to define what exactly a report 
+is. This leaves the matter to be resolved by precedent and game custom. 
+However, the precedent on this question is mixed and unclear:
+  - In CFJ 3645, the caller argues that "A report occurs when an officer 
+publishes certain information, whether they want it to or not." and "I'm 
+inclined to think that the disclaimer is ineffective". These arguments 
+were then accepted by the judge without further analysis.
+  - In CFJ 3792, the judge (while discussing how self-ratification is 
+intended to work) claims that "The important thing here is that, to 
+publish a report, the Rules don't require the Officer to display intent, 
+e.g. to say "I hereby publish the following report" as they would if 
+they were publishing a report "by announcement".  Rather, the rules 
+require that the person simply "publish all the information"." The judge 
+then goes on to argue that an explicit purportation is still required, 
+but relies upon the intended form of self-ratification when making this 
+claim.
+  - In CFJ 3798, the judge discusses a strict list of requirements in 
+order for a part of a report to qualify as such. This includes "Each 
+part must purport to contain the full set of information that is 
+rules-defined as being that portion of the report". Note that this is 
+not the same thing as a document purporting to be a report, but instead 
+that the document must purport to contain the information that a part of 
+a report would necessarily include.
+
+How do we interpret these precedents? Nothing seems to dispute that a 
+disclaimer is not enough to prevent a public document from being a 
+report if that document contains all the information required to be in 
+that report. So, what information is required to be in the Stonemason's 
+report? Rule 2166 "Assets" has the answer.
+"The recordkeepor of a class of assets is the entity (if any) defined as 
+such by, and bound by, its backing document. That entity's report 
+includes a list of all instances of that class and their owners. This 
+portion of that entity's report is self-ratifying."
+Put simply, the required information is a list of all assets of that 
+class (in this case, all stones) and their owners. That would appear to 
+be enough to resolve this case in the affirmative, but there is one more 
+problem.
+
+How do we tell the difference between a list of stones and a list of all 
+stones? Only the latter qualifies to be part of a report.
+
+The first thing to be made clear is that it is the recordkeepor's job, 
+and no one else's, to make this distinction. Why should Agora be 
+expected to duplicate the recordkeepor's work in order to platonically 
+determine whether or not their list of assets is a list of all such 
+assets? If it is not clear from the document itself that the list 
+contains all required information, then it doesn't. So let's look at 
+game custom - how do current asset reports that are commonly agreed to 
+be reports handle this?
+
+- The Referee and Treasuror's reports contains lists headed by "BLOT 
+HOLDINGS" and "ASSET HOLDINGS" respectively. As these offices track 
+fungible assets, they list each player (and other assetholder) and then 
+how many of each relevant asset that player holds. In this way, by 
+listing each possible owner and their holdings the report makes it clear 
+that all required assets are contained within.
+- The Notary's report gives a list of promises, headed by the line "The 
+following N promises exist". This does not appear to claim to be a list 
+of all promises, and yet we accept it as one anyway.
+- The Stonemason's (intended) report gives a list of stones with no 
+header. This also does not appear to claim to be a list of all stones, 
+and yet we again accept it as one anyway.
+
+For the Notary and Stonemason, clearly something else in the report is 
+what provides the additional information that the list is a list of all 
+relevant assets. That "something else" can only be one thing - the 
+header at the top purporting that the report is a report. This header 
+brings with it the implication that the information contained within the 
+document fulfills the requirement to be a report: that the lists of 
+promises and stones are in fact lists of all promises and stones.
+
+The answer to our core problem is as follows: It *is* possible for a 
+report to not purport to be a report. However, such a document must be 
+*completely* explicit about what information it contains in order to 
+qualify as a report. A simple list of stones on its own does not 
+qualify, even if it happens to be a list of all stones - it must 
+explicitly claim to be a list of all stones or Agora cannot be expected 
+to assume it is one. Reports that purport to be reports imply through 
+their purportation that the information carried in each part of the 
+report is in fact the required information for that part of the report 
+to qualify as such.
+
+The document that this CFJ is about does not purport to be a report - in 
+fact, it explicitly purports not to be one. This means that we cannot 
+assume that a list of stones contained within is in fact a list of all 
+stones. Can we get this information from elsewhere in the document? 
+Well... we do not know. This CFJ is a hypothetical, and the document 
+being posited does not exist in reality. Without being able to view its 
+exact form, we cannot know whether the list of all stones would purport 
+to be a list of all stones. This results in the case being ultimately 
+undecidable. Accordingly, I see no other choice but to DISMISS.
+
+==========================================================================

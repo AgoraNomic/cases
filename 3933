@@ -1,0 +1,105 @@
+===============================  CFJ 3933  ===============================
+
+      The Device is off.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 06 Oct 2021 11:41:35
+Assigned to G.:                                   07 Oct 2021 03:59:15
+Judged TRUE by G.:                                07 Oct 2021 04:13:03
+
+==========================================================================
+
+Caller's Evidence: 
+
+On 2021-10-06 22:41, ais523 via agora-business wrote:
+> I act on behalf of the Device to cause em to deactivate emself.
+
+- the fact that the Device was on prior to [the above] message
+
+Excerpt from rule 2654:
+       When the device is on:
+       [...]
+       A Device CAN activate or deactivate emself by announcement.
+
+Excerpt from rule 2655:
+       The Mad Engineer CAN act on behalf of the device to take any
+       action that the device may take, and SHALL act on behalf of the
+       device to ensure that the device fulfills all of its duties.
+
+Excerpt from rule 2646:
+       Activity is a player switch tracked by the Registrar, with values
+       Active (default) and Inactive.  To flip a player's activity to
+       active (inactive) is to activate (deactivate) em.
+
+Excerpt from rule 2466:
+       When a rule allows one person (the agent) to act on behalf of
+       another (the principal) to perform an action, that agent CAN
+       perform the action if it is POSSIBLE for the principal to do so,
+       taking into account any prerequisites for the action.
+       [...]
+       Allowing a person to act on behalf of another person is secured
+       at power 2.0.
+
+
+Caller's Arguments:
+
+There are two issues here, related to the fact that the Device is a
+switch, not a player or a person.
+
+The first is: what happens when you act on behalf of a non-person
+object? Our current "act on behalf" rules cover only the case of a
+person acting on behalf of another person, and this is an attempt to
+act on behalf of something else. However, a power-1 rule states that
+this attempt is possible (with a CAN), and no higher-power rule seems
+to prevent the attempt (acting-on-behalf is secured at power 2 but only
+when acting on behalf of a person). So I conclude that the attempt to
+do this necessarily works (in the sense of it being a possible action),
+but am not sure what effect that action would have if performed (if
+indeed it does anything at all).
+
+The second is: assuming the act-on-behalf works similarly to acting on
+behalf of a person, what does it mean for the Device to deactivate
+emself? Rule 2646 gives us a definition of "deactivate" in the context
+of Agora, but the definition is specific to players. Does this mean
+that we should fall back to the normal English meaning of "deactivate"
+when the ruleset applies the rules to other sorts of objects? If so,
+how does that meaning apply to Agoran switches?
+
+The device has two possible states, "on" and "off". It seems pretty
+plausible that "deactivate" is a synonym for "turn off". On the other
+hand, it seems a bit weird to describe the act of turning off a switch
+as deactivating the *switch*; normally the word would be used to
+describe the act of turning off the switch as deactivating whatever it
+is that the switch controls. (Although I can see a pretty plausible
+argument that Agora's Device is a switch that controls itself! Or
+possibly, it's a switch that controls rule 2654.)
+}}}}
+
+I know that we've been talking about the Device as "this is inevitably
+going to become a player at some point and Agora can't be stopped from
+making it happening", but the Device being a non-player has created
+some interesting gameplay too.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The Caller has laid it out well; the use of the term "deactivate" in the
+context of the activity switch does not turn "deactivate" itself into a
+term of art unique to that switch.  Applying the common definition of
+"dactivate" to "turn off" in the context of the device makes sense when
+used in *that* context.  I have nothing to add to the caller's arguments
+concerning "on behalf", it seems like a perfectly clear chain of
+rules-based CANs leading to the action succeeding.  I judge TRUE.
+
+==========================================================================

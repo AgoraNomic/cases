@@ -1,0 +1,331 @@
+===============================  CFJ 3923  ===============================
+
+      The quoted message is a distribution message as outlined in
+      Regulation AM0.
+
+==========================================================================
+
+Caller:                        Trigon
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Trigon:                                 06 Aug 2021 22:24:15
+Assigned to G.:                                   09 Aug 2021 01:44:10
+Judged FALSE by G.:                               09 Aug 2021 19:00:38
+
+==========================================================================
+
+Caller's Evidence:
+
+On 06/08/2021 21:38, Trigon via agora-official wrote:
+> The Retrieval Period of the Second Victory Auction of Jun 2021 having
+> ended at 13:07:41 on 6 August 2021, I hereby bring an end to this
+> auction.
+>
+> ====================
+> BIDS ON THIS AUCTION
+> ====================
+>
+> -- FOR THE WIN CARD --
+>
+> [2021-07-21 05:38:48]     Trigon     400cn
+> [2021-07-21 06:12:45]     R. Lee     500cn
+> [2021-07-23 00:53:00]     Falsifian  700cn
+> [2021-07-23 00:56:16]     Trigon     800cn
+> [2021-07-23 23:57:57] *** G.         ( 2^(82,589,933) − 1 )cn
+> [2021-07-24 16:49:34] *** G.         (withdrawal)
+> [2021-07-27 14:29:49]     Falsifian 1111cn
+> [2021-07-30 02:28:28] (3) Trigon    1200cn
+> [2021-07-30 05:04:57] (2) R. Lee    1500cn
+> [2021-07-30 12:39:17] (1) Falsifian 1717cn
+> [2021-07-30 13:07:41] (4) D. Wet      22cn
+>
+> -- FOR THE JUSTICE CARD --
+>
+> [2021-07-21 06:12:45] (2) R. Lee       1cn
+> [2021-07-23 00:56:16] (1) Trigon      50cn
+>
+> Bids marked with numbers in parenthesis are active bids.
+> Bids marked with asterisks are bids from withdrawn players.
+>
+> ============
+> DISTRIBUTION
+> ============
+>
+> Falsifian wins the first lot for 1717cn.
+> Trigon wins the second lot for 50cn.
+>
+> No other lots exist.
+>
+> If all of the following succeed I do them:
+> { I revoke from Falsifian 1717cn. I grant em one victory card. }
+>
+> If all of the following succeed I do them:
+> { I revoke from Trigon 628cn. I grant em one justice card. }
+>
+
+
+Caller's Arguments: 
+
+This may not be a distribution message because of a textual 
+error: I intended to award myself a new justice card for a price 578 
+coins greater that what I bid on it. What, if anything, did this message 
+do? Did it fail as it did not meet the criteria for a distribution 
+message? Did the distribution message succeed and I just violated the 
+"SHALL destroy and transfer" bit?
+
+Ambiguous quoted text:
+
+> Trigon wins the second lot for 50cn.
+...
+> If all of the following succeed I do them:
+> { I revoke from Trigon 628cn. I grant em one justice card. }
+
+Relevant part of AM0:
+
+       DISTRIBUTION: The auctioneer for an auction CAN and SHALL, within
+       seven days of the ending of that auction's retrieval period,
+       create a public message (henceforth the "distribution message")
+       that contains a full history of bids on the auction and
+       withdrawals from the auction. It must also clearly indicate each
+       awardee and the lot e recieves. In this message, the auctioneer
+       CAN and SHALL destroy the amount to be paid from the inventory
+       each awardee and transfer to that player (or create in eir
+       possession if the item is new) the set of assets associated with
+       the lot e won. Failing to publish a distribution message
+       constitutes the Class 3 Crime of Auction Abandonment.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The interpretations in this judgement are made in keeping with this part
+of Rule 2545/5:
+
+>                                     To further aid trade and commerce,
+>      auction methods should be interpreted in the name of fairness with
+>      deference to the method's clear intent, if intent can be
+>      reasonably inferred.
+
+Importantly, fairness etc. is a *requirement* for any auction to happen:
+
+>     e CAN do so by any wholly public method that would be
+>     generally recognizable, as specified by the auctioneer at the
+>     start of the auction, and under common definitions and terms used
+>     in auctions, as a fair, equitable, and timely means of determining
+>     the auction winners from among the current players, and enabling
+>     the appropriate exchange of goods.
+
+That is, if the method is found to be unfair, inequitable, or untimely, or
+doesn't enable the appropriate exchange of goods, the whole auction fails
+(because the auctioneer CANNOT conduct an auction in such a manner), even
+if that unfair method is written into a regulation.
+
+It is clear, from the presented evidence, that the *intent* of the
+regulations used for the initiation and bidding is that the bidding has
+determined that:
+
+- Falsifian won the first lot (a new victory card) for 1717cn.
+- Trigon won the second lot (a justice card owned by LF&D) for 50cn.
+- "Funded" regs ensure that the winners CAN pay for these lots.
+
+Any auction resolution that, after bidding has concluded, allows the fees
+to differ from these bids, prevents these exchanges from being made, or
+allows a payment or lot award to happen twice, would not be enabling the
+"appropriate" exchange of goods.  So if the regulations end up supporting
+such incorrect actions (multiple exchanges for the same lot, no exchanges,
+exchanges for the incorrect amount), than the interpretation is that no
+auction happened at all, because the auctioneer COULD NOT have started it.
+
+Further, in the name of "fairness", it's fairly clear to me that,
+following our general Agoran practices for fee-based actions, and also
+general practices of debt and consent, that a failed attempt at exchange
+(e.g. the auctioneer exchanging the wrong amount or lot) is generally
+intended to fail entirely and atomically, like a fee does - even if, in
+this case, the auctioneer could make one of the incorrect transfers on eir
+own behalf, as authorized by general asset transfer rules.  And further,
+to aid trade and commerce, that such a failure would be correctable (i.e.
+it wouldn't result in the auction being unresolvable).
+
+One thing that's *unclear* is for multiple lot auctions: if one lot
+exchange message is in error, is it "fairer" to have all the lot awards
+fail (definitely cleaner overall), or fairer to not hold up the bidders
+who got the correct lot for the correct price?  Not sure about regulation
+intent and/or fairness there, there's arguments to make on both sides for
+what's "fairest".  So that requires a stricter reading of the regulation
+text and exact mechanism.
+
+Taking it in parts:
+
+On 8/8/2021 6:44 PM, Telna via agora-official wrote:
+>> Relevant part of AM0:
+>>
+>>      DISTRIBUTION: The auctioneer for an auction CAN and SHALL, within
+>>      seven days of the ending of that auction's retrieval period,
+>>      create a public message (henceforth the "distribution message")
+>>      that contains a full history of bids on the auction and
+>>      withdrawals from the auction. It must also clearly indicate each
+>>      awardee and the lot e recieves.
+
+This, on its own, gives the full description of what makes a "distribution
+message" (I'm interpreting the lowercase 'must' in the last sentence as a
+requirement needed to make it a distribution message, not a SHALL).
+
+The regulation makes the "CAN and SHALL" associated with the actual
+exchange a second part of the message - but importantly, it's a separate
+requirement from the requirement to publish a distribution message, and
+separate from the definition of "distribution message":
+
+>>      In this message, the auctioneer
+>>      CAN and SHALL destroy the amount to be paid from the inventory
+>>      each awardee and transfer to that player (or create in eir
+>>      possession if the item is new) the set of assets associated with
+>>      the lot e won. Failing to publish a distribution message
+>>      constitutes the Class 3 Crime of Auction Abandonment.
+
+So the first thing to notice is that "in this message, the auctioneer CAN
+and SHALL" doesn't have a "by announcement".  Now, saying "in a [public]
+message, the auctioneer CAN...", when read in light of the special auction
+interpretation rules for intent, it's very reasonable to infer that e can
+do so by saying so within the message.  However, also importantly, it's
+missing some of the by-announcement strictures for how it has to be said,
+so some flexibility in expression may be inferred.
+
+Also notice it's a separate CAN and SHALL from the distribution message
+CAN and SHALL.   Moreover, note it's a single CAN and SHALL.  "CAN and
+SHALL ... each" can be read as being a single action covering everybody.
+There's no suggestion that it implies a whole process of actions of the
+kind restricted to players "first I transfer the coins of the first
+person, then I give them their lot, only after that do I transfer the
+coins of the second person..."  And importantly, there's no suggestion
+that e violates 4 SHALLs for making a mistake in a 2-lot auction (i.e. one
+violation for each half of each exchange).
+
+With this in mind, take the grammatical structure:
+>      the auctioneer CAN ... destroy ... and transfer ...
+
+A typical Agoran rules interpretation might find that the CAN is
+distributive, to "CAN destroy and CAN transfer".  However, allowing one of
+those parts to succeed if the other fails means the auction is no longer
+an "exchange".  Since "exchange" is a core auction concept, I find that
+"CAN destroy and transfer" is an atomic action respect to each awardee,
+similar to fees, and that level of atomicity is required for any auction
+method to be called an exchange.
+
+But what about the "each awardee" part?  Is it one atomic action per
+awardee, or one atomic action for the whole auction?
+
+First of all, that level of atomicity is not fundamental to "exchange" -
+the previous system of allowing winners to pay individually at different
+times was perfectly fair.  So that's not core or fundamental to auctions.
+ So under the current regulations specifically, let's see what happens if
+it's treated as per-player and separable, when an error occurs:
+
+First, Falsifian's award would succeed - it's correct and within a
+distribution message.  But the auctioneer would be penalized for breaking
+the SHALL with respect to Trigon, since that exchange failed.  To fix
+that, the auctioneer would have to post a *second* distribution message,
+because the transfers have to happen within a distribution message.  But
+that second distribution would leave out Falsifian by necessity, so the
+auctioneer would break a second SHALL setting things right (because every
+distribution message has to cover *each* awardee).  Or if it doesn't leave
+out Falsifian, that means Falsifian might get awarded twice - which
+completely violates fair exchanges.  Or the auctioneer could even say "hey
+I posted a distribution message and took a penalty for getting it wrong
+the first time - I don't actually have to make the second award at all,
+there's no remaining SHALL that says I need to".
+
+That's a big mess, and leaves several ways that "fairness" could be
+broken, if interpreted that way.  Thus interpreting this particular text
+as enabling separable per-awardee exchanges might invalidate the fairness
+doctrine of the auction as a whole, any time errors occur.  So I find that
+performing the full set of exchanges within a distribution message is a
+single, atomic action (with the exchanges being simultaneous, if it
+matters).
+
+As an atomic action, it could just as easily be accomplished like this,
+without writing out any steps:
+
+> Falsifian wins the first lot (a new victory card) for 1717cn.
+> Trigon wins the second lot (a justice card owned by LF&D) for 50cn.
+>
+> This message serves to make the appropriate exchanges indicated above.
+
+Further,  we have interpretative flexibility.  Even if the auctioneer
+lists out individual steps, in a way that implies a sequence, it's still
+an atomic action resulting from a single message (if e goes out of eir way
+to make it happen in steps - e.g. inserts unrelated actions between the
+parts of the transfer, or leaving out any notion of transfer whatsoever -
+it departs from the actual CAN allowed to em and just fails).
+
+However, if the transfer steps are specified in greater detail, but one of
+the elements is *incorrect*, it would have a different effect.  To see
+why, here is part of the message itself:
+
+> Falsifian wins the first lot for 1717cn.
+> Trigon wins the second lot for 50cn.
+>
+> No other lots exist.
+>
+> If all of the following succeed I do them:
+> { I revoke from Falsifian 1717cn. I grant em one victory card. }
+>
+> If all of the following succeed I do them:
+> { I revoke from Trigon 628cn. I grant em one justice card. }
+
+The actual message is deficient in two respects.  First, it needs to
+distinguish between new lots, and lots belonging to others (the LF&D).
+The auction initiation contained this, but the resolution message did not.
+ Second, for Trigon, there is a contradiction between the bid result
+(50cn) and the paid amount (628cn).
+
+Not specifying the lot source (LF&D versus new) fails to identify each
+lot.  Further, the fact that the price is listed as two amounts throws the
+whole distribution message into question.  Even though a first inspection
+tells us "oh just the final transfer price is wrong" we could just as
+easily think "Trigon forgot a bid of 628 coins in the upper history part,
+so it's the 628 that's correct".  We're not directly told what type of
+auction this is in this particular message, so an error in one lot may
+propagate to other lots, etc.
+
+So, this message, as a whole, did not "clearly indicate each awardee and
+the lot e receives".  Rather than being a distribution message that's
+missing some parts, it was missing critical information, so wasn't a
+distribution message at all.
+
+FALSE.
+
+Some final point to make:
+
+- If the message isn't a distribution
+message, it would be possible to read the "I revoke from Trigon 628 coins"
+as a typical by-announcement thing that Trigon CAN do as a player.
+However, by-announcement actions require setting forth intent to perform
+that action.  As discussed above, the auction exchange is a single
+atomic act that differs from the by-announcement action, so the intent
+expressed was not an intent to transfer coins by announcement.
+
+- This interpretation does allow for multiple "distribution messages" for
+a single auction.  An important part of the "intent" interpretation that a
+wholly correct distribution message ends the auction, so no further awards
+are possible.  This isn't actually stated in the current regs, but is well
+within the common definition of an auction and the notion of an exchange -
+if it isn't inferable for a particular auction method, the "fair
+exchange" part of that auction is broken and the auction would wholly fail
+to be initiated.
+
+- This CFJ deals with what happens if an auctioneer's distribution
+message is wrong.  There's a different point of failure though - if a
+winner puts all eir coins in a contract between the end of the retrieval
+period and the auctioneer's otherwise-correct distribution message, that
+seems like a "different kind" of failure that might be per-winner, not
+per-auction.  And for this kind of failure, it would be "appropriate" as
+to the exchange of goods for it to fail while the other transfers succeed.
+ But overall I dunno, that's a cfj for another day.
+
+==========================================================================

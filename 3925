@@ -1,0 +1,97 @@
+===============================  CFJ 3925  ===============================
+
+      If a Mad Scientist announces a random selection for a rule for a
+      specified future week, and the ruleset doesn't change, e both can,
+      and needs to, use that pick to fulfill eir weekly duties.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     31 Aug 2021 14:43:34
+Assigned to ais523:                               01 Sep 2021 01:46:27
+Judged FALSE by ais523:                           01 Sep 2021 03:58:51
+
+==========================================================================
+
+Caller's Arguments:
+
+For the "can" part of the cfj, Rule 2655 reads in part:
+
+       The Mad Engineer's weekly duties include the performance of the
+       following tasks, in order:
+
+       a) Randomly select exactly one rule.
+
+Now, we've generally accepted that random picks can be separate from
+action emails (e.g. use a dice server to get a confirmably random number,
+in a follow-up email perform the action that uses that number).  But what
+if there's weeks of ahead-warning for what the pick will be?  Are random
+picks well in advance on the dependent action still random, once published?
+
+The counterargument is that "weekly duties...randomly select" means that
+the random result can't be known to anyone (must still be random) until
+you get to the appropriate week.
+
+For the "needs to" part:
+
+If a draw is published, and later taken back (assuming the ruleset hasn't
+changed etc.), then the full selection process was biased in terms of
+discarding the previous pick, and wasn't determined uniformly.
+
+--------------------------------------------------------------------------
+Judge ais523's Evidence:
+
+Rule 2505/1 (Power=1)
+Random Choices
+
+      When a Rule specifies that a random choice be made, then the
+      choice shall be made using whatever probability distribution among
+      the possible outcomes the Rule specifies, defaulting to a uniform
+      probability distribution.
+      
+      The choice can be made using any physical or computational process
+      whose probability distribution among the possible outcomes is
+      reasonably close to that required by the Rules, and for which the
+      final choice is not trivially predictable by the selecting person
+      in advance. The selecting person SHOULD make the selection method
+      public, and SHOULD use a method for which the final probability
+      distribution can be readily confirmed.
+
+
+Judge ais523's Arguments:
+
+The first issue is to establish the time at which the random selection
+would/could be performed, under these assumptions. There are two strong
+points of evidence that imply that in order for this sort of random
+selection to work at all, it would need to be considered to have been
+performed at the time of the weekly duty (as opposed to the time of the
+dice roll or equivalent): a) its validity cannot be determined too far
+in advance, due to the possibility that the ruleset changes; and b)
+rule 2143 requires weekly duties to be performed "each week", implying
+that performing them in advance doesn't fulfil the requirement to
+perform them.
+
+However, that would imply that the Mad Scientist would have information
+about what the result will be, in advance of the time at which the
+action was considered to be performed. This would violate the
+requirement in rule 2505 (which is a hard requirement, not a SHOULD)
+that the final choice is not trivially predictable by the selecting
+person in advance.
+
+In other words, there's no timing with which the rules would be
+satisfied that this sort of randomization process is actually random;
+they require the randomization to not "officially" occur until the week
+of the duties, but they also require the Mad Scientist to not know what
+the result will be in advance. So rolling the dice prior to the week in
+question is not, by the rules, treated as a valid method of
+randomization.
+
+==========================================================================

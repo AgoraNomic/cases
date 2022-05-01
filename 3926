@@ -1,0 +1,99 @@
+===============================  CFJ 3926  ===============================
+
+      The Tailor SHALL and CAN grant me coins as a consequence of my
+      Blue Glitter award earlier in this message.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         Murphy
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 01 Sep 2021 04:23:34
+Assigned to nix:                                  01 Sep 2021 05:41:35
+nix recused:                                      06 Sep 2021 13:15:18
+Assigned to Gaelan:                               09 Sep 2021 01:26:59
+Gaelan recused:                                   17 Sep 2021 02:51:13
+Assigned to Murphy:                               17 Sep 2021 02:51:13
+Judged TRUE by Murphy:                            19 Sep 2021 23:17:22
+
+==========================================================================
+
+Caller's Evidence: 
+
+On 2021-09-01 14:23, ais523 via agora-business wrote:
+> I award myself Blue Glitter. (I judged CFJ 3925 recently, already have
+> a Blue Ribbon, and have not tried to claim Blue Glitter since.)
+
+Rule 2602/7 (Power=1)
+Glitter
+
+       "Each type of Ribbon has a corresponding type of Glitter with the
+       same name. A player qualifies for a type of Glitter when e
+       qualifies for the same type of Ribbon while already owning such a
+       Ribbon. If a player has not been awarded that type of Ribbon or e
+       corresponding type of Glitter since e last earned or came to
+       qualify for that type of Ribbon, and has not been so awarded five
+       or more times within the past 24 hours, any player CAN award em
+       that type of Glitter by announcement. When a player gains a type
+       of Glitter, the Tailor SHALL in an officially timely fashion and
+       CAN once by announcement award em N/2 boatloads of coins rounded
+       up, where N is the number of players that did not own the
+       corresponding type of Ribbon at the time of the award. The amount
+       payable for each type of Glitter is tracked in the Tailor's
+       weekly report.
+
+Rule 2577/6 (Power=3), exerpt
+Asset Actions
+
+       For an entity to gain (historical syn. earn) an asset is for that
+       asset to be created in that entity's possession. To grant an
+       entity an asset is to create it in eir possession.
+
+
+Caller's Arguments:
+
+The version of Rule 2602 on the online FLR is a mess. In addition to an
+unmatched double quote, it starts by defining the circumstances in
+which a player "qualifies" for glitter, but then probably ignores them
+(it may be that an oddly placed "that" is trying to point to this
+definition). It then continues by saying that a player can be "awarded"
+glitter if they haven't had glitter for a redundant earning of a
+Ribbon. That's the action I took in the message where I called this
+CFJ.
+
+However, the Tailor's coin reward is based on "gaining" glitter. What
+relationship does this have to being awarded it? The term "award" is
+normally used for Ribbons and for Patent Titles, whereas "gain" is
+typically used for assets; neither a Ribbon nor a Patent Title is an
+asset. "Gain" is mentioned in the definition of the White Ribbon,
+though. Rule 2577 mentions "gain" as a historical synonym for "earn",
+which doesn't really help matters much (it may make the White Ribbon's
+definition easier to understand, but maybe not); also, defining
+something as a historical synonym doesn't necessarily imply that the
+synonym exists now.
+
+If being "awarded" glitter causes you to "gain" it, then is the glitter
+itself some sort of tracked object? Perhaps an asset, or a Patent
+Title? Or is this meant as some sort of hypothetical condition that
+rules can look at (in which case there's no obvious reason to link
+"gain" to "award"?).
+
+It also seems possible that there's been a Rulekeepor error related to
+the rule in question, and the online FLR doesn't match the actual
+ruleset; I haven't looked into this.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+As I wrote when I attempted to grant those coins: I believe that, as
+Glitter is not an asset, it's reasonable to interpret "gaining" it as a
+gloss for "being awarded" it. TRUE.
+
+==========================================================================

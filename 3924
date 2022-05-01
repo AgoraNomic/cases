@@ -1,0 +1,50 @@
+===============================  CFJ 3924  ===============================
+
+      Assuming G. announces no further focus plans, eir focus will flip
+      to Legacy at the beginning of the next month.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Cuddlebeam
+
+==========================================================================
+
+History:
+
+Called by G.:                                     07 Aug 2021 01:06:03
+Assigned to Cuddlebeam:                           09 Aug 2021 01:48:23
+
+==========================================================================
+
+Caller's Evidence:
+
+> I simultaneously plan to flip my focus to Legacy and plan to flip my focus
+> to Compliance.
+
+
+Caller's Arguments: 
+
+Rule 478/39 reads in part:
+                             Any action performed by sending a message is
+        performed at the time date-stamped on that message. Actions in
+        messages (including sub-messages) are performed in the order they
+        appear in the message, unless otherwise specified.
+
+The "unless otherwise specified" seems like a bit of a security hole,
+given that several mechanisms in the rules would break if people could
+perform multiple actions simultaneously.  But I can't find a prohibition
+against that - the "in the order they appear" is written not as a limit,
+but as a default that can be overridden - can it go so far to specify "at
+exactly the same moment (simultaneous)"?
+
+Rule 2638/0[extract]
+       An active player CAN Plan to Flip eir own Ministry Focus,
+       specifying any valid value for eir Ministry Focus, by
+       announcement. At the beginning of a month, every active player's
+       Ministry Focus is set to the value e mostly recently specified by
+       Planning to Flip. If a player did not Plan to Flip eir Ministry
+       Focus switch in the last month, it is not flipped.
+
+==========================================================================

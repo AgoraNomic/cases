@@ -1,0 +1,59 @@
+===============================  CFJ 3920  ===============================
+
+      This CFJ was called on 13 Jul 2021.
+
+==========================================================================
+
+Caller:                        Trigon
+
+Judge:                         R. Lee
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Trigon:                                 12 Jul 2021 05:30:52
+Assigned to:                                      20 Jul 2021 14:57:03
+Judged FALSE by R. Lee:                           22 Jul 2021 05:48:28
+
+==========================================================================
+
+Caller's Evidence:
+
+This message sure seems to think so.
+
+[Message in question with some relevant headers]:
+
+Received: from localhost ([73.127.1.41]) by smtp.gmail.com with ESMTPSA id
+k189sm16420598pgk.14.2021.07.11.22.30.52 for <agora-business@agoranomic.org>
+(version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256); Sun, 11 Jul 2021
+22:30:52 -0700 (PDT)
+Message-ID: <60ebd38c.1c69fb81.da881.14d3@mx.google.com>
+Date: Tue, 13 Jul 2021 05:30:00 +0000
+To: agora-business@agoranomic.org
+Subject: BUS: Happy Tuesday!
+
+
+I call the following CFJ: This CFJ was called on 13 Jul 2021.
+
+Caller's Evidence: This message sure seems to think so.
+
+So as not to be dinged for No Faking, it is completely possible that nothing
+here worked.
+--------------------------------------------------------------------------
+
+Judge R. Lee's Arguments:
+
+Trigon sent a message that was clearly received by all on 12 July (in my
+timezone UTC+10), but was headed as sent on 13 July for most recipients.
+Rule 478 tells us that a message is sent at the time the header shows it to
+be sent. Conflicting headers are to be resolved as a matter of game custom
+under CFJ 2206: https://faculty.washington.edu/kerim/nomic/cases/?2206.
+Obviously, respecting the objective fact that the email was neither sent
+nor received on 13 July is preferable to the alternative. It is better for
+all that the email is deemed to be sent at the gmail time of 12 July (or in
+some timezones 11 July) rather than on the fake date of 13 July that Trigon
+clearly inserted. CFJ 3920 is FALSE
+
+==========================================================================

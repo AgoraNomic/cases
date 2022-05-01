@@ -1,0 +1,142 @@
+===============================  CFJ 3917  ===============================
+
+      Trigon fulfilled eir obligation to track the Unit of Flotation for
+      the weeks of 31 May and 7 Jun.
+
+==========================================================================
+
+Caller:                        Trigon
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Trigon:                                 17 Jun 2021 04:44:46
+Assigned to G.:                                   17 Jun 2021 06:33:06
+Judged FALSE by G.:                               17 Jun 2021 15:47:49
+
+==========================================================================
+
+Caller's Arguments:
+
+On 6/16/2021 9:44 PM, Trigon via agora-business wrote:
+> On 17/06/2021 04:41, Trigon via agora-discussion wrote:
+>> On 17/06/2021 04:15, Rebecca Lee via agora-official wrote:
+>>> On Thu, Jun 17, 2021 at 2:08 PM Telna via agora-business <
+>>> agora-business@agoranomic.org> wrote:
+>>>> *sigh*
+>>>> I Point my Finger at Trigon for not tracking the Unit of Flotation in
+>>>> eir weekly report for the week beginning June 7th as directed by Rule
+>>>> 2635 "Floating Rate Fleet".
+>>>> I Point my Finger at Trigon for not tracking the Unit of Flotation in
+>>>> eir weekly report for the week beginning May 31st as directed by Rule
+>>>> 2635 "Floating Rate Fleet".
+>>>>
+>>>
+>>> I hereby investigate both of these finger pointings.
+>>>
+>>> Trigon did indeed violate rule 2635 (implemented in rule 2143) by failing
+>>> to track this information in documents that purported to be Treasuror's
+>>> reports. E did so in both weeks, which are within the statute of
+>>> limitations (the deadline for the week of May 31 expired 12 days ago on
+>>> June 6).
+>>>
+>>> I impose the Cold Hand of Justice on Trigon for not tracking the Unit of
+>>> Flotation for the week of May 31st. Although there's no Class of crime 
+>>> here
+>>> I find it exceedingly similar to the Class-2 crime of Tardiness. The 
+>>> crime
+>>> is inadvertent and appears to be a simple lack of knowledge of exactly 
+>>> what
+>>> e had to track (Trigon has generally done a great job of officer accuracy
+>>> and timeliness). I impose a 1 blot fine on Trigon.
+>>>
+>>> I impose the Cold Hand of Justice on Trigon for not tracking the Unit of
+>>> Flotation for the week of June 7th. I levy a 1 blot fine on Trigon, see
+>>> above.
+>>>
+>>
+>> Actually, the Unit of Flotation is tracked in the Treasuror's weekly 
+>> report. Admittedly, it's not next to the Total Buoyancy, as one might 
+>> expect, but it is in there, in the History section, at the beginning of 
+>> each month:
+>>
+>>> *** Tue 1 June 2021 ...
+>>> [00:00]   RELEVELING: TB=35779, UF=14.0000 
+>>
+>> This might not be enough, however, since this is the History section's 
+>> header:
+>>
+>>> RECENT HISTORY                                    (does not self-ratify)
+>>> ========================================================================
+>>
+>> The labels on the right side have always been intended to be 
+>> informational; however, I admit that it's not one hundred percent clear 
+>> what these do legally.
+>>
+>> I accept that I should put these things in a better location, and I 
+>> apologize for the elision of the information. I will include it in 
+>> future reports. In my defense, the bit requiring that I track the UF is 
+>> in a weird place.
+>>
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+CFJ 3798 found that for information to be published in the performance of
+a weekly duty, it must be "informative".  Part of that standard was:
+
+> * Each part must be reasonably-well labelled (so we are informed as to
+> what it is) [2];
+> [2] Information is not information if we don’t know what information
+> it’s supposed to be, so some kind of label is needed.
+
+A buried abbreviation UF that does not appear in the rules and is buried
+in a history section without explanation, in what looks like a generic
+self-check script output, does not fulfill this requirement.
+
+On timeliness, CFJ 3798 allowed for some backdating, but stated that it
+would fail to qualify as being "maintained" if it was backdated much
+outside the frequency of the report.  So in the May 31 report, the May 1
+record is too old to be considered "maintained" for a weekly duty.
+
+The real question is, does missing a single record of this nature
+disqualify the whole report?  For example, if an officer failed to list a
+new player on a list of players, it would be subject to CoE but still
+would have fulfilled a reporting duty.  CFJ 3462 set a high standard
+("gross sloppiness and negligence") for disqualifying a reasonable report
+attempt from being a duty-fulfilling report.
+
+So what about in this case?  The caller noted:
+> In my defense, the bit requiring that I track the UF is
+> in a weird place.
+By this, I believe that e means that most of the "floating economy"
+variables are defined in R2634, while the Unit of Floatation is in
+standalone rule 2635.
+
+However, this actually works against the caller.  If UF were listed
+alongside the other Buoyancy numbers, we might say "e missed one out of
+three quantities, and the one e missed can be calculated from the others -
+it's mostly there" and allow it.  However, since it's in a standalone
+rule, it's singled out for special attention.  It's not the officer's
+place to necessarily decide the importance - the fact that there's a
+standalone requirement, in a separate rule (and, I note in the SLR,
+immediately following the first rule, so not particularly hidden) means
+that a whole "section" of the report is missing, even if that's only a
+single (labelled) number.
+
+While the rules can be tricky and missing little things can be common,
+officers should generally be knowledgeable on the plain-text duties of
+their office - so in this case, missing that whole section *is* in fact
+negligence.  A minor, accidental, and inconsequential kind of negligence,
+to be sure, especially given the difficulty of the Treasuror's job and H.
+Treasuror Trigon's high level and quality of past service, but still
+negligent enough to disqualify the report.
+
+I find FALSE.
+
+==========================================================================
