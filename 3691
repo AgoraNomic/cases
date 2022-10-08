@@ -1,0 +1,65 @@
+===============================  CFJ 3691  ===============================
+
+      The last person to vote FOR a proposal' is the last person to
+      submit a ballot regarding that proposal which evaluates to FOR.
+
+==========================================================================
+
+Caller:                        Jacob Arduino
+
+Judge:                         D. Margaux
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by Jacob Arduino:                          02 Dec 2018 22:33:00
+Assigned to G.:                                   03 Dec 2018 01:02:00
+Judged DISMISS by G.:                             03 Dec 2018 15:07:00
+Motion to reconsider self-filed:                  03 Dec 2018 18:33:00
+G. recused:                                       25 Dec 2018 21:56:00
+Assigned to D. Margaux:                           25 Dec 2018 21:56:00
+Judged DISMISS by D. Margaux:                     25 Dec 2018 21:56:00
+
+==========================================================================
+
+Judge D. Margaux's Arguments:
+
+I assign it a judgment DISMISS for the same reasons G. gave in his
+original judgement.
+
+Judge G.'s "original judgement":
+
+The rules do not describe voting on [or FOR] proposals at all.  The
+rules describe voting on "decisions to adopt proposals".  To see that
+this is a consequential variation (in terms of technicalities), note
+that a proposal can be part of more than one decision to adopt it (e.g.,
+if it fails quorum).
+
+As part of our long-standing shorthand, people casting votes by
+announcement do so, generally, by stating that they are voting on the
+proposals, not on the decisions to adopt proposals.  This is very useful
+shorthand and valid, as there is no ambiguity that their votes refer to
+Decisions.  However, if someone wrote actual formal rules text that
+described what happened when someone "voted FOR proposals",  it would
+quickly be pointed out that "voting FOR proposals" is not a regulated,
+described action.
+
+So the answer to this question is:  it depends.  If "the last person to
+vote FOR a proposal" was used colloquially (say within another player's
+conditional vote), this CFJ would be TRUE.  If that text was used within
+a Rule, it would be FALSE, as the rules don't map "voting FOR a
+proposal" to "submitting a valid ballot of FOR on the decision to adopt
+the proposal", so that would be referring to some other (perhaps
+non-existent, unregulated, or impossible-to-perform) process.
+
+If the text is contained within a proposal (midway between the formality
+of rules and colloquial shorthand for actions), I think it would err on
+the side of rules text (i.e. it would refer to a non-existent process),
+due to the technical and precise level on which proposals function.
+
+Since the answer to the CFJ is therefore "it depends on context", I
+judge DISMISS (insufficient information).
+
+==========================================================================
