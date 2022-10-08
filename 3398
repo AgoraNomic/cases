@@ -1,0 +1,96 @@
+===============================  CFJ 3398  ===============================
+
+      Suppose a player A has breached two different rules B and C
+      simultaneously, such that the breach of B was unavoidable (without
+      breaching a rule creating a crime of higher Class), but not the
+      breach of C, and the crimes created by the breach of the rules
+      both have the same Class; both trials should return NOT GUILTY by
+      cause of requirement e.
+
+==========================================================================
+
+Caller:                        Bayushi
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Bayushi:                                20 Oct 2013 04:02:00
+Assigned to ais523:                               20 Oct 2013 04:02:00
+Judged FALSE by ais523:                           26 Oct 2013 22:58:00
+
+==========================================================================
+
+Judge ais523's Arguments:
+
+This case hinges on what "could have reasonably avoided committing the
+breach without committing a different breach of equal or greater
+severity" means. Let's assume there are two equally severe requirements,
+B' and C', that are contained in different rules B and C, and the player
+has the following reasonable possibilities open to em:
+
+* Breach requirement B', and also breach requirement C';
+* Breach requirement B', but not requirement C'.
+
+The question is, can the breach of C' be avoided without breaching B'?
+There are two ways to parse this, the subjunctive, and the indicative:
+
+"Avoiding the breach of C' would cause the player to breach B'". This is
+false; the player would be breaching B' anyway, so there's no causation
+involved.
+
+"If the player does not breach C', then the player breaches B'". This is
+true; B' is going to be breached no matter what.
+
+I'll use a specific example to help clarify things. Imagine that a
+player owns 1 of a particular hypothetical asset (we'll call them
+Asses). Hypothetical rule B requires that player to transfer 2 Asses to
+the Registrar in a particular Agoran week; hypothetical rule C places an
+equally severe requirement on that player to transfer 1 Ass to the CotC,
+a different player, in the same Agoran week. As the deadline approaches,
+the player has no more Asses, and no clear way to get more. Can they be
+punished for failing to make the transfer to the CotC?
+
+If the player had had two Asses, rather than one, then e could avoid
+breaching either rule, but it would leave em necessarily breaching the
+other. Thus, by the letter of the rule, the player can choose to ignore
+the breaches of both rules, on the basis that complying with either
+would cause em to necessarily break the other. This seems somewhat
+broken, but is consistent with both interpretations, so it doesn't
+matter which one we take. (The risk that players might intentionally set
+this sort of situation up – not exactly the same, but similar – is
+actually why the rules for Yak awards are worded in such a bizarre way.)
+
+In the situation that this CFJ asks about, where the player only has
+one, the two interpretations lead to different results, so we should see
+which interpretation leads to the more sensible results. The causality
+interpretation is, at least, easy to work with; we can work out whether
+avoiding the breach of C' would make the breach of B' unavoidable, and
+the answer is "no, it already was". There aren't any weird timing issues
+with this interpretation, and it matches common sense quite well. The
+main disadvantage is that it uses an overly colloquial interpretation of
+"without".
+
+The other interpretation, though, has deeper problems. In Agora, a
+breach of a rule happens at a particular instant; the point at which the
+illegal action is performed, or at which a mandatory action reaches its
+deadline. There are situations in which there are no weird timing issues
+– e.g. when the same action is mandatory according to one rule, and
+prohibited according to another – but there are also situations in which
+it is very hard to determine what timespan the breaches in the "without"
+refer to. In the example I'm using, suppose the player transferred to
+the CotC. The point at which they fail to transfer to the Registrar is
+going to be some later point in time. What happens if someone files a
+criminal CFJ in between those two points in time? What if there's a
+proposal pending to repeal the restriction, but it fails? This
+interpretation might fit the letter of the rules more precisely, but
+there doesn't seem to be a particular time period in time for which it
+could refer to.
+
+As such, the causality interpretation seems to make more sense than the
+purely logical interpretation. I judge CFJ 3398 FALSE.
+
+==========================================================================

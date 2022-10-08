@@ -1,0 +1,75 @@
+===============================  CFJ 3392  ===============================
+
+      The above-quoted message contained an R2170 claim that it was
+      published by Walker, namely in the From: header.
+
+==========================================================================
+
+Caller:                        Woggle
+
+Judge:                         ais523
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Woggle:                                 14 Aug 2013 19:49:51
+Assigned to ais523:                               28 Aug 2013 17:46:00
+Judged TRUE by ais523:                            04 Sep 2013 15:10:00
+
+==========================================================================
+
+Caller's Evidence:
+
+[CotC note: as this CFJ includes discussion of headers, I am including
+the whole message with short headers as the 'above-quoted message']
+
+> BUS: that reminds me 
+> From: Charles Walker <charles.w.walker@gmail.com>
+> Reply-To: agora-discussion@agoranomic.org
+> To: "agora-business@agoranomic.org" <agora-business@agoranomic.org>
+> Date: Wed, 14 Aug 2013 18:48:29 +0100         
+>             
+> I register. I create the following persistent, revocable promise and
+> transfer it to Walker:
+>
+> Text: I act as specified by the casher in the cashing message.
+>
+> -- Sam
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+FALSE[3391], TRUE[3392] respectively. 
+
+Being capable of communicating in English via
+email does not necessarily mean that a person owns an email address;
+they might, for instance, have to borrow one off someone else. I've seen
+several instances in which multiple people have shared an account
+elsewhere, and with clear signatures, there is no real problem with this
+arrangement.
+
+The message very clearly claims to have been sent using Walker's
+address, but by Sam. Regardless of whether this is true or not, it has
+correctly been claimed. In general, looking at the address from which an
+email claims to have been sent is a good way to determine who claims to
+have sent it; the presumption, in the absence of other evidence, is that
+players do not allow other players access to their email addresses.
+However, the presumption can be overridden given enough context in the
+message itself or the surrounding circumstances; and that's what
+happened here.
+
+In general, if an email address were shown to generally be used by
+multiple persons, rather than one in particular, or one person by
+default except when the message body clearly indicated otherwise, it
+would fail to be indicative of anything, and messages would lack a claim
+of identity if there were no explicit claim of identity added to the
+message. This doesn't mean, incidentally, that those hypothetical
+messages would have no author; it just means that a) the claim of
+authorship does not self-ratify (due to not existing); and b) it may be
+hard to determine who the actual author of the message was. (But this is
+true in any case where the existence of a person is uncertain.)
+
+==========================================================================

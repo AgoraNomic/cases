@@ -1,0 +1,47 @@
+===============================  CFJ 3390  ===============================
+
+      Sam is a player.
+
+==========================================================================
+
+Caller:                        roujo
+
+Judge:                         ais523
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by roujo:                                  14 Aug 2013 18:39:21
+Assigned to ais523:                               28 Aug 2013 17:46:00
+Judged TRUE by ais523:                            04 Sep 2013 15:10:00
+
+==========================================================================
+
+Caller's Arguments:
+
+E is using the same email address as Walker.
+
+
+Caller's Evidence:
+
+> On Wed, Aug 14, 2013 at 1:48 PM, Charles Walker
+> <charles.w.walker@gmail.com> wrote:
+> I register. I create the following persistent, revocable promise and
+> transfer it to Walker:
+>
+> Text: I act as specified by the casher in the cashing message.
+>
+> -- Sam
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+TRUE. There's currently insufficient evidence to determine whether or
+not Sam and Walker are the same person (and I would judge a CFJ on
+whether or not they were the same person as UNDETERMINED). If they
+aren't, then Sam succeeded in registering and is now a player. If they
+are, then Walker was already a player.
+
+==========================================================================
