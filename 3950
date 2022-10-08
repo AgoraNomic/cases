@@ -1,0 +1,67 @@
+===============================  CFJ 3950  ===============================
+
+      The text 'repeal both that rule and this one' exists in rule 2655.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         R. Lee
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 06 Mar 2022 02:02:00
+Assigned to R. Lee:                               13 Mar 2022 21:25:00
+Judged FALSE by R. Lee:                           16 Mar 2022 10:29:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sat, 2022-03-05 at 20:34 -0500, Jason Cobb via agora-official wrote:
+> In this proposal:
+>
+> > ID: 8644
+> > Title: Device repeal patch
+> > Adoption index: 1.0
+> > Author: Jason
+> > Co-authors: ais523
+> >
+> > Amend Rule 2655 by replacing "repeal both that rule and this one"
+> > with "repeal that rule, then this one".
+> >
+>
+> The text to replace appears multiple times in the rule. This may or
+> may not be ambiguous. In my most recent reports, I have assumed that
+> the rule change was effective.
+
+--------------------------------------------------------------------------
+
+Judge R. Lee's Arguments:
+
+As can be seen above, a proposal attempted to amend rule 2655 by replacing
+the text "repeal both this rule and that one" with "repeal that rule, then
+this one". The text that the proposal purported to replace, however,
+unforeseen to its author, appeared multiple times in the rule, Did the
+purported amendment contain an ambiguity that voids the amendment under
+rule 105 paragraph 4?
+
+I find that the amendment worked because it was unambiguous. The proposal
+wanted to replace a certain string of text with another string. No possible
+interpretation of the proposal's text could lead to the conclusion that the
+proposal wanted to amend a specific instance of the original text but not
+another instance. Rather, the only reasonable interpretation is that the
+proposal intended to amend that text as it appeared in the rule, wherever
+it appeared. Nowhere does the proposal reference the text in any more
+specific way than its appearance in the rule, and nowhere does it imply
+that it appears only once, perhaps by using phrasing that includes the
+definite article like 'the sentence'.
+
+The text "repeal both this rule and that one" no longer appears in rule
+2655 because in all instances it was amended  to "repeal that rule, then
+this one". CFJ 3950 is FALSE.
+
+==========================================================================

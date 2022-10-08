@@ -1,0 +1,99 @@
+===============================  CFJ 3953  ===============================
+
+      I have pledged "I shall transfer to someone 2 coins between now
+      and a month from now" within the last 10 minutes.
+
+==========================================================================
+
+Caller:                        Madrid
+
+Judge:                         secretsnail
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Madrid:                                 06 Apr 2022 18:36:59
+Assigned to secretsnail:                          10 Apr 2022 05:37:44
+Judged TRUE by secretsnail:                       13 Apr 2022 06:43:29
+
+==========================================================================
+
+Caller's Evidence:
+
+On Wed, Apr 6, 2022 at 8:33 PM secretsnail9 via agora-business wrote:
+> On Wed, Apr 6, 2022 at 12:57 PM Madrid via agora-business  wrote:
+>
+>> I create the following Promise and transfer it to the Library:
+>> {
+>> Cashing Conditions: None
+>>
+>> Text: If the person who cashes in this Promise has a Degree of some kind,
+>> then Madrid transfers to them 1 coin, otherwise, Madrid transfers to
+>> them 2
+>> coins.
+>> }
+>>
+>> I create the following Promise and transfer it to the Library:
+>> {
+>> Cashing Conditions: None
+>>
+>> Text: If the person who cashes in this Promise has a Degree of some kind,
+>> then Madrid Pledges the following: "I shall transfer to someone 1 coin
+>> between now and a month from now", otherwise, Madrid Pledges "I shall
+>> transfer to someone 2 coins between now and a month from now".
+>> }
+> >
+>
+> I take the first promise above from the library and cash it.
+>
+> I take the second promise above from the library and cash it.
+>
+> --
+> secretsnail
+
+--------------------------------------------------------------------------
+
+Judge secretsnail's Arguments:
+
+The question essentially being asked here is if a player can act on behalf
+of another player to make a pledge. The relevant rule text here is:
+
+      A person CANNOT act
+      on behalf of another person to do anything except perform a game
+      action; in particular, a person CANNOT act on behalf of another
+      person to send a message, only to perform specific actions that
+      might be taken within a message, including actions that would
+      otherwise be taken by publishing certain text.
+
+"Game action" is not defined by the rules of Agora, so it simply means
+"action pertaining to the game" (CFJ 2882). Making a pledge certainly
+pertains to the game as certain pledges must be tracked and followed. So
+that leaves the next "CANNOT"; was the cashing of a promise an attempt to
+act on behalf of another person to send a message?
+
+When a player cashes a promise, "e acts on the creator of the promise's
+behalf, causing the creator to act as if e published the promise's text".
+When a player publishes text, e takes the actions mentioned in those texts,
+that is, e acts as if e published the promise's text (because e did). E
+does not, however, send a message by publishing text, as publishing is to
+"send a public message whose body contains that thing". The sending of the
+message is publishing, not an act that's a result of publishing. If sending
+the message were to somehow be something the promise attempted to act on
+behalf for, then all promises would fail. So it seems reasonable that
+promises do not attempt to send messages, only take actions "that would
+otherwise be taken by publishing certain text". As pledging is certainly
+something a player can do by publishing certain text (sending a message
+with a clear public pledge in it is exactly that), pledging CAN be done on
+behalf of another player, provided all other conditions are met.
+
+The individual possible pledges are each quite clear, not even containing
+conditionals. The cashing of the promise was done within a public message,
+so the pledge was public. The action was consented to by Madrid, as it was
+taken as a part of a promise e created. Therefore, Madrid made the clear
+public pledge "I shall transfer to someone 2 coins between now and a month
+from now" as secretsnail, the bearer, had no degrees. Accordingly, I judge
+CFJ 3953 TRUE.
+
+==========================================================================

@@ -1,0 +1,112 @@
+===============================  CFJ 3952  ===============================
+
+      It is possible to make someone else cast a vote of your choice via
+      acting on behalf.
+
+==========================================================================
+
+Caller:                        Madrid
+
+Judge:                         Jason
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by Madrid:                                 05 Apr 2022 07:38:37
+Assigned to Jason:                                06 Apr 2022 17:34:11
+Judged DISMISS by Jason:                          11 Apr 2022 03:40:17
+
+==========================================================================
+
+Judge Jason's Arguments:
+
+Rule 683 states that "An entity submits a ballot on an Agoran decision
+by publishing a notice satisfying [...]". This means that submitting a
+ballot is an action taken instantly by publishing certain text (i.e. it
+is not continuously evaluated by retrospectively evaluating these
+conditions, as was done by the previous iteration of dependent actions).
+This means that second paragraph of R2466 does not prohibit acting on
+behalf to perform this action.
+
+The conditions set forth in R683 are evaluated as if the agent was the
+principal, since no rule explicitly states otherwise. There are clearly
+a set of circumstances under which the principal could cast the ballot,
+so there are also sets of circumstances under which the agent could cast
+the ballot. It is thus POSSIBLE, under certain circumstances, to act on
+behalf to cast a ballot.
+
+However, the fact that this is possible in the abstract does not mean
+that it's possible in any current circumstances. If the caller wanted
+that to be evaluated, e should have made a more specific CFJ. Judged
+DISMISS for lack of specificity about the circumstances in the statement.
+
+
+Judge Jason's Evidence:
+------------------------------------------------------------------------
+Rule 2466/2 (Power=3)
+Acting on Behalf
+
+      When a rule allows one person (the agent) to act on behalf of
+      another (the principal) to perform an action, that agent CAN
+      perform the action if it is POSSIBLE for the principal to do so,
+      taking into account any prerequisites for the action. If the
+      enabling rule does not specify the mechanism by which the agent
+      may do so, then the agent CAN perform the action in the same
+      manner in which the principal CAN do so, with the additional
+      requirement that the agent must, in the message in which the
+      action is performed, uniquely identify the principal and that the
+      action is being taken on behalf of that person.
+
+      A person SHALL NOT act on behalf of another person if doing so
+      causes the second person to violate the rules. A person CANNOT act
+      on behalf of another person to do anything except perform a game
+      action; in particular, a person CANNOT act on behalf of another
+      person to send a message, only to perform specific actions that
+      might be taken within a message, including actions that would
+      otherwise be taken by publishing certain text.
+
+      When an action is performed on behalf of a principal, then the
+      action is considered for all game purposes to have been performed
+      by the principal, unless a rule specifically states that it is
+      treated differently for some purpose, in which case it is treated
+      as described by that rule.
+
+      Allowing a person to act on behalf of another person is secured at
+      power 2.0. This rule takes precedence over any rule that would
+      prohibit a person from taking an action, except that it defers to
+      any rule that imposes limitations specifically on actions taken on
+      behalf of another person.
+
+------------------------------------------------------------------------
+Rule 683/27 (Power=3)
+Voting on Agoran Decisions
+
+      An entity submits a ballot on an Agoran decision by publishing a
+      notice satisfying the following conditions:
+
+      1. The ballot is submitted during the voting period for the
+         decision.
+
+      2. The entity casting the ballot (the voter) was, at the
+         initiation of the decision, a player.
+
+      3. The ballot clearly identifies the matter to be decided.
+
+      4. The ballot clearly identifies a valid vote, as determined by
+         the voting method.
+
+      5. The ballot clearly sets forth the voter's intent to place
+         the identified vote.
+
+      6. The voter has no other valid ballots on the same decision.
+
+      A valid ballot is a ballot, correctly submitted, that has not been
+      withdrawn. During the voting period of an Agoran decision, an
+      entity CAN by announcement withdraw (syn. retract) a ballot that e
+      submitted on that decision. To "change" one's vote is to retract
+      eir previous ballot (if any), then submit a new one. Submitting
+      and withdrawing ballots is secured.
+
+==========================================================================

@@ -1,0 +1,207 @@
+===============================  CFJ 3951  ===============================
+
+      secretsnail transferred 5000 coins and 6 wincards in the above
+      message.
+
+==========================================================================
+
+Caller:                        secretsnail
+Barred:                        Jason
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by secretsnail:                            18 Mar 2022 05:28:24
+Assigned to ais523:                               20 Mar 2022 23:08:05
+Judged FALSE by ais523:                           24 Mar 2022 17:19:59
+
+==========================================================================
+
+Caller's Evidence:
+
+On Thu, Mar 17, 2022 at 11:41 PM secretsnail9 wrote:
+> On Sun, Mar 13, 2022 at 2:24 PM nix via agora-business <
+> agora-business@agoranomic.org> wrote:
+>
+>> I intend, without objection, to transfer 5000 coins from the L&FD to
+>> myself.
+>>
+>> I intend, without objection, to transfer 1 wincard from the L&FD to
+>> myself.
+>>
+>
+> I table each of the above intents again.
+>
+> If it clears things up, "myself" refers to me.
+>
+> Having received no objections, I transfer 5000 coins from the L&FD to
+> myself
+>
+> Having received no objections, I transfer 1 wincard from the L&FD to
+> myself.
+>
+> This may work because each intent is ripe (tabled within the past 14 days)
+> and mature (tabled at least 4 days ago).
+>
+> I perform the following actions 5 times:
+> {
+> On Sun, Mar 13, 2022 at 2:24 PM nix via agora-business <
+> agora-business@agoranomic.org> wrote:
+>
+>> I intend, without objection, to transfer 1 wincard from the L&FD to
+>> myself.
+>
+>
+> I table the above intent again.
+>
+> Having received no objections, I transfer 1 wincard from the L&FD to
+> myself.
+>
+> }
+>
+
+
+Caller's Arguments:
+
+I suggest the following statements be thought about for the above cfj:
+"you can table an existing intent"
+"tabling an intent creates the intent referred to in 'tabling an intent'"
+"secretsnail was given 5000 coins and 6 wincards in the above message"
+"nix was given 5000 coins and 6 wincards in the above message"
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+This CFJ is, in effect, a CFJ about what "table an intent" means – it
+comes down to establishing what specific actions rule 1728 is
+permitting.
+
+The two main potential readings appear to be as follows:
+
+a) To "table an intent" is a method of creating a "tabled intent",
+which is an Agoran-legal construct (and a specific type of intent).
+This is an action comparable to creating a proposal or initiating a
+CFJ; it causes a new tabled intent to be created, and specifies its
+properties.
+
+b) To "table an intent" is an action that is applied to an existing
+intent, causing it to become "tabled". Intents are created by some
+other mechanism (presumably because they aren't Agoran-legal
+constructs, and thus can be recognised by Agora as a consequence of
+rule 2125; if rule 1728 isn't providing a mechanism of creating
+intents, then creating them is unregulated).
+
+The relevant meaning of "table" as a verb, in British English, is along
+the lines of "to propose, or put on the agenda". (American English has
+a similar verb, but with the opposite meaning, which is probably
+irrelevant here as it makes no sense in context.) This is compatible
+with both meanings: "propose" fits reading a), and "put on the agenda"
+fits reading b). It does seem to fit reading b) a little better,
+though.
+
+We can split reading b) into two sub-readings:
+
+b1) When discussing the tabling of an intent, the rules are talking
+about the moment from which it went from being untabled to being
+tabled. Thus, attempting to table an intent twice has no real effect –
+the intent was already tabled, so when a rule looks at the
+circumstances surrounding its tabling, it sees only the first instance.
+
+b2) Because "tabling an intent" is an action, rules that check for
+tablings of intents check for times at which the action was performed;
+an intent can be tabled twice, and when checking for the circumstances
+surrounding the tabling of an intent, the rules therefore see every
+instance of tabling of the intent simultaneously.
+
+However, there are a number of points in the rules for which reading
+b2) is incompatible with the reading of the rule:
+
+ * Rule 1728 requires, when tabling an intent, that the intent's action
+   and method are specified, and permits specifying conditions. In
+   reading a), this serves as a method to specify the properties of the
+   new tabled intent. In reading b), this would only serve as a method
+   of *identifying* the intent (or of confirming the relevant
+   properties, in much the same way that the Promotor has to specify
+   the author of a proposal when distributing it). However, the wording
+   of the rule strongly implies that the conditions are something that
+   are specified by the tabler, rather than something pre-existing in
+   the intent. Meanwhile, rule 2124 simply just refers to "[the
+   intent's] conditions", rather than the conditions surrounding a
+   particular tabling. This points strongly towards reading a), and
+   favours reading b1) over b2).
+
+ * Rule 1728 talks about "the person who tabled [an intent]", implying
+   that only one person can table any given intent. It's just about
+   possible that the text in question applies only to intents that were
+   tabled by exactly 1 person, with the rest of the rule nonetheless
+   applying also to intents that were tabled by multiple people, but
+   this is not a natural reading of the rule.
+
+ * Rule 1728 defines "intend" as a synonym for "table an intent". Even
+   if "table" can be interpreted as a way to change the state of an
+   existing intent, "intend" can't be – it's incompatible with the
+   language of the rule for someone to have an intent to do something,
+   someone (else?) to perform the action of intending to do it, and
+   then for the original intent to still remain but to have changed
+   state somehow. This again strongly points towards reading a). Again,
+   I can just about see reading b1) applying here (the idea would be
+   that the intent existed all along, and the "tabling" action is
+   announcing the fact so that other players can take notice of it),
+   but reading b2) doesn't make sense. Under reading b) here, the
+   tabling action would also be inconsistent with other actions by
+   announcement, in that the action has to be read as a statement of
+   fact rather than as a speech act (i.e. "I intend to do X" would be
+   read as a report that the intent exists).
+
+As such, the wording of the rule leans towards reading a), although
+reading b1) may not be entirely inconsistent with it. This does
+definitely mean, though, that either reading a) is the only viable
+reading, or else that we need a rule 217 tiebreak between the readings.
+Looking at the rule 217 tests:
+
+Game custom: It is definitely game custom that tabling an intent
+creates a new intent object, that can be supported, objected to, etc..,
+and that each intent is pretty much considered as its own object. In
+other words, reading a).
+
+Common sense: Under either reading b), the wording of the rule wouldn't
+exclude the possibility of tabling *someone else's* intent to do
+something, using the language "I intend". Even if that manages not to
+be inconsistent with the wording of the rule, it's definitely a
+violation of common sense.
+
+Past judgements: These are generally irrelevant, because they talk
+about a version of the rule which was written somewhat differently. In
+particular, they often talk about the special circumstances that arise
+due to intending not being an action by announcement (it wasn't in the
+old version of the rule). However, in the current version of the rule,
+intending *is* an action by announcement, so the reasoning in the past
+judgements no longer applies to the current version.
+
+The best interests of the game: These definitely favour reading a).
+Under reading b), tracking intents becomes very difficult (there's no
+Officer assigned to the job, and they may or may not have ever been
+mentioned at Agora); under reading b2), it becomes especially difficult
+because the entire history of an intent could become relevant
+arbitrarily far into the future. This also raises the question of
+determining whether two intents are the same or not (in order to
+determine the entire history of tablings of a particular intent, you
+need to work out which intent each tabling is attached to, and the
+information specified during a tabling isn't enough to work this out).
+
+In conclusion, it seems that reading a) is the correct reading of the
+rule. It might be the only reading consistent with the rule's text; and
+even if it isn't, rule 217 suggests that we use that reading rather
+than any of the other possibilities.
+
+In order for the statement of this CFJ to be TRUE, we have to take
+reading b2); neither reading a) nor even b1) is sufficient. As such,
+there's very strong evidence that this scam didn't work, and I judge
+CFJ 3951 FALSE.
+
+==========================================================================

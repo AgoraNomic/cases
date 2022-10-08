@@ -1,0 +1,120 @@
+===============================  CFJ 3948  ===============================
+
+      Jason's purported apathy intent was sent to all players.
+
+==========================================================================
+
+Caller:                        nix
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by nix:                                    05 Mar 2022 18:31:43
+Assigned to G.:                                   08 Mar 2022 22:00:00
+Judged FALSE by G.:                               11 Mar 2022 19:51:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On 3/5/22 12:23, Jason Cobb via agora-business wrote:
+> On 3/5/22 13:16, Jason Cobb via agora-business wrote:
+>> I pay a fee of one Blot-B-Gone to expunge a blot from myself.
+>>
+>> I pay a fee of one Blot-B-Gone to expunge a blot from myself.
+>>
+>>
+>> Having given intent more than 4 days ago, and seeing no objections, I
+>> declare apathy, specifying myself and ais523.
+>>
+>>
+>> Disclaimer for No Faking: The above action may not work, because the
+>> intent was given in an unorthodox way.
+>>
+> For the purposes of Agora determining whether the above actions worked,
+> I affirm the following under penalty of No Faking:
+>
+> {
+>
+> On or about 13:22 UTC on Tuesday March 1, I sent the following message
+> to #very-serious-agoran-business in the Agora Nomic Chat Server Discord
+> server: "If you see this, please remain silent. I am willing to pay you
+> off. I intend, without objection, to declare apathy, specifying myself
+> and ais523. THIS IS AN AGORAN PUBLIC MESSAGE, being sent to all players
+> and containing clear designation of intent to be public."
+>
+> At the time that I sent that message, ais523 was connected to the
+> bridged IRC channel on libera. AgoraBot was active and was relaying
+> messages from the Discord channel to the IRC channel. ais523 has
+> confirmed to me receipt of the message.
+>
+> To the best of my knowledge, all players except ais523 are members of
+> the Agora Nomic Chat Server Discord server, and thus have access to the
+> #very-serious-agoran-business Discord channel.
+>
+> After sending the message, I edited it (using Discord's editing
+> functionality) to read as follows: "oh, meant to ask this yesterday, is
+> anybody selling bbgs or justice cards".
+
+
+Caller's Arguments:
+
+It was sent to a service that all players were able
+to access, but it would've only been available to members that were
+online between the original sending and the edit, so I question whether
+it was sent *to* any player that wasn't online at the time at all. Even
+if it was, I question whether a designation is "clear" if it's
+intentionally hidden from the recipient by being completely removed.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+The relevant rules text in question (Rule 478/40):
+      A public message is a message sent via a public forum, or sent to
+      all players and containing a clear designation of intent to be
+      public.
+
+Determining whether a message was "sent to all players" is not defined in
+the rules, and is explicitly separate from sending via public fora.  So
+common definitions/common sense apply.  Further, as suggested by CFJ 3884,
+the use of definitions around communication may be medium-dependent.  So
+what would constitute "sending to" a player in the
+https://discord.gg/JCC6YGc discussion forum?
+
+First, the sole fact that the message was entered in a chat-based
+discussion forum is not sufficient for a message posted there to be
+considered "sent to" another player, even if that player is a frequent
+participant in that forum.  Players are not required to monitor/respond in
+discussion forums (CFJ 1888), and in the chat medium, it would be
+unreasonable to expect a potential recipient to have received a message
+from amongst a stream of generally-unrelated chat based on the message
+contents alone.
+
+At a bare minimum, the message (to be considered "sent to" a player) would
+need to use the medium-dependent metadata associated with @mentioning a
+player in Discord, which provides a generally-persistent flag to the
+receiving player that something has been addressed directly to them, which
+persists until they view the message.  This changes the effort of the
+recipient finding the message from "unreasonable" to "at least somewhat
+reasonable."  Requiring this as a bare minimum is a very minor hurdle for
+the sender, so it doesn't remove flexibility of the sender in choosing how
+to send the message via that medium (R478, in part, allows for Agoran
+actions to be taken even if all public fora are inoperative, and in such
+situations some flexibility in interpretation might be needed e.g. to
+prevent ossification).
+
+I'll note this would be a bare minimum.  For example, if a player was a
+member of the forum (capable of being messaged), but hadn't logged in for
+some months, this (sending a ping) might still be unreasonable, as there
+is no duty to monitor a DIS forum for any length of time, even while being
+a member.  That's for future edge cases to decide.  In this case, since
+the message in question didn't meet the bare minimum requirement for
+"sending to" that would be appropriate for that communication medium, I
+judge FALSE.
+
+==========================================================================

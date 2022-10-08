@@ -1,0 +1,98 @@
+===============================  CFJ 3954  ===============================
+
+      I have transferred exactly 2 coins to someone within the last 10
+      minutes.
+
+==========================================================================
+
+Caller:                        Madrid
+
+Judge:                         secretsnail
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Madrid:                                 06 Apr 2022 18:36:59
+Assigned to G.:                                   10 Apr 2022 05:37:44
+G. recuses emself:                                10 Apr 2022 18:01:12
+Assigned to secretsnail:                          11 Apr 2022 04:55:37
+Judged TRUE by secretsnail:                       11 Apr 2022 04:55:37
+
+==========================================================================
+
+Caller's Evidence:
+
+On Wed, Apr 6, 2022 at 8:33 PM secretsnail9 via agora-business wrote:
+> On Wed, Apr 6, 2022 at 12:57 PM Madrid via agora-business  wrote:
+>
+>> I create the following Promise and transfer it to the Library:
+>> {
+>> Cashing Conditions: None
+>>
+>> Text: If the person who cashes in this Promise has a Degree of some kind,
+>> then Madrid transfers to them 1 coin, otherwise, Madrid transfers to
+>> them 2
+>> coins.
+>> }
+>>
+>> I create the following Promise and transfer it to the Library:
+>> {
+>> Cashing Conditions: None
+>>
+>> Text: If the person who cashes in this Promise has a Degree of some kind,
+>> then Madrid Pledges the following: "I shall transfer to someone 1 coin
+>> between now and a month from now", otherwise, Madrid Pledges "I shall
+>> transfer to someone 2 coins between now and a month from now".
+>> }
+> >
+>
+> I take the first promise above from the library and cash it.
+>
+> I take the second promise above from the library and cash it.
+>
+> --
+> secretsnail
+
+--------------------------------------------------------------------------
+
+Judge secretsnail's Arguments:
+
+When a player cashes a promise, e acts on the creator of the promise's
+behalf, causing the creator to act as if e published the promise's text.
+
+So how would Madrid act if e published the following text at the time of
+the cashing?
+
+> > > {
+> > > Cashing Conditions: None
+> > >
+> > > Text: If the person who cashes in this Promise has a Degree of some
+> kind,
+> > > then Madrid transfers to them 1 coin, otherwise, Madrid transfers to
+> > them 2
+> > > coins.
+> > > }
+>
+(Note that cashing conditions are part of the text. It seems reasonable to
+assume "Cashing conditions: none" and "Text:" have no effect, as it's clear
+what action is meant to be taken.)
+
+We'll assume "the person who cashes in this Promise" is able to be
+evaluated, just as "the bearer" would be. The bearer in this case was
+secretsnail, so the text evaluates to "If secretsnail has a Degree, Madrid
+transfers em 1 coin, otherwise, Madrid transfers em 2 coins." So if Madrid
+published the promise's text, e would certainly be acting to transfer
+secretsnail 2 coins, as secretsnail has no Degrees.
+
+Therefore, the cashing of the promise would cause Madrid to act in that
+same manner, transferring 2 coins to secretsnail. This transfer is
+certainly a game action that Madrid could have taken at the time, so the
+Acting on Behalf requirements are met. It seems as though conditionals in
+promises generally work as intended so long as they would work if the
+creator published them.
+
+As such, I judge CFJ 3954 TRUE.
+
+==========================================================================
