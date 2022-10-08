@@ -1,0 +1,76 @@
+===============================  CFJ 3981  ===============================
+
+      I created a proposal in this message.
+
+==========================================================================
+
+Caller:                        secretsnail
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by secretsnail:                            19 Jul 2022 07:46:00
+Assigned to G.:                                   24 Jul 2022 22:56:00
+Judged FALSE by G.:                               24 Jul 2022 23:57:00
+
+==========================================================================
+
+Caller's Evidence:
+
+secretsnail wrote:
+> I do not create the following thing, which may be a proposal:
+>
+> {
+> Title: What is this
+> Adoption index: 1.0
+> Author: secretsnail
+> Co-author(s):
+>
+>
+> If this is a proposal, each player that has a valid vote FOR its 
+> adoption is granted 5 boatloads of coins.
+>
+> }
+>
+> If there is a proposal in this message, I create it.
+>
+
+
+Caller's Arguments:
+
+I think the "thing" up there isn't a proposal, but instead just a list of
+attributes, but a recent CFJ makes me doubt this so I just wanna see what
+happens.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First, the statement "I do not create the following thing, which may
+be a proposal" clearly did not meet the by-announcement standard of
+showing intent to perform an action, so it failed to create a
+proposal. Secondly, a proposal is an abstract entity created by a
+rules-defined process - a list of properties in itself is not a
+proposal.  Since a proposal is an abstract entity, a message can list
+the properties of a proposal, or provide sufficient information about
+a proposal to enable people to reference or report on it (when listing
+it, distributing it, etc.) but an abstract entity cannot be, strictly
+speaking, "in" a message. For most communications this is a common
+sense point that would be ignored - i.e., "I distribute the following
+proposal" is effectively the same and/or obvious shorthand for "I
+distribute the previously-created abstract proposal entity that
+uniquely has the following properties".  However, the explicit context
+of this CFJ seems to invite the judge to be pedantically strict in
+terms of the exact nature of what a proposal "is" and whether it can
+be contained within a message.  To that end, the conditional "If there
+is a proposal in this message" (as opposed to e.g. "If I previously
+created a proposal in this message") is, strictly speaking in this
+limited context, false (and would be false whether or not a proposal
+was previously created within the message).  Therefore, no proposal
+was created by that conditional.  I find FALSE.
+
+==========================================================================

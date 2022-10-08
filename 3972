@@ -1,0 +1,242 @@
+===============================  CFJ 3972  ===============================
+
+      At least one person was appointed Speaker in the quoted message.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        secretsnail
+
+Judge:                         nix
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     22 Jun 2022 21:46:00
+Assigned to nix:                                  22 Jun 2022 22:52:00
+Judged TRUE by nix:                               23 Jun 2022 16:46:00
+
+==========================================================================
+
+Caller's Arguments:
+
+At question is whether this clause in Rule 103/29:
+      If the office of Speaker has been held continuously by the same
+      person for 90+ days, then any player CAN appoint another player to
+      the office with support.
+means "if the present speaker has been in office for the last 90 days" or
+if it means "if any speaker has *ever* held the office for 90 continuous
+days".
+
+
+Caller's Evidence:
+
+At least one Speaker who held the office continuously for 90+ days is in
+this report:
+https://www.mail-archive.com/agora-official@agoranomic.org/msg09228.html
+
+
+Quoted message:
+
+On 6/22/2022 2:14 PM, secretsnail9 via agora-business wrote:
+>
+>> On Jun 22, 2022, at 3:58 PM, Forest Sweeney <notorious4st@gmail.com> wrote:
+>>
+>> ﻿
+>>> On Wed, Jun 22, 2022 at 1:06 PM secretsnail9 via agora-business <agora-business@agoranomic.org> wrote:
+>>
+>>> For each player in the below list, I intend, with support, to appoint
+>>> em to the office of The Speaker, in order of the list.
+>>> ...
+>> I support all intents in the above message.
+>
+>
+> For each player in the below list, I appoint em to the office of The
+> Speaker, in order of the list.
+>                 
+> ais523               
+> CreateSource         
+> cuddlybanana         
+> duck                 
+> G.                   
+> Gaelan               
+> Jason               
+> juan                 
+> Madrid               
+> Murphy               
+> nix                 
+> R. Lee               
+> Trigon               
+> 4st
+>
+> Sent from my iPhone
+> --
+> secretsnail
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by ais523:
+
+Arguments: there's another potential issue affecting the outcome of
+this CFJ: the method ("with support") wasn't stated when performing the
+action. Does that have an effect on whether it worked or not?
+
+My guess is that it doesn't – the tabled actions rules are worded as
+making the action possible by announcement subject to certain
+conditions, so the conditions probably don't need to be listed – but
+given how people hardly ever do tabled actions like that, it's probably
+worth making sure that it works.
+
+--------------------------------------------------------------------------
+
+Judge nix's Arguments:
+
+Opening
+-------
+
+Snail has attempted to appoint a series of players to Speaker with
+support, pursuant to the following clause in Rule 103:
+
+       If the office of Speaker has been held continuously by the same
+       person for 90+ days, then any player CAN appoint another player to
+       the office with support.
+
+In this CFJ I answer three challenges to this attempt to determine its
+overall success.
+
+Has the statement ever been true?
+---------------------------------
+
+This part is now trivial (tho it wasn't when the attempt was first made)
+because G. has provided us evidence that D. Margaux was Speaker for at
+least 90+ days in 2018-2019. The statement has, at least at one point,
+been true.
+
+Was this action correctly performed?
+------------------------------------
+
+In gratuitous arguments, ais523 asks whether tabled intents can be
+performed without specifying the method of performance. If they can't
+be, then this action failed regardless of if R103 allows it.
+
+Rule 2125 specifies that regulated actions can only be performed "as
+described by the Rules, and only using the methods explicitly specified
+in the Rules" for the action. So we know that this action can only be
+performed via a rule-defined method. According to Rule 1728, an intent
+is tabled "by announcement [...] conspicuously and without obfuscation
+specifying the action, the method (including non- default parameter
+values), and optionally, conditions". It also defines "with support" as
+a method. So to table a with-support intent, a person must specify that
+it is with support. These conditions were clearly met by the original
+intents.
+
+(Note an interesting ambiguity here, which I do not believe impacts this
+CFJ: "with support/objection/consent/notice" are defined as methods by
+Rule 1728. However, the actual method for performing tabled actions is,
+according to Rule 2124, "by announcement". These may be contradictions,
+or it's possible that both of them are the method(s) of performing the
+action.)
+
+Rule 2124 is the rule that allows the actual performance of tabled
+actions. This rule does not require specifying the method; it simply
+enables performing them by announcement if all conditions are met. Since
+specification is clearly required of the intent and absent from the
+performance, I find that the performance does not require you to specify
+the method of the tabled action. This action was correctly performed, if
+it is possible.
+
+Does Rule 103 allow this action?
+--------------------------------
+
+This question is the meat of the original challenge. The question is
+whether "has been held continuously" is equivalent to "ever has been
+held continuously" in this context. When this reading was first
+discussed on discord, a few of us (myself included) rejected it.
+However, others readily accepted it. These contradictory stances and the
+silence of rules and past judgment on this question leads me to consider
+current practice and the best interests of the game. It's worthwhile to
+discuss other uses of the phrase in the rules.
+
+Rule 911 states:
+
+       If a judgement has been in effect for less then seven days and has
+       not been entered into Moot, then:
+
+Rule 2553 states:
+
+       If a CFJ about the effectiveness, possibility, or legality of a
+       change in the gamestate has been assigned a judgment of
+       PARADOXICAL continuously for between 7 and 90 days, then that
+       case's initiator, CAN, by announcement, Transcend Logic,
+       specifying that CFJ, provided that e has not already won the game
+       with respect to that CFJ. When a person transcends logic, e wins
+       the game.
+
+It's worth noting that Rules 911 and 2553 clearly give maximum times. To
+rule that a moot can be entered on day 10 because that necessarily means
+it has been in effect for 6 days would contradict the obvious intention
+of the rule. However, 3972 does not include a maximum time. This is true
+in Rule 2438 as well:
+
+       White (W): A player qualifies for a White Ribbon if e has never
+       previously owned a White Ribbon (including under previous
+       rulesets). A player who has been registered for at least 30 days
+       and has never acted on eir own behalf to cause another person to
+       gain a White Ribbon (including under a previous ruleset) CAN act
+       on eir own behalf to award a White Ribbon to another person by
+       announcement.
+
+Here it may even be intentional and desirable that an old player can
+re-register and give out their ribbon.
+
+Some rules anticipate this ambiguity and provide extra verbiage to clarify.
+
+Rule 2646:
+
+       If a player has been inactive continuously for the past 60 days,
+       then any player CAN deregister em without 3 objections. The
+       Registrar SHOULD attempt to deregister players who meet this
+       condition
+
+Here "the past" clarifies previous intervals do not count.
+
+Rule 1789:
+
+       Whenever a Player feels that e has been treated so egregiously by
+       the Agoran community that e can no longer abide to be a part of
+       it, e may submit a document to the Registrar, clearly labeled a
+       Cantus Cygneus, detailing eir grievances and expressing eir
+       reproach for those who e feels have treated em so badly.
+
+While it's unlikely a player may submit a CC for something e no longer
+feels bad about, the use of "whenever" does theoretically limit it to
+this time.
+
+Clearly, some rules either provide context or explicit clarification to
+avoid this ambiguity. Additionally, there's at least one instance where
+the "ever has been" interpretation seems potentially desirable and intended.
+
+As far as best interest of the rules go, there are arguments both to
+allow this (because Agora should be permissive and it is an interesting
+and fun action) and disallow this (because it may make it harder to
+write and properly secure rules from scams in the future). However, to
+me it seems that the concrete impact of allow creative play is more
+important than the theoretical future harm.
+
+I find that Rule 103, and any rule with similar wording, allows this
+because it lacks explicit clarification or context intended to limit scope.
+
+Conclusion
+----------
+
+Having answered all questions asked, I find this CFJ TRUE. I re-iterate
+that context and clarification are important here. If a rule limits
+performance via a maximum timeframe or condition then those should be
+considered to limit performance to being within the given timeframe or
+conditions exclusively. If it lacks this context, or explicitly includes
+phrases such as "has ever been", then the more open interpretation can
+be presumed.
+
+==========================================================================

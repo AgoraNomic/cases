@@ -1,0 +1,174 @@
+===============================  CFJ 3983  ===============================
+
+      Jason added points to a player's score in the above quoted
+      message.
+
+==========================================================================
+
+Caller:                        secretsnail
+Barred:                        Jason
+
+Judge:                         ais523
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by secretsnail:                            30 Jul 2022 07:30:00
+Assigned to ais523:                               31 Jul 2022 21:14:00
+Judged TRUE by ais523:                            06 Aug 2022 10:47:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Arguments for FALSE: "Grant" is a term defined by the rules for use with
+assets. Points are not assets. So points cannot be granted, and the
+granting of points failed in the quoted message. Granting is a regulated
+action, so it cannot be done unless described by the rules, and granting is
+not described for points.
+
+
+Caller's Evidence:
+
+> Rule 2125/13 (Power=3)
+> Regulated Actions
+>
+>       An action is regulated if: (1) the Rules limit, allow, enable, or
+>       permit its performance; (2) the Rules describe the circumstances
+>       under which the action would succeed or fail; or (3) the action
+>       would, as part of its effect, modify information for which some
+>       player is required to be a recordkeepor.
+>
+>       A Regulated Action CAN only be performed as described by the
+>       Rules, and only using the methods explicitly specified in the
+>       Rules for performing the given action. The Rules SHALL NOT be
+>       interpreted so as to proscribe unregulated actions.
+>
+> from Rule 2166/31 (Power=3)
+> Assets
+>
+>       An asset is an entity defined as such by a document that has been
+>       granted Mint Authority by the Rules (hereafter the asset's backing
+>       document), and existing solely because its backing document
+>       defines its existence. An asset's backing document can generally
+>       specify when and how that asset is created, destroyed, and
+>       transferred.
+>
+>       The rules collectively have Mint Authority. Contracts have Mint
+>       Authority. An asset defined by rule or regulation is public; any
+>       other asset is private.
+>
+>       ...
+>
+> from Rule 2577/7 (Power=3)
+> Asset Actions
+>
+>       An asset generally CAN be destroyed by its owner by announcement,
+>       subject to modification by its backing document. Attempts to
+>       destroy no assets are successful. An indestructible asset is one
+>       defined as such by its backing document, and CANNOT be destroyed
+>       except as explicitly specified by its backing document; any other
+>       asset is destructible.
+>
+>       For an entity to gain (historical syn. earn) an asset is for that
+>       asset to be created in that entity's possession. To grant an
+>       entity an asset is to create it in eir possession. To grant an
+>       entity a set of assets is to create each asset in the set in eir
+>       possession.
+>
+>       . . .
+>
+>
+>
+> Rule 2656/2 (Power=1.5)
+> Points
+>
+>       A player's Score, indicated in Points, is an integer player switch
+>       defaulting to 0, tracked by the Herald.
+>
+>       Upon a correct announcement from a player that one or more players
+>       have a score of 100+ points, all players meeting this condition
+>       win the game.  If a least one player wins the game via such an
+>       announcement, the scores of the winning players are set to their
+>       default, and then all other players' scores are set to half their
+>       current value rounded down.
+>
+>       The Herald CAN once each, by announcement, grant 15, 10, and 5
+>       boatloads of coins to the players who had the most, second most,
+>       and third most points (respectively) at the end of the previous
+>       quarter. E SHALL do so in a timely manner after the beginning of
+>       the quarter.
+>
+>       At the start of every quarter, all Scores are set to half their
+>       current value rounded down.
+>
+>
+> from Rule 2657/5 (Power=1)
+> Scoring
+>
+>       Each time a player fulfills a scoring condition, the officer
+>       associated with the condition CAN once by announcement, and SHALL
+>       in an officially timely fashion, add to that player's score the
+>       associated amount of points, rounded down.
+>
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+Rule 2577 says "To grant an entity an asset is to create it in eir
+possession. To grant an entity a set of assets is to create each asset
+in the set in eir possession." So what does the word "grant" mean when
+used for something other than an asset?
+
+The rules frequently use the word "grant" in contexts other than
+granting assets, e.g. rule 2166, "granted Mint Authority"; rule 2496,
+"granted a Degree"; rule 2643, "granted immunity" (and rule 2654,
+"grant eir Ministry Focus' Device"). In such situations, it's clear
+that they aren't trying to refer to the specific action of granting an
+asset, but rather some other meaning of the word "grant". The word
+isn't specifically defined by the rules in the context envisaged by
+this CFJ – the wording of rule 2577 is clear that it's only defining
+"grant" when it applies to an asset or set of assets – so it defaults
+to its normal English meaning, as a synonym for "give" or "bestow".
+
+Is this a sufficiently clear synonym for the "add to that player's
+score" action in rule 2657? I interpret Jason's form of wording "I
+grant X Y points" as ambiguous between "I increase X's score by Y
+points" and "I increase X's score by Y points by decreasing my score by
+Y points" (based on the regular English meaning of the word 'grant').
+So this CFJ comes down to whether Jason successfully "specified the
+action" that e wanted to perform, as required by rule 478.
+
+In general, I think that this form of wording might incur some
+ambiguity. In this specific case, though, I think there are enough
+clues from context that no ambiguity is possible:
+
+a) The action was taken as part of a series of other actions which
+unambiguously used "grant" to mean "create in the possession of", and
+it would be strange to change the meaning of the word "grant"
+repeatedly in the middle of the sequence;
+
+b) The "for the adoption of" prefix makes it clear that this is an
+attempt to take the rule 2657 action; and
+
+c) Jason was attempting to grant the points to emself; the "transfer"
+meaning of "grant" doesn't make sense in that context, but the "create
+in the possession of" meaning does.
+
+So in conclusion, I think Jason got lucky here, that there was only one
+plausible way to interpret eir actions. I don't find clue b)
+sufficiently convincing, and a) is borderline, but c) is convincing.
+Had the details been slightly different, it's quite possible that this
+action attempt wouldn't meet the rule 478 standards of unambiguity.
+
+(And to address the caller's argument directly: it is true that "grant
+an asset" is a regulated action, but this is not relevant, because the
+issue at question is not about whether or not an asset was granted. The
+Ruleset as a whole is pretty clear that granting is not something that
+is limited to assets.)
+
+I judge CFJ 3983 TRUE.
+
+==========================================================================

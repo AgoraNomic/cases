@@ -1,0 +1,125 @@
+===============================  CFJ 3982  ===============================
+
+      The proposal listed above was distributed.
+
+==========================================================================
+
+Caller:                        secretsnail
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by secretsnail:                            30 Jul 2022 07:01:00
+Assigned to G.:                                   31 Jul 2022 21:12:00
+Motion to extend filed:                           07 Aug 2022 15:25:00
+Judged FALSE by G.:                               15 Aug 2022 12:13:00
+
+==========================================================================
+
+Caller's Evidence:
+
+>>> 8817~   secretsnail             3.05  No Duplication Allowed
+>> CoE: This was not validly distributed because it was not in the
+>> proposal pool.
+
+
+The purported double creation:
+https://www.mail-archive.com/agora-business@agoranomic.org/msg43032.html
+
+
+Rule 2350/16 (Power=3)
+Proposals
+      A proposal is a type of entity consisting of a body of text and
+      other attributes. A player CAN create a proposal by announcement,
+      specifying its text and optionally specifying any of the following
+      attributes:
+      * An associated title.
+
+      * A list of coauthors (which must be persons other than the
+        author).
+
+      * An adoption index.
+
+      Creating a proposal adds it to the Proposal Pool. Once a proposal
+      is created, its text, author, and AI cannot be changed. The author
+      (syn. proposer) of a proposal is the person who submitted it.
+
+      The author of a proposal in the Proposal Pool CAN remove (syn.
+      retract, withdraw) it from the Pool by announcement.
+
+
+Caller's Arguments:
+
+Arguments FOR: The rules say I CAN do it, so creating the proposal should
+have worked, and the distribution seems fine. There's no inherent inability
+to create something that's already been created, and even if there was, the
+rules still say you CAN do it which may override that, or maybe there's a
+contradiction that arises because of this in the rules in which case the
+Proposals rule may or may not take precedence. There's also the issue of
+"the following proposal" not actually referring to a proposal, which may
+make the "second creation" work as it isn't actually creating the same
+proposal twice, but two separate proposals that have the following
+attributes listed in the message of creation. I'm mainly calling this CFJ
+because I want a more comprehensive argument than the last time this came
+up in a CFJ, as that judgement left many points unaddressed, and there was
+lengthy discussion afterwards that may be helpful for making this judgement
+more complete.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+"Create" in the context of a game object means to bring into being
+something that doesn't exist.  For example, in R105/22, the "enactment" of
+a rule is described without the use of the word "create".  However, later
+in the rule it says:
+
+>      This rule provides the only mechanism by which rules can be
+>      created, modified, or destroyed, or by which an entity can become
+>      a rule or cease to be a rule.
+
+For Rule 105's last paragraph to function, we have to take "create" as a
+synonym for "enact", and perform the logical test "does the rule already
+exist?  If so it's not an enactment but instead it's a modification".  In
+other words, we need to read into R105 the common sense meaning of
+"create" so that it's not possible to enact/create an existing rule.  I
+think the use of "create" in reasonable common context is strong enough
+that, if a rule were to enable the creation of an object that already
+existed, it would have to be explicit at redefining the term (e.g. to say
+'a X CAN be created even if it already exists' explicitly in the rule and
+describe exactly what that means).
+
+This is true for proposals as well.  Any attempt to "create" a proposal by
+referencing a previously-created proposal is either (1) a successful
+attempt to create a new proposal with the same specified text and other
+properties as the original proposal, but still being a unique new
+proposal; or (2) a failed attempt to "create" something already created,
+because you can't create already-existing things.
+
+Whether a creation attempt falls into (1) or (2) is not an absolute but
+rather contextual.  In favor of (1), we generally allow shorthand and/or
+obvious intent of saying "I create the following proposal" instead of "I
+create a proposal with the following specified properties" so it pays to
+be flexible when the author's intent is clear and unambiguous.  However,
+in favor of (2), if an explicit context is supplied that confuses the
+issue ("I create a proposal that's the same proposal as the following one,
+and is not a copy") that's enough to push it to failure, because the
+intent required for by-announcement actions is either a different intent
+or unclear.
+
+In the quoted message, the caller is clearly setting up a situation where
+e intends to try and create the same item twice.  The first attempt
+succeeds within our reasonable range of communication[0] (using "the
+following proposal" instead of "a proposal with the following text").
+However, contextually, the second attempt shows an expressed intent to
+"re-create" the original rather than create a copy, so it's not possible
+to do so.
+
+Assuming "the proposal referenced above" refers to the entity labeled as
+8817 in the quoted test, I find FALSE.
+
+==========================================================================

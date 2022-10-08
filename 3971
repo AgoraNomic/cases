@@ -1,0 +1,256 @@
+===============================  CFJ 3971  ===============================
+
+      My attempt to intend to perform a tabled action in the
+      above-quoted message succeeded.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         secretsnail
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 22 Jun 2022 21:08:00
+Assigned to secretsnail:                          22 Jun 2022 22:50:00
+Judged TRUE by secretsnail:                       28 Jun 2022 15:32:00
+Motion to reconsider group-filed:                 30 Jun 2022 04:22:00
+Judged TRUE by secretsnail:                       10 Jul 2022 22:16:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On Jun 22, 2022, at 3:15 PM, ais523 via agora-business wrote:
+>
+> ﻿I intend, with support, to appoint ais523 to the office of Speaker.
+>
+> [As far as I can tell, although I can't actually resolve this intent,
+> that doesn't prevent me making the intent. It seems as though it could
+> potentially be resolved by someone else?]
+
+
+Caller's Arguments:
+
+This basically boils down to whether I can intend to perform a tabled
+action, despite it being an action that I personally could not perform
+even if I had the required support. There are situations in which one
+person can act on a different person's intent (either due to an office
+changing hands, or due to the "I support and do so" mechanism), so it
+can matter whether the intent is valid even if the stated action isn't
+possible.
+
+Historically, I think we've held that intents to perform an impossible
+action are valid, and can be made in case, e.g., rule changes make that
+action possible in the future, although the action has to be described
+precisely enough to make it clear that the intent matches up. This
+situation is analogous. (As a side note, rule 2471 has an explicit
+exception for intents – this was designed so that a player could table
+an intent to perform an action simply so that they'd have the option
+available, without planning to actually act on the intent later on,
+despite the wording of the announcement.)
+
+However, the rules for tabled actions have changed since the previous
+precedents, and they may no longer be applicable; a judge would need to
+check the current wording of the rule and see if anything has changed.
+In particular, the key to the case seems to be whether "table an intent
+to perform a tabled action" permits intents to perform a hypothetical
+tabled action, or only tabled actions that are defined in the rules.
+
+For what it's worth, I've been assuming that you can intend to
+deactivate someone before they've been inactive for 30 days (e.g.
+because you're planning to resolve the intent after the 30-day timer
+has expired) – the action that you're intending to perform is an action
+that can only be performed in the future, but that's fine because the
+your intention is to perform the action in the future, rather than
+right now. So "you can only intend to perform an action that you could
+(if you had an appropriately ripe intent) perform right now" seems like
+it's the wrong reading of the rule. Another possibility is "you can
+only intend to perform an action that you could (if you had an
+appropriately ripe intent) perform in the future", but that's a future
+conditional, and those are almost impossible to resolve correctly (and
+in this case, the 14-day ripeness limit is enough time to pass a
+proposal to make the action possible, so this sort of future
+conditional would hardly exclude anything anyway). So the most
+reasonable reading seems, to me, to be "you can intend to perform an
+action even if you can't envisage circumstances under which you could
+actually perform it".
+
+However, there's a disagreement about this, thus this CFJ.
+
+(The judge might also want to opine on whether the intent in question
+could be acted upon, without rules changes, if it's resolved by a
+supporter rather than the sponsor – the action of "appoint ais523 as
+Speaker" is impossible for ais523 but would be possible for a
+hypothetical supporter of the intent. I didn't file a separate CFJ on
+this because it was too difficult to come up with a short and loophole-
+free statement.)
+
+--------------------------------------------------------------------------
+
+Judge secretsnail's Arguments [after motion to reconsider]:
+
+"An action is a Tabled Action if it is performed with one of the
+      following methods:
+      * With N Support, where N is a positive integer.
+      * Without N Objections, where N is a positive integer.
+      * With N Agoran Consent, where N is a positive integer multiple of
+        0.1.
+      * With T notice, where T is a time period."
+
+What does it mean for an action to be "performed" with a method?
+
+Rule 478 (Fora) gives a very explicit definition for "by announcement":
+
+Where the rules define an action that a person CAN perform "by
+      announcement", that person performs that action by, in a single
+      public message, specifying the action and setting forth intent to
+      perform that action by sending that message, doing both clearly
+      and unambiguously.
+
+Does such a definition for taking an action "with support" or "without
+objection" exist? It would need to exist in order for us to take such
+actions, and this section of Rule 2124 (Performing Tabled Actions) seems to
+be the definition for what it means to perform a tabled action:
+
+A rule purporting to allow a person to perform a tabled action
+      allows em to do so by announcement, if, considering only intents
+      for that action/method combination:
+
+The rule here allows people to perform a tabled action, which is an action
+performed with support, for example, by announcement. The question arises:
+are actions taken through this method actually tabled actions? Are they
+still performed "with support" or only by announcement?
+
+Let's consider that they are not, that they are just performed by
+announcement; no actions would be tabled actions, then, because none of
+them are actually performed by a tabled action method. Yet the rules
+describe them as being taken "with support", so they ARE tabled actions if
+we believe those rules. This interpretation would make the rules
+contradict each other, which isn't good for the game, so the alternative
+is probably better:
+
+For an action to be performed "with support", for example, is for the
+action to be taken by announcement through the "with support" part of Rule
+2124 (Performing Tabled Actions)
+
+allows em to do so by announcement, if, considering only intents
+      for that action/method combination:
+      * With N Support: e is a sponsor or supporter of a ripe intent with
+        at least N supporters.
+
+That is, fulfilling these requirements in order to take the action by
+announcement IS performing the action "with support", making it a tabled
+action. The same applies to all tabled action methods.
+So what's left to answer is if ais523 tabled an intent to perform a tabled
+action. Can an action that is not defined by the rules as able to be taken
+with a tabled action method still be a tabled action?
+We come back to the question of what it means for an action to be
+"performed by" a certain method. When is this evaluated?
+Suppose we have an action, X, we CAN take by announcement or CAN take by
+another method, let's call it "by floopment". 
+Is X performed by announcement?
+
+The answer is, well, that the question is malformed. The action CAN
+certainly be performed by announcement. But IS the action performed by 
+announcement is an entirely different question. The action could be
+performed by announcement, or by floopment, or maybe not performed at all.
+Saying the action IS performed by announcement would be a mistake when
+there is an alternative, that it ISN'T performed by announcement, that it
+HAS NEVER been performed that way but may be at a later date.
+
+So when we are asked "is this action performed with support" the
+interpretation should not be "CAN this action be performed with support" as
+that is not what is being asked. What is more reasonable to ask "has this
+action been performed through this method?"
+
+"An action is a Tabled Action if it is performed with one of the
+      following methods:"
+
+This is evaluated when the action is actually performed. Did the action
+occur through the method of "with support", or another tabled action method?
+Or, you could also ask, would it be?
+
+It's simple to realize that if you were to take an action by announcement,
+that action would be performed by announcement. That is, hypothetical
+actions taken by announcement can be said to be performed by announcement,
+when taken.
+
+The same reasoning can be applied to tabled action methods, letting
+hypothetical tabled actions be intended.
+
+Suppose the opposite was true: hypothetical actions don't count, as they
+haven't been performed yet by that method. That would still break tabled
+actions and be harmful for the game, as no actions would be tabled actions
+because no actions have been performed by tabled action methods before they
+are performed.
+
+So, hypothetical actions that would be performed by a tabled action method
+are tabled actions, whether or not you can actually take them, thus you can
+intend to take them even if you actually can't, and ais523's intent to take
+a non-rules-defined tabled action succeeded because it would be performed by
+a tabled action method if taken.
+
+We should look at the rules for Regulated actions to cover everything,
+though:
+
+A Regulated Action CAN only be performed as described by the
+      Rules, and only using the methods explicitly specified in the
+      Rules for performing the given action.
+
+
+You can make the connection that an action "is performed with a method"
+means that action "CAN be performed by that method as described by the
+rules", but that seems like a bit of a jump given the wording is
+significantly different as argued, "is performed" vs "CAN be performed".
+
+As the rules don't explicitly say that tabled actions have to be
+rules-defined to be intended, we shouldn't just assume that's what the
+rules mean. We should consider it, but there's no evidence that suggests it
+to be true. The lack of an explicit requirement to be rules-defined more
+implies that there is no requirement to be rules-defined than there being
+one.
+
+Accepting this reading would lead to some consequences: actions would be
+tabled or non-tabled based on current, fluctuating circumstances: you must
+be X to take this action, you intend to take an action while you are X, but
+then become not X... your intent to take a tabled action would no longer be
+an intent to take a tabled action, which could lead to some issues. It
+should be unambiguous whether an action is tabled, and that can be easily
+gotten from evaluating tabled-ness only when the action is actually taken
+by some method. We can only tell if an action is performed by a method when
+it is performed by that method, as the text suggests. So in intents to
+perform tabled actions, all the tabled actions are hypothetical. They may
+or may not be performable at the time. This is also supported by only
+requiring the specification of "the action" and "the method", and not "the
+tabled action". The action does not to be a confirmed tabled action at the
+time of the intent, it just needs to be an action that will be tabled when
+performed through "the method".
+
+But considering it as an equally valid reading, we should look at the 4
+factors from Rule 217. Game custom and previous judgements don't seem too
+helpful in the current situation as I can't find any good examples for
+custom and previous judgements would also be out of date with the rule
+change, though if they did hold that intents to perform impossible actions
+could be made in the previous rules, that might favor the "is performed" is
+not "CAN be performed" interpretation. For common sense, as ais523 pointed
+out, it makes sense to be able to intend to do an action even if you can't
+actually do it. Best interest of the game? The "is performed" is not "CAN
+be performed" interpretation is more flexible, letting players intend to do
+an action that will be available in the future, even if they can't take it
+now, which seems good and interesting for the game. So it seems like it
+leans to the non-rules-defined tabled action interpretation, and given
+there's no outweighing reason to pick the "must be rules-defined"
+interpretation, a hypothetical tabled actions allowance is the better way
+to judge.
+
+I hold that all tabled actions in intents are hypothetical and that those
+intents to perform them can be made, and that tabled actions performed by
+announcement through Rule 2124 (Performing Tabled Actions) are still taken
+through their respective tabled action methods, in addition to being taken
+by announcement. I judge CFJ 3971 TRUE.
+
+==========================================================================

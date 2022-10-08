@@ -1,0 +1,132 @@
+===============================  CFJ 3968  ===============================
+
+      A player CAN buy bird food.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Murphy
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     15 Jun 2022 18:42:00
+Assigned to Murphy:                               18 Jun 2022 17:25:00
+Judged TRUE by Murphy:                            20 Jun 2022 00:04:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Rule 2663/0 (Bird Migration) professes to empower the buying of bird food
+as a fee-based action:
+
+>      A player CAN buy bird food by paying a fee of 5 boatloads of
+>      coins.
+
+As defined in Rule 2579/3 (Fee-based Actions), any fee is a simultaneous
+pair of actions (transferring the funds and performing the action are
+explicitly simultaneous by that rule).
+
+Importantly, while the power=3 Rule fee-based actions *defines* what
+happens for a fee, it doesn't actually empower any transfers (no CANs and
+so forth).  Therefore, it is Rule 2663/0 that empowers the simultaneous
+actions of transferring coins and buying bird food.
+
+Unfortunately, simultaneous actions are secured-2, so the power-1 R2663
+can't do this, due to R478/40:
+>      Allowing actions performed by
+>      sending a message to take place simultaneously must be done
+>      explicitly and is secured at power 2.
+
+
+Caller's Evidence:
+
+------------------------------------------------------------------------
+Rule 2663/0 (Power=1) [excerpt]
+Bird Migration
+
+      A player CAN buy bird food by paying a fee of 5 boatloads of
+      coins.
+
+------------------------------------------------------------------------
+Rule 2579/3 (Power=3)
+Fee-based Actions
+
+      If the Rules associate payment of a set of assets (hereafter the
+      fee for the action; syns: cost, price, charge) with performing an
+      action, that method for performing that action is a fee-based
+      method.
+
+      If the fee is a non-integer quantity of a fungible asset, the
+      actual fee is the next highest integer amount of that asset.
+
+      To use a fee-based method, an entity (the Actor) who is otherwise
+      permitted to perform the action must announce that e is performing
+      the action; the announcement must specify the correct set of
+      assets for the fee and indicate intent to pay that fee for the
+      sole purpose of using that method to perform that action.
+
+      Upon such an announcement:
+
+        - If the Rules specify a recipient for the fee, and the Actor
+          CAN transfer that specified fee from emself to the recipient,
+          then that fee is transferred from the Actor to the recipient
+          and the action is performed simultaneously;
+
+        - If the Rules do not specify a recipient, and the Actor CAN
+          destroy the specified fee in eir possession, then that fee in
+          eir possession is destroyed and the action is performed
+          simultaneously.
+
+        - Otherwise, no changes are made to asset holdings and the
+          action is not performed.
+
+------------------------------------------------------------------------
+Rule 478/40 (Power=3) [excerpt]
+Fora
+
+ sending that message, doing both clearly
+      and unambiguously.
+
+      Any action performed by sending a message is performed at the time
+      date-stamped on that message. Actions in messages (including
+      sub-messages) are performed in the order they appear in the
+      message, unless otherwise specified. Allowing actions performed by
+      sending a message to take place simultaneously must be done
+      explicitly and is secured at power 2.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+This breaks down into two parts: allowing actions performed by sending a
+message to take place, and allowing simultaneity of said events. Only
+the latter is restricted by Rule 478, so Rule 2663 covers the former and
+Rule 2579 covers the latter. This is in line with the spirit of Rule 217
+(Interpreting the Rules):
+
+                Definitions in lower-powered Rules do not overrule
+       common-sense interpretations or common definitions of terms in
+       higher-powered rules, but may constructively make reasonable
+       clarifications to those definitions. For this purpose, a
+       clarification is reasonable if and only if it adds detail without
+       changing the underlying general meaning of the term and without
+       causing the higher powered rule to be read in a way inconsistent
+       with its text.
+
+A hypothetical power<2 rule with text such as "A player CAN by
+announcement simultaneously transfer two widgets to two different
+players" would probably still allow the transfers, they would just be
+sequential rather than simultaneous, presumably in the order that the
+two players were listed. If they were specified simultaneously, e.g.
+"the two players satisfying <condition>", then presumably the old
+standard of "still works as long as it makes no substantive difference
+which order is chosen" would still apply as game custom.
+
+I judge TRUE.
+
+==========================================================================

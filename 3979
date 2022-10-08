@@ -1,0 +1,46 @@
+===============================  CFJ 3979  ===============================
+
+      Proposals 8806 through 8810 were submitted.
+
+==========================================================================
+
+Caller:                        4st
+
+Judge:                         ais523
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by 4st:                                    11 Jul 2022 03:01:00
+Assigned to ais523:                               11 Jul 2022 22:19:00
+Judged TRUE by ais523:                            15 Jul 2022 21:57:00
+
+==========================================================================
+
+Judge ais523's Arguments:
+
+This time, the attempted action was is "5 times, I submit a proposal
+with the following attributes:". This is significantly different from
+the case of CFJ 3978 because the text of the message no longer states
+that the same proposal is being submitted each time (rather, it simply
+requires the proposals to have the same attributes). If "submit" and
+"create" are synonyms, this clearly works because it's possible to
+create five identical proposals, and this is the only sensible reading
+of the text; and although it's an "abbreviated message", it would be
+possible to write out the non-abbreviated version in the body of an
+email, which is the normal test for whether the abbreviation is
+allowed.
+
+If "submit" and "create" are not synonyms, this fails due to using the
+wrong verb, and thus attempting to take an impossible action. As
+explained in my verdict of CFJ 3978, I think that interpreting them as
+synonyms is a possible reading of rule 2350, in which case it easily
+wins the rule 217 tiebreak. If anyone thinks that this isn't consistent
+with the text of the rules, they should probably appeal this CFJ (but
+this doesn't affect the verdict of 3978, only 3979).
+
+I judge CFJ 3979 TRUE
+
+==========================================================================

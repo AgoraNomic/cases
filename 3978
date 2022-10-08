@@ -1,0 +1,79 @@
+===============================  CFJ 3978  ===============================
+
+      Proposals 8724 through 8804 were submitted.
+
+==========================================================================
+
+Caller:                        4st
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by 4st:                                    11 Jul 2022 03:01:00
+Assigned to ais523:                               11 Jul 2022 22:19:00
+Judged FALSE by ais523:                           15 Jul 2022 19:51:00
+
+==========================================================================
+
+Judge ais523's Arguments:
+
+The text used by the author was "81 times, I submit the following
+proposal:". The meaning of "the following proposal" seems fairly clear
+that it refers to only a single proposal, so this was an attempt to
+submit one proposal multiple times.
+
+What rules-defined effect does that have? Rule 2350 talks about both
+"creating" and "submitting" proposals, with almost everything caring
+about the creation rather than the submission. It also explicitly gives
+a mechanism for doing the creation, but there's no mechanism available
+for doing the submission. I can see two plausible readings:
+
+a) For proposals, "create" and "submit" are synonyms.
+
+b) "Creating" and "submitting" a proposal are two different actions,
+the latter action being impossible because there's no mechanism to
+perform it.
+
+The only difference between these two readings is how the proposal's
+author is defined; in reading a), a proposal's author is its creator;
+in reading b), proposals have no author (but the proposal system
+otherwise works correctly). I can't see anything in the rules that
+implies that proposals have to have an author (rule 107 requires the
+Promotor to specify a proposal's author when distributing it, but it
+seems like that requirement could be satisfied by saying "this proposal
+has no author" – it's clearly possible to have a proposal with no
+coauthors, and those can be distributed), and past CFJs (e.g. CFJ 1780)
+have found that there are situations in which proposals with no author
+can exist.
+
+Reading a) clearly wins a rule 217 tie-break, but I'm not sure it's
+actually consistent with the wording of the rules; it may be that we
+have to go with the absurd reading b) because anything else would
+violate the literal text of the rules. I think that reading a) is
+legitimate because "submit" is effectively defined as "become an author
+of" (because "author" is defined as "person who submitted"), and a
+proposal's author cannot be changed after creation, so the only way to
+submit a proposal (i.e. become the author of one) is to create it. This
+is a little tortured, though, and so I wouldn't be surprised if another
+judge found differently.
+
+Regardless of how this wording snarl-up is fixed, though, the action
+taken when trying to create/submit the proposals is impossible – the
+verdict of this CFJ doesn't actually depend on whether creating and
+submitting proposals are synonyms or not. If submitting a proposal is a
+synonym for creating it, trying to create the same proposal 81 times is
+something that goes against the plain meaning of "create" – creating
+something causes it to exist, so you can't create something that
+already exists. If submitting a proposal isn't a synonym for creating
+it, then proposals can't be "submitted" because there's no mechanism to
+do so (and the message didn't succed in creating the same proposal 81
+times, either), but this doesn't break the game because in taht
+reading, "submitting" proposals isn't a required step in adopting them.
+
+I judge CFJ 3978 FALSE.
+
+==========================================================================

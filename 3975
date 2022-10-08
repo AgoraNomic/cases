@@ -1,0 +1,89 @@
+===============================  CFJ 3975  ===============================
+
+      My coin balance is now 6805.
+
+==========================================================================
+
+Caller:                        Madrid
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Madrid:                                 24 Jun 2022 07:12:00
+Assigned to ais523:                               26 Jun 2022 03:08:00
+Judged FALSE by ais523:                           01 Jul 2022 23:18:00
+
+==========================================================================
+
+Caller's Evidence:
+
+Madrid wrote:
+>
+> I create the following contract called 'Relevance Forcer':
+>
+> "Madrid CAN transfer 1 coin to this contract by announcement.
+>
+> If proposal 305 has an AI, Madrid CAN transfer 1 coin from this contract
+> to themselves by announcement."
+>
+> I then transfer 1 coin to Relevance Forcer, twice. I then transfer 1 coin
+> from Relevance Forcer to myself via the power given to me by the last
+> paragraph of that contract.
+>
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+The relevant rule is this portion of Rule 1742/23:
+{{{
+A party to a contract CAN perform any of the following actions as
+explicitly and unambiguously permitted by the contract's body:
+[...]
+* By announcement, transfer liquid assets from the contract to a
+  specified recipient.
+}}}
+
+Is it unambiguously true that proposal 305 has an AI? If it can't be
+figured out within reasonable effort, then it isn't – the rules are
+designed to prevent "escalation of ambiguities" in which uncertainty
+about a contract's gamestate expands to uncertainty about the gamestate
+as a whole, and the "unambiguously" prevents that because if something
+can't be calculated without unreasonable effort, it doesn't
+unambiguously have a particular value.
+
+By rule 1950, all proposals have an AI by definition ("none" is a
+possible AI value for Agoran decisions, but not for proposals, thus all
+proposals have an AI). As such, the condition in the contract
+unambiguously collapses to "'proposal 305' exists and is a proposal"
+(because if 'proposal 305' doesn't exist, or it's ambiguous which
+entity it refers to, or whether that entity is a proposal, the contract
+isn't unambiguously making the transfer possible).
+
+Does proposal 305 unambiguously exist as a proposal, in an Agora-legal
+sense? I don't think we can say that it does. (There's enough publicly
+available information to determine (with considerable effort) that
+there was a proposed Rule Change numbered 305, and even to get an idea
+of what it was, but not to determine whether it is a "proposal" in the
+modern sense or some other sort of entity (because that depends on the
+entire history of changes to Agora's proposal system). The rules for
+contracts permitting things don't care about whether the statement is
+true, but how easy it is to determine that it's true; the standard
+should be at least that a reasonable Agoran could work it out without
+unreasonable effort after checking a couple of reports, and the
+existence of 'proposal 305' as a current proposal clearly doesn't meet
+that standard. Doubts about the facts introduce ambiguity.)
+
+According to the Treasuror's Report of June 13 (which has since self-
+ratified), Madrid had 6806 coins at that point. I didn't notice any
+coin transfers that would have affected Madrid's total between the
+report and the transfers. As such, Madrid should have had 6804 coins at
+the time of calling the CFJ.
+
+I judge CFJ 3975 FALSE.
+
+==========================================================================
