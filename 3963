@@ -1,0 +1,249 @@
+===============================  CFJ 3963  ===============================
+
+      Jason is the Arbitor, nix is the Prime Minister, and nix is the
+      Registrar.
+
+==========================================================================
+
+Caller:                        secretsnail
+Submitted to:                  Referee
+
+Judge:                         Jason
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by secretsnail:                            16 May 2022 03:21:22
+Assigned to Jason:                                16 May 2022 04:30:00
+Judged TRUE by Jason:                             20 May 2022 01:20:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sun, May 15, 2022 at 7:08 PM Edward Murphy via agora-official wrote:
+> I resolve elections as follows. Quorum for each is 4.
+>
+> Arbitor
+>    Murphy      - endorse Jason
+>    Jason       - Jason
+>    ais523      - Jason
+>    Madrid      - secretsnail
+>    G.          - (Jason, secretsnail)
+>      Jason 4, secretsnail 1; Jason wins
+>
+> Prime Minister
+>    Murphy      - (Murphy, nix)
+>    Jason       - (Jason, nix, Murphy, secretsnail, G.)
+>    ais523      - (Murphy, Jason, nix)
+>    nix         - (nix, Murphy, Jason)
+>    duck        - secretsnail
+>    Madrid      - secretsnail
+>    G.          - (nix, Murphy)
+>    secretsnail - (secretsnail, nix)
+>      secretsnail 3, Murphy/nix 2, Jason 1; Jason is eliminated
+>      nix/secretsnail 3, Murphy 2; Murphy is eliminated
+>      nix 5, secretsnail 3; nix wins
+>
+> Registrar
+>    Murphy      - endorse nix
+>    Jason       - endorse nix
+>    ais523      - nix
+>    duck        - secretsnail
+>    secretsnail - secretsnail
+>    nix         - (nix, secretsnail)
+>    Madrid      - secretsnail
+>    G.          - (secretsnail, nix)
+>      nix 4, secretsnail 3; nix wins
+>
+
+Note: every voter above has 3 voting strength except for Madrid who has a
+voting strength of 2
+
+
+Caller's Arguments:
+
+Arguments AGAINST: None of the elections contain a "tally" of the voters'
+valid ballots, which is necessary for the resolutions to be EFFECTIVE. The
+lists of players and their ballots have no sums, and are not even grouped
+by what each ballot is, which is hardly a tally.
+
+CFJ 1710 very clearly sets a precedent that a tally is a sum:
+https://github.com/AgoraNomic/cases/blob/6cd01d92c5513424dbe585687357b35d34c80e6d/1710
+
+Notes: The resolutions also do not evaluate conditionals and have incorrect
+values for the numbers of ballots each candidate received, which
+additionally aren't clearly labelled. G. was not explicitly eliminated in
+the PM election while Jason and Murphy were, though explicit elimination is
+regulated here and wasn't actually necessary in any election here:
+
+         In case multiple valid options tie for the lowest number of votes
+         at any stage, the vote collector CAN and must, in the
+         announcement of the decision's resolution, select one such
+         option to eliminate; if, for M > 1, all eir possible choices in
+         the next M stages would result in the same set of options being
+         eliminated, e need not specify the order of elimination.
+
+CFJ 1822 seems to contradict CFJ 1710 as it calls a collection of ballots a
+tally without there being a sum, but the relevant collection (
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2007-December/008430.html)
+differs from these elections in that Murphy listed Voter-vote pairs, while
+BobTHJ listed Vote - (List of Voters) pairs. The latter is more tally-like,
+as you could convert each name to tally marks, and you'd have an easy
+tally. CFJ 1822:
+https://github.com/AgoraNomic/cases/blob/6cd01d92c5513424dbe585687357b35d34c80e6d/1822
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+The caller's arguments hinge on whether a listing of ballots can qualify
+as a "tally of the voters' valid ballots" under Rule 208.
+
+"Tally" is not defined in the rules, so it has its natural language
+meaning. Here are definitions of the wood from various sources:
+
+Google built-in dictionary: "a current score or amount /  a record of a
+score or amount / a particular number taken as a group or unit to
+facilitate counting"
+
+Dictionary.com: "an account or reckoning; a record of debit and credit,
+of the score of a game, or the like"
+
+Merriam-Webster online: "a recorded reckoning or account / a device for
+visibly recording or accounting especially business transactions"
+
+Wikipedia: "tally commonly refers to counting or to summation of a total
+amount, debt, or score"
+
+These definitions are split on whether counting is a necessary component
+of a tally. Two of the definition provide for a "reckoning" or
+"account", both of which could include the process and work of coming to
+a total, but need not necessarily include a raw count (for instance, by
+these definitions it appears that summing all deposits and withdraws
+from an account could be a "tally", without necessarily counting the
+transactions themselves). However, the idea of counting or summing
+something does appear to be a common element.
+
+However, the meaning of the word in an Agoran context may be constrained
+by precedent.
+
+CFJ 1710 [0] found the following:
+
+> The word "tally" is not defined by the rules, and the various
+> dictionaries consulted seem to describe this as a sum of the votes,
+> not a complete accounting thereof. This would indicate that an
+> accurate sum, even if accompanied by an inaccurate list of votes,
+> would be sufficient to satisfy condition (d).
+
+CFJ 1822 [1] found the following [2] would have had a valid tally (and
+purported to be for the purposes of self-ratification), but for
+including listing a player incorrectly:
+
+> Action:
+> >/I intend, on behalf of Agora, with Agoran Consent, to 
+> /nkeplwgplxgioyzjvtxjnncsqscvntlbdqromyeyvlhkjgteaqnneqgujjpwcbyfrpueoydjjk.
+> /
+> Options: SUPPORT, OBJECT
+>
+> Votes:
+> SUPPORT: root
+> DSPBCORMKPYOAFA: Zefram, Eris
+> AGAINT: OscarMeyr
+>
+> Result: APPROVE
+> (Note: The votes for DSPBCORMKPYOAFA and AGAINT are invalid as these
+> are not possible options)
+
+Finally, CFJ 3723 [3] found that the following was a "complete and
+accurate" "tally":
+
+>     +----------------+-----+
+>     |AI              | 3.1 |
+>     |Quorum          |  5  |
+>     +----------------+-----+
+>     |Corona     Z 7b.|  F  |
+>     |D. Margaux    PM|FFFF |
+>     |G.              | FFF |
+>     |Falsifian       | FFF |
+>     |L.         Z 1b.|+FFF |
+>     |twg          4b.| FF  |
+>     +----------------+-----+
+>     |FOR             | 16  |
+>     |AGAINST         |  0  |
+>     |Ballots         |  6  |
+>     |Resolved        |ADOP.|
+>     +----------------+-----+
+
+Notably, neither of the two listings that were explicitly called out as
+either valid or successfully purporting to be a valid tally contain
+explicit counts of ballots (the latter contains a count only of voting
+strength FOR, not ballots FOR).
+
+I find that the more recent precedents of 1822 and 3723 are controlling
+and at least somewhat consistent with the natural language meaning of
+the term "tally". Evaluating conditional votes and collecting all of the
+votes into a one or more lists in a single message is still "summation",
+in the sense that it forms a summary, and forms an "account" of the
+ballots in the decision. Thus, the purported resolutions meet the tally
+requirement of item 4 of Rule 208 (provided the lists of votes are
+correct, which has not been disputed).
+
+That the purported resolutions were published after the voting period
+ended, that they clearly identified the matters to be resolved, that
+they specified correct lists of voters, and that they specified the
+correct outcomes have not been disputed. The resolutions were therefore
+effective. Therefore, when the decisions were resolved, the specified
+players won the elections and were installed into the appropriate offices.
+
+Judged TRUE.
+
+
+Judge Jason's Evidence:
+
+------------------------------------------------------------------------
+Rule 208/14 (Power=3)
+Resolving Agoran Decisions
+
+      The vote collector for an unresolved Agoran decision CAN resolve
+      it by announcement, indicating the outcome. If it was required to
+      be initiated, then e SHALL resolve it in a timely fashion after
+      the end of the voting period. To be EFFECTIVE, such an attempt
+      must satisfy the following conditions:
+
+      1. It is published after the voting period has ended.
+
+      2. It clearly identifies the matter to be resolved.
+
+      3. It specifies the number of voters (or a list of the voters).
+         For these purposes and for determining quorum, a "voter" is
+         someone who submitted a ballot on the decision that was valid
+         when it was submitted and also valid (i.e. not withdrawn or
+         otherwise invalidated) at the end of the voting period.
+
+      4. It specifies the outcome, as described elsewhere, and, if there
+         was more than one valid option, provides a tally of the voters'
+         valid ballots.
+
+      Each Agoran decision has exactly one vote collector, defaulting to
+      the initiator of the decision. If the vote collector is defined by
+      reference to a position (or, in the default case, if the initiator
+      was so defined), then the vote collector is the current holder of
+      that position.
+
+      This rule takes precedence over any rule that would provide
+      another mechanism by which an Agoran decision may be resolved.
+
+      In general, changes to the gamestate due to the outcome of an
+      Agoran decision take effect when the decision is resolved.
+
+------------------------------------------------------------------------
+
+[0]: http://faculty.washington.edu/kerim/nomic/cases/?1710
+[1]: http://faculty.washington.edu/kerim/nomic/cases/?1822
+[2]: https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2007-December/008430.html
+[3]: http://faculty.washington.edu/kerim/nomic/cases/?3723
+
+==========================================================================

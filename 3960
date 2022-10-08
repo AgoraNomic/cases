@@ -1,0 +1,268 @@
+===============================  CFJ 3960  ===============================
+
+      G. won a lot consisting of all the justice cards currently in the
+      L&FD in the recent (April) Victory Auction.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        secretsnail
+
+Judge:                         Jason
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by G.:                                     22 Apr 2022 22:51:00
+Assigned to Jason:                                24 Apr 2022 06:26:00
+Judged DISMISS by Jason:                          30 Apr 2022 23:36:00
+
+==========================================================================
+
+Caller's Arguments:
+
+G. won the bidding for, as per Rule 2629, "all of any single type of card
+or product, currently owned by the Lost and Found Department".  The type
+of card specified was "Justice Cards".
+
+At the time of auction initiation, it was 1 card.  Now, it's 2 cards.  The
+rule clearly says "currently".  And two cards is what's in there "currently".
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+To determine whether a lot was won, it must first be determined whether
+the auction was initiated at all.
+
+G. pointed out on Discord that R2152 defines "CAN" only to include
+single actions, not continuous processes requiring real world time. This
+is problematic when considering R2545 paragraph 2, which uses a "CAN"
+for conducting an auction using an ongoing process (the auction method)
+rather than an instantaneous method. Although one possible reading is
+that "conducting" an auction is merely the instantaneous act of
+initiating it rather than running it in its entirety, I don't believe
+that to be the correct reading. Both the natural language meaning of
+"conducting" an auction and pragraph 3 of R2545 (which authorizes the
+transfer of assets "as necessary to conduct the auction", likely long
+after initiation) suggest that "conducting" an auction is an ongoing
+process requiring real-world time.
+
+I believe there is sufficient ambiguity in exactly what the CAN means to
+allow the R217 factors to apply. As I am aware of no previous judgements
+on the matter, I find, using common sense and the best interests of the
+game, that the authorization to "conduct" an auction implies
+authorization to perform whatever step of the process is necessary at
+that point in time to progress the auction (limited by the explicit
+limitations in R2545). This is closest to what is plainly meant by the
+text. I further find that the future impossibility of performing a later
+step in the process does not invalidate the performance of a presence
+step -- such retroactive invalidation would be against game custom.
+
+Considering the general case of a victory auction, the first step of its
+conduction is its initiation. This is both implied by the fact that the
+auction must start and made explicit by Regulation AM0. However, from
+this point on, the victory auction is "ongoing". Rule 2629 only provides
+authorization to conduct a victory auction while no victory auction is
+ongoing. Since, at this point, the auction is ongoing, no rule provides
+authorization to continue conducting it (R2545 only does so while
+another rule does so). This means that the victory auction is frozen and
+can no longer be conducted using the authorization in R2545, thus
+preventing any rules-defined authorizations from being used (whether the
+auction can update internal state is immaterial).
+
+This means that the first victory auction to have been initiated since
+this issue was introduced is frozen and unable to be advanced, and no
+subsequent victory auction could be initiated (since one was still
+ongoing). This issue was introduced no later than October 2021 (the last
+time either R2629 or R2545 was amended), and so the April Victory
+Auction definitely was not validly initiated due to either a victory
+auction existing before then or the first victory auction in the
+intervening time.
+
+The statement refers to a non-existent auction and is thus malformed.
+
+Judged DISMISS.
+
+
+Judge Jason's Evidence:
+
+------------------------------------------------------------------------
+Rule 2545/5 (Power=2)
+Auctions
+
+      An auction is a way for entities to give away specified assets
+      (items), grouped into lots, in exchange for a currency. A lot is a
+      non-empty list of items to be transferred to a single recipient
+      (an auction winner).
+
+      When the rules authorize a person (the auctioneer) to conduct an
+      auction, e CAN do so by any wholly public method that would be
+      generally recognizable, as specified by the auctioneer at the
+      start of the auction, and under common definitions and terms used
+      in auctions, as a fair, equitable, and timely means of determining
+      the auction winners from among the current players, and enabling
+      the appropriate exchange of goods. Persons who voluntarily
+      participate in an auction (including the auctioneer) SHALL NOT
+      violate requirements that auction's method that are clearly
+      intended to be punishable as rules violations; doing so is the
+      Class N Crime of Auction Manipulation, where N is the class
+      specified in the auction method (or 2 otherwise).
+
+      The rule that authorizes the auction further authorizes the
+      auctioneer or auction winners to transfer said items as necessary
+      to conduct the auction in a manner consistent with the auction
+      method. If the authorization is to auction "new" items, it further
+      authorizes the creation of said items as per the chosen method.
+      The rule that authorizes the auction further authorizes the
+      transfer or destruction of currency from persons who have bid
+      voluntarily, as specified by the chosen auction method. The
+      authorization to conduct the auction does not provide any further
+      authorization than that explicitly described in this rule.
+
+      The Treasuror is the promulgator for regulations that define
+      specific auction methods (i.e. "the default auction method") and
+      SHOULD do in order to aid trade and commerce.  For the purposes of
+      interpreting auction definitions, such methods are treated as if
+      they are defined in this rule. To further aid trade and commerce,
+      auction methods should be interpreted in the name of fairness with
+      deference to the method's clear intent, if intent can be
+      reasonably inferred.
+
+------------------------------------------------------------------------
+Rule 2629/1 (Power=1.0)
+Victory Auctions
+
+      The Treasuror CAN conduct an auction (a "victory auction") if no
+      victory auction is ongoing.  The Treasuror MUST do so at least
+      once a month, and SHOULD do so at least twice each month.
+
+      A victory auction includes the following lots:
+
+      * one new Win Card.
+
+      * all of any single type of card or product, currently owned by
+        the Lost and Found Department, if any.
+
+      The currency of a victory auction is coins (minimum bid 1).
+
+------------------------------------------------------------------------
+Rule 2152/9 (Power=3)
+Mother, May I?
+
+      The following terms are defined. These definitions are used when a
+      rule includes a term in all caps, and provide guidance in
+      determining the ordinary-language meaning of a term when a rule
+      includes a term otherwise. Earlier definitions take precedence
+      over later ones. If a rule specifies one or more persons in
+      connection with a term, then the term applies only to the
+      specified person(s).
+
+      1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID: Attempts to perform
+         the described action are unsuccessful.
+
+      2. MUST NOT, MAY NOT, SHALL NOT, ILLEGAL, PROHIBITED: Performing
+         the described action violates the rule in question.
+
+      3. NEED NOT, OPTIONAL: Failing to perform the described action
+         does not violate the rules.
+
+      4. "SHOULD NOT, DISCOURAGED, DEPRECATED: Before performing the
+         described action, the full implications of performing it ought
+         to be be understood and carefully weighed.
+
+      5. CAN, POSSIBLE: Attempts to perform the described action are
+         successful.
+
+      6. MAY: Performing the described action does not violate the
+         rules.
+
+      7. MUST, SHALL, REQUIRED, MANDATORY: Failing to perform the
+         described action violates the rule in question.
+
+      8. SHOULD, ENCOURAGED, RECOMMENDED: Before failing to perform the
+         described action, the full implications of failing to perform
+         it ought to be understood and carefully weighed.
+
+
+------------------------------------------------------------------------
+Regulation AM0/5
+Generalized Auction
+
+      Generalized auctions exist to give context to the form of other
+      types of auctions. They CANNOT be held directly. Other auction
+      methods that use this type of auction as a starting point can
+      override attributes of generalized auctions except when it is
+      explicitly stated that that attribute is not able to be
+      overridden.
+
+      INITIATION: When a person CAN begin an auction by this or any
+      derivative method, e CAN only do so by specifying the type of
+      auction method to be held, a list of lots to be auctioned off, and
+      the currency for the auction in a public message (henceforth the
+      "initiation message"). The bidding period starts at this point.
+
+      BIDDING: Players CAN place a bid on an auction in its bidding
+      period by creating a public message (henceforth a "bid message")
+      specifying an amount of that auction's currency. Players CAN
+      withdraw from an open auction by announcement.
+
+      EXCLUSIVITY: Bids in an auction are grouped into classes of that
+      auction. Unless otherwise specified, all bids in a given auction
+      are in a single class. A bid CANNOT be made if, in the class it
+      would be in, another bid already exists with the bid amount of the
+      hypothetical bid.
+
+      TERMINATION: The bidding period ends four days after the final
+      instance of any of the following events' occurance:
+        * the auction begins
+        * a bid is placed
+        * a player withdraws from the auction
+
+      AWARDING: For each auction, there are a number of awardees equal
+      to the number of lots. The Nth lot of an auction goes to the Nth
+      awardee of that auction. If the identity of an awardee is
+      undecidable, then that lot cannot be given away. Auction methods
+      specify how awardees are picked for auctions using that method.
+
+      PAYMENT AMOUNT: The amount that an awardee in an auction is
+      required to pay for eir lot is, unless otherwise specified, the
+      amount of the auction's curency specified in eir highest bid on
+      that auction.
+
+      FUNDED PLAYERS: Derivative auction methods should ensure that only
+      players who, at the end of an auction's bidding period, have at
+      least as much of that auction's currency as the amount that e is
+      required to pay in that auction (hereafter "funded players") can
+      be selected as awardees for auctions using that auction method.
+
+      DISTRIBUTION: To distribute lots in an auction is to:
+        * publish a reasonably accurate full history of bids on the
+          auction and withdrawals from the auction, and
+        * for each awardee in that auction, revoke the amount to be paid
+          from that awardee and transfer to that player (or grant em if
+          the item is new) the set of assets associated with the lot e
+          won.
+
+      The Auctioneer for an auction CAN, by announcement within fourteen
+      days after the bidding period for an auction ends, and SHALL, in a
+      timely fashion after that same point, distribute lots. The message
+      in which e does so is the "resolution message" for that auction.
+
+      ACTIVE BIDS: The set of active bids for an auction is the set of
+      all funded, non-withdrawn players' highest bids on that auction.
+
+History:
+
+Enacted by Trigon, 08 Aug 2020
+Amended(1) by Trigon, 28 Mar 2021
+Amended(2) by Trigon, 05 May 2021
+Amended(3) by Trigon, 02 Aug 2021
+Amended(4) by Trigon, 30 Aug 2021
+Amended(5) by Trigon, 05 Mar 2022
+
+Annotations:
+
+==========================================================================

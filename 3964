@@ -1,0 +1,354 @@
+===============================  CFJ 3964  ===============================
+
+      I won the game by Taking Over The Economy today.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         secretsnail
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 28 May 2022 09:03:00
+Assigned to G.:                                   28 May 2022 16:39:00
+G. recuses emself:                                28 May 2022 18:12:00
+Assigned to secretsnail:                          29 May 2022 18:36:00
+Judged FALSE by secretsnail:                      02 Jun 2022 17:44:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On Mon, 2022-05-23 at 22:50 +0100, ais523 via agora-business wrote:
+> I intend, without 3 objections, to assign the Device to myself.
+
+[For reference: the Device is currently off.]
+
+I perform the following sequence of actions 100 times:
+{{{
+Without 3 objections, I assign the Device to myself. [This would fail
+if the Device had an assigned judge.]
+
+I act on behalf of the Device to cause the Device to deactivate emself.
+[This would fail if the Device were not currently on.]
+}}}
+
+I withdraw 1 Win Card and 3 Winsomes from Obstructive Pooling. [This
+does not cause any Win Cards or Winsomes to change hands, because I am
+the Trustee, but destroys 55 Decipoints in my possession as a side
+effect.]
+
+I transfer the Obstructive Pooling Trust to Jason by transferring 38
+Winsomes to Jason. [There were 56+271+108 = 435 Decipoints in existence
+prior to this message; I destroyed 55 of them to leave 380 Decipoints,
+so to be able to transfer the Trust, I need to transfer assest with a
+total value of 380 Decipoints, and Winsomes are worth 10 Decipoints
+each.]
+
+I perform the following actions (disclaimer: if I failed to assign the
+Device to myself 100 times, they will be impossible):
+{{{
+I perform the following action 25 times: {{I pay 4 Win Cards as a set
+to gain 10 Winsomes.}}
+
+I Take Over The Economy.
+}}}
+
+
+these excerpts from rule 2654:
+{{{
+   When the device is on:
+[...]
+     * A Device CAN activate or deactivate emself by announcement.
+[...]
+   When the device is off:
+[...]
+     * If a Device has no judge assigned, then any player eligible to
+       judge that Device CAN assign it to emself without 3
+       objections.
+     * Then, the Device changes, following which each active player
+       gains 1 card of each type and eir grant (if any).
+[...]
+}}}
+and from rule 2124:
+{{{
+   An intent is ripe if was tabled within the past 14 days, the
+   Speaker hasn't objected to it in the past 48 hours, and its
+   conditions, if any, are met.
+
+   An intent is mature if it was tabled at least 4 days ago and
+   nobody withdrew objections from it in the past 24 hours.
+
+   A rule purporting to allow a person to perform a tabled action
+   allows em to do so by announcement, if, considering only intents
+   for that action/method combination:
+   * With N Support: e is a sponsor or supporter of a ripe intent with
+     at least N supporters.
+   * Without N Objections: e is a sponsor of a mature ripe intent with
+     less than N objectors.
+   * With N Agoran Consent: e is a sponsor or supporter of a mature
+     ripe intent with supporters greater than N times its objectors
+     (e SHOULD list supporters and objectors).
+   * With T notice: e is the sponsor of a ripe intent created at
+     least T ago.
+}}}
+
+
+Caller's Arguments:
+
+As I think has been discussed on the list before, after the recent
+change to the tabled actions rule, it appears that you can take a
+tabled action multiple times from a single intent. (The wording of the
+rule is fairly clear on the requirements, and "not having used the same
+intent to take the action before" is not mentioned.) Recent game custom
+also implies this – people have been objecting to attempts to take
+fairly innocuous actions that would have been quite dangerous if
+repeated many times.
+
+The main question, therefore, is whether I can succeed 100 times in
+assigning the Device to myself. A power-1 rule says that I CAN, and no
+rule seems to imply that I can't, as long as "[the] Device has no judge
+assigned". (I also need to be eligible to judge the Device, but I am
+eligible to judge generally, and there is no reason why the Device
+would be a special case.) If I do succeed in doing this successfully,
+then everyone gains 100 of every Card, and I win as a result of being
+able to convert my Win Cards to Winsomes faster than everyone else can.
+
+We therefore need to interpret what it means for the device to have a
+judge assigned. I can see three main possibilities: either there isn't
+any way for this to occur, and thus the Device is never in a state of
+having a judge assigned (even though it is possible to assign the
+Device to a person, this is distinct from assigning the person to the
+Device); or else the action of assigning the device to a person causes
+the person to become an assigned judge for that Device (which is how
+the Arbitor interpreted it, possibly as a counterscam attempt); or else
+the concept of a judge being assigned to a Device is a concept that's
+based on the mental state of the Arbitor (i.e. the Arbitor considers
+that player to be the primary judge for the Device).
+
+With the first interpretation, this sequence of actions obviously
+works.
+
+With the second interpretation, there's some inclarity because the
+"device changes" as a consequence of being assigned, which would turn
+it on (the Device is a switch with two states, so changing it would
+presumably cause it to change state) – and that causes the part of the
+rule about judge assignment to Devices to turn off, so it may cause the
+assignment to disappear in the same way that repealing the rules
+defining something normally cause that thing to disappear.
+
+With the third interpretation, the Arbitor has stated that e will
+assign CFJs about the Device to me if my intent is successful; however,
+this assignment policy is reliant on the Arbitor being aware that the
+intent has gone through (if someone called a CFJ about the Device after
+I sent this message, but the Arbitor happened to read the message
+containing the CFJ and assign it before e read this message, e would
+not have any reason to assign the CFJ to me specifically), so the
+required mental state in the Arbitor comes about only after e has
+received this message, and thus I'm not assigned to the Device until
+after the message has ended. (Incidentally, I'm a little dubious that
+this interpretation can be correct because it would seem to violate
+rule 2140, in that the meaning of "a judge is assigned to a device"
+would appear to be a substantive aspect of the Device rule, and the
+Arbitor does not have enough power to change that.)
+
+I'd like the judge to rule on which interpretation of the Device rule
+is correct, in addition to ruling on whether or not I won as a result
+of this message – as usual with this sort of rule, the wording can
+often lead to interesting questions of interpretation because it was
+originally intended for a different context.
+
+--------------------------------------------------------------------------
+
+Judge secretsnail's Arguments:
+
+There's a lot to go into here, so I'll go in order of the actions taken.
+
+"Without 3 objections, I assign the Device to myself. [This would fail
+if the Device had an assigned judge.]"
+
+This succeeds the first time, according to the tabled action rules, and
+should also succeed any subsequent times if the device has no assigned
+judge by those same rules, as ais523 "is a sponsor of a mature ripe intent
+with less than [3] objectors." But this only applies if the device is off,
+as that is when the tabled action is allowed.
+
+After the first device assignment, "the Device changes, following which
+each active player gains 1 card of each type and eir grant (if any)". What
+does it mean for the device to change? We actually have a definition for a
+device change:
+
+"A Device change is any effect that falls into the above
+          classes."
+
+but this only applies when the device is on, so the device changing is
+undefined at this point. The device has multiple properties that could
+change, including its assigned judge, its value, and potentially other
+attributes. There is nothing that specifies what is to be changed about the
+device, and where the text is silent, Rule 217 applies. Common sense seems
+to indicate the first choice for what a change is is to turn the device
+from off to on, or vice versa. It seems there is no other indication as to
+what should change about the device, so if something has to change, which
+it should for the best interest of the game in order to resolve ambiguity,
+it would be the device's value, to on. Similar arguments plus a previous
+judgement apply to the deactivation of the device.
+
+When ais523 attempts to assign the device to emself the second time, we
+need to look with more scrutiny. What happened the first time?
+
+If a Device has no judge assigned, then any player eligible to
+          judge that Device CAN assign it to emself without 3
+          objections.
+
+So ais523 assigned the device to emself. Does that mean the device has a
+judge assigned?  ais523 is certainly a judge, as e has judged multiple
+CFJs. So the device is assigned to a judge. This certainly implies the
+device has a judge assigned, but that is not explicit, the text is silent
+and unclear, and Rule 217 applies.
+
+The condition is if the device has a judge assigned, but it doesn't specify
+if the judge is assigned to the device or if the device is assigned to you,
+which implies it's equating the two. The condition would also always be
+true if the assignment wasn't symmetrical, when the action is implied to be
+only supposed to be taken once; being able to take the action multiple
+times just defies common sense: A device assigned to a judge has a judge
+assigned. Game custom supports this, as the phrase "has no judge assigned"
+wasn't explicitly coded in Rule 991 (Calls for Judgement) either, yet we
+agree it works that way. It is concealed, but unambiguous, because the
+choice was already previously made to equate the two.
+
+So ais523 is the judge assigned, that the device has, and 99 of eir
+attempts failed, both for the assignments and the deactivations (as the
+device remained off), so all of eir attempts at cashing in sets of cards
+failed. As such, e did not have enough winsomes to Take Over the Economy. I
+judge CFJ 3964 FALSE.
+
+
+With eligibility concerns:
+
+"The players eligible to be assigned as judge are all active
+      players except the initiator and the person barred (if any)."
+
+This part of Rule 991 (Calls for Judgement) pretty clearly was only meant
+to apply for CFJs, but the device doesn't care about that. It says:
+
+If a Device has no judge assigned, then any player eligible to
+          judge that Device CAN assign it to emself without 3
+          objections.
+
+
+Using that key word, eligible, which this time, we actually have a
+definition for. Now what we don't have defined for the device is who the
+initiator and the person barred are. Again the next is silent, and common
+sense would say "the initiator" is a single player. For CFJs, it was the
+initiator of the CFJ, so it makes sense to read this as "the initiator of
+the device."
+
+To "initiate" is defined by Merriam-Webster as
+
+1 *: *to cause or facilitate the beginning of *: *set going initiate a
+program of reform enzymes that initiate fermentation
+2 *: *to induct into membership by or as if by special rites
+3 *: *to instruct in the rudiments or principles of something *(syn.
+introduce)*
+
+These definitions lead to at least three different reasonable possibilities
+I can see:
+
+The initiator of the device is the one who started it, or proposed it. (The
+"special rites" of proposing the device fit nicely here.)
+
+The initiator is the one that instructs the device. (This could be the
+device rule or the Mad Engineer, as both can instruct the device to perform
+certain actions)
+
+The initiator is the one that started the device up, or turned it on.
+
+Of these, the first makes the most sense, as CFJs are similarly proposed,
+but as statements to be judged rather than a rule change to be voted on.
+The second is a bit of a reach considering the device isn't a person, so
+saying it is instructed or introduced to something doesn't make much sense.
+The third would be a potential contender if the rule said "the initiators",
+but as there is only one initiator, it makes more sense to go with the
+single player that proposed the device to start it off, G., who is not
+ais523, meaning ais523 is eligible.
+
+This same line of reasoning could also be applied to the proposal itself
+that enacted that rule that created the device. This would be a very
+reasonable alternative, except that the context here is "all active players
+except the initiator," and the proposal and rule are not active players. It
+is common sense to assume the initiator is a potentially active player in
+this context. And we do have such options to consider, so we did.
+
+The (if any) part for the person barred is easier, as no parts of the
+device rules seem to bar anyone. (Although Jason was barred in the same
+message as the attempted assignments, but that's irrelevant since e wasn't
+being assigned.)
+
+
+Judge secretsnail's Evidence:
+
+Rule 2654/32 (Power=1)
+The Device
+
+      When the device is on:
+        * click - hummmmmmm
+        * The week that contains the beginning of Agora's Device,
+          together with the following week, is a Holiday.
+        * A Device CAN activate or deactivate emself by announcement.
+        * A Device change is any effect that falls into the above
+          classes.
+        * When a Device wins an election, e is installed into the
+          associated office and the election ends.
+        * As this Device is the highest honour that Agora may bestow, a
+          Bearer of this Device OUGHT to be treated right good forever.
+        * Proposals created since the enactment of this rule have a
+          secured untracked Device switch with possible values ordinary
+          (the default) and democratic.
+
+      When the device is off:
+        * whirrrrrr - THUNK
+        * By default, a device CAN, with 2 Agoran consent, enact, amend,
+          or repeal a regulation for which e is the Promulgator.
+        * Whenever a Player feels that e has been treated so egregiously
+          by the Agoran Device that e can no longer abide to be a part
+          of it, e may submit a document to the Registrar, clearly
+          labeled a Cantus Cygneus, detailing eir grievances and
+          expressing eir reproach for those who e feels have treated em
+          so badly.
+        * When e does so, e fulfills any obligations with regards to
+          that device.
+        * Text purportedly about previous instances of the device (e.g.
+          a report's date of last device) is excluded from the device.
+        * If a Device has no judge assigned, then any player eligible to
+          judge that Device CAN assign it to emself without 3 objections.
+        * Then, the Device changes, following which each active player
+          gains 1 card of each type and eir grant (if any).
+        * The Rulekeepor SHOULD also include any other information which
+          e feels may be helpful in the use of the Device in the FLR.
+        * A player CAN once a month grant eir Ministry Focus' Device to
+          a specified player by announcement.
+        * At any given time, each instance of a Device has exactly one
+          possible value for that type of Device.
+        * Any player CAN grant a Welcome Device to any player if the
+          grantee has neither received one since e last registered nor
+          in the last 30 days.
+        * When the rules call for an Agoran Device to be made, the
+          Device-making process takes place in the following three
+          stages, each described elsewhere:
+
+          1. Initiation of the Device.
+
+          2. Voting of the people.
+
+          3. Resolution of the Device.
+        * When a Rule specifies that a random Device be made, then the
+          Device shall be made using whatever probability distribution
+          among the possible outcomes the Rule specifies, defaulting to
+          a uniform probability distribution.
+
+==========================================================================

@@ -1,0 +1,113 @@
+===============================  CFJ 3966  ===============================
+
+      The entity at one point known as Rule 2658 has performed at least
+      one amendment of a Rule.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  12 Jun 2022 16:35:00
+Assigned to G.:                                   12 Jun 2022 16:37:00
+Judged TRUE by G.:                                14 Jun 2022 00:40:00
+
+==========================================================================
+
+Caller's Arguments:
+
+When Rule 2658 was triggered, the second bullet point amended each rule
+containing the text "~>" and "<~", including Rule 2658. This means that
+the second bullet point was changed during the procedure. It is possible
+that means the third point never triggered.
+
+The possibility was also raised on Discord that "~>" and "<~" being in
+quotes could invalidate the amendments based on ambiguity about whether
+that counts as containing the text. I don't really buy that argument,
+but I've included the cases here for completeness.
+
+
+Caller's Evidence:
+
+Rule 2658/0 (Power=3)
+The Winds Die Down
+
+      When the wind dies down, the following happen in order:
+
+      * The following rules are repealed in order: R2620 "Cards & Sets",
+        R2623 "Popular Proposal Proposer Privilege", R2629 "Victory
+        Auctions", R2624 "Card Administration", R2622 "Pending
+        Proposals", R2651 "Proposal Recycling", and R2653 "Buying
+        Strength".
+
+      * All rules including the text "~>" and "<~" are amended in
+        ascending numerical order by removing all text between and
+        including each "~>" and the first following "<~".
+
+      * This rule is repealed.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+Forgetting about self-amendment for a moment, consider the following
+hypothetical rule text:
+
+      When the wind dies down, the following happen in order:
+      * [Something that succeeds if evaluated on its own]
+      * [Something clearly blocked by a higher-powered rule]
+      * [Something else that succeeds if evaluated on its own]
+
+The thing blocked by the higher-powered rule clearly CANNOT happen,
+because the higher-powered rule conflicts with it.  This means, the
+higher-powered rule conflicts with the statement "When the Wind
+dies down, the following events happen in order" because the events
+CANNOT happen in the order written.
+
+One interpretation is "well, we know they didn't all happen in order
+because that CANNOT happen - therefore those initial directions are false
+and meaningless, the parts of it that CAN happen could have happened in
+any order at all, or not happened, and that ambiguity is enough to block
+all the things, at least if the things are R105-governed Rule Changes."
+
+The other interpretation, of course, is that the Rule does the first
+thing, attempts the second thing but is blocked, then does the third
+thing.  The blocking rule conflicts with the first sentence, but we just
+say "the blocking rule wins for that one particular part, otherwise the
+order is as-written".
+
+I'm not aware of any precedents on this, but I find for the second
+interpretation, for two reasons:
+
+1.  Causality.  Our model of precedence and power requires identifying the
+actors (i.e. instruments) that make a change to determine what is and
+isn't blocked.   For example, if the "blocked thing" is a Power-1 Rule
+attempting to modify a Power-2 Rule, we say "the lower Rule attempted to
+make the change, but was blocked from action by the higher rule" rather
+than saying "the ruleset as a whole entity did nothing".  Since we place
+the causality on each rule individually, the correct model is that the
+Rule in question *attempted* to make each change specified in its own
+text, and was blocked on step (2) but not (1) and (3).
+
+2.  More generally, as a judicial principle, it's better respect for the
+R217-principle of "the text of the rules taking precedence" to minimize
+the scope of any rules-conflict, to allow as much rules text to be free of
+conflict as reasonably possible, and allow R2658 to perform the specified
+actions in the sequence that it actually CAN do.  And this, in general, is
+how we treat actions in other contexts (e.g. a list of unconditional
+by-announcement actions in a message). This is entirely in the realm of
+custom and playstyle, so it is mostly backup support for reason 1.
+
+Therefore, in this situation, R2658 successfully amended rules of same or
+lower power, that are lower-numbered than R2658, before it self-amended
+(the self-amendment is the subject of other CFJs).
+
+I find CFJ 3966 TRUE.
+
+==========================================================================

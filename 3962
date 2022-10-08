@@ -1,0 +1,68 @@
+===============================  CFJ 3962  ===============================
+
+      The game of Agora exists AND the game of Agora has rules AND I am
+      a player in the game of Agora AND I have some natural number
+      amount of coins.
+
+==========================================================================
+
+Caller:                        Madrid
+
+Judge:                         ais523
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Madrid:                                 11 May 2022 20:30:00
+Assigned to ais523:                               14 May 2022 21:21:00
+Judged TRUE by ais523:                            16 May 2022 18:05:00
+
+==========================================================================
+
+Judge ais523's Arguments:
+
+First, a warning: this sort of CFJ is normally made when there's some
+reason to doubt the statements involved, and it's typically the
+caller's responsibility to explain what that reason is, rather than
+force the judge to work through all the possible reasons it might
+happen. As such, I think this is very close to INSUFFICIENT.
+
+The actual statement is easy enough to work out, though, that it
+probably isn't an undue burden:
+
+"The game of Agora exists" – yes it does, per R101. (Even if Agora
+ceases to practically exist, without an amendment or repeal of R101,
+Agora will still consider itself to exist, possibly as a legal
+fiction.)
+
+"The game of Agora has rules" – neither R101 nor R1698 seems to
+technically require this; a potential gamestate where we all play using
+game custom rather than rules seems to be just about consistent.
+However, there are at least some rules which uncontroversially exist,
+e.g. R104 which has never been amended or repealed and thus still
+exists in its original form (and long may it stay that way!).
+
+"I am a player in the game of Agora" (where "I" = "Madrid") – this
+statement self-ratified on Sunday 15 May 2022 and nothing has happened
+since then to deregister Madrid, so the only way Madrid could fail to
+be a player would be if the self-ratification failed, possibly due to
+introducing a contradiction between the rules and gamestate. The main
+situation in which this could happen would be if Madrid had never
+consented to the rules, but e's been acting as though e has for several
+years now and thus it seems reasonable to assume consent by this point.
+
+"I have some natural number amount of coins" (where "I" = "Madrid") –
+this statement last self-ratified on Sunday 1 May 2022, but I don't see
+anything that happened since then that would cause it to become false,
+and the current Treasuror also hasn't listed any changes that would
+cause it to become false. Madrid did spend some coins recently, but not
+enough to reduce eir balance to 0. (Assuming "natural number" excludes
+0, this one is quite a bit of effort, close to inappropriate for a CFJ
+unless the caller can point out the likely nature of a mistake in the
+coin totals. If "natural number" includes 0, it's trivial.)
+
+As a consequence, I judge CFJ 3962 TRUE.
+
+==========================================================================

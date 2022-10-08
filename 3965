@@ -1,0 +1,153 @@
+===============================  CFJ 3965  ===============================
+
+      The entity at one point known as Rule 2658 is a Rule.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  12 Jun 2022 16:35:00
+Assigned to G.:                                   12 Jun 2022 16:37:00
+Judged FALSE by G.:                               19 Jun 2022 19:25:00
+
+==========================================================================
+
+Caller's Arguments:
+
+When Rule 2658 was triggered, the second bullet point amended each rule
+containing the text "~>" and "<~", including Rule 2658. This means that
+the second bullet point was changed during the procedure. It is possible
+that means the third point never triggered.
+
+The possibility was also raised on Discord that "~>" and "<~" being in
+quotes could invalidate the amendments based on ambiguity about whether
+that counts as containing the text. I don't really buy that argument,
+but I've included the cases here for completeness.
+
+
+Caller's Evidence:
+
+Rule 2658/0 (Power=3)
+The Winds Die Down
+
+      When the wind dies down, the following happen in order:
+
+      * The following rules are repealed in order: R2620 "Cards & Sets",
+        R2623 "Popular Proposal Proposer Privilege", R2629 "Victory
+        Auctions", R2624 "Card Administration", R2622 "Pending
+        Proposals", R2651 "Proposal Recycling", and R2653 "Buying
+        Strength".
+
+      * All rules including the text "~>" and "<~" are amended in
+        ascending numerical order by removing all text between and
+        including each "~>" and the first following "<~".
+
+      * This rule is repealed.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+To generalize the situation, the important aspects of the rules text
+of Rule 2658 is as follows:
+
+    When the Winds Change, the following events happen in order:
+    1.  Some specified rules are repealed in a given order.
+    2a. Some specified Rules are amended in a given order.
+    2b. The specification of what happens in 2a is changed by changing
+        the rule text of 2a.
+    3.  This rule is repealed.
+
+CFJs 3966-3967 found that all the items 1-2b were completed (or attempted
+by the rule but blocked by other rules without stopping the process).
+The question is whether the procedure then continues to perform (3)?  Or
+did 2b, by changing 2a, stop (3) from happening  - after all, the
+procedure that was started didn't exist in the rules anymore, instead
+replaced by an entirely new procedure that hasn't been triggered yet
+(because the winds haven't changed while that new text was in effect).
+
+On one hand, the text of the rules is evaluated continuously, and this
+rule describes a new process that hasn't been triggered yet.  Think about
+the situation where during 2b the text "When the Winds Change" is amended
+to "When the Gauntlet is noticed", if you let the process continue to (3)
+you'd be taking a step for which the conditions haven't been met in the
+current rules - at the very least it's troubling to let an amended
+procedure continue under the old process, basically giving repealed
+rules-text a continued voice that effectively overrules the current
+rules-text.
+
+ON the other hand, Rule 1586/9 (Definition and Continuity of Entities)
+describes how consider continuity of game state (e.g. asset holdings,
+switch values, etc.) when the rules that define those things change.  It
+does so by talking about "defined entities" and heavily implies/mandates
+that continuity exists across rule changes - amending a minor aspect of
+Coins does not destroy all "old" Coins because they are governed by
+slightly different rules.  This raises a question for the current case:
+are particular instances of rule-defined processess (sequences of actions)
+ entities?  And what does this mean for a process that is amended midway
+through its execution?
+
+First, I will state (unaware of any precedent) that individual actions
+are not entities.  You can't "Transfer 10 coins to yesterday's transfer of
+15 coins from ais523 to Jason" or in true nomic fashion "transfer 10 coins
+to this transfer of 10 coins".  Just from common sense, that this is
+linguistic and practical nonsense.
+
+Second, I'll say that sequences of actions and obligations separated by
+time can be considered entities for the purpose of continuity.  For
+example, "The April Victory Auction" or "the ongoing PM election" are
+entities.  Again lacking precedent, I find this based on our Agoran
+customs:  if we hotfix the end conditions for an election (how a winner is
+determined) while a voting period is in progress, we generally assume the
+election as a whole is still ongoing, or find it necessary to say
+something like "all elections in progress are terminated without a winner"
+in the proposal, implying that the process continues through the rule
+change unless explicitly terminated.
+
+But of course, here we have something that is midway in between - it is
+not a time-process where different events over time shape and morph an
+existing entity (like the "voting period of a decision" might be morphed
+will remaining continuous) and yet it is also not a single action that
+succeed or fails atomically (which would not be an entity).
+
+In this situation, the best balance of respecting the continuity of
+processes-as-entities while also respecting the current (that is, amended)
+rule procedure of the process is to ask:  did all the steps under the
+new process take place so we "know" we're at step (3) under the current
+rule?  To use the election example: if an election rule is amended to do
+something after the "election runoff period" but the "election runoff
+period" didn't exist in the old rule so never came into existence, you
+haven't got a continuous set of conditions for a continuous process, so
+the new process never started and the old process has been amended out of
+existence.
+
+Looking backwards from (3) in this case, the new rules text (as found by
+CFJ 3967) has step 2a as this:
+       * All rules including the text "" are amended in
+         ascending numerical order by removing all text between and
+         including each "".
+
+By the principle that all sets include the empty set, all rules include
+the text "".  However, the concept of what text is 'between' each "" is
+not well-defined enough for R105 to allow any rule change to take place.
+By CFJ 3966, R105 blocking each rule change does not stop the process, but
+no change in the ruleset would take place due to following the new procedure.
+
+This means, at step (3), the rules are identical to what they would be
+whether or not the "" replacing clauses took place, so the gamestate
+(other than the single process amendment in question) is effectively
+identical under the old and new processes.  Therefore, this process
+continues under the new rule text.  Step (3) can occur in a manner that
+respects both the old and new processes, repealing the rule that is the
+subject of this CFJ.
+
+I find this CFJ to be FALSE.
+
+==========================================================================

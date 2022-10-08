@@ -1,0 +1,107 @@
+===============================  CFJ 3961  ===============================
+
+      Secretsnail9, in the past 24 hours, won the game.
+
+==========================================================================
+
+Caller:                        Jason
+Barred:                        secretsnail
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  01 May 2022 19:43:00
+Assigned to Murphy:                               01 May 2022 22:56:00
+Judged FALSE by Murphy:                           01 May 2022 23:29:00
+
+==========================================================================
+
+Caller's Arguments:
+
+The most natural reading of this rule is that "any other player"
+includes all players. Contrast with "another player", "some other
+player", or "someone else", which would give rise to Secretsnail9's reading.
+
+Even if Secretsnail9's reading is plausible (which I very much contest),
+it at most isn't the unambiguously clearest reading, allowing the R217
+factors to be applied, which very clearly favor this not working.
+
+
+Caller's Evidence:
+
+------------------------------------------------------------------------
+Rule 2621/8 (Power=1.0)
+VP Wins
+
+      If a player has at least 20 more Winsomes than any other player, e
+      CAN Take Over the Economy by announcement, provided no person has
+      won the game by doing so in the past 30 days.
+
+      When a player takes over the economy, e wins the game. Four days
+      after such a win occurs, all Cards and all Products are destroyed.
+      Then, the winds die down.
+
+------------------------------------------------------------------------
+
+Purported win message
+(https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-May/049066.html):
+
+{
+
+I pay a set of 4 Win Cards to gain 10 Winsomes.
+
+I now have 21 winsomes.
+
+I take the following action 5 times:
+{
+If I have any blots, I expunge a blot from myself by paying a fee of 1
+blot-b-gone.
+}
+
+The above 5 actions likely don't do anything unless someone blotted me
+recently.
+
+I Take Over the Economy. (I have "at least 20 more Winsomes than *any other
+player*", that player being Telna.)
+--
+secretsnail
+
+}
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+dictionary.com gives these definitions for "any", among others:
+
+   1) one, a, an, or some; one or more without specification or
+      identification: "If you have any witnesses, produce them. Pick out
+      any six you like."
+
+   2) whatever or whichever it may be: "cheap at any price."
+
+i.e. "for some" vs "for all". Game custom, common sense, and best
+interests all favor the latter interpretation as the clear intent of the
+rule in question.
+
+Last week's Treasuror's report [1] listed ais523 with the largest number
+of winsomes (46) of any single player. Reviewing a-b and a-o archives,
+ais523 only lost 5 between then and the alleged win [2], so e still had
+41 and secretsnail needed at least 61.
+
+I judge FALSE.
+
+
+Judge Murphy's Evidence:
+
+[1]
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2022-April/015895.html
+
+[2]
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2022-May/049059.html
+
+==========================================================================

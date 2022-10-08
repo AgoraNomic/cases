@@ -1,0 +1,83 @@
+===============================  CFJ 3967  ===============================
+
+      The entity at one point known as Rule 2658 has been amended at
+      once during the time when it is/was a Rule.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         G.
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  12 Jun 2022 16:35:00
+Assigned to G.:                                   12 Jun 2022 16:37:00
+Judged TRUE by G.:                                14 Jun 2022 00:56:00
+
+==========================================================================
+
+Caller's Arguments:
+
+When Rule 2658 was triggered, the second bullet point amended each rule
+containing the text "~>" and "<~", including Rule 2658. This means that
+the second bullet point was changed during the procedure. It is possible
+that means the third point never triggered.
+
+The possibility was also raised on Discord that "~>" and "<~" being in
+quotes could invalidate the amendments based on ambiguity about whether
+that counts as containing the text. I don't really buy that argument,
+but I've included the cases here for completeness.
+
+
+Caller's Evidence:
+
+Rule 2658/0 (Power=3)
+The Winds Die Down
+
+      When the wind dies down, the following happen in order:
+
+      * The following rules are repealed in order: R2620 "Cards & Sets",
+        R2623 "Popular Proposal Proposer Privilege", R2629 "Victory
+        Auctions", R2624 "Card Administration", R2622 "Pending
+        Proposals", R2651 "Proposal Recycling", and R2653 "Buying
+        Strength".
+
+      * All rules including the text "~>" and "<~" are amended in
+        ascending numerical order by removing all text between and
+        including each "~>" and the first following "<~".
+
+      * This rule is repealed.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+Referring to the *'d list items in rule 2658/0 as (1), (2), (3):
+
+The Winds Died Down recently, beginning the procedure described in R2658.
+As found in CFJ 3966, the process was begun even if some of the steps
+couldn't be completed.  As far as I can tell, nothing blocked the repeals
+in (1) from taking place.
+
+For what happens when (2) is performed:
+       * All rules including the text "~>" and "<~" are amended in
+         ascending numerical order by removing all text between and
+         including each "~>" and the first following "<~".
+
+First of all, R2658 is the highest-numbered rule that contains the cited
+text (the ""s do not escape the text from being amended).  Rule changes
+are always sequential, so all of the rule changes before R2658 are
+therefore amended successfully.  Then, this rule self-amends itself to this:
+       * All rules including the text "" are amended in
+         ascending numerical order by removing all text between and
+         including each "".
+
+I can't think of why this would fail up to this instant in the procedure
+(given that the whole procedure wasn't blocked from starting, as confirmed
+in CFJ 3966) so I find CFJ 3967 TRUE.
+
+==========================================================================

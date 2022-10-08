@@ -1,0 +1,291 @@
+===============================  CFJ 3958  ===============================
+
+      If the proposal 'Don't Vote For Me' were to be ADOPTED, its
+      actions would be performed by no player, and in that case no one
+      would be commiting the crime of Engaging in Forbidden Arts.
+
+==========================================================================
+
+Caller:                        Juan
+
+Judge:                         ais523
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by Juan:                                   11 Apr 2022 17:13:00
+Assigned to ais523:                               11 Apr 2022 23:16:00
+Judged DISMISS by ais523:                         17 Apr 2022 18:10:00
+
+==========================================================================
+
+Caller's Arguments:
+
+The relevant rule is R2617:
+
+{
+Rule 2617/2 (Power=1.0)
+Defense Against the Dark Arts
+
+      An action is forbidden if it would, upon its successful
+      occurrence, cause Agora to be ossified or to cease to exist.
+
+      Publicly attempting a forbidden action is PROHIBITED, and is the
+      Class-4 Crime of Engaging in Forbidden Arts.
+}
+
+Agora works under a well-defined notion of "action". At least, as far as
+the rules are concerned, the action taken in my original message --
+quoted below -- is to create a proposal.
+
+Date: Thu, 7 Apr 2022 23:19:28 -0300
+From: juan via agora-business <agora-business@agoranomic.org>
+> I create the following proposal:
+>
+> {
+>         Title: Don't Vote For Me
+>         AI: 9.9
+>         Author: juan
+>
+>         Ossify Agora.
+> }
+>
+> --
+> juan
+
+The completion of such action was successful, as is evidenced by Aspen's
+Promotor Report "Distribution of Proposals 8665-8666", and a proposal
+was created. However, as must be obvious to all players, Agora is not
+ossified.
+
+Now, there's the matter of precedent.
+
+Date: Sun, 10 Apr 2022 12:23:55 -0700
+From: Kerim Aydin via agora-official <agora-official@agoranomic.org>
+> And following the precedent of CFJ 3851, submitting such a proposal is
+> "taking action towards" the commission of that crime.
+
+Whether the precedent does imply such a conclusion is out of the
+question. Let it be stipulated. The matter is that "taking actions
+towards" the comission of a crime is not commiting a crime -- not as
+codified by the rules, anyway. In the succession of events, would still
+have to be pended (which would not be a crime, as well), voted (not a
+crime), and, if aproved, applied. Only that last action would, if
+anything, be criminal.
+
+Note that the high AI -- and I affirm under penalty of No Faking -- was
+intended to further decrease the likelyhood of the proposal's aproval.
+
+The present case was decided entirely based on precedent. I must argue
+that that precedent is wrong. Interpreting the rules is only reasonable
+when there is ambiguity in their clauses. In any other case, the letter
+of the law must rule.
+
+This is a matter of fairness to new players. But also, it is supported
+by Agoran custom. Basically all interpretative matters in Agora are
+resolved under a "reasonability" standard. It is not reasonable to
+expect new players to read through a backlog of twenty-years of
+judgements.
+
+Take not my word. Look at an example from the same thread as that in
+which I created the proposal, when I tried (unsuccessfuly, it seems) to
+withdraw it:
+
+Date: Mon, 11 Apr 2022 08:57:04 -0400
+From: Jason Cobb via agora-discussion <agora-discussion@agoranomic.org>
+> On 4/11/22 08:46, juan via agora-discussion wrote:
+> > It should be clear enough. It's in a thread concerning a single
+> > proposal. Also, it directly answers a comment regarding that
+> > proposal. Also, I only have one proposal up. I'd argue it's
+> > unambiguous.
+> >
+> > On April 10, 2022 11:41:31 PM GMT-03:00, Jason Cobb via agora-business
+> > <agora-business@agoranomic.org> wrote:
+> > > This... probably fails? It doesn't clearly cite which proposal is being
+> > > withdrawn.
+>
+>
+> Sure, I happen to know what proposal it's referring to because I've read
+> the thread. But a person who hasn't the context (which isn't
+> unreasonable) or who is looking at this message on an archive where the
+> context just isn't available. Similarly, it's not reasonable to expect
+> everybody to know that you have a single proposal in the pool unless you
+> explicitly say that.
+
+The Agoran archives are available online, and it is easy enough to go
+back through a thread. Now, is it the case that messages are supposed to
+be readable without context? Most likely not, as much context is always
+needed -- e.g., the rules --, but there seems to be a implicit standard.
+If context available in one single thread is not available enough, I'd
+argue context available in separate threads must not be.
+
+And if knowledge of current game-state is not supposed to be required to
+interpret game actions -- mind you, I'm not talking about global
+context, but only the context directly affected by that action --, then
+only the verbatim text of the rules must be used to judge accusations.
+Either that, or we have to accept that all past actions as messages are
+part of game state, and no context shall be needed in any game action,
+at all.
+
+To be clear: I am questioning the applicability of precedent in cases
+where there is no ambiguity in the rules. That should be considered
+unnaceptable, and if it is though by the Agoran community that certain
+actions should have been prohibited by a rule under that circumnstance,
+the rule must be changed, and not innocent players be punished by past
+legislative incompetence of lack-of-foresight.
+
+And to finish it off: my intention with that proposal, under penalty of
+No Faking, was NOT to ossify Agora, but to bring to light the fact that
+proposing such an action is not currently forbidden by the rules (this
+is evidenced by the proposal's title), and that it would be the applying
+officer (of such an aproved proposal) that would be punished.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+First, here's the current wording of rule 2617:
+{{{
+      An action is forbidden if it would, upon its successful
+      occurrence, cause Agora to be ossified or to cease to exist.
+
+      Publicly attempting a forbidden action is PROHIBITED, and is the
+      Class-4 Crime of Engaging in Forbidden Arts.
+}}}
+and some relevant excerpts from rule 106:
+{{{
+      When a referendum on a proposal is resolved, if the outcome is
+      ADOPTED, then the proposal in question is adopted, its power is
+      set to the minimum of four and its adoption index, and it takes
+      effect. [...] When a proposal takes effect, the proposal applies
+      the changes that it specifies, except as prohibited by other
+      rules. [...] Except insofar as the actions performed by a
+      proposal happen one after another, rather than simultaneously, a
+      proposal's effect is instantaneous.
+}}}
+and 208:
+{{{
+      The vote collector for an unresolved Agoran decision CAN resolve
+      it by announcement, indicating the outcome.
+}}}
+
+In order to work out whether rule 2617 is violated, we need to work out
+"who is performing the action" (which is what the caller seems to be
+most interested in), but also "what are the actions that are being
+performed", "which of those actions are forbidden".
+
+The ruleset is a little inconsistent in its use of "action". Normally,
+when talking about an "action", we're thinking of something that a
+person triggers within the game, often via public message; Agorans are
+very familiar with phrases like "acting by announcement", "tabled
+action", etc.. It's worth doing a survey of how the ruleset uses the
+word.
+
+Some rules, like rule 2160 ("A player acting as emself (the deputy) CAN
+perform an action ordinarily reserved for an office-holder as if e held
+the office [...]") seem to be very clearly using this meaning of an
+"action". Likewise, rule 2531 implies that actions are done by persons
+("it attempts to levy a fine on a person when that person can't be
+established by a preponderance of the evidence to have committed the
+action or inaction for which the fine was levied"). And of course, rule
+101 defines the entire game of Agora to be about game actions, that are
+taken by persons and communicated via fora.
+
+There are other uses. Rule 2471 seems to consider some public
+statements to be actions ("A statment is a lie if its publisher either
+knew or believed it to be not true at the time e published it (or, in
+the case of an action, not to be effective) [...]"); this is in near-
+contradiction to rule 2466, which states that sending a message is not
+a game action (to resolve this, you need to imagine that a message is a
+sort of container that holds actions, rather than the sending of the
+message being an action in its own right). The title of rule 2577
+envisages most of the basic operations on assets to be actions,
+regardless of whether they're being performed by persons (e.g. you can
+imagine a rule that revokes assets on a schedule). Rule 2152 defines
+basic terms like CANNOT as applying to actions, and yet these affect
+things that are not being performed by persons (e.g. if a player CANNOT
+lose a particular sort of asset, then a lower-powered rule would be
+unable to revoke it on a schedule).
+
+And of course, rule 106 outright talks about a proposal taking actions.
+This is pretty a important point to this case, given that the question
+is, at least partly, "can a proposal take actions?".
+
+The main conclusion that seems consistent with the rules, therefore, is
+that an "action" is something that is done within Agora, typically
+having an impact on the gamestate or other properties of the game.
+(Rule 2125 makes it clear that actions that don't have an impact on
+Agora are still actions, but are mostly ignored by the rules.) Actions
+are normally performed by persons, but can be performed by other
+entities. (There's an Agoran tradition, known as "pragmatisation", of
+trying to ensure that most actions are done by persons; this makes it
+less likely that we'll get confused about what the gamestate is,
+because a forgotten action won't occur and most actions leave a paper
+trail. This doesn't seem to be a requirement, though.)
+
+What are the potential actions here? Well, one of them is the action
+performed by the proposal. The text of the proposal in question is
+"Ossify Agora.", which can be interpreted as a direction to attempt an
+action (and thus the action would be attempted by the proposal if it
+were adopted). I can think of numerous reasons that such an action
+would necessarily fail (in addition to a power-4 rule preventing this
+exact thing, and a number of other rules which block the most likely
+mechanisms via which it would occur, it's probably too under-specified
+and ambiguous to do anything). However, rule 2617 cares about what
+would happen upon the action's successful occurrence, and I believe
+that by defintion, the *successful* occurrence of an "ossify Agora"
+action would ossify Agora. So, this action is forbidden.
+
+However, the action in question is being performed by a proposal. Rule
+2617 says "publicly attempting...", and "publicly" is defined by rule
+478 as "to do within a public message". In the hypothetical in the CFJ,
+the action in question wouldn't be part of a public message, and as
+such wouldn't violate rule 2617.
+
+That's one action that isn't causing a violation. But there's another
+relevant action here: the action of adopting a proposal. What does it
+mean to "successfully adopt" a proposal – is it required that the
+proposal becomes adopted? That it takes effect? That the actions within
+it are effective? The words "successful"/"success" aren't used much
+within the ruleset, with the most important use being in the
+definitions of "CAN"/"CANNOT". This implies that the adoption of a
+proposal is successful if and only if the entity trying to adopt it CAN
+ adopt the proposal. Following the logic of rule 106, we discover that
+if an attempt to adopt an ossification proposal is made, the proposal
+becomes adopted, but if it would ossify Agora, then (due to rule 1698)
+it would not take effect. (If it *wouldn't* ossify Agora, then it would
+be able to take effect, but it's hard to see how the proposal would do
+anything at all in that case.) Given that the proposal does in fact
+become adopted, I would say that one CAN in fact adopt such a proposal
+– this doesn't have its usual consequences, but there seems to be
+nothing preventing the adoption itself. As a consequence, I judge CFJ
+3957 FALSE; we can easily imagine a scenario in which the adoption of
+such a proposal could succeed (without the proposal itself doing
+anything), and it's clear what the consequences would be (in
+particular, they wouldn't ossify Agora, so there's no violation of rule
+2617).
+
+As for CFJ 3958, the statement of the CFJ presupposes something that
+isn't true – it assumes that if the proposal in question were adopted,
+its actions would exist. However, the only potential action performed
+by the proposal is "ossify Agora" (it's hard to see how the proposal
+would perform any other action!). If that action is part of what the
+proposal would do upon taking effect, then the proposal doesn't take
+effect and thus the action doesn't occur. If that action isn't
+something the proposal would do, then it wouldn't do anything, so again
+there are no actions being performed. This causes CFJ 3958 to become
+either vacuous or meaningless, depending on your point of view. As a
+consequence, I judge CFJ 3958 DISMISS.
+
+(It's possible that these judgements contradict existing precedent – I
+haven't checked because the text of the rules appears to be unambiguous
+in the matter, and by rule 217, that takes precedence over all other
+considerations.)
+
+Summary of judgements:
+CFJ 3957: FALSE
+CFJ 3958: DISMISS
+
+==========================================================================
