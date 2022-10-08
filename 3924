@@ -15,6 +15,9 @@ History:
 
 Called by G.:                                     07 Aug 2021 01:06:03
 Assigned to Cuddlebeam:                           09 Aug 2021 01:48:23
+Judged FALSE by Cuddlebeam:                       09 Aug 2021 11:31:00
+Motion to reconsider group-filed:                 09 Aug 2021 12:52:00
+Judged FALSE by Cuddlebeam:                       09 Aug 2021 13:17:00
 
 ==========================================================================
 
@@ -46,5 +49,100 @@ Rule 2638/0[extract]
        Ministry Focus is set to the value e mostly recently specified by
        Planning to Flip. If a player did not Plan to Flip eir Ministry
        Focus switch in the last month, it is not flipped.
+
+--------------------------------------------------------------------------
+
+Judge Cuddlebeam's arguments (prior to motion):
+
+Your attempt to simultaneously Flip, failed; because: CFJ 2086 (called 15
+Jul 2008): Message-based actions are always taken in some order, never
+precisely simultaneously, possibly unless otherwise stated.
+
+I Judge FALSE.
+
+--------------------------------------------------------------------------
+
+Gratuitous arguments by ais523:
+
+CFJ 2086 found that game custom was that, if there are no other cues
+about timing within the message, multiple actions taken in the same
+message happen in the order in which they are written; and that the
+rules are silent on the issue, so game custom is used as a rule 217
+tiebreak. (It didn't mention the other rule 217 tests, but I think
+those also point towards an "actions happen in sequence unless
+otherwise stated" viewpoint; in addition to being game custom, this is
+clearly in the best interests of the game, and is also supported by
+common sense.)
+
+In this case, though, there are other cues about timing in the message
+(it explicitly states it's trying to do two things simultaneously), so
+the precedent of CFJ 2086 doesn't apply (both because it explicitly
+stated it doesn't apply in this case, and because the reasoning that it
+used doesn't hold up in the situation where the message outright says
+otherwise).
+
+
+Gratuitous arguments by G.:
+
+In addition to ais523's arguments, Rule 478/23 (in effect at the time of
+CFJ 2086), didn't contain the "unless otherwise stated" sentence.  That
+legislatively-inserted text (by P6785, adopted August 2011) is a key point
+in the caller's arguments for the current cfj. That text makes CFJ 2086
+out-of-date since the rule is no longer silent and the text of the rule
+now applies. Evidence:
+
+From Assessor's voting report (Aug 22 14:57:56 UTC 2010):
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2010-August/008019.html
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Proposal 6785 (Purple, AI=3.0, Interest=0) by coppro
+
+Attorney Adjustment
+
+Amend Rule 478 (Fora) by replacing
+       A public message is a message sent via a public forum, or sent
+       to all players and containing a clear designation of intent to
+       be public.  A person "publishes" or "announces" something by
+       sending a public message.
+
+       Where the rules define an action that CAN be performed "by
+       announcement", a person performs that action by unambiguously
+       and clearly specifying the action and announcing that e performs
+       it.  Any action performed by sending a message is performed at
+       the time date-stamped on that message.
+with
+       A public message is a message sent via a public forum, or sent
+       to all players and containing a clear designation of intent to
+       be public.  A rule can also designate that a part of one public
+       message is considered a public message in its own right. A person
+       "publishes" or "announces" something by sending a public message,.
+
+       Where the rules define an action that CAN be performed "by
+       announcement", a person performs that action by unambiguously
+       and clearly specifying the action and announcing that e performs
+       it.  Any action performed by sending a message is performed at
+       the time date-stamped on that message. Actions in messages
+       (including sub-messages) are performed in the order they appear in
+       the message, unless otherwise specified.
+
+
+}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+
+--------------------------------------------------------------------------
+
+Judge Cuddlebeam's arguments (following motion):
+
+I Judge FALSE.
+
+Backed by the arguments provided, I have become convinced that it is
+possible to try to simultaneously flip a Switch. However, doing so would
+attempt to make it an indeterminate value, and by R2126, such attempts
+would instead cause the switch to take on its last determinate and possible
+value if any, or its default otherwise.
+
+Since it would instead take on its last determinate value, there ain't no
+flippin' flipping, because attempting to flip an instance of a switch to a
+value it already has does not flip the switch (R2126).
 
 ==========================================================================

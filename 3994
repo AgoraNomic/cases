@@ -1,0 +1,59 @@
+===============================  CFJ 3994  ===============================
+
+      The election cannot be initiated without at least 2 support.
+
+==========================================================================
+
+Caller:                        ziproot
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by ziproot:                                11 Sep 2022 02:11:00
+Assigned to ais523:                               11 Sep 2022 22:05:00
+Judged FALSE by ais523:                           15 Sep 2022 20:12:00
+
+==========================================================================
+
+Caller's Arguments:
+
+On Sat, 10 Sep 2022 19:51:07 -0300, Juan wrote:
+>
+> I deputize as Registrar and initiate an election for Registrar, for
+> which I become a candidate.
+>
+    
+This action is not required, so the attempted deputisation at the time the
+action was attempted is illegal. This came before the valid deputisation
+which was to respond to at least one Cantus Cygneus. As a result, the
+player attempting this action did not attempt it as a deputy, so this
+action requires 2 support as per "The Election Cycle" and "Deputisation"
+rules.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+I don't think the caller has asked the question e meant to ask.
+
+The question actually asked in the CFJ was whether the election could
+be initiated without 2 support. It could have been, either via
+deputising and then calling the election, or via the ADoP. As such, I
+judge CFJ 3994 FALSE.
+
+The caller presumably meant to ask whether Juan's attempt to start the
+election worked. It didn't, for the reasons stated in the arguments;
+stating that you're deputising for an office isn't enough to actually
+deputise for it, you have to perform an action that's "ordinarily
+reserved for [the] office-holder" (which arguably, starting an election
+for an interim office is), but also, "the rules [must] require the
+holder of that office, by virtue of holding that office, to perform the
+action", and there's no rule that requires the Registrar to initiate a
+Registrar election. So no deputisation actually happened, and thus Juan
+wasn't able to start an election via the mechanism e attempted to use.
+
+==========================================================================

@@ -1,0 +1,88 @@
+===============================  CFJ 3942  ===============================
+
+      It is not possible under the current ruleset for a CFJ to be
+      destroyed.
+
+==========================================================================
+
+Caller:                        Secretsnail
+
+Judge:                         G.
+Judgement:                     DISMISS
+
+==========================================================================
+
+History:
+
+Called by Secretsnail:                            31 Jan 2022 07:10:00
+Assigned to G.:                                   31 Jan 2022 07:10:00
+Judged DISMISS by G.:                             03 Feb 2022 15:56:00
+
+==========================================================================
+
+Judge G.'s Arguments:
+
+
+Argument for FALSE (that it's possible for a CFJ to be destroyed):
+
+Rule 2175/9 lists two ways a person CAN make a new CFJ "cease being a
+judicial case [CFJ]" (by the phrasing of the caller's statement, we have
+to establish that at least one cfj can be destroyed, so it's fine that it
+only works for new CFJs).
+
+If an entity is created "as a cfj" (that is, its whole existence was due
+to it being created to be a cfj) and then ceases to be a cfj and has no
+further legal effect on the game, it is no longer anything, which is a
+reasonable synonym for destroying it.
+
+Moreover, for more complete destruction, a statement like "the message
+purporting to initiate a cfj was not sent publicly" could be ratified
+without objection.
+
+
+Arguments for TRUE (that it's not possible to destroy a cfj):
+
+The R2175/9 methods noted above cause something to "cease being a cfj".
+But it's not clear that this "destroys" it as an "entity".  It could
+easily be called a "former cfj" and continue to exist.  Furthermore, even
+if a cfj is clearly ratified out of existence (e.g. ratifying a message as
+above), the fact that cfjs are fundamentally advisory ideas means you
+can't truly destroy anything about a cfj as a concept/set of ideas, other
+than the formal requirements of tracking it.
+
+For example, if a cfj is ratified out of existence, a later judge of a
+later cfj can say "the idea expressed in former cfj XXXX was correct so I
+assert it here".  As long as ideas and history are associated with it, it
+would continue to exist as an undestroyed *something* that we can refer
+to, even if that something is not a cfj.
+
+
+Overall conclusion:
+
+I find that the common definition of "destroy" easily encompasses either
+of the above possibilities, depending on what the caller meant by
+"destroy". So overall, the caller's statement is too unclear to answer
+without a refinement of the definition (either in the cfj statement or
+provided caller's arguments) and it's likely that a simple ratified
+statement "CFJ XXXX is hereby destroyed" (without additional
+clarification) would be so ambiguous as to add a level of inconsistency to
+the gamestate and fail in ratification.  Case is DISMISSed.
+
+
+Judge's Evidence
+
+Rule 2175/9 (Power=1)
+Judicial Retraction and Excess
+
+      A new case is a judicial case that has not had any judge assigned
+      to it. The initiator of a new case CAN retract it by announcement,
+      thus causing it to cease to be a judicial case.
+
+      An excess case is a new case whose initiator previously initiated
+      five or more cases during the same week as that case. A person
+      SHALL NOT initiate an excess case. The Arbitor CAN refuse an
+      excess case by announcement, thus causing it to cease to be a
+      judicial case. When e does so, e fulfills any obligations with
+      regards to that case.
+
+==========================================================================

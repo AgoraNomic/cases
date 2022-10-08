@@ -1,0 +1,238 @@
+===============================  CFJ 3946  ===============================
+
+      secretsnail deputized to respond to at least one petition in the
+      below message.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        secretsnail
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     03 Feb 2022 20:02:59
+Assigned to ais523:                               07 Feb 2022 21:04:00
+Judged FALSE by ais523:                           08 Feb 2022 00:13:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On 2/3/2022 11:15 AM, Mark Wieland via agora-official wrote:
+> I resign as arbitor.
+>
+> I temporarily deputize as arbitor to grant G. 5 boatloads of coins for a timely judgment in CFJ 3942.
+>
+> I award myself cyan glitter.
+>
+> I deputize (not temporarily) as arbitor to grant Jason 5 boatloads of coins for a timely judgment in CFJ 3944.
+>
+> I award myself cyan glitter.
+>
+> I do the following actions if they all succeed:
+> {
+>
+> I petition the arbitor to transfer me a coin.
+>
+> I resign as arbitor.
+>
+> I temporarily deputize as arbitor to respond to the petition to transfer secretsnail a coin with "no". (That's silly, why would I do that?)
+>
+> I award myself cyan glitter.
+>
+> I petition the arbitor to transfer me 2 coins.
+>
+> I resign as arbitor.
+>
+> I temporarily deputize as arbitor to respond to the petition to transfer secretsnail 2 coins with "no".
+>
+> I award myself cyan glitter.
+>
+> I petition the arbitor to transfer me 3 coins.
+>
+> I resign as arbitor.
+>
+> I deputize (not temporarily) as arbitor to respond to the petition to transfer secretsnail 3 coins with "no". (That's way too many coins, bucko.)
+>
+> I award myself cyan glitter.
+>
+> }
+
+
+Caller's Arguments:
+
+Some Socratic dialog for Gratuitous Arguments:
+
+Secretsnail:
+also again i'm not sure if the deputizations for the petitions work anyways
+
+G:
+not sure why it wouldn't
+
+Secretsnail:
+"A player CAN, by announcement, petition a specified officer to
+      take a specified action; the officer SHALL publicly respond to
+      the petition in a timely fashion."
+
+G:
+whenever a SHALL arises and an office is vacant, deputisation works I think?
+
+Jason:
+yep
+
+Secretsnail:
+      "An officer is
+      the holder of an office, who may be referred to by the name of
+      that office."
+it almost seems like it wouldn't work because it would be referring to
+secretsnail who doesn't have to be in office to respond
+
+G:
+ah - we have precedents that duties transfer with office if that's what
+you mean?  There was a recent case with respect to the PM on that
+there was a debate about whether I was PM.  A petition was addressed to
+"Possibly PM G."  It was found to be a petition to G. as a person (which
+has no legal standing) but not a petition to the PM that could be
+deputised for.
+
+Secretsnail:
+So someone could petition a vacant office?
+
+G:
+I think so?  But good point the question hasn't been asked exactly that
+way, maybe not
+
+Jason:
+I'd argue no
+has to be "specified officer", vacant office has no officer to petition
+unless...
+I petition Arbitor (vacant) to do blah...
+
+G:
+counterpoint:  "submitting a Cantus Cygneus to the registrar" works when
+there's no registrar (pretty sure that's a cfj)
+
+Jason:
+[CFJ2953]
+
+Jason:
+oh wow, that's [CFJ2953 judgement] a moderately concerning reading
+
+G:
+I'd sorta have a safer take.  e.g. it's platonically possible to do it as
+this cfj says, but doing it so it's a preponderance of evidence that Agora
+would accept that it happened requires something more than /dev/null (e.g.
+at least something forwarded to public)
+but it does make it pretty clear that a public message to a vacant office
+is a submission to an officer?  (by that old precedent anyway)
+
+Jason:
+a distinction might be able to be drawn between "to the Registrar" and
+"petition a specified officer"
+I'm not saying I'm drawing that distinction, just that it might be able to
+be drawn
+
+Secretsnail:
+i think that'd be a stretch
+"the arbitor" sounds like a specified officer
+
+Jason:
+I think the fact that the office of Registrar is named specifically might
+matter to a judge
+R217 and whatnot
+
+G:
+it sounds like that in common langauge, but in organizational-speak (e.g.
+in a parliament) legal procedures may be addressed to "an officer" and it
+means "the office/institution"
+
+Jason:
+hmm
+
+Cuddlybanana:
+hmmm legal brain versus coding brain
+
+G:
+to be clear I could see this one going either way, as that's definitely a
+"cultural/custom" usage
+
+Secretsnail:
+it's a good thing i petitioned a held office instead of a vacant one
+
+G:
+the petition caused a segmentation fault officer-pointer is null, Agora
+terminated
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+There are a number of ways in which secretsnail might have failed to
+deputise to respond to a petition in the message in question, and thus
+a number of issues in the CFJ:
+
+ * Is it possible to submit a petition to a vacant office?
+ * Is it possible to resign an office while it has obligations, then
+   deputise to fulfil them?
+ * Is an "I do the following actions if they all succeed" conditional
+   something that is capable of working in the case where there's legal
+   uncertainty about whether the actions succeed or not?
+ * In the list of actions which was actually given, was it actually
+   possible for all of them to succeed?
+
+For the CFJ to be TRUE, all these points would have to be TRUE.
+However, at least the fourth is FALSE, as can be seen by the edited-
+down version of the message in question that I posted above:
+secretsnail attempted to resign Arbitor twice without performing an
+action which would give em the office in between, and thus it's not
+possible for the second resignation to succeed (Rule 1006 requires a
+player to hold an elected office to be able to resign it). As a
+consequence, the "I do the following actions if they all succeed"
+conditional can be resolved without any extraordinary effort: it's
+clear that the actions can't *all* succeed and thus none of them were
+attempted (in particular, because the attempt to resign couldn't
+succeed, the attempt to deputize to respond to a petition never
+happened and thus it doesn't matter whether or not it would have
+worked). This is sufficient to be able to find the CFJ FALSE.
+
+Going over the other points:
+ * CFJ 3916 found that it was indeed possible to submit a petition to a
+   vacant office, so long as the action was clearly specified as
+   petitioning an office rather than a person. (Note, however, that
+   that CFJ received enough support to be appealed – it's just that
+   nobody actually resolved the dependent action to appeal it. So it's
+   less good as a precedent than usual.) This is also consistent with
+   CFJ 2953, which covers the same topic. (Note, however, that CFJ 2953
+   is based on two sets of arguments, one of which is a misreading of
+   CFJ 1594's final verdict after its appeal, and the other of which
+   directly contradicts CFJ 1702. So it's also less good as a precedent
+   than usual.)
+ * Resigning an office and then deputising to fulfil a pending
+   obligations that it had is clearly POSSIBLE via rule 2160. (I can
+   see an outside possibility that it might be ILLEGAL, but suspect
+   that it isn't – even if it is, though, it doesn't prevent it
+   working.)
+ * Whether or not conditionals of that level of complexity can work at
+   all is probably the most interesting part of this CFJ, but
+   fortunately I don't have to answer it. This would be an interesting
+   area to look at if something similar happens again, though.
+
+
+Judge ais523's Evidence:
+
+Archive links to the past CFJs mentioned in the arguments:
+3916: <https://www.mail-archive.com/agora-business@agoranomic.org/msg40140.html>
+2953: <https://faculty.washington.edu/kerim/nomic/cases/?2953>
+1594: <https://faculty.washington.edu/kerim/nomic/cases/?1594a>
+1702: <https://faculty.washington.edu/kerim/nomic/cases/?1702>
+
+Excerpt from rule 1006/45:
+      The holder of an elected office CAN resign it by announcement,
+      causing it to become vacant.
+
+==========================================================================

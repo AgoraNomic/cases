@@ -1,0 +1,171 @@
+===============================  CFJ 3987  ===============================
+
+      Delivering a CFJ judgement that doesn't accord with the first
+      paragraph of R217 is a rules violation.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     16 Aug 2022 16:42:00
+Assigned to ais523:                               21 Aug 2022 04:23:00
+Judged FALSE by ais523:                           25 Aug 2022 22:40:00
+
+==========================================================================
+
+Caller's Arguments:
+
+First, I think it's a very slippery slope to suggest punishing judges for
+judgements, at least for the vast majority of disagreements - I'm not at
+all sure if judgements, even bad faith ones, should be penalized at all.
+But I want to determine if submitting "bad" judgements (for certain values
+of "bad") is actually a violation of any rule, just so we know.
+
+For the first CFJ, R217 reads in part:
+>     When interpreting and applying the rules, the text of the rules
+>     takes precedence. Where the text is silent, inconsistent, or
+>     unclear, it is to be augmented by game custom, common sense, past
+>     judgements, and consideration of the best interests of the game.
+Note that this is imperative.  It could/should be read "the text of the
+rules SHALL take precedence" and "it SHALL be augmented by game custom,
+common sense, past judgements, and consideration of the bests interests of
+the game" without changing meaning (the imperative reads very much as a
+SHALL, not a SHOULD).  CFJs are clearly the rules-recognized means for
+"interpreting and applying" rules.  So failure to "interpret and apply"
+rules via a CFJ in accordance with this paragraph would violate this rule.
+
+For the second CFJ, R591 defines circumstances under which different
+judgements are "appropriate".  By inference, any judgements that don't fit
+the criteria are "inappropriate".  By dictionary definition,
+"inappropriate" means "not suitable or proper in the circumstances" and
+the example sentence given by google is actually "there are penalties for
+inappropriate behavior" which implies that it means a rules violation.
+(Though unlike the first, imperative-tense CFJ, "inappropriate" is weaker
+than e.g. "invalid" so this maybe governed by the equivalent to a SHOULD,
+not a SHALL).
+
+For both CFJs, there's the possibility that a bad faith judgement also
+violates R101's "Please treat Agora Right Good Forever" but I think that's
+much more of a stretch.
+
+Caller's Evidence:
+
+> Rule 217/12 (Power=3)
+> Interpreting the Rules
+>
+>       When interpreting and applying the rules, the text of the rules
+>       takes precedence. Where the text is silent, inconsistent, or
+>       unclear, it is to be augmented by game custom, common sense, past
+>       judgements, and consideration of the best interests of the game.
+>
+>       Definitions and prescriptions in the rules are only to be applied
+>       using direct, forward reasoning; in particular, an absurdity that
+>       can be concluded from the assumption that a statement about
+>       rule-defined concepts is false does not constitute proof that it
+>       is true. Definitions in lower-powered Rules do not overrule
+>       common-sense interpretations or common definitions of terms in
+>       higher-powered rules, but may constructively make reasonable
+>       clarifications to those definitions. For this purpose, a
+>       clarification is reasonable if and only if it adds detail without
+>       changing the underlying general meaning of the term and without
+>       causing the higher powered rule to be read in a way inconsistent
+>       with its text.
+>
+>       Rules to the contrary notwithstanding, any rule change that would
+>       (1) prevent a person from initiating a formal process to resolve
+>       matters of controversy, in the reasonable expectation that the
+>       controversy will thereby be resolved; or (2) prevent a person from
+>       causing formal reconsideration of any judicial determination that
+>       e should be punished, is wholly void and without effect.
+>
+> ------------------------------------------------------------------------
+>
+> Rule 591/49 (Power=1.7)
+> Delivering Judgements
+>
+>       When a CFJ is open and assigned to a judge, that judge CAN assign
+>       a valid judgement to it by announcement, and SHALL do so in a
+>       timely fashion after this becomes possible.
+>
+>       The valid judgements for an inquiry case are as follows, based on
+>       the facts and legal situation at the time the inquiry case was
+>       initiated, not taking into account any events since that time:
+>
+>       * FALSE, appropriate if the statement was factually and
+>         logically false.
+>
+>       * TRUE, appropriate if the statement was factually and
+>         logically true.
+>
+>       * IRRELEVANT, appropriate if the veracity of the statement is
+>         not relevant to the game or is an overly hypothetical
+>         extrapolation of the game or its rules to conditions that don't
+>         actually exist, or if it can be trivially determined from the
+>         outcome of another (possibly still undecided) judicial case that
+>         was not itself judged IRRELEVANT.
+>
+>       * INSUFFICIENT, appropriate if the statement does not come
+>         with supporting arguments or evidence, and the judge feels as if
+>         an undue burden is being placed on em by the lack of arguments
+>         and evidence. A CFJ judged as INSUFFICIENT SHOULD be submitted
+>         again with sufficient arguments/evidence.
+>
+>       * DISMISS, appropriate if the statement is malformed, undecidable,
+>         if insufficient information exists to make a judgement with
+>         reasonable effort, or the statement is otherwise not able to be
+>         answered with another valid judgement. DISMISS is not
+>         appropriate if PARADOXICAL is appropriate.
+>
+>       * PARADOXICAL, appropriate if the statement is logically
+>         undecidable as a result of a paradox or or other irresovable
+>         logical situation. PARADOXICAL is not appropriate if IRRELEVANT
+>         is appropriate, nor is it appropriate if the undecidability
+>         arises from the case itself or in reference to it.
+>
+>       If the judge of an open CFJ has not violated a time limit for
+>       assigning it a judgement, and has not previously filed a motion to
+>       either extend or reconsider the case, e CAN file a motion to
+>       extend the case by announcement. Doing so extends eir judgement
+>       deadline for that case by one week. In doing so, e SHOULD include
+>       a (nonbinding) draft or outline of eir current thoughts on the
+>       case.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+With the respect to CFJ 3987: the first sentence of R217 is not a
+statement specifically about how judgements are made, but rather a
+statement about how the rules apply generally. This is something that
+can have gamestate effects when we have badly worded rules (which can,
+in close cases, make it difficult to work out what the platonic
+gamestate is – but the fact that past judgements are factored into R217
+will typically mean that once a judgement has been made in a very close
+case, it will tip the balance and the rules will then start acting in
+accordance with the judgement).
+
+This rather raises the question of what it means for a judgement to
+"not be in accordance" with the first paragraph of R217 – I can't read
+the CFJ's statement as applying to the "TRUE", "FALSE" or whatever
+(because this doesn't normally directly reveal any particular
+interpretation of the rules), so it must apply to the judge's
+reasoning. And that reasoning seems to be entirely unregulated, as far
+as I can tell – there doesn't seem to be a current requirement for
+judge's reasoning to exist at all, nor to match the verdict, and only
+rule 2471 requires the judge to believe that it's true. (There is a
+SHOULD for posting reasoning when filing a motion to extend, but it's
+hard to read that as binding on judgements more generally.) As such, I
+don't think there's any rules breach in delivering a verdict for the
+CFJ together with entirely specious arguments that a) don't support the
+verdict or b) don't match the text of the rules.
+
+CFJ 3987: FALSE
+
+==========================================================================

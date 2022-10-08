@@ -1,0 +1,143 @@
+===============================  CFJ 3941  ===============================
+
+      Rule 2465 is a Device.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  30 Jan 2022 18:18:25
+Assigned to Cuddlybanana:                         30 Jan 2022 20:58:00
+Cuddlybanana Recused:                             11 Feb 2022 03:52:00
+Assigned to G.:                                   11 Feb 2022 03:52:00
+Judged FALSE by G.:                               24 Feb 2022 15:41:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Per the most recent Mad Engineer report, the device is on. When the
+device is on, "A Device is an entity with positive Power." Rule 2465 is
+an entity with positive power, and it has lower power than Rule 2654, so
+Rule 2654 is capable of altering it, so it is possible that Rule 2654
+continuously alters Rule 2465 by making it a device.
+
+
+Caller's Evidence:
+------------------------------------------------------------------------
+Rule 2654/21 (Power=1)
+The Device
+
+      When the device is on:
+        * click - hummmmmmm
+        * The week that contains the beginning of Agora's Device,
+          together with the following week, is a Holiday.
+        * A Device CAN activate or deactivate emself by announcement.
+        * Any player CAN refile a Device without objection, specifying a
+          new title; the Device is retitled to the specified title by
+          this Device.
+        * The Speaker qualifies for a Platinum Device.
+        * The time window of a Device is W days, where W is the value
+          explicitly stated by the Device, or 60 if the Device does not
+          explicitly state a value. A Device ceases to exist at the end
+          of its time window.
+        * Each Agoran Device has a voting method, which must be
+          AI-majority, instant runoff, or first-past-the-post.
+        * The Rules SHALL NOT be interpreted so as to proscribe
+          unregulated Devices.
+        * The voting Device is that specified by the authorizing
+          authority, or first-past-the-post by default.
+        * An entity submits a ballot on an Agoran Device by publishing a
+          notice satisfying the following conditions:
+                1. The ballot is submitted during the voting period for the
+             Device.
+                2. The entity casting the ballot (the voter) was, at the
+             initiation of the Device, a player.
+                3. The ballot clearly identifies the matter to be decided.
+                4. The ballot clearly identifies a valid vote, as determined
+             by the voting method.
+                5. The ballot clearly sets forth the voter's intent to place
+             the identified vote.
+                6. The voter has no other valid ballots on the same Device.
+        * The voting Device of an entity on an Agoran decision is an
+          integer between 0 and 15 inclusive, defined by rules of power
+          2 or greater.
+        * A Device is an entity with positive Power.
+            When the device is off:
+        * whirrrrrr - THUNK
+        * By default, a device CAN, with 2 Agoran consent, enact, amend,
+          or repeal a regulation for which e is the Promulgator.
+        * Whenever a Player feels that e has been treated so egregiously
+          by the Agoran Device that e can no longer abide to be a part
+          of it, e may submit a document to the Registrar, clearly
+          labeled a Cantus Cygneus, detailing eir grievances and
+          expressing eir reproach for those who e feels have treated em
+          so badly.
+        * When e does so, e fulfills any obligations with regards to
+          that device.
+        * Text purportedly about previous instances of the device (e.g.
+          a report's date of last device) is excluded from the device.
+        * If a Device has no judge assigned, then any player eligible to
+          judge that Device CAN assign it to emself without 3
+          objections.
+        * The Rulekeepor SHOULD also include any other information which
+          e feels may be helpful in the use of the Device in the FLR.
+        * Then, the Device changes, following which each active player
+          gains 1 card of each type and eir grant (if any).
+
+------------------------------------------------------------------------
+Rule 2465/1 (Power=0.3)
+Victory by Apathy
+
+      A player CAN Declare Apathy without objection, specifying a set of
+      players. Upon doing so, the specified players win the game, except
+      for those who have won the game through this Rule in the past 14
+      days.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First, to be clear, The Device switch and The Device rule are not
+"devices" by virtue of their names alone.
+
+The phrase in question should be read in context of the full clause of
+the rule as "When The Device [switch] is on, a device is an entity
+with positive power."    In common language, this is an odd phrase.
+But take the example: "when the sun is up, a plant is an entity that
+photosynthesizes".  This sentence does not purport to grant any
+abilities to plants, rather it is descriptive/definitional:  you can
+tell something is a plant because when the sun is up, it
+photosynthesizes - you define a plant by that property, and something
+without that property is not a plant.
+
+Importantly, such a sentence, though awkward, ties the activity
+("photosynthesizes") to the state ("when the sun is up"), which
+provides a strong implication that the sun is an important trigger -
+it's an implication that something that photosynthesizes at any time
+(whether or not the sun is up) would not be part of this definition.
+Now, in pure logic space, this is not the reading.  Take another
+phrase "When it is 11 o'clock, I am an entity that is human".  Since I
+am a human at other times, that sentence is 100% logically correct.
+However, in common (though mangled) language and common sense that's
+not an appropriate interpretation - the existence of the conditional
+implies a connection between the conditional and the state, so a
+connection should be inferred.
+
+So, "when the device is on, a device is an entity with positive power"
+means that *if* there are entities that (through mechanisms elsewhere)
+gain positive power when The Device switch is on, those entities are
+devices.  Otherwise, they aren't.  Reading the rest of The Device
+rule, there are no entities that actually gain power when The Device
+is on, so there are no devices.
+
+I judge FALSE.
+
+==========================================================================

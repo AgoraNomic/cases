@@ -1,0 +1,101 @@
+===============================  CFJ 3995  ===============================
+
+      Within the past 24 hours, Murphy won the game.
+
+==========================================================================
+
+Caller:                        Jason
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Jason:                                  19 Sep 2022 01:54:00
+Assigned to G.:                                   25 Sep 2022 01:52:00
+Judged FALSE by G.:                               29 Sep 2022 13:22:00
+
+==========================================================================
+
+Caller's Arguments:
+
+The list of scoring conditions in R2657/6 is clearly meant to be
+exhaustive based on the wording. Game custom is against reading the
+rules to incorporate the effects of contracts unless explicitly stated.
+
+
+Caller's Evidence:
+
+Edward Murphy via agora-business wrote:
+>
+> I agree to the following contract:
+>
+> {
+>        The following is a scoring condition:
+>
+>          * Announcing a number between 13 and 15: 100 (ADoP).
+> }
+>
+> I announce the number 14.
+>
+> As ADoP, I award 100 points to myself.
+>
+> I announce that I have at least 100 points.
+>
+> With my own consent, I terminate the above contract.
+
+
+Rule 2657/6 (Power=1)
+Scoring
+
+      Each time a player fulfills a scoring condition, the officer
+      associated with the condition CAN once by announcement, and SHALL
+      in an officially timely fashion, add to that player's score the
+      associated amount of points, rounded down.
+      
+      Below is a list of scoring conditions and their associated points
+      and officers.
+      
+        * Being the author of a proposal that takes effect: 5
+          (Assessor).
+      
+        * Being a coauthor of a proposal that takes effect: 1
+          (Assessor).
+      
+        * Having an Agoran Birthday: 15 (Herald).
+      
+        * Receiving any patent title: 10 (Herald).
+      
+        * Receiving a ribbon: 5 (Tailor).
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+This is a typical example of the contract says it CAN, therefore it
+CAN fallacy that has plagued Agora for a long time.  Score is a
+regulated switch.  A scoring condition is a simple shorthand for
+defining a CAN for flipping the switch; i.e. it is the same as writing
+out "The Assessor CAN and SHALL add 5 points to the score of the
+author of an adopted proposal" etc.  So "defining a scoring condition"
+is simply enabling a specific type of CAN.  Contract text is not magic
+(any more so than announcements), and is only able to enable CANs with
+explicit permission from the rules.  Currently, those permissions are
+limited to enabling acting-on-behalf, transfers/destruction of
+currencies held by the contract, and exercising mint authority for
+currencies defined by the contract.  Since none of these things
+involve flipping rules-defined switches, the contract CANNOT enable
+such switch flipping.  I judge FALSE.
+
+However, as an addendum, any "scoring condition" adds a "SHALL in an
+officially timely fashion" as well as a CAN.  Since Contracts CAN
+define SHALLs that apply to parties, the contract's scoring condition
+*has* made a requirement for Murphy to perform this impossible task,
+and since Murphy is a party to the contract, failure to do so would
+(possibly) be a rules violation which Murphy could have reasonably
+avoided, if the contract requirement still exists when the deadline
+expires.
+
+==========================================================================

@@ -8,12 +8,16 @@
 Caller:                        Murphy
 Barred:                        G.
 
+Judge:                         ais523
+Judgement:                     FALSE
+
 ==========================================================================
 
 History:
 
 Called by Murphy:                                 13 Jun 2021 21:18:26
 Assigned to ais523:                               13 Jun 2021 22:47:51
+Judged FALSE by ais523:                           14 Jun 2021 10:08:00
 
 ==========================================================================
 
@@ -70,5 +74,116 @@ report or the CFJ).
 Original petition message:
 
 https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2021-February/045879.html
+
+--------------------------------------------------------------
+
+Judge ais523's arguments:
+
+There are two sub-issues to this CFJ:
+
+a) does Rule 2143 mean "petition a person who holds at least one
+office", or "petition an office, delivering the petition to the
+officeholder as the representative of that office"?
+
+b) if Rule 2143 does require a particular office to be referenced, does
+Murphy's message succeed in identifying the Prime Minister as the
+office in question?
+
+At the heart of issue a), this is a dispute about what Rule 2143 is
+referring to when it says "A player CAN, by announcement, petition a
+specified officer to take a specified action; the officer SHALL
+publicly respond to the petition in a timely fashion."; is "officer"
+being used in the sence of a "person who holds at least one office", or
+is it being used in the sense of "you can petition an office by
+petitioning the officer"? It's clear (rule 2160p1) that if the action
+is linked to the player, rather than the office, the deputisation
+wouldn't work.
+
+As for b): to me, the plain language of the wording of Murphy's message
+is "I petition G., who is possibly the Prime Minister". If we imagine a
+slight change in the message, "I petition G.; I know e's an officer,
+but can't remember whether it's Prime Minister or Arbitor", I wouldn't
+expect this to be a substantial change in the meaning of Murphy's
+message as it related to the petitioning. (I note in passing that G.'s
+statement that e couldn't respond to the petition, because e wasn't the
+prime minster, is wrong; maybe e couldn't fulfil a duty to respond, but
+it's perfectly possible to publicly respond to other people's petitions
+by posting an email containing a response. There isn't a defined action
+of "responding to a petition".)
+
+Rule 478 says "Where the rules define an action that a person CAN
+perform "by announcement", that person performs that action by
+unambiguously and clearly specifying the action". Murphy's message
+unambiguously and clearly specified an attempt to petition G., but I
+don't think it's identifying an attempt to petition a particular office
+sufficiently clearly (it's *mentioning* an office but there's no
+implication in the sentence that that office is the target of a
+petitioning; the mention of the Prime Minster looks more like "I think
+this petitioning is legal because G. is the Prime Minister, and it
+needs to be aimed at an officer" rather than "I aim this petition at
+the office of the Prime Minister, which happens to be held by G."). So
+the action that Murphy describes (petitioning a person) is not the
+action of petitioning that's defined in the rules, and thus it fails to
+create a rules-defined duty.
+
+So, we can see a link between points a) and b) here. If petitions are
+directed at a specific person (who happens to hold at least one
+office), then the petitioning worked, but it isn't possible to deputise
+to answer. If petitions are directed at an office, the petitioning
+failed. In either case, the CFJ is FALSE.
+
+It's still interesting to know which of these two scenarios actually
+happened, though (with the understanding that it doesn't affect the
+outcome of the CFJ). Looking at the uses of "office" vs. "officer" in
+the rules (in situations where the rules want to talks about officers
+in general):
+
+R2162: "one office" … "that officer"
+R1607,2137,1051: "one office" … "its holder"
+R2164: "appoint and remove officeholders"
+R1006: "An officer is the holder of an office, who may be referred to
+by the name of that office."
+R2630: "each officer" … "eir own office"
+R2154: "a specified elected office" … "holder of that office"
+R2573: "the holder of a specified elected office"
+R2160: "an action ordinarily reserved for an office-holder as if e held
+the office"
+R2138: "each office's Officeholder" (referring to the switch, not the
+officer!)
+R2143: "a specified officer" … "the officer" (what this CFJ is about)
+R2603: "which would otherwise lack an officer" (presumably this isn't
+supposed to trigger when there's a defined officer, but it's vacant)
+R2496: "the officer associated with the condition" (followed by a list
+of office names associated with conditions)
+R2581: "any officer" … "not holding that office"
+R2582: "the indicated officers" … "each indicated officer"
+
+Most of the rules are very clear on the office vs. Officeholder switch
+vs. person distinction. However, some are less clear, and give a window
+into what the game custom surrounding references to "officers" is. In
+particular, the wording in R2630 and R2581 is fairly persuasive to me
+that the custom is that "officers" are colloquially considered to be a
+different concept from the individual people who hold the offices; G.-
+as-Prime-Minister is a different "officer" from G.-as-Arbitor.
+Otherwise, they would effectively imply that nobody could hold more
+than one office, which is obviously incorrect. R2160, R2603 and R2496
+give more evidence on the subject, and although it's less clear, it
+points in the same direction.
+
+It's also worth noting that the construction in R2582 is very similar
+to the construction in R2143. However, R2582 indicates a list of office
+names. I think it makes sense to interpret R2143 so that the words
+would be being used in the same way that they're used in R2582.
+
+So a summary of my findings:
+- it is the case that petitions are directed at an office, so you can
+deputise to answer them
+- but Murphy failed to clearly take the action of directing a petition
+at an office (it's clear what action e was trying to take – directing a
+petition at a person – but that action doesn't have any defined rules
+effect, so it doesn't create a duty to respond)
+- so no obligation was created, and so no deputisation, FALSE.
+
+I judge CFJ 3916 FALSE.
 
 ==========================================================================

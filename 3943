@@ -1,0 +1,64 @@
+===============================  CFJ 3943  ===============================
+
+      grok is a player.
+
+==========================================================================
+
+Caller:                        grok
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by grok:                                   28 Jan 2022 17:31:15
+Assigned to ais523:                               31 Jan 2022 21:21:00
+Judged FALSE by ais523:                           31 Jan 2022 23:11:00
+
+==========================================================================
+
+Caller's Arguments:
+
+ratifying a public document is a reserved action that
+can only be done by players. grok was automatically deregistered by
+inactivity and never revoked eir consent from agora. because grok's
+consent has been given and has not been revoked, and e attempted to
+take a game action, e must be registered at the time e attempted this
+action. therefore, grok registered at 17:05 utc on friday, january 28.
+
+Caller's Evidence:
+
+On Fri, Jan 28, 2022 at 11:19 AM Kerim Aydin wrote:
+>
+>
+> On 1/28/2022 9:09 AM, grok via agora-business wrote:
+> > I amend this action to read:
+> >
+> > RWO: grok was always a player
+> >
+> >
+> > On Fri, Jan 28, 2022, 11:05 AM grok via agora-business <
+> > agora-business@agoranomic.org> wrote:
+> >
+> >> grok was always a player
+> >>
+>
+> I object.  fun question but it would be a real tangle in the records?
+>
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+Although you need to be a player to ratify something without objection,
+you don't need to be a person to table an intent to ratify something
+without objection (as far as I can tell, it's possible to intend to
+perform a player-only action, then register and perform it). As such,
+the message is ambiguous about the time at which grok intends to become
+a player, so it fails the "at that time" requirement in rule 869.
+
+As such, I judge CFJ 3943 FALSE.
+
+==========================================================================

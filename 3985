@@ -1,0 +1,80 @@
+===============================  CFJ 3985  ===============================
+
+      This message caused a Madrid stamp to be created.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         Jason
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 16 Aug 2022 01:21:00
+Assigned to Jason:                                16 Aug 2022 01:33:00
+Judged FALSE by Jason:                            16 Aug 2022 01:54:00
+
+==========================================================================
+
+Caller's Arguments:
+
+On 8/15/22 21:21, Gaelan Steele via agora-business wrote:
+>> I cash this promise. The string, which consitutes no game actions, but when
+>> SHA256 hashed gives the corresponding code, is (without the quotes):
+>> "gilloooooo pa onde va tu que la feria ta pa lla"
+>> --
+>> 4st
+>> Referee
+> I CFJ: {This message caused a Madrid stamp to be created.}
+>
+> Arguments: that string is not "in the regular text format that is ubiquitous
+> and traditional for gameplay messages in Agora”.
+
+--------------------------------------------------------------------------
+
+Judge Jason's Arguments:
+
+Judged trivially FALSE, since "this message" refers to the message in
+which the CFJ was called.
+
+However, I will still resolve the underlying controversy (whether the
+message quoted above the CFJ caused a Madrid stamp to be created).
+
+This would be judged trivially FALSE, since the promise would only
+transfer a stamp, rather than create one.
+
+However, I will still resolve the underlying controversy (whether the
+message quoted above the CFJ caused a Madrid stamp to be transferred).
+
+In order for a stamp to have been created, the string "gilloooooo pa
+onde va tu que la feria ta pa lla" must meet be "in the regular text
+format that is ubiquitous and traditional for gameplay messages in Agora".
+
+There are two potential interpretations of what "text format" refers to:
+the literal encoding of the format (ASCII in this case), or the content
+(including semantics) of the message. I find that the latter is what
+applies: reasonable encoding is implicit in "string", and, if the
+creator of the promise meant the restriction solely to require the
+string to be valid ASCII (or UTF-8), e would have simply said so.
+
+Having determined that the requirement includes semantics, we must now
+determine whether the string in question meets the requirement. I find
+that it does not. Messages in English are what are common and ubiquitous
+in Agora, and the string is not readable as English. To the extent that
+our precedents permit machine-translatable uses of other languages (even
+though they are probably neither common nor ubiquitous), I have also
+attempted to run the string through Google Translate, which detects it
+as Spanish and translates it to English as "gilloooooo pa where are you
+going that the fair ta pa lla", which is also not intelligible.
+
+Thus, the string is not "in the regular text format that is ubiquitous
+and traditional for gameplay messages in Agora", so the cashing
+conditions were not satisfied, the promise was not cashed, and no stamp
+was transferred.
+
+This would be judged FALSE.
+
+==========================================================================

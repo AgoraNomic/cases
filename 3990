@@ -1,0 +1,123 @@
+===============================  CFJ 3990  ===============================
+
+      The infraction I committed in the quoted message has been
+      forgiven.
+
+==========================================================================
+
+Caller:                        Gaelan
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Gaelan:                                 21 Aug 2022 20:46:00
+Assigned to G.:                                   28 Aug 2022 03:26:00
+Motion to extend filed:                           03 Sep 2022 17:40:00
+Judged FALSE by G.:                               10 Sep 2022 10:59:00
+
+==========================================================================
+
+Caller's Arguments:
+
+At the time of the infraction, I couldn’t be established by a preponderance
+of evidence to have lied. Therefore, it was immediately and automatically
+forgiven by rule 2531/16.
+
+
+Caller's Evidence:
+
+On 8/21/22 13:46, Gaelan Steele wrote:
+>> On Aug 21, 2022, at 6:42 PM, Gaelan Steele wrote:
+>>
+>> The following string:
+>>
+>> 4a2e0736f59b691e1b9b19abcd66ac0b374e2fce06ea652336b3a9cae1e9b5ef
+>>
+>> Was constructed by taking the SHA256 hash of a string containing
+>> the word “walnut”.
+>>
+>> Gaelan
+>> echo "hazelnut, you fool!" | shasum -a 256
+> 4a2e0736f59b691e1b9b19abcd66ac0b374e2fce06ea652336b3a9cae1e9b5ef  -
+>
+> I note the violation of No Faking in the quoted message.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Evidence:
+
+I've confirmed that the given plaintext matches the given hash, with
+the minor note for posterity that 'echo' inserts a newline before
+hashing (if this is tested using a different platform).
+
+
+Judge G.'s Arguments:
+
+Looking at this text from R2531/16:
+
+>      An infraction is automatically forgiven if:
+>
+>      (1) the alleged infracter can't be established by a preponderance
+>          of the evidence to have committed the infraction
+
+In general, when the rules ask if a fact can be "established" or
+"determined" when evaluating a conditional, we have (through
+precedent/custom etc.) interpreted the situation like a textbook math
+puzzle: can the "typical" Agoran reader, at the moment in time that
+the puzzle is set (i.e. using only information generally available to
+em at the time the puzzle legally arises) logically solve the puzzle
+with some reasonable amount of effort?  This makes perfect sense when
+considering playability in a competitive game: in general moves
+(i.e.g. by-announcement moves) need to be made in such a way that most
+players can respond, plot countermoves, make plans etc. without having
+to wait for specialist interpretation, and with reasonable confidence
+that most people with the same facts would come to the same
+conclusion.  Moreover, we can't allow players to "take back" past
+moves by supplying more information (e.g. so that saying after the
+fact "I didn't intend to do that" does not void the initial expression
+of intent, even if we sincerely believe the actor didn't intend it).
+
+And to be clear, at the moment of the alleged infraction, the
+"typical" Agoran did not have sufficient publicly-available
+information to establish guilt, if the "establishment" was performed
+at that moment in time with no further input, due to the plaintext of
+the hash being known only privately (and I assume only by Gaelan).
+
+However, it collides with the metaphor of investigation when
+"establish" refers to establishing "criminal" activity, wherein
+"evidence-gathering" and interpretation (possibly including the
+interpretation of motive) is necessarily after-the-fact of any alleged
+crime (pre-investigation being a rather chilling minority report type
+of thing).  That collision is pretty evident in the current rules,
+where on one hand both investigation and forgiveness are "thoughtful"
+actions after the crime and evidence are gathered, which is at odds
+with the concept of "automatic" forgiveness as stated.  Further, the
+existence of an "investigator" implies that the investigative process
+may involve ferreting around by one person (not by every 'typical'
+Agoran), with the investigator possibly obtaining private information
+during the process which is then presented as part of the findings,
+and in that context it is certainly not unreasonable effort to at
+least ask for more data as part of determining whether something "can
+be established", or to wait a short time to see if further information
+develops.
+
+Since it's not rules-text, but instead custom/precedent, that we take
+the "math puzzle" view of solving problems, on balance I find that the
+idea of "establishing based on evidence" when applied specifically to
+criminal matters as currently written in the rules, makes
+guilt-establishment based on an instant "snapshot in time" nonsensical
+and against common sense; moreover, we do not want to imply that
+gathering of evidence, determining motive, etc. are done "pre-crime".
+So in this instance in particular, it is not unreasonable effort (a
+moment after the crime was committed) to ask Gaelan to provide the
+plaintext (or to wait for em to volunteer it) and in fact e did,
+proving that e did indeed commit an infraction, and that at the moment
+of infraction, it was quite reasonably possible (through a short
+amount of waiting) to obtain the needed evidence to establish a
+violation to the preponderance of the evidence.  I judge FALSE.
+
+==========================================================================

@@ -1,0 +1,68 @@
+===============================  CFJ 3984  ===============================
+
+      G. transferred 1 coin from a contract to Madrid today.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         secretsnail
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     11 Aug 2022 18:25:00
+Assigned to secretsnail:                          14 Aug 2022 19:34:00
+Judged FALSE by secretsnail:                      16 Aug 2022 01:58:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On 8/11/22 14:25, Kerim Aydin via agora-business wrote:
+> On 8/11/2022 11:20 AM, Kerim Aydin wrote:
+>>
+>> I agree/consent to the following contract "Auto-Repeal Test":
+>> ---
+>>   1.  Only G. can join this.
+>>   2.  G. CAN transfer assets from this Contract by announcement;
+>>       on 11-Aug-2022 at 18:22:00 UTC, this line item is removed from this
+>>       contract.
+>>
+>> ---
+>> I transfer 1 coin to the above contract.
+>>
+>
+> I transfer 1 coin from the above contract to Madrid.
+
+
+Caller's Arguments
+
+I argue for FALSE.  Clause 2 of the contract, allowing me to make the
+transfer, was deleted from the contract automatically via a time trigger
+before I attempted the transfer.
+
+This is primarily a test of this part of Rule 1742/23:
+>      Rules to the contrary notwithstanding, any change that would cause
+>     the full provisions or parties of a contract to become publicly
+>     unavailable is canceled and does not take effect.
+I argue that the full provisions *were* publicly available by simple and
+straightforward inference (of the current time and the published contract)
+and so a separate publication wasn't needed to make the contract change.
+
+--------------------------------------------------------------------------
+
+Judge secretsnail's Arguments:
+
+I judge CFJ 3984 FALSE.
+
+I see no flaws with the caller's arguments. The contract included
+provisions that made it clear, publicly, what the provisions would be after
+the consented-to change. The provisions after 11-Aug-2022 at 18:22:00 UTC
+were included in the original agreement to the contract, by simple and
+straightforward inference. Had the inference been more complex and not as
+obvious, it may not qualify as "public".
+
+==========================================================================

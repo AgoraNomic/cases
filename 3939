@@ -1,0 +1,125 @@
+===============================  CFJ 3939  ===============================
+
+      My attempt to cause rule 2655 to amend the rule "The Device" above
+      succeeded.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         R. Lee
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 31 Dec 2021 03:06:46
+Assigned to R. Lee:                               10 Jan 2022 18:00:00
+Judged TRUE by R. Lee:                            13 Jan 2022 01:00:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On Sun, 2021-12-26 at 20:11 +0000, ais523 via agora-official wrote:
+> On Sun, 2021-12-26 at 20:09 +0000, ais523 via agora-official wrote:
+> > The Device is on.
+> >
+> > I intend, with Agoran Consent, to cause rule 2655 to amend the rule
+> > "The Device" by appending the following as a list item to the "When the
+> > device is on:" list:
+> > {{{
+> > >       An entity submits a ballot on an Agoran Device by publishing a
+> > >       notice satisfying the following conditions:
+> > >       
+> > >       1. The ballot is submitted during the voting period for the
+> > >          Device.
+> > >       
+> > >       2. The entity casting the ballot (the voter) was, at the
+> > >          initiation of the Device, a player.
+> > >       
+> > >       3. The ballot clearly identifies the matter to be devised.
+> > >       
+> > >       4. The ballot clearly identifies a valid vote, as determined by
+> > >          the voting method.
+> > >       
+> > >       5. The ballot clearly sets forth the voter's intent to place
+> > >          the identified vote.
+> > >       
+> > >       6. The voter has no other valid ballots on the same Device.
+> > }}}
+> > [I realised just in time that I forgot to do this this week – luckily
+> > I'm still within the deadline. Going with Jason's suggestion. I'd
+> > normally add this sort of thing to the "off" list, but the text
+> > mentions "the initiation of the Device" which probably only makes sense
+> > while the Device is on.]
+> >
+> > Incidentally, I believe the "grammatical variations" rule requires me
+> > to replace "decided" with "devised", so I've done so above, but someone
+> > might want to CFJ on that. Just to be on the safe side with respect to
+> > SHALLs, I *also* intend, with Agoran Consent, to do the same thing
+> > except with "decided" rather than "devised".
+>
+> And just in case my formatting mistake above causes problems later: I
+> intend the same things, but without the email quotation markup between
+> the {{{ and }}} marks (as arguably that's being quoted too).
+
+With Agoran Consent, I do so (using the intent where the text does not
+contain quote marks and with "decided"). Falsifian and Jason supported;
+there were no objections. Disclaimer: this may fail if the correct
+wording is "devised" rather than "decided"; see the CFJ below.
+
+I believe I'm not required to resolve the intents that contain a
+formatting mistake, even though they have the required support, because
+the text is incorrect and thus I neither CAN nor SHALL resolve them –
+the procedure for creating those intents was not followed correctly.
+
+The intent without the formatting mistake, but with "devised", does not
+currently have Agoran Consent.
+
+
+Caller's Arguments: 
+
+Rule 2655(c) requires me to replace each instance of a
+chosen noun with "Device", "(including grammatical variations, e.g.
+replacing "<noun>'s" with "Device's")". Does "decided" count as a
+grammatical variation of "decision" for this purpose? If so, is the
+corresponding grammatical variation of "device" "devised"? I think that
+a parallel exists: a decision is something that has been decided, and a
+device is something that has been devised (and etymologically,
+"decision" and "decided" have the same root word, Latin "decidere").
+
+If "decided" does count as a variation of "decision", then the rule
+amendment failed because I didn't replace every word that I should
+have.
+
+--------------------------------------------------------------------------
+
+Judge R. Lee's Arguments:
+
+Rule 2665 reads as follows
+' c) Select exactly one noun from the selected text, and replace
+
+      each instance of that noun with "Device" (including grammatical
+      variations, e.g. replacing "<noun>'s" with "Device's").'
+
+This rule requires the Keeper of the Device to replace all instances
+of a certain noun. The explanatory parenthetical notes that variations
+of that noun must also be replaced. However the text outside the
+explanatory/definitional parenthetical makes clear that only nouns can
+be replaced and nowhere gives the power to replace adjectives or
+verbs. Generally speaking, explanations or definitions don't
+completely expand and replace the main text of the Rule. \
+
+This interpretation is also supported by the best interests of the
+game. The word 'device' has a clear plural form but it doesn't really
+have a verb form. 'Devise' and 'device' are not listed as grammatical
+forms of the same word in any dictionary. Furthermore, the adjectival
+form of device is listed in some but not all online dictionaries as
+being 'deviceful'.
+
+Therefore the procedure at issue here which didn't change the word
+'decided' succeeded. CFJ 3939 is TRUE.
+
+==========================================================================

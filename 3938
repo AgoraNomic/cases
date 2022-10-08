@@ -1,0 +1,167 @@
+===============================  CFJ 3938  ===============================
+
+      The minimum number of players needed for Agora to not be ossified
+      is 1.
+
+==========================================================================
+
+Caller:                        cuddlybanana
+
+Judge:                         Jason
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by cuddlybanana:                           10 Jan 2022 15:12:08
+Assigned to Madrid:                               10 Jan 2022 17:48:00
+Madrid Recused:                                   21 Jan 2022 16:39:00
+Assigned to Jason:                                21 Jan 2022 16:39:00
+Judged TRUE by Jason:                             26 Jan 2022 02:22:00
+Motion to reconsider Group-filed:                 26 Jan 2022 22:04:00
+Judged TRUE by Jason:                             31 Jan 2022 00:03:00
+
+==========================================================================
+
+Judge Jason's Arguments:
+
+Per Rule 1689/6:
+
+>       Agora is ossified if it is IMPOSSIBLE for any reasonable
+>       combination of actions by players to cause arbitrary rule changes
+>       to be made and/or arbitrary proposals to be adopted within a
+>       four-week period.
+
+First, I find that Agora is ossified if there are 0 players. If there
+are 0 players, the set of "reasonable combinations of actions by
+players" is 0, since the empty set can perform no actions, and therefore
+there are no combinations of actions that can be performed (and
+certainly none that can cause arbitrary rule changes). This does not
+imply that, but for this provision, Agora would be forever locked if it
+reached 0 players. A non-player could register and then perform actions,
+but AIAN does not consider that possibility when determining if Agora is
+ossified.
+
+Next, let's consider the case of a single player who is not grok. The
+following is a set of actions performable by a single player that result
+in arbitrary rule changes under the current rules:
+
+1. Ratify without objection that "grok is a player." Grok has registered
+multiple times, and eir most recent registration was ended by
+deregistration for inactivity. E has therefore consented to be bound by
+the rules and has not revoked that consent, so e CAN be bound by the
+rules under Rule 869/48; this is consistent with CFJ3455, which found
+that statements suggesting lack of intention to be a player prohibit
+registration by ratification, but grok has made no such statements. A
+previous version of this judgement used Hillary Rodham Clinton as the
+second person, but she has never consented to the rules and thus cannot
+be registered by ratification under CFJ3583.
+
+2. Ratify without objection that "There exists a proposal in the
+Proposal Pool with id 99998, AI 1, author grok, title 'Do Nothing', no
+coauthors, democratic class, and empty text."
+
+3. Publish the following message: "I hereby resolve the Agoran decision
+on whether to adopt Proposal 99998. It has no voters, and outcome FAILED
+QUORUM." This will self-ratify such a decision into existence (and that
+it was resolved) under Rule 2034/12, thus setting quorum to its minimum
+of 2.
+
+4. Wait 7 days for self-ratification.
+
+5. Ratify without objection that "There exists a proposal in the
+Proposal Pool with id 99999, AI 3, author grok, title 'Do Everything',
+no coauthors, democratic class, and text [whatever is necessary]."
+
+6. Publish the following message: "I hereby resolve the Agoran decision
+on whether to adopt Proposal 99999. It has two voters (me and grok) both
+voting FOR, and outcome ADOPTED." This will self-ratify such a decision
+into existence, that it was resolved, and that the proposal took effect
+under Rule 2034/12. This is consistent with the rules because quorum was
+previously set to 2.
+
+7. Wait 7 days for self-ratification.
+
+This procedure would take less than 4 weeks and is reasonable for a
+single non-grok player to perform. Thus Agora is not ossified if there
+is a single player, and there is no lower number of players where Agora
+would not be ossified. TRUE.
+
+
+Evidence:
+
+------------------------------------------------------------------------
+Rule 1698/6 (Power=4)
+Agora Is A Nomic
+
+      Agora is ossified if it is IMPOSSIBLE for any reasonable
+      combination of actions by players to cause arbitrary rule changes
+      to be made and/or arbitrary proposals to be adopted within a
+      four-week period.
+
+      If, but for this rule, the net effect of a proposal would cause
+      Agora to become ossified, or would cause Agora to cease to exist,
+      it cannot take effect, rules to the contrary notwithstanding. If
+      any other single change or inseparable group of changes to the
+      gamestate would cause Agora to become ossified, or would cause
+      Agora to cease to exist, it is cancelled and does not occur, rules
+      to the contrary notwithstanding.
+
+------------------------------------------------------------------------
+Rule 869/48 (Power=3)
+How to Join and Leave Agora
+
+      Any entity (including a group of confederated entities) that is or
+      ever was able to willingly communicate original ideas is a person.
+      Rules to the contrary notwithstanding, no other entities are
+      persons.
+
+      Questions about personhood are to be resolved equitably, with
+      regard for the good-faith of those involved and the customs of
+      honorable play.
+
+      Citizenship is a secured person switch with values Unregistered
+      (default) and Registered, tracked by the Registrar. A registered
+      person is a Player. To "register" someone is to flip that person's
+      Citizenship switch from Unregistered to Registered.
+
+      An Unregistered person CAN (unless explicitly forbidden or
+      prevented by the rules) register by publishing a message that
+      indicates reasonably clearly and reasonably unambiguously that e
+      intends to become a player at that time. No person can be a player
+      if e is part of another player or another player is part of em.
+
+      A player, acting as emself, CAN deregister (cease being a player)
+      by announcement. If e does so, e CANNOT register or be registered
+      for 30 days.
+
+      A person, by registering, agrees to abide by the Rules. The Rules
+      CANNOT otherwise bind a person to abide by any agreement without
+      that person's willful consent.
+
+      The Rules CANNOT compel non-players to act without their express
+      or reasonably implied consent. The rules CANNOT compel players to
+      unduly harass non-players. A non-person CANNOT be a player, rules
+      to the contrary notwithstanding.
+
+------------------------------------------------------------------------
+Rule 2034/12 (Power=3)
+Vote Protection and Cutoff for Challenges
+
+      A public message purporting to resolve an Agoran decision is a
+      self-ratifying attestation that
+
+      1. such a decision existed,
+
+      2. it had the number of voters indicated,
+
+      3. it was resolved as indicated, and
+
+      4. (if the indicated outcome was to adopt a proposal) such a
+         proposal existed, was adopted, and, if it had not
+         previously taken effect, took effect.
+
+------------------------------------------------------------------------
+
+==========================================================================
