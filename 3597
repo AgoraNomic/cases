@@ -1,0 +1,262 @@
+===============================  CFJ 3597  ===============================
+
+      V.J Rada owns the Estate of Erehwon.
+
+==========================================================================
+
+Caller:                        o
+Barred:                        V.J. Rada
+
+Judge:                         Aris
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by o:                                      09 Nov 2017 08:53:00
+Assigned to Aris:                                 12 Nov 2017 22:19:00
+Judged FALSE by Aris:                             19 Nov 2017 21:53:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Exhibit 1 contains 1,011 payments to Agora of 1 sh. apiece, substantially made 
+by V.J Rada and identified as being payments for the purchase of the Estate. 
+V.J Rada was authorized to purchase that Estate, as exhibit 2 shows, e had 
+recently won an auction.
+
+Shinies are fungible (see exhibits 3 and 4): any two collections of shinies 
+with the same number of shinies in them and the same owner are fully 
+interchangeable, and are in fact indistinguishable from one another, as we 
+lack the means to identify any single shiny with any certainty. Similarly, 
+dividing a payment into multiple smaller payments is neither permitted nor 
+proscribed by the rules, and after receiving 1,011 shinies, Agora is exactly 
+as enriched if those shinies come in a single payment, or in multiple 
+payments.
+
+Conversely, however, the 1,011 payments in exhibit 1 are evidently not 
+_atomic_. They are, by necessity, interleaved with other actions involving the 
+same parties (V.J Rada and Agora). If we are to treat all 1,011 payments as a 
+unit, in what order does that payment occur with respect to the 1,011 payments 
+Agora makes in that message?
+
+Exhibit 5 is the only relevant CFJ I'm aware of. I judged it, and I stand by 
+it.
+
+
+Caller's Evidence:
+
+Exhibits:
+1. https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2017-November/037043.html
+
+2. https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2017-November/012032.html
+
+3. Rule 2483 ("Economics"):
+   Shinies (singular "shiny", abbreviated "sh.") are an indestructible liquid 
+currency, and the official currency of Agora. The Treasuror is the 
+recordkeepor for shinies.
+
+4. Rule 2166 ("Assets"), in part:
+   A currency is a class of asset defined as such by its backing document. 
+Instances of a currency with the same owner are fungible.
+
+5. https://faculty.washington.edu/kerim/nomic/cases/?3552
+
+--------------------------------------------------------------------------
+
+Judge Aris's Arguments:
+
+The caller's arguments do a pretty good job of summing up the situation.
+V.J. Rada had to pay 1,011 shinies to Agora; instead of paying them at once,
+as is customary, e paid them 1 by 1 (through an Agent, o) with other actions
+interleaved between them. The question is whether these actions succeeded
+in fulfilling V.J. Rada's obligation and allowing em to obtain the Estate of
+Erehwon. I now rule that they did not.
+
+First, the question arises of whether the closely related CFJ 3552 applies here.
+I rule that it does not. CFJ 3552 ruled that if an action is clearly intended
+to accomplish a specific goal, and it fails to accomplish that goal, it
+entirely fails. There was no implication that these actions were individual
+action were intended to accomplish anything, indeed, it was clear from the
+language used that they were only supposed to accomplish something collectively
+(the phrasing was "pay Agora 1 shiny towards the purchase of the Estate of
+Erewhon.").
+
+As the caller points out in eir arguments, the attempted actions are just that,
+multiple actions. This is a problem, because Rule 2491 specifies that
+"The winner CAN cause Agora to transfer the auctioned Estate to emself by
+announcement, if e pays Agora the amount of the bid for the explicit and sole
+purpose of fulfilling this requirement." The use of the word "pays" suggests
+that the payment must be one occurrence, not many occurrences over a period of
+time. The payments here did not meet that bar, because there were clearly many
+separate, individual, single shiny payments. I note here that "by paying",
+another phrase used throughout the rules, has similar connotations of a single
+payment. On the other hand, if a rule used the past tense ("has paid") then it
+could be as many separate payments as the player liked.
+
+However, there is another problem that surfaces under the single action
+rule adopted above. Rule 2166 specifies that "An asset generally CAN be
+transferred (syn. paid, given) by announcement by its owner to another entity,
+subject to modification by its backing document." No language there allows
+multiple transfers to be a single action. Do all auction payments, or worse,
+payments in general, of more than one shiny fail? They do not. We have
+collectively determined that a group of payments succeeds or fails as a whole.
+That is atomicity enough to satisfy Rule 2166. This principle is in line with
+the general idea, adopted from computer science, that a group of atomic
+actions can be ended collectively atomic. I will refer to such a group of
+actions as a "compound action".
+
+So, are the actions in this case actually one compound action? What difference
+does it make that they are spread out? Quite a bit of difference. First, our
+perception that a group of actions are actually one compound action is based on
+them being rendered one action by being in a clearly delimited textual
+structure. The actions here were in multiple paragraphs, separated by other
+actions, so there is no reason to regard them as atomic.
+
+The other problem with viewing these actions as a single action is that they
+have external dependencies, i.e. they depend upon other actions of unlike kind,
+which in turn depend upon them. An action that cannot be accomplished in one
+instant is not atomic. Here the success of each action depended on the
+completion of the action before it. A shiny was transferred from V.J. Rada to
+Agora, then a shiny was transferred the other direction, and so on. The
+problem is that V.J. Rada had to receive a shiny from Agora to have enough
+shinies to go on, as Agora needed the shinies for V.J. to continue giving them
+back. It would have been impossible to otherwise make the payment,
+because the 1011 shinies purportedly paid were in excess of the total
+number of shinies in circulation. These actions were clearly separate from
+one another.
+
+Because V.J. Rada did not pay 1011 shinies as a single action, eir purchase
+failed, and this CFJ is FALSE. E retains all of eir shinies, because they did
+not in the end accomplish their clearly stated goal. E failed in eir obligation
+to make the full payment. o was complicit in this, but under current rules
+cannot be punished. E has presented compelling arguments about why e acted the
+way e did [1], but is nevertheless reminded about the importance of maintaining
+impartiality in eir official actions.
+
+[1] https://www.mail-archive.com/agora-discussion@agoranomic.org/msg40847.html
+
+
+Judge Aris's Evidence
+
+Rule 2491/6 (Power=2)
+Estate Auctions
+
+  At the start of each month, if Agora owns at least one Estate, the
+  Surveyor CAN and SHALL put one Estate that is owned by Agora up
+  for auction by announcement. Each auction ends seven days after it
+  begins.
+
+  During an auction, any player or contract may bid a number of
+  Shinies by announcement, provided that the bid is higher than all
+  previously-placed bids in the same auction.
+
+  If, at the end of the auction, there is a single highest bid, then
+  the player or contract who placed that bid wins the auction. The
+  winner CAN cause Agora to transfer the auctioned Estate to emself
+  by announcement, if e pays Agora the amount of the bid for the
+  explicit and sole purpose of fulfilling this requirement. The
+  person who placed the bid SHALL see to it that this is done in a
+  timely fashion.
+
+Rule 2166/23 (Power=3)
+Assets
+
+  An asset is an entity defined as such by a (a) rule, (b) authorized
+  regulation, (c) group of rules and/or authorized regulations (but if
+  such regulations modify a preexisting asset class defined by a rule or
+  another title of regulations, they must be authorized specifically to
+  do so by their parent rule), or (d) contract (hereafter its backing
+  document), and existing solely because its backing document defines
+  its existence. An asset's backing document can specify when and how
+  that asset is created, destroyed, and transferred.
+
+  Each asset has exactly one owner. If an asset would otherwise lack an
+  owner, it is owned by Agora.  If an asset's backing document restricts
+  its ownership to a class of entities, then that asset CANNOT be gained
+  by or transferred to an entity outside that class, and is destroyed if
+  it is owned by an entity outside that class (except if it is owned by
+  Agora, in which case any player CAN transfer or destroy it without
+  objection). The restrictions in the previous sentence are subject to
+  modification by its backing document.
+
+  Unless modified by an asset's backing document, ownership of an asset
+  is restricted to Agora, players, and contracts. As an exception to the
+  last sentence, non-player persons are generally able to own assets
+  defined by a contract they are a party to, subject to modification by
+  the contract in question.
+
+  A contract's text can specify whether or not that contract is willing
+  to receive assets or a class of assets. Generally, a contract CANNOT
+  be given assets it is unwilling to receive. If the contract is silent
+  on the matter, or if its willingness is indeterminate or the subject
+  of a inextricable conditional, the procedure to determine its
+  willingness is as follows:
+
+    1. If the contract appears to anticipate being given assets, other
+       than for sustenance (e.g. by authorizing parties to spend the
+       contract's assets), then the contract is willing to receive all
+       assets.
+
+    2. Otherwise, it is unwilling to receive all assets.
+
+  The previous paragraph (including the list) notwithstanding, a
+  contract CAN be given 1 shiny a month for its sustenance payment, so
+  long as it never has more than 1 shiny at a time.
+
+  The recordkeepor of a class of assets is the entity (if any) defined
+  as such by, and bound by, its backing document. That entity's report
+  includes a list of all instances of that class and their owners.  This
+  portion of that entity's report is self-ratifying. Rules to the
+  contrary notwithstanding, a contract CANNOT oblige a person who isn't
+  a member to record its internal state, nor is the default recordkeepor
+  responsible for tracking a contract's internal state. For the purposes
+  of this rule, the promulgator of a regulation is bound by it.
+
+  An asset generally CAN be destroyed by its owner by announcement,
+  subject to modification by its backing document. An indestructible
+  asset is one defined as such by it backing document, and CANNOT be
+  destroyed except by a rule, other than this one, specifically
+  addressing the destruction of indestructible assets or that asset in
+  particular; any other asset is destructible. In circumstances where
+  another asset would be destroyed, an indestructible asset is generally
+  transferred to Agora, subject to modification by its backing document
+  and the intervention of other rules.
+
+  To "lose" an asset is to have it destroyed from one's possession; to
+  "revoke" an asset from an entity is to destroy it from that entity's
+  possession.
+
+  An asset generally CAN be transferred (syn. paid, given) by
+  announcement by its owner to another entity, subject to modification
+  by its backing document. A fixed asset is one defined as such by its
+  backing document, and CANNOT be transferred; any other asset is
+  liquid.
+
+  When a rule indicates transferring an amount that is not a natural
+  number, the specified amount is rounded up to the nearest natural
+  number.
+
+  A currency is a class of asset defined as such by its backing
+  document. Instances of a currency with the same owner are fungible.
+
+  The "x balance of an entity", where x is a currency, is the number of
+  x that entity possesses. If a rule, proposal, or other competent
+  authority attempts to increase or decrease the balance of an entity
+  without specifying a source or destination, then the currency is
+  created or destroyed as needed.
+
+  When a player causes one or more balances to change, e is ENCOURAGED
+  to specify the resulting balance(s). Players SHOULD NOT specify
+  inaccurate balances.
+
+  Where it resolves ambiguity, the asset or currency being referred to
+  is the currency designated as "Agora's official currency", if there is
+  one.
+
+  An asset or class of assets is private, rather than public, if its
+  backing document is a contract.
+
+==========================================================================

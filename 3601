@@ -1,0 +1,96 @@
+===============================  CFJ 3601  ===============================
+
+      Proposal 7924 succeeded in amending Rule 1023.
+
+==========================================================================
+
+Caller:                        Alexis
+
+Judge:                         o
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Alexis:                                 13 Nov 2017 22:01:00
+Assigned to o:                                    19 Nov 2017 20:01:00
+Judged TRUE by o:                                 28 Nov 2017 05:40:00
+
+==========================================================================
+
+Caller's Arguments:
+
+The proposal claims that the portions of the amendment it made
+to rule 1023 are severable, however, it's not entirely clear to me whether
+that means that the title change is severable. Can it be severed, and the
+rest of the amendment succeed, on the basis that an amendment cannot change
+the title of a rule? Or could it be interpreted as severing the non-title
+amendments and having only the title change succeed? Or does the entire
+thing fail because both of these are reasonable interpretations, and this
+constitutes sufficient ambiguity for Rule 105's purposes?
+
+
+Caller's Evidence:
+
+The relevant section of the proposal in question:
+
+Amend Rule 1023, "Common Definitions", by (please note that these actions
+are severable):
+
+    * removing the third item of the top level list;
+    * renumbering appropriately; and
+    * changing its title to "Agoran Time"
+
+--------------------------------------------------------------------------
+
+Judge o's Arguments:
+
+TRUE.
+
+This is the core of this group of CFJs [CFJs 3599-3601], and the true matter 
+in question.
+
+Proposal 7924’s history is troubling. Its text was accidentally omitted from a 
+number of reports and official messages, which made its effects on the rules 
+harder to determine. Furthermore, that proposal substantially enacted the bulk 
+of the current Contracts rules - it’s not a minor proposal. As near as I can 
+tell, the portions of that proposal intended to affect rule 1023 are:
+
+> Amend Rule 1023, "Common Definitions", by (please note that these actions
+> are severable):
+>
+>    * removing the third item of the top level list;
+>    * renumbering appropriately; and
+>    * changing its title to "Agoran Time"
+
+At the start of the application of the proposal, and in fact immediately 
+before the application of this group of changes, rule 1023 was in fact titled 
+“Common Definitions”. We can decompose the sequence of changes unambiguously 
+and uniquely into the following sequence:
+
+> Amend rule 1023 (“Common Definitions”) by removing the third item of the top level list.
+
+I can see no reason this should not have succeeded. This is a minimally-
+abstracted way of specifying a change to the text, which is well-defined under 
+and allowed by rule 105.
+
+> Amend rule 1023 (“Common Definitions”) by renumbering appropriately.
+
+The wording is somewhat sloppy, but unproblematic, as renumbering all numbered 
+things in the text of the rule has the most likely intended effect. Again, 
+rule 105 allows this and gives it a well-defined meaning.
+
+> Amend rule 1023 (“Common Definitions”) by changing its title to "Agoran Time”.
+
+Retitling a rule is, again, allowed and given a specific meaning by rule 105, 
+and at this point in the sequence of changes, there is no ambiguity as to 
+which single rule this change should have been applied to.
+
+It is already true that the clauses of a proposal are severable, in the sense 
+that one failing clause does not automatically cause the entire proposal to be 
+without effect, and the reminder that the three atomic rule changes given in 
+proposal 7924 are severable does not change the interpretation of that 
+proposal.
+
+==========================================================================

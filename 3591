@@ -1,0 +1,148 @@
+===============================  CFJ 3591  ===============================
+
+      G. won the game at some point after October 22, 2017.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         Publius Scribonius Scholasticus
+Judgement:                     FALSE
+
+Judge:                         Alexis
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     04 Nov 2017 00:46:00
+Assigned to Publius Scribonius Scholasticus:      04 Nov 2017 16:32:00
+Judged FALSE by Publius Scribonius Scholasticus:  08 Nov 2017 02:38:00
+Motion to reconsider group-filed:                 11 Nov 2017 03:14:00
+Publius Scribonius Scholasticus recuses emself:   26 Nov 2017 15:26:00
+Judged FALSE by Alexis:                           01 Dec 2017 05:02:00
+
+==========================================================================
+
+Caller's Arguments:
+
+On 27-Sept-17, I resolved a Victory Election:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2017-September/011840.html
+
+I was the winner of the election, so by R2482 I won the game.  There
+were no debates or CoEs and the 27-Sept message has self-ratified.
+
+Then on 23-Oct-17, I sent a message purporting to resolve the decision
+(a second time):
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2017-October/036565.html
+
+I immediately called a CFJ, but the CFJ was specifically on *whether I
+won the game*:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-business/2017-October/036564.html
+
+Importantly, the CFJ was *not* on whether the decision existed and was
+resolved as indicated.  Our past precedents are pretty clear that CFJs
+and CoEs have to be very specific to raise Doubts that stop self-
+ratification, and this CFJ was on one *consequence* of the Decision, not
+the decision itself, so I believe the self-ratification wasn't stopped
+by this CFJ.
+
+So I think, on 30-Oct, that the 23-October resolution message self-
+ratified the decision as existing and being "resolved as indicated".
+
+But this raises an interesting question.  It *may* have ratified a "new"
+resolution of the decision (which would make it TRUE that I won again). 
+Or it *may* have failed to resolve the decision, while at the same time
+starting a self-ratifying clock for a fact that we already knew, that
+the decision existed and was resolved as indicated on 27-Sept (leading
+to a FALSE).
+
+I personally think that the date stamp of the message is part of what is
+indicated in "resolved as indicated" so I favor TRUE (naturally).  But
+I also wonder what implications TRUE/FALSE have for future decisions
+that have multiple resolution attempts. 
+
+--------------------------------------------------------------------------
+
+Judge Publius Scribonius Scholasticus's Arguments:
+
+I judge CFJ 3591 FALSE because Rule 208 reads "The vote collector for an
+unresolved Agoran decision CAN resolve it by announcement, indicating
+the outcome." Given that the decision was not unresolved, G. could not
+resolve the election. According to Rule 2043, the purported resolution
+ratified, the decision's existence and outcome. However per Rule 208,
+gamestate changing effects occur at the resolution of the decision and
+the decision had been resolved, so the gamestate had already changed.
+Rule 2043 does not provide that the resolution date ratifies or that
+effects ratify, therefore the document purported ratification, but was
+not a ratification and therefore the facts ratify, but no further
+effects occurred.
+
+--------------------------------------------------------------------------
+
+Judge Alexis's Arguments:
+
+To repeat the background, G. resolved a Victory Election on September 27,
+clearly leading to em winning the game. E purported to resolve the decision
+a second time, on October 23, but this failed because a decision, once
+resolved, cannot be resolved a second time. However, Rule 2034 provides:
+
+A public message purporting to resolve an Agoran decision constitutes
+self-ratifying claims that
+  1. such a decision existed,
+  2. it was resolved as indicated, and
+  3. (if the indicated outcome was to adopt a proposal) such a proposal
+existed, was adopted, and took effect.
+
+Thus, G's message of October 23 constitutes the listed self-ratifying
+claims. Claim 1 is not in dispute, as the decision definitely existed.
+Claim 3 is also not in dispute, since the indicated outcome was not to
+adopt a proposal. Thus, the question before the Court is whether the
+self-ratification of claim 2 is strong enough to result in a second win for
+G.
+
+There is no indication of what "resolved as indicated" means. There are
+several reasonable interpretations. For instance, it could include
+ratifying the existence of votes, or it could not (this would be relevant
+if a later conditional was dependent on votes, for instance). In
+particular, Rule 2034 is silent about when the resolution of the decision
+occurs. It is thus silent about whether ratifying claim 2 for an
+already-resolved decision causes that decision to be resolved again. As was
+discussed on the lists, there is an argument that "resolved as indicated"
+should include the time of resolution. In that case, the ratification would
+have to ratify the time of resolution, meaning that either the first
+resolution is ratified away, or the decision is resolved a second time.
+
+Given that the rules are silent, let us look at game custom. It is often
+the case that, if a proposal is resolved incorrectly, the Assessor
+publishes a revised copy of the entire resolution message, rather than just
+a resolution of the incorrectly-resolved proposal. The revised copy is,
+consequently, a public message purporting to resolve the Agoran decisions
+to adopt all proposals in the batch, rather than just revising them. Yet
+there has never been a suggestion that this results in a proposal being
+adopted a second time by way of ratification. The custom here is clear;
+claims 2 and 3 combined do not result in the re-resolution of a proposal,
+which means claim 2 alone certainly does not. Overturning this custom would
+have a devastating effect on the ruleset as it would mean many proposals
+took effect multiple times.
+
+Given that the text of the rules here is highly vague, it is reasonable to
+exclude any mention of time from the ratification, except insofar that when
+an incorrectly-resolved decision is ratified, then the decision is ratified
+as having been resolved at the time of the purported resolution's
+publication (this interpretation, too, is governed by custom).
+
+Both proposals and victory elections rely on essentially the same wording
+for triggering the result of a resolution. Compare Rule 2482 (since
+repealed) "Upon the resolution of the decision, if the outcome is a person,
+then that person wins the game." to Rule 106 "When a decision about whether
+to adopt a proposal is resolved, ... it takes effect."
+
+As a result, there is no reasonable interpretation where victory elections
+behave differently from proposals with regards to ratification. As a
+result, we must conclude that the second decision ratifying does not cause
+the decision to be resolved a second time and, consequently, G. did not win
+the game as a result. The CFJ is thus FALSE.
+
+==========================================================================

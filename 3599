@@ -1,0 +1,78 @@
+===============================  CFJ 3599  ===============================
+
+      If a proposal specifies an amendment to a rule consisting of
+      multiple parts, one of which is a title change, then the entire
+      amendment fails.
+
+==========================================================================
+
+Caller:                        Alexis
+
+Judge:                         o
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Alexis:                                 13 Nov 2017 22:01:00
+Assigned to o:                                    19 Nov 2017 20:01:00
+Judged FALSE by o:                                28 Nov 2017 05:40:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Rule 105 is clear that amendments and title changes are
+different kinds of rule changes. Moreover, rule changes must also occur
+sequentially; thus it is impossible to simultaneously amend and retitle a
+rule. Consequently, I think that a proposal that attempts to specify such
+an amendment fails to do anything, by virtue of the "any ambiguity...
+causes that change to be void" clause.
+
+--------------------------------------------------------------------------
+
+Judge o's Arguments:
+
+FALSE, in general, but it’s possible to write a proposal whose effects 
+terminate at the title change, as alleged by the caller. The proposal in 
+question happens not to be an example of such a proposal.
+
+Rule 105 (“Rule Changes”) governs:
+>      Where permitted by other rules, an instrument generally can, as
+>      part of its effect,
+>       …
+>      4. amend the text of a rule.
+>
+>      5. retitle a rule.
+
+Furthermore, those changes must happen separately:
+>      A rule change is any effect that falls into the above classes.
+>      Rule changes always occur sequentially, never simultaneously.
+
+It’s clear from the text of the rule that there are no hybrid effects, as 
+“retitle a rule and change its text” is not one of the kinds of rule changes 
+permitted by that rule. However, when determining the rule to which a change 
+applies, rule 105 is liberal:
+>      Any ambiguity in the specification of a rule change causes that
+>      change to be void and without effect. An inconsequential variation
+>      in the quotation of an existing rule does not constitute ambiguity
+>      for the purposes of this rule, but any other variation does.
+
+In other words, where a change is _not_ ambiguous, it can (and will be, if 
+otherwise valid) applied. Changing the title of a rule does not render the 
+rule unidentifiable, and it is entirely unambiguous to interpret a proposal 
+such as
+
+        Change the rule titled “X” as follows:
+
+                1. Change its title to “Y”
+                2. Change its text to “New-Text”
+
+as applying two distinct changes, in sequence, without interruption due to the 
+change of title. The specification does not become instantly ambiguous; we can 
+continue to identify the single rule whose title was X prior to the 
+application of the proposal if it was unambiguous at that time, and the entire 
+sequence fails if it was not.
+
+==========================================================================

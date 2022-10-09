@@ -1,0 +1,367 @@
+===============================  CFJ 3593  ===============================
+
+      Alexis's proposal 'Backed Out the Door' is a 'truly hideous pun'
+      under rule 1650.
+
+==========================================================================
+
+Caller:                        V.J. Rada
+
+Judge:                         ATMunn
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by V.J. Rada:                              06 Nov 2017 22:52:00
+Assigned to ATMunn:                               12 Nov 2017 22:04:00
+Judged TRUE by ATMunn:                            13 Nov 2017 00:59:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Pretty self-explanatory. I think it does include puns, but that doesn't
+mean it IS a pun.
+
+
+Caller's Evidence:
+
+Silly Proposal: Backed Out the Door (AI=2, coauthors=Telnaior, ais523, Aris,
+G.)
+{{{
+Enact a new power-2 rule entitled "Political Parties", reading as
+follows:
+
+      There are 5 Parties, in order:
+      
+      - Platonic Isolationists
+      - New Punchbowl Reformers
+      - Costume Conservatives
+      - Substance Use Liberals
+      - Official Raving Monster Looney Party
+
+      Politicians are entities; each Politician has a name and an
+      associated Party. Politicians exist only as specified by the
+      rules. Creating, altering, or destroying Politicians is secured.
+
+      If there are ever fewer than 20 Politicians, then the Clork CAN
+      and SHALL, by announcement, create a new Politician, specifying
+      eir Party and name. The Party must be selected at random from:
+     
+      - If any Party has fewer than 3 Politicans, the Party or Parties
+        with the fewest.
+      - Otherwise, the Parties with fewer than 5 Politicians.
+
+Enact a new power-2 rule entitled "Clork", reading as follows:
+
+      The Clork (pronounced "clark") is an office. The Clork's weekly
+      report includes:
+      - a list of all Politicans with their names and Parties.
+      - the assignment of Policies to Parties.
+      
+      The portion of a document purporting to be a Clork's report
+      containing the above information is self-ratifying.
+
+Enact a new power-2 rule entitled "Echelon Forms", reading as follows:
+
+      A Post is a position which can be held by at most one Politician.
+      Each Politican can hold at most one Post at a time. Each Post is
+      in an Echelon, which has an associated Rank. The Echelons, and
+      their Posts and Ranks, are as follows:
+
+      Chamber of Power (Rank 5):
+      - Host
+      Upper Echelon (Rank 3):
+      - Planner
+      - Enforcer
+      - Organizer
+      - Creep
+      Row Echelon (Rank 1):
+      - Schmoozer
+      - Decorator
+      - Loner
+      - Drunk
+      - Mystery
+      - Wild One
+      - Hat Rack
+
+      Each Politician who holds a Post is in the Echelon of that post;
+      other Politicians are in the Row-Reduced Echelon, which has Rank
+      0. Likewise, the Rank of a Post or Politician is the Rank of their
+      Echelon.
+
+      If a rule provides that a Post can take an action, then the
+      Advisor of the holder of that Post CAN take that action. If there
+      is no such player, and the Post is required to take that action,
+      then the Clork CAN do it prior to any deadline for its
+      performance. After a deadline for a Post to perform an action, any
+      player CAN take it.
+Enact a new power-2 rule entitled "Taken Under Advisement", reading as
+follows:
+
+      Advisor is a Politician switch, tracked by the Clork, with
+      possible values all players and none (default). For each
+      Politician, Influence over <Politician> is a natural player
+      switch, tracked by the Clork.
+
+      A player CAN, by announcement, spend Favours in a Party to gain
+      Influence over that Politican, depending on the Politician's
+      Echelon:
+      - Chamber of Power: 3 Favours for 2 Influence
+      - Upper Echelon: 1 Favour for 1 Influence
+      - Row Echelon: 2 Favours for 3 Influence
+      - Row-Reduced Echelon: 1 Favour for 2 Influence
+
+      If a player has more Influence over a given Politician than any
+      other player, e can Advise that Politican by announcement. When e
+      does so, if no other player Advises the same Politician later in
+      the same Agoran week, then at the start of the next Agoran week,
+      that player becomes that Politician's Advisor.
+
+Enact a new power-2 rule entitled "Balloons", reading as follows:
+
+      Balloons are a fixed currency, tracked by the Clork, with
+      ownership restricted to players. Creation or destruction of
+      balloons is secured.
+      
+      At the start of each Agoran week, after Advisors are flipped:
+      - For each player, if e owns more Balloons than e was awarded by
+        this procedure at the start of the previous week, any excess
+        Balloons are destroyed.
+      - Each player is awarded Balloons equal to the sum of the Ranks of
+        the Politicians for which e is Advisor.
+      - The Decorator's Advisor, if any is awarded one additional
+        Balloon.
+
+      A player CAN, by announcement, spend a Balloon e owns to increase
+      eir voting strength on a specified Agoran Decision, other than one
+      with an adoption index of 3 or higher, by 1.
+
+      A player CAN, by announcement, spend Balloons equal to the sum of
+      the Ranks of all Posts in order to win the game. Upon doing so,
+      all eir Influence switches are set to 0.
+
+Enact a new power-2 rule entitled "Party Favours", reading as follows:
+
+      For each Party, there is a currency called Favours in that Party.
+      Ownership of Favours is tracked by the Clork. Ownership of Favours
+      is restricted to players.
+
+      A player CAN, by announcement, spend 3 Favours in a single Party
+      to award another player 2 Favours in that Party.
+
+      A player CAN, by announcement, spend 3 Favours in a single Party
+      to gain a Favour in another specified Party.
+
+Enact a new power-2 rule entitled "Retirement", reading as follows:
+
+      Stress Level is a natural Politician switch, tracked by the Clork.
+      At the start of each Agoran week, each Politician's Stress Level
+      is increased by eir Rank. If, after this procedure, a Politician's
+      Stress Level is 20 or greater, the Politician announces retirement
+      and is destroyed at the beginning of the following Agoran week.
+      The Clork SHALL announce this fact in a timely fashion.
+
+Enact a new power-2 rule entitled "Political Elections", reading as
+follows:
+
+      For each Post, Vote for <Post> is a secured Politician switch
+      tracked by the Clork, with possible values all Politicians and
+      undecided (default).
+
+      The voting strength of a Politician for a Post is defined as
+      follows:
+      - For an election for Host, Politicians have strength equal to
+        their Rank.
+      - For an election for an Upper Echelon Post, the Host has strength
+        4, and Upper Echelon Politicians have strength 2.
+      - For an election for a Row Echelon Post, the Host has strength 3,
+        Upper Echelon Politicians have strength 2, and Row Echelon
+        politicians have strength 1.
+      - The Organizer has voting strength 1 greater than e would have
+        based on the above.
+
+      The eligible Politicians in an election for a Post are all
+      Politicians in the highest non-empty Echelon below that of the
+      Post up for election. The number of votes cast for an eligible
+      Politician in an election is the sum of voting strengths for that
+      Post of all Politician voting for em; the number of votes cast for
+      an ineligible Politician is 0.
+
+      An election for a Post is resolvable if that Post is vacant, there
+      is a single Politician with the most votes in that election, and
+      either at least four days have passed since either the vacancy or
+      since its previous occupant Announced Retirement, whichever was
+      first, or if the leader has more votes than the Policitian with
+      the second-most, plus the total voting strength of all undecided
+      Politicians in that election. When an election for a Post is
+      resolvable, any player CAN, by announcement, end the election and
+      install the winning Politician (which must be specified or else
+      the announcement is INEFFECTIVE) into the Post.
+
+      If a Post is vacant and either has been so for seven days or more
+      than eleven days have passed since its previous holder Announced
+      Retirement, then the Host CAN and SHALL, in a timely fashion, by
+      announcement end the election and install one of the Politicians
+      with the most votes into the Post.
+
+      When an election for a Post ends, all Vote switches for that Post
+      are set to undecided.
+
+Enact a new power-1 rule entitled "Party Policy", reading as follows:
+
+      There are 5 Policies, in order:
+
+      - Justice: interested in seeing justice served
+      - Efficiency: interested in seeing official duties performed
+      - Legislation: interested in seeing proposals passed
+      - Participation: interested in seeing votes cast
+      - Economy: interested in economic activity
+
+      At any time, each Policy is held by exactly one Party. The
+      assignments must be in cyclic order of their definitions, wrapping
+      from bottom to top. For example, if the Platonic Isolationists
+      hold Participation as their Policy, then the New Punchbowl Reformers
+      hold Economy, the Costume Conservatives hold Justice, and so on.
+
+      At the start of each Agoran month, the Planner CAN and SHALL, in a
+      timely fashion, by announcement, select a new assignment of
+      Policies to Parties (specifying the Policy of one Party is
+      sufficient, since it implies the remainder). E CANNOT specify
+      either of the assignments used in the previous two months.
+
+Enact a new power-1 rule entitled "Favour Awards":
+
+      The following officers CAN by announcement award Favours in the
+      listed Parties, but SHALL NOT do so except as required by rule.
+
+      - Arbitor and Referee: the Party holding Justice.
+      - ADoP: the Party holding Efficiency.
+      - Assessor: the Parties holding Legislation and Participation.
+      - Clork: all Parties.
+
+      When a player judges a CFJ, the Arbitor SHALL, in a timely
+      fashion, award that player 3 Favours in the Party holding Justice.
+      When a player's Finger-Pointing leads to a Card award, or when the
+      Referee issues Summary Judgement, the Referee shall award a Favour
+      in the Party holding Justice to the responsible player.
+
+      Complexity is an office switch, tracked by the ADoP, with values 1
+      (default), 2, and 3. The ADoP CAN, without 2 Objections, set the
+      Complexity of an office. As part of eir weekly duties, the ADoP
+      SHALL award to each officeholder a number of Favours in the Party
+      holding Efficiency equal to the Complexity of that Office.
+
+      Whenever the Assessor resolves an Agoran decision:
+      - If the decision was to adopt a proposal, and it was ADOPTED, e
+        SHALL immediately award the proposal's author a number of
+        Favours in the Party holding Legislation equal to the proposal's
+        AI, rounded up.
+      - For each voter who has not voted on an Agoran decision resolved
+        earlier in the same Agoran week, e SHALL award that player 2
+        Favours in the Party holding Participaiton.
+
+      Any player CAN spend shinies equal to the Favour Value to gain a
+      Favour in the Party holding Economy.
+
+      As part of eir weekly duties, the Clork SHALL award, to the
+      Advisor of a Politician holding one of the below offices, 3
+      Favours in the corresponding Party:
+      - Loner: Platonic Isolationists
+      - Drunk: New Punchbowl Reformers
+      - Mystery: Costume Conservatives
+      - Wild One: Substance Use Liberals
+      - Hat Rack: Official Raving Monster Looney Party
+
+Enact a new power-2 rule entitled "Post Powers":
+
+      The Creep CAN by announcement, but no more than once per Agoran
+      week, increase eir own Stress Level by 1 in order to increase the
+      Stress Level of another specified Politician by 2.
+
+      The Schmoozer CAN by announcement, but no more than once per
+      Agoran week, change the Party of a specified other Politician to
+      the next Party in order, wrapping around.
+
+      The Enforcer CAN, no more than once per week, with Support from at
+      least one other Politician not in the Row-Reduced Echelon, remove
+      a specified Row Echelon Politician from eir Post. E must specify
+      the supporting Politician when doing so, or it is INEFFECTIVE.
+      Upon doing so, both the Enforcer and supporting Politician's
+      Stress Levels are increased by 1.
+
+Set the Complexities of the offices as follows:
+- ADoP: 2
+- Agronomist: 1
+- Arbitor: 2
+- Assessor: 3
+- Clork: 2
+- Fearmongor: 1
+- Herald: 1
+- Notary: 2
+- Prime Minister: 1
+- Promotor: 2
+- Referee: 2
+- Registrar: 2
+- Regkeepor: 1
+- Reportor: 1
+- Rulekeepor: 3
+- Speaker: 1
+- Surveyor: 1
+- Tailor: 1
+- Treasuror: 3
+
+Amend rule 2497, Floating Value, by appending "- Favour Value: 1/10th of
+the Floating Value, rounded up." to the list of Derived Floating Values.
+
+Enact a new power-2 rule entitled "Get This Party Started", reading as
+follows:
+      The Clork CAN, by announcement, and SHALL, in a timely fashion
+      after this rule is enacted:
+      - Create 20 Politicians, 4 in each Party, specifying their names;
+      - Increase each Politician's Stress Level by twice eir Rank;
+      - Assign one Politician to each Post, chosen at random;
+      - Randomly assign Policies to Parties (obeying the cyclic order
+        restriction); then
+      - Cause this rule to repeal itself.
+
+      Rules to the contrary notwithstanding, while this rule is in
+      effect, it provides the only mechanism by which Politicians can be
+      created, Posts or Policies assigned, Stress Levels changed.
+      Moreover, rules to the contrary notwithstanding, Favour cannot be
+      created.
+
+Install Telnaior as Clork.
+}}}
+
+--------------------------------------------------------------------------
+
+Judge ATMunn's Arguments:
+
+Rule 1650 states:
+        "A Silly Proposal is a Proposal whose sole contents are one of the
+        following:
+        i) A limerick.
+        ii) A rhymed poem no longer than fourteen lines. (No free verse!)
+        iii) A joke of no more than a hundred words.
+        iv) A truly hideous pun."
+
+The uncertainty arises from what counts as a "truly hideous pun" and the
+phrase "sole contents." The caller's arguments are as follows:
+
+"Pretty self-explanatory. I think it does include puns, but that
+doesn't mean it IS a pun."
+
+Although it is true, the proposal does include several puns, if you look
+at it more closely, the whole proposal follows one main pun, that being,
+political parties being taken as actual parties. It seems to me that
+this overarching pun in the proposal does count as the entire proposal
+being a pun. Also, it seems nearly impossible, under the caller's
+arguments, that any proposal could be a Silly Proposal by being a pun,
+as a pun is usually thought of as being just the main joke, not the
+entire text it is part of. It would be extremely difficult to create a
+proposal this small. Therefore, I judge CFJ 3593 TRUE.
+
+==========================================================================
