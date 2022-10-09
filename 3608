@@ -1,0 +1,204 @@
+===============================  CFJ 3608  ===============================
+
+      An Official Proposal is always pending, even after being
+      retracted, distributed or adopted.
+
+==========================================================================
+
+Caller:                        Ørjan
+
+Judge:                         Coronoa
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Ørjan:                                 25 Nov 2017 03:00:00
+Assigned to Corona:                               26 Nov 2017 23:15:00
+Judged FALSE by Corona:                           27 Nov 2017 22:32:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Rule 2445 (power 1) says "Rules to the contrary notwithstanding, an
+Official proposal is always pending."  The first clause of the rule
+implies that "pending" only applies to proposals in the Pool, but rule
+2240 (power 3) implies that later clauses in a rule take precedence.
+
+Retraction and distribution both remove a proposal from the Proposal Pool,
+and are enabled by power 3 rules.  Adoption shouldn't change anything.
+
+
+Caller's Evidence:
+
+Rule 2240/1 (Power=3.0)
+No Cretans Need Apply
+
+       In a conflict between clauses of the same Rule, if exactly one
+       claims precedence over the other, then it takes precedence;
+       otherwise, the later clause takes precedence.
+
+Rule 2445/10 (Power=1.0)
+How to Pend a Proposal
+
+       Imminence is a switch, tracked by the Promotor, possessed by
+       proposals in the Proposal Pool, whose value is either "pending" or
+       "not pending" (default).
+
+       Any player CAN flip a specified proposal's imminence to "pending"
+       by announcement by:
+
+         a) spending 1 Action Point, OR
+
+         b) spending the current Pend Cost in shinies.
+
+       An Official Proposal is a proposal designated as such by the
+       Rules; generally official proposals that are created as part of an
+       Officer's duties. Rules to the contrary notwithstanding, an
+       Official proposal is always pending. Rules to the contrary
+       notwithstanding, players CANNOT claim rewards for the adoption of
+       an Official proposal.
+
+--------------------------------------------------------------------------
+
+Judge Corona's Arguments:
+
+The called statement consists of three atomic assertions:
+1) A retracted, distributed or adopted (official) proposal exists as a
+formal, rule-defined entity
+2) Such a proposal can possess an Imminence switch.
+3) That switch is set to pending.
+
+-----
+
+3) is trivial, as official proposals are always pending due to R2445
+(quoted in caller's arguments)
+
+-----
+
+1) is quite obvious as well:
+
+Rule 106/39 (Power=3.0)
+Adopting Proposals
+[...] Once a proposal finishes taking effect, its power is set to 0.
+
+Clearly, proposals exist as rule-defined entities even after being
+adopted. As no rule destroys proposals after retraction or
+distribution, it seems that retracted or distributed proposals
+continue to be proposals.
+
+As there is no rule mechanism for proposals ceasing to be official,
+official proposals continue to be official after
+retraction/distribution/adoption.
+
+-----
+
+2) is the most difficult to decide:
+
+R2162/10 (Power=3.0)
+Switches
+
+A type of switch is a property that the rules define as a switch, and
+specify the following:
+1. The type(s) of entity possessing an instance of that switch. No
+other entity possesses an instance of that switch.
+[...]
+
+-No guidelines are provided as to what happens if a switch is implied
+to be possessed an entity that cannot possess such switches according
+to this rule.
+
+Rule 2445/10 (Power=1.0)
+How to Pend a Proposal
+
+Imminence is a switch, tracked by the Promotor, possessed by proposals
+in the Proposal Pool, whose value is either "pending" or "not pending"
+(default).
+[...]
+Rules to the contrary notwithstanding, an Official proposal is always pending.
+[...]
+
+-The secomd clause clearly implies that Official proposals always have
+an Imminence switch
+
+-Also note that (in addition to the caller's argument that the latter
+clause takes precedence due to R2240) only the latter clause claims
+precedence ("rules to the contrary notwithstanding") over the former
+clause. This is important because of R1030.
+
+Rule 2240/1 (Power=3.0)
+No Cretans Need Apply
+
+In a conflict between clauses of the same Rule, if exactly one claims
+precedence over the other, then it takes precedence;otherwise, the
+later clause takes precedence.
+
+Rule 1030/12 (Power=3.2)
+Precedence between Rules
+
+In a conflict between Rules, the conflict shall be resolved by
+performing the following comparisons in the sequence written in this
+rule, until the conflict is resolved.
+
+- In a conflict between Rules with different Power, the Rule with the
+higher Power takes precedence over the Rule with the lower Power;
+otherwise,
+
+- If all of the Rules in conflict explicitly say that their precedence
+relations are determined by some other Rule for determining precedence
+relations, then the determinations of the precedence-determining Rule
+shall be used to resolve the conflicts; otherwise,
+
+- If at least one of the Rules in conflict explicitly says of itself
+that it defers to another Rule (or type of Rule) or takes precedence
+over another Rule (or type of Rule), then such provisions shall be
+used to resolve the conflict, unless they lead to contradictions
+between each other; otherwise,
+- If any of the rules in conflict have ID numbers, then the Rule with
+the lowest ID number takes precedence; [...]
+
+R2162 is what causes the former clause of R2445 to conflict with the
+latter clause of R2445 over whether proposals not in the Proposal Pool
+can have the Imminence switch, and implies the former clause has
+precedence over the latter, as it defines the switch (If R2162 did not
+exist, the former clause of R2445 would not forbid that proposals not
+in the Proposal Pool possess Imminence switches/be pending).
+
+However, according to R2240, the latter clause of R2445 has precedence
+over the former.
+
+Thus R2160 and R2240 are in conflict over the precedence of R2445's clauses.
+
+R1030 has precedence over all of the aforementioned rules, and:
+
+
+-The third item on the list would give precedence to the latter clause
+of R2445 over the former, as it claims precedence over all rules
+("rules to the contrary notwithstanding") ,meaning this CFJ would be
+TRUE;
+
+-However, the fourth item gives precedence to R2160 over R2240
+(meaning the former clause of R2445 has precedence and this CFJ would
+be FALSE)
+
+-The list items are applied in the order they are written, until
+conflict is resolved, meaning that the third item would resolve the
+conflict, and the fourth would not be used;
+
+-However, the very first item gives precedence to R2160 and R2240 over
+both clauses of R2445; this does not resolve the conflict, as R2160
+and R2240 are in conflict with each other over the precedence of
+R2445's clauses, but it implies that the third item is not able to
+resolve the conflict, as the precedence of the clauses of R2445 does
+not matter, as R2160 and R2240 take precedence over them.
+
+Therefore, the fourth item is what decides the overall conflict by
+giving R2160 precedence over R2240.
+
+Therefore the former clause of R2445 has precedence over the latter,
+and proposals not in the Proposal Pool cannot have an Imminence
+switch, and thus cannot be Pending. FALSE
+
+==========================================================================

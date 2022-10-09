@@ -1,0 +1,145 @@
+===============================  CFJ 3609  ===============================
+
+      It is LEGAL for me to pend the proposal "Self-Indulgence".
+
+==========================================================================
+
+Caller:                        Alexis
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Alexis:                                 26 Nov 2017 18:12:00
+Assigned to G.:                                   26 Nov 2017 23:16:00
+Judged FALSE by G.:                               28 Nov 2017 20:35:00
+
+==========================================================================
+
+Caller's Evidence:
+
+Alexis wrote:
+> 
+> I spend a shiny to create the following contract, entitled "No
+> Self-Indulgence":
+> {{{
+> Alexis SHALL NOT pend any proposal e authored.
+> Alexis CAN revoke this contract by announcement.
+> }}}
+> 
+> I submit the following proposal:
+> Proposal: Self-Indulgence AI=3
+> {{{
+> The contract "No Self-Indulgence" is destroyed.
+> 
+> If, immediately after this proposal's submission, it was LEGAL for Alexis
+> to pend it, repeal Rule 101.
+> }}}
+> 
+
+
+Caller's Arguments:
+
+Per Rule 2525, pending a proposal whose sole effect is to destroy a
+contract a protected action, and therefore cannot be forbidden by a
+contract. Thus, the restriction on pending proposals in "No
+Self-Indulgence" does not apply to any proposal whose sole effect is to
+destroy a contract.
+
+If it is LEGAL for me to pend Self-Indulgence, then it will repeal Rule
+101. In this case, its effect is not solely limited to destroying a
+contract (or any of the other effects that would cause its pending to be
+protected by Rule 2525). Thus, pending it is unprotected and No
+Self-Indulgence is free to restrict it. So it must actually be ILLEGAL.
+
+If it is ILLEGAL for me to pend Self-Indulgence, then it will not repeal
+Rule 101. In this case, its effect is solely limited to destroying a
+contract, and pending it is protected. Thus No Self-Indulgence cannot
+impose on me an obligation not to pend it, so it must be LEGAL (Given that,
+as is in fact the case, there is nothing else that would make it illegal).
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+This is the first case being judged where PARADOXICAL is potentially
+appropriate as a judgement (Proposal 7976 adopted November 26).  As
+such, there are some ground rules to consider.  In particular, when
+paradox was previously part of win conditions, the apparent ability of
+contracts to create arbitrary/circular text led to an explosion of
+paradox attempts.  It's important, as a matter of precedent going
+forward, to consider contracts as "natural agreements" to work in a
+straightforward manner within a body of law, and apply very strict
+scrutiny to attempts to set up paradoxes, by asking whether the rules
+explicitly enable the paradox (this is a note to future judges of
+potentially PARADOXICAL cases).
+
+Ok, with that statement of judicial bias in mind, the facts. This case
+hinges on what the "effects" of a proposal are, for the purposes of this
+clause of R2525:
+>      The following are protected actions:
+>      [...]
+>      2. Submitting, pending, or voting freely on a proposal, but only
+>         if the sole effect the proposal would have if adopted is to
+>         create, modify, or destroy a contract or group of contracts, or
+>         to cause an entity or group of entities to become or cease to
+>         be a contract or group of contracts;
+
+So we need to ask:  what are the "effects" of a proposal, from which
+we can identify a "sole" effect? 
+
+It's possible to be highly pedantic and say "every character of a
+proposal has a game effect", because it would affect the outcome of a
+later CFJ "Does Proposal N contain text Z"?  But this doesn't satisfy.
+The appropriate legal question is:  Is it IRRELEVANT that the proposal
+contained a specific body of text, at the time the Proposal as a whole
+takes effect?  If so, the text didn't have an effect.
+
+To this end, []-delimited comments are a good example.  The test is, if
+you could replace the text in the [] with any arbitrary text, would it
+change an outcome?  In general, for clearly-delimited comments, no. So
+to set that limit:  comment text has no game effect (other than the
+aforementioned trivial, after-the-fact CFJ). So in general, the test is:
+if a part of the proposal text could be replaced with other arbitrary
+text without changing the results when it takes effect, that text has no
+"effect" for R2525 purposes.
+
+So, what about a conditional clause?  It's important to note that,
+while we've judged conditionals on "by announcement" actions to be
+informal conveniences without the weight of law, this is not true for
+conditionals within Proposals.  As instruments, any contained
+conditionals should be evaluated similarly to conditionals contained in
+the rules, and if their evaluation leads to a paradox, it doesn't
+outright nullify the action (the way it would for a conditional on a
+by-announcement action), so ambiguity/paradox alone doesn't stop the
+conditional from (potentially) having an effect.
+
+It helps to look at a non-paradoxical case.  What if the clause is
+simply "If FALSE, then Y"?  Since we can trivially evaluate the
+conditional clause as FALSE, we can use lazy evaluation of clause Y and
+ignore it (not evaluate it).  It doesn't matter what Y says, as long as
+the conditional is FALSE, then Y can be any text without game effect.
+
+So if a conditional clause is FALSE, the following clause Y has no game
+effect, as the Caller states.
+
+But what about the conditional clause itself?  Could we change it?  No!
+Obviously, if we changed "if FALSE" to "if TRUE", then the following
+clause Y would have game effect.  Which means that, whether FALSE, TRUE,
+or indeterminate, the conditional clause itself has the formal game
+effect of telling us whether to evaluate Y for game effect.
+
+Therefore, regardless of the truth value of the conditional clause
+(including if its truth value is indeterminate), its very existence
+instructs us to evaluate whether the following clause has an effect, so
+the conditional clause itself has a game effect.
+
+Therefore, the proposal does not have the "sole effect" of modifying a
+contract, regardless of the truth of its conditional clause.  So it was
+possible for the Contract to forbid pending it, and it was ILLEGAL for
+Alexis to pend it.  I find this CFJ to be FALSE.
+
+==========================================================================
