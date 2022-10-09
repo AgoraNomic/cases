@@ -1,0 +1,110 @@
+===============================  CFJ 3404  ===============================
+
+      After the above-quoted message by G., my Score was 0.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         omd
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 10 Mar 2014 23:22:00
+Assigned to:                                      23 Mar 2014 19:42:00
+Judged FALSE by omd:                              24 Mar 2014 03:03:00
+
+==========================================================================
+
+Caller's Evidence:
+
+On Wed, 2014-02-26 at 12:14 -0800, Kerim Aydin wrote:
+> I specify the Operator 0 in my possession, and the
+> player ais523 (as per clause 4).
+
+
+Caller's Arguments:
+
+I don't believe this does anything useful; this would change my score to
+"-12118.17578+91521.12456i0", which is meaningless, and thus "fails".
+I'm not entirely clear whether it destroyed your 0 or not.
+
+
+Gratuitous arguments by G.:
+
+The clause in question is:
+>   The specified player's score (the Old
+>   Score) is changed to the New Score as follows, and the
+>   specified operators are destroyed:
+>
+>    (New Score) = (Old Score) [specified operators].
+
+The question is whether all brackets and parentheses are removed for the
+calculation, none are removed, or just the square brackets are removed
+(as is common in computer documentation, and sometimes for comments in
+our own proposals etc.).
+
+If the rounded parentheses are left in, the play becomes:
+
+(New Score) = (-12118.17578 + 91521.12456i)0
+
+which is multiplication by 0 (or if nothing is removed, by [0].
+
+For what it's worth, I wrote that clause several times with different
+sorts of parenthetical arrangements and ended up with this version
+"for clarity" in separating the different variables, but I can't
+remember if I meant the difference between () and [] to be meaningful;
+if I did, I didn't put much thought into it.
+
+Also note Rule 2419: "If a player's score [...] cannot be determined
+by reasonable effort, it is 0."  though I wouldn't use that clause,
+it would mean anyone could set a score to 0 by making an unclear play.
+
+--------------------------------------------------------------------------
+
+Judge omd's Arguments:
+
+The wording in question:
+
+>    (New Score) = (Old Score) [specified operators].
+
+Arguments for () as part of the expression (attempt succeeds):
+
+- Distinction between () and [], since it generally makes sense in
+arithmetic to wrap something in () but not [].
+
+- The () is there, so it should be part of the expression.
+
+Arguments for () not part of the expression (attempt fails):
+
+- Intent, as specified in the gratuitous arguments.
+
+- Some kind of surrounding punctuation is appropriate in both cases to
+group the words; both () and [] can be used for this purpose, without
+it necessarily meaning to be part of the expression.
+
+- It's unusual for the left side of an assignment to be parenthesized.
+
+- In UNIX and elsewhere, [] is often used as a placeholder for optional text:
+
+usage: ls [-ABCFGHLOPRSTUWabcdefghiklmnopqrstuwx1] [file ...]
+
+Clause 4 of the Operations Manual has a player "specify a set of
+operators e possesses", which could be empty.  So the
+punctuation could reflect the fact that only the "specified operators"
+part can be empty.
+
+- Off-hand, I also thought it wasn't.
+
+A third possibility is that it is too ambiguous.  In this case, if the
+outcome would depend on the presence or absence of the parentheses,
+"the new score cannot be determined to be a specific, known complex
+number", so the attempt still fails.
+
+I think the second and third possibilities collectively are more
+likely than the first.  Therefore, I judge FALSE.
+
+==========================================================================

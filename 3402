@@ -1,0 +1,86 @@
+===============================  CFJ 3402  ===============================
+
+      My family's dog Lilly is a person.
+
+==========================================================================
+
+Caller:                        omd
+Barred:                        G.
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by omd:                                    12 Feb 2014 01:16:00
+Assigned to ais523:                               12 Feb 2014 01:24:00
+Judged FALSE by ais523:                           14 Feb 2014 08:06:00
+
+==========================================================================
+
+Caller's Arguments:
+
+H. Lilly is capable of freely originating and communicating
+independent thoughts such as "please throw this toy for me", "please
+open the door for me", and "I am so pleased to see you".
+
+
+Caller's Evidence:
+
+- http://theoatmeal.com/comics/dog_paradox
+
+- R869:
+      Any organism that is generally capable of freely originating and
+      communicating independent thoughts and ideas is a person.  Rules
+      to the contrary notwithstanding, no other entities are persons.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+The only counterarguments I can see to the caller's arguments are that
+it's unclear what standard we're using for the ability to communicate
+thoughts. In particular, what counts as a thought, and who does it have
+to be able to be communicated to?
+
+It's been discovered that some plants can communicate simple signals
+(mostly related to distress) to other plants via releasing chemicals in
+the soil. Humans could discover them via chemical analysis, and make a
+good guess at the meaning via observing the circumstances that caused
+them to be released. However, does this really make a plant an Agoran
+person? I think it's fairly obvious that the answer is "no". The problem
+is that there's no independent thoughts being originated here; the
+communication only works because the recipient determines the meaning
+from context (meaning that the recipient could determine the ideas in
+question even without the communication).
+
+So what about with dogs? I'd say that even though an average dog is much
+more intelligent than the average plant, the way in which dogs
+communicate with at least humans is reasonably primitive; the
+communication doesn't acquire meaning throughout any sort of structured
+language, but instead through observation of the context. There are
+complex ideas that can be communicated this way (some games, which are
+in a way not dissimilar to nomics, have this as part of their main
+gameplay; one player chooses a rule, the other players try to guess it
+from examples). However, I'm not sure that this qualifies as
+"communicating independent thoughts"; the originator of the
+communication can have the thought, but the recipients cannot receive
+the communication until they have the same thoughts themselves.
+
+So I'd say that Lilly's communication is not capable of communicating
+anything that's outside the experience of the human or other entity e's
+communicating with. There's something lacking in this sort of
+communication that seems to fail to meet the standard of R869; you can
+potentially have independent thoughts, but you can't communicate them
+until someone else has the same thought.
+
+(It might be interesting to repeat the CFJ with animals such as
+songbirds or dolphins, whose languages are complex enough to convey
+ideas via combining smaller ideas, rather than representing single,
+individual statements whose meaning has to be calculated by reference.)
+
+I judge this CFJ FALSE.
+
+==========================================================================

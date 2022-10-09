@@ -1,0 +1,218 @@
+===============================  CFJ 3400  ===============================
+
+      The game of Agora has ended.
+
+==========================================================================
+
+Caller:                        Tiger
+
+Judge:                         woggle
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Tiger:                                  06 Feb 2014 13:55:00
+Assigned to woggle:                               08 Feb 2014 22:08:00
+Judged FALSE by woggle:                           12 Feb 2014 22:36:00
+Motion to reconsider group-filed:                 13 Feb 2014 13:45:00
+Judged FALSE by woggle:                           22 Feb 2014 04:59:00
+
+==========================================================================
+
+Caller's Arguments:
+
+On 6 February 2014 14:39, Alex Smith <ais523@bham.ac.uk> wrote:
+> On Wed, 2014-02-05 at 20:48 -0800, Kerim Aydin wrote:
+>> 1.  The Rules of Agora no longer say that after someone wins, anything
+>>      else happens.
+>> 2.  In a game, if someone wins, and nothing else happens, the game
+>>      is over.
+>> 3.  The Rules of Agora are a game.
+>> 4.  Agora is over.
+>>
+>> Uh... oops?
+>>
+>> Except maybe we're safe, because scores are reset to 0.
+>
+> Actually, I'm seriously worried by this. The protections against
+> accidental ending of the game (and similar rights) all either prevent
+> proposals being enacted, or prevent gamestate changes. Proposals aren't
+> involved here, and it's unclear that ending the game is a change to the
+> gamestate. AIAN doesn't help because a nonexistent game doesn't have any
+> properties, including being ossified.
+>
+> The definition of "game" in rule 1023(b)(5) (the second (5), something's
+> gone wrong with the numbering) may help, though. The argument is as to
+> whether "game" is being used as a period of time or not in rule 2419
+> specifically, and I can see a good argument that it isn't.
+>
+> The strongest argument I can see that Agora hasn't just ended is rule
+> 217, and I /hate/ having to rely on rule 217 (given that it defers to
+> all other rules). Anyone else see any way out of this?
+>
+> Another way to look at things may be that Agora-the-ruleset and
+> Agora-the-game are separate entities, in which case the game is over,
+> but nothing prevents us starting another game with the same ruleset, and
+> such a game would still be Agora. The only change from the previous
+> behaviour would be that instead of everything continuing automatically,
+> we'd have to start everything but the rules from scratch, with players
+> reregistering, etc.
+>
+> --
+> ais523
+>
+
+I find the thought that Agora maybe just accidentally ended hilarious.
+Almost so much that I want it to be true. But I think we're safe. The
+game of agora, and of nomics in general, is well-established as not
+being a normal game. Thus when the only indication we have of an
+ending is the text "wins the game", I think it's justified to say that
+the rules are silent, as per 217. Then game custom and the good of the
+game says it did not just end. Add in 1023(b)(5) the 2nd, which says
+"game" is sometimes used as a time period, and I think we've moved up
+from the rules being "silent" to them being "unclear".
+
+--------------------------------------------------------------------------
+
+Judge woggle's Arguments [prior to reconsideration]:
+
+I judge CFJ 3400 FALSE.
+
+There are multiple interpretations for what happens to a game when someone
+"wins": sometimes play continues for future rounds to determine other winners
+or for other purposes (second place, just to see what would happen); sometimes
+the game ceases.
+
+Although, we have removed our most explicit guidance in the rules on this
+issue, any interpretation that disables the proposal system -- a large and
+essential part of the Agoran game -- would contravene Rule 1698 (Agora Is A
+Nomic). In addition, Rule 2419 specifies a cleanup procedure that is short of
+"ending the game" -- "all players' scores are reset to 0" -- strongly implying
+that play continues. And, as Rule 1698 seems to codify a consensus on the
+"best interest of the game", interpretations that do not end the game would be
+preferred per Rule 217.
+
+Even if we were to interpret "win the game" as requiring gameplay to otherwise
+cease, this action would be beyond the power of the Power-1 Rule 2419. Much of
+Agora's gameplay is defined at Power > 1 and the rules allowing such gameplay
+to continue would take precedence per Rule 1030. (And "winning the game"
+cannot implicitly do any rule changes, because such rule changes would be
+ambiguous.)
+
+
+Gratuitous Arguments by Fool:
+
+I intend with two support to file a motion to reconsider. Even if this
+does not change the outcome, I would prefer that the counter-arguments
+be addressed.
+
+> Although, we have removed our most explicit guidance in the rules on this
+> issue, any interpretation that disables the proposal system -- a large and
+> essential part of the Agoran game -- would contravene Rule 1698 (Agora Is A
+> Nomic).
+
+This was anticipated and argued against, I believe it was by Alex. The
+game isn't ossified, it doesn't exist.
+
+In addition, Rule 2419 specifies a cleanup procedure that is short of
+> "ending the game" -- "all players' scores are reset to 0" -- strongly implying
+> that play continues. And, as Rule 1698 seems to codify a consensus on the
+> "best interest of the game", interpretations that do not end the game would be
+> preferred per Rule 217.
+
+This was anticipated by me. How can one possibly invoke "best interests
+of the game" in this case?
+
+>
+> Even if we were to interpret "win the game" as requiring gameplay to otherwise
+> cease, this action would be beyond the power of the Power-1 Rule 2419. Much of
+> Agora's gameplay is defined at Power > 1 and the rules allowing such gameplay
+> to continue would take precedence per Rule 1030. (And "winning the game"
+> cannot implicitly do any rule changes, because such rule changes would be
+> ambiguous.)
+>
+
+The opposite, as I said! It has the power to award a win, it does not
+have the power to override the common-sense meanings of the words.
+
+
+Gratuitous Arguments by omd:
+
+On Thu, Feb 13, 2014 at 2:11 PM, Kerim Aydin <kerim@u.washington.edu> wrote:
+> (A)  Does R2419, on its own, attempt to end the game?
+
+I just remembered that the ruleset has long used "wins the game"
+without a specific note that doing so does not cause Agora to end
+(look at any recent ruleset before Proposal 7039 in May 2011).  So
+this whole thing is silly: if Agora would have ended a few days ago,
+then it ended a long time ago.  In fact, that proposal was a response
+to basically this exact issue being adjudicated:
+
+http://cotc.psychose.ca/viewcase.php?cfj=2987
+
+Indeed, the original Rule 203 stated that "a game ends" when someone wins:
+
+http://agora.qoid.us/www.fysh.org/%7ezefram/agora/chuck0_nr_19930630.txt
+
+Even if Rule 2419 caused "the game", whatever that means, to end, and
+platonically started a new game based on the same gamestate (which
+would necessarily follow from the "all scores reset" clause), that's
+nothing new.
+
+
+Judge woggle's Arguments [following reconsideration]:
+
+I will assign the same judgment of FALSE.
+
+As far as I can tell, these are the issues that people would like resolved
+with my prior judgment:
+
+(a) whether my ruling was based on the meaning of "win the game", or was based
+on R2419 having insufficient.
+
+The primary basis of my judgment is that, in the Agoran tradition, "win the
+game" does not imply ending Agora. I considered whether R2419 had the power to
+end Agora because it provides an alternate and much clearer basis for judging
+FALSE, but I believe the CFJ is resolved without reaching this issue.
+
+Agoran tradition is that there are many winners and gameplay continues after
+winners are declared. Agoran rules on continuity of the game like R1698
+strongly support this tradition. Past judgments (e.g. CFJ 2987) also support
+this contention. Also, the last time "winning the game" was more explicitly
+defined in the rules, it was not defined to not end play of Agora, and there
+is no evidence that the new game-winning rules were intended (or must be read)
+to change this custom.
+
+The context of R2419 provides additional evidence for this non-destructive
+mode of "winning". R2419's "reset scores to 0" procedure clearly does not
+envision an Agora-destroying interpretation. In addition, even if it were
+still close call, we can reasonably prefer an interpretation that R2419 that
+can be effective at its Power over one which would require it to have a higher
+Power.
+
+(b) whether, if R2419 clearly called for ending Agora, this would be barred by
+R1698 since the game would not exist to be ossified.
+
+This, I believe, is a mistake in reading R1698. R1698 defines the term "Agora
+is ossified"; it does not general define what it means for a nomic to be
+ossified. Under R1698's definition, something can "cause Agora to become
+ossified" even when Agora does not exist. Since R1698 also replaces the
+offending gamestate change rather than resetting it after the fact, that R1698
+might be destroyed by some gamestate change does not render R1698 ineffective
+against that change.
+
+(c) the wisdom of evaluating the "best interests of the game" when the game
+might not exist.
+
+Rule 217's first paragraph is usually thought of as describing what judges
+should do, and therefore being something that is obeyed at the time of a
+judgment. But, it often makes much more sense to view its command that "[the
+text] be augmented by game custom, ..." as modifying what other rules mean
+much like a definition. Thus, under R217, when interpreting an action in the
+past, one should consider the "best interest of the game" at the time of the
+action. In this case, the action is comex's purported win, and there clearly
+was a game at that time to consider the "best interest" of.
+
+==========================================================================
