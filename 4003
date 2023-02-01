@@ -1,0 +1,114 @@
+===============================  CFJ 4003  ===============================
+
+      I won the game in this message.
+
+==========================================================================
+
+Caller:                        snail
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by snail:                                  15 Jan 2023 19:21:34
+Assigned to Murphy:                               17 Jan 2023 15:39:52
+Judged FALSE by Murphy:                           22 Jan 2023 18:26:03
+
+==========================================================================
+
+Caller's Evidence:
+
+snail wrote:
+>
+> I wield the score stone. (This increases my score by 3.)
+>
+> I transfer the Anti-Equatorial stone to myself, as it is tied for mossiest.
+>
+> I wield the Anti-Equatorial stone.
+>
+> I notice the rock garden, specifying myself. (This may not work.)
+
+
+Caller's Arguments:
+
+Arguments for TRUE: The Anti-Equatorial stone has an effect as follows:
+"When wielded, the mossiest stone is transferred to the wielder."
+
+The latest stonemason's report says:
+
+Stone            Mossiness  Owner            Last Wielded  Immune?
+-------------    ---------  ---------------  ------------  -------
+Power                    2  Agora            2022-10-02    Agora
+Soul                     2  Agora            2021-02-14    Agora
+Sabotage                 2  Agora            2022-09-25    Agora
+Jockey                   2  Agora            2022-11-06    Agora
+Protection               2  G.               2021-12-29
+Recursion                2  Agora            2022-11-06    Agora
+Hot Potato               0  Agora            2022-12-19    Agora
+Blank                    2  Agora                          Agora
+Mason's                  0  Janet
+Anti-Equatorial          2  Agora                          Agora
+Score                    0  snail            2023-01-09
+
+Each stone with mossiness 2 (7 stones after i got the Anti-Equatorial
+stone) is "the mossiest stone". So all 7 stones were transferred to me. I
+also already own the score stone, bringing my total to 9 stones.
+
+Arguments for FALSE: it's a little silly
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Janet:
+
+I don't think the initial transfer worked.
+
+If it did: there is no "mossiest stone", and that is a term explicitly
+defined. There is no one stone with the highest mossiest value, and it
+is a violation of common sense to read the singular as being plural,
+especially when the plural is defined. Additionally, other uses of
+"mossiest" take great pain to explicitly handle the case of ties, so we
+shouldn't read in such handling here when it has been omitted.
+
+Rule 2640/3 (Power=2)
+Stones
+
+      A stone is a unique indestructable liquid asset defined by the
+      rules. To define a stone, the definition must include:
+        (i) A name unique among stones;
+       (ii) The smoothness of the stone, which is a non-negative integer;
+      (iii) A description of the stone's properties
+       (iv) Optionally, a frequency, which must be one of daily, weekly,
+            monthly, or quarterly.
+
+      Ownership of stones is entirely restricted to Agora and active
+      players.  If a stone is owned by the Lost and Found Department or
+      in abeyance, it is immediately transferred to Agora.
+
+      The Stonemason is an office, and the recordkeepor of stones.
+
+      Mossiness is a Stone switch with values of non-negative integers
+      and a default of 0 tracked by the Stonemason. When a stone is
+      transferred from Agora to a player or from a player to Agora, its
+      Mossiness is set to 0. The mossiest stone(s) in a set of stone is
+      (are) the stone(s) with the highest Mossiness value.
+
+      The Slipperiness of a stone is that stone's smoothness plus its
+      mossiness.
+
+------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+While I think the initial transfer worked due to Dream of Gardens, I
+accept the bulk of Janet's gratuitous arguments. The most appropriate
+interpretation of "the mossiest stone", in the absence of any mention of
+breaking ties, is "the sole mossiest stone, if any", which did not exist
+at the time. Thus, snail owned at most the Score and Anti-Equatorial
+Stones, not enough to trigger a win.
+
+I judge FALSE.
+
+==========================================================================

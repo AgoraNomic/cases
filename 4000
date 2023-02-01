@@ -1,0 +1,58 @@
+===============================  CFJ 4000  ===============================
+
+      It is round 2,098.
+
+==========================================================================
+
+Caller:                        nix
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by nix:                                    20 Oct 2022 17:20:44
+Assigned to Murphy:                               20 Oct 2022 18:37:10
+Judged FALSE by Murphy:                           23 Oct 2022 20:32:13
+
+==========================================================================
+
+Caller's Arguments:
+
+Rounds are defined in R1023 alongside pivots:
+
+              A pivot is either the instant at which Agora Nomic began
+               (June 30, 1993, 00:04:30 GMT +1200) or an instant at which
+               at least one person won the game. When used as a period of
+               time, a "Round" (historical syn: "game") is the period of
+               time between a pivot and the next pivot.
+
+FOR:
+By my calculations, there have been 2,097 wins. If each win is a pivot
+that starts a new round, then this is round 2,098.
+
+AGAINST:
+However, rounds are defined as "the period of time between a pivot and
+the next pivot". Many wins have happened in the same message (notably
+Jason won 1000 times in one message). Messages are considered to happen
+instantaneously but sequentially. Arguably, there is no "period of time"
+between these wins, and no rounds occurred between them. If this is the
+case, then we are closer to round 599.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+As the caller notes, there can be multiple events occurring at the same
+instant. The pivot is defined as the instant, not the individual events.
+
+The most recent Herald's report lists (by my count) 1714 distinct wins,
+including Jason x1000 (which I believe were indeed simultaneous) and D.
+Margaux x501 (likewise). Whatever the exact number of rounds currently
+is, it clearly isn't nearly as high as 2098.
+
+I judge FALSE.
+
+==========================================================================

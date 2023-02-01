@@ -1,0 +1,151 @@
+===============================  CFJ 3999  ===============================
+
+      Rule 2139 does not define the contents of the Registrar's monthly
+      report to contain all dates such that a person has registered or
+      deregistered.
+
+==========================================================================
+
+Caller:                        Juan
+
+Judge:                         ais523
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Juan:                                   13 Oct 2022 20:31:16
+Assigned to ais523:                               20 Oct 2022 18:35:20
+Judged TRUE by ais523:                            25 Oct 2022 18:50:49
+
+==========================================================================
+
+Caller's Arguments:
+
+Arguments for TRUE:
+
+Rule 2139 mandates the Registrar's monthly report to include “For each
+former player for which the information is reasonably available, the
+dates on which e registered and deregistered.” Now, a player is defined
+as simply “a registered person”, which would indicate a “former player”
+to refer to a person which at some point was registered. Other readings
+include that it refers to the entity that was a player and ceased to
+exist when that player was deregistered – this is not supported by
+evidence. Indeed, the next paragraph of Rule 869 states that “[i]f e
+does so [deregister], e CANNOT register or be registered for 30 days”,
+which indicates the entity which is the player continues to exist after
+deregistration. That is: playerhood is a state, and “former player”
+should be understood as an entity which at some point in the past was
+registered, but is no longer.
+
+Now, back to the rule in question. It refers to “the dates on which e [a
+former player] registered and deregistered”. The qualification “on which
+e registered and deregistered” obviously refer to a pair of dates, and
+not one date in which the player did both actions. That is not in
+question and shall not be discussed further. But the point is that the
+plural “dates” now refers to that pair of dates, and the definitive
+article “the” makes the whole subject phrase have reference ONLY IF
+there is a single entity that satisfies the condition.
+
+Therefore, for people that became players more than once, the phrase has
+no referent, and so is confusing and/or ambiguous. So is the whole as
+well.
+
+Note, if the rule said “the dates on which e registered OR
+deregistered”, there would be a reasonable interpretation, more in tune
+with the game's traditions, that the plural refers to all such dates in
+which that particular player has either registered, deregistered, or
+both. It is not so, however.
+
+There remains only a single question: is there a more suitable
+interpretation that makes it so the text is in accordance with (what I
+suppose is) the intent of the rule? I'd say NOT, for if the plural in
+“dates” accomodates a multitude of possible entities satisfying the
+condition that follows, that condition would be “on which e registered
+and deregistered” – which is much more rare than what has historically
+appeared in Registrars' Monthly Reports.
+
+Arguments for FALSE:
+
+This is proposterous, nitpicking, and must not be indulged.
+
+
+Caller's Evidence:
+
+> ------------------------------------------------------------------------
+> Rule 2139/17 (Power=2)
+> The Registrar
+> 
+>       The Registrar is an office; its holder is responsible for keeping
+>       track of players.
+> 
+>       The Registrar's weekly report includes:
+> 
+>       1. A list of all players, including information sufficient to
+>          identify and contact each player.
+> 
+>       2. The date on which each player most recently became a player.
+> 
+>       3. For each forum with non-Foreign publicity, sufficient
+>          instructions for players to receive messages there.
+> 
+>       The Registrar's monthly report includes:
+> 
+>       1. For each former player for which the information is reasonably
+>          available, the dates on which e registered and deregistered.
+> 
+> ------------------------------------------------------------------------
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+> Now, back to the rule in question. It refers to “the dates on which e [a
+> former player] registered and deregistered”. The qualification “on which
+> e registered and deregistered” obviously refer to a pair of dates, and
+> not one date in which the player did both actions. That is not in
+> question and shall not be discussed further. But the point is that the
+> plural “dates” now refers to that pair of dates, and the definitive
+> article “the” makes the whole subject phrase have reference ONLY IF
+> there is a single entity that satisfies the condition.
+
+The caller's argument falls down at this point. "dates on which e
+registered and deregistered" is not limited to being exactly two dates;
+it could be a larger set of dates. Thus, adding "the" to it implies
+only that there is one set of dates at which a player registered and
+deregistered (and thus indicates that the entire set of dates is
+required, not a subset). It doesn't "obviously refer to a pair of
+dates"; in fact, it obviously refers to all of them. (To refer to a
+pair, it would have to be worded along the lines of "the date at which
+e registered and the date at which e deregistered".)
+
+The use of "and" vesus "or" here is interesting, but reflects an ambiguity
+of English. Consider the sentence "The balloons were red and blue". This
+can be parsed in two ways: either it states that each balloon was both red
+and blue, or else it states that some of the balloons were red and some of
+them were blue. The same ambiguity exists in the text of the rule in
+question, and the reading you're trying to impose on the rule obviously
+(as you mention below) doesn't make sense, so (per rule 217) you need to
+use the other reading.
+
+I think this is sufficient to resolve the question you were asking in
+the CFJ. However, the statement of the CFJ itself doesn't quite match
+the question you apparently meant to ask; it is asking about persons
+being deregistered, whereas if I remember correctly, in some points in
+Agora's history, non-persons were deregistered (the rules at the time
+were written along the lines of "if a player is ever not a person, e is
+deregistered", and we've frequently had mechanics allowing legal
+constructs / legal fictions to be persons; such persons typically
+become non-persons when the rules defining them are repealed, and this
+immediately deregisters them, but they are non-persons at the point of
+deregistration). Additionally, there are several persons who have
+registered but never deregistered; such persons have their date of
+registration listed in the Registrar's weekly report, but not the
+Registrar's monthly report. Therefore, the statement of the CFJ is
+true, but on a technicality.
+
+I judge CFJ 3999 TRUE (but note that, for the question the caller
+probably intended to ask, the answer would be FALSE).
+
+==========================================================================

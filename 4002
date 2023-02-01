@@ -1,0 +1,139 @@
+===============================  CFJ 4002  ===============================
+
+      Destructor is part of Cannon's pull.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         snail
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 15 Jan 2023 18:48:31
+Assigned to snail:                                17 Jan 2023 15:39:08
+Judged TRUE by snail:                             22 Jan 2023 21:40:09
+
+==========================================================================
+
+Caller's Evidence:
+
+ais523 wrote:
+> I pay 1 hoof to get a jersey for Cannon and add Destructor to Cannon's
+> pull.
+
+exerpt from R2672: "get a jersey for a specified horse, also
+specifying a horse to be added to that horse's pull, by paying 1 hoof."
+
+
+Caller's Arguments:
+
+Does specifying a horse to be added to another horse's pull
+actually do the addition? Specifying a value is something that players
+can do independently of any action and it doesn't normally have side
+effects.
+
+--------------------------------------------------------------------------
+
+Judge snail's Arguments:
+
+Specification having an effect in a similar way can be seen in Rule 991
+(Calls for Judgement):
+
+Any person (the initiator) can initiate a Call for Judgement (CFJ,
+      syn. Judicial Case), specifying a statement to be inquired into by
+      announcement.
+
+
+This specification has the effect of tying the statement to the CFJ
+initiated, as the rules rely on this connection:
+
+(Excerpt of Rule 591, Delivering Judgements)
+
+The valid judgements for an inquiry case are as follows, based on
+      the facts and legal situation at the time the inquiry case was
+      initiated, not taking into account any events since that time:
+
+      * FALSE, appropriate if the statement was factually and
+        logically false.
+
+      * TRUE, appropriate if the statement was factually and
+        logically true.
+
+Admittedly this is a different effect, tying the statement to the CFJ vs.
+adding a horse to a set of horses switch, but both effects come about the
+same way: implicitly.
+
+There are examples of explicitly stating the specifications to have a more
+defined, explicit effect:
+
+Rule 2644/5 (Power=2)
+Zen Gardening
+
+      A player CAN, by announcement, Notice the Rock Garden, *specifying
+      a single player that owns 8 or more stones*, provided that no
+      person has won the game by doing so in the past 30 days.
+
+      *When the Rock Garden is Noticed, the specified player wins the
+      game.*  If a player won the game in this manner 4 days ago, then
+      all existing stones are transferred to Agora.
+
+Rule 2465/1 (Power=0.3)
+Victory by Apathy
+
+      A player CAN Declare Apathy without objection, specifying a set of
+      players. Upon doing so, the specified players win the game, except
+      for those who have won the game through this Rule in the past 14
+      days.
+
+But there's also this:
+
+Rule 105/23 (Power=3)
+Rule Changes
+
+      When the rules provide that an instrument takes effect, it can
+      generally:
+
+      1. enact a rule. The new rule has power equal to the minimum of
+         the power specified by the enacting instrument, defaulting to
+         one if the enacting instrument does not specify or if it
+         specifies a power less than 0.1, and the maximum power
+         permitted by other rules.
+*The enacting instrument may specify a         title for the new rule,
+which if present shall prevail.*
+
+This implicitly modifies a substantive aspect of the enacted rule, a pretty
+powerful implicit specification effect.
+
+So to address the caller's arguments directly:
+
+Does specifying a horse to be added to another horse's pull
+actually do the addition?
+
+Yes, as the intended effect is apparent and a potential reading of the rule.
+
+Specifying a value is something that players
+can do independently of any action and it doesn't normally have side
+effects.
+
+The fact the side effect is written into the rule, and into the
+specification, makes this an unusual case where the specification along
+with the action combines to give this additional effect.
+
+"Specifying a horse to be added to that horse's pull" has the same meaning
+as "specifying a horse that is added to that horse's pull", especially
+considering in the context there is no other way for the horse to be added
+to the pull aside from in that instance. If we are to believe the rules,
+then this addition must occur here.
+
+If it could go either way, it also would be in the game's best interest to
+judge this TRUE to allow existing rules to continue to act with small
+implicit powers that makes things run smoothly, rather than search for
+every instance and replace it with explicit wording.
+
+I judge CFJ 4002 TRUE.
+
+==========================================================================

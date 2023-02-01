@@ -1,0 +1,68 @@
+===============================  CFJ 4001  ===============================
+
+      ziproot has been deregistered as a consequence of the phrase "If
+      in 3 days I am not deregistered, I deregister." in eir message on
+      2022-10-29 with subject "BAK: The Last Straw".
+
+==========================================================================
+
+Caller:                        Juan
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Juan:                                   07 Nov 2022 18:34:07
+Assigned to G.:                                   13 Nov 2022 15:54:12
+Judged FALSE by G.:                               13 Nov 2022 16:22:39
+
+==========================================================================
+
+Caller's Arguments:
+
+* Interpreting eir phrase as purporting to perform an action in 3 days,
+  there's no mechanism for that.
+
+* Interpreting it as an action performed *now*, but conditioned on a
+  future fact, it is ambiguous.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+I accept the Caller's arguments.  More explicitly, the only
+deregistration mechanism that ziproot could be attempting to use is
+the mechanism in Rule 869/49:
+>      A player, acting as emself, CAN deregister (cease being a player)
+>      by announcement.
+
+The means of performing a by-announcement action are described in Rule 478/40:
+>      Where the rules define an action that a person CAN perform "by
+>      announcement", that person performs that action by, in a single
+>      public message, specifying the action and setting forth intent to
+>      perform that action by sending that message, doing both clearly
+>      and unambiguously.
+
+Importantly, the use of conditionals in performing by-announcement
+actions is not explicitly described in the rules.  Our longstanding
+common-law interpretation is that conditionals modify the setting
+forth of intent, such that the performer's intent to perform the
+action is only set forth if the specified conditions are true.
+However, to meet the "clearly and unambiguously" requirement above,
+the conditional must be determinate as per Rule 2518/0, otherwise the
+intent is ambiguous:
+>      If a value CANNOT be reasonably determined (without circularity or
+>      paradox) from information reasonably available, or if it
+>      alternates indefinitely between values, then the value is
+>      considered to be indeterminate, otherwise it is determinate.
+
+Since by-announcement actions occur (as per R478/40) "at the time
+date-stamped on that message", the conditional must be reasonably
+determinable from information readily available at the time the
+message is sent.  Conditionals that depend on future state do not meet
+this standard.   I find FALSE.
+
+==========================================================================

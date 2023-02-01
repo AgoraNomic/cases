@@ -8,14 +8,16 @@
 Caller:                        Murphy
 Barred:                        Jason
 
-Judge:                         secretsnail
+Judge:                         snail
+Judgement:                     FALSE
 
 ==========================================================================
 
 History:
 
 Called by Murphy:                                 02 Oct 2022 22:00:00
-Assigned to secretsnail:                          02 Oct 2022 22:20:16
+Assigned to snail:                                02 Oct 2022 22:20:16
+Judged FALSE by snail:                            09 Oct 2022 20:49:00
 
 ==========================================================================
 
@@ -28,5 +30,23 @@ a few months ago. In the absence of that rule, should "Buys Strength" be
 interpreted as working the same way, or working some other way more closely
 resembling its ordinary language interpretation, or failing to actually
 increase anything due to insufficient specification?
+
+--------------------------------------------------------------------------
+
+Judge snail's Arguments:
+
+I judge CFJ 3996 FALSE. I judge CFJ 3997 FALSE.
+
+"Buys Strength" seems to be an instantaneous trigger that happens to not
+have any effects relying on that trigger, after the repeal of said effects.
+It seems like common sense for the repeal of the only rule that increased
+voting strength to result in a ruleset where you can't increase your voting
+strength, but we shouldn't have left the artifact in the rules.
+
+Rule 2422 (Voting Strength) says "If not otherwise specified, the voting
+strength of an entity on an Agoran decision is 3." Saying a player buys
+strength under the current ruleset doesn't really "specify" a modification
+or setting of voting strength, thus voting strength was not increased by
+using the power stone.
 
 ==========================================================================
