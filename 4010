@@ -1,0 +1,136 @@
+===============================  CFJ 4010  ===============================
+
+      The mentioned replacement in proposal 8898 was effectively
+      applied.
+
+==========================================================================
+
+Caller:                        snail
+
+Judge:                         ais523
+
+==========================================================================
+
+History:
+
+Called by snail:                                  19 Feb 2023 05:12:47
+Assigned to ais523:                               21 Feb 2023 01:05:11
+
+==========================================================================
+
+Caller's Evidence:
+
+> On Feb 18, 2023, at 10:40 PM, Janet Cobb via agora-official wrote:
+>
+> ﻿In proposal 8898:
+>
+>> Amend R2675 (Dream of Wandering) by replacing the paragraph that starts
+>> with "- Gardens" with:
+>>
+>>     - Gardens: Immediately after a wandering, the Base Rockiness of each
+>>                Gardens Dreamer is increased by 1.
+>
+>
+> The text to replace is a list item, not a paragraph. I am interpreting
+> this as not being applied.
+>
+> --
+> Janet Cobb
+>
+> Assessor, Mad Engineer, Rulekeepor, S​tonemason
+
+
+Caller's Arguments:
+
+Light arguments for TRUE: a list item is a type of paragraph, and there's
+nothing else the term "paragraph that starts with '- Gardens'" could refer
+to. 
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Jason:
+
+I believe we've generally held that list items are either parts of
+paragraphs or a separate thing, rather than being paragraphs themselves
+(even if formatted as such). Also, "it can't possibly mean anything
+else" isn't enough, given that we've rejected things like "Amend Rule
+NNNN/R", even though that couldn't possibly mean anything else.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+CFJ 3778 found that list items could have whole line breaks inserted
+between them and removed because they were not significant.  This is
+not true with paragraphs.  If the section of text with ' - Gardens" is
+taken to begin a paragraph, and is followed by additional list items
+where the whitespace could be removed, the replaced paragraph would
+include all of those line items.  Or at least it is unclear where the
+paragraph ends.
+
+Additional CFJ to consider -  In CFJ 3451, Judge Tiger explicitly
+finds that the R105 standard is even stricter than "everyone knows
+what was meant and there's only one reasonable interpretation" (maybe
+R105 should be weakened a tad, but that would be a legislative not
+judicial correction):
+
+Judge Tiger wrote:
+> By the natural-language interpretation of ambiguity alone, I would deem
+> that using the wrong ID, which is not used by any other rule, and the
+> correct title, is clear enough. Ambiguity implies multiple potential
+> meanings. There is no sensible way for the "incorrect" number 2455 to be
+> an indication of another meaning, or an attempt at obfuscation of the
+> proposal's effect, when there is no rule 2455 but there is a 2445. I
+> deem this case to not fall under the precedent of CFJ 1625.
+>
+> However, the second sentence of the paragraph specifies that any
+> variation, other than "inconsequential variation in the quotation of a
+> rule", constitutes ambiguity. I take this to be an extra safety measure:
+> even if, as in this case, the intended meaning was never really
+> ambiguous to us (to me), the rules require a higher standard of clarity.
+
+https://faculty.washington.edu/kerim/nomic/cases/?3451
+https://faculty.washington.edu/kerim/nomic/cases/?3778
+
+--------------------------------------------------------------------------
+
+Additional discussion in DIS:
+
+snail wrote:
+> Looking at this CFJ (3778), it seems to say the opposite about line
+> breaks within a paragraph:
+> 
+> CFJ 3452 ruled that paragraph boundaries should be determined based mainly
+> on grammatical structure rather than layout.  Following its reasoning, "A"
+> above would all be considered a single paragraph, since it's a single
+> grammatical sentence; therefore, there are no "paragraph breaks" to
+> contend with and the changes *[inserting whole line breaks within a
+> paragraph]* are definitely insignificant.
+> 
+> Grammatically, each list item looks to be its own paragraph. The list
+> items following the "- Gardens" list item are not able to have all of
+> their whitespace removed, as this would contradict CFJ 3778: "[there
+> is] a prohibition on merging or splitting paragraphs".
+> 
+> If there was any ambiguity of whether the list items are all part of
+> one paragraph, or each their own paragraph, the proposal resolves that
+> ambiguity by referring to one of the list items as a paragraph.
+
+
+G. wrote:
+> Interestingly, this argument had the opposite effect on me.  Before
+> you said it, I thought "we've all agreed these are list items not
+> paragraphs, the question is whether a proposal mistakenly referring to
+> an otherwise clearly-specified unit as a "paragraph" breaks things.
+> Now I'm thinking it's ambiguous whether they are paragraphs or list
+> items to begin with (that is, more ambiguity not less) and I don't
+> think a proposal has the ability to clarify that just by assertion.
+
+
+Janet wrote:
+> CFJ 3910 found that text has a rich structure. If a proposal could
+> change the structure of a text merely by calling it something, that
+> could be an amendment (and thus prohibited unless it met the R105
+> communication standard).
+
+==========================================================================

@@ -1,0 +1,111 @@
+===============================  CFJ 4005  ===============================
+
+      Rule 2201 requires of a publisher of a document, upon acceping a
+      Claim of Error, to publish the literal text of the revised
+      document.
+
+==========================================================================
+
+Caller:                        Juan
+Barred:                        nix
+
+Judge:                         Janet
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by Juan:                                   08 Feb 2023 13:11:48
+Assigned to Janet:                                12 Feb 2023 22:20:20
+Judged TRUE by Janet:                             17 Feb 2023 06:25:50
+Motion to reconsider self-filed:                  20 Feb 2023 01:47:06
+Judged TRUE by Janet:                             20 Feb 2023 01:47:06
+
+==========================================================================
+
+Caller's Arguments:
+
+[none given]
+
+--------------------------------------------------------------------------
+
+Judge Janet's Arguments:
+
+CFJ 3658 held that a CoE applies to the "whole section" containing the
+alleged error. As the statements of the cases aren't precise about what
+the "revised document" is, I will take it to mean the revised content of
+the "whole section" containing the error.
+
+Rule 2201 does not clearly state whether a revision can be a difference
+or whether it must be a complete new document. Looking for other uses of
+"revision" in the rule yields only one, Rule 1681/23 which requires the
+SLR and FLR to include the "revision number" of each rule. This also
+doesn't clearly indicate the meaning, but since the Rulekeepor publishes
+the full text of each rule, and the revision number is the number of the
+revision of the text that is being published, it does suggest that the
+revision is the whole document rather than a difference.
+
+Considering the plain English meaning of "revision", I have consulted
+several dictionaries:
+
+{
+
+Dictionary.com: 3. " a revised form or version, as of a book."
+
+OED online: 2. a. "The action or an act of revising something [...]". b.
+"The result of this; a revised or amended version of a text, etc.". c.
+"A single amendment or correction to a piece of work."
+
+Merriam-Webster: 1. b. "a result of revising". 2. "a revised version"
+
+Google: "a revised edition or form of something"
+
+}
+
+All of these include a definition that suggests a whole document, while
+only OED clearly includes a definition that suggests a difference
+(though Merriam-Webster 1.b. could be construed to include this).
+
+This suggests that the plain English meaning slightly favors the "whole
+document" meaning.
+
+Considering that this is potentially ambiguous enough to invoke the Rule
+217 factors, I proceed with a Rule 217 analysis:
+
+{
+
+The only potentially relevant precedent that I was able to find was CFJ
+3551, on whether a revision could be a duty-fulfilling report. In eir
+arguments, the caller states in eir arguments that "[a] revision is also
+a report", and H. Judge o held the same. Although the document in
+question was hypothetical and the issue focused on in the judgement was
+whether there was a duty, rather than whether the document was a report,
+this does at least weakly suggest an understanding that a revision was a
+whole report. Interpreting this in light of the later CFJ 3658, this can
+instead be (slightly) construed as suggesting that a revision is a whole
+new document containing the section with the error.
+
+Common sense and the best interests of the game appear to favor the
+publishing of whole documents. Although publishing a full document may
+be marginally more effort for the officer, it ensures that there is a
+complete accurate (portion of a) report that can be referenced and
+prevents the possibility of accidentally publishing a portion of a
+report that turns out to be self-ratifying.
+
+Game custom also appears to suggest that revisions should be whole
+documents, as this case appears to be the first time this issue was
+raised, and it followed a request for an officer to publish a whole new
+report after a claim of error. This suggests that there is a cultural
+expectation for whole reports to follow claims of error.
+
+}
+
+Thus, with several things suggesting that a "revision" is a whole
+document rather than a difference and nothing strongly suggesting
+otherwise, I find that a "revision", as required by Rule 2201/10, is a
+new entire (portion of a) report.
+
+CFJ 4005 judged TRUE. CFJ 4006 judged FALSE.
+
+==========================================================================

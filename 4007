@@ -1,0 +1,174 @@
+===============================  CFJ 4007  ===============================
+
+      The horses have been motivated this week.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 13 Feb 2023 04:27:06
+Assigned to G.:                                   13 Feb 2023 15:47:02
+Judged FALSE by G.:                               15 Feb 2023 21:07:55
+
+==========================================================================
+
+Caller's Evidence:
+
+I just asked random.org to randomly pick one of Agora's horses (via
+shuffling the list and picking the first entry of the shuffled list)
+and a number in the range 1-3 inclusive, with the intention of using
+them for horse motivation if and only if they came out favourable to me
+(and not motivating the horses at all this week if they came out
+unfavourable - rerolling would mess with the distribution).
+
+The number was 1.
+The horse was Fargo.
+
+I like that result. As such, I motivate the horses, specifying Fargo
+(the galloper) and 1. (If this works, this causes Fargo's, Alexia's,
+and Destructor's Race Position to each increase by 1. See the CFJ below
+for a discussion on whether it worked or not.)
+
+
+Caller's Arguments: 
+
+Does the process I used here qualify as "random", by Agora's
+definition? The probability distribution was initially random, and I
+couldn't predict the final choice in advance.
+
+The point of contention is therefore whether the possibility that I
+would reject a roll I didn't like would count as changing the
+probability distribution, causing the condition of rule 2505 to not be
+satisfied. However, because it's always possible to wait to see whether
+someone else motivates the horses before you decide to use your random
+numbers or not, this sort of bias always exists to some extent (getting
+smaller and smaller for the Horsened as it gets later and later on
+Sunday, but always there, and possibly confused somewhat by the
+possibility that the Horsened could succumb). As such, maybe the horses
+can't be motivated at all?
+
+Another possibility is that all that matters is that the *selection* is
+by a random process, and the *action itself* merely has to make use of
+the selected random numbers (if it occurs), but not necessarily in an
+unbiased/equiprobable way. (The Horsened has been taking other actions
+in between the random rolls and the motivation action, in a way which
+causes the motivation action to become more favourable for em, so e is
+also biasing the result of the motivation action in this sense.)
+
+--------------------------------------------------------------------------
+
+Judge G.'s Evidence:
+
+Rule 2505/1 (Power=1)
+Random Choices
+
+      When a Rule specifies that a random choice be made, then the
+      choice shall be made using whatever probability distribution among
+      the possible outcomes the Rule specifies, defaulting to a uniform
+      probability distribution.
+
+      The choice can be made using any physical or computational process
+      whose probability distribution among the possible outcomes is
+      reasonably close to that required by the Rules, and for which the
+      final choice is not trivially predictable by the selecting person
+      in advance. The selecting person SHOULD make the selection method
+      public, and SHOULD use a method for which the final probability
+      distribution can be readily confirmed.
+
+
+Judge G.'s Arguments:
+
+Rule 2505 is essentially unchanged since it was enacted by proposal
+7883 in September 2017.  Proposal 7883 included a rather extensive
+explanatory note as to its interpretation.  While legislative intent
+through explanatory notes is not rule text or precedent, it certainly
+can provide clarity on definitions or term usage where the rules are
+silent (and when it doesn't depart from common sense, precedent,
+etc.). And the explanation in the proposal covers the exact situation
+of this CFJ in the first sentence:
+
+> [Note:  "confirming the distribution" includes "confirming that the
+> selector didn't just keep re-rolling until e got the desired result",
+> (because that changes the final distribution for the whole process to
+> be 100% whatever the selector was aiming for).  The "trivially" in
+> "trivially predictable" means you can use a PRNG, which is technically
+> deterministic, but only "trivially" predictable if you run it with
+> a set seed in advance.  "Reasonably close" is to not get hung up on
+> machine rounding, but also means we don't undo things if a calculation
+> is *slightly* off (with *slightly* to be determined by judges etc.).
+> Keeping it SHOULD instead of SHALL because I prefer to let the Officer
+> have a little latitude.  These are hard-earned lessons from the days
+> when we dealt cards from a deck, and kept having to reset the whole
+> deck because a single card had been missing from the draw].
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2017-September/011834.html
+
+So, when the rule text uses the term "final choice" it is including
+steps in the generating process that may include decision points (an
+example of an "acceptable" if deprecated decision point: "I need to
+choose between 5 options and I've only got a d6 handy, so I'll re-roll
+any 6s").  Further, I find that the "final" probability distribution
+in question is only "final" when it is actually used (e.g. in this
+case, when horses are motivated).   This is because we *can't* know
+the final probability distribution until the random number is actually
+used.  Even if a selector uses a third-party email service to send a
+die roll to a public list, and the email confirms the die used, we
+don't know that the selector won't follow it up with an email "To make
+the final selection, I add +1 to the die roll and motivate the
+horses".  Until that is known, we don't know the "final" probability
+distribution that was used for the selection.  (Note:  the "can't be
+trivially predictable in advance" in R2505 refers to "in advance of
+starting the random process" - if information such as initial die
+rolls become known while the process is going on, that's fine).
+
+So to answer the caller's question directly, taking eir rejection
+procedure at face-value results in a final probability distribution
+that is *not* reasonably close to the one required in the rules, so
+the horses were not motivated this week.
+
+The caller further contends that uncertainty in process may make
+motivation impossible.  It is true that we can never know the *exact*
+probability distribution used.  Again, if a player has a die server
+email a number to the public list, intending to follow it up with a
+motivation action, there was still perhaps a tiny probability that e
+would be struck by lightning or otherwise be unable to complete the
+roll (or in the "reroll 6s" example above, the vanishing probability
+that the process doesn't terminate in reasonable time), so even in the
+retrospect of a successful roll and motivation announcement, there was
+a chance of "something else happening" as an outcome.
+
+This is handled by the "reasonably close" clause in R2505, and it's a
+sliding scale that's judged based on preponderance of evidence.  On
+one hand, if a dice server email is followed within minutes by a
+motivation email that includes the die roll as expected, the chance
+that something else could have happened is small enough for practical
+purposes that the overall process was "reasonably close" to the
+required distribution.  Under such circumstances, it is absolutely
+possible to motivate the horses.  At the other extreme, let's say the
+selector announces, after the dice server email, "the number was 4,
+anyone else can use the number 4 to complete the random selection and
+motivate the horses this week" (insert obligatory XKCD reference
+here).  In that case, we have absolutely no idea on the probability
+that someone else decided to use 4 to do the motivation.  So that
+would fail.
+
+In between those extremes, there's a wide range of edge cases.  If an
+hour passes between the die roll and the motivation email from the
+same person, maybe there were shenanigans.  If a whole day passes -
+well the chance that the selecter follows through at some point
+exceeds "reasonable" and perhaps it fails.  Unfortunately, in using
+the "reasonable" standard there's no hard and fast line, and the
+integrity of the process must be based on preponderance of the
+evidence.  But in general, for at least the fairly-immediate case of a
+few minutes delay and no evidence of e.g. roll withholding in the
+process, the rule works as expected.
+
+I find FALSE.
+
+==========================================================================

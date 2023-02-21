@@ -1,0 +1,183 @@
+===============================  CFJ 4008  ===============================
+
+      It costs 2 hooves to get a jersey for a horse and add a horse to
+      that horse's pull.
+
+==========================================================================
+
+Caller:                        R. Lee
+
+Judge:                         ais523
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by R. Lee:                                 15 Feb 2023 00:16:04
+Assigned to ais523:                               15 Feb 2023 16:40:47
+Judged FALSE by ais523:                           16 Feb 2023 17:42:05
+
+==========================================================================
+
+Caller's Arguments:
+
+R2672 states in relevant part "Each player CAN take one of the
+following actions (weekly race
+actions) if e has not already taken one this week...* get a jersey for a
+specified horse by paying 1 hoof, also specifying a horse which is thereby
+added to that horse's pull by paying 1 hoof." Clearly in my view you have
+to pay 1 hoof to add a horse and 1 hoof to get a jersey, as the fee appears
+twice. But you have to take the action all together because this all
+appears under one dot point, which is intended to be one action (for the
+purposes of the horse rule). So you have to pay 2 hooves total.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by snail:
+
+Arguments for FALSE:
+
+Rule 2579 (Fee-based Actions) states
+
+If the Rules associate payment of a set of assets (hereafter the
+      fee for the action; syns: cost, price, charge) with performing an
+      action, that method for performing that action is a fee-based
+      method.
+
+I believe it is clear enough that the action being taken is a singular one,
+with only one "associated set of assets" which just happens to be repeated.
+Therefore paying one fee is enough to satisfy both instances, because all
+of the requirements to perform the action are met:
+
+To use a fee-based method, an entity (the Actor) who is otherwise
+      permitted to perform the action must announce that e is performing
+      the action; the announcement must specify the correct set of
+      assets for the fee and indicate intent to pay that fee for the
+      sole purpose of using that method to perform that action.
+
+The correct set of assets for the fee would be "1 hoof" as it is written in
+the rules, "2 hooves" isn't written anywhere so it wouldn't make much sense
+for it to be an "associated set of assets". Perhaps it would make sense if
+it was two separate fee payments of 1 hoof, that each needed to be
+specified separately, but the rules don't specify the two descriptions of
+the fee as being 2 separate fees to be paid.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+The existing wording of the rule, "Each player CAN ... get a jersey for a
+specified horse by paying 1 hoof, also specifying a horse which is
+thereby added to that horse's pull by paying 1 hoof", is clearly
+confused. Nonetheless, it's necessary to work out what this means.
+
+
+First, let's compare with some existing actions and existing rules to
+work out how to parse this.
+
+In Agoran rules, the phrase "CAN X by Y", where X is an action,
+typically means "it is possible to take action X using mechanism Y".
+
+The mechanism is in some sense part of the action, because sometimes a
+player can take the same action via two different mechanisms, and the
+mechanism matters. As a simple example, consider the action "gain 1
+hoof by announcement" =E2=80=93 Alexia's owner can do this once per week,
+and can also do this once per month, and the exact mechanism matters
+because it will affect which of the timers gets counted against. On the
+other hand, these actions each also have the mechanism of "by
+announcement". So in a sense, there's a "layering" of mechanisms going
+on; the mechanism is part of the action, but the action+mechanism pair
+is what's specified by the rule, and thus the "action" part of the
+action+mechanism pair can also contain mechanisms.
+
+The consequence is that some actions have multiple rules-specified
+mechanisms, not as alternatives, but in the sense that a use of the
+action has to fit all the mechanisms. Players other than Alexia's owner
+can perform the action "gain 1 hoof by announcement" once per week, so
+the "inner" mechanism is "by announcement" and the "outer" mechanism is
+"by announcement once per week" and they can only perform the action by
+complying with both of these simultaneously.
+
+There are plenty of cases where resolving this sort of nested mechanism
+is easy. For example a hypothetical rule, "A player CAN nkep by
+announcement by announcement" is redundant, but there is only one
+plausible meaning of it, and it would be triggered by a player posting
+"I nkep by announcement" (something that would also work even if the
+rule was simply "A player CAN nkep by announcement"). Posting the
+mechanism along with the action when acting by announcement is normally
+unnecessary (compare "I nkep"), but it might be useful if there were
+another method of nkepping specified in the rules at the same time, and
+is permitted even if there isn't.
+
+
+Now, let's apply this reasoning to the rule at hand. "Each player CAN ...
+if e has not already taken [one of these actions] this week ... get a
+jersey for a specified horse by paying 1 hoof, also specifying a horse
+which is thereby added to that horse's pull by paying 1 hoof" is a
+nested set of action+mechanism pairs. If there were another comma near
+the end, this would clearly parse as "A players CAN take the action
+'get a jersey for a specified horse by paying 1 hoof, also specifying a
+horse which is thereby added to that horse's pull' by paying 1 hoof, if
+e has not taken a weekly race action this week". The weird punctuation
+makes the parsing a little less clear, but this still seems to be the
+most sensible parse (as I, the caller, and the gratuitous arguments all
+agree, this is clearly intended to all be one action).
+
+As such, all that needs to be decided is to work out what it means to
+take a fee-based action via a fee-based method. Rule 2579 specifies the
+requirements to take a fee-based action: you must specify what the fee
+is, and then the fee automatically gets destroyed or transferred as a
+consequence of taking the action (and if it can't be, the action
+fails). This is a consequence of making the announcement that states
+that the action is being taken.
+
+This means that when taking a fee-based action via a fee-based method,
+what the rules check for, for each of the fees, is a) whether the
+correct fee was announced, b) whether the fee CAN be (and thus
+automatically was) paid, c) whether the fee was for the sole purpose of
+using "that method" to perform that action.
+
+If you're trying to pay 1 hoof to perform the action in question, are
+these requirements satisfied? a) is satisfied by announcing "by paying
+1 hoof"; b) is satisfied if you CAN pay 1 hoof; so what about c)? This
+is in effect a question about whether "that method" is the same for the
+two "by paying 1 hoof" requirements; if this counts as the same method
+each time, then the payment of 1 hoof is sufficient to satisfy both
+requirements simultaneously, whereas if it counts as two different
+methods, you would need to pay 1 hoof twice (as opposed to paying 2
+hooves).
+
+The rules are not explicit on whether two methods are considered to be
+identical or not. The implication from the letter of several rules
+(e.g. 1789, which effectively considers two deregistrations by
+different Writs of FAGE to have been done by the same method, and 1728,
+which lists some examples of methods) is that a method is a simple
+restriction along the lines of "with 3 support" or "by announcement";
+this is an implication rather than an a clear consequence. Other rules,
+such as 2555 and 2566, imply that "which rule/sentence defines the
+action" is also part of the method; my understanding is that this
+definition is also the closest to game custom. (Looking at the
+difference in the size of the rule numbers here, likely the concept of
+"method" has evolved over time.) However, either of these definitions
+gives the same answer for the rule in question: the method is either
+"by paying 1 hoof" in both cases, or "by paying 1 hoof as a weekly race
+action, as defined by the second bullet point of rule 2672" in both
+cases.
+
+As such, the two "by paying 1 hoof" are each defining the same method
+for the same action, and therefore (by the letter of rule 2579) the
+same payment is sufficient to satisfy both requirements to pay 1 hoof
+simultaneously =E2=80=93 you need to destroy 1 hoof for the sole purpose of
+performing that action by that method, and incur two such requirements
+to do so, but "that method" is the same for both requirements and thus
+the purpose of that destruction is correct for both.
+
+(As a side note, if two different payments were specified, you would
+need to pay both of them, as neither of them would satisfy the
+requirement to pay the other - it's only the fact that the same method
+was specified twice that makes this work.)
+
+I judge CFJ 2008 FALSE. (But really, that rule should be fixed anyway.)
+
+==========================================================================

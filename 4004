@@ -7,6 +7,7 @@
 Caller:                        R. Lee
 
 Judge:                         ais523
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by R. Lee:                                 31 Jan 2023 11:21:10
 Assigned to ais523:                               01 Feb 2023 15:26:03
+Judged FALSE by ais523:                           04 Feb 2023 21:07:15
 
 ==========================================================================
 
@@ -48,5 +50,73 @@ player can grant someone a Device once a month. What it means to 'grant'
 someone a Device is difficult, but the ordinary meaning of the term is to
 give ownership. And if I own a Device, it would seem I could activate some
 of the powers of Devices, as ownership usually grants control.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+In order to resolve this CFJ, we need to be clear on what a device
+actually is. Rule 2654 has somehow managed to avoid defining it.
+However, rule 2655 does contain a definition: "The device is a
+singleton switch with values off (default) and on."
+
+It's clear from this definition that there was, at one time, only one
+device, and it would be hard to create more without a rule permitting
+it (and such a rule would probably have to take precedence over the
+implication in rule 2655 that there were only one such device).
+Although rule 2654 could potentially be read as permitting the creation
+of devices, it also gives a lot of requirements on how this is done
+(e.g. it requires a vote, and must be made via an unpredictable
+process) – those requirements don't seem to have been satisfied here,
+and thus a device can't have been created. I think this argument is
+strong enough to interpret rule 2654 via using an interpretation in
+which "granting" Devices isn't a method of creating them (either
+directly, or at worst via a rule 217 tiebreak); however, even if I'm
+wrong on this, rule 2240 implies that rule 2654's requirements on how
+to create a Device take precedence over any permission it might give to
+create one.
+
+In other words, the only way this CFJ could be true would be if rule
+2654 somehow grants ownership and control of *the existing* device, the
+one that's a singleton switch. When we talk about possession of
+switches, normally we're talking about the entity that that switch
+pertains to, e.g. "ais523's registration switch" is the switch that
+controls whether I'm a player or not. Rule 2162 defines "singleton
+switch" as "a switch for which Agora Nomic is the only entity
+possessing an instance of that switch.", also using "possession"
+terminology. Thus, it's clear that ownership of the device previously
+resided with Agora, and thus the "ownership" part of the CFJ statement
+collapses to "I have taken possession of the device from Agora.".
+
+Although rule 2655 defines the device as belonging to Agora, rule 2654
+has higher precedence (by rule 1030 – same power, lower ID number), and
+thus can override it if necessary. However, the relevant part of rule
+2654 seems to have a requirement on the device's previous owner:
+{{{
+      A player CAN once a month grant eir Ministry Focus' Device to
+      a specified player by announcement.
+]}}
+This is clearly using possessive language, so this grant can only work
+if the device belongs to the player's Ministry Focus. As mentioned, the
+device was previously posessed by Agora (by definition, Agora was the
+only entity possessing a device!), so for the "I now own..." part of
+the statement to be valid, the caller's Ministry Focus would have to be
+Agora – otherwise, the stated conditions required to perform the action
+wouldn't be met and therefore the action can't be taken.
+
+As the caller mentions, "Ministry Focus" is currently undefined, but it
+doesn't make sense to interpret "eir Ministry Focus'" as "the".
+Instead, I think it's fairly obvious that the caller currently doesn't
+have a defined Ministry Focus (given that nothing is defining it, and
+that attempting to define it would affect the operation of a power-1
+rule and thus can't be done by anything with power less than 1), and
+thus it is not the case that the caller's Ministry Focus is Agora. As
+such, the caller's action failed entirely, because the requirements to
+perform it weren't met.
+
+In conclusion, the caller doesn't currently own a device, and that's
+logically sufficient to make the CFJ statement false.
+
+I judge CFJ 4004 FALSE.
 
 ==========================================================================

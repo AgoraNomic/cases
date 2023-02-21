@@ -1,0 +1,142 @@
+===============================  CFJ 4013  ===============================
+
+      Janet is party to at least one contract whose title begins with
+      'Riemann is'.
+
+==========================================================================
+
+Caller:                        Janet
+Barred:                        snail
+
+Judge:                         G.
+
+==========================================================================
+
+History:
+
+Called by Janet:                                  20 Feb 2023 01:11:06
+Assigned to G.:                                   21 Feb 2023 01:06:43
+
+==========================================================================
+
+Caller's Arguments:
+
+I see a few possibilities:
+
+* Each purported consent is unclear due to having an indeterminate
+condition attached, so 0 contracts were created.
+
+* Exactly one purported consent worked, based on whether the Riemann
+hypothesis is true or false, so 1 contract was created.
+
+* Both purported consents work, as the conditional doesn't affect
+whether consent was given, so 2 contracts were created.
+
+
+The applicable clause of Rule 2519/2 is item 1. This item does not
+include any clarity standards for consenting, and it does not explicitly
+mention conditionals. We could potentially read the same standard as "by
+announcement" into "publicly stated" in order to make the purported
+consents fail. Similarly, the rule could be read to make purported
+conditional consents consent unconditionally, as I may have "publicly
+stated" my consent, even if I attempted to hedge it, thus making both
+consents work.
+
+Rule 1742/23 also does not place any clarity standards on the creation
+of contracts (other than "publicly"). Paragraph 3 does not apply
+because, of the zero or more contracts that exist, their text is fully
+public and well-specified (even if their existence is not). So I think
+this comes down entirely to which purported consents work, rather than
+the consents involving contracts specifically.
+
+
+Caller's Evidence:
+
+On Sun, Feb 19, 2023 at 5:11 PM Janet Cobb via agora-business  wrote:
+>
+> If the Riemann Hypothesis is true, I consent to, create, and join the
+> following contract entitled "Riemann is True":
+>
+> {
+>
+> Well, I guess that's not particularly surprising.
+>
+> Only Janet can be a party to this contract; if any other person is a
+> party, e immediately ceases to be.
+>
+> }
+>
+>
+> If the Riemann Hypothesis is false, I consent to, create, and join the
+> following contract entitled "Riemann is False":
+>
+> {
+>
+> Wow! That's amazing!
+>
+> Only Janet can be a party to this contract; if any other person is a
+> party, e immediately ceases to be.
+>
+> }
+>
+
+------------------------------------------------------------------------
+Rule 2519/2 (Power=3)
+Consent
+
+      A person is deemed to have consented to an action if and only if,
+      at the time the action took place:
+
+      1. e, acting as emself, has publicly stated that e agrees to the
+         action and not subsequently publicly withdrawn eir statement;
+      2. e is party to a contract whose body explicitly and
+          unambiguously indicates eir consent;
+      3. the action is taken as part of a promise which e created; or
+      4. it is reasonably clear from context that e wanted the action to
+         take place or assented to it taking place.
+
+------------------------------------------------------------------------
+Rule 1742/23 (Power=2.5)
+Contracts
+
+      Any group of one or more consenting persons (the parties) may
+      publicly make an agreement among themselves with the intention
+      that it be binding upon them and be governed by the rules. Such
+      an agreement is known as a contract. A contract may be modified,
+      including by changing the set of parties, with the consent of all
+      existing parties. A contract may also be terminated with the
+      consent of all parties. A contract automatically terminates if the
+      number of parties to it falls below one. It is IMPOSSIBLE for a
+      person to become a party to a contract without eir consent.
+
+      Parties to a contract governed by the rules SHALL act in
+      accordance with that contract. This obligation is not impaired
+      by contradiction between the contract and any other contract, or
+      between the contract and the rules.
+
+      Rules to the contrary notwithstanding, any change that would cause
+      the full provisions or parties of a contract to become publicly
+      unavailable is canceled and does not take effect.
+
+      The portion of a contract's provisions that can be interpreted
+      with reference only to information that is either publicly or
+      generally available are known as its body; the remainder of the
+      provisions are known as the annex.
+
+      A party to a contract CAN perform any of the following actions as
+      explicitly and unambiguously permitted by the contract's body:
+
+      * Act on behalf of another party to the contract.
+
+      * By announcement, revoke destructible assets from the contract.
+
+      * By announcement, transfer liquid assets from the contract to a
+        specified recipient.
+
+      Any player CAN cause a contract to be terminated (syn. "shred")
+      without 2 objections. This SHOULD only be done to remove unused
+      contracts or contracts deemed detrimental to the game as a whole.
+
+------------------------------------------------------------------------
+
+==========================================================================

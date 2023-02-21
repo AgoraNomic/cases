@@ -1,0 +1,270 @@
+===============================  CFJ 4009  ===============================
+
+      In this message, Apathy was declared.
+
+==========================================================================
+
+Caller:                        Janet
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Janet:                                  15 Feb 2023 05:02:49
+Assigned to Murphy:                               15 Feb 2023 16:41:32
+Judged FALSE by Murphy:                           18 Feb 2023 08:38:49
+
+==========================================================================
+
+Caller's Arguments:
+
+R2124/31 does not directly ENABLE a player to object to an intent. It
+instead ENABLEs a person to "act on eir own behalf, by announcement, to
+[...] become an objector" to an intent. Becoming an objector to an
+intent is a regulated action, as the rules describe the circumstances
+under which it would fail (e.g. if the objector has previously
+objected). It therefore requires an explicit method, which does not
+appear to be provided. This may suggest that the underlying becoming
+cannot be performed.
+
+Notably, R2466 only specifically defines acting on behalf when the agent
+and principle are different persons. However, that definition does
+require the principal to be authorized to perform the underlying act and
+that the method of the underlying act be used. It also makes acting on
+behalf a regulated action, thus requiring an explicit method.
+
+Based on the phrasing of R2124, it appears to authorize at most one of
+"acting on one's own behalf" and "becoming an objector", while both of
+which likely need an explicit method.
+
+Notably, tabling an intent does not suffer from this same potential
+problem, as it uses the "acting as emself" phrasing to restrict acting
+on behalf. This would result in intents being able to be tabled but not
+supported/objected to.
+
+
+As a counter argument to the above, H. Judge Gaelan found in CFJ 3901
+[0] that:
+
+> 2466/2 only gives the phrase "acting on behalf"
+> any special meaning when it's on behalf of another person, so "acting on
+> one's own behalf" doesn't really have any special meaning or significance.
+> By a plain-English reading, acting on one's behalf to do something is just
+> doing the thing. So I think this works just fine.
+
+However, the context is slightly different, the rule in question in that
+case said that the principal does act on behalf of the agent (who
+happens to be emself), rather than providing a method via CAN. I would
+also ask the judge to consider this question in full, since CFJ 3901 did
+not explicitly consider whether acting on one's own behalf might be
+regulated.
+
+[0]: https://faculty.washington.edu/kerim/nomic/cases/?3901
+
+
+Caller's Evidence:
+
+On Tue, Feb 14, 2023 at 9:02 PM Janet Cobb via agora-business wrote:
+>
+> On 2/6/23 22:04, Janet Cobb via agora-business wrote:
+> > I intend, without objection, to declare Apathy, specifying myself.
+> >
+>
+> Without objection, I declare Apathy, specifying myself.
+>
+> [Disclaimer: the above may fail.]
+
+
+Rule 1728/46 (Power=3)
+Tabled Actions
+
+      An action is a Tabled Action if the Rules purport to authorize its
+      performance via one of the following methods:
+      * With N Support, where N is a positive integer.
+      * Without N Objections, where N is a positive integer.
+      * With N Agoran Consent, where N is a positive integer multiple of
+        0.1.
+      * With T notice, where T is a time period.
+
+      The parameters N and T, if omitted, default to 1 and 4 days,
+      respectively (e.g. "without objection" means N=1). If a rule
+      defines N as less than 1, it is instead treated as 1.
+
+      A person, acting as emself, CAN by announcement table an intent
+      (syn.  "intend") to perform a tabled action, clearly,
+      conspicuously, explicitly, and without obfuscation specifying the
+      action, the method (including non-default parameter values), and,
+      optionally, conditions.
+
+      A person is the sponsor of such an intent if e tabled it, or if e
+      is authorized to perform its action due to holding a rule-defined
+      position previously held by the person who tabled it.
+
+
+Rule 2124/31 (Power=3)
+Performing Tabled Actions
+
+      For a given tabled intent, a player CAN, unless otherwise
+      forbidden by the rules or the document enabling the action, act on
+      eir own behalf, by announcement, to:
+      * Become a supporter ("support" it), unless e tabled or previously
+        supported it;
+      * Become an objector ("object to" it), unless e previously
+        objected to it;
+      * Cease to be a supporter or objector ("withdraw" support/objection).
+
+      An intent is ripe if was tabled within the past 14 days, the
+      Speaker hasn't objected to it in the past 48 hours, and its
+      conditions, if any, are each clearly and unambiguously met.
+
+      An intent is mature if it was tabled at least 4 days ago and
+      nobody withdrew objections from it in the past 24 hours.
+
+      A rule purporting to allow a person to perform a tabled action
+      allows em to do so by announcement, if, considering only intents
+      for that action/method combination:
+      * With N Support: e is a sponsor or supporter of a ripe intent with
+        at least N supporters.
+      * Without N Objections: e is a sponsor of a mature ripe intent with
+        less than N objectors.
+      * With N Agoran Consent: e is a sponsor or supporter of a mature
+        ripe intent with supporters greater than N times its objectors
+        (e SHOULD list supporters and objectors).
+      * With T notice: e is the sponsor of a ripe intent created at
+        least T ago.
+
+
+Rule 2466/2 (Power=3)
+Acting on Behalf
+
+      When a rule allows one person (the agent) to act on behalf of
+      another (the principal) to perform an action, that agent CAN
+      perform the action if it is POSSIBLE for the principal to do so,
+      taking into account any prerequisites for the action. If the
+      enabling rule does not specify the mechanism by which the agent
+      may do so, then the agent CAN perform the action in the same
+      manner in which the principal CAN do so, with the additional
+      requirement that the agent must, in the message in which the
+      action is performed, uniquely identify the principal and that the
+      action is being taken on behalf of that person.
+
+      A person SHALL NOT act on behalf of another person if doing so
+      causes the second person to violate the rules. A person CANNOT act
+      on behalf of another person to do anything except perform a game
+      action; in particular, a person CANNOT act on behalf of another
+      person to send a message, only to perform specific actions that
+      might be taken within a message, including actions that would
+      otherwise be taken by publishing certain text.
+
+      When an action is performed on behalf of a principal, then the
+      action is considered for all game purposes to have been performed
+      by the principal, unless a rule specifically states that it is
+      treated differently for some purpose, in which case it is treated
+      as described by that rule.
+
+      Allowing a person to act on behalf of another person is secured at
+      power 2.0. This rule takes precedence over any rule that would
+      prohibit a person from taking an action, except that it defers to
+      any rule that imposes limitations specifically on actions taken on
+      behalf of another person.
+
+
+Rule 2125/13 (Power=3)
+Regulated Actions
+
+      An action is regulated if: (1) the Rules limit, allow, enable, or
+      permit its performance; (2) the Rules describe the circumstances
+      under which the action would succeed or fail; or (3) the action
+      would, as part of its effect, modify information for which some
+      player is required to be a recordkeepor.
+
+      A Regulated Action CAN only be performed as described by the
+      Rules, and only using the methods explicitly specified in the
+      Rules for performing the given action. The Rules SHALL NOT be
+      interpreted so as to proscribe unregulated actions.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+In addition to Judge Gaelan's arguments in CFJ 3901,  CFJ 2077, CFJ
+2292, and 2633 all found that, based on common English usage (not
+specific rules text) that "acting on behalf of oneself" is the same as
+merely "acting".  Which would mean it's not as protective as we think
+(i.e. it wouldn't block Y from "acting on X's behalf to perform
+something on behalf of emself" if there was a suitable contract to
+that effect) but it's basically the same as "a player CAN act to do
+X".
+
+With several cases saying the same thing, it's to-date been a fairly
+consistent reading based on common language, not specific rules-text
+(albeit with the current rules clearly showing a legislative intent to
+give the term a different context).
+
+https://faculty.washington.edu/kerim/nomic/cases/?2077
+https://faculty.washington.edu/kerim/nomic/cases/?2292 
+https://faculty.washington.edu/kerim/nomic/cases/?2633
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by ais523:
+
+ I (perhaps naively) thought that the only sensible
+interpretation of "acting on eir own behalf" was as a synonym for
+"acting as emself" (used five times in the rules at present), which in
+turn was a synonym for "in a message e sent, not in a message for which
+someone else was acting on eir behalf". As such, I'm a little surprised
+that CFJs have found differently. (That said, neither of these
+correspondences seems to be explicitly defined in the rules at the
+moment.)
+
+Of course, my immediate interpretations of what the text should mean
+probably don't have much rules force (*especially* when it comes to
+literal-meaning-of-the-rules scams!), but may have some impact on a
+rule 217 tiebreak.
+
+I request that the judge of this CFJ, if e finds that "acting on behalf
+of oneself" doesn't have the intended effect, also opines on whether
+"acting as emself" does what it intuitively seems to do or whether it
+does something else.
+
+
+Reply to ais523 from G:
+
+There's some history here - at the time of those earlier CFJs, I don't
+think "acting on eir own behalf" was actually in the rules anywhere.
+Rather, those CFJs were based on rules text that said "Player X CAN
+act on behalf of Player Y" and asked whether that text worked if
+circumstances led to X=Y.  In the current ruleset, the more explicit
+appearance of "acting on eir own behalf" is clearly *intended* to be a
+synonym for/interchangeable with "acts as emself", so it's partially a
+question of whether that context shift changes the CFJ readings that
+were opined before that explicit rules text was enacted?
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+I agree that "acting on eir own behalf" and "acting as emself" are
+both equivalent to simply "acting", and are thus generally unregulated;
+only specific forms of acting (e.g. voting) are regulated. "Acting on
+someone else's behalf" is regulated, but that doesn't mean that the
+superset "acting on someone's behalf" is regulated; again, only specific
+forms of acting on someone's behalf (i.e. when the someone is not the
+same person as the actor) are regulated.
+
+In addition, whatever "acting on one's own behalf" means, Rule 2124
+itself authorizes both "acting on one's own behalf" and "becoming an
+objector" (or equivalently "acting on one's own behalf to become an
+objector"), specifying the explicit method of "by announcement". Caller
+claims that "by announcement" appears to authorize at most one part, but
+gives no convincing reason why we should interpret the rule that way,
+when it was pretty clearly intended to work the other way.
+
+Thus the intent was successfully objected to, and thus the attempted
+declaration of Apathy was ineffective. I judge FALSE.
+
+==========================================================================

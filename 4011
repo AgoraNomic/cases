@@ -1,0 +1,48 @@
+===============================  CFJ 4011  ===============================
+
+      There are different types of devices described or defined in R2654
+      which do not refer to the device switch defined in R2655.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        ais523
+
+Judge:                         snail
+
+==========================================================================
+
+History:
+
+Called by G.:                                     19 Feb 2023 15:28:01
+Assigned to snail:                                21 Feb 2023 01:05:43
+
+==========================================================================
+
+Caller's Arguments:
+
+In CFJ 3941, I judged:
+> First, to be clear, The Device switch and The Device rule are not
+> "devices" by virtue of their names alone.
+
+In CFJ 4004, Judge ais523 wrote:
+> In order to resolve this CFJ, we need to be clear on what a device
+> actually is. Rule 2654 has somehow managed to avoid defining it.
+> However, rule 2655 does contain a definition: "The device is a
+> singleton switch with values off (default) and on."
+
+Neither judgement examined too deeply whether the explicit definition
+of the device switch in R2655 contradicts the various properties of
+"devices" defined in R2654 (e.g. switches aren't platinum).
+
+To elaborate my CFJ 3941 arguments a bit, I think the various
+definitional statements in R2654 describe different types of devices
+and therefore define them in a way distinct from the switch.  In some
+circumstances, definitions can be operational ("a platinum device")
+without saying "a device is platinum" directly.
+
+But the main purpose of this cfj is to look at the conflict between
+the two judgements, so I'm not arguing too strongly for either side,
+mainly trying to resolve the conflict.
+
+==========================================================================
