@@ -1,0 +1,152 @@
+===============================  CFJ 4014  ===============================
+
+      Rule 2643 contains the text 'A stone is immune if and only if'.
+
+==========================================================================
+
+Caller:                        Janet
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by Janet:                                  28 Feb 2023 01:47:43
+Assigned to Murphy:                               03 Mar 2023 22:25:36
+Judged FALSE by Murphy:                           05 Mar 2023 22:17:09
+
+==========================================================================
+
+Caller's Arguments:
+
+P8906 attempts to insert a "paragraph", but the text to insert has two
+paragraphs. This may be sufficiently ambiguous as to render the change
+ineffective under Rule 105/23.
+
+I am not aware of any on-point precedent.
+
+
+Caller's Evidence:
+
+//////////////////////////////////////////////////////////////////////
+ID: 8906
+Title: Stone Immunity Correction (Keeping Our Stones) Act
+Adoption index: 2.0
+Author: Janet
+Co-authors: 
+
+
+[Restore the definition of immunity, and add security to it.]
+
+Amend Rule 2643 ("Collecting Stones") by prepending the following paragraph:
+
+{
+
+A stone is immune if and only if it is defined as such by the rules of
+power not less than 2.
+
+A stone is immune if it is owned by Agora. A stone is immune if it has
+been granted immunity since the last collection notice. The granting of
+immunity is secured.
+
+}
+
+
+[Explicitly prohibit the Soul Stone from transferring stones owned by
+Agora. This isn't technically needed with the previous change, but it's
+better to just make it explicit to prevent accidentally it breaking
+again in the future.]
+
+Amend Rule 2645 ("The Stones") by replacing "When wielded, the Soul
+Stone is transferred to the owner of a different specified non-immune
+stone, then that stone is transferred to the wielder." with "When
+wielded, the Soul Stone is transferred to the owner of a different
+specified non-immune stone not owned by Agora, then that stone is
+transferred to the wielder.".
+
+
+[Disallow theft of Protected stones, and add a tiebreak.]
+
+Amend Rule 2645 ("The Stones") by replacing the list item beginning
+"Anti-Equatorial" with the following
+
+{
+
+- Anti-Equatorial Stone (Monthly, 5): When wielded, the mossiest
+non-immune stone is transferred to the wielder. If more than one such
+stone is tied for mossiest, a specified one is transferred. When this
+happens, the Anti-Equatorial Stone's mossiness is incremented by 1.
+
+}
+
+//////////////////////////////////////////////////////////////////////
+
+------------------------------------------------------------------------
+Rule 105/23 (Power=3)
+Rule Changes
+
+      When the rules provide that an instrument takes effect, it can
+      generally:
+      
+      1. enact a rule. The new rule has power equal to the minimum of
+         the power specified by the enacting instrument, defaulting to
+         one if the enacting instrument does not specify or if it
+         specifies a power less than 0.1, and the maximum power
+         permitted by other rules. The enacting instrument may specify a
+         title for the new rule, which if present shall prevail. The ID
+         number of the new rule cannot be specified by the enacting
+         instrument; any attempt to so specify is null and void.
+      
+      2. repeal a rule. When a rule is repealed, it ceases to be a rule,
+         its power is set to 0, and the Rulekeepor need no longer
+         maintain a record of it.
+      
+      3. reenact a rule. A repealed rule identified by its most recent
+         rule number MUST be reenacted with the same ID number and the
+         next change identifier. If no text is specified, the rule is
+         reenacted with the same text it had when it was most recently
+         repealed. If the reenacting proposal provides new text for the
+         rule, the rule SHOULD have materially the same purpose as did
+         the repealed version. Unless specified otherwise by the
+         reenacting instrument, a reenacted rule has power equal to the
+         power it had at the time of its repeal (or power 1, if power
+         was not defined at the time of that rule's repeal). If the
+         reenacting instrument is incapable of setting the reenacted
+         rule's power to that value, then the reenactment is null and
+         void.
+      
+      4. amend the text of a rule.
+      
+      5. retitle (syn. amend the title of) a rule.
+      
+      6. change the power of a rule.
+      
+      A rule change is any effect that falls into the above classes.
+      Rule changes always occur sequentially, never simultaneously.
+      
+      Any ambiguity in the specification of a rule change causes that
+      change to be void and without effect. An inconsequential variation
+      in the quotation of an existing rule does not constitute ambiguity
+      for the purposes of this rule, but any other variation does.
+      
+      A rule change is wholly prevented from taking effect unless its
+      full text was published, along with an unambiguous and clear
+      specification of the method to be used for changing the rule, at
+      least 4 days and no more than 60 days before it would otherwise
+      take effect.
+      
+      This rule provides the only mechanism by which rules can be
+      created, modified, or destroyed, or by which an entity can become
+      a rule or cease to be a rule.
+
+------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+The usual definition of "paragraph" is at odds with the usual practice
+of curly braces as delimiters, which is enough to create significant
+ambiguity. I judge FALSE.
+
+==========================================================================

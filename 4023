@@ -1,0 +1,150 @@
+===============================  CFJ 4023  ===============================
+
+      Rule 879, "Quorum", has power 3.0.
+
+==========================================================================
+
+Caller:                        Aspen
+Barred:                        Janet
+
+Judge:                         4st
+
+==========================================================================
+
+History:
+
+Called by Aspen:                                  02 May 2023 16:16:29
+Assigned to 4st:                                  08 May 2023 16:53:01
+
+==========================================================================
+
+Caller's Arguments:
+
+Adoption message of proposal in question (proposal 8639, 'sole quorum'):
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2022-February/015693.html
+
+
+On Tue, May 2, 2023 at 9:01 AM Janet Cobb wrote:
+> On 5/2/23 01:01, Kerim Aydin wrote:
+> > On Mon, May 1, 2023 at 8:38 PM Janet Cobb wrote:
+> >
+> >> [Proposal 8639
+> >> failed to make this change because it used "amend" for a power change.
+> >
+> > If everyone involved including you knew what it meant at the time so as to
+> > miss the “error” entirely, how could it possibly have been unclear, even 
+> > by r105 standards?
+> > I maintain that “amend a rule’s power” is a clear synonym for “change a
+> > rules power” and is obviously not amending a rule’s text.
+>
+>
+> Well, past me is an idiot and I disavow everything they've said.
+>
+> I've been consistent (or tried to be) in saying that "amend a rule's
+> title" doesn't work, and AFAIK there have been no legal challenges to
+> that (and it was suggested in Discord to legislate a different rule
+> rather than that my reading is wrong).
+>
+> My reading is that R105 makes "amend" in the context of a rule mean only
+> and exactly changing the text of the rule, and any other usage is
+> inherently ambiguous.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by nix:
+
+Gratuitous FOR:
+
+"ambiguous" requires more than one possible interpretation. I don't
+understand the assertion that something is "ambiguous" without
+clarifying the two or more ways to interpret it.
+
+Additionally, the rules do not define "amend". They name "amending the
+text" as a rule change, but that's not a definition. It's clear (and
+AFAICT, unambiguous) that "amend the power" refers to changing the power.
+
+
+Gratuitous Arguments by Janet:
+
+I've was consistent (or tried to be) in saying that "amend a rule's
+title" doesn't work, until we explicitly amended Rule 105 to say that it
+does work (P8871). We agreed that legislation was needed there, and the
+fact that Rule 105 now *explicitly* uses "amend" for one non-text change
+but not another suggests that rule changes where it is not used should
+be able to use "amend". If they could, "syn. amend the title of" would
+be surplusage.
+
+
+Gratuitous Arguments by nix:
+
+I wrote that section. It's not surplusage, it was an attempt to
+compromise with the Rulekeepor by disambiguating, since it seemed clear
+e wasn't going to change eir mind. This grat strips authorial intent to
+argue the exact opposite of what the intent was.
+
+
+Gratuitous Arguments by Janet:
+
+I agree, it's not surplusage. A finding that "amend" can include changes
+other than those explicitly described in Rule 105 would render it surplus.
+
+
+Gratuitous Arguments by G.:
+
+Janet's logic about "surplussage" is a bit of a fallacy that leads to
+a problematic cycle.  Consider the following:
+
+1.  A single player finds something in the rules unclear to em.
+Instead of testing by CFJ e makes a proposal to add clarifying text.
+
+2.  Voters see it as harmless - it wasn't unclear to them, the
+clarification proposed is what they assumed the text meant all along,
+but it must have been unclear to someone, and better safe than sorry
+right?
+
+3.  Once the added text is adopted, the original player uses it as
+proof (via "surplussage") that the original text would absolutely be
+read in the opposite way if the clarifying text was removed, also
+perhaps citing other places in the rules that the same original
+language must now be unclear.  This leads to a round of adding
+clarifying language to other areas, and the assumptions that it's
+always needed, when the original text was never tested by CFJ and
+might have been perfectly clear to most people.
+
+This kind of ratchet, wherein adding "extra" clarity is assumed to
+weaken the text of the original, is not logicially sound reasoning,
+nor does it make for good rules-writing.  Whatever else the merits of
+this particular case, that logic should not be a reason for a finding,
+one way or the other.
+
+In terms of the merits of the case itself:
+
+Communication in Agora is a balance between precision and free
+expression.  In particular, it's not necessarily good to privilege
+"exact incantations", and R217 is direct and explicit in the use of
+synonyms.  While the R105 clarity standards tip "rule change"
+specification to be more towards precision, it's not absolute. And
+also - we don't tend to privilege verbs alone, but verbs in context of
+object or subject.  In particular, amend, change, alter etc. are all
+synonyms.  All of the R105 rule change types that involve changing an
+existing rule (amending rule text, retitling a rule, and changing the
+power of a rule) are differentiated by their object (rule text, title,
+or power), NOT the verb used, which is essentially 'change'.  While
+"retitle" embeds the object in the verb and so can only be used to
+specify titles, using "change" or "amend" with one of those specified
+objects is absolutely or perfectly clear as to which action is meant -
+keyed by the object type, not the exact synonym for "change" that was
+used.
+
+In the proposal in question[0], the "uncertain" proposal clause was:
+
+> Amend Rule 879 (Quorum) by changing its power to 3.
+
+This is perfectly and abundantly clear as to the object (power), the
+double amend/change is harmless synonym pairing and emphatic, and the
+action (of changing power) should be absolutely clear, even at the
+R105 standard.
+
+[0] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2022-February/015693.html
+
+==========================================================================

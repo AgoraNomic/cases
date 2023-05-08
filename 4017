@@ -1,0 +1,375 @@
+===============================  CFJ 4017  ===============================
+
+      snail gained 1 radiance for being co-author of Proposal 8919.
+
+==========================================================================
+
+Caller:                        G.
+Barred:                        snail
+
+Judge:                         ais523
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by G.:                                     14 Mar 2023 19:11:01
+Assigned to ais523:                               19 Mar 2023 17:11:49
+Judged TRUE by ais523:                            25 Mar 2023 21:43:41
+
+==========================================================================
+
+Caller's Arguments:
+
+When Proposal 8919 *started* taking effect, R2657 read in part:
+      Each time a player fulfills a scoring condition, the officer
+      associated with the condition CAN once by announcement, and SHALL
+      in an officially timely fashion, add to that player's score the
+      associated amount of points, rounded down.
+
+      Below is a list of scoring conditions and their associated points
+      and officers.
+      [...]
+        * Being a coauthor of a proposal that takes effect: 1
+          (Assessor).
+
+When Proposal 8919 *finished* taking effect, R2657 read in part:
+       Each time a player fulfills a radiance condition, e CAN once by
+       announcement (specifying any indicated info) gain the associated
+       radiance.
+
+       Below is a list of radiance conditions:
+       [...]
+         * Being a coauthor of a proposal that takes effect: 1 (must
+           specify proposal number)
+
+I think the "when" is triggered when the proposal *first* starts
+taking effect, so e earned the right to be awarded by the old system
+(which was then made impossible to give via rule change), but not the
+new system.  A counterargument is that since the proposal is still
+"taking effect" when the new text came into being, that was awarded
+somehow too - but interpreting the trigger as continuous is a
+self-conflict with the first sentence of the rule that says "each
+time", which implies a specific single instant.
+
+
+Caller's Evidence:
+
+On Tue, Mar 14, 2023 at 11:46=E2=80=AFAM secretsnail9 via agora-business
+<agora-business@agoranomic.org> wrote:
+>
+> For the adoption of P8919, I gain 1 radiance (co-author).
+>
+> --
+> snail
+
+Proposal 8919:
+//////////////////////////////////////////////////////////////////////
+ID: 8919
+Title: Radiance v1.1
+Adoption index: 3.0
+Author: nix
+Co-authors: G., 4st, snail
+
+
+[This proposal reskins points/score as "radiance" and also changes the
+scoring conditions to be cashed by players. IE, insteead of the assessor
+granting points for proposals, each player must claim them. Also
+introduce gains/grants language to get rid of clunkier things, and adds
+some requirements to specify your radiance when winning, and where you
+gained the radiance from when you do.]
+
+Retitle R2656 to "Radiance".
+
+Amend R2656 to read in full:
+
+       A player's Radiance is an integer player switch defaulting to 0,
+       tracked by the Herald. When a player is "granted" or "gains" a
+       specified amount of radiance, eir radiance is increased by that
+       amount.
+
+       Upon a correct announcement from a player that eir radiance is 100
+       or more (correctly specifying the amount), e wins the game. Then,
+       eir radiance is set to 0, and all other players' radiance are set
+       to half their current value rounded down.
+
+       At the start of every quarter, all radiance switches are set to
+       half their current value rounded down.
+
+For each player, set eir radiance switch to be equal to the value eir
+score switch was at immediately before this proposal was adopted.
+
+Retitle R2657 to "Gaining Radiance".
+
+Amend R2657 to read, in full:
+
+       Each time a player fulfills a radiance condition, e CAN once by
+       announcement (specifying any indicated info) gain the associated
+       radiance.
+
+       Below is a list of radiance conditions:
+
+         * Being the author of a proposal that takes effect: 5 (must
+           specify proposal number)
+
+         * Being a coauthor of a proposal that takes effect: 1 (must
+           specify proposal number)
+
+         * Having an Agoran Birthday: X, where X is the number of active
+           players during eir birthday.
+
+         * Judging a CFJ that e was assigned to without violating a time
+           limit to do so, unless at the time of judgement the case was
+           open due to self-filing a motion to reconsider it: 2 (must
+           specify CFJ number)
+
+Amend R2659 by replacing "increase eir own score by (X^2)-X points" with
+"gain (X^2)-X radiance" and replacing "increase eir own score by (X-1)*2
+points" with "gain (X-1)*2 radiance".
+
+In R2670 replacing:
+
+         The score of the player that has the most dollaries is increased
+         by 30.  In the event of an N-way tie, instead, each tied
+         player's score is increased by 30/N points, rounded down.
+
+with:
+
+         The player that has the most dollaries gains 30 radiance. In the
+         event of an N-way tie, instead, each tied player gains 30/N
+         radiance, rounded down.
+
+In R2675 replace every instance of "score" with "radiance".
+
+Amend R2645 by replacing:
+
+       - Score Stone (Weekly, 3): When wielded, a specified player's
+         (defaulting to the wielder if not specified) Score is increased
+         by 3.
+
+with:
+
+       - Radiance Stone (Weekly, 3): When wielded, a specified player
+         (defaulting to the wielder if not specified) gains 3 radiance.
+
+and replacing:
+
+         When this stone is wielded, the wielder specifies an eligible
+         player and gains 8 points.
+
+with:
+
+         When this stone is wielded, the wielder specifies an eligible
+         player and gains 8 radiance.
+
+//////////////////////////////////////////////////////////////////////
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+This CFJ was difficult to work out, due to how obscure the wording of
+rule 2657 is. The intention of rule 2657 is to create a "CAN" when a
+particular event occurs. However, the rule doesn't outright say what
+the event is, but instead specifies the event as "each time a player
+fulfills a scoring condition" and then lists "being a coauthor of a
+proposal that takes effect" as a scoring condition.
+
+One part of the confusion here is down to the scope of "each time" –
+the implication is that a player can fulfill the same scoring condition
+more than once, but it isn't specified what counts as the same
+condition and what doesn't.
+
+One possible reading of the condition would be as "being a coauthor of
+a proposal that has taken effect" – in such a case, this is something
+that either is true or it isn't, thus the scoring condition in question
+could only be met once ever. However, there are strong clues that that
+reading is incorrect (the use of "takes" rather than "taken", the fact
+that that reading is easy to specify unambiguously yet wasn't, and
+plain common sense), and that reading fails a rule 217 test: this is a
+"text is silent, inconsistent or unclear" situation, rather than a case
+where the reading is the only one that fits the text of the rules, so
+it should be rejected on "common sense" and "best interests of the
+game" grounds.
+                 
+As such, the more sensible reading is to interpret the condition in
+such a way that "being a coauthor of a proposal that takes effect" is
+fulfilled when the proposal takes effect (and would, e.g., be met twice
+if the same proposal somehow took effect twice). So the problem boils
+down to working out what precise timing the rules mean when they state
+"when a proposal takes effect". This wording doesn't appear directly in
+rule 2657, but does in the last paragraph of rule 1006 (which is
+similar in that both rules are attempting to cause side effects of the
+adoption of a proposal); I'll thus be concentrating mostly on that
+paragraph of rule 1006 in this judgement (it's "similar but simpler").
+
+The phrase appears a few times in the rules, and is used somewhat
+inconsistently. Rules 105 and 106 both specify changes to the ruleset
+as happening "when a proposal takes effect", i.e. the proposal taking
+effect is what causes the changes to happen (so if we used a model of
+events in which things happen "simultaneously but in sequence", the
+proposal taking effect would precede the rule changes). Rule 106 also
+has a concept of "when a proposal finishes taking effect", which can
+only reasonably be interpreted as happening after all the proposal's
+rule changes. Rule 2141 defines rules as "always taking effect",
+implying that this can be a continuous process. Meanwhile, rule 1006
+has a condition "when a proposal takes effect and creates a new
+office"; this can in isolation be interpreted either as "a proposal
+creates a new office while taking effect", as "a proposal finishes
+taking effect, having created a new office", or as "a proposal a) takes
+effect and b) creates a new office" (i.e. there are two separate
+requirements that both have to be met).
+
+The method that's most consistent with the wording of these rules,
+collectively, is that the "taking effect" part of proposal adoption
+works like this: rule 106 specifies that the proposal takes effect, and
+then defines specifically what "taking effect" means in this context
+(i.e. the proposal applies the changes specified in its text, and rule
+105 gives it permission to make rule changes when doing so). However,
+trying to generalise the same reasoning to rule 1006 presents a
+problem: it's possible to interpret it as trying to modify the effect
+of the proposal to also install a player in an office, which is
+consistent with the wording of the rules in question and not
+inconsistent with the intent behind the rule, but would mean that if a
+proposal with power above 2 attempted to create an office, it wouldn't
+install a player by default (because rule 1006 would have insufficient
+power to modify the way in which the proposal took effect). In general,
+it seems that doing something *during* the resolution of a proposal
+should require power 3 (or at least power equal to the power of the
+proposal), due to rule 2150 part 3 stating that a low-powered entity
+can't affect a higher-powered instrument's operation, and rule 106
+implying that the effects in a proposal happen sequentially but
+instantaneously. (Consider a hypothetical proposal "Create a new
+office, the Office of Inanity. If the Office of Inanity is vacant,
+repeal rule 1769." A reading in which rule 1006 attempts to fill the
+office in the middle of the proposal's resolution seems to be
+reasonable and consistent with the text, but would clearly be
+interfering with the operation of the proposal. The situation where the
+proposal doesn't care about the timing with which the office is filled
+isn't so obvious, but seems to be analogous – rule 1006 is still
+changing what the proposal does, in terms of what offices it causes to
+become filled, and it can't do that with a lower power.)
+
+All this implies that, at least for proposals whose power when they
+take effect is greater than 2 (fortunately, proposal 8919 had power 3,
+meaning that I don't have to worry about the case of a low-powered
+proposal), rules 1006 and 2657 aren't "fast enough" to be able to do
+things "when a proposal takes effect" but before its effect has been
+fully applied; the only consistent readings that could cause that to
+happen would be to a) redefine what "takes effect" means, along the
+lines of "a rule that causes a proposal to take effect also causes its
+coauthors to be able to gain radiance", or b) change the way in which
+the proposal was applied. These are both reasonable readings of the
+text of the rules, but with those readings, the rules would fail to
+function correctly due to Power considerations.
+
+Reading rules 1006 and 2657 instead as "when a proposal has finished
+taking effect" would cause the rules to function correctly, with no
+Power considerations required. The problem there is that it involves
+reading very similar wording in different rules in different ways,
+according to what would allow the rule to function – rule 106's "when a
+proposal takes effect" needs to be read as a definition of what it
+means for a proposal to take effect in order for the rule to function
+correctly, whereas rule 1006's "when a proposal takes effect" needs to
+be read as a sort of trigger that applies once the full effects of the
+proposal have already been applied. That said, this sort of ambiguity
+(where the same phrase can be interpreted in two different ways) is not
+unknown in English, and I can't see any reason why the same ambiguous
+text /shouldn't/ be interpreted in two different ways if the rule 217
+tests produce different results in the two cases.
+
+Let's think about what would happen if rule 1006 had precedence over
+rule 106, and both rules had their text interpreted in the same way.
+The resulting Rules situation there would be "when a proposal takes
+effect, if it doesn't create a new office, it applies the changes
+specified by its text in order; if it does create a new office, it
+instead installs the proposal's author into the office" (because both
+rules are trying to define what it means for a proposal to take
+effect). This is clearly absurd, contrary to both common sense (if it
+isn't applying the changes in its text, it couldn't create a new
+office, leading to a paradox) and the best interests of the game (we
+want the proposal system to be reliable and not randomly fail for
+proposals that would have side effects).
+
+As a consequence, the best conclusion here genuinely does seem to be to
+interpret the phrase in question as ambiguous, with the ambiguity
+resolved differently in different rules:
+
+It's definitely in the best interests of the game for rule 106 to work
+correctly (if the definition of "a proposal takes effect" becomes
+broken in such a way that the proposal doesn't make rule changes, Agora
+is ossified: in that situation, neither the mechanism in rule 106, or
+the backup mechanism in rule 2034, would be sufficient to make rules
+changes because both make them because the former causes proposals to
+take effect and the latter simulates what would happen if they took
+effect). In fact, it isn't possible for the definition of "takes
+effect" to break in a way that would prevent rules 106 and 2034
+working, because rule 1698 causes prevents any ruleset or gamestate
+changes that could break it to never happen in the first place. Rule
+106 is fundamental to Agora (something that is reflected in the fact
+that it was part of Agora's original ruleset, and has never been
+repealed or renumbered, although there have been plenty of amendments).
+No rule 217 test can possibly interpret rule 106 in a way that would
+break it, even if this introduces inconsistencies with other rules; the
+"best interests of the game" are overriding in this case. (Besides,
+interpreting rule 106 to do something other than what it obviously does
+would also defy common sense.) All that said, rule 106 doesn't seem to
+be ambiguous in any way that would affect rule 106 itself, so a rule
+217 tiebreak isn't needed here: looking at rule 106 in isolation, it's
+clear what happens when a proposal is adopted, and the only ambiguity
+is as to timing details that would only affect other rules (rather than
+itself).
+
+Meanwhile, the interpretation that makes rule 106 work is highly
+problematic in the case of rule 1006, and by analogy 2657. Unlike rule
+106, which is defining the primary effects of adopting a proposal,
+these rules are intending to define side effects of adopting a
+proposal, and are clearly "supposed to" be separate from the proposal
+adoption process, rather than attempting to define a competing proposal
+adoption process; again, this is a "best interests of the game" and
+"common sense" argument. The text is silent about exactly when the
+effects happen, and the wording ambiguous (meaning that we come down to
+a rule 217 test here): but "after the proposal has finished taking
+effect" is the only timing that actually functions within the rules.
+It's generally in the best interests of the game for the rules to do
+what they seem to rather than actually doing nothing due to being
+broken in an astonishing way, in cases where both readings are
+reasonable and consistent with the rules, and the other rule 217 tests
+don't obviously apply here. (Of course, one reading of the rules is a
+much better fit for the wording than another, you go with the literal
+wording of the rule, as rule 217 tells you to, but that doesn't seem to
+have happened here.)
+
+The conclusion is that rule 2654 should be read in such a way that it
+isn't trying to a) redefine the process for adopting proposals or b)
+interfere with the process for adopting proposals. If it does neither
+of those things, then because it doesn't do its thing before the
+proposal has taken effect, it won't get a chance to do anything until
+after the proposal has taken effect. The consequence is that the new
+version of the rule will be able to see that the proposal that created
+it has taken effect.
+
+This is a very complex situation, though, which would ideally be
+cleaned up legislatively; I think there are a lot of rule 217 calls to
+be made here (not with respect to rule 106, which is pretty clear with
+respect to *what* it does even if not *how*, but with respect to the
+other rules involved), and those calls are inherently somewhat
+subjective. (I can't see an argument to decide either way based purely
+on the wording of the rules.) My initial reaction was similar to the
+caller's: "both rules 106 and 1006 use the same wording, so surely they
+have the same timing?", but they seem to need to be interpreted
+differently in order for them both to function correctly; but rule 217
+implies that that this sort of case-by-case interpretation can
+sometimes be correct, and its tests seem to be in favour of using it
+here. If anything, the wording in rule 2657 (which is different, and
+confusing in its own right) is more tilted towards an "after the
+proposal has finished taking effect" timing than the wording in rule
+1006; so if rule 1006 is interpreted as occuring with that timing, rule
+2657 should be too.
+
+All this means that the radiance grant worked. I judge CFJ 4017 TRUE.
+(But I have lower confidence than usual that I've got this CFJ
+judgement correct, because the situation is so complicated.)
+
+==========================================================================

@@ -9,6 +9,7 @@ Caller:                        Janet
 Barred:                        snail
 
 Judge:                         G.
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -16,6 +17,7 @@ History:
 
 Called by Janet:                                  20 Feb 2023 01:11:06
 Assigned to G.:                                   21 Feb 2023 01:06:43
+Judged FALSE by G.:                               23 Feb 2023 14:57:47
 
 ==========================================================================
 
@@ -138,5 +140,104 @@ Contracts
       contracts or contracts deemed detrimental to the game as a whole.
 
 ------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First off, the act of consent is an act of free will - whether someone
+consents to something is a truth outside the game. While messages may
+establish consent for legal purposes, consent can't be manipulated
+arbitrarily through such messages, but is instead bound by limits of
+thought and common sense. For example, it is nonsense to suggest that
+a person's consent alternates infinitely and instantly between
+consenting/nonconsenting (the brain doesn't work like that), or that
+we as observers alternate infinitely between accepting and denying
+consent. So, trying to set up an "infinitely back and forth" legal
+fiction or paradox might succeed for an asset (in the absence of
+explicit error-trapping in the rules), but when applied to consent
+it's noncommunicative nonsense.
+
+Secondly, consent is an important social concept that shouldn't be
+taken lightly. To the extent that Agora is a community as well as a
+game, it is in the best interests of Agora that we (as much as the
+rules allow) assert the general principle that silence does NOT equal
+consent. Leaving aside real world reasons, silence != consent is in
+keeping with Agoran custom. Ever since the Mousetrap of 1995[0],
+Agorans have carefully crafted rules to ensure that players could not
+be drawn into subcontracts and so forth without wilful, expressed
+consent. Further, there is a current exception that proves the rule:
+"Without Objection" is literally a silence=consent process, but this
+process is our most carefully and stringently wordsmithed, and is the
+only process for which we award a full championship for demonstrating
+a bug. This shows that Agorans have acknowledged the danger of
+assuming silence=consent in an Agora gaming context, and we've adopted
+explicit legislation to guard against its consequences.
+
+Taking the position that silence != consent also means assuming that
+uncertainty != consent. In many cases in Agora, we have legislated
+away the law of excluded middle - just because something isn't true
+doesn't mean it's false, it may be logically indeterminate. However,
+in dealing with consent, we should generally avoid such logic and
+maintain that a lack of clear consent means NO consent exists, at
+least to the extent that the rules allow.
+
+So, with this "good of the game" bias in mind, how do the rules apply
+to this case? Determining consent is governed by R2519/2, in which
+four numbered clauses describe different means for communicating
+and/or inferring consent. Clauses #2 and #3 (preexisting contracts and
+promises) are not relevant here, so simplifying somewhat:
+
+> R2519/2 [excerpt]
+>      A person is deemed to have consented to an action if and only if,
+>      at the time the action took place:
+>      1. e, acting as emself, has publicly stated that e agrees to the
+>         action and not subsequently publicly withdrawn eir statement; or
+>      4. it is reasonably clear from context that e wanted the action to
+>         take place or assented to it taking place.
+
+Note that whenever clause #1 is true, clause #4 is also true, because
+what could be "clearer from context" than a direct positive statement
+of agreement? With that in mind, I find that clause #1, on its own,
+does not allow for conditionals. Clause #1 clearly says that a
+statement of agreement must be made, and given the bias above towards
+uncertainty not equalling consent, this should be interpreted as a
+strict requirement. Clause #1 requires a direct statement of agreement
+that does not allow for conditionals.
+
+However, clause #4 *does* allow for conditionals. A simple statement
+"I agree with this contract if Janet transferred a coin to me
+yesterday" together with the public record of actions provides
+sufficient context for assent if and only if the conditions can be
+reasonably and clearly shown to be true. So, if the caller's attempt
+to join a contract succeeded, it would be through clause #4, not
+clause #1.
+
+This has a couple of consequences. First, it is subject to the
+"reasonably clear" standard which outright rejects conditionals based
+on the Riemann hypothesis[1]. Second, clause #4 doesn't ask about the
+reasonable clarity of a particular *statement* but rather of the full
+context. And the context includes the entire message. So instead of
+forcing us to interpret a single statement within a message, that
+might contain logical contradictions or uncertainty when examined in
+isolation, we look at the message as a whole to ascertain assent.
+
+And the context of the whole message is: clearly there's some trickery
+going on.  The caller has set up some conditionals based on a "fact"
+that, unless e's about to reveal a proof and win the Fields Medal, e
+doesn't know, we don't know, and e knows we don't know (that's also
+part of the context).  How can consent for one of those contracts "at
+the time of the message" be inferred from that? E knows that Agora
+can't assign em to one or the other with actual knowledge of the
+"correct" answer, so e isn't truly consenting to be in either, at
+least not with that message.
+
+So, since the message in question contains no direct, unconditional
+statement of agreement, and it was not reasonably clear from the
+overall context of the message and surrounding facts that consent for
+anything was actually meant, neither clause #1 nor clause #4 are
+satisfied, and therefore no consent has been given for joining these
+alleged contracts.  I judge FALSE.
+
+[0] https://agoranomic.org/Herald/theses/txt/1996-XX-XX-Swann.txt
+[1] https://faculty.washington.edu/kerim/nomic/cases/?1460
 
 ==========================================================================

@@ -1,0 +1,173 @@
+===============================  CFJ 4018  ===============================
+
+      I currently own the Radiance stone.
+
+==========================================================================
+
+Caller:                        snail
+Barred:                        Janet
+
+Judge:                         nix
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by snail:                                  15 Mar 2023 03:13:52
+Assigned to Murphy:                               19 Mar 2023 17:12:25
+Murphy Recused:                                   28 Mar 2023 15:11:03
+Assigned to nix:                                  28 Mar 2023 15:11:03
+Judged TRUE by nix:                               31 Mar 2023 17:21:00
+
+==========================================================================
+
+Caller's Arguments:
+
+Arguments for TRUE:
+The Radiance stone is the same stone as the Score stone, just with
+different attributes, and so falls under Rule 1586 (Definition and
+Continuity of Entities):
+
+      If the entity that defines another entity is amended such that it
+      defines the second entity both before and after the amendment, but
+      with different attributes, then the second entity and its
+      attributes continue to exist to whatever extent is possible under
+      the new definitions.
+
+
+Caller's Evidence:
+
+From adopted proposal 8919:
+
+Amend R2645 by replacing:
+
+       - Score Stone (Weekly, 3): When wielded, a specified player's
+         (defaulting to the wielder if not specified) Score is increased
+         by 3.
+
+with:
+
+       - Radiance Stone (Weekly, 3): When wielded, a specified player
+         (defaulting to the wielder if not specified) gains 3 radiance.
+
+
+From Rule 2645 (The Stones):
+
+      The following stones are defined, one per paragraph, with the
+      following format: Stone Name (Frequency, Smoothness): Description.
+
+
+It seems like the different attributes that were changed are just the Stone
+Name and Description, and common sense indicates they're the same stone.
+
+--------------------------------------------------------------------------
+
+Judge nix's Arguments:
+
+I judge CFJ 4018 TRUE.
+
+Introduction
+------------
+
+The text of the CFJ is "I currently own the Radiance stone." where "I"
+refers to snail and "currently" refers to 4 Mar 2023.
+
+It seems to me that the caller's argument is that the Radiance Stone and
+the Score stone are the same based on Radiance essentially being a
+rebranding of Score.
+
+The other plausible interpretation is that the Score Stone has been
+replaced by the Radiance Stone, swapped in place with analagous purpose.
+
+R1586/9 makes it pretty clear that an entity can have its name changed:
+
+       A rule, contract, or regulation that refers to an entity by name
+       refers to the entity that had that name when the rule first came
+       to include that reference, even if the entity's name has since
+       changed.
+
+And of course tells us that any other attributes can be changed as well:
+
+       If the entity that defines another entity is amended such that it
+       defines the second entity both before and after the amendment, but
+       with different attributes, then the second entity and its
+       attributes continue to exist to whatever extent is possible under
+       the new definitions.
+
+The question is hinged on whether the rules "[define] the [entity] both
+before and after the amendment". The rules do not give guidance on how
+we would know whether these are the same entity.
+
+What makes an entity?
+---------------------
+
+Through inference of Rule 1586, it seems that legally speaking an entity
+is a specific collection of attributes. It's not clear whether an entity
+needs to have a name, but if it does then its name is unique but could
+be changed.
+
+Augmenting this with common sense, and the best interest of the game, I
+contend that not all attributes of an entity are equal. Clearly names
+are crucial, as they get special treatment by the rules. Depending on
+the entity, different attributes will be essential to its identity. For
+example, the power of a rule is less identifying and less unique than
+the name, number, or text of a rule.
+
+I also argue that there is one more important common sense feature of an
+entity: variously known as its personality, purpose, or identity. While
+the rules are largely silent on this, it seems to be implied by the
+re-enactment mechanism. Re-enactment has been used for rules with
+different titles and text than what they're re-enacting but a similar
+purpose, and in fact this seems to be considered preferable by players
+over a new rule, even tho the difference is purely semantic.
+
+So how do we know if two entities are the same entity? If they have the
+same name, they are by definition (R1586). Otherwise, they must share
+crucial attributes and a purpose (syn. personality, identity). They also
+must have continuity with each other (as if there's a gap between their
+existences, then the first one was destroyed per R1586).
+
+So, are these stones the same entity?
+-------------------------------------
+
+Stones have four rule-defined attributes (per R2640/3):
+
+         (i) A name unique among stones;
+        (ii) The smoothness of the stone, which is a non-negative integer;
+       (iii) A description of the stone's properties
+        (iv) Optionally, a frequency, which must be one of daily, weekly,
+             monthly, or quarterly.
+
+Of these, the name and description are the only unique parts. Smoothness
+and frequency can be shared with another stone. Thus, I find that name
+and description are essential attributes of a stone.
+
+Here are the relevant stones:
+
+ From R2645/17:
+
+        - Score Stone (Weekly, 3): When wielded, a specified player's
+          (defaulting to the wielder if not specified) Score is increased
+          by 3.
+
+ From R2645/18:
+
+       - Radiance Stone (Weekly, 3): When wielded, a specified player
+         (defaulting to the wielder if not specified) gains 3 radiance.
+
+Their frequency and smoothness are identical, but these attributes are
+also identical to the Soul Stone. Their names are different. Their
+descriptions are analagous, as Radiance is analagous to Score (if not
+the same thing, tho that is unexplored here).
+
+What about purpose? It seems to me that they have the same purpose. Both
+of them increase the analagous value in their respective rulesets the
+same amount, with the same goal. Both of them are clearly intended to be
+stones that help anyone trying to win by High Score.
+
+What we find then is one entity being replaced with something else with
+a different name, nearly the same description, identical frequency and
+smoothness, and the same purpose. I find that these are the same entity.
+
+==========================================================================

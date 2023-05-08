@@ -1,0 +1,201 @@
+===============================  CFJ 4021  ===============================
+
+      Yachay owns the Hot Potato stone.
+
+==========================================================================
+
+Caller:                        snail
+Barred:                        nix
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by snail:                                  09 Apr 2023 20:40:20
+Assigned to G.:                                   10 Apr 2023 16:02:37
+Judged FALSE by G.:                               10 Apr 2023 17:10:32
+
+==========================================================================
+
+Caller's Arguments:
+
+Arguments for TRUE:
+Snail, Janet, and nix all tied for highest modified stone rockiness at the
+end of the week, so the following rule text applied:
+
+      In a tie, the stone
+      specified by the tied player who reached first is transferred to
+      em.
+
+snail was the player that "reached first", since e was the first player to 
+ever reach (though it was for the Score Stone), so the Hot Potato stone is 
+transferred to em, as e reached for it the previous week, and the previous 
+week's stone specifications are what are referred to by "stone specified."
+Complications may arise if you consider the sentence before this:
+
+      At the beginning of each week, the stone specified by the player
+      with the highest Modified Rockiness that reached for a stone in
+      the previous week is transferred to em.
+
+but it seems to merely supply the context under which "stone specified", 
+"in a tie", and "tied player" is to be defined. "Reaching" is defined in a
+separate paragraph:
+
+      Once a week each player CAN "reach" for a specified stone owned by
+      Agora by announcement.
+
+It is worth determining what "in a tie", "stone specified", and "reached 
+first" each mean.
+Also note that "When interpreting and applying the rules, the text of the 
+rules takes precedence."
+It seems pretty clear to me that when the rules say "reached first" it
+refers to the player that took the reaching game action first, among the
+relevant players, generally, and not specifically "in the previous week"
+as others may argue, as that wording isn't present in the text.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by nix:
+
+First, the text itself is as follows:
+
+       At the beginning of each week, the stone specified by the player
+       with the highest Modified Rockiness that reached for a stone in
+       the previous week is transferred to em. In a tie, the stone
+       specified by the tied player who reached first is transferred to
+       em. When a player receives a stone in this way, eir Base Rockiness
+       is set to 0.
+
+The immediately relevant sentence is "In a tie, the stone specified by
+the tied player who reached first is transferred to em." "In a tie"
+specifies a context, and as an adverbial phrase can be moved around.
+
+It seems that snail is interpretting it as "The stone specified by the
+tied player who reached first is transferred to em in a tie."
+
+It can also be read as "The stone specified by the tied player who
+reached first in a tie is transferred to em."
+
+Now, I'll grant that each reading is equally likely if we have no
+context. The first sentence of the paragraph provides the context of a
+weekly reach, which favors the second reading.
+
+However, even if we ignore that context, we have two equally textually
+supported readings. It'd then come down to our Four Factors. There's no
+precedent or previous gameplay that disagrees with either reading.
+There's a clear "best interest of the game" to make it play as it is
+intended, and not give a player a permanent advantage. "Common sense"
+also seems to favor the reading that is more fair.
+
+Thus, while both readings might be plausible, only one is supportable by
+our judicial tradition.
+
+--------------------------------------------------------------------------
+
+Caller's response to gratuitous arguments by nix:
+
+This assertion deserves skepticism. Moving the phrase around changes the
+meaning of the sentence. It may be fine for "When X, Y happens." meaning
+the same as "Y happens when X." But the sentence is more complicated. When
+X happens, the Y specified by Z that is a part of X is W. This is the same
+as "The Y specified by Z is W, when X." but not the same as "The Y
+specified by (Z when X) is W" or even "The (Y when X) specified by Z is W"
+or "The Y specified by Z is (W when X)" . To be clear, the difference here
+is that the adverbial phrase (when X) applies to the whole subsequent
+clause when it is seperated at the start, or the whole preceding clause
+when at the end, but when situated in the middle, it only modifies one part
+of the clause, causing a different meaning.
+
+Applying this to the wording of "The stone specified by the tied player who
+reached first is transferred to em." we have a lot of candidates for
+modification by "in a tie". What exactly does "in a tie" mean? Given this
+action being modified is the transfer of a stone, an instantaneous action,
+this whole phrase has to have an "instant" it occurs. So "in a tie" means
+"at the instant of a tie". The possible places to apply this, as far as I
+can tell, are here:
+
+The stone (in a tie) specified (in a tie) by the tied (in a tie) player (in
+a tie) who reached (in a tie) first (in a tie) is transferred (in a tie) to
+em (in a tie).
+
+"In a tie" applies to the entire phrase, but some of these applications are
+a bit tricky to work out. We have to use context for that.
+
+The stone (in a tie) specified (in a tie): here the stone can't have been
+specified at the same instant as the tie, as in the specify action could
+not have occurred there, but we can instead interpret it as "action that is
+considered, at the time of the tie, to be a specification".  The stone (in
+a tie) part works similarly: "things that are stones at the instant of the
+tie".
+
+So we have "The stone specified by the tied (in a tie) player (in a tie)":
+the player (in a tie) part can be understood as "thing that is a player at
+the instant of the tie", and the "tied (in a tie)" means a player that is
+tied at the instant of the tie, "tied" here referring back to "highest"
+condition from the previous rule sentence.
+
+So we have "The stone specified by the tied player who reached (in a tie)
+first (in a tie)": reaching doesn't occur at the instant of the tie, so we
+instead evaluate this as "action that was a reach at the time". "First (at
+the instant of the tie)" seems a bit of an oxymoron, but we can again let
+it mean "reach that is considered First at the instant of the tie".
+Everything here may be an overanalysis, but this is the key part: "in a
+tie" is just an instantaneous time marker, not a time period marker. To
+read this as "The reach that occurred earliest in the previous week" has no
+textual basis compared to "the reach that occurred earliest", as "in a tie"
+does not refer to the previous week at all, it only refers to an instant.
+
+ That is, "reached first (in a tie)" cannot mean "reached first (in the
+previous week).
+
+transferred (in a tie) makes sense as a transfer occurring at the instant
+of the tie.
+em (in a tie) just means the (the tied (in a tie) player (in a tie)) again,
+or rather, whatever (em) refers to at the instant of the tie.
+
+The notion that you can retain the meaning of the sentence while moving
+around the starting adverbial phrase, and make it only apply to part of the
+sentence, fails to consider that doing so would rob other parts of the
+sentence of their deserved modification. Even if it was fine to do, moving
+it to two specific spots out of the 8 i mention (of which there may be
+more) seems an insufficient exploration of the 8^2 possible combinations of
+which spots to apply (in a tie).
+
+Furthermore, none of these combinations could even result in "reached
+first" referring to only the last week, as it could only be modified by "in
+a tie" which refers to a specific instant, as is required of it for the
+transfer to occur at that instant.
+
+I have a feeling my reasoning here has some flaw i can't identify, and of
+course it's subjective, but I already wrote it all out and would rather not
+waste that.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+[For future reference, "TRUE" means that snail obtained the Hot Potato
+due to reach, and then it was transferred to Yachay due to being
+wielded by snail.]
+
+The rule paragraph in question is written reasonably cleanly and
+concisely.  The fact that "reached first" is missing an object (a
+specified stone) leads the reader to look for context, and even a
+moron in a hurry (like the judge of this case) could see that the
+context is supplied by the preceding sentence - as the "tie" clearly
+refers to the "highest" in the previous sentence, the "reached first"
+clearly, and in nearly-parallel construction, applies to the reaches
+"in the previous week" in that same sentence. No amount of Agoran
+grammatic sophistry can take away from the plain and obvious
+common-sense intended meaning in that paragraph; further, it is not in
+the best interests of the game to force the rules-writers to
+constantly expand the level of rules-overspecification to defend
+against motivated readings, in situations where such plain and obvious
+contextual usage suffice.
+
+This judge finds FALSE.
+
+==========================================================================

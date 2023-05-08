@@ -1,0 +1,63 @@
+===============================  CFJ 4027  ===============================
+
+      This proposal introduces "any ambiguity" into all rule changes.
+
+==========================================================================
+
+Caller:                        4st
+
+Judge:                         Murphy
+Judgement:                     
+
+==========================================================================
+
+History:
+
+Called by 4st:                                    08 May 2023 14:39:14
+Assigned to Murphy:                               08 May 2023 16:55:33
+
+==========================================================================
+
+Caller's note:
+
+Er typo [in the CFJ statement]: "This proposal introduces" should be 
+"This contract introduces"
+
+
+Caller's Evidence:
+
+I create and join the following contract (new! clearly saying what proposal
+can do!):
+{
+Players can leave this contract at any time.
+When a player makes a rule change via proposal, that proposal CAN directly
+apply that rule change to private information in this contract, even if the
+author
+is not party to this contract. This contract has private information that
+is a copy
+of the Agoran ruleset.
+}
+
+
+Caller's Arguments:
+
+Arguments FOR: "change/alter/modify/update/amend/fix a rule/the power/the
+title to read", "delete/destroy/shred/eliminate a rule", and
+"create/spawn/induce a rule" are presumed to introduce ambiguity even
+though all seem pretty clear that they want to make a rule/power/title be
+something, repeal a rule, or enact a rule. Repeal a portion of a rule seems
+to introduce a similar ambiguity. THUS, this contract would introduce a
+global ambiguity: did the author mean to do the rule change to the
+contract... or the rule? (See Rule 105 "Any ambiguity in the specification
+of a rule change causes that change to be void and without effect."
+
+Arguments AGAINST: It should be implied that things in Agora are reasonable
+unless otherwise stated. EG Amend the power of something should be a valid,
+unambiguous rule change, because it is reasonable to interpret it that way.
+
+(Another argument against that may make this matter unfortunately trivial:
+R217 means the rules take precedence over contracts, although the rules are
+silent on whether this introduces ambiguity, however, the fact that I have
+to ask implies that it is so?)
+
+==========================================================================

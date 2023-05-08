@@ -8,7 +8,8 @@
 Caller:                        G.
 Barred:                        Janet
 
-Judge:                         R. Lee
+Judge:                         snail
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -16,6 +17,9 @@ History:
 
 Called by G.:                                     19 Feb 2023 20:07:07
 Assigned to R. Lee:                               21 Feb 2023 01:06:14
+R. Lee Recused:                                   05 Mar 2023 21:57:38
+Assigned to snail:                                05 Mar 2023 21:57:38
+Judged TRUE by snail:                             14 Mar 2023 18:32:25
 
 ==========================================================================
 
@@ -76,5 +80,20 @@ proposal to refer to parts of this art by paragraph (that's kind of silly
 and would be very hard to specify properly) but to determine whether
 the whitespace in that rule is "significant" in terms of the rulekeepor's
 ability to rearrange such rules.
+
+--------------------------------------------------------------------------
+
+Judge snail's Arguments:
+
+I judge CFJ 4012 TRUE.
+
+Certain punctuation and other symbols, such as the "-" in front of a list
+item, may not be considered part of a paragraph, but in this case, each
+collection of symbols that make up a line have a meaning, being part of
+the ASCII art. I find that enough to make each line have it's own "logical
+structure" in addition to "artistic structure". Each paragraph combined may
+be readable as a whole, but that doesn't exclude each line from being its
+own paragraph, with a meaning "this is the first line of the ASCII art"
+and so on.
 
 ==========================================================================

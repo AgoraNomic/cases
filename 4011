@@ -9,6 +9,7 @@ Caller:                        G.
 Barred:                        ais523
 
 Judge:                         snail
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -16,6 +17,7 @@ History:
 
 Called by G.:                                     19 Feb 2023 15:28:01
 Assigned to snail:                                21 Feb 2023 01:05:43
+Judged TRUE by snail:                             01 Mar 2023 05:52:41
 
 ==========================================================================
 
@@ -44,5 +46,30 @@ without saying "a device is platinum" directly.
 But the main purpose of this cfj is to look at the conflict between
 the two judgements, so I'm not arguing too strongly for either side,
 mainly trying to resolve the conflict.
+
+--------------------------------------------------------------------------
+
+Judge snail's Arguments:
+
+I will first uphold the judgement of CFJ 3941, "the device" is not
+necessarily a device. Imagine if there was another switch called "The CFJ",
+it wouldn't be a CFJ just because of its name. So the question is, what
+about the judgement of CFJ 4004 needs to change? It begins with this
+assumption and bases most of its arguments off of it, so practically the
+whole judgement needs rethinking, though its conclusion may be the same.
+
+Since "the device" and "a device" are different classes of entities, I find
+that enough to simply judge CFJ 4011 TRUE.
+
+Rule 2654 (The Device) describes a few different kinds of devices: Agoran
+devices, random devices, welcome devices. I wouldn't go so far to say it
+"defines" them, though. It describes the properties of the different kinds
+of devices, and also of the device itself, as if they were defined
+elsewhere. The device is defined elsewhere, but devices seem to have no
+definition, at least while the device is off. There are plenty of
+definitions while the device is on, though. This likely functions similarly
+to the definition of something such as a stamp being repealed and
+reenacted: devices don't exist while they aren't defined, so CFJ 4004's
+judgement seems to be correct.
 
 ==========================================================================

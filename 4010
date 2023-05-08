@@ -8,6 +8,7 @@
 Caller:                        snail
 
 Judge:                         ais523
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by snail:                                  19 Feb 2023 05:12:47
 Assigned to ais523:                               21 Feb 2023 01:05:11
+Judged FALSE by ais523:                           27 Feb 2023 17:11:13
 
 ==========================================================================
 
@@ -132,5 +134,91 @@ Janet wrote:
 > change the structure of a text merely by calling it something, that
 > could be an amendment (and thus prohibited unless it met the R105
 > communication standard).
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+This CFJ basically comes down to whether rule 2675 contained "[a]
+paragraph that starts with '- Gardens'". If it doesn't, then the
+instruction in the proposal is impossible to follow and therefore its
+replacement couldn't have been required.
+
+It's clear that the rule in question contained a *list item* that
+started with "- Gardens", so the question basically boils down to
+whether a list item is a paragraph. This is a distinction that has been
+causing trouble for rich text engines / markup languages for some time;
+the issue is primarily that there are some situations in English for
+which a list item clearly isn't a paragraph (such as when a single
+sentence continues across multiple paragraphs). There are also
+situations in English where list items need to be considered paragraphs
+for consistency (it is possible to have a list for which some of the
+items consist of multiple paragraphs; in this case, the remaining items
+would typically be considered to be single paragraphs). It's worth
+noting that markup languages normally make explicit distinctions
+between the two cases, and even render them differently; for example,
+the CommonMark specification (https://spec.commonmark.org/0.30/#loose)
+specifically defines "loose" lists where the elements contain
+paragraphs versus "tight" lists that don't, and HTML allows for
+different markup in the two cases (see the attached demo) – this is
+evidence that these are real distinctions that actually exist in the
+natural-language English, because markup languages would be unlikely to
+go to the trouble of trying to capture this sort of distinction unless
+doing so were required to perform their job of reflecting the structure
+of written text.
+
+The list in question has no clues that would help us distinguish
+between the two cases here (other than the double-spacing between the
+list elements, which suggests paragraphing but is not a sure indicator,
+and might or might not be relevant under rule 2429). Instead of
+resolving this problem immediately, I consider a subtle distinction
+that exists in the "the list contains paragraphs" interpretation,
+between "each list item is a paragraph" and "each list item contains a
+single paragraph". This makes a difference because in addition to text,
+the list contains bullet points (here a "-" marker) that mark the list
+items, and the distinction affects whether the bullet point is part of
+the paragraph or not; in the latter case, the bullet point serves to
+mark where the list item starts, and the paragraph starts after that.
+And the latter case seems to make a lot more sense here: if a list item
+contained two paragraphs, the bullet point clearly wouldn't be part of
+the second, so it would be inconsistent to consider it part of the
+first (except if ruling paragraphs to be defined entirely by the line
+breaks within the rule's text and ignoring its structure, which would
+be inconsistent with previous precedent, e.g. CFJs 3452 and 3778).
+
+This means that for the purpose of this CFJ, it doesn't matter whether
+the list is considered to contain paragraphs or not; if the list item
+in question contains a paragraph, then that paragraph starts with
+"Gardens" (as opposed to starting with "- Gardens"). If the list is
+considered to be a paragraph on its own, it starts with "- Wandering"
+(or "The following is" if it's part of the same paragraph as its
+introductory text). So in neither case does the proposal successfully
+identify the text to replace.
+
+One other point that needs considering is: is this an "inconsequential
+variation in the quotation of an existing rule" (i.e. can we consider
+the replacement as replacing a paragraph starting with "Gardens",
+misquoted as "- Gardens")? If it is, it would be a special case which
+rule 105 does not consider to be an ambiguity. However, in the case
+that this CFJ is considering, the variation does not seem to be
+sufficiently inconsequential: not only is there ambiguity around
+whether the list is formed of paragraphs or not (which is not a
+variation in quotation), it would affect whether the post-replacement
+list item started with one bullet point or two (because even if rule
+105 considers the bullet point in the *text to replace* to be
+inconsequential, no such allowance is made for the *replacement text*,
+so the first bullet point in the proposal gets ignored but the second
+one doesn't; a difference between the expected and actual results of
+the proposal that defies common sense to this extent would be
+considerably consequential).
+
+I judge CFJ 4010 FALSE.
+
+
+Judge ais523's Evidence:
+
+[Arbitor's Note: the "attached demo" mentioned in arguments can be found
+at https://www.mail-archive.com/agora-business@agoranomic.org/msg44084.html.
+It is left out of this archive record due to html sanitizing.]
 
 ==========================================================================
