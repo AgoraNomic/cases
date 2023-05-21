@@ -8,6 +8,7 @@ Caller:                        Aspen
 Barred:                        Janet
 
 Judge:                         4st
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by Aspen:                                  02 May 2023 16:16:29
 Assigned to 4st:                                  08 May 2023 16:53:01
+Judged TRUE by 4st:                               19 May 2023 20:03:44
 
 ==========================================================================
 
@@ -146,5 +148,189 @@ action (of changing power) should be absolutely clear, even at the
 R105 standard.
 
 [0] https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2022-February/015693.html
+
+--------------------------------------------------------------------------
+
+Judge 4st's Evidence:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2022-February/015693.html
+
+Rule 217/12 (Power=3)
+Interpreting the Rules
+
+      When interpreting and applying the rules, the text of the rules
+      takes precedence. Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game.
+
+      Definitions and prescriptions in the rules are only to be applied
+      using direct, forward reasoning; in particular, an absurdity that
+      can be concluded from the assumption that a statement about
+      rule-defined concepts is false does not constitute proof that it
+      is true. Definitions in lower-powered Rules do not overrule
+      common-sense interpretations or common definitions of terms in
+      higher-powered rules, but may constructively make reasonable
+      clarifications to those definitions. For this purpose, a
+      clarification is reasonable if and only if it adds detail without
+      changing the underlying general meaning of the term and without
+      causing the higher powered rule to be read in a way inconsistent
+      with its text.
+
+      Rules to the contrary notwithstanding, any rule change that would
+      (1) prevent a person from initiating a formal process to resolve
+      matters of controversy, in the reasonable expectation that the
+      controversy will thereby be resolved; or (2) prevent a person from
+      causing formal reconsideration of any judicial determination that
+      e should be punished, is wholly void and without effect.
+
+Rule 105/23 (Power=3)
+Rule Changes
+
+      When the rules provide that an instrument takes effect, it can
+      generally:
+     [...]
+      6. change the power of a rule.
+
+      A rule change is any effect that falls into the above classes.
+      Rule changes always occur sequentially, never simultaneously.
+
+      Any ambiguity in the specification of a rule change causes that
+      change to be void and without effect. An inconsequential variation
+      in the quotation of an existing rule does not constitute ambiguity
+      for the purposes of this rule, but any other variation does.
+
+      A rule change is wholly prevented from taking effect unless its
+      full text was published, along with an unambiguous and clear
+      specification of the method to be used for changing the rule, at
+      least 4 days and no more than 60 days before it would otherwise
+      take effect.
+
+      This rule provides the only mechanism by which rules can be
+      created, modified, or destroyed, or by which an entity can become
+      a rule or cease to be a rule.
+
+
+Judge 4st's Arguments:
+
+The conflict comes from "any ambiguity" in Rule 105. Could we construe
+Janet's argument as "any ambiguity"?
+
+We could construe "Amend Rule 879 (Quorum) by changing its power to 3." to
+mean that we are starting a rule change, and that rule change is to change
+the power of that rule.
+
+We could also construe "Amend Rule 879 (Quorum) by changing its power to 3."
+to mean to change some other Rule 879, other than the one in the Agoran
+ruleset, and change its power. For example, this is also Rule 879:
+https://www.medicaid.gov/tmsis/dataguide/validation-rules/rule-879/
+
+Or, we could posit that there was a typo, in order to refer to Quorum:
+it was meant to be rule 875:
+https://regulations.justia.com/states/iowa/agency-875/athletics-commissioner/chapter-170/rule-875-170-6/
+
+or rule 877:
+https://oregon.public.law/rules/oar_877-010-0005
+
+Or, it could mean some other unpublished Rule 879.
+
+We could also construe "Amend Rule 879 (Quorum) by changing its power to 3."
+to mean nothing, because amending a rule is already has a definitive
+definition under rule 105, and its definition is to change the text of the
+rule, and the power is not part of the text of a rule.
+
+This second reading is unreasonable, and is definitively bad faith:
+What other rule would we be referring to? Despite not specifying that it
+is referring to the rule in the Agoran ruleset, we can see this
+interpretation is CLEARLY unreasonable, as there is no other context in
+which this phrase does anything meaningful to Agora. We can determine how
+unreasonable this reading is because we interpret and read context.
+
+So... what can we make of the third reading? In the context of Agora,
+it is normal to want to change the power of a rule. It also seems normal
+to want to mislead someone. However, no misleading was done: the player
+who wrote the proposal had clear intentions of changing the rule based on
+further context of the proposal, and provided further commentary that the
+power should be at that level. Furthermore, if e was trying to mislead us
+to this result, it would have violated other rules and should have resulted
+in a game penalty, and this was not the case. Despite the rule change being
+unclear, from the context from the situation, paired with the fact that
+"doing nothing" is usually not a desired outcome, leads me to believe that
+this reading of the rule change is unreasonable.
+
+However, my believe isn't something we should operate on, so
+to reach a judgement on this matter:
+
+Per rule 217, "Where the text is silent, inconsistent, or
+      unclear, it is to be augmented by game custom, common sense, past
+      judgements, and consideration of the best interests of the game."
+
+Per past judgements, CFJ 1460 has precedence that for something to be clear,
+players must understand it.
+The argument that this was clear is: Players seemed to have understood the
+intent of Proposal 8639, and considered it unambiguous at the time, and even
+liked it: the proposal was adopted. The ruleset was reported as such by
+Janet, and the question was not brought up on its efficacy of power change
+for over a year.
+(Clear is usually paired with ambiguous, and as such, this is not a strong
+foundation.)
+Similarly, CFJ 3950 found that ambiguity was not present in a rule change,
+and with a single statement, actually made multiple adjustments. This
+proposal therefore may have made more changes, and also "done nothing",
+in addition to its intended change.
+With regard to this proposal and that CFJ, all 3 interpretations may
+have occurred, and only one has any true effect on Agora.
+
+Per common sense, "amend" means "change". Additionally, the context
+provides support that the power was intended to be changed, not for the
+proposal to do nothing with the power.
+
+Per game custom, Proposal 8639 has been in effect for a long time as the
+power it purported to put the rule as: we have been playing as if it was
+power 3.
+Additionally, we hold a strong standard: when in doubt, we should
+operate reasonably. Reasonableness is the default. Is this third reading
+unreasonable? Being discovered a year later, I would purport this to be so:
+Agora is a contract between all players of Agora, and all players said
+nothing about the inefficacy of the proposal for that period, thus I
+conclude this reading is unreasonable.
+
+Do I regret this was not brought up sooner? Absolutely! If the
+interpretation
+of the rule in this way was reasonable, as in, it brought some benefit to
+the
+player(s) who dispute the change, then I would have to consider this case as
+FALSE terribly more seriously. Additionally, intent to mislead would be more
+difficult to determine in a competitive situation. (I doubt it would change
+my mind, but it would become a more heated argument.) Thus, it is fortunate
+this case is brought at all before the gamestate reaches that contentious
+point.
+
+Finally, with regard to game custom, we do use context regularly to
+resolve matters.
+
+Per best interest of the game, well, this can only be supported by opinion.
+What is the best interest of the game? I think we can agree is "to
+continue",
+which the ruling on this matter will not affect.
+
+While investigating this case, it would be pertinent to put forth some
+guidelines/opinions on ambiguity:
+(These opinions are non-binding but may otherwise be used in future cases)
+- Ambiguity should be evaluated on a case by case basis.
+This is one of the things judgement is for.
+- Ambiguity should have at least 2 definitive, common-sense
+interpretations, where if an interpretation is unreasonable, then it is
+not common-sense.
+- Ambiguity should ideally be interpreted near the time of the event, by the
+players extant at the event.
+- Holistically, Agora is not a syntax parser: We persons can evaluate things
+holistically and with proper context in the stead of Agora, and we regularly
+do so.
+
+HERETOFORE:
+Enacting proposals as written should be something all players confirm is
+done correctly, not just one.
+I find that Proposal 8639 did set the power of Rule 879 "Quorum" to 3.
+I find this CFJ to be TRUE.
 
 ==========================================================================

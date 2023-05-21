@@ -7,7 +7,7 @@
 Caller:                        4st
 
 Judge:                         Murphy
-Judgement:                     
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +15,7 @@ History:
 
 Called by 4st:                                    08 May 2023 14:39:14
 Assigned to Murphy:                               08 May 2023 16:55:33
+Judged FALSE by Murphy:                           14 May 2023 23:15:00
 
 ==========================================================================
 
@@ -59,5 +60,28 @@ unambiguous rule change, because it is reasonable to interpret it that way.
 R217 means the rules take precedence over contracts, although the rules are
 silent on whether this introduces ambiguity, however, the fact that I have
 to ask implies that it is so?)
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+This contract doesn't introduce ambiguity of any sort.
+
+First, just because a proposal making a rule change CAN apply it to the
+contract's copy of the rules, doesn't mean that it does. It only does if
+the proposal says it does.
+
+Second, just because a proposal making a rule change does apply it to
+the contract's copy of the rules, doesn't mean that it applies it /only/
+to the contract's copy of the rules. It only does if the proposal says
+it does. And in that case, it's unambiguously not a rule change.
+
+Furthermore, even if a more carefully worded contract made it ambiguous
+whether a proposal making a rule change also affected something defined
+by the contract, that wouldn't be an ambiguity in the rule change
+itself, but an ambiguity in a side effect of that rule change (or of the
+proposal itself).
+
+I judge FALSE.
 
 ==========================================================================

@@ -8,6 +8,7 @@
 Caller:                        G.
 
 Judge:                         ais523
+Judgement:                     IRRELEVANT
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by G.:                                     04 May 2023 23:05:01
 Assigned to ais523:                               08 May 2023 16:54:56
+Judged IRRELEVANT by ais523:                      12 May 2023 23:34:38
 
 ==========================================================================
 
@@ -53,5 +55,83 @@ Regulated Actions
       Rules, and only using the methods explicitly specified in the
       Rules for performing the given action. The Rules SHALL NOT be
       interpreted so as to proscribe unregulated actions.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+Here's an excerpt from a proposal (8867) that was adopted recently:
+
+> [
+> The goal of this is to expand on our banning system and implement some
+> clearly defined values into the rules of Agora. This comprises two main
+> changes.
+>
+> The first removes the "free speech" clause from R478 and replaces it
+> with a bill of expectations that largely seek to maximize participation
+> while recognizing ways in which that might reasonably be abridged.
+>
+[snip]
+>
+> Amend R478 by deleting the following text:
+>
+>         Freedom of speech being essential for the healthy functioning of
+>         any non-Imperial nomic, it is hereby resolved that no Player shall
+>         be prohibited from participating in the Fora
+[snip]
+
+The resulting rule change broke a long-standing protection that
+prevented the rules accidentally making it ILLEGAL to participate in
+gameplay generally (see CFJ 1738). This has a chilling effect on
+various forms of participation in Agora as a whole: this CFJ is asking
+me to interpret the rules, but if I discover that the statement of the
+CFJ is TRUE, that in turn means that I SHALL NOT give that verdict.
+Additionally, I can't even work out whether the statement of the CFJ is
+true or not without attempting to interpret the rules, something which
+might turn out to be illegal (and for which I can't know, before
+attempting it, whether it's illegal or not).
+
+Normally, when judging a CFJ whose statement has been posed
+incorrectly, I provide arguments to let people know the truth or
+otherwise of the statement that they probably meant to ask. However,
+with the protections that would normally be provided to me repealed, I
+do not wish to attempt that in this case. Instead, I will simply note
+that the caller has asked the wrong question: this is a question of
+interpretation, and various parts of the ruleset affect the meaning of
+various other parts of the ruleset. It isn't relevant to the game
+whether a hypothetical action might or might not breach a *particular*
+rule if, e.g., the same action is permitted by a different rule.
+
+When trying to judge this CFJ, I got as far as "OK, there's a
+distinction between 'the rules proscribe this action' and 'rule 2125
+proscribes this action' – does that matter here", looked at the other
+rules that might matter, discovered that one of them had had the
+relevant sentence fragment repealed, and realised I was on dangerous
+ground even attempting to understand the rule to the extent that I
+could judge, so I stopped. I did, however, realise that it doesn't
+matter whether or not rule 2125 bans an action if the same action is
+permitted by a rule that outprecedences it (and that there are some
+rules that might, e.g. the last paragraph of rule 217). So the relevant
+question here is whether the *Rules as a whole* are proscribing
+unreglated actions. This is not the question that the caller asked.
+
+I judge CFJ 4026 IRRELEVANT. I note that there's no point in calling a
+corrected CFJ under the current ruleset: rule 591 doesn't actually
+require CFJ judges to give appropriate rulings to judgements, and rule
+2125 could easily make it illegal to judge a corrected CFJ as TRUE
+(judging a CFJ is a regulated action, thus a prohibition on proscribing
+unregulated actions wouldn't affect that), so if the judge of the
+resulting CFJ wanted to ensure e was following the rules, eir safest
+course of action would be to judge it FALSE without actually attempting
+to interpret the rules in question – and as such, the CFJ verdict would
+not be of any use in resolving the controversy.
+
+We should probably amend rule 2125 to have the wording that was
+probably intended (something along the lines of "the correct
+interpretation of the rules is one that does not proscribe unregulated
+actions") and/or to reinstate a protection against the rules
+accidentally making it illegal to, e.g., honestly judge a CFJ. Then it
+would be possible for judges to attempt to determine what the rule in
+question meant without risking a rules violation in the process.
 
 ==========================================================================

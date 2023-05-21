@@ -1,0 +1,71 @@
+===============================  CFJ 4030  ===============================
+
+      Per Rule 2680, a player can anoint a ritual number multiple times
+      for a single instance of a ritual act.
+
+==========================================================================
+
+Caller:                        nix
+
+Judge:                         Yachay
+
+==========================================================================
+
+History:
+
+Called by nix:                                    17 May 2023 23:14:29
+Assigned to Yachay:                               21 May 2023 14:06:53
+
+==========================================================================
+
+Caller's Evidence:
+
+On 5/17/23 16:45, ais523 via agora-business wrote:
+> Previous versions of rule 2680 said "CAN once" (e.g. 
+> https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2023-April/016950.html 
+> - mail-archive.com isn't archiving old rulesets so I had to link the
+> private archive). 
+>
+> However, proposal 8943
+> (https://www.mail-archive.com/agora-official@agoranomic.org/msg13159.html)
+> changed it to a version without the "once". We generally say "CAN once"
+> if an action is only intended to be possible once, and the "once", once
+> present, is now repealed. This means that it should be possible to
+> anoint multiple ritual numbers using the same ritual act.
+
+
+Caller's Arguments:
+
+To me, the intuitive reading of "When [event] happens, a player CAN
+[verb]" is that a player can do the verb one time per event. This is the
+way I would mean this is plain speech, and it's the way the rules of
+pretty much any board game are written. "When [event] happens, draw a
+card" doesn't usually mean you can draw more than one card. Nothing in
+the rules (that I see) seems to suggest any reason that Agora would
+interpret this differently than plain speech or analogous situations in
+other games.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+In any board game, if a rule said "When you place your meeple, you can
+draw a card", I don't think any board game group in the world would
+interpret it as meaning you can empty the deck.  I wholly agree that
+the "whole deck" interpretation is Agoran current custom and that,
+barring minor technical issues, this win was obtained totally fairly
+under that assumption.  But I sure am interested in how the assumption
+came to be - so I might ask the judge to look into details or first
+principles if e's willing to pursue it a bit, instead of just saying
+"it's our common custom" (which is a totally fair reason to uphold the
+win).
+
+For example, tabled actions are written continuously - a player can
+perform the tabled action "if e is [currently] a sponsor" of an
+appropriate intent.  Some of the "multiple wins from one trigger"
+successes were based on Apathy intents.  If the precedent was written
+originally for the tabled action case, and depended on the continuity
+of the condition, it might have been an error to extend it to "When X
+happens, a player CAN Y" language.
+
+==========================================================================

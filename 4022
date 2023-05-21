@@ -7,6 +7,7 @@
 Caller:                        4st
 
 Judge:                         nix
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by 4st:                                    30 Apr 2023 01:13:06
 Assigned to nix:                                  08 May 2023 16:51:16
+Judged TRUE by nix:                               08 May 2023 17:33:26
 
 ==========================================================================
 
@@ -88,5 +90,113 @@ message to OFF, with the phrase "game action", with no disclaimers
 etc. was close enough in content and context to strongly imply "As an
 official duty of the Referee, I collect taxes" - false advertising is
 falsy.
+
+--------------------------------------------------------------------------
+
+Judge nix's Arguments:
+
+On April 29th 4st published the following message:
+
+    Under penalty of no faking, as Referee, I do the following game
+    action for each active player:
+    I collect that player's taxes that are owed to the office of
+    Referee.
+    (The active players being 4st, Aspen, G.,Janet, Murphy, Yachay,
+    ais523, cuddlybanana, juan, nix, and snail.)
+
+    Please make any disputes about this individually, as taxes are done
+    on a case by case basis.
+
+    Furthermore, I intend to, without objection, declare apathy,
+    specifying all players.
+
+    --
+    4st
+    Referee and Deputy(AKA FAKE) webmastor
+    Uncertified Bad Idea Generator
+
+Up for debate is whether the attempt to collect taxes is a violation of
+"No Faking" which reads:
+
+      A person SHALL NOT make a public statement that is a lie.
+
+      A public statement is falsy if any of the following was true at
+      the time of publication:
+      * The statement was not true and the author knew or should have
+        known that it was not true.
+      * The author believed the statement to be not true.
+
+      A public statement is a lie if it is falsy and any of the
+      following is true:
+      * The author made the statement with intent to mislead.
+      * The author, in the same message, declared the statement to be
+        made "under penalty of No Faking" (or similar).
+
+      For the purposes of this rule, an attempt to perform an action by
+      publishing certain text constitutes an implicit statement that the
+      action was EFFECTIVE.
+
+      Merely quoting a statement or attempt does not constitute making
+      it for the purposes of this rule. Any disclaimer, conditional
+      clause, or other qualifier attached to a statement or attempt
+      constitutes part of the statement or attempt for the purposes of
+      this rule; the truth or falsity of the whole is what is
+      significant.
+
+      The above notwithstanding, a formal announcement of intent is
+      never a lie.
+
+Violating No Faking requires a statement to be falsy and to either be
+misleading or to be explicitly under penalty of No Faking. The rule
+augments this by noting that claims to do something are claims they are
+effective (thus making actions also statements about truth). Thus, 4st's
+attempt to collect taxes is also interpreted as a statement that
+collecting taxes was EFFECTIVE.
+
+I see two truth statements in this: (1) 4st is referee, (2) 4st
+collected taxes.
+
+Was 4st referee when e did the action? Yes. So that condition is met.
+
+Did 4st collect taxes? Well, the rules do not define, forbid, or allow
+collecting taxes, nor taxes, nor collecting in general. Per "Regulated
+Actions":
+
+      The Rules SHALL NOT be interpreted so as to proscribe unregulated
+      actions.
+
+If it's not regulated, it's allowed. The rules don't define effective,
+but they do define "ineffective" as "attempts are unsuccessful" in
+"Mother, May I?". It's a reasonable conclusion then that effective just
+means it is successful. Is doing an unregulated thing "successful"? The
+rules are silent on this. There's certainly some things that are
+unregulated that it'd be strange to consider unsuccessful ("I thank
+you." "I celebrate.") so it seems contrary to game interests to
+universally declare all unregulated actions ineffective.
+
+Thus, I don't know whether 4st's attempt was effective or not, but I
+don't think there's a strong enough argument to say it was certainly
+ineffective or that 4st knew it would be.
+
+Neither of the explicit claims in the contested action are false (or at
+least, knowingly false), so there's no case for falsy under this analysis.
+
+One gratuitous, by G., argues that the form of "As Referee, I..."
+implies that it is an official duty of the referee to do the action. To
+evaluate this I want to contrast "As referee, I collect taxes" with a
+structurally similar statement: "As referee, I thank you" It strikes me
+that both involve invoking a connect to an office that is not legally
+relevant.
+
+The former certainly feels more objectionable than the latter. Why is
+that? I posit it's because it feels misleading. Misleading is the
+second, and notably *separate*, criteria for No Faking. It's not
+relevant to falsiness.
+
+Should doing a misleading thing under the guise of a connection to an
+office be Faking? Probably. But I'm unconvinced the current rule covers
+it in situations that are not otherwise falsy.
+
+I find CFJ 4022 TRUE.
 
 ==========================================================================

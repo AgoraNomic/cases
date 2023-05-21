@@ -8,6 +8,7 @@
 Caller:                        4st
 
 Judge:                         Janet
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by 4st:                                    04 May 2023 21:04:40
 Assigned to Janet:                                08 May 2023 16:54:24
+Judged FALSE by Janet:                            13 May 2023 00:22:49
 
 ==========================================================================
 
@@ -135,5 +137,92 @@ On Sat, Apr 29, 2023 at 2:05 PM Kerim Aydin via agora-business wrote:
 >
 > ------------------------------------------------------------------------
 >
+
+--------------------------------------------------------------------------
+
+Judge Janet's Arguments:
+
+In CFJ 3403, H. Judge Tiger found that "interpreting the rules", for the
+purpose of this clause in Rule 2125 is "reading the rules with the
+expressed purpose of finding out what thy mean, and communicating this
+through a well-defined, 'legal', process", rather than merely "offering
+up 'I'd say it can be read to mean this'". This judgement was made in
+light of Rule 478's former explicit protection of freedom of speech, but
+I find that this holding remains good law and is consistent with the
+current Rules.
+
+Rule 2478/24 does not explicitly task the investigator of an infraction
+with interpreting the Rules or even determining whether an infraction
+has occurred at all. Instead, it is deliberately left to be platonically
+determined whether the initial noting succeeded (as noting an infraction
+can only succeed if an infraction has actually occurred). As such, I
+find that, regardless of the comments that G. made during eir
+investigation, e was not "interpreting the rules" for the purpose of
+Rule 2125. Thus, no infraction could have been committed.
+
+Judged FALSE.
+
+
+Judge Janet's Evidence:
+
+CFJ 3403: http://faculty.washington.edu/kerim/nomic/cases/?3403
+
+
+------------------------------------------------------------------------
+Rule 2125/13 (Power=3)
+Regulated Actions
+
+      An action is regulated if: (1) the Rules limit, allow, enable, or
+      permit its performance; (2) the Rules describe the circumstances
+      under which the action would succeed or fail; or (3) the action
+      would, as part of its effect, modify information for which some
+      player is required to be a recordkeepor.
+
+      A Regulated Action CAN only be performed as described by the
+      Rules, and only using the methods explicitly specified in the
+      Rules for performing the given action. The Rules SHALL NOT be
+      interpreted so as to proscribe unregulated actions.
+
+------------------------------------------------------------------------
+Rule 2478/24 (Power=1.7)
+Justice
+
+      An Infraction is a violation of a rule. The person who committed
+      an infraction is its infracter.
+
+      The Investigator for an infraction is the Referee unless e is the
+      infracter. Otherwise, it is the Arbitor.
+
+      The Class of an infraction is 2 unless a rule specifies a
+      different Class for it.
+
+      The Base of an infraction is N, where N is the number of
+      previously-investigated, unforgiven infractions that have been
+      committed by the same person in the last 30 days. The previous
+      notwithstanding, if the base of an infraction would be greater
+      than its class, the infraction's base is equal to its class.
+
+      Within 14 days of an infraction being committed, the Investigator
+      CAN investigate the infraction by announcement, specifying a
+      number of blots between the Base and the Class of the infraction,
+      inclusive. When e does so, that many blots are created in the
+      possession of the infracter.
+
+      The previous notwithstanding, an Investigator CANNOT investigate
+      an infraction that has already been investigated or forgiven. The
+      Investigator of a noted, unforgiven infraction SHALL investigate
+      the infraction in a timely manner after it has been noted;
+      failure to do so is the Class N crime of Favoritism, where N is
+      equal to the Class of the noted infraction.
+
+      A player CAN, by announcement, "note" an unforgiven infraction
+      committed by any other player in the last 7 days, specifying the
+      incident and the rule it violates (or name of the Infraction if
+      it has one).
+
+      The Referee's weekly report contains a list of noted and
+      investigated Infractions committed in the previous week.
+
+------------------------------------------------------------------------
 
 ==========================================================================
