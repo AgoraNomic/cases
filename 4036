@@ -1,0 +1,95 @@
+===============================  CFJ 4036  ===============================
+
+      In the context of Commune, tile G6 is not empty, but belongs to no
+      community.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         snail
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 28 May 2023 23:25:13
+Assigned to snail:                                04 Jun 2023 13:27:43
+
+==========================================================================
+
+[Linked to CFJ 4037]
+
+Caller's Evidence: 
+
+This week, I placed a tile at G6. It was adjacent to two
+communities, Jade (with four tiles) at G7, and Emerald (with fewer than
+four tiles) at F6. Emerald was thus merged into Jade.
+
+The relevant part of the tournament regulations is:
+{{{
+   If a tile has not been placed on a location on the board, it is
+   empty.
+
+   Participants CAN place a tile on an empty location by paying one
+   letter token and one number token that correspond to that
+   location's coordinates.
+
+   If a tile is placed that is not adjacent to any tiles belonging to
+   any communities, the player that placed it founds a new community,
+   e is granted 1 investment for that community, and e becomes its
+   founder. E CAN and SHOULD name the community after any color that
+   starts with a different first letter than any existing community
+   by announcement. If a community has not been named, the Surveyor
+   CAN and SHALL do so by announcement.
+
+   A player who is the founder of an existing community CANNOT place
+   a tile that would found a new community.
+
+   If a tile is placed adjacent to one or more tiles belonging to a
+   single community, that tile belongs to that community.
+
+   If a tile is placed adjacent to two or more tiles belongining to
+   different communities, a merger happens.
+
+   When a merger happens, if a single community involved in the
+   merger has more tiles than each other community, that community is
+   the acquiring community. If there is a tie, the tied community
+   that gained a tile least recently is the acquiring community. The
+   other communities are the acquired communities. All tiles
+   belonging to the acquired communities cease to belong to them and
+   begin to belong to the acquiring community.  Each player gains X
+   (rounded down) Accolades for each acquired community e had an
+   investment in, where X is the total tiles that belonged to that
+   community immediately before the merger divided by the total
+   number of investments that exist for that community and times the
+   number of investments for that community that player owns. The
+   acquired communities and all investments in all acquired
+   communities are destroyed.
+}}}
+
+
+Caller's Arguments:
+
+The intention behind the tournament regulations is probably that, if a
+player places a tile to merge two or more communities into a single
+community, the tile that was placed becomes part of the new merged
+community.
+
+However, I can't find anything in the tournament regulations that
+states that a tile placed to cause a merger becomes part of any
+community. Does this imply that the tile is non-empty, but not part of
+the resulting merged community? (This doesn't break much, but causes
+scores to be slightly lower.) The first CFJ is TRUE in that case, or
+FALSE if G6 is part of Jade.
+
+I also note that the tournament regulations don't explicitly state that
+founding a new community by placing a tile not adjacent to any existing
+communities causes the placed tile to become part of the community
+founded that way. It seems plausible that such tiles would be part of
+no community, although that would completely break the tournament (both
+because there would be no way to score and because most of the moves
+that have happened so far would be illegal). The second CFJ is checking
+for the possibility that this has happened.
+
+==========================================================================

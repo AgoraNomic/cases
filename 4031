@@ -7,6 +7,7 @@
 Caller:                        4st
 
 Judge:                         ais523
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -14,6 +15,7 @@ History:
 
 Called by 4st:                                    18 May 2023 19:43:07
 Assigned to ais523:                               21 May 2023 14:07:37
+Judged FALSE by ais523:                           21 May 2023 16:38:25
 
 ==========================================================================
 
@@ -123,5 +125,68 @@ On Tue, 2023-05-16 at 15:21 -0500, nix via agora-official wrote:
 Marvy is a patent title that's currently in use. I suspect that this
 has no impact on rule 2029 for much the same reason that a player named
 "Marvy" wouldn't, but it feels like a relevant data point.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+I judge CFJ 4031 FALSE. There are many independent ways to reach the
+same conclusion:
+
+First, "Marvy" is undefined by the rules right now. There's some doubt
+as to whether the precedents of CFJs 1881 and CFJ 2585 were correct in
+assuming that "Marvy" would have the definition that it had when rule
+2029 was created, because there doesn't seem to be a rule stating that
+high-powered rules should use the definitions at the time of their
+creation. If we take the precedents as applying, "Marvy" is undefined
+by the rules because the current rules don't have a Caste-like
+mechanism that would enable the old definition to be used (which is
+what CFJ 1881 found). If we take them as not applying, "Marvy" is
+simply just undefined by the rules in general.
+
+Although there is a patent title "Marvy", this has no impact in
+interpreting the rules, because neither rule 649 nor any other rule
+suggests that patent titles are used as rules interpretation guidance.
+
+Rule 2029 therefore probably has to be interpreted with the common
+English-language definition of "marvy" (e.g.
+https://en.wiktionary.org/wiki/marvy), which is vague enough that it
+can't be interpreted as applying to any particular set of Agoran
+players. It seems plausible that this definition could be clarified by
+a low-powered rule into having some specific Agoran-related meaning
+that's close to the common definition (as rule 217 requires), but no
+rule is currently making such an attempt. Therefore, there don't appear
+to currently be any players who are sufficiently unambiguously marvy to
+end up incurring an obligation under rule 2029.
+
+Second, the instruction in rule 2029 is to "always Dance a Powerful
+Dance". Although rule 2680 defines a mechanism to "raise the First
+Speaker in a powerful dance around the Town Fountain", this is an
+instantaneous action that occurs at a single point in time, not
+something that you can continuously do. As such, even with the dubious
+assumption that the rule 2680 mechanism satisfies the rule 2029
+requirement (which is probably incorrect due to rule 217), the "always"
+has to be read along the lines of "whenever possible" rather than
+"continuously" in order to cause there to be any interaction between
+the rules. And of course, repealing the mechanism for dancing doesn't
+prevent players doing it whenever it's possible; it changes the number
+of occasions on which it's possible, but that's it.
+
+Third, changing the rules so that a particular obligation is impossible
+to comply with is not on its own a rule violation. (And even if it were
+illegal to enact such a proposal, creating a proposal that would be
+illegal to enact is not a rules violation, although it might cause some
+problems for the Assessor if the resulting decision gained enough votes
+to adopt.) There has been, in the past, at least one proposal for which
+the proposer thought it might be illegal to enact (it turned out not to
+be, but that was unclear at the time): see CFJ 3957. However, in that
+situation, the playerbase at the time considered it sufficiently
+obvious that it was not illegal to *create* the proposal that this
+didn't even get CFJed on (and the caller's arguments of the CFJ stated
+that the creation of the proposal was legal, with nobody contradicting
+that, although of course that isn't part of the judgement).
+
+Any of the three reasons above would be enough on its own to judge this
+CFJ FALSE. As such, I judge CFJ 4031 FALSE.
 
 ==========================================================================

@@ -1,0 +1,75 @@
+===============================  CFJ 4034  ===============================
+
+      G. has withdrawn consent from the Rice Plan in evidence, so that
+      plan currently does not have G's signature.
+
+==========================================================================
+
+Caller:                        G.
+
+Judge:                         ais523
+
+==========================================================================
+
+History:
+
+Called by G.:                                     27 May 2023 17:16:28
+Assigned to ais523:                               04 Jun 2023 13:25:34
+
+==========================================================================
+
+Caller's Evidence:
+
+G wrote:
+> On Mon, May 22, 2023 at 12:21=E2=80=AFPM juan wrote:
+>>
+>> I create the following Rice Plan:
+>>
+>> {
+>> Up Rice: {Aspen, G., Janet, Murphy, ais523, cuddlybanana, juan}
+>> Down Rice: {4st, beokirby, blob, iWright, nix, snail, Yachay}
+>> }
+>>
+>> and consent to having my signature put in it.
+>
+> I consent to the above Rice Plan (to having my signature on it).
+>
+> If the Riemann Hypothesis is true, I withdraw my consent from the
+> above Rice Plan.
+
+Caller's Arguments:
+
+Granting consent in most cases is described in Rule 2519/2, and CFJ
+4013 recently found that, even without that rule, the general concept
+of "giving consent" requires positive evidence of consent, and neither
+silence nor ambiguity should be inferred as granting consent.
+
+However, *withdrawing* consent is another matter.  In particular, you
+CANNOT withdraw consent from a contract without the unanimous
+agreement of parties or unless the contract text itself explicitly
+allows it.  Otherwise, the contract wouldn't be a "binding" agreement,
+by the basic definition of "binding".
+
+Rule 2682/0 contains this clause:
+>     Rice Plans can have
+>      Signatures, and each Signature must be of an active player. A Rice
+>      Plan has an active player's Signature as long as that player is
+>      consenting to it.
+
+This *anticipates* that consent could be withdrawn from Rice Plans,
+but provides no mechanism for doing so.  My belief is that this is
+regulated (the Ricemastor tracks signatures) so it is currently
+IMPOSSIBLE to withdraw consent.  However, in the event that the above
+rules text enables the "natural" withdrawal of consent by various
+means, there is no standard of communication to be inferred, no "good
+of the game" reason to allow for consent withdrawal, and no "good of
+the game" reason to decide that the burden of proof is for or against
+withdrawal succeeding.  So it could quite easily lead to PARADOXICAL
+if my conditional above is indeterminate.
+
+Another possibility is that by making a "consent withdrawal" as a
+paradoxical statement, is is no longer clear from context as per R2519
+that consent exists, which effectively removes it (therefore a withdrawal
+attempt that is paradoxical still results in withdrawal).
+
+==========================================================================

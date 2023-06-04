@@ -1,0 +1,50 @@
+===============================  CFJ 4039  ===============================
+
+      I currently own the recursion stone.
+
+==========================================================================
+
+Caller:                        snail
+
+Judge:                         Murphy
+
+==========================================================================
+
+History:
+
+Called by snail:                                  01 Jun 2023 21:16:54
+Assigned to Murphy:                               04 Jun 2023 13:29:32
+
+==========================================================================
+
+Caller's Evidence:
+
+snail wrote:
+> I wield the radiance stone. (This increases my radiance by 3.)
+> I reach for the Minty stone.
+> I wield the recursion stone as the soul stone, specifying the
+> anti-equatorial stone.
+> I wield the anti-equatorial stone. (This transfers the power stone to me.)
+
+      - Recursion Stone (Monthly, 4): The Recursion Stone can be wielded
+        once per month as if it had the power of any other stone of your
+        choice.
+
+      - Soul Stone (weekly, 3): When wielded, the Soul Stone is
+        transferred to the owner of a different specified non-immune
+        stone not owned by Agora, then that stone is transferred to the
+        wielder.
+
+
+Caller's Arguments:
+
+Using the recursion stone as the soul stone seems to transfer the soul
+stone to the owner of the anti-equatorial stone, as that's what the rule
+says (the power of the soul stone, which is being copied, transfers the
+soul stone, not the recursion stone or perhaps "this stone"). But does it
+actually do that? If so, I own the recursion stone and ais523 now owns the
+soul stone. If not, my recursion stone was transferred to ais523. A real
+thinker, a conundrum, if you will. Will the practical reading prevail? Or
+the technical, textual one?
+
+==========================================================================
