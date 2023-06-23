@@ -1,0 +1,119 @@
+===============================  CFJ 4043  ===============================
+
+      Yachay's 5-22 rice plan was harvested.
+
+==========================================================================
+
+Caller:                        4st
+
+Judge:                         G.
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by 4st:                                    08 Jun 2023 22:08:10
+Assigned to G.:                                   15 Jun 2023 18:09:42
+Judged FALSE by G.:                               20 Jun 2023 18:27:42
+
+==========================================================================
+
+Caller's Arguments:
+
+Arguments FOR: G withdrew their consent (CFJ 4034), and 4st's consent
+didn't work or worked on both, so Yachay's plan was earliest and was tied
+for most signatures, and was thus harvested.
+
+Arguments PARADOX:
+G did not withdraw their consent (CFJ 4034), so 4st's consent results in a
+paradox as eir consent only exists if a plan would not be harvested.
+Yachay's plan would not have enough signatures if it were to be harvested,
+and it would have enough signatures if it wasn't going to be harvested.
+
+G withdrew their consent (CFJ 4034), so 4st's consent results in a paradox
+as eir consent only exists if a plan would not be harvested, thus Yachay's
+plan would now have enough signatures, and juan's plan would be tied for
+first.
+
+Arguments AGAINST: G did not withdraw eir consent, and 4st's consent either
+didn't work or worked on both, so juan's plan was harvested.
+
+--------------------------------------------------------------------------
+
+Judge G.'s Arguments:
+
+First, I've reviewed the Ricekeepor's report published here:
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2023-June/017142.html
+
+and in particular the Rice Plans and signatures for the Harvest Week
+of 5-28 (see evidence below), and noticed no factual errors.  CFJ 4032
+found that rice plan consent generally functioned (unter the first
+version of the rule) as one might expect, and CFJ 4034 found that G.
+consented to Juan's Rice Plan but did not withdraw consent.  So the
+final question is interpretation of this announcement by 4st:
+
+> I consent to all rice plans that will not be harvested.
+
+In general, indirect specification of entities or sets (like "I do
+this for all X that meet conditions Y") are subject to the same
+standards of communication as conditional actions - the specification
+of the set must be determinate at the time of communication, otherwise
+the communication simply fails to communicate and does nothing.  The
+specification that 4st used was clear future tense - it didn't say "I
+consent to all plans that are currently not ahead" but "I consent to
+all plans that will in the future not be ahead".  Future information
+such as this is indeterminate, so there was no reasonably clear
+consent to sign any plan at the time that message was sent.
+
+Now, it's *possible* that the Rice rule allowed a kind of continual
+evaluation of this statement, such that some plan was signed by 4st
+whenever that statement became determinate.  For various reasons I
+don't think that forward continual evaluation works, but even if it
+*did* work, it fails here.  Because there's no time when "will not be
+harvested" is actually resolvable.  Up to the instant of the
+beginning-of-week deadline, the "will be harvested" is indeterminate,
+so consent is not reasonably clear.  At the instant the deadline
+passes though, the rice plans platonically become "harvested" or "not
+harvested". So there is no actual instant in between where "will be
+harvested" becomes determinate, and 4sts set of "rice plans that will
+not be harvested" is never sufficiently determine to express consent
+for any plan.
+
+Therefore, Juan's rice plan was harvested, not Yachay's.  I find FALSE.
+
+
+Judge G.'s Evidence
+
+RICE PLANS
+==========
+Section 1: Harvest of Week 5-28
+----
+Created: 2023-05-28 by snail
+Up: {active players at time of creation}
+Down: {}
+Signatures: beokirby, snail, Janet, 4st
+----
+Created: 2023-05-27 by G.
+Up: {G., Janet}
+Down: {4st}
+Signatures: G., Janet, 4st
+----
+Created: 2023-05-26 by Janet
+Up: {}
+Down: {}
+Signatures: Janet, ais523, 4st
+----
+Created: 2023-05-22 by juan
+Up: {Aspen, G., Janet, Murphy, ais523, cuddlybanana, juan}
+Down: {4st, beokirby, blob, iWright, nix, snail, Yachay}
+Signatures: ais523, juan, (G, if G hasn't withdrawn eir signature), Janet,
+(4st, if this plan will not be harvested)
+----
+Created: 2023-05-22 by Yachay
+Up:  {4st, beokirby, blob, inalienableWright, nix, snail, Yachay}
+Down: {Aspen, ais523, cuddlybanana, G., Janet, juan, Murphy}
+Signatures: Yachay, beokirby, snail, (4st, if this plan will not be
+harvested)
+
+==========================================================================

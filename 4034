@@ -8,6 +8,7 @@
 Caller:                        G.
 
 Judge:                         ais523
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by G.:                                     27 May 2023 17:16:28
 Assigned to ais523:                               04 Jun 2023 13:25:34
+Judged FALSE by ais523:                           05 Jun 2023 00:04:21
 
 ==========================================================================
 
@@ -71,5 +73,88 @@ Another possibility is that by making a "consent withdrawal" as a
 paradoxical statement, is is no longer clear from context as per R2519
 that consent exists, which effectively removes it (therefore a withdrawal
 attempt that is paradoxical still results in withdrawal).
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+This CFJ hinges around what "consent" means, from the point of view of
+rule 2682.
+
+There are two main possible meanings that we could use. One is the rule
+2519 definition of consent, which defines what it means to consent to
+an action. The other is that it reflects some notion of "natural
+consent", which is a state of mind that players can change their mind
+about at any time (in this viewpoint, rule 2519 does not apply because
+the consent is to something other than an action).
+
+First, let's see what would happen under the rule 2519 definition. In
+this case, the sort of revocation in question would be effective only
+if G. had "publicly withdrawn eir statement", which rule 478 defines as
+the withdrawal of eir statement "within a public message". Rule 478
+requires actions by announcement to be clear and unambiguous, but this
+is not an action by announcement, and thus a rule 2519 withdrawal of
+consent can be done by any means that can be reasonably implied from
+the body of the message. In order to do that, the message would have to
+indicate that G. desired to withdraw eir consent: it could either do
+that by explicitly stating it (in the style of an action by
+announcement), or else by clarifyng G.'s mental state. But the message
+fails to accomplish the former (it has a conditional that cannot
+reasonably be evaluated and thus fails to state that the action is
+being performed), and in the case of the latter, the rule 2519
+definition basically collapses down to the "natural consent"
+definition. (Note: rule 2519 should probably be fixed to explicitly
+make withdrawal of consent an action by announcement.)
+
+So what matters here is either a) whether G.'s actual state of mind is
+that e consents to the rice plan in question, or b) whether G.'s
+message indicates that eir actual state of mind is that e consents to
+the rice plan in question. With the actual message in question, G.
+appears to wish eir consent to be ambiguous or impossible to determine;
+this is a situation that already has precedent. CFJ 2980 found that a
+message that "unambiguously indicates that [a player] is trying to
+ambiguously register" is sufficient to indicate eir intent to be a
+player. (This judgement makes sense to me: after all, if e wanted to
+avoid the possibility of becoming a player and being bound to the
+rules, e'd have been unlikely to make an ambiguous registration
+attempt; and this is a very similar situation to the "natural" meaning
+of consent, so there's no reason to expect it to be resolved
+differently.)
+
+It's also worth noting that G. explicitly stated in eir message that e
+consented to the Rice Plan – the subsequent withdrawal was sent in the
+same message. Although Agora assumes that multiple actions listed in
+the same message happen one after another, this isn't something that
+can be true of a player's state of mind, because the entire message is
+sent at a single point in time; if the player had changed eir mind and
+no longer consented, e would just not send the email, or edit it before
+sending. As such, the first statement ("I consent to the above Rice
+Plan") would be a violation of No Faking if G. did in fact not consent
+to the Rice Plan in question. This is further evidence from the message
+that G. does actually (in terms of mental state) consent to the rice
+plan; and if the message implies that G. is consenting to the plan in
+question, it fails to indicate withdrawal of consent.
+
+I suspect it would make more sense for this sort of "consent by public
+statement" to be made into an actual action by announcement. Under that
+reading, the CFJ is obviously FALSE, because the conditional cannot be
+resolved from publicly known information. The actual standard in the
+rules seems to be somewhat laxer, but it's clearly somewhere between
+"consent is an action / consent withdrawal is an action" and "consent
+withdrawal requires a message that indicates/implies that the player no
+longer consents". As explained above, from the "natural consent" point
+of view, G.'s message indicates that e consents more strongly than it
+indicates that e does not consent, and thus the CFJ would be FALSE
+under that point of view, and all points of view in between.
+
+As such, regardless of how the exact mechanisms of consent are
+interpreted, this CFJ finds that G.'s message failed to withdraw
+consent. As such, it does not matter for the purpose of this CFJ what
+the effect of withdrawing consent on a rice plan would have on that
+rice plan's signatures: the CFJ is basically a logical "and" between
+two different statements, the first of which is false, and thus there's
+no immediate need to rule on the second.
+
+I judge CFJ 4034 FALSE.
 
 ==========================================================================

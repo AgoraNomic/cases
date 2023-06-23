@@ -8,6 +8,7 @@
 Caller:                        ais523
 
 Judge:                         snail
+Judgement:                     FALSE
 
 ==========================================================================
 
@@ -15,6 +16,7 @@ History:
 
 Called by ais523:                                 28 May 2023 23:25:13
 Assigned to snail:                                04 Jun 2023 13:28:17
+Judged FALSE by snail:                            13 Jun 2023 03:07:17
 
 ==========================================================================
 
@@ -68,6 +70,30 @@ The relevant part of the tournament regulations is:
    communities are destroyed.
 }}}
 
+--------------------------------------------------------------------------
+
+Judge snail's Arguments:
+
+Unfortunately, I see nowhere stating in these regulations that a tile
+begins belonging to a community at any point except when placed next to a
+tile already in a community. When a player places their first tile, all
+that happens is they found a new community, get an investment in it, and
+become its founder. I don't see any text that says otherwise, so sadly, the
+tournament is broken.
+
+I judge CFJ 4037 FALSE, and recommend some sort of proposal to fix the
+tournament.
+
+I also judge CFJ 4036 FALSE, ("In the context of Commune, tile G6 is not
+empty, but belongs to no community.") as the tile is in fact empty, since
+ais523 already founded a community, which was not destroyed.
+
+I will note for future reference that "If a tile is placed adjacent to one
+or more tiles belonging to a single community, that tile belongs to that
+community." can still apply in a merger, which, if CFJ 4037 was true, would
+mean the tournament works as intended. The tile would belong to each
+community involved, and then since the acquired communities are destroyed,
+only belong to the acquiring community.
 
 Caller's Arguments:
 

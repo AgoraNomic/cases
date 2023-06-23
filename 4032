@@ -6,7 +6,8 @@
 
 Caller:                        Yachay
 
-Judge:                         4st
+Judge:                         ais523
+Judgement:                     TRUE
 
 ==========================================================================
 
@@ -16,11 +17,391 @@ Called by Yachay:                                 25 May 2023 19:17:23
 Assigned to 4st:                                  25 May 2023 23:36:45
 Judged TRUE by 4st:                               27 May 2023 17:40:02
 Motion to reconsider group-filed:                 28 May 2023 03:15:50
+4st recused:                                      08 Jun 2023 22:59:57
+Assigned to ais523:                               13 Jun 2023 18:42:28
+Judged TRUE by ais523:                            16 Jun 2023 23:56:48
 
 ==========================================================================
 
 Caller's Arguments:
 
 [none provided so far]
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.
+
+This CFJ was called on 25-May-23, when only one Rice Harvest had occurred,
+and Rule 2682/0 was in effect.
+
+The report in question is here:
+
+https://mailman.agoranomic.org/cgi-bin/mailman/private/agora-official/2023-May/017077.html
+
+No factual errors have been noted in this report, in terms of who sent
+messages attempting to either make Rice Plans or to sign rice plans
+either via direct consent or contract.
+
+The question is wholly interpretive, in that all signatures allegedly 
+applied to the Rice Plans were governed by this clause of R2682/0:
+>      A Rice
+>      Plan has an active player's Signature as long as that player is
+>      consenting to it. 
+
+This clause is written passively, without our general standards like
+"CAN sign by announcement" etc.  And R2519/2 covers consent for "actions"
+not continuous states so it's unclear how that applies.
+
+Basically, if signing Rice Plans works as generally intended by the
+rule's author, then this CFJ is true, with the persons with more than
+0 rice indicated in that report. 
+
+Judge 4st initially judged this CFJ and eir original judgement is
+included below, but a Motion to Reconsider was filed for that judgement,
+and 4st was later recused.  The players supporting the motion to
+reconsider generally gave the reason that Judge 4st's arguments called
+"having a signature on a plan" a kind of "continuous action" that
+players were "continually agreeing to" which didn't generally match
+Agoran conceptions of actions as instantaneous events (sorry if this
+is a very coarse summary of the objections).
+ 
+
+------------------------------------------------------------------------
+Rule 2682/0 (Power=1)
+The Rice Game
+
+      The Ricemastor is an office, in charge of tracking Rice, Rice
+      Plans and Signatures. Rice is a fixed asset, ownable only by
+      players. Any active player can create a Rice Plan by announcement,
+      if e hasn't done so yet in the current week. Rice Plans can have
+      Signatures, and each Signature must be of an active player. A Rice
+      Plan has an active player's Signature as long as that player is
+      consenting to it. An active player can destroy a Rice Plan that e
+      has created by announcement.
+      
+      A Harvest occurs at the beginning of each week. When this occurs:
+      - If there is only one Rice Plan with the most Signatures, that
+        Rice Plan is Harvested.
+      - If there is more than one Rice Plan with the most Signatures,
+        the one that was created earliest is Harvested.
+      - In all other cases, nothing happens.
+      And then all Rice Plans are destroyed and the Harvest ends.
+      
+      Rice Plans consist of two lists of players, with each list having
+      no repeated players, and the lists can be empty. One of these
+      lists is its Rice Up list, and the other is its Rice Down list.
+      When a Rice Plan is Harvested, for each player listed in its Rice
+      Up list, if that player is active, e gains 1 Rice; and for each
+      player listed in its Rice Down list, if e has at least 1 Rice then
+      e lose 1 Rice.
+      
+      If after a Harvest there is a single active player with at least 2
+      Rice and more Rice than any other player, then that player wins
+      the game, and all Rice is destroyed. When the game has been won in
+      this manner three times, this rule repeals itself.
+
+------------------------------------------------------------------------
+
+Judge 4st's Arguments:
+
+Evidence:
+Rule 2682/0 (Power=1)
+The Rice Game
+
+      The Ricemastor is an office, in charge of tracking Rice, Rice
+      Plans and Signatures. Rice is a fixed asset, ownable only by
+      players. Any active player can create a Rice Plan by announcement,
+      if e hasn't done so yet in the current week. Rice Plans can have
+      Signatures, and each Signature must be of an active player. A Rice
+      Plan has an active player's Signature as long as that player is
+      consenting to it. An active player can destroy a Rice Plan that e
+      has created by announcement.
+
+      A Harvest occurs at the beginning of each week. When this occurs:
+      - If there is only one Rice Plan with the most Signatures, that
+        Rice Plan is Harvested.
+      - If there is more than one Rice Plan with the most Signatures,
+        the one that was created earliest is Harvested.
+      - In all other cases, nothing happens.
+      And then all Rice Plans are destroyed and the Harvest ends.
+
+      Rice Plans consist of two lists of players, with each list having
+      no repeated players, and the lists can be empty. One of these
+      lists is its Rice Up list, and the other is its Rice Down list.
+      When a Rice Plan is Harvested, for each player listed in its Rice
+      Up list, if that player is active, e gains 1 Rice; and for each
+      player listed in its Rice Down list, if e has at least 1 Rice then
+      e lose 1 Rice.
+
+      If after a Harvest there is a single active player with at least 2
+      Rice and more Rice than any other player, then that player wins
+      the game, and all Rice is destroyed. When the game has been won in
+      this manner three times, this rule repeals itself.
+Rule 2519/2 (Power=3)
+Consent
+
+      A person is deemed to have consented to an action if and only if,
+      at the time the action took place:
+
+      1. e, acting as emself, has publicly stated that e agrees to the
+         action and not subsequently publicly withdrawn eir statement;
+      2. e is party to a contract whose body explicitly and
+          unambiguously indicates eir consent;
+      3. the action is taken as part of a promise which e created; or
+      4. it is reasonably clear from context that e wanted the action to
+         take place or assented to it taking place.
+Rule 2125/13 (Power=3)
+Regulated Actions
+
+      An action is regulated if: (1) the Rules limit, allow, enable, or
+      permit its performance; (2) the Rules describe the circumstances
+      under which the action would succeed or fail; or (3) the action
+      would, as part of its effect, modify information for which some
+      player is required to be a recordkeepor.
+
+      A Regulated Action CAN only be performed as described by the
+      Rules, and only using the methods explicitly specified in the
+      Rules for performing the given action. The Rules SHALL NOT be
+      interpreted so as to proscribe unregulated actions.
+
+This judgement was called due to this sentence:
+"A Rice Plan has an active player's Signature as long as that player is
+consenting to it."
+
+Specifically: whether that sentence allows players to consent to rice plans.
+
+So firstly, let's go over "consent". Consent, in natural language and in
+Agora, is undefined when applied to things that are not actions. In natural
+language, we don't consent to contracts: we consent to things the contract
+will do. We don't consent to sex, we consent to the act of sex, and
+specifically, we consent to particular actions of it. So, just to be
+perfectly and absolutely clear and unambiguous: consenting to non-actions
+is undefined and unreasonable to assume, firstly based on Agoran lack of
+definition, and secondly based on natural language lack of definition.
+
+So: this sentence is written poorly based on current Agoran culture and
+tradition. There are three primary ways to read this sentence atomically.
+The first is that the "it" in the sentence refers to "that rice plan". A
+rice plan is not an action. Thus, it makes no sense to be consenting to a
+non-action, and this is unreasonable to assume.
+
+The second is that the "it" in the sentence refers to "that rice plan has
+that player's Signature." However, this is a state of something: how can we
+consent to a state of affairs? However, similar to previous examples, we
+DON'T consent to states of affairs: we don't consent to whether sex
+happened, but rather, whether it is going to happen, and we don't consent
+to contracts, but rather what the contract will do.
+
+Thus, we reach that third interpretation: we are consenting to that rice
+plan obtaining or not obtaining your signature. You consent to the change,
+the action that occurs, or you reaffirm consent that inaction is
+acceptable: that no change is acceptable. (It is not strictly necessary to
+reaffirm consent to Inaction, but you can say no or yes to something many
+times if you'd like to get your point across. Note that inaction can be
+interpreted as an action in of itself. EG this is how tardiness works: we
+don't apply the blots to Time, we apply the blots to the player.)
+
+Since players are consenting to actions, I should clarify: what does it
+mean to say "I consent to this rice plan."? This is shorthand for the
+action: much like "I consent to this contract" and "I consent to sex".
+Again, it is unreasonable to assume consent to a non-action.
+
+Now: with regard to "is consenting to it". This is the final nail we should
+hammer down. What does it mean to be consenting to something? In R2519,
+consent is treated like an action in clauses 1 through 3. However, in
+clause 4, we see some of the natural language definitions appear. This
+makes consent work in most reasonable situations if it could otherwise not
+work. However, most of the consent presented for rice plans currently falls
+under clause 1: we publicly agree to rice plans. If there's any concern
+about whether we have consented to rice plans, then we can also apply
+clause 4: it has been reasonably clear that we assented to said rice plans.
+
+The full process goes like this for consenting to rice plans, and the
+signatures being applied:
+1. A player consents to a rice plan.
+2. The signature is added to the rice plan, as the player consented to this
+step in 1.
+3. That player does nothing with regard to that rice plan.
+4. The player is already consenting to that rice plan having that signature
+(under clause 4 of R2519), so the signature is not removed. If for some
+reason, the signature was removed, then the signature would be added back
+to the rice plan, as the player has already indicated reasonably and
+clearly that e would like that to occur (again, clause 4 of R2519).
+5. That player consents to that rice plan (again).
+6. If for some reason, the signature was removed, then the signature is
+added to the rice plan, otherwise, the rice plan already has the signature
+and no change to consent to occurs, and this is fine. The player has now
+indicated reasonably and clearly that e'd like the signature to be added, a
+second time, and this violates no rules.
+(similar steps occur for withdrawal of consent.)
+
+Finally, to close this case: in general, as a point of law, clear public
+attempts to consent work. The Ricemaster Report is reasonable evidence for
+who tried to consent, and since I'm [for independent logical reasons]
+judging that clear attempts work, we can assume the ones in the report
+worked.
+
+THUS, I judge the CFJ to be true.
+
+--------------------------------------------------------------------------
+
+Judge ais523's Arguments:
+
+The main question at issue in this CFJ is how to interpret "A Rice Plan
+has an active player's Signature as long as that player is consenting
+to it".
+
+The first thing to note is that the use of "as long as" means that this
+is clearly a continuously evaluated condition; there's no wiggle room
+or ambiguity in that wording, and no need to apply rule 217 tests. In
+other words, this part of the rule is creating a definition: in rule
+text that rule 2682 is sufficiently powerful to define the meaning of,
+"a Rice Plan has X's signature" is a synonym for "X is consenting to
+{the Rice Plan / the Rice Plan being signed}". There is some doubt
+about whether the thing being consented to is the Rice Plan itself, or
+the status of the Rice Plan being signed, which will be covered later
+in this CFJ judgement.
+
+In Agora, consent is normally given in terms of consenting to an
+action. However, the concept of consent is a concept that's meaningful
+for states rather than actions. (A real-world example is that you can
+"consent to have your data stored by [a particular company]"; the
+initial storing of the data is action-like, but what makes this a state
+is that (in some jurisdications) if you withdraw your consent, the
+company then has to delete the data, and thus consent is continuously
+required for the data to be stored.) The plain language of the rule is
+that in the context of Rice Plans, consent is being evaluated as a
+state rather than as an action, so it's necessary to interpret what it
+means at Agora to consent to a state.
+
+Rule 2519 gives a definition of "consent" as it applies to actions.
+This definition does not directly apply to consenting to a state,
+meaning that the rule 217 tests apply (the text is "silent", in the
+language of rule 217). It seems clear that the relevant definition
+should either be a) the natural-language definition of "consent" or b)
+the rule 2519 definition adapted to apply to states rather than
+actions. These possible definitions are hardly in conflict, in this
+case: the rule 2519 definition is pretty close to a natural-language
+definition of consent as it is:
+
+>   A person is deemed to have consented to an action if and only if,
+>   at the time the action took place:
+>   
+>   1. e, acting as emself, has publicly stated that e agrees to the
+>      action and not subsequently publicly withdrawn eir statement;
+This definition can be applied equally well to actions and to states,
+and is compatible with the natural-language definition in the case
+where the player is telling the truth in their speech actions. Rule 217
+strongly comes down on the side of "assume that a player's granting /
+withdrawal of consent via public statement is truthful": we need to
+have some sort of concrete evidence of consent / its withdrawal in
+order to make the game playable (speaking to "the best interests of the
+game" and "common sense" factors), and it is already against the rules
+to lie in a public message, with game custom being that public messages
+are the standard way to inform players about a fact and have the game
+take notice (thus the "under penalty of No Faking" that is sometimes
+seen when a fact that wasn't previously relevant to the game is needed
+to, e.g., resolve a CFJ). Thus, the rule 217 tests conclude that we
+should probably apply this one to states in addition to actions.
+
+>   2. e is party to a contract whose body explicitly and
+>      unambiguously indicates eir consent;
+This one is a little trickier: it expresses the principle that the
+binding nature of contracts takes precedence over attempts to withdraw
+consent, something that isn't obvious from the natural-language
+meaning. As such, there's some scope for interpretation available as to
+whether this overriding happens *in general* or whether it happens
+*specifically for actions rather than states*. However, the two
+possibilities are not at odds with each other in the case of a contract
+that can be freely amended (e.g. a contract, as opposed to a pledge,
+that has only one party); such contracts effectively serve as a record
+of consent that can be revoked at any time.
+
+It is not necessary to judge this CFJ to worry about what would happen
+if a player were bound, by unamendable contract e could not escape
+from, to consent to a Rice Plan that e did not want to consent to; that
+would only be relevant if an attempt of that form affected whether a
+rice-yielding or non-rice-yielding Rice Plan were harvested, a
+situation which doesn't seem to have occurred here. The normal case, in
+which a contract serves as a record of consent, clearly works under
+both the rules-based and natural definitions.
+
+>   3. the action is taken as part of a promise which e created; or
+This one isn't relevant in the case of Rice: the Harvest occurs
+automatically/platonically, and Promise cashing happens
+instantaneously, so there's no way that a promise could be performing
+an action at the time of the Harvest.
+
+>   4. it is reasonably clear from context that e wanted the action to
+>      take place or assented to it taking place.
+This one is basically stating that consent from the natural-language
+point of view can be treated as consent from the Agoran point of view,
+if there's evidence of it. The reasoning here is analogous to that from
+definition 1.
+
+As such, the vast majority of the potential ambiguity turns out to be
+inconsequential; common sense and the best interests of the game
+dictate that we should have some clear way to determine whether players
+are consenting to a Rice Plan or not, such a method should logically be
+the natural-language definition of "consent" modified to be based
+purely on evidence that's observable to Agora, and that is pretty much
+what the rule 2519 definition is. Even if rule 2519 didn't exist, the
+resulting definition of "consent" for Agoran purposes would be pretty
+much what rule 2519 says anyway, and thus when checking consent to a
+Rice Plan, we effectively let those definitions guide us. (The only
+potential ambiguity is as to what happens if a player attempts to
+withdraw consent when a contract is forcing em to consent, but that
+situation is not at issue in this CFJ.)
+
+Does it matter whether a player consents to a Rice Plan, to the
+harvesting of the Rice Plan, or to the signature of the Rice Plan? The
+preceding discussion implies that it doesn't, because both the natural-
+language definition and rule 2519 item 4 imply that what is important
+is making it clear from context that the consent exists, rather than
+using the exact correct sequence of words; there's only one context in
+which Rice Plan consent is relevant, and thus making it clear that
+you're trying to consent to that Rice Plan being selected for the
+Harvest is all that's required for the rules to consider the consent to
+exist.
+
+Based on this reasoning, snail's Rice Plan was the plan harvested on 22
+May 2023 (the only occasion on which a Rice Plan could be harvested
+prior to the calling of this CFJ). It had at least three players
+consent to it (the below-quoted messages each apply to the plan in
+question):
+
+On Thu, 2023-05-18 at 23:51 -0500, secretsnail9 via agora-business
+wrote:
+> I create the following contract:
+> {
+> Parties to this contract consent to all Rice Plans with snail in the
+> Rice Up list.
+> }
+
+On Fri, 2023-05-19 at 09:23 +0200, Yachay Wayllukuq via agora-business
+wrote:
+> I consent to that Rice Plan having my Signature.
+
+On Fri, 2023-05-19 at 13:19 -0400, Beokirby via agora-business wrote:
+> I create and become party to the following contract:
+> {
+> Parties to this contract consent to be signatories to all Rice Plans
+> with beokirby in the Rice Up list
+> }
+
+There was only one other Rice Plan that could have received three or
+more Signatures, juan's. That plan was unambiguously signed by juan,
+Janet, and me. There was one potentially ambiguous signature, by 4st;
+however, that ambiguity applies equally to both juan's plan and snail's
+plan (4st either signed both, or neither). As such, it is unambiguous
+that snail's plan had at least as many signatures as every other Rice
+Plan, at the time of the relevant Harvesting; and it was submitted
+earlier than juan's, thus would beat it on a tiebreak.
+
+Because snail's plan caused at least one player to gain Rice when
+harvested, there were indeed persons who (at the time CFJ 4032 was
+called) had more than 0 Rice.
+
+I judge CFJ 4032 TRUE.
 
 ==========================================================================
