@@ -1,0 +1,148 @@
+===============================  CFJ 4045  ===============================
+
+      Juan, the Absurdor, violated rule 2683.
+
+==========================================================================
+
+Caller:                        4st
+Barred:                        Juan
+
+Judge:                         Murphy
+Judgement:                     FALSE
+
+==========================================================================
+
+History:
+
+Called by 4st:                                    08 Jul 2023 02:27:21
+Assigned to Murphy:                               14 Jul 2023 18:01:37
+Judged FALSE by Murphy:                           16 Jul 2023 20:42:05
+
+==========================================================================
+
+Caller's Evidence:
+
+Rule 2683 was violated, as the last time the boulder was pushed was June
+23rd by 4st.
+
+Rule 2683/0 (Power=0.5)
+The Boulder
+
+      The Absurdor is an office.
+      
+      The Boulder's Height is a singleton integer switch defaulting to
+      0, tracked by the Absurdor.
+      
+      Each player CAN, once a week, by announcement, push the boulder.
+      When a player pushes the Boulder, its Height is increased by 1.
+      Players are ENCOURAGED to do so. The Boulder MUST be pushed at
+      least once a week.
+      
+      If at any point the height of the Boulder is 100 or more, it is
+      set to 0.
+
+
+Caller's Arguments:
+
+Arguments JUAN: Juan, the Absurdor, has an implied responsibility to push
+the boulder, as e has the office responsible for tracking it, and has the
+power to push the boulder on any given week.
+
+Arguments 4ST: 4st, as the last and only pusher of the boulder, should have
+continued to push the boulder, as by volunteering the first time, has an
+implied responsibility to continue to do it.
+
+Arguments EVERYONE: As anyone CAN push the boulder, it is everyone's
+implied responsibility, and so, everyone violated rule 2683, because
+everyone has the responsibility to push the boulder.
+
+Arguments RULESET: Alternatively, since there is no one assigned to the
+responsibility specifically, the ruleset violated the rule, and thus, the
+infraction has no infracter. (I believe this is the precedent, but it
+doesn't hurt to check)
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by Janet:
+
+Arguments for JUAN, 4ST, EVERYONE:  
+  CFJ 3730 clearly suggests a judgement of FALSE.
+
+Arguments for RULESET: 
+  IRRELEVANT. No punishment can be imposed in any case.
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by ais523:
+
+I believe in this case it is the boulder that has violated
+the rules, by not being pushed. (As far as I can tell, this viewpoint
+is not inconsistent with CFJ 3730.) In CFJ 3141, the judge found that a
+sentence fragment "judges SHALL NOT be assigned to any judicial case"
+meant that the judge would have violated a rule by being assigned (as
+opposed to the person doing the assignment). This situation has
+comparable wording.
+
+Anyway, CFJ 3730 is a direct enough precedent that I think the first
+three CFJs could appropriately be judged IRRELEVANT, on the basis that
+they can be trivially determined from the outcome of another judicial
+case; there doesn't seem to be anything different this time compared to
+last time we tried this (something which IIRC was pointed out during
+the voting period).
+
+--------------------------------------------------------------------------
+
+Gratuitous Arguments by G.:
+
+(specific response to ais523's gratuitous arguments):
+
+Even if the judge agrees with the principles and logic of CFJ 3730,
+there's some rule text changes to consider.  The judgement quotes a
+clause of Rule 2531/4 in effect at the time of that judgement:
+
+> Any attempt to levy a fine is INEFFECTIVE if:
+> (reasons)
+
+That text has been replaced with this in R2531/16:
+
+> An infraction is automatically forgiven if:
+> (reasons)
+
+The "reasons" in R2531/4 mixed the concepts of "not a rules violation
+based on facts" and "technically a rules violation but excused from
+penalties" so it was the appropriate citation at the time; currently,
+"not a rules violation based on facts" is a platonic effect of Rule
+2478 and R2531/16 is only relevant for forgiving an established rules
+violation.  If the judge agrees with the overall logic of CFJ 3730, I
+think this is a minor rules citation issue, but it's probably
+different enough to reaffirm FALSE and cite R2478 as the new governing
+rule, or do a little due diligence on whether the new rules text
+functions as expected, rather than dismiss this as wholly irrelevant.
+
+--------------------------------------------------------------------------
+
+Judge Murphy's Arguments:
+
+The form of the passive-voice MUST in this case ("The Boulder MUST be 
+pushed at least once a week") is the same as in CFJ 3730 ("The Ritual
+MUST be performed at least once in every Agoran week"). I accept G.'s
+gratuitous arguments; the core of the judge's arguments in CFJ 3730
+still apply:
+
+ > In sum, although in this instance the individual and collective
+ > "inaction" of the players did *cause* a rule violation, that inaction
+ > was not itself directly prohibited by the Rules.
+
+Put another way, while /collective/ failing to perform the described
+action did indeed violate the rules as defined by R2152, no one player's
+/individual/ failure did so on its own. (If there was only one player at
+the time, then that may have been different, but that wasn't the case
+for CFJ 3730 and it wasn't the case here either.)
+
+The clause that cares about this finding ("not a rules violation based
+on facts") has since been moved from R2531 to R2478, but the overall
+effect is the same.
+
+For each of these CFJs, I judge FALSE.
+
+==========================================================================

@@ -1,0 +1,75 @@
+===============================  CFJ 4049  ===============================
+
+      In the above-quoted message, G. noted an infraction.
+
+==========================================================================
+
+Caller:                        ais523
+
+Judge:                         snail
+Judgement:                     TRUE
+
+==========================================================================
+
+History:
+
+Called by ais523:                                 04 Aug 2023 23:39:05
+Assigned to snail:                                11 Aug 2023 22:53:41
+Judged TRUE by snail:                             12 Aug 2023 02:58:15
+
+==========================================================================
+
+Caller's Evidence:
+
+On Fri, 2023-08-04 at 10:55 -0700, Kerim Aydin via agora-business
+wrote:
+> You didn't out yourself, and it was noticed - I checked the ADoP
+> report a couple days ago but didn't sit down to do duties until
+> today.
+>
+> H. Referee, I note that 4st violated R2143 (infraction: tardiness) by
+> failing to publish a Herald's Weekly Report last week.
+
+
+This excerpt from rule 2478:
+{{{
+      A player CAN, by announcement, "note" an unforgiven infraction
+      committed by any other player in the last 7 days, specifying the
+      incident and the rule it violates (or name of the Infraction if
+      it has one).
+}}}
+
+
+Caller's Arguments:
+
+G. got the name of the infraction wrong (its actual name is Weekly
+Tardiness). Rule 2478 seems to be ambiguous: it can be read as either
+*requiring* the name of the infraction to be specified if it has one,
+or as *offering the alternative* of naming the infraction if it has a
+name. With the former reading, G.'s action failed because it did not
+name the infraction correctly. With the latter reading, it may have
+succeeded (the rule number is correct), although there's still some
+potential doubt as to whether incorrectly naming the infraction might
+invalidate the action even though it would have succeeded with no name
+at all.
+
+(Note that this has no real impact on the current gamestate because an
+infraction can be investigated regardless of whether or not it has been
+noted; however, it affects the Referee's obligations and the contents
+of the Referee's Report, and thus has gamestate relevance in a more
+general way.)
+
+--------------------------------------------------------------------------
+
+Judge snail's Arguments:
+
+I judge CFJ 4049 TRUE.
+
+The use of "or" here seems to plainly indicate the latter reading, as the
+former reading would require stronger language like "unless" or "instead".
+This interpretation also would make noting infractions less error-prone,
+preventing unnecessary corrections published to the list. It is also
+unambiguous enough what the action to be taken was, given the presence of
+the incident specification and the rule number.
+
+==========================================================================
