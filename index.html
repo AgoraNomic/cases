@@ -82,9 +82,13 @@ function index_build(){
 }
 
 // building the page for a single cfj
-function case_build(case_text){
+function case_build(case_text,qstring){
   document.getElementById("main").innerHTML = 
-  "<pre>\n" + case_text + "\n</pre>";
+           //"<table><tr>" +
+           //"<td class=\"indx\"><a href=\"./#"+ qstring + "\">Index</a></td>" +
+           //"<td><a href=\"./?" + qstring + "\"><b>CFJ " + qstring + "</b></a></td>" +
+           //"</tr></table>" +
+           "<pre>\n" + case_text + "\n</pre>";
 }
 
 // Get query text  
@@ -94,7 +98,7 @@ const queryString = window.location.search.slice(1);
     if ((queryString)&&(queryString.match(/^[0-9]{1,4}[a-zA-Z]{0,1}$/))){
       xhr = new XMLHttpRequest();
       xhr.onload = function() {
-        if (xhr.status === 200){case_build(xhr.responseText);} 
+        if (xhr.status === 200){case_build(xhr.responseText, queryString);} 
         else{index_build();}
       }  
       xhr.open('GET', path + queryString);
